@@ -1,4 +1,4 @@
-﻿# Founders' Fortune Community Localization
+﻿# InfraSpace Community Localization
 
 This project is the official community translation for the city building game InfraSpace.
 
