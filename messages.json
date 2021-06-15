@@ -2,31 +2,37 @@
   "message_cityLevelUpTitle":  {
 		"english": "City leveled up!",
 		"german": "",
+		"french": "La ville s'est améliorée !",
 		"russian": "Город перешел на новый уровень!",
 	},
 	"message_cityLevelUpText":  {
 		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
 		"german": "",
+		"french": "Félicitations, votre ville vient d'atteindre le niveau %cityLevel%. Vous avez débloqué de nouvelles technologies à rechercher.",
 		"russian": "Поздравляем, ваш город только что достиг уровня %cityLevel%. Вы открыли новые технологии для исследования.",
 	},
 	"message_cityLevelDownTitle":  {
 		"english": "City demoted!",
 		"german": "",
+		"french": "La ville a été rétrogradée !",
 		"russian": "Уровень города понижен!",
 	},
 	"message_cityLevelDownText":  {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
 		"german": "",
+		"french": "Vous n'avez pas réussi à subvenir aux besoins de vos citoyens. Votre ville a été rétrogradée jusqu'à ce que vous puissiez renverser la situation.",
 		"russian": "Вы не смогли обеспечить своих граждан. Ваш уровень вашего города понижен, пока вы не сможете изменить ситуацию.",
 	},
 	"attention":  {
 		"english": "Attention!",
 		"german": "Achtung!",
+		"french": "Attention !",
 		"russian": "Внимание!",
 	},
 	"message_debugModeText":  {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
 		"german": "Der Debugmodus ist für den Einsatz in der Entwicklung gedacht. Wenn du den Debugmodus verwendest, könnten Bugs auftreten.",
+		"french": "Le mode débogage est destiné à être utilisé dans le cadre du développement. Si vous activez le mode débogage, vous risquez d'obtenir des bugs.",
 		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, вы можете получить баги.",
 	},
 }

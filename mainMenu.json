@@ -213,16 +213,19 @@
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
 		"german":  "Community",
+		"french": "Communauté",
 		"russian":  "Сообщество",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
 		"german":  "Das ist eine Alphaversion",
+		"french": "Ceci est une version Alpha",
 		"russian":  "Это альфа-версия",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
 		"german":  "Dieses Spiel ist noch nicht fertig. Es könnte Bugs beinhalten\n\nWir veröffentliche diese frühen Versionen an Spieler damit wir Feedback zum Gameplay erhalten und Bugs finden können lange bevor das Spiel offiziell veröffentlicht wird.",
+		"french": "Ce jeu n'est pas encore terminé. Il peut contenir des bugs.\n\nNous diffusons ces premières versions aux joueurs afin d'obtenir des retours sur le gameplay et de détecter les bugs bien avant la sortie officielle.\n\nFaites-nous savoir comment vous trouvez le jeu !",
 		"russian":  "Игра еще не закончена. Она может содержать ошибки.\n\nМы выпускаем эти ранние версии для игроков, чтобы мы могли получить отзывы об игровом процессе и найти ошибки задолго до официального выпуска.\n\nДайте нам знать об своем игровом опыте!",
 	},
 
@@ -302,6 +305,7 @@
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
 		"german": "Außenposten Theta-3",
+		"french": "Avant-poste Thêta-3",
 		"russian":  "Аванпост Тета-3",
 	},
 	"invalidFileNameCharacters": {
@@ -580,6 +584,7 @@
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
 		"german": "Exklusives Vollbild",
+		"french": "Plein écran exclusif",
 		"russian":  "Эксклюзивный полноэкранный режим",
 	},
 	"vsync": {
@@ -982,6 +987,7 @@
 	"hooray": {
 		"english": "Hooray!",
 		"german": "Hurra!",
+		"french": "Hourrah !",
 		"russian":  "Ура!",
 	},
 
@@ -1159,16 +1165,19 @@
 	"constructionKeybindings": {
 		"english": "Construction",
 		"german": "Bau",
+		"french": "Construction",
 		"russian":  "Строительство",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
 		"german": "Straße anheben",
+		"french": "Monter la route",
 		"russian":  "Подъем дорог",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
 		"german": "Straße herabsenken",
+		"french": "Abaisser la route",
 		"russian":  "Снижение дорог",
 	},
 	"timeControl": {
@@ -1289,6 +1298,7 @@
 	"screenshotMode": {
 		"english": "Screenshot Mode",
 		"german": "Bildschirmfoto-Modus",
+		"french": "Mode capture d'écran",
 		"russian":  "Режим скриншота",
 	},
 	"openScreenshotsFolder": {

@@ -27,6 +27,9 @@ If you can't make it short enough, talk to us.
 ### English
 InfraSpace is a sci-fi city builder - but every resource you produce has to go through your transport infrastructure. In order to thrive in this solar system, you'll not only have to start mining operations and manage production chains, but also make sure your road network is up to the task.
 
+### French
+InfraSpace est un jeu de construction de villes de science-fiction - mais chaque ressource que vous produisez doit passer par votre infrastructure de transport. Pour prospérer dans ce système stellaire, vous devrez ouvrir des mines et gérer des chaînes de production, mais aussi vous assurer que votre réseau routier est à la hauteur.
+
 
 ### Russian
 InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.
@@ -93,6 +96,13 @@ Out on the edges of human space, you can't build a city by spending credits. Ins
 
 Once you have some iron, carbon, sand, and sulfur, it's time to set up your first steel mill and concrete factory to start laying down some infrastructure. Even necessities like food and oxygen require a steady production chain that must not be broken!
 
+### French
+Produisez tout ce que vous consommez
+
+Aux confins de l'espace, on ne peut pas construire une ville en dépensant de l'argent. Vous devrez plutôt faire travailler vos premiers astronautes dans des mines et vous procurer des matières premières. 
+
+Une fois que vous avez du fer, du carbone, du sable et du soufre, il est temps d'installer votre première aciérie et votre première usine de béton pour commencer à mettre en place des infrastructures. Même les produits de première nécessité comme la nourriture et l'oxygène nécessitent une chaîne de production stable qui ne doit pas être interrompue !
+
 
 ### Russian
 Производите все, что потребляете
@@ -114,6 +124,13 @@ InfraSpace simulates every. single. car. Each resource you ever produce needs to
 
 Your road network can handle a lot, but without your oversight it will grind to a halt and drown in traffic eventually. Build highways, roundabouts, and multi lane roads to ensure the production heart of the city keeps beating.
 
+### French
+Infrastructures de transport
+
+InfraSpace simule chaque véhicule. Chaque ressource que vous produisez doit être transportée vers une usine pour y être transformée et chaque produit doit aller vers un habitat pour y être consommé.
+
+Votre réseau routier peut supporter beaucoup de choses, mais sans votre surveillance, il ralentira et finira par se noyer dans les embouteillages. Construisez des autoroutes, des ronds-points et des routes à voies multiples pour que le cœur de production de la ville continue de battre.
+
 
 ### Russian
 Транспортная Инфраструктура
@@ -134,6 +151,13 @@ Population Growth
 Your first colonists will be astronauts, the best and the bravest humanity has to offer. Give them food and shelter and they'll keep your outpost running no matter what.
 
 As your settlement grows, you need to cover the increasing workload by employing scientists and engineers, which require a few more creature comforts. Any city of sufficient size will sooner or later be home to more and more families as well, so make sure your schools can handle it and you are able to deliver the latest VR-edutainment products as well.
+
+### French
+Croissance de la population
+
+Vos premiers colons seront des astronautes, les meilleurs et les plus courageux que l'humanité ait à offrir. Donnez-leur de la nourriture et un abri et ils feront fonctionner votre avant-poste quoi qu'il arrive.
+
+À mesure que votre colonie s'agrandit, vous devez couvrir la charge de travail croissante en employant des scientifiques et des ingénieurs, ce qui nécessite un peu plus de confort pour les habitants. Toute ville de taille suffisante accueillera tôt ou tard de plus en plus de familles. Assurez-vous donc que vos écoles peuvent faire face à cette situation et que vous êtes en mesure de fournir les derniers produits ludique en réalité virtuelle.
 
 
 ### Russian
@@ -159,6 +183,15 @@ As humanity's conquest of space continues, it's your job to build an outpost in 
 
 You can choose to ignore the end goal and just build freely in infinite mode if that's more your style of city building!
 
+### French
+L'objectif final
+
+L'humanité a découvert la technologie permettant de créer des trous de ver artificiels afin de sauter de vastes distances dans l'espace. Malheureusement, ces trous de ver nécessitent des portails de taille énorme - une simple petite équipe d'astronautes ne peut en construire un toute seule.
+
+Alors que la conquête de l'espace par l'humanité se poursuit, il vous appartient de construire un avant-poste dans un monde lointain, capable de gérer les énormes quantités de ressources et de travail nécessaires à la construction d'un de ces portails.
+
+Vous pouvez choisir d'ignorer l'objectif final et de construire librement en mode libre, si vous préférez !
+
 
 ### Russian
 Конечная цель
@@ -179,6 +212,11 @@ You can choose to ignore the end goal and just build freely in infinite mode if 
 You don't have to play hard
 
 Traffic management can be fickle and survival can be tough. You can adjust the difficulties of both to make your city management experience as easy - or as hard - as you want it to be.
+
+### French
+Vous n'avez pas besoin d'être un expert
+
+La gestion du trafic peut être délicate et la survie peut être difficile. Vous pouvez ajuster les difficultés des deux pour que votre expérience de gestion de ville soit aussi facile - ou aussi difficile - que vous le souhaitez.
 
 
 ### Russian

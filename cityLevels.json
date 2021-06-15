@@ -2,31 +2,37 @@
 	"cityLevel1":  {
 		"english": "Outpost",
 		"german": "Außenposten",
+		"french": "Avant-poste",
 		"russian": "Аванпост",
 	},
 	"cityLevel2":  {
 		"english": "Settlement",
 		"german": "Siedlung",
+		"french": "Établissement",
 		"russian": "Поселение",
 	},
 	"cityLevel3":  {
 		"english": "Small Town",
 		"german": "Kleinstadt",
+		"french": "Petit village",
 		"russian": "Маленький город",
 	},
 	"cityLevel4":  {
 		"english": "Large Town",
 		"german": "Mittlere Stadt",
+		"french": "Grand village",
 		"russian": "Большой город",
 	},
 	"cityLevel5":  {
 		"english": "City",
 		"german": "Großstadt",
+		"french": "Ville",
 		"russian": "Город",
 	},
 	"cityLevel6":  {
 		"english": "Planetary Capital",
 		"german": "Planetare Hauptstadt",
+		"french": "Capitale planétaire",
 		"russian": "Планетарная столица",
 	},
 }

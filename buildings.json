@@ -2,36 +2,43 @@
   "sandMine": {
     "english": "Sand Mine",
 		"german": "Sandmine",
+    "french": "Mine de sable",
     "russian": "Песчаная шахта",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
 		"german": "Schwefelmine",
+    "french": "Mine de soufre",
     "russian": "Серная шахта",
   },
   "ironMine": {
     "english": "Iron Mine",
 		"german": "Eisenmine",
+    "french": "Mine de fer",
     "russian": "Железная шахта",
   },
   "copperMine": {
     "english": "Copper Mine",
 		"german": "Kupfermine",
+    "french": "Mine de cuivre",
     "russian": "Медная шахта",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
 		"german": "Aluminiummine",
+    "french": "Mine d'aluminium",
     "russian": "Алюминиевая шахта",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
 		"german": "Uranmine",
+    "french": "Mine d'uranium",
     "russian": "Урановый рудник",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
 		"german": "Iridiummine",
+    "french": "Mine d'iridium",
     "russian": "Иридиевый рудник",
   },
 
@@ -39,36 +46,43 @@
   "largeSandMine": {
     "english": "Large Sand Mine",
 		"german": "Große Sandmine",
+    "french": "Grande mine de sable",
     "russian": "Большая песчаная шахта",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
 		"german": "Große Schwefelmine",
+    "french": "Grande mine de soufre",
     "russian": "Большая серная шахта",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
 		"german": "Große Eisenmine",
+    "french": "Grande mine de fer",
     "russian": "Большая железная шахта",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
 		"german": "Große Kupfermine",
+    "french": "Grande mine de cuivre",
     "russian": "Большой медный рудник",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
 		"german": "Große Aluminiummine",
+    "french": "Grande mine d'aluminium",
     "russian": "Большая алюминиевая шахта",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
 		"german": "Große Uranmine",
+    "french": "Grande mine d'uranium",
     "russian": "Большая урановая шахта",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
 		"german": "Große Iridiummine",
+    "french": "Grande mine d'iridium",
     "russian": "Большая иридиевая шахта",
   },
 
@@ -76,41 +90,49 @@
   "electronicsFactory": {
     "english": "Electronics Factory",
 		"german": "Elektronikfabrik",
+    "french": "Usine d'électronique",
     "russian": "Завод электроники",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
 		"german": "Microchipfabrik",
+    "french": "Usine de microprocesseurs",
     "russian": "Завод микрочипов",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
 		"german": "Fabrik für Neuronalprozessoren",
+    "french": "Usine de processeurs neuronaux",
     "russian": "Завод нейронных процессоров",
   },
   "motorFactory": {
     "english": "Motor Factory",
 		"german": "Motorfabrik",
+    "french": "Usine de moteurs",
     "russian": "Моторный завод",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
 		"german": "Fabrik für Nanoröhren",
+    "french": "Usine de nanotubes",
     "russian": "Завод нанотрубок",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
 		"german": "Fabrik für Iridiumlegierung",
+    "french": "Usine d'alliages d'iridium",
     "russian": "Завод иридиевых сплавов",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
 		"german": "Fabrik für Holo-Displays",
+    "french": "Usine d'affichage holographique",
     "russian": "Завод голографических дисплеев",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
 		"german": "Fabrik für Strahlungskerne",
+    "french": "Usine de noyaux de radiation",
     "russian": "Завод радиационного сердечника",
   },
 
@@ -118,50 +140,60 @@
   "concreteFactory": {
     "english": "Concrete Factory",
 		"german": "Betonfabrik",
+    "french": "Usine de béton",
     "russian": "Бетонный завод",
   },
   "steelMill": {
     "english": "Stahlwerk",
+    "french": "Aciérie",
     "russian": "Стальная мельница",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
 		"german": "Fabrik für Hausgeräte",
+    "french": "Usine d'électroménagers",
     "russian": "Завод бытовой техники",
   },
   "computerFactory": {
     "english": "Computer Factory",
 		"german": "Computerfabrik",
+    "french": "Usine d'ordinateurs",
     "russian": "Компьютерный Завод",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
 		"german": "Heimroboterfabrik",
+    "french": "Usine de robots domestiques",
     "russian": "Завод домашних роботов",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
 		"german": "Industrieroboterfabrik",
+    "french": "Usine de robots industriels",
     "russian": "Завод промышленных роботов",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
 		"german": "High Tech Werkstatt",
+    "french": "Atelier de haute technologie",
     "russian": "Мастерская высоких технологий",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
 		"german": "Fabrik für VR-Edutainment-Brillen",
+    "french": "Usine à réalité virtuelle ludique",
     "russian": "Завод VR-обучения",
   },
   "ftlPropellantFactory": {
     "english": "FTL Propellant Factory",
 		"german": "Fabrik für FTL Treibstoff",
+    "french": "Usine à propulseurs supraluminiques",
     "russian": "Завод сверхсветового топлива",
   },
   "ftlControlUnitFactory": {
     "english": "FTL Control Unit Factory",
 		"german": "Fabrik für FTL Steuermodule",
+    "french": "Usine à modules de contrôle supraluminique",
     "russian": "Завод блоков управления сверхсветовой скоростью",
   },
 
@@ -169,26 +201,31 @@
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
 		"german": "Fabrik für blaue Wissenschaftspakete",
+    "french": "Usine de paquets scientifiques bleus",
     "russian": "Завод синих научных пакетов",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
 		"german": "Fabrik für grüne Wissenschaftspakete",
+    "french": "Usine de paquets scientifiques verts",
     "russian": "Завод зеленых научных пакетов",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
 		"german": "Fabrik für gelbe Wissenschaftspakete",
+    "french": "Usine de paquets scientifiques jaunes",
     "russian": "Завод желтых научных пакетов",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
 		"german": "Fabrik für rote Wissenschaftspakete",
+    "french": "Usine de paquets scientifiques rouges",
     "russian": "Завод красных научных пакетов",
   },
   "researchLab": {
     "english": "Research Lab",
 		"german": "Forschungslabor",
+    "french": "Laboratoire de recherche",
     "russian": "Исследовательская лаборатория",
   },
 
@@ -196,21 +233,25 @@
   "storehouse": {
     "english": "Storehouse",
 		"german": "Lagerhaus",
+    "french": "Entrepôt",
     "russian": "Склад",
   },
   "spacePort": {
     "english": "Space Port",
 		"german": "Raumhafne",
+    "french": "Port spatial",
     "russian": "Космодром",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
 		"german": "Recyclingzentrum",
+    "french": "Centre de recyclage",
     "russian": "Центр переработки",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
 		"german": "Erdanreicherungsanlage",
+    "french": "Installation d'enrichissement du sol",
     "russian": "Завод по обогащению почвы",
   },
 
@@ -218,41 +259,49 @@
   "airProcessor": {
     "english": "Atmosphere Processor",
 		"german": "Luftfilteranlage",
+    "french": "Transformateur d'atmosphère",
     "russian": "Атмосферный процессор",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
 		"german": "Sauerstofffilteranalge",
+    "french": "Transformateur d'oxygène",
     "russian": "Кислородный процессор",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
 		"german": "Kohlenstofffilteranlage",
+    "french": "Transformateur de carbone",
     "russian": "Углеродный процессор",
   },
   "basicFarm": {
     "english": "Simple Farm",
 		"german": "Einfache Farm",
+    "french": "Ferme basique",
     "russian": "Простая ферма",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
 		"german": "Düngeranalge",
+    "french": "Usine d'engrais",
     "russian": "Завод удобрений",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
 		"german": "Gemüsefarm",
+    "french": "Ferme de légumes",
     "russian": "Овощная ферма",
   },
   "meatLab": {
     "english": "Meat Lab",
 		"german": "Fleischlabor",
+    "french": "Laboratoire à viande",
     "russian": "Мясная лаборатория",
   },
   "foodFactory": {
     "english": "Meal Factory",
 		"german": "Lebensmittelfabrik",
+    "french": "Usine à repas",
     "russian": "Завод еды",
   },
 
@@ -260,31 +309,37 @@
   "habitatLevel1": {
     "english": "Basic Habitat",
 		"german": "Einfaches Habitat",
+    "french": "Habitat basique",
     "russian": "Базовая среда обитания",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
 		"german": "Solides Habitat",
+    "french": "Habitat décent",
     "russian": "Достойная среда обитания",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
 		"german": "Komfortables Habitat",
+    "french": "Habitat confortable",
     "russian": "Комфортная среда обитания",
   },
   "habitatLevel4": {
 		"english": "Residential building",
     "german": "Wohngebäude",
+    "french": "Bâtiment résidentiel",
     "russian": "Жилой дом",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
 		"german": "Wohnhochhaus",
+    "french": "Tour résidentielle",
     "russian": "Жилая высотка",
   },
 	"habitatLevel6": {
     "english": "Luxury Residential Highrise",
 		"german": "Luxus-Wohnhohchaus",
+    "french": "Tour résidentielle de luxe",
     "russian": "Элитная жилая высотка",
   },
 
@@ -292,47 +347,56 @@
   "park": {
     "english": "Park",
 		"german": "Park",
+    "french": "Parc",
     "russian": "Парк",
   },
   "arena": {
     "english": "Stadium",
 		"german": "Stadion",
+    "french": "Stade",
     "russian": "Стадион",
   },
   "school": {
     "english": "School",
 		"german": "Schule",
+    "french": "École",
     "russian": "Школа",
   },
 
 	"powerPole": {
 		"english": "Power Pole",
 		"german": "Strommast",
+    "french": "Pôle électrique",
     "russian": "Электрический столб",
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
 		"german": "Umspannwerk",
+    "french": "Sous-station électrique",
     "russian": "Электроподстанция",
 	},
 	"windTurbine": {
 		"english": "Wind Turbine",
 		"german": "Windkraftanlage",
+    "french": "Turbine éolienne",
     "russian": "Ветряная турбина",
 	},
 	"solarPowerPlant": {
 		"english": "Solar Power Plant",
 		"german": "Solarkraftwerk",
+    "french": "Centrale solaire",
     "russian": "Солнечная электростанция",
 	},
 	"nuclearPowerPlant": {
 		"english": "Nuclear Power Plant",
 		"german": "Atomkraftwerk",
+    "french": "Centrale nucléaire",
     "russian": "Атомная электростанция",
 	},
 	"fastNeutronReactor": {
 		"english": "Fast Neutron Reactor",
 		"german": "Schneller Neutronenreaktor",
+    "french": "Réacteur à neutrons rapides",
     "russian": "Реактор на быстрых нейтронах",
 	},
 }
