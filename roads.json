@@ -2,33 +2,41 @@
   "roadGravel": {
 		"english": "Gravel Road",
 		"german": "Kiesstraße",
+		"russian": "Гравийная дорога",
 	},
 	"roadConcrete": {
 		"english": "Concrete Road",
 		"german": "Betonstraße",
+		"russian": "Бетонная дорога",
 	},
 	"roadFourLane": {
 		"english": "Four Lane Road",
 		"german": "Vierspurige Straße",
+		"russian": "Четырехполосная дорога",
 	},
 	"roadSixLane": {
 		"english": "Six Lane Road",
 		"german": "Sechsspurige Straße",
+		"russian": "Шестиполосная дорога",
 	},
 	"roadOneWay": {
 		"english": "One Way Road",
 		"german": "Einbahnstraße",
+		"russian": "Дорога с односторонним движением",
 	},
 	"roadOneWayTwoLane": {
 		"english": "Two Lane One Way Road",
 		"german": "Zweispurige Einbahnstraße",
+		"russian": "Двухполосная дорога с односторонним движением",
 	},
 	"roadOneWayThreeLane": {
 		"english": "Three Lane One Way Road",
 		"german": "Dreispurige Einbahnstraße",
+		"russian": "Трехполосная дорога с односторонним движением",
 	},
 	"roadHighway": {
 		"english": "Highway",
 		"german": "Autobahn",
+		"russian": "Шоссе",
 	},
 }

@@ -213,14 +213,17 @@
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
 		"german":  "Community",
+		"russian":  "Сообщество",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
 		"german":  "Das ist eine Alphaversion",
+		"russian":  "Это альфа-версия",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
 		"german":  "Dieses Spiel ist noch nicht fertig. Es könnte Bugs beinhalten\n\nWir veröffentliche diese frühen Versionen an Spieler damit wir Feedback zum Gameplay erhalten und Bugs finden können lange bevor das Spiel offiziell veröffentlicht wird.",
+		"russian":  "Игра еще не закончена. Она может содержать ошибки.\n\nМы выпускаем эти ранние версии для игроков, чтобы мы могли получить отзывы об игровом процессе и найти ошибки задолго до официального выпуска.\n\nДайте нам знать об своем игровом опыте!",
 	},
 
   // SAVE MENU
@@ -299,6 +302,7 @@
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
 		"german": "Außenposten Theta-3",
+		"russian":  "Аванпост Тета-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -576,6 +580,7 @@
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
 		"german": "Exklusives Vollbild",
+		"russian":  "Эксклюзивный полноэкранный режим",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -977,6 +982,7 @@
 	"hooray": {
 		"english": "Hooray!",
 		"german": "Hurra!",
+		"russian":  "Ура!",
 	},
 
 
@@ -1153,14 +1159,17 @@
 	"constructionKeybindings": {
 		"english": "Construction",
 		"german": "Bau",
+		"russian":  "Строительство",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
 		"german": "Straße anheben",
+		"russian":  "Подъем дорог",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
 		"german": "Straße herabsenken",
+		"russian":  "Снижение дорог",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1280,6 +1289,7 @@
 	"screenshotMode": {
 		"english": "Screenshot Mode",
 		"german": "Bildschirmfoto-Modus",
+		"russian":  "Режим скриншота",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",

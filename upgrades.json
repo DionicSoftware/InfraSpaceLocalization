@@ -2,58 +2,72 @@
   "upgrade_improvedWindTurbineBlades":  {
 		"english": "Improved Wind Turbine Blades",
 		"german": "Verbesserte Rotorblätter",
+		"russian": "Улучшенные лопасти ветряных турбин",
 	},
 	"upgradeDesc_improvedWindTurbineBlades":  {
 		"english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
 		"german": "Angepasste Rotorblätter sorgen für weniger Verwirbelungen in der Luft. Windkraftwärke können %amount%% näher aneinander gebaut werden.",
+		"russian": "Адаптированные лопасти создают меньше помех в воздухе. Ветровые турбины можно разместить на %amount%% ближе друг к другу",
 	},
 	"upgrade_selfCleaningSolarPanels":  {
 		"english": "Self Cleaning Solar Panels",
 		"german": "Selbstreinigende Solarzellen",
+		"russian": "Самоочищающиеся солнечные панели",
 	},
 	"upgradeDesc_selfCleaningSolarPanels":  {
 		"english": "Self cleaning panels reduce your workforce requirement by %amount%%.",
 		"german": "Selbstreinigen Solarzellen reduzieren die notwendigen Arbeiter um %amount%%.",
+		"russian": "Самоочищающиеся панели сокращают потребность в рабочей силе на %amount%%.",
 	},
 	"upgrade_industrialWasteRecycling":  {
 		"english": "Industrial Waste Recycling",
 		"german": "Recycling für Industrieabfälle",
+		"russian": "Переработка промышленных отходов",
 	},
 	"upgradeDesc_industrialWasteRecycling":  {
 		"english": "Some of this building's industrial waste is recycled. Every %amount% rounds, it gets all used resources back.",
 		"german": "Ein Teil der Abfälle dieses Gebäudes werden recyclt. Alle %amount% Runden bekommt es alle verbrauchten Ressourcen zurück.",
+		"russian": "Часть промышленных отходов этого здания перерабатывается. Каждые %amount% раундов возвращаются все использованые ресурсы.",
 	},
 	"upgrade_soilEnrichment":  {
 		"english": "Soil Enrichment",
 		"german": "Erdanreicherung",
+		"russian": "Обогащение почвы",
 	},
 	"upgradeDesc_soilEnrichment":  {
 		"english": "The soil has been carefully prepared to yield %amount%% larger harvests.",
 		"german": "Die Erde wurde sorgfältig aufbereitet um %amount%% größere Ernten zu ermöglichen.",
+		"russian": "Почва была тщательно подготовлена, что позволяет получать на %amount%% больше урожая.",
 	},
 	"upgrade_industrialRobots":  {
 		"english": "Industrial Robot",
 		"german": "Industrieroboter",
+		"russian": "Промышленный робот",
 	},
 	"upgradeDesc_industrialRobots":  {
 		"english": "Automation reduces your workforce requirements by %amount% worker(s).",
 		"german": "Automatisierung ersetzt %amount% Arbeiter.",
+		"russian": "Автоматизация снижает потребность в вашей рабочей силе на %amount% рабочих.",
 	},
 	"upgrade_highTechTools":  {
 		"english": "High Tech Tools",
 		"german": "High Tech Werkzeuge",
+		"russian": "Высокотехнологичные инструменты",
 	},
 	"upgradeDesc_highTechTools":  {
 		"english": "Better tools lead to increased production by %amount%%.",
 		"german": "Bessere Werkzeuge erhöhen die Produktivität um %amount%%.",
+		"russian": "Улучшение инструментов приводит к увеличению производства на %amount%%.",
 	},
 
 	"upgradeDurabilityTooltipTitle":  {
 		"english": "Durability",
 		"german": "	Haltbarkeit",
+		"russian": "Прочность",
 	},
 	"upgradeDurabilityTooltipDesc":  {
 		"english": "A 100% upgrade is brand new, a 0% upgrade is all used up. The upgrade effect is active as long as the percentage is above 0.",
 		"german": "Ein 100% Upgrade ist brandneu, ein 0% Upgrade ist komplett verbraucht. Der Effekt des Upgrades ist aktiv solange die Haltbarkeit über 0 ist.",
+		"russian": "100% улучшение - полностью новое, в свою очередь 0% улучшение полностью израсходовано. Эффект улучшения активен до тех пор, пока процент выше 0.",
 	},
 }

@@ -2,104 +2,129 @@
   "powerNetwork":  {
 		"english": "Power Network %id%",
 		"german": "Stromnetz %id%",
+		"russian": "Электросеть %id%",
 	},
 	"powerRequired":  {
 		"english": "Required: %amount% MW",
 		"german": "Benötigt: %amount% MW",
+		"russian": "Требуется: %amount% МВт",
 	},
 	"powerConsumed":  {
 		"english": "Power consumed:",
 		"german": "Stromverbrauch:",
+		"russian": "Потребляемая энергия:",
 	},
 	"powerProduced":  {
 		"english": "Power produced:",
 		"german": "Stromproduktion:",
+		"russian": "Производимая энергия:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
 		"german": "Eigehendes Lager leer",
+		"russian": "Входящее хранилище пусто",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
 		"german": "Kein Anschluss zur Straße",
+		"russian": "Нет доступа к дороге",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
 		"german": "Ausgehendes Lager voll",
+		"russian": "Исходящее хранилище заполнено",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
 		"german": "Keine Arbeiter im Gebäude",
+		"russian": "В здании нет строителей",
 	},
 	"noPower": {
 		"english": "No power",
 		"german": "Kein Strom",
+		"russian": "Нет энергии",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
 		"german": "%amount%% Effizienz",
+		"russian": "%amount%% Эффективности",
 	},
 
 
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
 		"german":  "Deine Stadt wird zu \"%cityLevelname%\" befördert sobald du mindestens %amount% Level %nextLevel% Bürger hast.",
+		"russian": "Ваш город будет повышен до \"%cityLevelName%\", как только у вас будет хотя бы %amount% жителей %nextLevel% уровня.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
 		"german": "Du hast den höchsten Stadtlevel erreicht. Glückwunsch!",
+		"russian": "Вы достигли максимального уровня города. Поздравляем!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
 		"german": "Deine Stadt wird zurückgestuft zu \"%cityLevelName%\" sobald du weniger als %amount% Level %level% Bürger hast.",
+		"russian": "Ваш город будет понижен до \"%cityLevelName%\", если в нем будет меньше %amount% жителей %level% уровня.",
 	},
 	"researchingSomething":  {
 		"english": "Researching %techName%...    %progress%",
 		"german": "Erforsche %techName%...    %progress%",
+		"russian": "Исследование %techName%...    %progress%",
 	},
 	"selectTech":  {
 		"english": "Select technology to research",
 		"german": "Technolgie wählen",
+		"russian": "Выберите технологию для исследования",
 	},
 	"resarchUnlockedNothing":  {
 		"english": "Nothing",
 		"german": "Nichts",
+		"russian": "Ничего",
 	},
 	"resarchUnlockedAndCanBuild":  {
 		"english": "We have unlocked %techName% and can now build:",
 		"german": "Wir haben %techName% freigeschaltet und können jetzt bauen:",
+		"russian": "Вы разблокировали %techName%, теперь вам доступны строения:",
 	},
 	"resarchUnlocked":  {
 		"english": "We have unlocked %techName%.",
 		"german": "Wir haben %techName% freigeschaltet.",
+		"russian": "Вы разблокировали %techName%.",
 	},
 	"techUnlocks":  {
 		"english": "This technology unlocks:",
 		"german": "Diese Technologie schaltet frei:",
+		"russian": "Эта технология разблокирует:",
 	},
 	"techUnlocksNothing":  {
 		"english": "This technology unlocks nothing.",
 		"german": "Diese Technologie schaltet nichts frei.",
+		"russian": "Эта технология ничего не разблокирует.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
 		"german": "Forschung abgeschlossen!",
+		"russian": "Исследование завершено!",
 	},
 	"production": {
 		"english": "Production",
 		"german": "Produktion",
+		"russian": "Производство",
 	},
 	"storage": {
 		"english": "Storage",
 		"german": "Lager",
+		"russian": "Хранение",
 	},
 	"upgrades": {
 		"english": "Upgrades",
 		"german": "Upgrades",
+		"russian": "Улучшения",
 	},
 	"prioritize": {
 		"english": "Prioritize",
 		"german": "Priorisieren",
+		"russian": "Приоритеты",
 	},
 	"price": {
 		"english": "Price",
@@ -124,37 +149,46 @@
 	"habitatUpgradingIn": {
 		"english": "Habitat upgrading in %seconds%s.",
 		"german": "Wohngebäude steigt in %seconds%s auf.",
+		"russian": "Улучшение среды обитания через %seconds% сек.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
 		"german": "Wohngebäude wird in %seconds%s zurückgestuft.",
+		"russian": "Ухудшение среды обитания через %seconds% сек.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
 		"german": "Wohngebäude ist voll. Erfülle die weiteren Bedürfnisse um aufzusteigen.",
+		"russian": "Среда обитания заполнена. Выполните дополнительные требования для улучшения.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
 		"german": "Leute ziehen ein.",
+		"russian": "Люди переезжают.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
 		"german": "Leute ziehen aus.",
+		"russian": "Люди приезжают.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
 		"german": "Bedürfnisse werden nicht erfüllt.",
+		"russian": "Потребности не удовлетворены.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
 		"german": "Den Einwohnern geht es gut.",
+		"russian": "Жители в порядке.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
 		"german": "Keine Forschung ausgewählt",
+		"russian": "Исследование не выбрано",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
 		"german": "Ressourcen im Lager:",
+		"russian": "Ресурсов в хранилище:",
 	},
 }

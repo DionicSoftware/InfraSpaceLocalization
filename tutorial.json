@@ -3,69 +3,86 @@
 	"populationGoalTitle":  {
 		"english": "Reach a population of %amount% people",
 		"german": "Erreiche %amount% Einwohner",
+		"russian": "Достигните населения в %amount% человек",
 	},
 	"populationGoalText":  {
 		"english": "%current% / %required% people",
 		"german": "",
+		"russian": "%current% / %required% жителей",
 	},
 	"buildingGoalText":  {
 		"english": "Build a %buildingName%",
 		"german": "Baue ein(e) %buildingName%",
+		"russian": "Постройте %buildingName%",
 	},
 	"researchGoalText":  {
 		"english": "Research %techName%",
 		"german": "Erforsche %techName%",
+		"russian": "Исследуйте %techName%",
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
 		"german": "Baue eine Straße neben Schwefel und Eisen.",
+		"russian": "Постройте дорогу рядом с серой и железом.",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads":  {
 		"english": "You can place your buildings next to roads.",
 		"german": "Du kannst deine Gebäude neben Straßen platzieren.",
+		"russian": "Вы можете размещать свои постройки рядом с дорогами.",
 	},
 	"upgradeGoalText":  {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
 		"german": "Befriedige die Bedürfnisse deiner Wohngebäude bis sie automatisch eine Stufe aufsteigen.",
+		"russian": "Удовлетворяйте потребности своих обитателей, пока они автоматически не поднимутся на новый уровень.",
 	},
 	"tutorialFinishedTitle":  {
 		"english": "You finished the tutorial!",
 		"german": "Tutorial abgeschlossen!",
+		"russian": "Вы завершили туториал!",
 	},
 	"tutorialFinishedText":  {
 		"english": "Congrats! You're now ready to make your city great!",
 		"german": "Glückwunsch! Du bist jetzt bereit deine Stadt groß zu machen!",
+		"russian": "Поздравляем! Теперь вы готовы к тому, чтобы сделать величайший город!",
 	},
 	"tutorial_concreteProduction":  {
 		"english": "Concrete Production for Roads",
 		"german": "Betonproduktion für Straßen",
+		"russian": "Производство бетона для дорог",
 	},
 	"tutorial_roadConnections":  {
 		"english": "Road Connections",
 		"german": "Straßenverbindungen",
+		"russian": "Соединение дорог",
 	},
 	"tutorial_powerGeneration":  {
 		"english": "Power Generation",
 		"german": "Stromerzeugung",
+		"russian": "Генерация энергии",
 	},
 	"tutorial_storage":  {
 		"english": "Storing the Concrete",
 		"german": "Den Beton lagern",
+		"russian": "Хранение бетона",
 	},
 	"tutorial_lifeSupport":  {
 		"english": "Life Support",
 		"german": "Lebenserhaltung",
+		"russian": "Жизнеобеспечение",
 	},
 	"tutorial_newcomers":  {
 		"english": "Accepting Newcomers",
 		"german": "Neuankömmlinge",
+		"russian": "Прием новичков",
 	},
 	"tutorial_growingTown":  {
 		"english": "Growing the Town",
 		"german": "Die Stadt wachsen lassen",
+		"russian": "Рост города",
 	},
 	"tutorial_research":  {
 		"english": "Research",
 		"german": "Forschung",
+		"russian": "Исследование",
 	},
 }

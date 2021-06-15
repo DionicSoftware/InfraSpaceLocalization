@@ -2,161 +2,201 @@
   "resource_sand": {
 		"english": "Sand",
 		"german": "Sand",
+		"russian": "Песок",
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
 		"german": "Schwefel",
+		"russian": "Сера",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
 		"german": "Beton",
+		"russian": "Бетон",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
 		"german": "Eisenerz",
+		"russian": "Железная руда",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
 		"german": "Aluminiumerz",
+		"russian": "Алюминиевая руда",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
 		"german": "Uranerz",
+		"russian": "Урановая руда",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
 		"german": "Iridiumerz",
+		"russian": "Иридиевая руда",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
 		"german": "Kohlenstoff",
+		"russian": "Углерод",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
 		"german": "Nanoröhren",
+		"russian": "Нанотрубки",
 	},
 	"resource_steel": {
 		"english": "Steel",
 		"german": "Stahl",
+		"russian": "Сталь",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
 		"german": "Kupfererz",
+		"russian": "Медная руда",
 	},
 	"resource_motor": {
 		"english": "Motor",
 		"german": "Motor",
+		"russian": "Мотор",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
 		"german": "Hausgerät",
+		"russian": "Бытовая техника",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
 		"german": "Microchip",
+		"russian": "Микрочип",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
 		"german": "Neuronalprozessor",
+		"russian": "Нейронный процессор",
 	},
 	"resource_computer": {
 		"english": "Computer",
 		"german": "Computer",
+		"russian": "Компьютер",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
 		"german": "Heimroboter",
+		"russian": "Домашний робот",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
 		"german": "Industrieroboter",
+		"russian": "Промышленный робот",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
 		"german": "High Tech Werkzeug",
+		"russian": "Высокотехнологичный инструмент",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
 		"german": "VR-Edutainment",
+		"russian": "VR-образование",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
 		"german": "Iridiumlegierung",
+		"russian": "Иридиевый сплав",
 	},
 	"resource_ftlPropellant": {
 		"english": "FTL Propellant",
 		"german": "FTL Treibstoff",
+		"russian": "Сверхсветовое топливо",
 	},
 	"resource_ftlControlUnit": {
 		"english": "FTL Control Unit",
 		"german": "FTL Steuermodul",
+		"russian": "Блок управления сверхсветовой скоростью",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
 		"german": "Strahlungskern",
+		"russian": "Радиационное ядро",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
 		"german": "Blaues Wissenschaftspaket",
+		"russian": "Синий научный пакет",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
 		"german": "Grünes Wissenschaftspaket",
+		"russian": "Зеленый научный пакет",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
 		"german": "Gelbes Wissenschaftspaket",
+		"russian": "Желтый научный пакет",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
 		"german": "Rotes Wissenschaftspaket",
+		"russian": "Красный научный пакет",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
 		"german": "Sauerstoff",
+		"russian": "Кислород",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
 		"german": "Dünger",
+		"russian": "Удобрения",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
 		"german": "Gemüse",
+		"russian": "Овощи",
 	},
 	"resource_meat": {
 		"english": "Meat",
 		"german": "Fleisch",
+		"russian": "Мясо",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
 		"german": "Gute Mahlzeit",
+		"russian": "Хорошая еда",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
 		"german": "Einfache Mahlzeit",
+		"russian": "Уда выживальщика",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
 		"german": "Park",
+		"russian": "Парк",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
 		"german": "Kultur",
+		"russian": "Культура",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
 		"german": "Schule",
+		"russian": "Школа",
 	},
 	"resource_car": {
 		"english": "Car",
 		"german": "Auto",
+		"russian": "Машина",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
 		"german": "Bürger",
+		"russian": "Житель",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
 		"german": "Bürger",
+		"russian": "Житель",
 	},
 }
