@@ -1,0 +1,202 @@
+﻿{
+  "tech_farming": {
+    "english": "Farming",
+		"german": "Landwirtschaft",
+  },
+
+  "tech_electronics": {
+    "english": "Electronics",
+		"german": "Elektronik",
+  },
+  "tech_steelMaking": {
+    "english": "Steel Production",
+		"german": "Stahlproduktion",
+  },
+
+	
+  "tech_science2": {
+    "english": "Green Science",
+		"german": "Grüne Wissenschaft",
+  },
+  "tech_homeAppliances": {
+    "english": "Home Appliances",
+		"german": "Hausgeräte",
+  },
+  "tech_solarPanels": {
+    "english": "Solar Panels",
+		"german": "Solarzellen",
+  },
+  "tech_improvedWindTurbineBlades": {
+    "english": "Improved Wind Turbine Blades",
+		"german": "Verbesserte Rotorblätter",
+  },
+	"techDesc_improvedWindTurbineBlades": {
+		"english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
+		"german": "Passt die Rotorblätter von Windkraftanlagen an die Atmosphäre an. Dies führt zu weniger Verwirbelungen in der Luft, wodurch Windräder näher aneinander gebaut werden können.",
+	},
+  "tech_concreteRoads": {
+    "english": "Concrete Roads",
+		"german": "Betonstraßen",
+  },
+
+	
+  "tech_aluminiumMining": {
+    "english": "Aluminum Mining",
+		"german": "Aluminiumabbau",
+  },
+  "tech_powerSubstation": {
+    "english": "Power Substations",
+		"german": "Umspannwerke",
+  },
+	"techDesc_powerSubstation": {
+		"english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
+		"german": "Erweitere dein Stromnetz durch Umspannwerke, sodass du nicht mehr jedes Gebäude mit Strommästen versorgen musst.",
+	},
+  "tech_motors": {
+    "english": "Motors",
+		"german": "Motoren",
+  },
+  "tech_fourLaneRoads": {
+    "english": "Four Lane Roads",
+		"german": "Vierspurige Straßen",
+  },
+  "tech_oneWayRoads": {
+    "english": "One Way Roads",
+		"german": "Einbahnstraßen",
+  },
+	
+  "tech_parks": {
+    "english": "Large Buildings",
+		"german": "Große Gebäude",
+  },
+  "tech_computers": {
+    "english": "Computers",
+		"german": "Computer",
+  },
+  "tech_largeMines": {
+    "english": "Large Mines",
+		"german": "Große Bagger",
+  },
+	"techDesc_largeMines": {
+		"english": "Speed up resource extraction to feed the hunger of your growing city.",
+		"german": "Beschleunige den Ressourcenabbau um den Hunger deiner wachsenden Stadt zu stillen.",
+	},
+
+  "tech_foodProcessing": {
+    "english": "Food Processing",
+		"german": "Lebensmittelverarbeitung",
+  },
+  "tech_fertilizer": {
+    "english": "Fertilizer",
+		"german": "Dünger",
+  },
+	"techDesc_fertilizer": {
+		"english": "Supply fertilized soil to nearby farms and increase their output significantly.",
+		"german": "Liefere Dünger an Farmen in der Nähe und steigere ihre Produktion.",
+	},
+  "tech_nanotubes": {
+    "english": "Carbon Nanotubes",
+		"german": "Kohlenstoff-Nanoröhren",
+  },
+  "tech_selfCleaningSolarPanels": {
+    "english": "Self Cleaning Solar Panels",
+		"german": "Selbstreinigende Solarzellen",
+  },
+	"techDesc_selfCleaningSolarPanels": {
+		"english": "Once your solar panels clean themselves, your solar power plants won't require so many workers.",
+		"german": "Wenn sich die Solarzellen reinigen, werden die Solarkraftwerke der Stadt nicht so viele Arbeiter benötigen.",
+	},
+  "tech_sixLaneRoads": {
+    "english": "Six Lane Roads",
+		"german": "Sechsspurige Straßen",
+  },
+	
+  "tech_stadiums": {
+    "english": "Stadiums",
+		"german": "Stadien",
+  },
+  "tech_neuralProcessors": {
+    "english": "Neural Processors",
+		"german": "Neuronalprozessoren",
+  },
+  "tech_science3": {
+    "english": "Gelbe Wissenschaft",
+  },
+  "tech_uraniumMining": {
+    "english": "Uranium Mining",
+		"german": "Uranabbau",
+  },
+  "tech_highways": {
+    "english": "Highways",
+		"german": "Autobahnen",
+  },
+	
+  "tech_homeRobots": {
+    "english": "Home Robots",
+		"german": "Heimroboter",
+  },
+  "tech_industrialRobots": {
+    "english": "Industrial Robots",
+		"german": "Industrieroboter",
+  },
+	"techDesc_industrialRobots": {
+		"english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
+		"german": "Liefere Industrieroboter an deine Fabriken um die Anzahl der nötigen Arbeiter zu reduzieren.",
+	},
+  "tech_particleFiltering": {
+    "english": "Particle Filter",
+		"german": "Partikelfilterung",
+  },
+  "tech_nuclearPower": {
+    "english": "Nuclear Power",
+		"german": "Kernkraft",
+  },
+
+  "tech_schools": {
+    "english": "Schools",
+		"german": "Schulen",
+  },
+  "tech_iridiumMining": {
+    "english": "Iridium Mining",
+		"german": "Iridiumabbau",
+  },
+  "tech_recycling": {
+    "english": "Recycling",
+		"german": "Recycling",
+  },
+	"techDesc_recycling": {
+		"english": "Lower your resource consumption by processing industrial waste in nearby factories.",
+		"german": "Reduziere deinen Ressourcenverbrauch indem du industriellen Abfall in den benachbarten Fabriken weiterverarbeitest.",
+	},
+	
+  "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
+    "english": "Holo-Displays",
+		"german": "Holo-Displays",
+  },
+  "tech_highTechWorkshop": {
+    "english": "High Tech Workshop",
+		"german": "High Tech Werkstatt",
+  },
+	"techDesc_highTechWorkshop": {
+		"english": "Supply your factories with high tech tools in order to raise productivity.",
+		"german": "Statte deine Fabriken mit High Tech Werkzeugen aus um die Produktivität zu steigern",
+	},
+
+  "tech_ftlControlUnits": { // ftl stands for "faster than light. used in late game construction. "units" can be replaced by "modules" or "parts" if it fits better
+    "english": "FTL Control Units",
+		"german": "FTL Steuermodule",
+  },
+  "tech_ftlPropellant": {
+    "english": "FTL Propellant",
+		"german": "FTL Treibstoff",
+  },
+  "tech_fastNeutronReactor": {
+    "english": "Fast Neutron Reactor",
+		"german": "Schneller Neutronenreaktor",
+  },
+
+  "tech_science4": {
+    "english": "Red Science",
+		"german": "Rote Wissenschaft",
+  },
+}

@@ -1,0 +1,161 @@
+﻿{
+  "powerNetwork":  {
+		"english": "Power Network %id%",
+		"german": "Stromnetz %id%",
+	},
+	"powerRequired":  {
+		"english": "Required: %amount% MW",
+		"german": "Benötigt: %amount% MW",
+	},
+	"powerConsumed":  {
+		"english": "Power consumed:",
+		"german": "Stromverbrauch:",
+	},
+	"powerProduced":  {
+		"english": "Power produced:",
+		"german": "Stromproduktion:",
+	},
+	"incomingStorageEmpty": {
+		"english": "Incoming storage empty",
+		"german": "Eigehendes Lager leer",
+	},
+	"noAccessToRoad": {
+		"english": "No access to road",
+		"german": "Kein Anschluss zur Straße",
+	},
+	"outgoingStorageFull": {
+		"english": "Outgoing storage full",
+		"german": "Ausgehendes Lager voll",
+	},
+	"noWorkersInBuilding": {
+		"english": "No workers in building",
+		"german": "Keine Arbeiter im Gebäude",
+	},
+	"noPower": {
+		"english": "No power",
+		"german": "Kein Strom",
+	},
+	"amountOfEfficiency": {
+		"english": "%amount%% Efficiency",
+		"german": "%amount%% Effizienz",
+	},
+
+
+	"upgradeText": {
+		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
+		"german":  "Deine Stadt wird zu \"%cityLevelname%\" befördert sobald du mindestens %amount% Level %nextLevel% Bürger hast.",
+	},
+	"upgradeTextFinished": {
+		"english": "You have reached the highest city level. Congratulations!",
+		"german": "Du hast den höchsten Stadtlevel erreicht. Glückwunsch!",
+	},
+	"downgradeText": {
+		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
+		"german": "Deine Stadt wird zurückgestuft zu \"%cityLevelName%\" sobald du weniger als %amount% Level %level% Bürger hast.",
+	},
+	"researchingSomething":  {
+		"english": "Researching %techName%...    %progress%",
+		"german": "Erforsche %techName%...    %progress%",
+	},
+	"selectTech":  {
+		"english": "Select technology to research",
+		"german": "Technolgie wählen",
+	},
+	"resarchUnlockedNothing":  {
+		"english": "Nothing",
+		"german": "Nichts",
+	},
+	"resarchUnlockedAndCanBuild":  {
+		"english": "We have unlocked %techName% and can now build:",
+		"german": "Wir haben %techName% freigeschaltet und können jetzt bauen:",
+	},
+	"resarchUnlocked":  {
+		"english": "We have unlocked %techName%.",
+		"german": "Wir haben %techName% freigeschaltet.",
+	},
+	"techUnlocks":  {
+		"english": "This technology unlocks:",
+		"german": "Diese Technologie schaltet frei:",
+	},
+	"techUnlocksNothing":  {
+		"english": "This technology unlocks nothing.",
+		"german": "Diese Technologie schaltet nichts frei.",
+	},
+	"researchCompleted": {
+		"english": "Research completed!",
+		"german": "Forschung abgeschlossen!",
+	},
+	"production": {
+		"english": "Production",
+		"german": "Produktion",
+	},
+	"storage": {
+		"english": "Storage",
+		"german": "Lager",
+	},
+	"upgrades": {
+		"english": "Upgrades",
+		"german": "Upgrades",
+	},
+	"prioritize": {
+		"english": "Prioritize",
+		"german": "Priorisieren",
+	},
+	"price": {
+		"english": "Price",
+		"german": "Preis",
+		"french": "Prix",
+		"spanish": "Precio",
+		"portuguese": "Preço",
+		"turkish": "Fiyat",
+		"dutch": "Prijs",
+		"ukrainian":"Ціна",
+		"russian":"Цена",
+		"chinese": "价格",
+		"korean": "가격",
+		"polish": "Cena",
+		"italian": "Prezzo",
+		"romanian": "Preț",
+		"bulgarian": "Цена",
+		"czech": "Cena",
+		"japanese": "値段",
+	},
+
+	// habitat info panel
+	"habitatUpgradingIn": {
+		"english": "Habitat upgrading in %seconds%s.",
+		"german": "Wohngebäude steigt in %seconds%s auf.",
+	},
+	"habitatDowngradingIn": {
+		"english": "Habitat downgrading in %seconds%s.",
+		"german": "Wohngebäude wird in %seconds%s zurückgestuft.",
+	},
+	"habitatFullMeetNeeds": {
+		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
+		"german": "Wohngebäude ist voll. Erfülle die weiteren Bedürfnisse um aufzusteigen.",
+	},
+	"peopleAreMovingIn": {
+		"english": "People are moving in.",
+		"german": "Leute ziehen ein.",
+	},
+	"peopleAreMovingOut": {
+		"english": "People are moving out.",
+		"german": "Leute ziehen aus.",
+	},
+	"needsAreNotMet": {
+		"english": "Needs are not met.",
+		"german": "Bedürfnisse werden nicht erfüllt.",
+	},
+	"inhabitantsOk": {
+		"english": "Inhabitants are ok.",
+		"german": "Den Einwohnern geht es gut.",
+	},
+	"noResearchSelected": {
+		"english": "No research selected",
+		"german": "Keine Forschung ausgewählt",
+	},
+	"resourcesInStorage": {
+		"english": "Resources in storage:",
+		"german": "Ressourcen im Lager:",
+	},
+}

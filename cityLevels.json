@@ -1,0 +1,26 @@
+﻿{
+	"cityLevel1":  {
+		"english": "Outpost",
+		"german": "Außenposten",
+	},
+	"cityLevel2":  {
+		"english": "Settlement",
+		"german": "Siedlung",
+	},
+	"cityLevel3":  {
+		"english": "Small Town",
+		"german": "Kleinstadt",
+	},
+	"cityLevel4":  {
+		"english": "Large Town",
+		"german": "Mittlere Stadt",
+	},
+	"cityLevel5":  {
+		"english": "City",
+		"german": "Großstadt",
+	},
+	"cityLevel6":  {
+		"english": "Planetary Capital",
+		"german": "Planetare Hauptstadt",
+	},
+}

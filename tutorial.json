@@ -1,0 +1,71 @@
+﻿{
+  // goal manager
+	"populationGoalTitle":  {
+		"english": "Reach a population of %amount% people",
+		"german": "Erreiche %amount% Einwohner",
+	},
+	"populationGoalText":  {
+		"english": "%current% / %required% people",
+		"german": "",
+	},
+	"buildingGoalText":  {
+		"english": "Build a %buildingName%",
+		"german": "Baue ein(e) %buildingName%",
+	},
+	"researchGoalText":  {
+		"english": "Research %techName%",
+		"german": "Erforsche %techName%",
+	},
+	"tutorial_buildRoad":  {
+		"english": "Build a road next to sulfur and iron.",
+		"german": "Baue eine Straße neben Schwefel und Eisen.",
+	},
+	"tutorial_youCanPlaceYourBuildingsNextToRoads":  {
+		"english": "You can place your buildings next to roads.",
+		"german": "Du kannst deine Gebäude neben Straßen platzieren.",
+	},
+	"upgradeGoalText":  {
+		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
+		"german": "Befriedige die Bedürfnisse deiner Wohngebäude bis sie automatisch eine Stufe aufsteigen.",
+	},
+	"tutorialFinishedTitle":  {
+		"english": "You finished the tutorial!",
+		"german": "Tutorial abgeschlossen!",
+	},
+	"tutorialFinishedText":  {
+		"english": "Congrats! You're now ready to make your city great!",
+		"german": "Glückwunsch! Du bist jetzt bereit deine Stadt groß zu machen!",
+	},
+	"tutorial_concreteProduction":  {
+		"english": "Concrete Production for Roads",
+		"german": "Betonproduktion für Straßen",
+	},
+	"tutorial_roadConnections":  {
+		"english": "Road Connections",
+		"german": "Straßenverbindungen",
+	},
+	"tutorial_powerGeneration":  {
+		"english": "Power Generation",
+		"german": "Stromerzeugung",
+	},
+	"tutorial_storage":  {
+		"english": "Storing the Concrete",
+		"german": "Den Beton lagern",
+	},
+	"tutorial_lifeSupport":  {
+		"english": "Life Support",
+		"german": "Lebenserhaltung",
+	},
+	"tutorial_newcomers":  {
+		"english": "Accepting Newcomers",
+		"german": "Neuankömmlinge",
+	},
+	"tutorial_growingTown":  {
+		"english": "Growing the Town",
+		"german": "Die Stadt wachsen lassen",
+	},
+	"tutorial_research":  {
+		"english": "Research",
+		"german": "Forschung",
+	},
+}

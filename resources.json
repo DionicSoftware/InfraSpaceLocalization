@@ -1,0 +1,162 @@
+﻿{
+  "resource_sand": {
+		"english": "Sand",
+		"german": "Sand",
+	},
+	"resource_sulfur": {
+		"english": "Sulfur",
+		"german": "Schwefel",
+	},
+	"resource_concrete": {
+		"english": "Concrete",
+		"german": "Beton",
+	},
+	"resource_ironOre": {
+		"english": "Iron Ore",
+		"german": "Eisenerz",
+	},
+	"resource_aluminium": {
+		"english": "Aluminum Ore",
+		"german": "Aluminiumerz",
+	},
+	"resource_uranium": {
+		"english": "Uranium Ore",
+		"german": "Uranerz",
+	},
+	"resource_iridium": {
+		"english": "Iridium Ore",
+		"german": "Iridiumerz",
+	},
+	"resource_carbon": {
+		"english": "Carbon",
+		"german": "Kohlenstoff",
+	},
+	"resource_nanotubes": {
+		"english": "Nanotubes",
+		"german": "Nanoröhren",
+	},
+	"resource_steel": {
+		"english": "Steel",
+		"german": "Stahl",
+	},
+	"resource_copperOre": {
+		"english": "Copper Ore",
+		"german": "Kupfererz",
+	},
+	"resource_motor": {
+		"english": "Motor",
+		"german": "Motor",
+	},
+	"resource_homeAppliance": {
+		"english": "Home Appliance",
+		"german": "Hausgerät",
+	},
+	"resource_microchip": {
+		"english": "Microchip",
+		"german": "Microchip",
+	},
+	"resource_neuralProcessor": {
+		"english": "Neural Processor",
+		"german": "Neuronalprozessor",
+	},
+	"resource_computer": {
+		"english": "Computer",
+		"german": "Computer",
+	},
+	"resource_homeRobot": {
+		"english": "Home Robot",
+		"german": "Heimroboter",
+	},
+	"resource_industrialRobot": {
+		"english": "Industrial Robot",
+		"german": "Industrieroboter",
+	},
+	"resource_highTechTool": {
+		"english": "High Tech Tool",
+		"german": "High Tech Werkzeug",
+	},
+	"resource_vrEdutainment": {
+		"english": "VR-Edutainment",
+		"german": "VR-Edutainment",
+	},
+	"resource_iridiumAlloy": {
+		"english": "Iridium Alloy",
+		"german": "Iridiumlegierung",
+	},
+	"resource_ftlPropellant": {
+		"english": "FTL Propellant",
+		"german": "FTL Treibstoff",
+	},
+	"resource_ftlControlUnit": {
+		"english": "FTL Control Unit",
+		"german": "FTL Steuermodul",
+	},
+	"resource_radiationCore": {
+		"english": "Radiation Core",
+		"german": "Strahlungskern",
+	},
+	"resource_sciencePack1": {
+		"english": "Blue Science Pack",
+		"german": "Blaues Wissenschaftspaket",
+	},
+	"resource_sciencePack2": {
+		"english": "Green Science Pack",
+		"german": "Grünes Wissenschaftspaket",
+	},
+	"resource_sciencePack3": {
+		"english": "Yellow Science Pack",
+		"german": "Gelbes Wissenschaftspaket",
+	},
+	"resource_sciencePack4": {
+		"english": "Red Science Pack",
+		"german": "Rotes Wissenschaftspaket",
+	},
+	"resource_oxygen": {
+		"english": "Oxygen",
+		"german": "Sauerstoff",
+	},
+	"resource_fertilizer": {
+		"english": "Fertilizer",
+		"german": "Dünger",
+	},
+	"resource_vegetables": {
+		"english": "Vegetables",
+		"german": "Gemüse",
+	},
+	"resource_meat": {
+		"english": "Meat",
+		"german": "Fleisch",
+	},
+	"resource_goodFood": {
+		"english": "Good Meal",
+		"german": "Gute Mahlzeit",
+	},
+	"resource_survivalFood": {
+		"english": "Survival Food",
+		"german": "Einfache Mahlzeit",
+	},
+	"resource_parkPoints": {
+		"english": "Park",
+		"german": "Park",
+	},
+	"resource_culturePoints": {
+		"english": "Culture",
+		"german": "Kultur",
+	},
+	"resource_schoolPoints": {
+		"english": "School",
+		"german": "Schule",
+	},
+	"resource_car": {
+		"english": "Car",
+		"german": "Auto",
+	},
+	"resource_citizenMovingIn": {
+		"english": "Citizen",
+		"german": "Bürger",
+	},
+	"resource_citizenMovingOut": {
+		"english": "Citizen",
+		"german": "Bürger",
+	},
+}

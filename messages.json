@@ -1,0 +1,26 @@
+﻿{
+  "message_cityLevelUpTitle":  {
+		"english": "City leveled up!",
+		"german": "",
+	},
+	"message_cityLevelUpText":  {
+		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
+		"german": "",
+	},
+	"message_cityLevelDownTitle":  {
+		"english": "City demoted!",
+		"german": "",
+	},
+	"message_cityLevelDownText":  {
+		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
+		"german": "",
+	},
+	"attention":  {
+		"english": "Attention!",
+		"german": "Achtung!",
+	},
+	"message_debugModeText":  {
+		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
+		"german": "Der Debugmodus ist für den Einsatz in der Entwicklung gedacht. Wenn du den Debugmodus verwendest, könnten Bugs auftreten.",
+	},
+}

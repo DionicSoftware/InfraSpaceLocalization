@@ -1,0 +1,59 @@
+﻿{
+  "upgrade_improvedWindTurbineBlades":  {
+		"english": "Improved Wind Turbine Blades",
+		"german": "Verbesserte Rotorblätter",
+	},
+	"upgradeDesc_improvedWindTurbineBlades":  {
+		"english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
+		"german": "Angepasste Rotorblätter sorgen für weniger Verwirbelungen in der Luft. Windkraftwärke können %amount%% näher aneinander gebaut werden.",
+	},
+	"upgrade_selfCleaningSolarPanels":  {
+		"english": "Self Cleaning Solar Panels",
+		"german": "Selbstreinigende Solarzellen",
+	},
+	"upgradeDesc_selfCleaningSolarPanels":  {
+		"english": "Self cleaning panels reduce your workforce requirement by %amount%%.",
+		"german": "Selbstreinigen Solarzellen reduzieren die notwendigen Arbeiter um %amount%%.",
+	},
+	"upgrade_industrialWasteRecycling":  {
+		"english": "Industrial Waste Recycling",
+		"german": "Recycling für Industrieabfälle",
+	},
+	"upgradeDesc_industrialWasteRecycling":  {
+		"english": "Some of this building's industrial waste is recycled. Every %amount% rounds, it gets all used resources back.",
+		"german": "Ein Teil der Abfälle dieses Gebäudes werden recyclt. Alle %amount% Runden bekommt es alle verbrauchten Ressourcen zurück.",
+	},
+	"upgrade_soilEnrichment":  {
+		"english": "Soil Enrichment",
+		"german": "Erdanreicherung",
+	},
+	"upgradeDesc_soilEnrichment":  {
+		"english": "The soil has been carefully prepared to yield %amount%% larger harvests.",
+		"german": "Die Erde wurde sorgfältig aufbereitet um %amount%% größere Ernten zu ermöglichen.",
+	},
+	"upgrade_industrialRobots":  {
+		"english": "Industrial Robot",
+		"german": "Industrieroboter",
+	},
+	"upgradeDesc_industrialRobots":  {
+		"english": "Automation reduces your workforce requirements by %amount% worker(s).",
+		"german": "Automatisierung ersetzt %amount% Arbeiter.",
+	},
+	"upgrade_highTechTools":  {
+		"english": "High Tech Tools",
+		"german": "High Tech Werkzeuge",
+	},
+	"upgradeDesc_highTechTools":  {
+		"english": "Better tools lead to increased production by %amount%%.",
+		"german": "Bessere Werkzeuge erhöhen die Produktivität um %amount%%.",
+	},
+
+	"upgradeDurabilityTooltipTitle":  {
+		"english": "Durability",
+		"german": "	Haltbarkeit",
+	},
+	"upgradeDurabilityTooltipDesc":  {
+		"english": "A 100% upgrade is brand new, a 0% upgrade is all used up. The upgrade effect is active as long as the percentage is above 0.",
+		"german": "Ein 100% Upgrade ist brandneu, ein 0% Upgrade ist komplett verbraucht. Der Effekt des Upgrades ist aktiv solange die Haltbarkeit über 0 ist.",
+	},
+}

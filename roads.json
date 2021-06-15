@@ -1,0 +1,34 @@
+﻿{
+  "roadGravel": {
+		"english": "Gravel Road",
+		"german": "Kiesstraße",
+	},
+	"roadConcrete": {
+		"english": "Concrete Road",
+		"german": "Betonstraße",
+	},
+	"roadFourLane": {
+		"english": "Four Lane Road",
+		"german": "Vierspurige Straße",
+	},
+	"roadSixLane": {
+		"english": "Six Lane Road",
+		"german": "Sechsspurige Straße",
+	},
+	"roadOneWay": {
+		"english": "One Way Road",
+		"german": "Einbahnstraße",
+	},
+	"roadOneWayTwoLane": {
+		"english": "Two Lane One Way Road",
+		"german": "Zweispurige Einbahnstraße",
+	},
+	"roadOneWayThreeLane": {
+		"english": "Three Lane One Way Road",
+		"german": "Dreispurige Einbahnstraße",
+	},
+	"roadHighway": {
+		"english": "Highway",
+		"german": "Autobahn",
+	},
+}
