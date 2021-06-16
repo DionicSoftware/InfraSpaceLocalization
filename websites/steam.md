@@ -28,8 +28,7 @@ If you can't make it short enough, talk to us.
 InfraSpace is a sci-fi city builder - but every resource you produce has to go through your transport infrastructure. In order to thrive in this solar system, you'll not only have to start mining operations and manage production chains, but also make sure your road network is up to the task.
 
 ### French
-InfraSpace est un jeu de construction de villes de science-fiction - mais chaque ressource que vous produisez doit passer par votre infrastructure de transport. Pour prospérer dans ce système stellaire, vous devrez ouvrir des mines et gérer des chaînes de production, mais aussi vous assurer que votre réseau routier est à la hauteur.
-
+InfraSpace est un jeu de construction de villes de science-fiction - mais chaque ressource que vous produisez doit passer par vos infrastructures de transport. Pour prospérer, vous devrez ouvrir des mines et gérer vos chaînes de production, mais aussi vous occuper de votre réseau routier.
 
 ### Russian
 InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.
