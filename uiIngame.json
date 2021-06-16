@@ -149,7 +149,7 @@
 		"english": "Prioritize",
 		"german": "Priorisieren",
 		"french": "Prioriser",
-		"russian": "Приоритеты",
+		"russian": "Сделать приоритетным",
 	},
 	"price": {
 		"english": "Price",
@@ -193,13 +193,13 @@
 		"english": "People are moving in.",
 		"german": "Leute ziehen ein.",
 		"french": "Les gens emménagent.",
-		"russian": "Люди переезжают.",
+		"russian": "Жители приезжают.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
 		"german": "Leute ziehen aus.",
 		"french": "Les gens déménagent.",
-		"russian": "Люди приезжают.",
+		"russian": "Жители уезжают.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
