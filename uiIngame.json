@@ -225,4 +225,8 @@
 		"french": "Ressources entreposées :",
 		"russian": "Ресурсов в хранилище:",
 	},
+	"citizenLevel": {
+		"english": "Level %level% Citizens",
+		"german": "Stufe %level% Bürger",
+	}
 }
