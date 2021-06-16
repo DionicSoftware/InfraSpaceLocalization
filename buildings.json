@@ -144,7 +144,8 @@
     "russian": "Бетонный завод",
   },
   "steelMill": {
-    "english": "Stahlwerk",
+    "english": "Steel Mill",
+    "german": "Stahlwerk"
     "french": "Aciérie",
     "russian": "Стальная мельница",
   },
