@@ -8,7 +8,7 @@
 	},
 	"populationGoalText":  {
 		"english": "%current% / %required% people",
-		"german": "",
+		"german": "%current% / %required% Einwohner",
 		"french": "%current% / %required% habitants",
 		"russian": "%current% / %required% жителей",
 	},

@@ -91,19 +91,19 @@
 		"french": "Sélectionner la technologie à rechercher",
 		"russian": "Выберите технологию для исследования",
 	},
-	"resarchUnlockedNothing":  {
+	"researchUnlockedNothing":  {
 		"english": "Nothing",
 		"german": "Nichts",
 		"french": "Rien",
 		"russian": "Ничего",
 	},
-	"resarchUnlockedAndCanBuild":  {
+	"researchUnlockedAndCanBuild":  {
 		"english": "We have unlocked %techName% and can now build:",
 		"german": "Wir haben %techName% freigeschaltet und können jetzt bauen:",
 		"french": "Nous avons débloqué %techName% et pouvons maintenant construire :",
 		"russian": "Вы разблокировали %techName%, теперь вам доступны строения:",
 	},
-	"resarchUnlocked":  {
+	"researchUnlocked":  {
 		"english": "We have unlocked %techName%.",
 		"german": "Wir haben %techName% freigeschaltet.",
 		"french": "Nous avons débloqué %techName%.",
