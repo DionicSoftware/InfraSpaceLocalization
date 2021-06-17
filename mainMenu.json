@@ -215,18 +215,21 @@
 		"german":  "Community",
 		"french": "Communauté",
 		"russian":  "Сообщество",
+		"chinese": "社区",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
 		"german":  "Das ist eine Alphaversion",
 		"french": "Ceci est une version Alpha",
 		"russian":  "Это альфа-версия",
+		"chinese": "这是Alpha版本",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
 		"german":  "Dieses Spiel ist noch nicht fertig. Es könnte Bugs beinhalten\n\nWir veröffentliche diese frühen Versionen an Spieler damit wir Feedback zum Gameplay erhalten und Bugs finden können lange bevor das Spiel offiziell veröffentlicht wird.",
 		"french": "Ce jeu n'est pas encore terminé. Il peut contenir des bugs.\n\nNous diffusons ces premières versions aux joueurs afin d'obtenir des retours sur le gameplay et de détecter les bugs bien avant la sortie officielle.\n\nFaites-nous savoir comment vous trouvez le jeu !",
 		"russian":  "Игра еще не закончена. Она может содержать ошибки.\n\nМы выпускаем эти ранние версии для игроков, чтобы мы могли получить отзывы об игровом процессе и найти ошибки задолго до официального выпуска.\n\nДайте нам знать об своем игровом опыте!",
+		"chinese": "该游戏还没有开发完成。它可能存在漏洞。\n\n我们正向玩家发布早期版本，以便我们可以在正式发布之前的一段时间内获得对游戏玩法的反馈并发现漏洞。\n\n让我们知道你喜欢它！",
 	},
 
   // SAVE MENU
@@ -989,6 +992,7 @@
 		"german": "Hurra!",
 		"french": "Hourrah !",
 		"russian":  "Ура!",
+		"chinese": "万岁!",
 	},
 
 
@@ -1167,18 +1171,21 @@
 		"german": "Bau",
 		"french": "Construction",
 		"russian":  "Строительство",
+		"chinese": "建造",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
 		"german": "Straße anheben",
 		"french": "Monter la route",
 		"russian":  "Подъем дорог",
+		"chinese": "提升道路",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
 		"german": "Straße herabsenken",
 		"french": "Abaisser la route",
 		"russian":  "Снижение дорог",
+		"chinese": "降低道路",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1300,6 +1307,7 @@
 		"german": "Bildschirmfoto-Modus",
 		"french": "Mode capture d'écran",
 		"russian":  "Режим скриншота",
+		"chinese": "截图模式",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1557,6 +1565,7 @@
 		"japanese": "Page Upキー",
 		"portuguese": "Page Up",
 		"russian": "Page Up",
+		"chinese": "Page Up",
 	},
 	"key_PageDown":  {
 		"english": "Page Down",
@@ -1566,6 +1575,7 @@
 		"japanese": "Page Downキー",
 		"portuguese": "Page Down",
 		"russian": "Page Down",
+		"chinese": "Page Down",
 	},
 
 
