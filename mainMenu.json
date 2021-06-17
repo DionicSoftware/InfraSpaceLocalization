@@ -216,6 +216,7 @@
 		"french": "Communauté",
 		"russian":  "Сообщество",
 		"chinese": "社区",
+		"spanish": "Comunidad",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -223,6 +224,7 @@
 		"french": "Ceci est une version Alpha",
 		"russian":  "Это альфа-версия",
 		"chinese": "这是Alpha版本",
+		"spanish": "Esta es una Version Alpha",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -230,6 +232,7 @@
 		"french": "Ce jeu n'est pas encore terminé. Il peut contenir des bugs.\n\nNous diffusons ces premières versions aux joueurs afin d'obtenir des retours sur le gameplay et de détecter les bugs bien avant la sortie officielle.\n\nFaites-nous savoir comment vous trouvez le jeu !",
 		"russian":  "Игра еще не закончена. Она может содержать ошибки.\n\nМы выпускаем эти ранние версии для игроков, чтобы мы могли получить отзывы об игровом процессе и найти ошибки задолго до официального выпуска.\n\nДайте нам знать об своем игровом опыте!",
 		"chinese": "该游戏还没有开发完成。它可能存在漏洞。\n\n我们正向玩家发布早期版本，以便我们可以在正式发布之前的一段时间内获得对游戏玩法的反馈并发现漏洞。\n\n让我们知道你喜欢它！",
+		"spanish": "Este juego aún no está terminado. Puede contener bugs.\n\nEstamos lanzando estas versiones tempranas a los jugadores para conseguir reatroalimentación del juego y encontrar bugs mucho antes del lanzamiento oficial.\n\n¡Haznos saber si te gusta",
 	},
 
   // SAVE MENU
@@ -310,6 +313,7 @@
 		"german": "Außenposten Theta-3",
 		"french": "Avant-poste Thêta-3",
 		"russian":  "Аванпост Тета-3",
+		"spanish": "Puesto Avanzado Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -436,7 +440,7 @@
 		"english": "Graphics Quality",
 		"german": "Grafikqualität",
 		"french": "Qualité graphique",
-		"spanish": "Calidad gráfica",
+		"spanish": "Calidad Gráfica",
 		"turkish": "Grafik Kalitesi",
 		"portuguese": "Qualidade grafica",
 		"dutch": "Grafische kwaliteit",
@@ -531,7 +535,7 @@
 		"english": "Display Mode",
 		"german": "Anzeigemodus",
 		"french": "Mode d'affichage",
-		"spanish": "Display Mode",
+		"spanish": "Modo de Visualización",
 		"turkish": "Görüntü Modu",
 		"portuguese": "Modo de exibição",
 		"dutch": "Weergavemodus",
@@ -569,7 +573,7 @@
 		"english": "Fullscreen",
 		"german": "Vollbild",
 		"french": "Plein écran",
-		"spanish": "Pantalla completa",
+		"spanish": "Pantalla Completa",
 		"turkish": "Tam ekran",
 		"portuguese": "Ecrã completo",
 		"dutch": "Volledig Scherm",
@@ -589,6 +593,7 @@
 		"german": "Exklusives Vollbild",
 		"french": "Plein écran exclusif",
 		"russian":  "Эксклюзивный полноэкранный режим",
+		"spanish": "Pantalla Completa Exclusiva",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -707,7 +712,7 @@
 		"english": "Total Volume",
 		"german": "Gesamtlautstärke",
 		"french": "Volume global",
-		"spanish": "Volumen máximo",
+		"spanish": "Volumen Global",
 		"turkish": "Toplam Ses Düzeyi",
 		"portuguese": "Volume total",
 		"dutch": "Totaal Volume",
@@ -726,7 +731,7 @@
 		"english": "Sound Effects",
 		"german": "Soundeffekte",
 		"french": "Effets sonores",
-		"spanish": "Efectos de sonido",
+		"spanish": "Efectos de Sonido",
 		"turkish": "Ses Efektleri",
 		"portuguese": "Efeitos sonoros",
 		"dutch": "Geluids Effecten",
@@ -993,6 +998,7 @@
 		"french": "Hourrah !",
 		"russian":  "Ура!",
 		"chinese": "万岁!",
+		"spanish": "¡Hurra!",
 	},
 
 
@@ -1172,6 +1178,7 @@
 		"french": "Construction",
 		"russian":  "Строительство",
 		"chinese": "建造",
+		"spanish": "Construcción",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1179,6 +1186,7 @@
 		"french": "Monter la route",
 		"russian":  "Подъем дорог",
 		"chinese": "提升道路",
+		"spanish": "Elevar carretera",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1186,6 +1194,7 @@
 		"french": "Abaisser la route",
 		"russian":  "Снижение дорог",
 		"chinese": "降低道路",
+		"spanish": "Bajar carretera",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1308,6 +1317,7 @@
 		"french": "Mode capture d'écran",
 		"russian":  "Режим скриншота",
 		"chinese": "截图模式",
+		"spanish": "Modo captura de pantalla",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1332,7 +1342,7 @@
 		"english": "Show Frames per Second",
 		"german": "Zeige Bilder pro Sekunde",
 		"french": "Afficher FPS",
-		"spanish": "Mostras FPS",
+		"spanish": "Mostrar FPS",
 		"turkish": "FPS göster",
 		"portuguese": "Mostrar FPS",
 		"dutch": "Laat de FPS zien",
@@ -1561,6 +1571,7 @@
 		"english": "Page Up",
 		"german":  "Bild hoch",
 		"french": "Page précédente",
+		"spanish": "Repág",
 		"dutch": "Page Up",
 		"japanese": "Page Upキー",
 		"portuguese": "Page Up",
@@ -1571,6 +1582,7 @@
 		"english": "Page Down",
 		"german":  "Bild runter",
 		"french": "Page suivante",
+		"spanish": "Avpág",
 		"dutch": "Page Down",
 		"japanese": "Page Downキー",
 		"portuguese": "Page Down",

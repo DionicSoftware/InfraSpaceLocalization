@@ -5,6 +5,7 @@
     "french": "Mine de sable",
     "russian": "Песчаная шахта",
     "chinese": "沙子矿",
+    "spanish": "Mina de Arena",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -12,6 +13,7 @@
     "french": "Mine de soufre",
     "russian": "Серная шахта",
     "chinese": "硫磺矿",
+    "spanish": "Mina de Azufre",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -19,6 +21,7 @@
     "french": "Mine de fer",
     "russian": "Железная шахта",
     "chinese": "铁矿",
+    "spanish": "Mina de Hierro",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -26,6 +29,7 @@
     "french": "Mine de cuivre",
     "russian": "Медная шахта",
     "chinese": "铜矿",
+    "spanish": "Mina de Cobre",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -33,6 +37,7 @@
     "french": "Mine d'aluminium",
     "russian": "Алюминиевая шахта",
     "chinese": "铝矿",
+    "spanish": "Mina de Aluminio",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -40,6 +45,7 @@
     "french": "Mine d'uranium",
     "russian": "Урановый рудник",
     "chinese": "铀矿",
+    "spanish": "Mina de Uranio",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -47,6 +53,7 @@
     "french": "Mine d'iridium",
     "russian": "Иридиевый рудник",
     "chinese": "铱矿",
+    "spanish": "Mina de Iridio",
   },
 
 
@@ -56,6 +63,7 @@
     "french": "Grande mine de sable",
     "russian": "Большая песчаная шахта",
     "chinese": "大型沙子矿",
+    "spanish": "Gran Mina de Arena",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -63,6 +71,7 @@
     "french": "Grande mine de soufre",
     "russian": "Большая серная шахта",
     "chinese": "大型硫磺矿",
+    "spanish": "Gran Mina de Azufre",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -70,6 +79,7 @@
     "french": "Grande mine de fer",
     "russian": "Большая железная шахта",
     "chinese": "大型铁矿",
+    "spanish": "Gran Mina de Hierro",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -77,6 +87,7 @@
     "french": "Grande mine de cuivre",
     "russian": "Большой медный рудник",
     "chinese": "大型铜矿",
+    "spanish": "Gran Mina de Hierro",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -84,6 +95,7 @@
     "french": "Grande mine d'aluminium",
     "russian": "Большая алюминиевая шахта",
     "chinese": "大型铝矿",
+    "spanish": "Gran Mina de Aluminio",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -91,6 +103,7 @@
     "french": "Grande mine d'uranium",
     "russian": "Большая урановая шахта",
     "chinese": "大型铀矿",
+    "spanish": "Gran Mina de Uranio",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -98,15 +111,17 @@
     "french": "Grande mine d'iridium",
     "russian": "Большая иридиевая шахта",
     "chinese": "大型铱矿",
+    "spanish": "Gran Mina de Iridio",
   },
 
 
   "electronicsFactory": {
     "english": "Electronics Factory",
 		"german": "Elektronikfabrik",
-    "french": "Usine d'électronique",
+    "french": "Usine de modules électroniques",
     "russian": "Завод электроники",
     "chinese": "电子厂",
+    "spanish": "Fábrica de Electrónicos",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -114,6 +129,7 @@
     "french": "Usine de microprocesseurs",
     "russian": "Завод микрочипов",
     "chinese": "微芯片厂",
+    "spanish": "Fábrica de Microchips",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -121,6 +137,7 @@
     "french": "Usine de processeurs neuronaux",
     "russian": "Завод нейронных процессоров",
     "chinese": "神经处理器厂",
+    "spanish": "Fábrica de Procesadores Neuronales",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -128,6 +145,7 @@
     "french": "Usine de moteurs",
     "russian": "Моторный завод",
     "chinese": "发动机厂",
+    "spanish": "Fábrica de Motores",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -135,6 +153,7 @@
     "french": "Usine de nanotubes",
     "russian": "Завод нанотрубок",
     "chinese": "纳米管厂",
+    "spanish": "Fábrica de Nanotubos",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -142,6 +161,7 @@
     "french": "Usine d'alliages d'iridium",
     "russian": "Завод иридиевых сплавов",
     "chinese": "铱合金厂",
+    "spanish": "Fábrica de Aleaciones de Iridio",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -149,6 +169,7 @@
     "french": "Usine d'affichage holographique",
     "russian": "Завод голографических дисплеев",
     "chinese": "全息显示屏厂",
+    "spanish": "Fábrica de Holo-Pantallas",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -156,6 +177,7 @@
     "french": "Usine de noyaux de radiation",
     "russian": "Завод радиационного сердечника",
     "chinese": "辐射核心厂",
+    "spanish": "Fábrica de Núcleos de Radiación",
   },
 
 
@@ -165,6 +187,7 @@
     "french": "Usine de béton",
     "russian": "Бетонный завод",
     "chinese": "混凝土厂",
+    "spanish": "Fábrica de Concreto",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -172,6 +195,7 @@
     "french": "Aciérie",
     "russian": "Стальная мельница",
     "chinese": "钢材厂",
+    "spanish": "Molino de Acero",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -179,6 +203,7 @@
     "french": "Usine d'électroménagers",
     "russian": "Завод бытовой техники",
     "chinese": "家电厂",
+    "spanish": "Fábrica de Electrodomésticos",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -186,6 +211,7 @@
     "french": "Usine d'ordinateurs",
     "russian": "Компьютерный Завод",
     "chinese": "计算机厂",
+    "spanish": "Fábrica de Computadoras",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -193,6 +219,7 @@
     "french": "Usine de robots domestiques",
     "russian": "Завод домашних роботов",
     "chinese": "家用机器人厂",
+    "spanish": "Fábrica de Robots Domésticos",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -200,6 +227,7 @@
     "french": "Usine de robots industriels",
     "russian": "Завод промышленных роботов",
     "chinese": "工业机器人厂",
+    "spanish": "Fábrica de Robots Industriales",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -207,6 +235,7 @@
     "french": "Atelier de haute technologie",
     "russian": "Мастерская высоких технологий",
     "chinese": "高级科技工作坊",
+    "spanish": "Taller de Alta Tecnología",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -214,6 +243,7 @@
     "french": "Usine à réalité virtuelle ludique",
     "russian": "Завод VR-обучения",
     "chinese": "VR娱乐设备厂",
+    "spanish": "Fábrica de Entretenimiento Educativo VR",
   },
   "ftlPropellantFactory": {
     "english": "FTL Propellant Factory",
@@ -221,6 +251,7 @@
     "french": "Usine à propulseurs supraluminiques",
     "russian": "Завод сверхсветового топлива",
     "chinese": "FTL推进剂厂",
+    "spanish": "Fábrica de Propulsores FTL",
   },
   "ftlControlUnitFactory": {
     "english": "FTL Control Unit Factory",
@@ -228,6 +259,7 @@
     "french": "Usine à modules de contrôle supraluminique",
     "russian": "Завод блоков управления сверхсветовой скоростью",
     "chinese": "FTL控制单元厂",
+    "spanish": "Fábrica de Unidades de Control FTL",
   },
 
 
@@ -237,6 +269,7 @@
     "french": "Usine de paquets scientifiques bleus",
     "russian": "Завод синих научных пакетов",
     "chinese": "蓝色科技包厂",
+    "spanish": "Fábrica de Paquetes Científicos Azules",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -244,6 +277,7 @@
     "french": "Usine de paquets scientifiques verts",
     "russian": "Завод зеленых научных пакетов",
     "chinese": "绿色科技包厂",
+    "spanish": "Fábrica de Paquetes Científicos Verdes",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -251,6 +285,7 @@
     "french": "Usine de paquets scientifiques jaunes",
     "russian": "Завод желтых научных пакетов",
     "chinese": "黄色科技包厂",
+    "spanish": "Fábrica de Paquetes Científicos Amarillos",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -258,6 +293,7 @@
     "french": "Usine de paquets scientifiques rouges",
     "russian": "Завод красных научных пакетов",
     "chinese": "红色科技包厂",
+    "spanish": "Fábrica de Paquetes Científicos Rojos",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -265,6 +301,7 @@
     "french": "Laboratoire de recherche",
     "russian": "Исследовательская лаборатория",
     "chinese": "研究实验室",
+    "spanish": "Laboratorio de Investigación",
   },
 
 
@@ -274,6 +311,7 @@
     "french": "Entrepôt",
     "russian": "Склад",
     "chinese": "仓库",
+    "spanish": "Depósito",
   },
   "spacePort": {
     "english": "Space Port",
@@ -281,6 +319,7 @@
     "french": "Port spatial",
     "russian": "Космодром",
     "chinese": "航天港",
+    "spanish": "Puerto Espacial",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -288,6 +327,7 @@
     "french": "Centre de recyclage",
     "russian": "Центр переработки",
     "chinese": "回收中心",
+    "spanish": "Centro de Reciclaje",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -295,6 +335,7 @@
     "french": "Installation d'enrichissement du sol",
     "russian": "Завод по обогащению почвы",
     "chinese": "土壤富集设施",
+    "spanish": "Instalación de Enriquecimiento de Suelos",
   },
 
 
@@ -304,6 +345,7 @@
     "french": "Transformateur d'atmosphère",
     "russian": "Атмосферный процессор",
     "chinese": "空气处理器",
+    "spanish": "Procesador Atmosférico",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -311,6 +353,7 @@
     "french": "Transformateur d'oxygène",
     "russian": "Кислородный процессор",
     "chinese": "氧气处理器",
+    "spanish": "Procesador de Oxígeno",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -318,6 +361,7 @@
     "french": "Transformateur de carbone",
     "russian": "Углеродный процессор",
     "chinese": "碳素处理器",
+    "spanish": "Procesador de Carbono",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -325,6 +369,7 @@
     "french": "Ferme basique",
     "russian": "Простая ферма",
     "chinese": "简易农场",
+    "spanish": "Granja Básica",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -332,6 +377,7 @@
     "french": "Usine d'engrais",
     "russian": "Завод удобрений",
     "chinese": "化肥厂",
+    "spanish": "Fábrica de Fertilizante",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -339,6 +385,7 @@
     "french": "Ferme de légumes",
     "russian": "Овощная ферма",
     "chinese": "蔬菜农场",
+    "spanish": "Granja de Vegetales",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -346,6 +393,7 @@
     "french": "Laboratoire à viande",
     "russian": "Мясная лаборатория",
     "chinese": "肉类实验室",
+    "spanish": "Laboratorio de Carne",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -353,6 +401,7 @@
     "french": "Usine à repas",
     "russian": "Завод еды",
     "chinese": "食品厂",
+    "spanish": "Fábrica de Comida",
   },
 
 
@@ -362,6 +411,7 @@
     "french": "Habitat basique",
     "russian": "Базовая среда обитания",
     "chinese": "基本居住点",
+    "spanish": "Hábitat Básico",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -369,6 +419,7 @@
     "french": "Habitat décent",
     "russian": "Достойная среда обитания",
     "chinese": "温饱居住点",
+    "spanish": "Hábitat Decente",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -376,6 +427,7 @@
     "french": "Habitat confortable",
     "russian": "Комфортная среда обитания",
     "chinese": "良好居住点",
+    "spanish": "Hábitat Cómodo",
   },
   "habitatLevel4": {
 		"english": "Residential building",
@@ -383,6 +435,7 @@
     "french": "Bâtiment résidentiel",
     "russian": "Жилой дом",
     "chinese": "住宅",
+    "spanish": "Edificio Residencial",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -390,6 +443,7 @@
     "french": "Tour résidentielle",
     "russian": "Жилая высотка",
     "chinese": "高层住宅",
+    "spanish": "Torre Residencial",
   },
 	"habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -397,6 +451,7 @@
     "french": "Tour résidentielle de luxe",
     "russian": "Элитная жилая высотка",
     "chinese": "豪华高层住宅",
+    "spanish": "Torre Residencial de Lujo",
   },
 
 
@@ -406,6 +461,7 @@
     "french": "Parc",
     "russian": "Парк",
     "chinese": "公园",
+    "spanish": "Parque",
   },
   "arena": {
     "english": "Stadium",
@@ -413,6 +469,7 @@
     "french": "Stade",
     "russian": "Стадион",
     "chinese": "体育馆",
+    "spanish": "Estadio",
   },
   "school": {
     "english": "School",
@@ -420,6 +477,7 @@
     "french": "École",
     "russian": "Школа",
     "chinese": "学校",
+    "spanish": "Escuela",
   },
 
 	"powerPole": {
@@ -428,6 +486,7 @@
     "french": "Pôle électrique",
     "russian": "Электрический столб",
     "chinese": "电杆",
+    "spanish": "Poste de Energía",
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
@@ -435,6 +494,7 @@
     "french": "Sous-station électrique",
     "russian": "Электроподстанция",
     "chinese": "变电站",
+    "spanish": "Subestación de Energía",
 	},
 	"windTurbine": {
 		"english": "Wind Turbine",
@@ -442,6 +502,7 @@
     "french": "Turbine éolienne",
     "russian": "Ветряная турбина",
     "chinese": "风力涡轮机",
+    "spanish": "Turbina Eólica",
 	},
 	"solarPowerPlant": {
 		"english": "Solar Power Plant",
@@ -449,6 +510,7 @@
     "french": "Centrale solaire",
     "russian": "Солнечная электростанция",
     "chinese": "太阳能发电机",
+    "spanish": "Planta de Energía Solar",
 	},
 	"nuclearPowerPlant": {
 		"english": "Nuclear Power Plant",
@@ -456,6 +518,7 @@
     "french": "Centrale nucléaire",
     "russian": "Атомная электростанция",
     "chinese": "核电站",
+    "spanish": "Planta de Energía Nuclear",
 	},
 	"fastNeutronReactor": {
 		"english": "Fast Neutron Reactor",
@@ -463,5 +526,6 @@
     "french": "Réacteur à neutrons rapides",
     "russian": "Реактор на быстрых нейтронах",
     "chinese": "快中子反应堆",
+    "spanish": "Reactor de Neutrones Rápidos",
 	},
 }

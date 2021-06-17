@@ -258,6 +258,7 @@
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
 		"german": "Stufe %level% Bürger",
+		"french": "Citoyens niveau %level%",
 		"russian": "Жители %level% уровня",
 		"chinese": "%level%级市民",
 	}
