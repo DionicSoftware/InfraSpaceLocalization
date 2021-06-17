@@ -90,7 +90,7 @@
   "electronicsFactory": {
     "english": "Electronics Factory",
 		"german": "Elektronikfabrik",
-    "french": "Usine d'électronique",
+    "french": "Usine de modules électroniques",
     "russian": "Завод электроники",
   },
   "microchipFactory": {

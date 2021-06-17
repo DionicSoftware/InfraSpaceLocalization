@@ -74,6 +74,7 @@
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
 		"german": "Elektronikmodule",
+		"french": "Modules électroniques",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
