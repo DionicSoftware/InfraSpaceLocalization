@@ -73,7 +73,7 @@
 
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
-		"german":  "Deine Stadt wird zu \"%cityLevelname%\" befördert sobald du mindestens %amount% Level %nextLevel% Bürger hast.",
+		"german":  "Deine Stadt wird zu \"%cityLevelName%\" befördert sobald du mindestens %amount% Level %nextLevel% Bürger hast.",
 		"french": "Votre ville sera promue en %cityLevelName% dès que vous aurez au moins %amount% citoyens niveau %nextLevel%.",
 		"russian": "Ваш город будет повышен до \"%cityLevelName%\", как только у вас будет хотя бы %amount% жителей %nextLevel% уровня.",
 		"chinese": "一旦你拥有至少%amount%名%nextLevel%级的市民后，城镇就会升级到 \"%cityLevelName%\"。",
