@@ -4,6 +4,7 @@
 		"german": "Kiesstraße",
 		"french": "Route de gravier",
 		"russian": "Гравийная дорога",
+	  	"spanish": "Carretera de Grava",
 		"chinese": "碎石路",
 	},
 	"roadConcrete": {
@@ -11,6 +12,7 @@
 		"german": "Betonstraße",
 		"french": "Route en béton",
 		"russian": "Бетонная дорога",
+		"spanish": "Carretera de Concreto",
 		"chinese": "混凝土路",
 	},
 	"roadFourLane": {
@@ -18,6 +20,7 @@
 		"german": "Vierspurige Straße",
 		"french": "Route à quatre voies",
 		"russian": "Четырехполосная дорога",
+		"spanish": "Carretera de Cuatro Carriles",
 		"chinese": "四车道",
 	},
 	"roadSixLane": {
@@ -25,6 +28,7 @@
 		"german": "Sechsspurige Straße",
 		"french": "Route à six voies",
 		"russian": "Шестиполосная дорога",
+		"spanish": "Carretera de Seis Carriles",
 		"chinese": "六车道",
 	},
 	"roadOneWay": {
@@ -32,6 +36,7 @@
 		"german": "Einbahnstraße",
 		"french": "Route à sens unique",
 		"russian": "Дорога с односторонним движением",
+		"spanish": "Carretera de Una Vía",
 		"chinese": "单行道",
 	},
 	"roadOneWayTwoLane": {
@@ -39,6 +44,7 @@
 		"german": "Zweispurige Einbahnstraße",
 		"french": "Route à deux voies à sens unique",
 		"russian": "Двухполосная дорога с односторонним движением",
+		"spanish": "Carretera Unidireccional de Dos Carriles",
 		"chinese": "双车道单行道",
 	},
 	"roadOneWayThreeLane": {
@@ -46,6 +52,7 @@
 		"german": "Dreispurige Einbahnstraße",
 		"french": "Route à trois voies à sens unique",
 		"russian": "Трехполосная дорога с односторонним движением",
+		"spanish": "Carretera Unidireccional de Tres Carriles",
 		"chinese": "三车道单行道",
 	},
 	"roadHighway": {
@@ -53,6 +60,7 @@
 		"german": "Autobahn",
 		"french": "Autoroute",
 		"russian": "Шоссе",
+		"spanish": "Autopista",
 		"chinese": "高速公路",
 	},
 }
