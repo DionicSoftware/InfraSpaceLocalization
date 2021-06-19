@@ -2,7 +2,7 @@
 
 This project is the official community translation for the city building game InfraSpace.
 
-Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translating-founders-fortune/89) for info on the project and its license.
+Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translating-infraspace/1630) for info on the project and its license.
 
 ## Installation instruction
 
