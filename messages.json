@@ -51,6 +51,6 @@
 		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, вы можете получить баги.",
 		"spanish": "El modo debug está destinado a ser utilizado en el desarrollo. Si habilitas el modo debug, puedes experimentar bugs.",
 		"chinese": "调试模式旨在用于开发。如果你启用调试模式，可能会遇到错误。",
-		"italian"; "La modalità di debug deve essere utilizzata durante lo sviluppo. Se abiliti la modalità debug, potresti avere dei bug.",
+		"italian": "La modalità di debug deve essere utilizzata durante lo sviluppo. Se abiliti la modalità debug, potresti avere dei bug.",
 	},
 }
