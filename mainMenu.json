@@ -72,7 +72,7 @@
 		"arabic": "ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ",
 		"korean": "메인 메뉴",
 		"polish": "Główne menu",
-		"italian": "Menu principale",
+		"italian": "Menù principale",
 		"czech": "Hlavní menu",
 		"romanian": "Meniul principal",
 		"japanese": "メインメニュー",
@@ -217,6 +217,7 @@
 		"russian":  "Сообщество",
 		"chinese": "社区",
 		"spanish": "Comunidad",
+		"italian"; "Community",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -225,6 +226,7 @@
 		"russian":  "Это альфа-версия",
 		"chinese": "这是Alpha版本",
 		"spanish": "Esta es una Version Alpha",
+		"italian": "Questa è una versione Alpha",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -233,6 +235,7 @@
 		"russian":  "Игра еще не закончена. Она может содержать ошибки.\n\nМы выпускаем эти ранние версии для игроков, чтобы мы могли получить отзывы об игровом процессе и найти ошибки задолго до официального выпуска.\n\nДайте нам знать об своем игровом опыте!",
 		"chinese": "该游戏还没有开发完成。它可能存在漏洞。\n\n我们正向玩家发布早期版本，以便我们可以在正式发布之前的一段时间内获得对游戏玩法的反馈并发现漏洞。\n\n让我们知道你喜欢它！",
 		"spanish": "Este juego aún no está terminado. Puede contener bugs.\n\nEstamos lanzando estas versiones tempranas a los jugadores para conseguir reatroalimentación del juego y encontrar bugs mucho antes del lanzamiento oficial.\n\n¡Haznos saber si te gusta",
+		"italian": "Questo gioco non è ancora finito. Può contenere dei bugs. \n\nStiamo rilasciando queste versioni preliminari ai giocatori così che possiamo avere del feedback sul gameplay e trovare bugs prima della versione definitiva.\n\Fateci sapere se vi piace!",
 	},
 
   // SAVE MENU
@@ -314,6 +317,7 @@
 		"french": "Avant-poste Thêta-3",
 		"russian":  "Аванпост Тета-3",
 		"spanish": "Puesto Avanzado Theta-3",
+		"italian": "Avamposto Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -430,7 +434,7 @@
 		"chinese": "图像",
 		"arabic": "ﻮﻳﺪﻴﻓ",
 		"korean": "화면",
-		"italian": "Video",
+		"italian": "Grafica",
 		"polish": "Ustawienia grafiki",
 		"czech": "Video",
 		"romanian": "Video",
@@ -563,7 +567,7 @@
 		"chinese": "窗口",
 		"arabic": "ﺓﺬﻓﺎﻧ",
 		"korean": "창 모드",
-		"italian": "Finestra",
+		"italian": "In Finestra",
 		"polish": "W oknie",
 		"czech": "V okně",
 		"romanian": "În fereastră",
@@ -594,6 +598,7 @@
 		"french": "Plein écran exclusif",
 		"russian":  "Эксклюзивный полноэкранный режим",
 		"spanish": "Pantalla Completa Exclusiva",
+		"italian": "Schermo Intero Esclusivo",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -815,7 +820,7 @@
 		"chinese": "语言",
 		"arabic": "ﺔﻐﻠﻟﺍ",
 		"korean": "언어",
-		"italian": "Lingua",
+		"italian": "Linguaggio",
 		"polish": "Język",
 		"czech": "Jazyk",
 		"romanian": "Limbă",
@@ -999,6 +1004,7 @@
 		"russian":  "Ура!",
 		"chinese": "万岁!",
 		"spanish": "¡Hurra!",
+		"italian": "Evviva!",
 	},
 
 
@@ -1179,6 +1185,7 @@
 		"russian":  "Строительство",
 		"chinese": "建造",
 		"spanish": "Construcción",
+		"italian": "Costruzione",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1187,6 +1194,7 @@
 		"russian":  "Подъем дорог",
 		"chinese": "提升道路",
 		"spanish": "Elevar carretera",
+		"italian": "Eleva la Strada",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1195,6 +1203,7 @@
 		"russian":  "Снижение дорог",
 		"chinese": "降低道路",
 		"spanish": "Bajar carretera",
+		"italian"; "Abbassa la Strada",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1318,6 +1327,7 @@
 		"russian":  "Режим скриншота",
 		"chinese": "截图模式",
 		"spanish": "Modo captura de pantalla",
+		"italian": "Modalità di Screenshot",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1577,6 +1587,7 @@
 		"portuguese": "Page Up",
 		"russian": "Page Up",
 		"chinese": "Page Up",
+		"italian": "Pagina Sù",
 	},
 	"key_PageDown":  {
 		"english": "Page Down",
@@ -1588,6 +1599,7 @@
 		"portuguese": "Page Down",
 		"russian": "Page Down",
 		"chinese": "Page Down",
+		"italian": "Pagina Giù",
 	},
 
 
