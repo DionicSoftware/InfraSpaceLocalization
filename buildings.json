@@ -136,6 +136,7 @@
     "russian": "Завод электроники",
     "chinese": "电子厂",
     "spanish": "Fábrica de Electrónicos",
+    "italian": "Fabbrica di Componenti Elettronici",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -144,6 +145,7 @@
     "russian": "Завод микрочипов",
     "chinese": "微芯片厂",
     "spanish": "Fábrica de Microchips",
+    "italian": "Fabbrica di Microhips",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -152,6 +154,7 @@
     "russian": "Завод нейронных процессоров",
     "chinese": "神经处理器厂",
     "spanish": "Fábrica de Procesadores Neuronales",
+    "italian": "Fabbrica di Processori Neurali",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -160,6 +163,7 @@
     "russian": "Моторный завод",
     "chinese": "发动机厂",
     "spanish": "Fábrica de Motores",
+    "italian": "Fabbrica di Motori",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -168,6 +172,7 @@
     "russian": "Завод нанотрубок",
     "chinese": "纳米管厂",
     "spanish": "Fábrica de Nanotubos",
+    "italian": "Fabbrica di Nanotubi",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -176,6 +181,7 @@
     "russian": "Завод иридиевых сплавов",
     "chinese": "铱合金厂",
     "spanish": "Fábrica de Aleaciones de Iridio",
+    "italian": "Fabbrica di Lega di Iridio",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -184,6 +190,7 @@
     "russian": "Завод голографических дисплеев",
     "chinese": "全息显示屏厂",
     "spanish": "Fábrica de Holo-Pantallas",
+    "italian": "Fabbrica di Holo-Schermi",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -192,6 +199,7 @@
     "russian": "Завод радиационного сердечника",
     "chinese": "辐射核心厂",
     "spanish": "Fábrica de Núcleos de Radiación",
+    "italian": "Fabbrica di Nuclei di Radiazione",
   },
 
 
@@ -202,6 +210,7 @@
     "russian": "Бетонный завод",
     "chinese": "混凝土厂",
     "spanish": "Fábrica de Concreto",
+    "italian": "Fabbrica di Cemento",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -210,6 +219,7 @@
     "russian": "Стальная мельница",
     "chinese": "钢材厂",
     "spanish": "Molino de Acero",
+    "italian": "Acciaieria",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -218,6 +228,7 @@
     "russian": "Завод бытовой техники",
     "chinese": "家电厂",
     "spanish": "Fábrica de Electrodomésticos",
+    "italian": "Fabbrica di Elettrodomestici",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -226,6 +237,7 @@
     "russian": "Компьютерный Завод",
     "chinese": "计算机厂",
     "spanish": "Fábrica de Computadoras",
+    "italian": "Fabbrica di Computer",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -234,6 +246,7 @@
     "russian": "Завод домашних роботов",
     "chinese": "家用机器人厂",
     "spanish": "Fábrica de Robots Domésticos",
+    "italian": "Fabbrica di Robot Domestici",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -242,6 +255,7 @@
     "russian": "Завод промышленных роботов",
     "chinese": "工业机器人厂",
     "spanish": "Fábrica de Robots Industriales",
+    "italian": "Fabbrica di Robot Industriali",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -250,6 +264,7 @@
     "russian": "Мастерская высоких технологий",
     "chinese": "高级科技工作坊",
     "spanish": "Taller de Alta Tecnología",
+    "italian": "Laboratorio di Alta Tecnologia",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -258,6 +273,7 @@
     "russian": "Завод VR-обучения",
     "chinese": "VR娱乐设备厂",
     "spanish": "Fábrica de Entretenimiento Educativo VR",
+    "italian": "Fabbrica di Intrattenimento Edicativo VR",
   },
   "ftlPropellantFactory": {
     "english": "FTL Propellant Factory",
@@ -266,6 +282,7 @@
     "russian": "Завод сверхсветового топлива",
     "chinese": "FTL推进剂厂",
     "spanish": "Fábrica de Propulsores FTL",
+    "italian": "Fabbrica di Carburante FTL",
   },
   "ftlControlUnitFactory": {
     "english": "FTL Control Unit Factory",
@@ -274,6 +291,7 @@
     "russian": "Завод блоков управления сверхсветовой скоростью",
     "chinese": "FTL控制单元厂",
     "spanish": "Fábrica de Unidades de Control FTL",
+    "italian": "Fabbrica di Unità di Controllo FTL",
   },
 
 
@@ -284,6 +302,7 @@
     "russian": "Завод синих научных пакетов",
     "chinese": "蓝色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Azules",
+    "italian": "Fabbrica di Moduli Scientifici Blu",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -292,6 +311,7 @@
     "russian": "Завод зеленых научных пакетов",
     "chinese": "绿色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Verdes",
+    "italian": "Fabbrica di Moduli Scientifici Verdi",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -300,6 +320,7 @@
     "russian": "Завод желтых научных пакетов",
     "chinese": "黄色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Amarillos",
+    "italian": "Fabbrica di Moduli Scientifici Gialli",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -308,6 +329,7 @@
     "russian": "Завод красных научных пакетов",
     "chinese": "红色科技包厂",
     "spanish": "Fábrica de Paquetes Científicos Rojos",
+    "italian": "Fabbrica di Moduli Scientifici Rossi",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -316,6 +338,7 @@
     "russian": "Исследовательская лаборатория",
     "chinese": "研究实验室",
     "spanish": "Laboratorio de Investigación",
+    "italian": "Laboratorio di Ricerca",
   },
 
 
@@ -326,6 +349,7 @@
     "russian": "Склад",
     "chinese": "仓库",
     "spanish": "Depósito",
+    "italian": "Deposito",
   },
   "spacePort": {
     "english": "Space Port",
@@ -334,6 +358,7 @@
     "russian": "Космодром",
     "chinese": "航天港",
     "spanish": "Puerto Espacial",
+    "italian": "Spazioporto",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -342,6 +367,7 @@
     "russian": "Центр переработки",
     "chinese": "回收中心",
     "spanish": "Centro de Reciclaje",
+    "italian": "Centro di Riciclaggio",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -350,6 +376,7 @@
     "russian": "Завод по обогащению почвы",
     "chinese": "土壤富集设施",
     "spanish": "Instalación de Enriquecimiento de Suelos",
+    "italian": "Stazione di Arricchimento del Suolo",
   },
 
 
@@ -360,6 +387,7 @@
     "russian": "Атмосферный процессор",
     "chinese": "空气处理器",
     "spanish": "Procesador Atmosférico",
+    "italian": "Trasformatore Atmosferico",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -368,6 +396,7 @@
     "russian": "Кислородный процессор",
     "chinese": "氧气处理器",
     "spanish": "Procesador de Oxígeno",
+    "italian": "Trasformatore d'Ossigeno",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -376,6 +405,7 @@
     "russian": "Углеродный процессор",
     "chinese": "碳素处理器",
     "spanish": "Procesador de Carbono",
+    "italian": "Trasformatore di Carbonio",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -384,6 +414,7 @@
     "russian": "Простая ферма",
     "chinese": "简易农场",
     "spanish": "Granja Básica",
+    "italian": "Fattoria Semplice",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -392,6 +423,7 @@
     "russian": "Завод удобрений",
     "chinese": "化肥厂",
     "spanish": "Fábrica de Fertilizante",
+    "italian": "Fabbrica di Fertilizzante",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -400,6 +432,7 @@
     "russian": "Овощная ферма",
     "chinese": "蔬菜农场",
     "spanish": "Granja de Vegetales",
+    "italian": "Fattoria di Verdure",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -408,6 +441,7 @@
     "russian": "Мясная лаборатория",
     "chinese": "肉类实验室",
     "spanish": "Laboratorio de Carne",
+    "italian": "Laboratorio delle Carni",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -416,6 +450,7 @@
     "russian": "Завод еды",
     "chinese": "食品厂",
     "spanish": "Fábrica de Comida",
+    "italian": "Fabbrica di Pietanze",
   },
 
 
@@ -426,6 +461,7 @@
     "russian": "Базовая среда обитания",
     "chinese": "基本居住点",
     "spanish": "Hábitat Básico",
+    "italian": "Habitat di Base",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -434,6 +470,7 @@
     "russian": "Достойная среда обитания",
     "chinese": "温饱居住点",
     "spanish": "Hábitat Decente",
+    "italian": "Habitat Decente",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -442,6 +479,7 @@
     "russian": "Комфортная среда обитания",
     "chinese": "良好居住点",
     "spanish": "Hábitat Cómodo",
+    "italian": "Habitat Confortevole",
   },
   "habitatLevel4": {
 		"english": "Residential building",
@@ -450,6 +488,7 @@
     "russian": "Жилой дом",
     "chinese": "住宅",
     "spanish": "Edificio Residencial",
+    "italian": "Edificio Residenziale",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -458,6 +497,7 @@
     "russian": "Жилая высотка",
     "chinese": "高层住宅",
     "spanish": "Torre Residencial",
+    "italian": "Torre Residenziale",
   },
 	"habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -466,6 +506,7 @@
     "russian": "Элитная жилая высотка",
     "chinese": "豪华高层住宅",
     "spanish": "Torre Residencial de Lujo",
+    "italian": "Torre Residenziale di Lusso",
   },
 
 
@@ -476,6 +517,7 @@
     "russian": "Парк",
     "chinese": "公园",
     "spanish": "Parque",
+    "italian": "Parco",
   },
   "arena": {
     "english": "Stadium",
@@ -484,6 +526,7 @@
     "russian": "Стадион",
     "chinese": "体育馆",
     "spanish": "Estadio",
+    "italian": "Stadio",
   },
   "school": {
     "english": "School",
@@ -492,6 +535,7 @@
     "russian": "Школа",
     "chinese": "学校",
     "spanish": "Escuela",
+    "italian": "Scuola",
   },
 
 	"powerPole": {
@@ -501,6 +545,7 @@
     "russian": "Электрический столб",
     "chinese": "电杆",
     "spanish": "Poste de Energía",
+    "italian": "Palo della Luce",
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
@@ -509,6 +554,7 @@
     "russian": "Электроподстанция",
     "chinese": "变电站",
     "spanish": "Subestación de Energía",
+    "italian": "Sottostazione Elettrica",
 	},
 	"windTurbine": {
 		"english": "Wind Turbine",
@@ -517,6 +563,7 @@
     "russian": "Ветряная турбина",
     "chinese": "风力涡轮机",
     "spanish": "Turbina Eólica",
+    "italian": "Turbina Eolica",
 	},
 	"solarPowerPlant": {
 		"english": "Solar Power Plant",
@@ -525,6 +572,7 @@
     "russian": "Солнечная электростанция",
     "chinese": "太阳能发电机",
     "spanish": "Planta de Energía Solar",
+    "italian": "Centrale Elettrica ad Energia Solare",
 	},
 	"nuclearPowerPlant": {
 		"english": "Nuclear Power Plant",
@@ -533,6 +581,7 @@
     "russian": "Атомная электростанция",
     "chinese": "核电站",
     "spanish": "Planta de Energía Nuclear",
+    "italian": "Centrale Elettrica Nucleare",
 	},
 	"fastNeutronReactor": {
 		"english": "Fast Neutron Reactor",
@@ -541,5 +590,6 @@
     "russian": "Реактор на быстрых нейтронах",
     "chinese": "快中子反应堆",
     "spanish": "Reactor de Neutrones Rápidos",
+    "italian": "Reattore a Neutroni Veloci",
 	},
 }
