@@ -15,6 +15,7 @@
     "russian": "Серная шахта",
     "chinese": "硫磺矿",
     "spanish": "Mina de Azufre",
+    "italian": "Miniera di Zolfo",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -23,6 +24,7 @@
     "russian": "Железная шахта",
     "chinese": "铁矿",
     "spanish": "Mina de Hierro",
+    "italian": "Miniera di Ferro",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -31,6 +33,7 @@
     "russian": "Медная шахта",
     "chinese": "铜矿",
     "spanish": "Mina de Cobre",
+    "italian": "Miniera di Rame",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -39,6 +42,7 @@
     "russian": "Алюминиевая шахта",
     "chinese": "铝矿",
     "spanish": "Mina de Aluminio",
+    "italian": "Miniera di Alluminio",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -47,6 +51,7 @@
     "russian": "Урановый рудник",
     "chinese": "铀矿",
     "spanish": "Mina de Uranio",
+    "italian": "Miniera di Uranio",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -55,6 +60,7 @@
     "russian": "Иридиевый рудник",
     "chinese": "铱矿",
     "spanish": "Mina de Iridio",
+    "italian": "Miniera di Iridio",
   },
 
 
@@ -65,6 +71,7 @@
     "russian": "Большая песчаная шахта",
     "chinese": "大型沙子矿",
     "spanish": "Gran Mina de Arena",
+    "italian": "Grande Miniera di Sabbia",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -73,6 +80,7 @@
     "russian": "Большая серная шахта",
     "chinese": "大型硫磺矿",
     "spanish": "Gran Mina de Azufre",
+    "italian": "Grande Miniera di Zolfo",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -81,6 +89,7 @@
     "russian": "Большая железная шахта",
     "chinese": "大型铁矿",
     "spanish": "Gran Mina de Hierro",
+    "italian": "Grande Miniera di Ferro",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -89,6 +98,7 @@
     "russian": "Большой медный рудник",
     "chinese": "大型铜矿",
     "spanish": "Gran Mina de Hierro",
+    "italian": "Grande Miniera di Rame",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -97,6 +107,7 @@
     "russian": "Большая алюминиевая шахта",
     "chinese": "大型铝矿",
     "spanish": "Gran Mina de Aluminio",
+    "italian": "Grande Miniera di Alluminio",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -105,6 +116,7 @@
     "russian": "Большая урановая шахта",
     "chinese": "大型铀矿",
     "spanish": "Gran Mina de Uranio",
+    "italian": "Grande Miniera di Uranio",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -113,6 +125,7 @@
     "russian": "Большая иридиевая шахта",
     "chinese": "大型铱矿",
     "spanish": "Gran Mina de Iridio",
+    "italian": "Grande Miniera di Iridio",
   },
 
 
