@@ -6,6 +6,7 @@
 		"russian": "Аванпост",
 		"chinese": "前哨站",
 		"spanish": "Puesto Avanzado",
+                "italian"; "Avamposto",
 	},
 	"cityLevel2":  {
 		"english": "Settlement",
@@ -14,6 +15,7 @@
 		"russian": "Поселение",
 		"chinese": "居住地",
 		"spanish": "Asentamiento",
+                "italian"; "Insediamento",
 	},
 	"cityLevel3":  {
 		"english": "Small Town",
@@ -22,6 +24,7 @@
 		"russian": "Маленький город",
 		"chinese": "小型城镇",
 		"spanish": "Pueblo Pequeño",
+                "italian"; "Cittadina Piccola",
 	},
 	"cityLevel4":  {
 		"english": "Large Town",
@@ -30,6 +33,7 @@
 		"russian": "Большой город",
 		"chinese": "大型城镇",
 		"spanish": "Gran Pueblo",
+                "italian"; "Cittadina Grande",
 	},
 	"cityLevel5":  {
 		"english": "City",
@@ -38,6 +42,7 @@
 		"russian": "Город",
 		"chinese": "城市",
 		"spanish": "Ciudad",
+                "italian"; "Città",
 	},
 	"cityLevel6":  {
 		"english": "Planetary Capital",
@@ -46,5 +51,6 @@
 		"russian": "Планетарная столица",
 		"chinese": "行星首都",
 		"spanish": "Capital Planetaria",
+                "italian"; "Capitale Planetaria",
 	},
 }
