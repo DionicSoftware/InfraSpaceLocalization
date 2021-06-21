@@ -5,6 +5,7 @@
 		"french": "Réseau électrique %id%",
 		"russian": "Электросеть %id%",
 		"chinese": "电力网络",
+		"italian": "Rete Elettrica %id%",
 	},
 	"powerRequired":  {
 		"english": "Required: %amount% MW",
@@ -12,6 +13,7 @@
 		"french": "Requis : %amount% MW",
 		"russian": "Требуется: %amount% МВт",
 		"chinese": "需求: %amount% MW",
+		"italian": "Richiesta: %amount% MW",
 	},
 	"powerConsumed":  {
 		"english": "Power consumed:",
@@ -19,6 +21,7 @@
 		"french": "Électricité consommée :",
 		"russian": "Потребляемая энергия:",
 		"chinese": "耗电量:",
+		"italian": "Elettricità consumata",
 	},
 	"powerProduced":  {
 		"english": "Power produced:",
@@ -26,6 +29,7 @@
 		"french": "Électricité produite :",
 		"russian": "Производимая энергия:",
 		"chinese": "发电量:",
+		"italian": "Elettricità Prodotta:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -33,6 +37,7 @@
 		"french": "Entrepôt entrant vide",
 		"russian": "Входящее хранилище пусто",
 		"chinese": "输入存库为空",
+		"italian": "Magazzino in entrata vuoto",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -40,6 +45,7 @@
 		"french": "Pas d'accès à la route",
 		"russian": "Нет доступа к дороге",
 		"chinese": "无法进入道路",
+		"italian": "Nessun accesso alla strada",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -47,6 +53,7 @@
 		"french": "Entrepôt sortant plein",
 		"russian": "Исходящее хранилище заполнено",
 		"chinese": "输出存库为空",
+		"italian": "Magazzino in uscita pieno",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -54,6 +61,7 @@
 		"french": "Aucun ouvrier dans le bâtiment",
 		"russian": "В здании нет строителей",
 		"chinese": "没有工人在建造",
+		"italian": "Nessun lavoratore nell'edificio",
 	},
 	"noPower": {
 		"english": "No power",
@@ -61,6 +69,7 @@
 		"french": "Pas d'électricité",
 		"russian": "Нет энергии",
 		"chinese": "无电力",
+		"italian": "Manca elettricità",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -68,6 +77,7 @@
 		"french": "%amount%% d'efficacité",
 		"russian": "%amount%% Эффективности",
 		"chinese": "%amount%% 效率",
+		"italian": "Efficienza al %amount%%",
 	},
 
 
@@ -77,6 +87,7 @@
 		"french": "Votre ville sera promue en %cityLevelName% dès que vous aurez au moins %amount% citoyens niveau %nextLevel%.",
 		"russian": "Ваш город будет повышен до \"%cityLevelName%\", как только у вас будет хотя бы %amount% жителей %nextLevel% уровня.",
 		"chinese": "一旦你拥有至少%amount%名%nextLevel%级的市民后，城镇就会升级到 \"%cityLevelName%\"。",
+		"italian": "La tua città sarà promossa a \"%cityLevelName%\" non appena avrai almeno %amount% cittadini di Livello %nextLevel%.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -84,6 +95,7 @@
 		"french": "Vous avez atteint le plus haut niveau de la ville. Félicitations !",
 		"russian": "Вы достигли максимального уровня города. Поздравляем!",
 		"chinese": "你已达到最高城市级别。恭喜！",
+		"italian": "Hai raggiunto il livello più alto della città. Congratulazioni!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -91,6 +103,7 @@
 		"french": "Votre ville sera rétrogradée en %cityLevelName% si vous avez moins de %amount% citoyens niveau %level%.",
 		"russian": "Ваш город будет понижен до \"%cityLevelName%\", если в нем будет меньше %amount% жителей %level% уровня.",
 		"chinese": "如果你城镇少于%amount%名%nextLevel%级的市民，城镇就会降级为 \"%cityLevelName%\"。",
+		"italian": "La tua città sarà retrocessa a \"%cityLevelName%\" se avrai meno di %amount% cittadini di Livello %level%.",
 	},
 	"researchingSomething":  {
 		"english": "Researching %techName%...    %progress%",
@@ -98,6 +111,7 @@
 		"french": "Recherche de %techName%...    %progress%",
 		"russian": "Исследование %techName%...    %progress%",
 		"chinese": "研究%techName%中...    %progress%",
+		"italian": "Ricerca di %techName%...    %progress%",
 	},
 	"selectTech":  {
 		"english": "Select technology to research",
@@ -105,6 +119,7 @@
 		"french": "Sélectionner la technologie à rechercher",
 		"russian": "Выберите технологию для исследования",
 		"chinese": "选择技术研究",
+		"italian": "Seleziona la tecnologia da ricercare",
 	},
 	"researchUnlockedNothing":  {
 		"english": "Nothing",
@@ -112,6 +127,7 @@
 		"french": "Rien",
 		"russian": "Ничего",
 		"chinese": "没有",
+		"italian": "Niente",
 	},
 	"researchUnlockedAndCanBuild":  {
 		"english": "We have unlocked %techName% and can now build:",
@@ -119,6 +135,7 @@
 		"french": "Nous avons débloqué %techName% et pouvons maintenant construire :",
 		"russian": "Вы разблокировали %techName%, теперь вам доступны строения:",
 		"chinese": "我们已解锁了%techName%，可以建造:",
+		"italian": "Abbiamo sbloccato %techName% ed adesso puoi costruire:",
 	},
 	"researchUnlocked":  {
 		"english": "We have unlocked %techName%.",
@@ -126,6 +143,7 @@
 		"french": "Nous avons débloqué %techName%.",
 		"russian": "Вы разблокировали %techName%.",
 		"chinese": "我们已解锁了%techName%。",
+		"italian": "Abbiamo sbloccato %techName%.",
 	},
 	"techUnlocks":  {
 		"english": "This technology unlocks:",
@@ -133,6 +151,7 @@
 		"french": "Cette technologie permet de débloquer :",
 		"russian": "Эта технология разблокирует:",
 		"chinese": "该项技术解锁了:",
+		"italian": "Questa tecnologia sblocca:",
 	},
 	"techUnlocksNothing":  {
 		"english": "This technology unlocks nothing.",
@@ -140,6 +159,7 @@
 		"french": "Cette technologie ne débloque rien.",
 		"russian": "Эта технология ничего не разблокирует.",
 		"chinese": "该项技术没有解锁任何东西。",
+		"italian": "Questa tecnologia non sblocca niente.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -147,6 +167,7 @@
 		"french": "Recherche terminée !",
 		"russian": "Исследование завершено!",
 		"chinese": "研究完成！",
+		"italian": "Ricerca completata!",
 	},
 	"production": {
 		"english": "Production",
@@ -154,6 +175,7 @@
 		"french": "Production",
 		"russian": "Производство",
 		"chinese": "生产",
+		"italian": "Produzione",
 	},
 	"storage": {
 		"english": "Storage",
@@ -161,6 +183,7 @@
 		"french": "Entreposage",
 		"russian": "Хранение",
 		"chinese": "存储",
+		"italian": "Magazzino",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -168,6 +191,7 @@
 		"french": "Améliorations",
 		"russian": "Улучшения",
 		"chinese": "升级",
+		"italian": "Aggiornamenti",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -175,6 +199,7 @@
 		"french": "Prioriser",
 		"russian": "Сделать приоритетным",
 		"chinese": "优先",
+		"italian": "Priorità",
 	},
 	"price": {
 		"english": "Price",
@@ -201,18 +226,21 @@
 		"german": "Wohngebäude steigt in %seconds%s auf.",
 		"french": "Habitat amélioré dans %seconds%s.",
 		"russian": "Улучшение среды обитания через %seconds% сек.",
+		"italian": "L'habitat si aggiornerà in %seconds%s.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
 		"german": "Wohngebäude wird in %seconds%s zurückgestuft.",
 		"french": "Habitat rétrogradé dans %seconds%s.",
 		"russian": "Ухудшение среды обитания через %seconds% сек.",
+		"italian": "L'habitat si declasserà in %seconds%s.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
 		"german": "Wohngebäude ist voll. Erfülle die weiteren Bedürfnisse um aufzusteigen.",
 		"french": "L'habitat est complet. Remplissez les besoins supplémentaires pour l'amélioration.",
 		"russian": "Среда обитания заполнена. Выполните дополнительные требования для улучшения.",
+		"italian": "L'habitat è pieno. Soddisfa i bisogni supplementari per farlo aggiornare.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -220,12 +248,14 @@
 		"french": "Les gens emménagent.",
 		"russian": "Жители приезжают.",
 		"chinese": "人们正在搬进。",
+		"italian": "Sta arrivando gente.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
 		"german": "Leute ziehen aus.",
 		"french": "Les gens déménagent.",
 		"chinese": "人们正在搬离。",
+		"italian": "La gente sta andando via.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -233,6 +263,7 @@
 		"french": "Les besoins ne sont pas satisfaits.",
 		"russian": "Потребности не удовлетворены.",
 		"chinese": "没有选择研究:",
+		"italian": "I bisogni non sono soddisfatti.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -240,6 +271,7 @@
 		"french": "Les habitants vont bien.",
 		"russian": "Жители в порядке.",
 		"chinese": "居民感觉良好",
+		"italian": "Gli abitanti stanno bene",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -247,6 +279,7 @@
 		"french": "Aucune recherche sélectionnée",
 		"russian": "Исследование не выбрано",
 		"chinese": "没有选择研究:",
+		"italian": "Nessuna ricerca selezionata",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -254,6 +287,7 @@
 		"french": "Ressources entreposées :",
 		"russian": "Ресурсов в хранилище:",
 		"chinese": "资源库存:",
+		"italian": "Risorse in magazzino:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -261,5 +295,6 @@
 		"french": "Citoyens niveau %level%",
 		"russian": "Жители %level% уровня",
 		"chinese": "%level%级市民",
+		"italian": "Cittadini di livello %level%",
 	}
 }
