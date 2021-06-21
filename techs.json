@@ -5,6 +5,7 @@
     "french": "Agriculture",
     "russian": "Фермерство",
     "chinese": "农业",
+    "italian": "Agricoltura",
   },
 
   "tech_electronics": {
@@ -13,6 +14,7 @@
     "french": "Électronique",
     "russian": "Электроника",
     "chinese": "电子元件",
+    "italian": "Elettronica",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -20,6 +22,7 @@
     "french": "Production d'acier",
     "russian": "Производство стали",
     "chinese": "钢铁冶炼",
+    "italian": "Produzione di Acciaio",
   },
 
 	
@@ -29,6 +32,7 @@
     "french": "Science verte",
     "russian": "Зеленая наука",
     "chinese": "绿色科技",
+    "italian": "Scienza Verde",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -36,6 +40,7 @@
     "french": "Électroménagers",
     "russian": "Бытовая техника",
     "chinese": "家用电器",
+    "italian": "Elettrodomestici",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -43,6 +48,7 @@
     "french": "Panneaux solaires",
     "russian": "Солнечные панели",
     "chinese": "太阳能板",
+    "italian": "Pannelli Solari",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -50,6 +56,7 @@
     "french": "Pales d'éoliennes améliorées",
     "russian": "Улучшенные лопасти ветряных турбин",
     "chinese": "改进风力涡轮机叶片",
+    "italian": "Pale Eoliche Migliorate",
   },
 	"techDesc_improvedWindTurbineBlades": {
 		"english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -57,6 +64,7 @@
     "french": "Adapte la forme des pales d'éolienne à l'atmosphère. Il en résulte une moindre perturbation de l'air, ce qui permet de construire des éoliennes plus proches les unes des autres.",
     "russian": "Адаптирует форму лопастей ветряной турбины к атмосфере. Это снижает уровень помех в воздухе, что позволяет строить ветряные турбины ближе друг к другу.",
     "chinese": "使风力涡轮机叶片的形状符合空气流动。这会降低空气阻力，让你建造彼此更近的风力涡轮机。",
+    "italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria, che ti consente di costruire le turbine eoliche più vicine fra loro.",
 	},
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -64,6 +72,7 @@
     "french": "Routes en béton",
     "russian": "Бетонные дороги",
     "chinese": "混凝土路",
+    "italian": "Strade in Cemento",
   },
 
 	
@@ -73,6 +82,7 @@
     "french": "Mines d'aluminium",
     "russian": "Добыча алюминия",
     "chinese": "铝矿开采",
+    "italian": "Miniere di Alluminio",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -80,6 +90,7 @@
     "french": "Sous-stations électriques",
     "russian": "Электрические подстанции",
     "chinese": "变电站",
+    "italian": "Sotto-stazioni Elettriche",
   },
 	"techDesc_powerSubstation": {
 		"english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -87,6 +98,7 @@
     "french": "Intégrez des sous-stations à votre réseau électrique pour ne pas avoir à équiper chaque bâtiment de poteaux électriques.",
     "russian": "Интегрируйте подстанции в свою электрическую сеть, чтобы вам не пришлось снабжать каждое здание электрическими столбами.",
     "chinese": "将变电站集成到你的电力网络中，这样就不必为每个建筑物都配备电线杆。",
+    "italian": "Integrate le sotto-stazioni nella vostra rete elettrica così che non dobbiate più collegare ogni edificio con i pali della luce.",
 	},
   "tech_motors": {
     "english": "Motors",
@@ -94,6 +106,7 @@
     "french": "Moteurs",
     "russian": "Моторы",
     "chinese": "电动机",
+    "italian": "Motori",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -101,6 +114,7 @@
     "french": "Routes à quatre voies",
     "russian": "Четырехполосные Дороги",
     "chinese": "四车道",
+    "italian": "Strade a Quattro Corsie",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -108,6 +122,7 @@
     "french": "Routes à sens unique",
     "russian": "Дороги с односторонним движением",
     "chinese": "单行道",
+    "italian": "Strade a Senso Unico",
   },
 	
   "tech_parks": {
@@ -116,6 +131,7 @@
     "french": "Grands bâtiments",
     "russian": "Большие здания",
     "chinese": "大型建筑",
+    "italian": "Grandi Edifici",
   },
   "tech_computers": {
     "english": "Computers",
@@ -123,6 +139,7 @@
     "french": "Ordinateurs",
     "russian": "Компьютеры",
     "chinese": "计算机",
+    "italian": "Computer",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -130,6 +147,7 @@
     "french": "Grandes mines",
     "russian": "Большие шахты",
     "chinese": "大型矿井",
+    "italian": "Miniere Grandi",
   },
 	"techDesc_largeMines": {
 		"english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -137,6 +155,7 @@
     "french": "Accélérez l'extraction des ressources pour répondre à la faim de votre ville en pleine expansion.",
     "russian": "Ускорьте добычу ресурсов, чтобы утолить голод в растущем городе.",
     "chinese": "加快资源开采，以满足不断发展的城市需求。",
+    "italian": "Aumenta la velocità di estrazione per rifornire la tua città in espansione.",
 	},
 
   "tech_foodProcessing": {
@@ -145,6 +164,7 @@
     "french": "Transformation alimentaire",
     "russian": "Пищевая промышленность",
     "chinese": "食品加工",
+    "italian": "Trasformazione Alimentare",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -152,6 +172,7 @@
     "french": "Engrais",
     "russian": "Удобрения",
     "chinese": "化肥",
+    "italian": "Fertilizzante",
   },
 	"techDesc_fertilizer": {
 		"english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -159,6 +180,7 @@
     "french": "Fournissez des sols fertilisés aux fermes voisines et augmentez leur rendement de manière significative.",
     "russian": "Поставляйте удобренную почву на близлежащие фермы и значительно увеличивайте их производство.",
     "chinese": "向附近的农场供应施肥的土壤，将显着提高其产量。",
+    "italian": "Rifornisci di terreno fertilizzato le fattorie vicine ed aumenta significativamente la loro produzione.",
 	},
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -166,6 +188,7 @@
     "french": "Nanotubes de carbone",
     "russian": "Углеродные нанотрубки",
     "chinese": "碳纳米管",
+    "italian": "Nanotubi in Carbonio",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -173,6 +196,7 @@
     "french": "Panneaux solaires autonettoyants",
     "russian": "Самоочищающиеся солнечные панели",
     "chinese": "自清洁太阳能电池板",
+    "italian": "Pannelli Solari Autopulenti",
   },
 	"techDesc_selfCleaningSolarPanels": {
 		"english": "Once your solar panels clean themselves, your solar power plants won't require so many workers.",
@@ -180,6 +204,7 @@
     "french": "Une fois que vos panneaux solaires se seront nettoyés tout seuls, vos centrales solaires ne nécessiteront plus autant de travailleurs.",
     "russian": "Как только ваши солнечные панели начнут самоочищаться, вашим солнечным электростанциям не потребуется так много рабочих.",
     "chinese": "当太阳能电池板自行清洁时，你的太阳能发电厂就不需要那么多工人了。",
+    "italian": "Non appena i pannelli solari si puliranno da soli, le tue centrali elettriche solari non avranno bisogno di così tanti lavoratori.",
 	},
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -187,6 +212,7 @@
     "french": "Routes à six voies",
     "russian": "Шестиполосные дороги",
     "chinese": "六车道",
+    "italian": "Strade a Sei Corsie",
   },
 	
   "tech_stadiums": {
@@ -195,6 +221,7 @@
     "french": "Stades",
     "russian": "Стадионы",
     "chinese": "体育馆",
+    "italian": "Stadio",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -202,6 +229,7 @@
     "french": "Processeurs neuronaux",
     "russian": "Нейронные процессоры",
     "chinese": "神经处理器",
+    "italian": "Processori Neurali",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -209,6 +237,7 @@
     "french": "Science jaune",
     "russian": "Желтая наука",
     "chinese": "黄色科技",
+    "italian": "Scienza Gialla",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -216,6 +245,7 @@
     "french": "Exploitation de l'uranium",
     "russian": "Добыча урана",
     "chinese": "铀矿开采",
+    "italian": "Sfruttamento dell'Uranio",
   },
   "tech_highways": {
     "english": "Highways",
@@ -223,6 +253,7 @@
     "french": "Autoroutes",
     "russian": "Шоссе",
     "chinese": "高速公路",
+    "italian": "Autostrade",
   },
 	
   "tech_homeRobots": {
@@ -231,6 +262,7 @@
     "french": "Robots domestiques",
     "russian": "Домашние роботы",
     "chinese": "家用机器人",
+    "italian": "Robot Domestici",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -238,6 +270,7 @@
     "french": "Robots industriels",
     "russian": "Промышленные роботы",
     "chinese": "工业机器人",
+    "italian": "Robot Industriali",
   },
 	"techDesc_industrialRobots": {
 		"english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -245,6 +278,7 @@
     "french": "Équipez vos usines de robots industriels pour réduire le nombre d'ouvriers nécessaires.",
     "russian": "Обеспечьте свои предприятия промышленными роботами, чтобы сократить количество необходимых рабочих.",
     "chinese": "为你的工厂提供工业机器人以减少所需的工人数量。",
+    "italian": "Rifornisci le tue fabbriche con robot industriali per ridurre il numero di lavoratori richiesti",
 	},
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -252,6 +286,7 @@
     "french": "Filtre à particules",
     "russian": "Фильтр твердых частиц",
     "chinese": "粒子过滤器",
+    "italian": "Filtro a Particelle",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -259,6 +294,7 @@
     "french": "Énergie nucléaire",
     "russian": "Атомная энергия",
     "chinese": "核电",
+    "italian": "Energia Nucleare",
   },
 
   "tech_schools": {
@@ -267,6 +303,7 @@
     "french": "Écoles",
     "russian": "Школы",
     "chinese": "学校",
+    "italian": "Scuole",
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -274,6 +311,7 @@
     "french": "Exploitation de l'iridium",
     "russian": "Добыча иридия",
     "chinese": "铱矿开采",
+    "italian": "Sfruttamento dell'Iridio",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -281,6 +319,7 @@
     "french": "Recyclage",
     "russian": "Переработка отходов",
     "chinese": "回收",
+    "italian": "Riciclaggio",
   },
 	"techDesc_recycling": {
 		"english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -288,6 +327,7 @@
     "french": "Réduisez votre consommation de ressources en traitant les déchets industriels des usines voisines.",
     "russian": "Снизьте потребление ресурсов за счет переработки промышленных отходов на близлежащих заводах.",
     "chinese": "通过处理附近工厂的工业废物来降低资源消耗。",
+    "italian": "Riduce il consumo di risorse processando i rifiuti industriali nelle fabbriche vicine.",
 	},
 	
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
@@ -296,6 +336,7 @@
     "french": "Affichages holographiques",
     "russian": "Голографические дисплеи",
     "chinese": "全息显示器",
+    "italian": "Schermi Olografici",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -303,6 +344,7 @@
     "french": "Atelier de haute technologie",
     "russian": "Мастерская высоких технологий",
     "chinese": "高科技工作坊",
+    "italian": "Laboratorio High Tech",
   },
 	"techDesc_highTechWorkshop": {
 		"english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -310,6 +352,7 @@
     "french": "Fournissez à vos usines des outils de haute technologie afin d'augmenter la productivité.",
     "russian": "Обеспечьте свои предприятия высокотехнологичными инструментами, чтобы повысить производительность.",
     "chinese": "为你的工厂提供高科技工具以提高生产力。",
+    "italian": "Rifornisci le tue fabbriche con utensili High Tech per aumentare la produttività.",
 	},
 
   "tech_ftlControlUnits": { // ftl stands for "faster than light. used in late game construction. "units" can be replaced by "modules" or "parts" if it fits better
@@ -318,6 +361,7 @@
     "french": "Modules de contrôle supraluminique",
     "russian": "Блоки управления сверхсветовой скоростью",
     "chinese": "FTL控制单元",
+    "italian": "Unità di Controllo FTL",
   },
   "tech_ftlPropellant": {
     "english": "FTL Propellant",
@@ -325,6 +369,7 @@
     "french": "Propulseur supraluminique",
     "russian": "Сверхсветовое топливо",
     "chinese": "FTL推进剂",
+    "italian": "Carburante FTL",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -332,6 +377,7 @@
     "french": "Réacteur à neutrons rapides",
     "russian": "Реактор на быстрых нейтронах",
     "chinese": "快中子反应堆",
+    "italian": "Reattore Rapido a Neutroni",
   },
 
   "tech_science4": {
@@ -340,5 +386,6 @@
     "french": "Science rouge",
     "russian": "Красная наука",
     "chinese": "红色科技",
+    "italian": "Scienza Rossa",
   },
 }
