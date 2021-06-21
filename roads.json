@@ -6,6 +6,7 @@
 		"russian": "Гравийная дорога",
 	  	"spanish": "Carretera de Grava",
 		"chinese": "碎石路",
+		"italian": "Strada in Ghiaia",
 	},
 	"roadConcrete": {
 		"english": "Concrete Road",
@@ -14,6 +15,7 @@
 		"russian": "Бетонная дорога",
 		"spanish": "Carretera de Concreto",
 		"chinese": "混凝土路",
+		"italian": "Strada in Cemento",
 	},
 	"roadFourLane": {
 		"english": "Four Lane Road",
@@ -22,6 +24,7 @@
 		"russian": "Четырехполосная дорога",
 		"spanish": "Carretera de Cuatro Carriles",
 		"chinese": "四车道",
+		"italian": "Strada a Quattro Corsie",
 	},
 	"roadSixLane": {
 		"english": "Six Lane Road",
@@ -30,6 +33,7 @@
 		"russian": "Шестиполосная дорога",
 		"spanish": "Carretera de Seis Carriles",
 		"chinese": "六车道",
+		"italian": "Strada a Sei Corsie",
 	},
 	"roadOneWay": {
 		"english": "One Way Road",
@@ -38,6 +42,7 @@
 		"russian": "Дорога с односторонним движением",
 		"spanish": "Carretera de Una Vía",
 		"chinese": "单行道",
+		"italian": "Strada a Senso Unico",
 	},
 	"roadOneWayTwoLane": {
 		"english": "Two Lane One Way Road",
@@ -46,6 +51,7 @@
 		"russian": "Двухполосная дорога с односторонним движением",
 		"spanish": "Carretera Unidireccional de Dos Carriles",
 		"chinese": "双车道单行道",
+		"italian": "Strada a Senso Unico a Due Corsie",
 	},
 	"roadOneWayThreeLane": {
 		"english": "Three Lane One Way Road",
@@ -54,6 +60,7 @@
 		"russian": "Трехполосная дорога с односторонним движением",
 		"spanish": "Carretera Unidireccional de Tres Carriles",
 		"chinese": "三车道单行道",
+		"italian": "Strada a Senso Unico a Tre Corsie",
 	},
 	"roadHighway": {
 		"english": "Highway",
@@ -62,5 +69,6 @@
 		"russian": "Шоссе",
 		"spanish": "Autopista",
 		"chinese": "高速公路",
+		"italian": "Autostrada",
 	},
 }
