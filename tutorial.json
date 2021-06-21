@@ -6,6 +6,7 @@
 		"french": "Atteindre une population de %amount% habitants",
 		"russian": "Достигните населения в %amount% человек",
 		"chinese": "达到%amount人口",
+		"italian": "Raggiungi una popolazione di %amount% abitanti",
 	},
 	"populationGoalText":  {
 		"english": "%current% / %required% people",
@@ -13,6 +14,7 @@
 		"french": "%current% / %required% habitants",
 		"russian": "%current% / %required% жителей",
 		"chinese": "%current% / %required% 人口",
+		"italian": "%current% / %required% abitanti",
 	},
 	"buildingGoalText":  {
 		"english": "Build a %buildingName%",
@@ -20,6 +22,7 @@
 		"french": "Construire un(e) %buildingName%",
 		"russian": "Постройте %buildingName%",
 		"chinese": "建造 %buildingName%",
+		"italian": "Costruisci un(a) %buildingName%",
 	},
 	"researchGoalText":  {
 		"english": "Research %techName%",
@@ -27,6 +30,7 @@
 		"french": "Rechercher %techName%",
 		"russian": "Исследуйте %techName%",
 		"chinese": "研究 %techName%",
+		"italian": "Ricerca %techName%",
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
@@ -34,6 +38,7 @@
 		"french": "Construire une route à côté du soufre et du fer",
 		"russian": "Постройте дорогу рядом с серой и железом.",
 		"chinese": "在硫磺矿和铁矿旁边修建一条道路。",
+		"italian": "Costruisci una strada vicino a zolfo e ferro.",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads":  {
 		"english": "You can place your buildings next to roads.",
@@ -41,6 +46,7 @@
 		"french": "Vous pouvez placer vos bâtiments à côté des routes.",
 		"russian": "Вы можете размещать свои постройки рядом с дорогами.",
 		"chinese": "可以将建筑物放置在道路旁边。",
+		"italian": "Puoi mettere i tuoi edifici di fianco alle strade.",
 	},
 	"upgradeGoalText":  {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -48,6 +54,7 @@
 		"french": "Répondez aux besoins de vos habitats jusqu'à ce qu'ils se mettent automatiquement à niveau.",
 		"russian": "Удовлетворяйте потребности своих обитателей, пока они автоматически не поднимутся на новый уровень.",
 		"chinese": "满足你的居住点需求，直到它们自动升级。",
+		"italian": "Soddisfa le esigenze dei tuoi abitati finchè non si aggiornano automaticamente.",
 	},
 	"tutorialFinishedTitle":  {
 		"english": "You finished the tutorial!",
@@ -55,6 +62,7 @@
 		"french": "Vous avez terminé le tutoriel !",
 		"russian": "Вы завершили туториал!",
 		"chinese": "你完成了教程！",
+		"italian": "Hai finito il tutorial.",
 	},
 	"tutorialFinishedText":  {
 		"english": "Congrats! You're now ready to make your city great!",
@@ -62,6 +70,7 @@
 		"french": "Félicitations ! Vous êtes maintenant prêt à faire de votre ville une grande ville !",
 		"russian": "Поздравляем! Теперь вы готовы к тому, чтобы сделать величайший город!",
 		"chinese": "恭喜！你现在已准备好让你的城市变得更好！",
+		"italian": "Congratulazioni! Adesso sei pronto per rendere grande la tua città!.",
 	},
 	"tutorial_concreteProduction":  {
 		"english": "Concrete Production for Roads",
@@ -69,6 +78,7 @@
 		"french": "Production de béton pour les routes",
 		"russian": "Производство бетона для дорог",
 		"chinese": "生产混凝土来建造道路",
+		"italian": "Produzione di cemento per le strade.",
 	},
 	"tutorial_roadConnections":  {
 		"english": "Road Connections",
@@ -76,6 +86,7 @@
 		"french": "Connexions routières",
 		"russian": "Соединение дорог",
 		"chinese": "道路连接",
+		"italian": "Incroci nelle strade",
 	},
 	"tutorial_powerGeneration":  {
 		"english": "Power Generation",
@@ -83,6 +94,7 @@
 		"french": "Production d'électricité",
 		"russian": "Генерация энергии",
 		"chinese": "发电",
+		"italian": "Produzione di Elettricità",
 	},
 	"tutorial_storage":  {
 		"english": "Storing the Concrete",
@@ -90,6 +102,7 @@
 		"french": "Entreposage du béton",
 		"russian": "Хранение бетона",
 		"chinese": "储存混凝土",
+		"italian": "Stoccaggio del Cemento",
 	},
 	"tutorial_lifeSupport":  {
 		"english": "Life Support",
@@ -97,6 +110,7 @@
 		"french": "Soutien vital",
 		"russian": "Жизнеобеспечение",
 		"chinese": "生活保障",
+		"italian": "Supporto Vitale",
 	},
 	"tutorial_newcomers":  {
 		"english": "Accepting Newcomers",
@@ -104,6 +118,7 @@
 		"french": "Acceptater les nouveaux arrivants",
 		"russian": "Прием новичков",
 		"chinese": "接受新人",
+		"italian": "Accogliere i Nuovi Arrivati",
 	},
 	"tutorial_growingTown":  {
 		"english": "Growing the Town",
@@ -111,6 +126,7 @@
 		"french": "Développer la ville",
 		"russian": "Рост города",
 		"chinese": "发展城镇",
+		"italian": "Far Crescere la Città",
 	},
 	"tutorial_research":  {
 		"english": "Research",
@@ -118,5 +134,6 @@
 		"french": "Rechercher",
 		"russian": "Исследование",
 		"chinese": "研究",
+		"italian": "Ricerca",
 	},
 }
