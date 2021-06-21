@@ -5,6 +5,7 @@
 		"french": "Sable",
 		"russian": "Песок",
 		"chinese": "沙子",
+		"italian": "Sabbia",
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
@@ -12,6 +13,7 @@
 		"french": "Soufre",
 		"russian": "Сера",
 		"chinese": "硫磺",
+		"italian": "Zolfo",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -19,6 +21,7 @@
 		"french": "Béton",
 		"russian": "Бетон",
 		"chinese": "混凝土",
+		"italian": "Cemento",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -26,6 +29,7 @@
 		"french": "Minerai de fer",
 		"russian": "Железная руда",
 		"chinese": "铁矿石",
+		"italian": "Minerale di Ferro",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -33,6 +37,7 @@
 		"french": "Minerai d'aluminium",
 		"russian": "Алюминиевая руда",
 		"chinese": "铝矿石",
+		"italian": "Minerale di Alluminio",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -40,6 +45,7 @@
 		"french": "Minerai d'uranium",
 		"russian": "Урановая руда",
 		"chinese": "铀矿石",
+		"italian": "Minerale di Uranio",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -47,6 +53,7 @@
 		"french": "Minerai d'iridium",
 		"russian": "Иридиевая руда",
 		"chinese": "铱矿石",
+		"italian": "Minerale di Iridio",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -54,6 +61,7 @@
 		"french": "Carbone",
 		"russian": "Углерод",
 		"chinese": "煤炭",
+		"italian": "Carbonio",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -61,6 +69,7 @@
 		"french": "Nanotubes",
 		"russian": "Нанотрубки",
 		"chinese": "纳米管",
+		"italian": "Nanotubi",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -68,6 +77,7 @@
 		"french": "Acier",
 		"russian": "Сталь",
 		"chinese": "钢铁",
+		"italian": "Acciaio",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -75,6 +85,7 @@
 		"french": "Minerai de cuivre",
 		"russian": "Медная руда",
 		"chinese": "铜矿石",
+		"italian": "Minerale di Rame",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -82,12 +93,14 @@
 		"french": "Moteur",
 		"russian": "Мотор",
 		"chinese": "发动机",
+		"italian": "Motore",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
 		"german": "Elektronikmodule",
 		"chinese": "电子元件",
 		"french": "Modules électroniques",
+		"italian": "Moduli Elettronici",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -95,6 +108,7 @@
 		"french": "Électroménager",
 		"russian": "Бытовая техника",
 		"chinese": "家用电器",
+		"italian": "Elettrodomestici",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -102,6 +116,7 @@
 		"french": "Microprocesseur",
 		"russian": "Микрочип",
 		"chinese": "微芯片",
+		"italian": "Microchip",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -109,6 +124,7 @@
 		"french": "Processeur neuronal",
 		"russian": "Нейронный процессор",
 		"chinese": "神经处理器",
+		"italian": "Processore Neurale",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -116,6 +132,7 @@
 		"french": "Ordinateur",
 		"russian": "Компьютер",
 		"chinese": "计算机",
+		"italian": "Computer",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -123,6 +140,7 @@
 		"french": "Robot domestique",
 		"russian": "Домашний робот",
 		"chinese": "家用机器人",
+		"italian": "Robot Domestico",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -130,6 +148,7 @@
 		"french": "Robot industriel",
 		"russian": "Промышленный робот",
 		"chinese": "工业机器人",
+		"italian": "Robot Industriale",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -137,6 +156,7 @@
 		"french": "Outil de haute technologie",
 		"russian": "Высокотехнологичный инструмент",
 		"chinese": "高科技工具",
+		"italian": "Utensile High Tech",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -144,6 +164,7 @@
 		"french": "Réalité virtuelle ludique",
 		"russian": "VR-образование",
 		"chinese": "VR娱乐设备",
+		"italian": "Intrattenimento Realtà Virtuale",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -151,6 +172,7 @@
 		"french": "Alliage d'iridium",
 		"russian": "Иридиевый сплав",
 		"chinese": "铱合金",
+		"italian": "Lega di Iridio",
 	},
 	"resource_ftlPropellant": {
 		"english": "FTL Propellant",
@@ -158,6 +180,7 @@
 		"french": "Propulseur supraluminique",
 		"russian": "Сверхсветовое топливо",
 		"chinese": "FTL推进剂",
+		"italian": "Carburante FTL",
 	},
 	"resource_ftlControlUnit": {
 		"english": "FTL Control Unit",
@@ -165,6 +188,7 @@
 		"french": "Module de contrôle supraluminique",
 		"russian": "Блок управления сверхсветовой скоростью",
 		"chinese": "FTL控制单元",
+		"italian": "Unità di COntrollo FTL",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -172,6 +196,7 @@
 		"french": "Noyau de radiation",
 		"russian": "Радиационное ядро",
 		"chinese": "辐射核心",
+		"italian": "Nucleo di Radiazione",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -179,6 +204,7 @@
 		"french": "Paquet scientifique bleu",
 		"russian": "Синий научный пакет",
 		"chinese": "蓝色科技包",
+		"italian": "Pacchetto Scientifico Blu",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -186,6 +212,7 @@
 		"french": "Paquet scientifique vert",
 		"russian": "Зеленый научный пакет",
 		"chinese": "绿色科技包",
+		"italian": "Pacchetto Scientifico Verde",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -193,6 +220,7 @@
 		"french": "Paquet scientifique jaune",
 		"russian": "Желтый научный пакет",
 		"chinese": "黄色科技包",
+		"italian": "Pacchetto Scientifico Giallo",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -200,6 +228,7 @@
 		"french": "Paquet scientifique rouge",
 		"russian": "Красный научный пакет",
 		"chinese": "红色科技包",
+		"italian": "Pacchetto Scientifico Rosso",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -207,6 +236,7 @@
 		"french": "Oxygène",
 		"russian": "Кислород",
 		"chinese": "氧气",
+		"italian": "Ossigeno",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -214,6 +244,7 @@
 		"french": "Engrais",
 		"russian": "Удобрения",
 		"chinese": "化肥",
+		"italian": "Fertilizzante",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -221,6 +252,7 @@
 		"french": "Légumes",
 		"russian": "Овощи",
 		"chinese": "蔬菜",
+		"italian": "Verdure",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -228,6 +260,7 @@
 		"french": "Viande",
 		"russian": "Мясо",
 		"chinese": "肉类",
+		"italian": "Carne",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -235,6 +268,7 @@
 		"french": "Bon repas",
 		"russian": "Хорошая еда",
 		"chinese": "美味食品",
+		"italian": "Pasti Buoni",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -242,6 +276,7 @@
 		"french": "Nourriture de survie",
 		"russian": "Еда выживальщика",
 		"chinese": "生存食品",
+		"italian": "Cibo di Sopravvivenza",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -249,6 +284,7 @@
 		"french": "Parc",
 		"russian": "Парк",
 		"chinese": "公园",
+		"italian": "Parco",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -256,6 +292,7 @@
 		"french": "Culture",
 		"russian": "Культура",
 		"chinese": "文化",
+		"italian": "Cultura",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -263,6 +300,7 @@
 		"french": "École",
 		"russian": "Школа",
 		"chinese": "学校",
+		"italian": "Scuola",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -270,6 +308,7 @@
 		"french": "Voiture",
 		"russian": "Машина",
 		"chinese": "汽车",
+		"italian": "Automobile",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -277,6 +316,7 @@
 		"french": "Citoyen",
 		"russian": "Житель",
 		"chinese": "市民",
+		"italian": "Cittadino in Arrivo",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -284,5 +324,6 @@
 		"french": "Citoyen",
 		"russian": "Житель",
 		"chinese": "市民",
+		"italian": "Cittadino in Partenza",
 	},
 }
