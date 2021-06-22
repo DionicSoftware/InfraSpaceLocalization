@@ -18,7 +18,7 @@
 	},
 	"buildingGoalText":  {
 		"english": "Build a %buildingName%",
-		"german": "Baue ein(e) %buildingName%",
+		"german": "Baue: %buildingName%",
 		"french": "Construire un(e) %buildingName%",
 		"russian": "Постройте %buildingName%",
 		"chinese": "建造 %buildingName%",
@@ -135,5 +135,13 @@
 		"russian": "Исследование",
 		"chinese": "研究",
 		"italian": "Ricerca",
+	},
+	"tutorial_roads":  {
+		"english": "Use roads to connect the mines with the concrete factory",
+		"german": "Verwende Straßen um die Minen mit der Betonfabrik zu verbinden",
+	},
+	"tutorial_power": {
+		"english": "Use power poles to connect all buildings to your wind turbine",
+		"german": "Verwende Strommasten um alle Gebäude mit dem Windrad zu verbinden",
 	},
 }
