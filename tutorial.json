@@ -52,7 +52,7 @@
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
 		"german": "Befriedige die Bedürfnisse deiner Wohngebäude bis sie automatisch eine Stufe aufsteigen.",
 		"french": "Répondez aux besoins de vos habitats jusqu'à ce qu'ils se mettent automatiquement à niveau.",
-		"russian": "Удовлетворяйте потребности своих обитателей, пока они автоматически не поднимутся на новый уровень.",
+		"russian": "Удовлетворяйте потребности своих обитателей, пока они автоматически не перейдут на новый уровень.",
 		"chinese": "满足你的居住点需求，直到它们自动升级。",
 		"italian": "Soddisfa le esigenze dei tuoi abitati finchè non si aggiornano automaticamente.",
 	},
@@ -139,9 +139,11 @@
 	"tutorial_roads":  {
 		"english": "Use roads to connect the mines with the concrete factory",
 		"german": "Verwende Straßen um die Minen mit der Betonfabrik zu verbinden",
+		"russian": "Используйте дороги для соединения шахты с бетонным заводом.",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
 		"german": "Verwende Strommasten um alle Gebäude mit dem Windrad zu verbinden",
+		"russian": "Используйте энергетические столбы для подключения всех зданий к ветряной турбине.",
 	},
 }
