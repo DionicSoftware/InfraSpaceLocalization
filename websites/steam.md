@@ -37,7 +37,7 @@ InfraSpace est un jeu de construction de villes de science-fiction - mais chaque
 InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.
 
 ### Italian
-Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risorsa che produci deve passare attraverso la tua infrastruttura di trasporti. Per prosperare in questo sistema solare dovrai cominciare con l'estrazione dei materiali e gestire la catena produttiva, ma anche fare in modo che il sistema stradale sia all'altezza.
+Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risorsa prodotta deve passare per la tua infrastruttura di trasporti. Per prosperare dovrai estrarre i materiali e gestire la catena produttiva, ma dovrai anche avere un sistema stradale adeguato.
 
 
 
