@@ -36,6 +36,10 @@ InfraSpace est un jeu de construction de villes de science-fiction - mais chaque
 ### Russian
 InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.
 
+### Italian
+Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risorsa che produci deve passare attraverso la tua infrastruttura di trasporti. Per prosperare in questo sistema solare dovrai cominciare con l'estrazione dei materiali e gestire la catena produttiva, ma anche fare in modo che il sistema stradale sia all'altezza.
+
+
 
 
 # Long Description - Translation Disclaimer
@@ -120,6 +124,14 @@ Une fois que vous avez du fer, du carbone, du sable et du soufre, il est temps d
 
 Как только у вас появится немного железа, углерода, песка и серы, вы сможете построить свой первый сталелитейный и бетонный завод, чтобы приступить к созданию инфраструктуры. Даже такие предметы первой необходимости, как еда и кислород, требуют стабильной производственной цепочки, которую нельзя нарушать!
 
+### Italian
+
+Produci tutto quello che consumi
+
+Ai confini dello spazio, non puoi costruire una città spendendo soldi. Dovrai, invece, far lavorare i tuoi astronauti nelle miniere per ottenere i materiali grezzi.
+
+Una volta che avrai ferro, carbonio, sabbia e zolfo, sarà il momento di costruire la tua prima acciaieria e la tua prima fabbrica di cemento per cominciare ad approntare le infrastrutture. Anche i beni di prima necessità come ossigeno ed il cibo richiedono una solida catena produttiva che non deve essere interrotta!
+
 
 
 
@@ -154,6 +166,14 @@ Votre réseau routier peut supporter beaucoup de choses, mais sans votre surveil
 InfraSpace имитурует каждую машину. Каждый производимый ресурс необходимо транспортировать на завод для обработки, а каждый продукт должен попасть в среду обитания потребителя.
 
 Ваша дорожная сеть может справиться со многим, но без вашего надзора она в конечном итоге затонет в пробках. Стройте автомагистрали, перекрестки с круговым движением и многополосные дороги, чтобы обеспечить непрерывную работу производственного центра города.
+
+### Italian
+
+Infrastruttura dei Trasporti
+
+Infraspace simula ogni, singolo, veicolo. Ogni risorsa che produci deve essere trasportata ad una fabbrica per essere lavorata ed ogni prodotto deve essere trasportato in una abitazione per essere consumata ed usata.
+
+La tua rete stradale può gestire tanto traffico, ma senza la tua supervisione rallenterà e potrebbe anche bloccarsi. Costruisci autostrade, rotonde, e strade a più corsie per fare in modo che il cuore propduttivo della città continui a battere.
 
 
 
@@ -191,6 +211,12 @@ Vos premiers colons seront des astronautes, les meilleurs et les plus courageux 
 
 По мере роста поселения вам необходимо покрывать возрастающую рабочую нагрузку, нанимая ученых и инженеров, которые требуют некоторых удобств. Любой город достаточного размера рано или поздно станет домом для все большего и большего числа семей, поэтому убедитесь, что ваши школы справятся с этим, и что вы сможете поставлять новейшие продукты для VR-обучения.
 
+### Italian
+Crescita della Popolazione
+
+I tuoi primi coloni saranno astronauti, i migliori ed i più coraggiosi che l'umanità possa offrire. Dai loro cibo e riparo e faranno funzionare il tuo avamposto a tutti i costi.
+
+Con la crescita del tuo insediamento, dovrai gestire il crescente carico di lavoro assumendo scienziati ed ingegneri, che richiedono maggiori comodità. Ogni città di sufficienti dimensioni ospiterà sempre più famiglie, quindi accertati che le tue scuole siano all'altezza e sarai anche in grado di fornire i più avanzati strumenti di Realtà-Virtuale con l'educazione e l'intrattenimento.
 
 
 
@@ -232,6 +258,14 @@ Vous pouvez choisir d'ignorer l'objectif final et de construire librement en mod
 
 Вы можете игнорировать конечную цель и просто свободно строить в бесконечном режиме, если это ваш стиль игры!
 
+### Italian
+L'Obiettivo Finale
+
+L'umanità ha scoperto la tecnologia necessaria per creare condotti spazio-temporali artificiali che consentono di viaggiare per lunghe distanze nello spazio. Sfortunatamente, questi condotti richiedono enormi portali - nessuna piccola squadra di astronauti ne può costruire uno da sola.
+
+Mentre la conquista dello spazio da parte dell'umanità continua, il tuo compito è di costruire un avamposto in un mondo lontano che sia in grado di gestire l'enorme quantità di risorse necessarie per costruire uno di questi portali.
+
+Puoi scegliere di ignorare l'obiettivo finale e semplicemente costruire la tua città in libertà nella modalità infinita, se questo è il tuo stile di gioco!
 
 
 
@@ -259,5 +293,8 @@ La gestion du trafic peut être délicate et la survie peut être difficile. Vou
 
 Управление дорожным движением может быть изменчивым, а выживание - трудным. Вы можете регулировать сложность и того, и другого, чтобы сделать свой опыт управления городом таким легким, или таким сложным, каким вы хотите его видеть.
 
+### Italian
+Non devi rendere le cose difficili
 
+La gestione del traffico può essere mutevole e la sopravvivenza può essere dura. Puoi regolare le difficoltà di entrambe per rendere la gestione della tua città più facile o più difficile in base a come vuoi che sia.
 
