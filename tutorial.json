@@ -141,11 +141,13 @@
 		"german": "Verwende Straßen um die Minen mit der Betonfabrik zu verbinden",
 		"french": "Utilisez des routes pour relier les mines à l'usine de béton",
 		"russian": "Используйте дороги для соединения шахты с бетонным заводом.",
+		"italian": "Utilizzate le strade per connettere le miniere alla fabbrica di cemento",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
 		"german": "Verwende Strommasten um alle Gebäude mit dem Windrad zu verbinden",
 		"french": "Utilisez des poteaux électriques pour relier tous les bâtiments à votre éolienne",
 		"russian": "Используйте энергетические столбы для подключения всех зданий к ветряной турбине.",
+		"italian": "Usate i pali della luce per connettere tutti gli edifici alle turbine eoliche",
 	},
 }
