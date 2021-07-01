@@ -109,7 +109,7 @@
 		"german": "Ein 100% Upgrade ist brandneu, ein 0% Upgrade ist komplett verbraucht. Der Effekt des Upgrades ist aktiv solange die Haltbarkeit über 0 ist.",
 		"french": "Une amélioration de 100% est toute neuve, une amélioration de 0% est épuisée. L'effet de l'amélioration est actif tant que le pourcentage est supérieur à 0.",
 		"russian": "100% улучшение - полностью новое, в свою очередь 0% улучшение полностью израсходовано. Эффект улучшения активен до тех пор, пока процент выше 0.",
-		"chinese": "A 100% upgrade is brand new, a 0% upgrade is all used up. The upgrade effect is active as long as the percentage is above 0.--TODO",
+		"chinese": "100%升级是全新的，0%升级全部用完。 只要百分比在0以上，升级的效果就会激活。--TODO",
 		"italian": "Un miglioramento al 100% è completamente nuovo, allo 0% è completamente esaurito. L'effetto del miglioramento è attivo finchè la percentuale è superiore a 0.",
 	},
 }
