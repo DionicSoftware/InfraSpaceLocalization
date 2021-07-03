@@ -142,6 +142,7 @@
 		"french": "Utilisez des routes pour relier les mines à l'usine de béton",
 		"russian": "Используйте дороги для соединения шахты с бетонным заводом.",
 		"chinese": "使用道路将矿井与混凝土工厂连接起来",
+		"italian": "Utilizzate le strade per connettere le miniere alla fabbrica di cemento",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
@@ -149,5 +150,6 @@
 		"french": "Utilisez des poteaux électriques pour relier tous les bâtiments à votre éolienne",
 		"russian": "Используйте энергетические столбы для подключения всех зданий к ветряной турбине.",
 		"chinese": "使用电线杆将所有建筑物连接到你的风力涡轮机",
+		"italian": "Usate i pali della luce per connettere tutti gli edifici alle turbine eoliche",
 	},
 }
