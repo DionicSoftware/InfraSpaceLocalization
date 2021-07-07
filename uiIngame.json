@@ -297,5 +297,29 @@
 		"russian": "Жители %level% уровня",
 		"chinese": "%level%级市民",
 		"italian": "Cittadini di livello %level%",
-	}
+	},
+	"efficiencyTitle": {
+		"english": "Efficiency",
+		"german": "Effizienz",
+	},
+	"notEnoughWorkers": {
+		"english": "Not enough workers:",
+		"german": "Zu wenig Arbeiter:",
+	},
+	"notEnoughPower": {
+		"english": "Not enough power:",
+		"german": "Zu wenig Energie:",
+	},
+	"population": {
+		"english": "Population",
+		"german": "Bevölkerung",
+	},
+	"jobs": {
+		"english": "Jobs",
+		"german": "Arbeitsplätze",
+	},
+	"housing": {
+		"english": "Housing",
+		"german": "Wohnungen",
+	},
 }
