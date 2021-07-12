@@ -33,6 +33,9 @@ InfraSpace ist ein sci-fi Städtebauspiel - aber jede Ressource und jedes Produk
 ### French
 InfraSpace est un jeu de construction de villes de science-fiction - mais chaque ressource que vous produisez doit passer par vos infrastructures de transport. Pour prospérer, vous devrez ouvrir des mines et gérer vos chaînes de production, mais aussi vous occuper de votre réseau routier.
 
+### Spanish
+Infraspace es un constructor de ciudades de ciencia ficción - pero cada recursos que produzcas debe pasar por tu insfraestructura de transporte. Para prosperar en este sistema solar, no solo tendrás que iniciar operaciones mineras y gestionar cadenas de producción, sino también asegurarte que tu red de tráfico está a la altura de la tarea. 
+
 ### Russian
 InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.
 
@@ -119,6 +122,12 @@ Aux confins de l'espace, on ne peut pas construire une ville en dépensant de l'
 
 Une fois que vous avez du fer, du carbone, du sable et du soufre, il est temps d'installer votre première aciérie et votre première usine de béton pour commencer à mettre en place des infrastructures. Même les produits de première nécessité comme la nourriture et l'oxygène nécessitent une chaîne de production stable qui ne doit pas être interrompue !
 
+### Spanish
+Produce todo lo que consumas
+
+En los bordes del espacio humano, no puedes construir una ciudad gastando créditos. En cambio, tendrás que poner a tus primeros astronautas a trabajar en la minería y conseguir algunas materias primas.
+
+Una vez tengas algo de hierro, carbono, arena y azufre, es tiempo de establecer tu primer molino de acero y fábrica de concreto para empezar a colocar algo de infraestructura. ¡Incluso las necesidades como la comida y el oxígeno requieren de una cadena de producción continua que no debe romperse!
 
 ### Russian
 Производите все, что потребляете
@@ -280,6 +289,14 @@ Alors que la conquête de l'espace par l'humanité se poursuit, il vous appartie
 
 Vous pouvez choisir d'ignorer l'objectif final et de construire librement en mode libre, si vous préférez !
 
+### Spanish
+La meta final
+
+La humanidad ha descubierto la tecnología para crear agujeros de gusano artificiales para saltar vastas distancias a través del espacio. Desafortunadamente, estos agujeros de gusano requieren de portales enormes - ningún pequeño equipo de astronautas puede contruir uno por su cuenta.
+
+A medida que la conquista del espacio por la humanidad continua, es tu trabajo construir un puesto avanzado en un mundo muy lejano capaz de manejar la enorme cantidad de recursos y trabajo necesarios para construir uno de estos portales.
+
+¡Puedes elegir ignorar la meta final y solo construir libremente en el modo infinito si ese es más tu estilo de construcción de ciudades!
 
 ### Russian
 Конечная цель
@@ -329,6 +346,10 @@ Vous n'avez pas besoin d'être un expert
 
 La gestion du trafic peut être délicate et la survie peut être difficile. Vous pouvez ajuster les difficultés des deux pour que votre expérience de gestion de ville soit aussi facile - ou aussi difficile - que vous le souhaitez.
 
+### Spanish
+No tienes que jugar en difícil
+
+La administración del tráfico puede ser voluble, y la supervivencia puede ser dura. Puedes ajustar las dificultades, tanto para hacer que tu experiencia de manejo de la ciudad sea tan fácil - o tan difícil - como quieras que sea.
 
 ### Russian
 Вам не нужно напрягаться
