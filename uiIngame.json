@@ -301,25 +301,31 @@
 	"efficiencyTitle": {
 		"english": "Efficiency",
 		"german": "Effizienz",
+		"french": "Efficacité",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
 		"german": "Zu wenig Arbeiter:",
+		"french": "Pas assez d'ouvriers :",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
 		"german": "Zu wenig Energie:",
+		"french": "Pas assez d'énergie :",
 	},
 	"population": {
 		"english": "Population",
 		"german": "Bevölkerung",
+		"french": "Population",
 	},
 	"jobs": {
 		"english": "Jobs",
 		"german": "Arbeitsplätze",
+		"french": "Emplois",
 	},
 	"housing": {
 		"english": "Housing",
 		"german": "Wohnungen",
+		"french": "Logement",
 	},
 }
