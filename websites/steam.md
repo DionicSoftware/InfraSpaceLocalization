@@ -180,6 +180,12 @@ InfraSpace simule chaque véhicule. Chaque ressource que vous produisez doit êt
 
 Votre réseau routier peut supporter beaucoup de choses, mais sans votre surveillance, il ralentira et finira par se noyer dans les embouteillages. Construisez des autoroutes, des ronds-points et des routes à voies multiples pour que le cœur de production de la ville continue de battre.
 
+### Spanish
+Infraestructura de transporte
+
+InfraSpace simula cada vehículo. Cada recurso que produzcas debe ser transportado a una fábrica para su procesamiento, y cada producto debe ir a un hábitat para su consumo.
+
+Tu red de tráfico puede manejar un montón, pero sin tu supervisión se detendrá y se inundará de tráfico eventualmente. Construye autopistas, rotondas, y carreteras de varias vías para asegurar la producción y que el corazón de la ciudad siga latiendo.
 
 ### Russian
 Транспортная Инфраструктура
@@ -232,6 +238,12 @@ Vos premiers colons seront des astronautes, les meilleurs et les plus courageux 
 
 À mesure que votre colonie s'agrandit, vous devez couvrir la charge de travail croissante en employant des scientifiques et des ingénieurs, ce qui nécessite un peu plus de confort pour les habitants. Toute ville de taille suffisante accueillera tôt ou tard de plus en plus de familles. Assurez-vous donc que vos écoles peuvent faire face à cette situation et que vous êtes en mesure de fournir les derniers produits ludique en réalité virtuelle.
 
+### Spanish
+Crecimiento poblacional
+
+Tus primeros colonos serán astronautas, los mejores y más valientes que la humanidad puede ofrecer. Otórgales comida y refugio y mantendrán el puesto avanzado funcionando sin importar lo que pase.
+
+A medida que tu asentamiento crezca, deberás cubrir la creciente carga de trabajo empelando científicos e ingenieros, los que requeirán algunas comodidades adicionales. Cualquier ciudad de tamaño suficiente, tarde o temprano será el hogar de más y más familias, así que asegúrate que tus escuelas puedan manejarlas y que también puedas proveer los últimos productos VR de entretenimiento educativo.
 
 ### Russian
 Рост населения
