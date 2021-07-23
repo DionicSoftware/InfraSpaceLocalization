@@ -297,5 +297,33 @@
 		"russian": "Жители %level% уровня",
 		"chinese": "%level%级市民",
 		"italian": "Cittadini di livello %level%",
-	}
+	},
+	"population": {
+		"english": "Population",
+		"german": "Bevölkerung",
+	},
+	"jobs": {
+		"english": "Jobs",
+		"german": "Arbeitsplätze",
+	},
+	"housing": {
+		"english": "Housing",
+		"german": "Wohnungen",
+	},
+	"efficiencyTitle": {
+		"english": "Efficiency",
+		"german": "Effizienz",
+	},
+	"notEnoughWorkers": {
+		"english": "Not enough workers",
+		"german": "Nicht genügend Arbeiter",
+	},
+	"boostedByNeighbors": {
+		"english": "Boosted by neighbor buildings",
+		"german": "Geboosted von Nachbargebäuden",
+	},
+	"disturbedAirflow": {
+		"english": "Disturbed airflow",
+		"german": "Verwirbelter Luftstrom",
+	},
 }
