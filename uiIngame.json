@@ -298,18 +298,6 @@
 		"chinese": "%level%级市民",
 		"italian": "Cittadini di livello %level%",
 	},
-	"efficiencyTitle": {
-		"english": "Efficiency",
-		"german": "Effizienz",
-	},
-	"notEnoughWorkers": {
-		"english": "Not enough workers:",
-		"german": "Zu wenig Arbeiter:",
-	},
-	"notEnoughPower": {
-		"english": "Not enough power:",
-		"german": "Zu wenig Energie:",
-	},
 	"population": {
 		"english": "Population",
 		"german": "Bevölkerung",
@@ -321,5 +309,25 @@
 	"housing": {
 		"english": "Housing",
 		"german": "Wohnungen",
+	},
+	"efficiencyTitle": {
+		"english": "Efficiency",
+		"german": "Effizienz",
+	},
+	"notEnoughWorkers": {
+		"english": "Not enough workers",
+		"german": "Zu wenig Arbeiter",
+	},
+	"boostedByNeighbors": {
+		"english": "Boosted by neighbor buildings",
+		"german": "Geboosted von Nachbargebäuden",
+	},
+	"notEnoughPower": {
+		"english": "Not enough power:",
+		"german": "Zu wenig Energie:",
+	},
+	"disturbedAirflow": {
+		"english": "Disturbed airflow",
+		"german": "Verwirbelter Luftstrom",
 	},
 }
