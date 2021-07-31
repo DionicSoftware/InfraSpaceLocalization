@@ -366,6 +366,7 @@
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
 		"german": "Geboosted von Nachbargebäuden",
+		"french": "Boosté par les bâtiments voisins",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -376,5 +377,6 @@
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
 		"german": "Verwirbelter Luftstrom",
+		"french": "Flux d'air perturbé",
 	},
 }
