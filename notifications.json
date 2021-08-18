@@ -1,0 +1,10 @@
+﻿{
+  "notEnoughPowerInNetwork":  {
+		"english": "Not Enough Power in Network %networkId%",
+		"german": "Nicht genug Strom in Netz %networkId%",
+	},
+	"selectResearch":  {
+		"english": "Select Research",
+		"german": "Forschung auswählen",
+	},
+}
