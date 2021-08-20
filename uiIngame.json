@@ -379,4 +379,24 @@
 		"german": "Verwirbelter Luftstrom",
 		"french": "Flux d'air perturbé",
 	},
+	"buildCurvedRoad": {
+		"english": "Build Curved Road",
+		"german": "Runde Straße bauen",
+	},
+	"snapRoadLength": {
+		"english": "Snap Road Length",
+		"german": "Straßenlänge einrasten",
+	},
+	"snapRoadAngle": {
+		"english": "Snap Road Angle",
+		"german": "Straßenwinkel einrasten",
+	},
+	"replaceRoad": {
+		"english": "Replace Road",
+		"german": "Straße ersetzen",
+	},
+	"snapToRoad": { // snapping building to road
+		"english": "Snap to Road",
+		"german": "An Straße einrasten",
+	},
 }

@@ -368,4 +368,8 @@
 		"chinese": "市民",
 		"italian": "Cittadino in Partenza",
 	},
+	"resource_power": {
+		"english": "Power",
+		"german": "Strom",
+	}
 }
