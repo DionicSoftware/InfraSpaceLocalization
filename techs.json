@@ -223,13 +223,8 @@
     "italian": "Pannelli Solari Autopulenti",
   },
 	"techDesc_selfCleaningSolarPanels": {
-		"english": "Once your solar panels clean themselves, your solar power plants won't require so many workers.",
-		"german": "Wenn sich die Solarzellen reinigen, werden die Solarkraftwerke der Stadt nicht so viele Arbeiter benötigen.",
-    "french": "Une fois que vos panneaux solaires se seront nettoyés tout seuls, vos centrales solaires ne nécessiteront plus autant de travailleurs.",
-    "russian": "Как только ваши солнечные панели начнут самоочищаться, вашим солнечным электростанциям не потребуется так много рабочих.",
-    "spanish": "Una vez que tus paneles solares se limpien a sí mismos, tus plantas de energía solar requerirán menos trabajadores.",
-    "chinese": "当太阳能电池板自行清洁时，你的太阳能发电厂就不需要那么多工人了。",
-    "italian": "Non appena i pannelli solari si puliranno da soli, le tue centrali elettriche solari non avranno bisogno di così tanti lavoratori.",
+		"english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
+		"german": "Wenn sich die Solarzellen reinigen, werden die Solarkraftwerke der Stadt viel mehr Strom erzeugen können.",
 	},
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",

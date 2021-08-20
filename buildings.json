@@ -343,8 +343,13 @@
 
 
   "storehouse": {
-    "english": "Storehouse",
-		"german": "Lagerhaus",
+    // TODO-french
+    // TODO-russian
+    // TODO-chinese
+    // TODO-spanish
+    // TODO-italian
+    "english": "Construction Material Storage",
+		"german": "Baumateriallager",
     "french": "Entrepôt",
     "russian": "Склад",
     "chinese": "仓库",

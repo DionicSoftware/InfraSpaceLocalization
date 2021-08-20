@@ -27,13 +27,8 @@
 		"italian": "Pannelli Solari Autopulenti",
 	},
 	"upgradeDesc_selfCleaningSolarPanels":  {
-		"english": "Self cleaning panels reduce your workforce requirement by %amount%%.",
-		"german": "Selbstreinigen Solarzellen reduzieren die notwendigen Arbeiter um %amount%%.",
-		"french": "Les panneaux solaires autonettoyants réduisent votre besoin en main-d'œuvre de %amount%%.",
-		"spanish": "Los paneles autolimpiables reducen la necesidad de personal en v%amount%%.",
-		"russian": "Самоочищающиеся панели сокращают потребность в рабочей силе на %amount%%.",
-		"chinese": "自清洁面板将减少%amount%%劳动力需求。",
-		"italian": "I pannelli solari autopulenti riducono la forza lavoro richiesta del %amount%%.",
+		"english": "Self cleaning panels improve power output by %amount%%.",
+		"german": "Selbstreinigen Solarzellen erhöhen die Stromerzeugung um %amount%%.",
 	},
 	"upgrade_industrialWasteRecycling":  {
 		"english": "Industrial Waste Recycling",
