@@ -274,12 +274,16 @@
   },
   "tech_highways": {
     "english": "Highways",
-		"german": "Autobahnen",
+		"german": "Autobahn",
     "french": "Autoroutes",
     "russian": "Шоссе",
     "spanish": "Autopistas",
     "chinese": "高速公路",
     "italian": "Autostrade",
+  },
+  "tech_superhighways": {
+    "english": "Superhighways",
+		"german": "Superautobahn",
   },
 	
   "tech_homeRobots": {

@@ -1,5 +1,5 @@
 ﻿{
-  "roadGravel": {
+  "road_gravel": {
 		"english": "Gravel Road",
 		"german": "Kiesstraße",
 		"french": "Route de gravier",
@@ -8,7 +8,7 @@
 		"chinese": "碎石路",
 		"italian": "Strada in Ghiaia",
 	},
-	"roadConcrete": {
+	"road_concrete": {
 		"english": "Concrete Road",
 		"german": "Betonstraße",
 		"french": "Route en béton",
@@ -17,52 +17,7 @@
 		"chinese": "混凝土路",
 		"italian": "Strada in Cemento",
 	},
-	"roadFourLane": {
-		"english": "Four Lane Road",
-		"german": "Vierspurige Straße",
-		"french": "Route à quatre voies",
-		"russian": "Четырехполосная дорога",
-		"spanish": "Carretera de Cuatro Carriles",
-		"chinese": "四车道",
-		"italian": "Strada a Quattro Corsie",
-	},
-	"roadSixLane": {
-		"english": "Six Lane Road",
-		"german": "Sechsspurige Straße",
-		"french": "Route à six voies",
-		"russian": "Шестиполосная дорога",
-		"spanish": "Carretera de Seis Carriles",
-		"chinese": "六车道",
-		"italian": "Strada a Sei Corsie",
-	},
-	"roadOneWay": {
-		"english": "One Way Road",
-		"german": "Einbahnstraße",
-		"french": "Route à sens unique",
-		"russian": "Дорога с односторонним движением",
-		"spanish": "Carretera de Una Vía",
-		"chinese": "单行道",
-		"italian": "Strada a Senso Unico",
-	},
-	"roadOneWayTwoLane": {
-		"english": "Two Lane One Way Road",
-		"german": "Zweispurige Einbahnstraße",
-		"french": "Route à deux voies à sens unique",
-		"russian": "Двухполосная дорога с односторонним движением",
-		"spanish": "Carretera Unidireccional de Dos Carriles",
-		"chinese": "双车道单行道",
-		"italian": "Strada a Senso Unico a Due Corsie",
-	},
-	"roadOneWayThreeLane": {
-		"english": "Three Lane One Way Road",
-		"german": "Dreispurige Einbahnstraße",
-		"french": "Route à trois voies à sens unique",
-		"russian": "Трехполосная дорога с односторонним движением",
-		"spanish": "Carretera Unidireccional de Tres Carriles",
-		"chinese": "三车道单行道",
-		"italian": "Strada a Senso Unico a Tre Corsie",
-	},
-	"roadHighway": {
+	"road_highway": {
 		"english": "Highway",
 		"german": "Autobahn",
 		"french": "Autoroute",
@@ -70,5 +25,9 @@
 		"spanish": "Autopista",
 		"chinese": "高速公路",
 		"italian": "Autostrada",
+	},
+	"road_superhighway": {
+		"english": "Superhighway",
+		"german": "Superautobahn",
 	},
 }
