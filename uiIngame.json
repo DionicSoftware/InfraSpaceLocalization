@@ -199,6 +199,14 @@
 		"chinese": "生产",
 		"italian": "Produzione",
 	},
+	"consumption": {
+		"english": "Consumption",
+		"german": "Verbrauch",
+	},
+	"workers": {
+		"english": "Workers",
+		"german": "Arbeiter",
+	},
 	"storage": {
 		"english": "Storage",
 		"german": "Lager",
