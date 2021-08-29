@@ -39,7 +39,7 @@
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
 		"german": "Baue eine Straße neben Schwefel und Eisen.",
-		"french": "Construire une route à côté du soufre et du fer.",
+		"french": "Construire une route à côté du soufre et du fer",
 		"russian": "Постройте дорогу рядом с серой и железом.",
 		"spanish": "Construye un camino cerca de azufre y hierro.",
 		"chinese": "在硫磺矿和铁矿旁边修建一条道路。",
@@ -102,7 +102,7 @@
 	"tutorial_powerGeneration":  {
 		"english": "Power Generation",
 		"german": "Stromerzeugung",
-		"french": "Production d'électricité",
+		"french": "Production d'énergie",
 		"russian": "Генерация энергии",
 		"spanish": "Generación de Energía",
 		"chinese": "发电",
@@ -156,7 +156,7 @@
 	"tutorial_roads":  {
 		"english": "Use roads to connect the mines with the concrete factory",
 		"german": "Verwende Straßen um die Minen mit der Betonfabrik zu verbinden",
-		"french": "Utilisez des routes pour relier les mines à l'usine de béton",
+		"french": "Utilisez des routes pour relier les mines à l'usine de béton.",
 		"russian": "Используйте дороги для соединения шахты с бетонным заводом.",
 		"spanish": "Utiliza caminos para conectar las minas con la fábrica de concreto",
 		"chinese": "使用道路将矿井与混凝土工厂连接起来",
@@ -165,7 +165,7 @@
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
 		"german": "Verwende Strommasten um alle Gebäude mit dem Windrad zu verbinden",
-		"french": "Utilisez des poteaux électriques pour relier tous les bâtiments à votre éolienne",
+		"french": "Utilisez des poteaux électriques pour relier tous les bâtiments à votre éolienne.",
 		"russian": "Используйте энергетические столбы для подключения всех зданий к ветряной турбине.",
 		"spanish": "Usa postes de energía para conectar todos los edificios a tus turbinas eólicas",
 		"chinese": "使用电线杆将所有建筑物连接到你的风力涡轮机",

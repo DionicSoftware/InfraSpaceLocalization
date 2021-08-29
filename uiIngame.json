@@ -20,7 +20,7 @@
 	"powerConsumed":  {
 		"english": "Power consumed:",
 		"german": "Stromverbrauch:",
-		"french": "Électricité consommée :",
+		"french": "Énergie consommée :",
 		"spanish": "Energía consumida:",
 		"russian": "Потребляемая энергия:",
 		"chinese": "耗电量:",
@@ -29,7 +29,7 @@
 	"powerProduced":  {
 		"english": "Power produced:",
 		"german": "Stromproduktion:",
-		"french": "Électricité produite :",
+		"french": "Énergie produite :",
 		"spanish": "Energía producida:",
 		"russian": "Производимая энергия:",
 		"chinese": "发电量:",
@@ -74,7 +74,7 @@
 	"noPower": {
 		"english": "No power",
 		"german": "Kein Strom",
-		"french": "Pas d'électricité",
+		"french": "Pas d'énergie",
 		"spanish": "Sin energía",
 		"russian": "Нет энергии",
 		"chinese": "无电力",
@@ -130,7 +130,7 @@
 	"selectTech":  {
 		"english": "Select technology to research",
 		"german": "Technolgie wählen",
-		"french": "Sélectionner la technologie à rechercher",
+		"french": "Sélectionner une technologie à rechercher",
 		"spanish": "Selecciona una tecnología para investigar",
 		"russian": "Выберите технологию для исследования",
 		"chinese": "选择技术研究",
@@ -202,10 +202,12 @@
 	"consumption": {
 		"english": "Consumption",
 		"german": "Verbrauch",
+		"french": "Consommation",
 	},
 	"workers": {
 		"english": "Workers",
 		"german": "Arbeiter",
+		"french": "Ouvriers",
 	},
 	"storage": {
 		"english": "Storage",
@@ -390,25 +392,31 @@
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
 		"german": "Runde Straße bauen",
+		"french": "Courber les routes",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
 		"german": "Straßenlänge einrasten",
+		"french": "Assitance de longueur de routes",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
 		"german": "Straßenwinkel einrasten",
+		"french": "Assitance d'angle de routes",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
 		"german": "Straße ersetzen",
+		"french": "Remplacer des routes",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
 		"german": "An Straße einrasten",
+		"french": "Accrocher à la route",
 	},
 	"resourcesOnWay" : { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
 		"german": "Momentan in der Anlieferung: %amount%",
+		"french": "En cours de livraison : %amount%",
 	},
 }

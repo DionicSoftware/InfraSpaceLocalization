@@ -371,5 +371,6 @@
 	"resource_power": {
 		"english": "Power",
 		"german": "Strom",
+		"french": "Énergie",
 	}
 }
