@@ -138,6 +138,10 @@
 		"russian": "Высокотехнологичный инструмент",
 		"chinese": "高科技工具",
 	},
+	"resource_holoDisplay": {
+		"english": "Holo-Display",
+		"german": "Holo-Display",
+	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
 		"german": "VR-Edutainment",
