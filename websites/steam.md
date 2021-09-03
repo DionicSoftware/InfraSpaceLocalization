@@ -33,8 +33,18 @@ InfraSpace ist ein sci-fi Städtebauspiel - aber jede Ressource und jedes Produk
 ### French
 InfraSpace est un jeu de construction de villes de science-fiction - mais chaque ressource que vous produisez doit passer par vos infrastructures de transport. Pour prospérer, vous devrez ouvrir des mines et gérer vos chaînes de production, mais aussi vous occuper de votre réseau routier.
 
+### Spanish
+Infraspace es un constructor de ciudades de ciencia ficción - pero cada recursos que produzcas debe pasar por tu insfraestructura de transporte. Para prosperar en este sistema solar, no solo tendrás que iniciar operaciones mineras y gestionar cadenas de producción, sino también asegurarte que tu red de tráfico está a la altura de la tarea. 
+
 ### Russian
 InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.
+
+### Chinese
+Infraspace是一个科幻主题的城市建设模拟 - 统筹交通，让制造的产品能够去往它们的归宿。为了在这个恒星系中持续发展，你不仅要开展各种矿物的开采作业，安排完备的生产线，还要确保你的路网能够承受这种挑战。
+
+### Italian
+Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risorsa prodotta deve passare per la tua infrastruttura di trasporti. Per prosperare dovrai estrarre i materiali e gestire la catena produttiva, ma dovrai anche avere un sistema stradale adeguato.
+
 
 
 
@@ -112,6 +122,12 @@ Aux confins de l'espace, on ne peut pas construire une ville en dépensant de l'
 
 Une fois que vous avez du fer, du carbone, du sable et du soufre, il est temps d'installer votre première aciérie et votre première usine de béton pour commencer à mettre en place des infrastructures. Même les produits de première nécessité comme la nourriture et l'oxygène nécessitent une chaîne de production stable qui ne doit pas être interrompue !
 
+### Spanish
+Produce todo lo que consumas
+
+En los bordes del espacio humano, no puedes construir una ciudad gastando créditos. En cambio, tendrás que poner a tus primeros astronautas a trabajar en la minería y conseguir algunas materias primas.
+
+Una vez tengas algo de hierro, carbono, arena y azufre, es tiempo de establecer tu primer molino de acero y fábrica de concreto para empezar a colocar algo de infraestructura. ¡Incluso las necesidades como la comida y el oxígeno requieren de una cadena de producción continua que no debe romperse!
 
 ### Russian
 Производите все, что потребляете
@@ -119,6 +135,23 @@ Une fois que vous avez du fer, du carbone, du sable et du soufre, il est temps d
 На досигаемой человеком грани космоса нельзя построить город, просто потратив много денег. Вместо этого, вам придется отправлять своих первых космонавтов на добычу ресурсов.
 
 Как только у вас появится немного железа, углерода, песка и серы, вы сможете построить свой первый сталелитейный и бетонный завод, чтобы приступить к созданию инфраструктуры. Даже такие предметы первой необходимости, как еда и кислород, требуют стабильной производственной цепочки, которую нельзя нарушать!
+
+### Chinese
+自给自足！生产你所需要的一切
+
+在人类文明的边缘，金钱没法盖起你所需的高楼。相反，派遣你的第一个宇航员来挖掘并收集基础资源才是正确的选择。
+
+一旦你找到了铁、碳、沙和硫，筑起炼钢和生产混凝土的工厂，就可以为你的殖民地开垦土地，建造必需的基础设施。
+
+食物和氧气这样最简单的生产线也需要保持稳定，来让这个新生的殖民地蓬勃发展。
+
+### Italian
+
+Produci tutto quello che consumi
+
+Ai confini dello spazio, non puoi costruire una città spendendo soldi. Dovrai, invece, far lavorare i tuoi astronauti nelle miniere per ottenere i materiali grezzi.
+
+Una volta che avrai ferro, carbonio, sabbia e zolfo, sarà il momento di costruire la tua prima acciaieria e la tua prima fabbrica di cemento per cominciare ad approntare le infrastrutture. Anche i beni di prima necessità come ossigeno ed il cibo richiedono una solida catena produttiva che non deve essere interrotta!
 
 
 
@@ -147,6 +180,12 @@ InfraSpace simule chaque véhicule. Chaque ressource que vous produisez doit êt
 
 Votre réseau routier peut supporter beaucoup de choses, mais sans votre surveillance, il ralentira et finira par se noyer dans les embouteillages. Construisez des autoroutes, des ronds-points et des routes à voies multiples pour que le cœur de production de la ville continue de battre.
 
+### Spanish
+Infraestructura de transporte
+
+InfraSpace simula cada vehículo. Cada recurso que produzcas debe ser transportado a una fábrica para su procesamiento, y cada producto debe ir a un hábitat para su consumo.
+
+Tu red de tráfico puede manejar un montón, pero sin tu supervisión se detendrá y se inundará de tráfico eventualmente. Construye autopistas, rotondas, y carreteras de varias vías para asegurar la producción y que el corazón de la ciudad siga latiendo.
 
 ### Russian
 Транспортная Инфраструктура
@@ -154,6 +193,23 @@ Votre réseau routier peut supporter beaucoup de choses, mais sans votre surveil
 InfraSpace имитурует каждую машину. Каждый производимый ресурс необходимо транспортировать на завод для обработки, а каждый продукт должен попасть в среду обитания потребителя.
 
 Ваша дорожная сеть может справиться со многим, но без вашего надзора она в конечном итоге затонет в пробках. Стройте автомагистрали, перекрестки с круговым движением и многополосные дороги, чтобы обеспечить непрерывную работу производственного центра города.
+
+### Chinese
+四通八达！运输线与基础设施
+
+InfraSpace将模拟游戏中的每一辆车。生产出来的资源要被送往工厂进一步加工，而产品又需要送到每个住所供人使用。
+
+如果你不提前做好规划，庞大的交通流早晚会将你的道路占满，让你的产线停滞。
+
+建造高速，环岛和多车道公路以保证殖民地的工业之心保持跳动。
+
+### Italian
+
+Infrastruttura dei Trasporti
+
+Infraspace simula ogni, singolo, veicolo. Ogni risorsa che produci deve essere trasportata ad una fabbrica per essere lavorata ed ogni prodotto deve essere trasportato in una abitazione per essere consumata ed usata.
+
+La tua rete stradale può gestire tanto traffico, ma senza la tua supervisione rallenterà e potrebbe anche bloccarsi. Costruisci autostrade, rotonde, e strade a più corsie per fare in modo che il cuore propduttivo della città continui a battere.
 
 
 
@@ -182,6 +238,12 @@ Vos premiers colons seront des astronautes, les meilleurs et les plus courageux 
 
 À mesure que votre colonie s'agrandit, vous devez couvrir la charge de travail croissante en employant des scientifiques et des ingénieurs, ce qui nécessite un peu plus de confort pour les habitants. Toute ville de taille suffisante accueillera tôt ou tard de plus en plus de familles. Assurez-vous donc que vos écoles peuvent faire face à cette situation et que vous êtes en mesure de fournir les derniers produits ludique en réalité virtuelle.
 
+### Spanish
+Crecimiento poblacional
+
+Tus primeros colonos serán astronautas, los mejores y más valientes que la humanidad puede ofrecer. Otórgales comida y refugio y mantendrán el puesto avanzado funcionando sin importar lo que pase.
+
+A medida que tu asentamiento crezca, deberás cubrir la creciente carga de trabajo empelando científicos e ingenieros, los que requeirán algunas comodidades adicionales. Cualquier ciudad de tamaño suficiente, tarde o temprano será el hogar de más y más familias, así que asegúrate que tus escuelas puedan manejarlas y que también puedas proveer los últimos productos VR de entretenimiento educativo.
 
 ### Russian
 Рост населения
@@ -191,6 +253,23 @@ Vos premiers colons seront des astronautes, les meilleurs et les plus courageux 
 
 По мере роста поселения вам необходимо покрывать возрастающую рабочую нагрузку, нанимая ученых и инженеров, которые требуют некоторых удобств. Любой город достаточного размера рано или поздно станет домом для все большего и большего числа семей, поэтому убедитесь, что ваши школы справятся с этим, и что вы сможете поставлять новейшие продукты для VR-обучения.
 
+### Chinese
+繁荣富强！人口发展和需求
+
+你的第一个殖民者会是宇航员，是人类之中最为勇敢的存在。给宇航员提供食物和住所，他们就会让你的前哨保持运作，风雨无阻。
+
+当你的殖民地发展时，你会需要许多科学家和工程师来填补日益增多的工作，而他们对环境的要求会比先驱者们来得更高。
+
+当殖民地成为城市，它也会成为许多人的家，而非普通的岗位。建造学校，生产最新的VR教育器材以确保市民的需求得到满足。
+
+
+
+### Italian
+Crescita della Popolazione
+
+I tuoi primi coloni saranno astronauti, i migliori ed i più coraggiosi che l'umanità possa offrire. Dai loro cibo e riparo e faranno funzionare il tuo avamposto a tutti i costi.
+
+Con la crescita del tuo insediamento, dovrai gestire il crescente carico di lavoro assumendo scienziati ed ingegneri, che richiedono maggiori comodità. Ogni città di sufficienti dimensioni ospiterà sempre più famiglie, quindi accertati che le tue scuole siano all'altezza e sarai anche in grado di fornire i più avanzati strumenti di Realtà-Virtuale con l'educazione e l'intrattenimento.
 
 
 
@@ -222,6 +301,14 @@ Alors que la conquête de l'espace par l'humanité se poursuit, il vous appartie
 
 Vous pouvez choisir d'ignorer l'objectif final et de construire librement en mode libre, si vous préférez !
 
+### Spanish
+La meta final
+
+La humanidad ha descubierto la tecnología para crear agujeros de gusano artificiales para saltar vastas distancias a través del espacio. Desafortunadamente, estos agujeros de gusano requieren de portales enormes - ningún pequeño equipo de astronautas puede contruir uno por su cuenta.
+
+A medida que la conquista del espacio por la humanidad continua, es tu trabajo construir un puesto avanzado en un mundo muy lejano capaz de manejar la enorme cantidad de recursos y trabajo necesarios para construir uno de estos portales.
+
+¡Puedes elegir ignorar la meta final y solo construir libremente en el modo infinito si ese es más tu estilo de construcción de ciudades!
 
 ### Russian
 Конечная цель
@@ -232,6 +319,24 @@ Vous pouvez choisir d'ignorer l'objectif final et de construire librement en mod
 
 Вы можете игнорировать конечную цель и просто свободно строить в бесконечном режиме, если это ваш стиль игры!
 
+
+### Chinese
+终极目标
+
+人类文明已经学会了如何建造人工虫洞来向远的太空进行探索。不幸的是，建造这些虫洞需要大型的传送门——仅靠最初的家园是远远不够的。
+
+随着人类进一步征服太空，现在轮到你在遥远的星球上建立前哨，为这项庞大的工程提供资源和人力。
+
+你也可以选择无视这个目标，自由的发展自己的殖民地。
+
+### Italian
+L'Obiettivo Finale
+
+L'umanità ha scoperto la tecnologia necessaria per creare condotti spazio-temporali artificiali che consentono di viaggiare per lunghe distanze nello spazio. Sfortunatamente, questi condotti richiedono enormi portali - nessuna piccola squadra di astronauti ne può costruire uno da sola.
+
+Mentre la conquista dello spazio da parte dell'umanità continua, il tuo compito è di costruire un avamposto in un mondo lontano che sia in grado di gestire l'enorme quantità di risorse necessarie per costruire uno di questi portali.
+
+Puoi scegliere di ignorare l'obiettivo finale e semplicemente costruire la tua città in libertà nella modalità infinita, se questo è il tuo stile di gioco!
 
 
 
@@ -253,11 +358,23 @@ Vous n'avez pas besoin d'être un expert
 
 La gestion du trafic peut être délicate et la survie peut être difficile. Vous pouvez ajuster les difficultés des deux pour que votre expérience de gestion de ville soit aussi facile - ou aussi difficile - que vous le souhaitez.
 
+### Spanish
+No tienes que jugar en difícil
+
+La administración del tráfico puede ser voluble, y la supervivencia puede ser dura. Puedes ajustar las dificultades, tanto para hacer que tu experiencia de manejo de la ciudad sea tan fácil - o tan difícil - como quieras que sea.
 
 ### Russian
 Вам не нужно напрягаться
 
 Управление дорожным движением может быть изменчивым, а выживание - трудным. Вы можете регулировать сложность и того, и другого, чтобы сделать свой опыт управления городом таким легким, или таким сложным, каким вы хотите его видеть.
 
+### Chinese
+你不必在此受苦
 
+交通管理和人民的生活也许瞬息万变，困难重重，但你还有选择。你可以调整游戏的难度，让它更加容易（或者更难），随你喜好。
+
+### Italian
+Non devi rendere le cose difficili
+
+La gestione del traffico può essere mutevole e la sopravvivenza può essere dura. Puoi regolare le difficoltà di entrambe per rendere la gestione della tua città più facile o più difficile in base a come vuoi che sia.
 
