@@ -361,6 +361,28 @@
 		"french": "Logement",
 		"spanish": "Viviendas",
 	},
+	"statistics_population" : {
+		"english": "Population",
+		"german": "Bevölkerung",
+		"french": "Population",
+		"spanish": "Población",
+	},
+	"statistics_jobs" : {
+		"english": "Jobs",
+		"german": "Arbeitsplätze",
+		"french": "Emplois",
+		"spanish": "Trabajos",
+	},
+	"statistics_housing" : {
+		"english": "Housing",
+		"german": "Wohnungen",
+		"french": "Logement",
+		"spanish": "Viviendas",
+	},
+	"statistics_immigrationRate" : {
+		"english": "Immigration Rate",
+		"german": "Einwanderungsrate",
+	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
 		"german": "Effizienz",
