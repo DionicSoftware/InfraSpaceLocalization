@@ -1620,4 +1620,145 @@
 		"romanian": "Această salvare nu este compatibilă cu versiunea dvs. de joc.\nPuteți juca versiuni vechi folosind funcția „Betas” din Steam.",
 		"japanese": "このセーブデーターは現在のゲームバージョンと互換性がありません。\nSteamのベーター機能を使用して古いバージョンのゲームをプレイする事ができます。",
 	},
+
+
+
+	// ROADMAP
+	"roadmap": {
+		"english": "Roadmap",
+		"german": "Roadmap",
+	},
+	"noRoadmapFound": {
+		"english": "No Roadmap found.\n\nAre you connected to the internet?",
+		"german": "Keine Roadmap gefunden.\n\nHast du Verbindung zum Internet?",
+	},
+	"earlyAccessPromises": {
+		"english": "Guaranteed Features for Early Access",
+		"german": "Garantierte Features für den Early Access",
+	},
+	"voteOnExtraFeatures": {
+		"english": "Vote on Extra Features",
+		"german": "Stimme für Extrafeatures",
+	},
+	"voteOnExtraFeatures_desc": {
+		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
+		"german": "Stimme für deine Lieblingsfeatures, damit wir wissen worauf wir uns konzentrieren sollen.\nWir werden Features aus dieser Liste wählen je nachdem wie sehr sie von der Community gewünscht werden und wie gut sie in das Spiel passen.",
+	},
+	"vote": {
+		"english": "Vote",
+		"german": "Abstimmen",
+	},
+	"discuss": {
+		"english": "Discuss",
+		"german": "Forum",
+	},
+	"reportBug": {
+		"english": "Report a Bug",
+		"german": "Einen Bug melden",
+	},
+	"translateInfraSpace": {
+		"english": "Translate InfraSpace",
+		"german": "InfraSpace übersetzen",
+	},
+	
+	"roadmap_trafficTools_title": {
+		"english": "Traffic Signs and Traffic Lights",
+		"german": "Verkehrsschilder und Ampeln",
+	},
+	"roadmap_trafficTools_desc": {
+		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
+		"german": "a",
+	},
+	"roadmap_trains_title": {
+		"english": "Trains",
+		"german": "Züge",
+	},
+	"roadmap_trains_desc": {
+		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
+		"german": "",
+	},
+	"roadmap_endgame_title": {
+		"english": "Large Endgame Project",
+		"german": "Großes Endgame-Projekt",
+	},
+	"roadmap_endgame_desc": {
+		"english": "Are you looking for another challenge after maxing out your city and finishing the tech tree?",
+		"german": "",
+	},
+	
+	"roadmap_gondolas_title": {
+		"english": "Gondolas for Highland Access",
+		"german": "Gondeln zur Hochebenenanbindung",
+	},
+	"roadmap_gondolas_desc": {
+		"english": "High capacity cargo gondolas can carry your products over rocks and mountains.",
+		"german": "",
+	},
+	"roadmap_happinessSystem_title": {
+		"english": "Happiness System",
+		"german": "Zufriendenheitssystem",
+	},
+	"roadmap_happinessSystem_desc": {
+		"english": "Advanced system to decide when habitats upgrade. Take into account nearby service buildings, noise, ordinances, etc.",
+		"german": "",
+	},
+	"roadmap_modSupport_title": {
+		"english": "Mod Support",
+		"german": "Unterstützung für Mods",
+	},
+	"roadmap_modSupport_desc": {
+		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
+		"german": "",
+	},
+	
+	"roadmap_pipes_title": {
+		"english": "Pipes for Liquids and Gases",
+		"german": "Rohre für Flüssigkeiten und Gase",
+	},
+	"roadmap_pipes_desc": {
+		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
+		"german": "",
+	},
+	"roadmap_heatSystem_title": {
+		"english": "Heat System",
+		"german": "Wärmesystem",
+	},
+	"roadmap_heatSystem_desc": {
+		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
+		"german": "",
+	},
+	"roadmap_dayNightCycle_title": {
+		"english": "Day-Night Cycle",
+		"german": "Tag-Nacht-Zyklus",
+	},
+	"roadmap_dayNightCycle_desc": {
+		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
+		"german": "",
+	},
+	
+	"roadmap_firesCrime_title": {
+		"english": "Fires and Crime",
+		"german": "Feuer und Kriminalität",
+	},
+	"roadmap_firesCrime_desc": {
+		"english": "Accidents happen and your city need first responders to deal with them - be prepared!",
+		"german": "",
+	},
+	"roadmap_flyingCars_title": {
+		"english": "Flying Cars for Workers",
+		"german": "Fliegende Autos für Arbeiter",
+	},
+	"roadmap_flyingCars_desc": {
+		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
+		"german": "",
+	},
+	"roadmap_naturalDisasters_title": {
+		"english": "Natural Disasters",
+		"german": "Naturkatastrophen",
+	},
+	"roadmap_naturalDisasters_desc": {
+		"english": "How well are your roads going to work after a sand storm? What can you do to be ready?",
+		"german": "",
+	},
+
 }
