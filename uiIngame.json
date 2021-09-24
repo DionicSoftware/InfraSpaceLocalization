@@ -382,6 +382,7 @@
 	"statistics_immigrationRate" : {
 		"english": "Immigration Rate",
 		"german": "Einwanderungsrate",
+		"french": "Taux d'immigration",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
