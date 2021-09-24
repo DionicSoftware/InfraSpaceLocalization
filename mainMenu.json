@@ -1667,7 +1667,7 @@
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
-		"german": "a",
+		"german": "Halte deine Kreuzungen frei und priorisiere welche Autos zuerst fahren dürfen.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -1675,15 +1675,15 @@
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
-		"german": "",
+		"german": "Autobahnen sind ganz nett, aber manchmal muss man Tonnen an Material durch die halbe Stadt bewegen.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
 		"german": "Großes Endgame-Projekt",
 	},
 	"roadmap_endgame_desc": {
-		"english": "Are you looking for another challenge after maxing out your city and finishing the tech tree?",
-		"german": "",
+		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
+		"german": "Hat deine Stadt den höchsten Level erreicht und hast du den Forschungsbaum abgeschlossen? Suchst du nach noch einer letzten Herausforderung?",
 	},
 	
 	"roadmap_gondolas_title": {
@@ -1691,16 +1691,16 @@
 		"german": "Gondeln zur Hochebenenanbindung",
 	},
 	"roadmap_gondolas_desc": {
-		"english": "High capacity cargo gondolas can carry your products over rocks and mountains.",
-		"german": "",
+		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
+		"german": "Große Frachtgondeln können deine Güter über Felsen und Berge bringen.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
 		"german": "Zufriendenheitssystem",
 	},
 	"roadmap_happinessSystem_desc": {
-		"english": "Advanced system to decide when habitats upgrade. Take into account nearby service buildings, noise, ordinances, etc.",
-		"german": "",
+		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
+		"german": "Verbessertes System um zu entscheiden wann sich Habitats aufstufen. Berücksichtigt Servicegebäude in der Nähe, Lärm, Verordnungen und mehr.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -1708,7 +1708,7 @@
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
-		"german": "",
+		"german": "Unterstützung für Balancemods, Gebäudemods, Ressourcenmods, UI-Mods, Infrastrukturmods, und Scriptmods.",
 	},
 	
 	"roadmap_pipes_title": {
@@ -1717,7 +1717,7 @@
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
-		"german": "",
+		"german": "Was, wenn du große Mengen an Ressourcen im Untergrund oder in Pipelines befördern könnest? Was, wenn du Wasser produzieren müsstest um zu überleben?",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -1725,7 +1725,7 @@
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
-		"german": "",
+		"german": "Lebenserhaltungssystem sind wichtig im Weltraum - deine Stadt warm oder kühl genug zu halten könnte überlebenswichtig sein.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -1733,7 +1733,7 @@
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
-		"german": "",
+		"german": "Sieht cool aus und du musst deine Stromnetz auf die Nacht vorbereiten. Könnte auch gut mit dem Wärmesystem funktionieren - Sandplaneten werden in der Nacht sehr kalt.",
 	},
 	
 	"roadmap_firesCrime_title": {
@@ -1741,8 +1741,8 @@
 		"german": "Feuer und Kriminalität",
 	},
 	"roadmap_firesCrime_desc": {
-		"english": "Accidents happen and your city need first responders to deal with them - be prepared!",
-		"german": "",
+		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
+		"german": "Unfälle können passieren und deine Stadt braucht Rettungspersonal um mit ihnen umzugehen - sei vorbereitet!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -1750,15 +1750,15 @@
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
-		"german": "",
+		"german": "Arbeiter könnten das Auto zur Arbeit nehmen. Ein Upgrade zu Flugautos würde auch das Straßennetz nicht überlasten!",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
 		"german": "Naturkatastrophen",
 	},
 	"roadmap_naturalDisasters_desc": {
-		"english": "How well are your roads going to work after a sand storm? What can you do to be ready?",
-		"german": "",
+		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
+		"german": "Wie gut werden deine Straßen nach einem Sandsturm funktionieren? Wärst du bereit?",
 	},
 
 }
