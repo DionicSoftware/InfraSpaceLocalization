@@ -596,4 +596,12 @@
     "spanish": "Reactor de Neutrones Rápidos",
     "italian": "Reattore a Neutroni Veloci",
 	},
+  "signStanding": {
+    "english": "Great Standing Sign",
+    "german": "Großer stehender Schriftzug",
+  },
+  "signLaying": {
+    "english": "Great Laying Sign",
+    "german": "Großer liegender Schriftzug",
+  },
 }

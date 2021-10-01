@@ -442,4 +442,50 @@
 		"german": "Momentan in der Anlieferung: %amount%",
 		"french": "En cours de livraison : %amount%",
 	},
+
+	// sign panel
+	"signPanelText": {
+		"english": "Text",
+		"german": "Text",
+	},
+	"fontSize": {
+		"english": "Font Size",
+		"german": "Schriftgröße",
+	},
+	"font": {
+		"english": "Font",
+		"german": "Schriftart",
+	},
+	"notConnectedToPowerNetwork": {
+		"english": "Not connected to power network",
+		"german": "Nicht mit Stromnetz verbunden",
+	},
+	"buildingColliding": {
+		"english": "Building is colliding with something",
+		"german": "Gebäude kollidiert mit etwas",
+	},
+	"buildingNotPlacedOnResourceDeposit": {
+		"english": "Building not placed on resource deposit",
+		"german": "Gebäude nicht auf Ressourcenvorkommen platziert",
+	},
+	"roadColliding": {
+		"english": "Road is colliding with something",
+		"german": "Straße kollidiert mit etwas",
+	},
+	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
+		"english": "Too close to neighboring road",
+		"german": "Zu nah an benachbarter Straße",
+	},
+	"roadTooShort": {
+		"english": "Road segment too short",
+		"german": "Straßensegment zu kurz",
+	},
+	"roadTooSteep": {
+		"english": "Road too steep",
+		"german": "Straße zu steil",
+	},
+	"roadTooFarFromGround": {
+		"english": "Road too far from the ground",
+		"german": "Straße zu weit weg vom Boden",
+	},
 }
