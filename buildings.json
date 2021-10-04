@@ -599,9 +599,11 @@
   "signStanding": {
     "english": "Great Standing Sign",
     "german": "Großer stehender Schriftzug",
+    "french": "Grande symbole sur pied",
   },
   "signLaying": {
     "english": "Great Laying Sign",
     "german": "Großer liegender Schriftzug",
+    "french": "Grand symbole posé",
   },
 }

@@ -178,21 +178,26 @@
 	"tutorialNotification": {
 		"english": "Tutorial: %tutorialName%",
 		"german": "Tutorial: %tutorialName%",
+		"french": "Tutoriel : %tutorialName%",
 	},
 	"tutorial_dashboardInfoPanel_title": {
 		"english": "Quick City Info",
 		"german": "Kurzübersicht",
+		"french": "AperçuInfos rapides sur la ville",
 	},
 	"tutorial_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
 		"german": "Dieser Bereich gibt dir eine Kurzübersicht zur Stadt.\n\nDie obere Zeile zeigt dir wie viel Beton und Stahl dir Verfügung steht. Du braucht beide Materialien um Gebäude zu platzieren. Das dritte Icon zeigt dir ob du genug Strom produzierst.\n\nDieuntere Zeile zeigt dir wie viele Leute in deiner Stadt leben, wie viele Arbeiter benötigt werden und wie viele Wohnungen verfügbar sind. Wenn du nicht genug Arbeiter für alle Arbeitsplätze haben, werden deine Fabriken nicht effizient laufen. Sorge außerdem dafür, dass genügend Wohnungen für neue Einwohner zur Verfügung stehen.",
+		"french": "Ce panneau vous donne un aperçu rapide de votre ville.\n\nLa rangée du haut vous indique la quantité de béton et d'acier dont vous disposez. Vous avez besoin de ces deux matériaux pour construire des bâtiments. La troisième icône vous indique si vous avez suffisamment d'énergie dans votre ville.\n\nLa rangée du bas vous indique le nombre d'habitants de votre ville, le nombre d'ouvriers nécessaires et le nombre de logements disponibles. Si vous n'avez pas assez d'ouvriers pour occuper la majorité des postes, vos usines ne fonctionneront pas efficacement. Assurez-vous également d'avoir assez de logements gratuits pour que les nouveaux travailleurs puissent s'installer.",
 	},
 	"gotIt": {
 		"english": "Got it!",
 		"german": "Ok",
+		"french": "D'accord !",
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
 		"german": "Nächste Tutorials überspringen",
+		"french": "Passer les tutoriels suivants",
 	},
 }
