@@ -499,4 +499,44 @@
 		"german": "Straße zu weit weg vom Boden",
 		"french": "Route trop éloignée de la surface",
 	},
+
+
+
+
+	"visualizations": {
+		"english": "Visualizations",
+		"german": "Visualisierungen",
+	},
+	"visualization_Efficiency": {
+		"english": "Building Efficiency",
+		"german": "Gebäudeeffizienz",
+	},
+	"visualization_Occupancy": {
+		"english": "Building Occupancy (Workers & Inhabitants)",
+		"german": "Gebäudebelegung (Arbeiter & Einwohner)",
+	},
+	"visualization_Power": {
+		"english": "Power",
+		"german": "Strom",
+	},
+	"visualization_Wind": {
+		"english": "Wind Turbines",
+		"german": "Windkraftwerke",
+	},
+	"visualization_SoilEnrichment": {
+		"english": "Soil Enrichment Facilities",
+		"german": "Erdanreicherungsanlagen",
+	},
+	"visualization_Recycling": {
+		"english": "Recycling Centers",
+		"german": "Recyclingcenter",
+	},
+	"visualization_HighTechTools": {
+		"english": "Buildings with High Tech Tools",
+		"german": "Gebäude mit High-Tech Werkzeugen",
+	},
+	"visualization_IndustrialRobots": {
+		"english": "Buildings with Industrial ÖRobots",
+		"german": "Gebäude mit Industrierobotern",
+	},
 }

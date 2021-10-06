@@ -9,4 +9,20 @@
 		"german": "Forschung auswählen",
 		"french": "Sélectionner une recherche",
 	},
+	"notEnoughWorkers_title": {
+		"english": "Not enough Workers",
+		"german": "Nicht genug Arbeiter",
+	},
+	"notEnoughWorkers_desc": {
+		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
+		"german": "Wenn du nicht genug Arbeiter hast, können deine Fabriken nicht effizient arbeiten.\nVerwende das Priorisierungswerkzeug oben links um deine Arbeitskräfte zu verteilen.",
+	},
+	"turbulencesAffectWindTurbine_title": {
+		"english": "Turbulences decrease Wind Turbine Efficiency",
+		"german": "Verwirbelungen senken Windradeffizienz",
+	},
+	"turbulencesAffectWindTurbine_desc": {
+		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
+		"german": "Zwei Windräder stehen zu nah zusammen. Ihre Effizienz ist reduziert.",
+	},
 }
