@@ -539,4 +539,16 @@
 		"english": "Buildings with Industrial ÖRobots",
 		"german": "Gebäude mit Industrierobotern",
 	},
+	"requiredResources": { // when construction site needs stuff
+		"english": "Required Resources:",
+		"german": "Benötigte Materialien",
+	},
+	"miningResourcePerMinute": {
+		"english": "Mining %amount% %resourceName% per Minute",
+		"german": "%amount% %resourceName% pro Minute abgebaut",
+	},
+	"minedResourcesTotal": {
+		"english": "Total amount mined until now: %amount%",
+		"german": "Gesamter Abbau bis jetzt: %amount%",
+	},
 }

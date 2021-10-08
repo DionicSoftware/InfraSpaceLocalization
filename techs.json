@@ -399,23 +399,13 @@
     "italian": "Rifornisci le tue fabbriche con utensili High Tech per aumentare la produttività.",
 	},
 
-  "tech_ftlControlUnits": { // ftl stands for "faster than light. used in late game construction. "units" can be replaced by "modules" or "parts" if it fits better
-    "english": "FTL Control Units",
-		"german": "FTL Steuermodule",
-    "french": "Modules de contrôle supraluminique",
-    "russian": "Блоки управления сверхсветовой скоростью",
-    "spanish": "Unidades de Control FTL",
-    "chinese": "FTL控制单元",
-    "italian": "Unità di Controllo FTL",
+  "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
+    "english": "AI Control Units",
+		"german": "KI-Steuermodule",
   },
-  "tech_ftlPropellant": {
-    "english": "FTL Propellant",
-		"german": "FTL Treibstoff",
-    "french": "Propulseur supraluminique",
-    "russian": "Сверхсветовое топливо",
-    "spanish": "Propulsor FTL",
-    "chinese": "FTL推进剂",
-    "italian": "Carburante FTL",
+  "tech_iridiumPropellant": {
+    "english": "Iridium Propellant",
+		"german": "Iridiumtreibstoff",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -435,5 +425,10 @@
     "spanish": "Ciencia Roja",
     "chinese": "红色科技",
     "italian": "Scienza Rossa",
+  },
+
+  "tech_adamantineMining":  {
+    "english": "Adamantine Mining",
+    "german": "Adamantabbau",
   },
 }
