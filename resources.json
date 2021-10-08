@@ -62,6 +62,10 @@
 		"chinese": "铱矿石",
 		"italian": "Minerale di Iridio",
 	},
+	"resource_adamantine": {
+		"english": "Adamantine",
+		"german": "Adamant",
+	},
 	"resource_carbon": {
 		"english": "Carbon",
 		"german": "Kohlenstoff",
@@ -202,23 +206,13 @@
 		"chinese": "铱合金",
 		"italian": "Lega di Iridio",
 	},
-	"resource_ftlPropellant": {
-		"english": "FTL Propellant",
-		"german": "FTL Treibstoff",
-		"french": "Propulseur supraluminique",
-		"russian": "Сверхсветовое топливо",
-		"spanish": "Propulsor FTL",
-		"chinese": "FTL推进剂",
-		"italian": "Carburante FTL",
+	"resource_iridiumPropellant": {
+		"english": "Iridium Propellant",
+		"german": "Iridiumtreibstoff",
 	},
-	"resource_ftlControlUnit": {
-		"english": "FTL Control Unit",
-		"german": "FTL Steuermodul",
-		"french": "Module de contrôle supraluminique",
-		"russian": "Блок управления сверхсветовой скоростью",
-		"spanish": "Unidad de Control FTL",
-		"chinese": "FTL控制单元",
-		"italian": "Unità di COntrollo FTL",
+	"resource_aiControlUnit": {
+		"english": "AI Control Unit",
+		"german": "KI-Steuermodul",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",

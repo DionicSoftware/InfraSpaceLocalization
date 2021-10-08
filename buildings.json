@@ -275,23 +275,13 @@
     "spanish": "Fábrica de Entretenimiento Educativo VR",
     "italian": "Fabbrica di Intrattenimento Educativo VR",
   },
-  "ftlPropellantFactory": {
-    "english": "FTL Propellant Factory",
-		"german": "Fabrik für FTL Treibstoff",
-    "french": "Usine à propulseurs supraluminiques",
-    "russian": "Завод сверхсветового топлива",
-    "chinese": "FTL推进剂厂",
-    "spanish": "Fábrica de Propulsores FTL",
-    "italian": "Fabbrica di Carburante FTL",
+  "iridiumPropellantFactory": {
+    "english": "Iridium Propellant Factory",
+		"german": "Fabrik für Iridiumtreibstoff",
   },
-  "ftlControlUnitFactory": {
-    "english": "FTL Control Unit Factory",
-		"german": "Fabrik für FTL Steuermodule",
-    "french": "Usine à modules de contrôle supraluminique",
-    "russian": "Завод блоков управления сверхсветовой скоростью",
-    "chinese": "FTL控制单元厂",
-    "spanish": "Fábrica de Unidades de Control FTL",
-    "italian": "Fabbrica di Unità di Controllo FTL",
+  "aiControlUnitFactory": {
+    "english": "AI Control Unit Factory",
+		"german": "Fabrik für KI-Steuermodule",
   },
 
 
@@ -606,4 +596,8 @@
     "german": "Großer liegender Schriftzug",
     "french": "Grand symbole posé",
   },
+  "monumentDrill": {
+    "english": "Collosal Adamantine Drill",
+    "german": "Gewaltiger Adamant-Bohrer",
+  }
 }
