@@ -884,6 +884,14 @@
 		"romanian": "Jocul activ în fundal",
 		"japanese": "ゲームをバックグラウンドで実行",
 	},
+	"showTutorials": {
+		"english": "Show Tutorials",
+		"german": "Zeige Tutorials",
+	},
+	"resetKnownTutorials": { // skip "known" if text too large for button
+		"english": "Reset Known Tutorials",
+		"german": "Tutorials Zurücksetzen",
+	},
 
 	// OTHER
 	"loadingWorld": {
@@ -1347,6 +1355,10 @@
 		"czech": "Otevřít adresář snímků",
 		"romanian": "Deschide dosarul cu capturile de ecran",
 		"japanese": "スクリーンショットフォルダを開く",
+	},
+	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
+		"english": "Open Screenshots / Saves",
+		"german": "Screenshots / Spielstände öffnen",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
