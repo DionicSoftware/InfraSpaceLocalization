@@ -65,6 +65,7 @@
 	"resource_adamantine": {
 		"english": "Adamantine",
 		"german": "Adamant",
+		"french": "Adamantine",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -209,10 +210,12 @@
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
 		"german": "Iridiumtreibstoff",
+		"french": "Propulseurs à iridium",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
 		"german": "KI-Steuermodul",
+		"french": "Unité de contrôle IA",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
