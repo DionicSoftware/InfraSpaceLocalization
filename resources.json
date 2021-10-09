@@ -66,6 +66,7 @@
 		"english": "Adamantine",
 		"german": "Adamant",
 		"french": "Adamantine",
+		"chinese": "金刚砂",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -188,6 +189,7 @@
 		"english": "Holo-Display",
 		"german": "Holo-Display",
 		"french": "Affichage holographique",
+		"chinese": "全息显示",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -211,11 +213,13 @@
 		"english": "Iridium Propellant",
 		"german": "Iridiumtreibstoff",
 		"french": "Propulseurs à iridium",
+		"chinese": "铱推进剂",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
 		"german": "KI-Steuermodul",
 		"french": "Unité de contrôle IA",
+		"chinese": "AI控制单元",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -358,7 +362,7 @@
 		"french": "Citoyen",
 		"russian": "Житель",
 		"spanish": "Ciudadano",
-		"chinese": "市民",
+		"chinese": "居民",
 		"italian": "Cittadino in Arrivo",
 	},
 	"resource_citizenMovingOut": {
@@ -367,12 +371,13 @@
 		"french": "Citoyen",
 		"russian": "Житель",
 		"spanish": "Ciudadano",
-		"chinese": "市民",
+		"chinese": "居民",
 		"italian": "Cittadino in Partenza",
 	},
 	"resource_power": {
 		"english": "Power",
 		"german": "Strom",
 		"french": "Énergie",
+		"chinese": "电力",
 	}
 }

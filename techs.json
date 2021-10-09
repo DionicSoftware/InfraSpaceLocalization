@@ -226,6 +226,7 @@
 		"english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
 		"german": "Wenn sich die Solarzellen reinigen, werden die Solarkraftwerke der Stadt viel mehr Strom erzeugen können.",
     "french": "Améliore les panneaux solaires pour qu'ils s'autonettoient afin d'augmenter significativement la production d'énergie des centrales solaires.",
+    "chinese": "一旦你的太阳能电池板自行清洁，你的太阳能发电厂将产生更多的电力。",
 	},
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -286,6 +287,7 @@
     "english": "Superhighways",
 		"german": "Superautobahn",
     "french": "Super-autoroutes",
+    "chinese": "超级高速公路",
   },
 	
   "tech_homeRobots": {
@@ -403,11 +405,13 @@
     "english": "AI Control Units",
 		"german": "KI-Steuermodule",
     "french": "Unités de contrôle IA",
+    "chinese": "AI控制单元",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
 		"german": "Iridiumtreibstoff",
     "french": "Propulseurs à iridium",
+    "chinese": "铱推进剂",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -433,5 +437,6 @@
     "english": "Adamantine Mining",
     "german": "Adamantabbau",
     "french": "Extraction minière adamantine",
+    "chinese": "金刚砂开采",
   },
 }
