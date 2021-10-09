@@ -506,49 +506,61 @@
 	"visualizations": {
 		"english": "Visualizations",
 		"german": "Visualisierungen",
+		"french": "Visualisations",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
 		"german": "Gebäudeeffizienz",
+		"french": "Efficacité des bâtiments",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
 		"german": "Gebäudebelegung (Arbeiter & Einwohner)",
+		"french": "Occupation du bâtiment (Ouvriers & Habitants)",
 	},
 	"visualization_Power": {
 		"english": "Power",
 		"german": "Strom",
+		"french": "Énergie",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
 		"german": "Windkraftwerke",
+		"french": "Éoliennes",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
 		"german": "Erdanreicherungsanlagen",
+		"french": "Installations d'enrichissement du sol",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
 		"german": "Recyclingcenter",
+		"french": "Centres de recyclage",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
 		"german": "Gebäude mit High-Tech Werkzeugen",
+		"french": "Bâtiments dotés d'outils high-tech",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial ÖRobots",
 		"german": "Gebäude mit Industrierobotern",
+		"french": "Bâtiments avec des robots industriels",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
 		"german": "Benötigte Materialien",
+		"french": "Ressources nécessaires :",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
 		"german": "%amount% %resourceName% pro Minute abgebaut",
+		"french": "Extrait %amount% %resourceName% par minute",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
 		"german": "Gesamter Abbau bis jetzt: %amount%",
+		"french": "Quantité totale extraite jusqu'ici : %amount%",
 	},
 }

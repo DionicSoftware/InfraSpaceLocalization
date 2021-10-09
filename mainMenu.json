@@ -887,10 +887,12 @@
 	"showTutorials": {
 		"english": "Show Tutorials",
 		"german": "Zeige Tutorials",
+		"french": "Afficher les tutoriels",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
 		"german": "Tutorials Zurücksetzen",
+		"french": "Réinitialiser les tutoriels connus",
 	},
 
 	// OTHER
@@ -1359,6 +1361,7 @@
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
 		"german": "Screenshots / Spielstände öffnen",
+		"french": "Ouvrir Captures d'écran / Sauv.",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",

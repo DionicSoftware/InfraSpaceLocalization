@@ -402,10 +402,12 @@
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
 		"german": "KI-Steuermodule",
+    "french": "Unités de contrôle IA",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
 		"german": "Iridiumtreibstoff",
+    "french": "Propulseurs à iridium",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -430,5 +432,6 @@
   "tech_adamantineMining":  {
     "english": "Adamantine Mining",
     "german": "Adamantabbau",
+    "french": "Extraction minière adamantine",
   },
 }

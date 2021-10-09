@@ -278,10 +278,12 @@
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
 		"german": "Fabrik für Iridiumtreibstoff",
+    "french": "Usine de propulseurs à iridium",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
 		"german": "Fabrik für KI-Steuermodule",
+    "french": "Usine d'unités de contrôle IA",
   },
 
 
@@ -599,5 +601,6 @@
   "monumentDrill": {
     "english": "Collosal Adamantine Drill",
     "german": "Gewaltiger Adamant-Bohrer",
+    "french": "Foreuse collosale adamantine",
   }
 }
