@@ -354,6 +354,7 @@
 		"french": "Population",
 		"spanish": "Población",
 		"chinese": "人口",
+		"italian": "Popolazione",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -361,6 +362,7 @@
 		"french": "Emplois",
 		"spanish": "Trabajos",
 		"chinese": "职业",
+		"italian"; "Posti di lavoro",
 	},
 	"housing": {
 		"english": "Housing",
@@ -368,6 +370,7 @@
 		"french": "Logement",
 		"spanish": "Viviendas",
 		"chinese": "住房",
+		"italian": "Alloggi",
 	},
 	"statistics_population" : {
 		"english": "Population",
@@ -375,6 +378,7 @@
 		"french": "Population",
 		"spanish": "Población",
 		"chinese": "人口",
+		"italian": "Popolazione",
 	},
 	"statistics_jobs" : {
 		"english": "Jobs",
@@ -382,6 +386,7 @@
 		"french": "Emplois",
 		"spanish": "Trabajos",
 		"chinese": "职业",
+		"italian"; "Posti di lavoro",	
 	},
 	"statistics_housing" : {
 		"english": "Housing",
@@ -389,12 +394,14 @@
 		"french": "Logement",
 		"spanish": "Viviendas",
 		"chinese": "住房",
+		"italian": "Alloggi",
 	},
 	"statistics_immigrationRate" : {
 		"english": "Immigration Rate",
 		"german": "Einwanderungsrate",
 		"french": "Taux d'immigration",
 		"chinese": "移民率",
+		"italian": "Tasso di Immigrazione",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -402,6 +409,7 @@
 		"french": "Efficacité",
 		"spanish": "Eficiencia",
 		"chinese": "效率",
+		"italian": "Efficienza",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -409,12 +417,14 @@
 		"french": "Pas assez d'ouvriers :",
 		"spanish": "No hay suficientes trabajadores:",
 		"chinese": "工人不足:",
+		"italian": "Non ci sono abbastanza lavoratori:",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
 		"german": "Geboosted von Nachbargebäuden",
 		"french": "Boosté par les bâtiments voisins",
 		"chinese": "受到邻近建筑物的挤压",
+		"italian"; "Migliorato dagli edifici vicini",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -422,18 +432,21 @@
 		"french": "Pas assez d'énergie :",
 		"spanish": "No hay suficiente energía:",
 		"chinese": "电力不足:",
+		"italian": "Manca energia:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
 		"german": "Verwirbelter Luftstrom",
 		"french": "Flux d'air perturbé",
 		"chinese": "扰动气流",
+		"italian": "Flusso d'aria disturbato",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
 		"german": "Runde Straße bauen",
 		"french": "Courber les routes",
 		"chinese": "建造弯道",
+		"italian"; "Costruisci una Strada Curva",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
