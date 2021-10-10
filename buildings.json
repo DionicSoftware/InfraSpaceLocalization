@@ -280,12 +280,14 @@
 		"german": "Fabrik für Iridiumtreibstoff",
     "french": "Usine de propulseurs à iridium",
     "chinese": "铱推进剂厂",
+    "russian": "Завод иридиевого топлива",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
 		"german": "Fabrik für KI-Steuermodule",
     "french": "Usine d'unités de contrôle IA",
     "chinese": "AI控制单元厂",
+    "russian": "Завод блоков управления ИИ",
   },
 
 
@@ -337,14 +339,13 @@
 
 
   "storehouse": {
-    // TODO-russian
     // TODO-chinese
     // TODO-spanish
     // TODO-italian
     "english": "Construction Material Storage",
 		"german": "Baumateriallager",
     "french": "Entrepôt de matériaux de construction",
-    "russian": "Склад",
+    "russian": "Склад строительных материалов",
     "chinese": "仓库",
     "spanish": "Depósito",
     "italian": "Deposito",
@@ -595,17 +596,20 @@
     "german": "Großer stehender Schriftzug",
     "french": "Grande symbole sur pied",
     "chinese": "大型竖立标志",
+    "russian": "Большой стоящий знак",
   },
   "signLaying": {
     "english": "Great Laying Sign",
     "german": "Großer liegender Schriftzug",
     "french": "Grand symbole posé",
     "chinese": "大型平铺标志",
+    "russian": "Большой лежащий знак",
   },
   "monumentDrill": {
     "english": "Collosal Adamantine Drill",
     "german": "Gewaltiger Adamant-Bohrer",
     "french": "Foreuse collosale adamantine",
     "chinese": "大型金刚砂矿机",
+    "russian": "Огромный адамантиновый бур",
   }
 }

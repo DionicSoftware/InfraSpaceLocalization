@@ -67,6 +67,7 @@
 		"german": "Adamant",
 		"french": "Adamantine",
 		"chinese": "金刚砂",
+		"russian": "Адамантин",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -190,6 +191,7 @@
 		"german": "Holo-Display",
 		"french": "Affichage holographique",
 		"chinese": "全息显示",
+		"russian": "Голографический дисплей",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -214,12 +216,14 @@
 		"german": "Iridiumtreibstoff",
 		"french": "Propulseurs à iridium",
 		"chinese": "铱推进剂",
+		"russian": "Иридиевое топливо",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
 		"german": "KI-Steuermodul",
 		"french": "Unité de contrôle IA",
 		"chinese": "AI控制单元",
+		"russian": "Блок управления ИИ",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -379,5 +383,6 @@
 		"german": "Strom",
 		"french": "Énergie",
 		"chinese": "电力",
+		"russian": "Энергия",
 	}
 }
