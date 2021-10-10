@@ -362,7 +362,7 @@
 		"french": "Emplois",
 		"spanish": "Trabajos",
 		"chinese": "职业",
-		"italian"; "Posti di lavoro",
+		"italian": "Posti di lavoro",
 	},
 	"housing": {
 		"english": "Housing",
@@ -386,7 +386,7 @@
 		"french": "Emplois",
 		"spanish": "Trabajos",
 		"chinese": "职业",
-		"italian"; "Posti di lavoro",	
+		"italian": "Posti di lavoro",	
 	},
 	"statistics_housing" : {
 		"english": "Housing",
@@ -424,7 +424,7 @@
 		"german": "Geboosted von Nachbargebäuden",
 		"french": "Boosté par les bâtiments voisins",
 		"chinese": "受到邻近建筑物的挤压",
-		"italian"; "Migliorato dagli edifici vicini",
+		"italian": "Migliorato dagli edifici vicini",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -446,7 +446,7 @@
 		"german": "Runde Straße bauen",
 		"french": "Courber les routes",
 		"chinese": "建造弯道",
-		"italian"; "Costruisci una Strada Curva",
+		"italian": "Costruisci una Strada Curva",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
