@@ -39,6 +39,7 @@
 	"researchGoalText2":  {
 		"english": "Click on the science pack factory to see which resources are needed.",
 		"german": "Klicke auf die Fabrik für Wissenschaftspakete um herauszufinden welche Ressourcen benötigt werden.",
+		"french": "Cliquez sur l'usine de paquets scientifiques pour voir quelles ressources sont nécessaires.",
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",

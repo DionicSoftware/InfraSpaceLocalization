@@ -669,59 +669,73 @@
 	"districts": {
 		"english": "Districts",
 		"german": "Stadtviertel",
+		"french": "Quartiers",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
 		"german": "Linksklick zum Zeichnen\nRechtsklick zum Löschen",
+		"french": "Clic gauche pour peindre\nClic droit pour effacer",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
 		"german": "Ziehe deine von einem Viertel zum nächsten um eine Exportregel zu erstellen.\n\nStadtviertel ohne Exportregel dürfen ihre Güter überall hin liefern.",
+		"french": "Faites glisser la souris entre les quartiers pour créer une règle d'exportation.\n\nLes quartiers sans règles d'exportation peuvent exporter des marchandises n'importe où.",
 	},
 
 	"populationInfo": {
 		"english": "Population Info",
 		"german": "Bevölkerungsinfo",
+		"french": "Infos population",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
 		"german": "Immigranten bereit zum Einziehen:",
+		"french": "Immigrants prêts à emménager :",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
 		"german": "Immigrationsrate",
+		"french": "Taux d'immigration :",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
 		"german": "Lasse deine Habitats aufsteigen, damit deine Stadt attraktiver für Neuankömmlinge wird.",
+		"french": "Améliorez vos habitats pour rendre votre ville attrayante pour les nouveaux arrivants.",
 	},
 	"low": {
 		"english": "Low",
 		"german": "Niedrig",
+		"french": "Bas",
 	},
 	"moderate": {
 		"english": "Moderate",
 		"german": "Mittel",
+		"french": "Modéré",
 	},
 	"high": {
 		"english": "High",
 		"german": "Hoch",
+		"french": "Élevé",
 	},
 
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
 		"german": "Habitat aufgestiegen",
+		"french": "Habitat amélioré",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
 		"german": "Habitat herabgestuft",
+		"french": "Habitat rétrogradé",
 	},
 	"megawatts_short": {
 		"english": "MW",
 		"german": "MW",
+		"french": "MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
 		"german": "%percentage%% Effizienz",
+		"french": "%percentage%% d'efficacité",
 	},
 }
