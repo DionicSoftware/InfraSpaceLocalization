@@ -31,6 +31,7 @@
 		"german": "Selbstreinigen Solarzellen erhöhen die Stromerzeugung um %amount%%.",
 		"french": "L'autonettoyage des panneaux solaires améliore leur production d'énergie de %amount%%.",
 		"chinese": "自清洁面板将功率输出提高 %amount%%。",
+		"russian": "Самоочищающиеся панели увеличивают выходную энергию на %amount%%.",
 	},
 	"upgrade_industrialWasteRecycling":  {
 		"english": "Industrial Waste Recycling",
