@@ -707,4 +707,21 @@
 		"english": "High",
 		"german": "Hoch",
 	},
+
+	"habitatUpgraded": {
+		"english": "Habitat Upgraded",
+		"german": "Habitat aufgestiegen",
+	},
+	"habitatDowngraded": {
+		"english": "Habitat Downgraded",
+		"german": "Habitat herabgestuft",
+	},
+	"megawatts_short": {
+		"english": "MW",
+		"german": "MW",
+	},
+	"percentageEfficiency": {
+		"english": "%percentage%% Efficiency",
+		"german": "%percentage%% Effizienz",
+	},
 }
