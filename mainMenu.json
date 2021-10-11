@@ -1823,10 +1823,10 @@
 		"chinese": "会发生事故，你的城市需要紧急服务来处理它们 - 做好准备！",
 	},
 	"roadmap_flyingCars_title": {
-		"english": "飞行汽车",
+		"english": "Flying Cars for Workers",
 		"german": "Fliegende Autos für Arbeiter",
 		"french": "Voitures volantes pour les ouvriers",
-		"chinese": "火灾和犯罪",
+		"chinese": "飞行汽车",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
