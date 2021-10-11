@@ -1883,4 +1883,37 @@
 		"russian": "Насколько хорошо ваши дороги будут работать после песчаной бури? Будете ли вы готовы?",
 	},
 
+	"gameDifficulty_title": {
+		"english": "Game Difficulty",
+		"german": "Schwierigkeit des Spiels",
+	},
+	"gameDifficulty_desc": {
+		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
+		"german": "Beeinflusst, wie viele Produkte Bürger verbrauchen.\nJe höher die Schwierigkeit, desto besser musst du dich um deine Wirtschaft kümmern.",
+	},
+	"transportDifficulty_title": {
+		"english": "Transport Difficulty",
+		"german": "Schwierigkeit des Transports",
+	},
+	"transportDifficulty_desc": {
+		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
+		"german": "Ändert wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto wengier Objekte können auf einmal transportiert werden.",
+	},
+	"startGame": {
+		"english": "Start Game",
+		"german": "Spiel starten",
+	},
+	"difficulty_easy": {
+		"english": "Easy",
+		"german": "Einfach",
+	},
+	"difficulty_medium": {
+		"english": "Medium",
+		"german": "Mittel",
+	},
+	"difficulty_hard": {
+		"english": "Hard",
+		"german": "Schwer",
+	},
+
 }

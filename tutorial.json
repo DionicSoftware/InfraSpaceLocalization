@@ -228,7 +228,7 @@
 		"chinese": "欢迎来到 InfraSpace！",
 		"russian": "Добро пожаловать в InfraSpace!",
 	},
-	"tutorialQuestion_Desc": {
+	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
 		"german": "Möchtest du Tutorialhinweise bekommen während du das Spiel spielst?\n\nDu kannst sie auch in den Einstellugen an- oder ausschalten.",
 		"french": "Vous souhaitez obtenir des conseils du tutoriel pendant que vous jouez ?\n\nVous pouvez toujours les activer ou les désactiver dans les paramètres.",

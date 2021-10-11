@@ -665,4 +665,46 @@
 		"chinese": "目前开采总量: %amount%",
 		"russian": "Всего добыто: %amount%",
 	},
+
+	"districts": {
+		"english": "Districts",
+		"german": "Stadtviertel",
+	},
+	"districtsPaintingExplanation": {
+		"english": "Left click to paint\nRight click to erase",
+		"german": "Linksklick zum Zeichnen\nRechtsklick zum Löschen",
+	},
+	"districtsRulesExplanation": {
+		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
+		"german": "Ziehe deine von einem Viertel zum nächsten um eine Exportregel zu erstellen.\n\nStadtviertel ohne Exportregel dürfen ihre Güter überall hin liefern.",
+	},
+
+	"populationInfo": {
+		"english": "Population Info",
+		"german": "Bevölkerungsinfo",
+	},
+	"immigrantsReadyToMoveIn": {
+		"english": "Immigrants ready to move in:",
+		"german": "Immigranten bereit zum Einziehen:",
+	},
+	"immigrationRate": {
+		"english": "Immigration rate:",
+		"german": "Immigrationsrate",
+	},
+	"upgradeHabitatsForImmigrants": {
+		"english": "Upgrade your habitats to make your city attractive to newcomers.",
+		"german": "Lasse deine Habitats aufsteigen, damit deine Stadt attraktiver für Neuankömmlinge wird.",
+	},
+	"low": {
+		"english": "Low",
+		"german": "Niedrig",
+	},
+	"moderate": {
+		"english": "Moderate",
+		"german": "Mittel",
+	},
+	"high": {
+		"english": "High",
+		"german": "Hoch",
+	},
 }
