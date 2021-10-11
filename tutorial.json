@@ -36,6 +36,10 @@
 		"chinese": "研究 %techName%",
 		"italian": "Ricerca %techName%",
 	},
+	"researchGoalText2":  {
+		"english": "Click on the science pack factory to see which resources are needed.",
+		"german": "Klicke auf die Fabrik für Wissenschaftspakete um herauszufinden welche Ressourcen benötigt werden.",
+	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
 		"german": "Baue eine Straße neben Schwefel und Eisen.",
@@ -308,28 +312,28 @@
 		"chinese": "城市等级",
 		"russian": "Уровни города",
 	},
-	"tutorialMessage_cityLevels_title": {
+	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
 		"german": "Stadtaufstieg",
 		"french": "Niveaux de la ville",
 		"chinese": "城市等级",
 		"russian": "Уровни города",
 	},
-	"tutorialMessage_cityLevels_desc": {
+	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
 		"german": "Dieses Fenster zeigt dir wie viele Leute in welchen Habitats wohnen.\n\nDu musst die Wohngebäude deiner Stadt verbessern, damit deine Stadt in die nächste Stufe aufsteigen kann.",
 		"french": "Ce panneau vous indique combien de personnes vivent dans chaque type d'habitat. Vous devez améliorer vos habitats afin d'atteindre le niveau de ville suivant.",
 		"chinese": "此面板显示不同等级的居住点有多少人口居住。\n\n你需要升级居住点才能达到下一个城市等级。",
 		"russian": "На этой панели показано, сколько людей проживает в каждом типе среды обитания.\n\nВам необходимо обновить среду обитания, чтобы перейти на следующий уровень города.",
 	},
-	"tutorialMessage__title": {
+	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
 		"german": "Stadtaufstieg",
 		"french": "Niveaux de la ville",
 		"chinese": "城市等级",
 		"russian": "Уровни города",
 	},
-	"tutorialMessage__desc": {
+	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
 		"german": "In diesem Fortschrittsbalken siehst du wie viele Bürger verbesserte Häuser brauchen um die nächste Stufe zu erreichen.",
 		"french": "Consultez la barre de progression pour savoir combien de citoyens doivent encore obtenir un meilleur logement pour atteindre le niveau suivant.",
