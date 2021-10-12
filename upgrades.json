@@ -32,6 +32,7 @@
 		"french": "L'autonettoyage des panneaux solaires améliore leur production d'énergie de %amount%%.",
 		"chinese": "自清洁面板将功率输出提高 %amount%%。",
 		"russian": "Самоочищающиеся панели увеличивают выходную энергию на %amount%%.",
+		"italian": "I pannelli autopulenti aumentano la produzione di energia del %amount%%.",
 	},
 	"upgrade_industrialWasteRecycling":  {
 		"english": "Industrial Waste Recycling",
