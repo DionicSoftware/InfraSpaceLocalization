@@ -664,12 +664,20 @@
 		"italian": "Edifici con strumenti ad alta tecnologia",
 	},
 	"visualization_IndustrialRobots": {
-		"english": "Buildings with Industrial ÖRobots",
+		"english": "Buildings with Industrial Robots",
 		"german": "Gebäude mit Industrierobotern",
 		"french": "Bâtiments avec des robots industriels",
 		"chinese": "工业机器人建筑",
 		"russian": "Строительство с промышленными роботами",
 		"italian": "Edifici con robot industriali",
+	},
+	"visualization_Cars": {
+		"english": "Cars",
+		"german": "Autos",
+	},
+	"visualization_Roads": {
+		"english": "Roads",
+		"german": "Straßen",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
