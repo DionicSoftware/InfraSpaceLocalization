@@ -892,6 +892,7 @@
 		"french": "Afficher les tutoriels",
 		"chinese": "显示教程",
 		"russian": "Отображение руководства",
+		"italian": "Mostra Tutorial",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -899,6 +900,7 @@
 		"french": "Réinitialiser les tutoriels connus",
 		"chinese": "重置已知教程",
 		"russian": "Сбросить пройденные руководства",
+		"italian": "Resetta i tutorial conosciuti",
 	},
 
 	// OTHER
