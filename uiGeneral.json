@@ -50,6 +50,7 @@
 		"portuguese": "horas",
 		"italian": "ore",
 		"russian": "часов",
+		"chinese": "小时",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -62,6 +63,7 @@
 		"portuguese": "h",
 		"italian": "h",
 		"russian": "час.",
+		"chinese": "时",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -94,6 +96,7 @@
 		"portuguese": "min",
 		"italian": "min",
 		"russian": "мин.",
+		"chinese": "分",
 	},
 	"seconds": {
 		"english": "seconds",

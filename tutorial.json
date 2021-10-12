@@ -41,6 +41,7 @@
 		"german": "Klicke auf die Fabrik für Wissenschaftspakete um herauszufinden welche Ressourcen benötigt werden.",
 		"french": "Cliquez sur l'usine de paquets scientifiques pour voir quelles ressources sont nécessaires.",
 		"italian": "Clicca sulla fabbrica del pacchetto scientifico per vedere di quali risorse ha bisogno.",
+		"chinese": "单击科技包厂以查看需要哪些资源。",
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
