@@ -71,7 +71,7 @@
     "french": "Adapte la forme des pales d'éolienne à l'atmosphère. Il en résulte une moindre perturbation de l'air, ce qui permet de construire des éoliennes plus proches les unes des autres.",
     "russian": "Адаптирует форму лопастей ветряной турбины к атмосфере. Это снижает уровень помех в воздухе, что позволяет строить ветряные турбины ближе друг к другу.",
     "spanish": "Adapta la forma de las turbinas eólicas a la atmósfera. Esto lleva a disminuir las perturbaciones en el aire, lo que te permite construir turbinas eólicas más cercanas entre sí.",
-    "chinese": "使风力涡轮机叶片的形状符合空气流动。这会降低空气阻力，让你建造彼此更近的风力涡轮机。",
+    "chinese": "使风力涡轮机叶片的形状符合空气流动。\n这会降低空气阻力，让你建造彼此更近的风力涡轮机。",
     "italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria, che ti consente di costruire le turbine eoliche più vicine fra loro.",
 	},
   "tech_concreteRoads": {
@@ -109,7 +109,7 @@
     "french": "Intégre des sous-stations au réseau électrique pour ne pas avoir à équiper chaque bâtiment de poteaux électriques.",
     "russian": "Интегрируйте подстанции в свою электрическую сеть, чтобы вам не пришлось снабжать каждое здание электрическими столбами.",
     "spanish": "Subestaciones integradas en tu red de energía, para que no tengas que suministrar cada edificio con postes eléctricos.",
-    "chinese": "将变电站集成到你的电力网络中，这样就不必为每个建筑物都配备电线杆。",
+    "chinese": "将变电站集成到你的电力网络中，\n这样就不必为每个建筑物都配备电线杆。",
     "italian": "Integrate le sotto-stazioni nella vostra rete elettrica così che non dobbiate più collegare ogni edificio con i pali della luce.",
 	},
   "tech_motors": {
@@ -226,7 +226,7 @@
 		"english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
 		"german": "Wenn sich die Solarzellen reinigen, werden die Solarkraftwerke der Stadt viel mehr Strom erzeugen können.",
     "french": "Améliore les panneaux solaires pour qu'ils s'autonettoient afin d'augmenter significativement la production d'énergie des centrales solaires.",
-    "chinese": "一旦你的太阳能电池板自行清洁，你的太阳能发电厂将产生更多的电力。",
+    "chinese": "一旦你的太阳能电池板自行清洁，\n你的太阳能发电厂将产生更多的电力。",
     "russian": "Как только ваши солнечные панели очистятся, ваши солнечные электростанции будут вырабатывать гораздо больше энергии.",
     "italian": "Una volta che i tuoi pannelli solari si puliscono da soli, le tue centrali solari produrranno molta più energia.",
 	},
