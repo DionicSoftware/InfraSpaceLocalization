@@ -41,7 +41,7 @@
 		"french": "Entrepôt entrant vide",
 		"spanish": "Almacenamiento entrante vacío",
 		"russian": "Входящее хранилище пусто",
-		"chinese": "输入存库为空",
+		"chinese": "输入库存为空",
 		"italian": "Magazzino in entrata vuoto",
 	},
 	"noAccessToRoad": {
@@ -59,7 +59,7 @@
 		"french": "Entrepôt sortant plein",
 		"spanish": "Almacenamiento saliente vacío",
 		"russian": "Исходящее хранилище заполнено",
-		"chinese": "输出存库为空",
+		"chinese": "输出库存为空",
 		"italian": "Magazzino in uscita pieno",
 	},
 	"noWorkersInBuilding": {
@@ -675,11 +675,13 @@
 		"english": "Cars",
 		"german": "Autos",
 		"italian": "Automobili",
+		"chinese": "汽车",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
 		"german": "Straßen",
 		"italian": "Strade",
+		"chinese": "道路",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
