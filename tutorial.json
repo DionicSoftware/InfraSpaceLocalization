@@ -40,6 +40,7 @@
 		"english": "Click on the science pack factory to see which resources are needed.",
 		"german": "Klicke auf die Fabrik für Wissenschaftspakete um herauszufinden welche Ressourcen benötigt werden.",
 		"french": "Cliquez sur l'usine de paquets scientifiques pour voir quelles ressources sont nécessaires.",
+		"italian": "Clicca sulla fabbrica del pacchetto scientifico per vedere di quali risorse ha bisogno.",
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
@@ -186,6 +187,7 @@
 		"french": "Tutoriel : %tutorialName%",
 		"chinese": "教程: %tutorialName%",
 		"russian": "Руководство: %tutorialName%",
+		"italian": "Tutorial: %tutorialName%",
 	},
 	"tutorial_dashboardInfoPanel": {
 		"english": "Quick City Info",
@@ -193,6 +195,7 @@
 		"french": "AperçuInfos rapides sur la ville",
 		"chinese": "城市信息",
 		"russian": "Краткий обзор города",
+		"italian": "Informazioni rapide sulla città",
 	},
 	"tutorialMessage_dashboardInfoPanel_title": {
 		"english": "Quick City Info",
@@ -200,6 +203,7 @@
 		"french": "AperçuInfos rapides sur la ville",
 		"chinese": "城市信息",
 		"russian": "Краткий обзор города",
+		"italian": "Informazioni rapide sulla città",
 	},
 	"tutorialMessage_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
@@ -207,6 +211,7 @@
 		"french": "Ce panneau vous donne un aperçu rapide de votre ville.\n\nLa rangée du haut vous indique la quantité de béton et d'acier dont vous disposez. Vous avez besoin de ces deux matériaux pour construire des bâtiments. La troisième icône vous indique si vous avez suffisamment d'énergie dans votre ville.\n\nLa rangée du bas vous indique le nombre d'habitants de votre ville, le nombre d'ouvriers nécessaires et le nombre de logements disponibles. Si vous n'avez pas assez d'ouvriers pour occuper la majorité des postes, vos usines ne fonctionneront pas efficacement. Assurez-vous également d'avoir assez de logements gratuits pour que les nouveaux travailleurs puissent s'installer.",
 		"chinese": "此面板可让你快速了解所在的城市的信息。\n\n顶行显示你可用的混凝土和钢材数量。 你需要这两种材料来建造建筑。 第三个图标显示你的城市的电力是否充足。\n\n底行显示你的城市有多少人口，需要多少工人以及有多少住房可用。 如果你没有足够的工人来担任大多数工作岗位，你的工厂将无法高效运行。 此外，请确保你有足够的空闲住房供新工人入住。",
 		"russian": "Эта панель предоставляет вам быстрый обзор вашего города.\n\nВ верхнем ряду показано, сколько бетона и стали у вас есть. Для строительства зданий вам понадобятся оба материала. Третий значок показывает, достаточно ли у вас энергии в вашем городе.\n\nВ нижнем ряду показано, сколько людей живет в вашем городе, сколько нужно рабочих и сколько жилья доступно. Если у вас недостаточно рабочих, чтобы заполнить большинство рабочих мест, ваши фабрики не будут работать эффективно. Также убедитесь, что у вас достаточно бесплатного жилья, чтобы в него могли въехать новые работники.",
+		"italian": "Questo pannello ti dà un'occhiata veloce sulla città.\n\nLa prima fila mostra quanto cemento e quanto acciaio hai a disposizione. Hai bisogno di entrambi i materiali per costruire edifici. La terza icona ti mostra se hai abbastanza energia per alimentare la tua città.\n\nLa riga in fondo ti mostra quanta gente vive nella tua città, di quanti lavoratori hai bisogno e quanto spazioabitativo hai a disposizione. Se non hai abbastanza lavoratori per occupare la maggior parte dei posti, le tue fabbriche non funzioneranno in maniera efficiente. Inoltre, assicurati di avere abbastanza spazi abitativi liberi per consentire ai lavoratori di trasferirsi.",
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -214,6 +219,7 @@
 		"french": "D'accord !",
 		"chinese": "知道了！",
 		"russian": "Понятно!",
+		"italian": "D'accordo",
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
@@ -221,6 +227,7 @@
 		"french": "Passer les tutoriels suivants",
 		"chinese": "跳到下一个教程",
 		"russian": "Пропустить следующие руководства",
+		"italian": "Salta i prossimi tutorial",
 	},
 	"tutorialQuestion_title": { // shown at start of first game
 		"english": "Welcome to InfraSpace!",
@@ -228,6 +235,7 @@
 		"french": "Bienvenue sur InfraSpace !",
 		"chinese": "欢迎来到 InfraSpace！",
 		"russian": "Добро пожаловать в InfraSpace!",
+		"italian": "Benvenuti a Infraspace!",
 	},
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
@@ -235,6 +243,7 @@
 		"french": "Vous souhaitez obtenir des conseils du tutoriel pendant que vous jouez ?\n\nVous pouvez toujours les activer ou les désactiver dans les paramètres.",
 		"chinese": "你想在游玩游戏时获得教程提示吗?\n\n你也可以在设置中打开/关闭该功能。",
 		"russian": "Вы хотите получать подсказки во время игры?\n\nВы также сможете включить / выключить их в настройках.",
+		"italian": "Vuoi vedere i tutorial mentre stai giocando?\n\nPuoi anche attivarli e disattivarli nei settaggi.",
 	},
 	"tutorialMessage_goalPanel_title": {
 		"english": "Making your first city",
@@ -242,6 +251,7 @@
 		"french": "Créer votre première ville",
 		"chinese": "建造你的第一个城市",
 		"russian": "Создание вашего первого города",
+		"italian": "Crea la tua prima città",
 	},
 	"tutorialMessage_goalPanel_desc": {
 		"english": "This panel will guide you through the necessary steps to create your first stable city and research some tech.",
