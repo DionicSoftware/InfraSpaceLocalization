@@ -259,6 +259,7 @@
 		"french": "Ce panneau vous guidera à travers les étapes nécessaires pour créer votre première ville stable et faire des recherches technologiques.",
 		"chinese": "该面板将指导你完成建造第一个稳定的城市并研究一些技术的必要步骤。",
 		"russian": "Эта панель проведет вас через необходимые шаги для создания вашего первого стабильного города и исследования некоторых технологий.",
+		"italian": "Questo pannello ti guiderà attraverso i passaggi necessari per creare la tua prima città stabile e ricercare qualche tecnologia.",
 	},
 	"tutorialMessage_constructionMenu_title": {
 		"english": "Construction Menu",
@@ -266,6 +267,7 @@
 		"french": "Menu de construction",
 		"chinese": "建造菜单",
 		"russian": "Строительное меню",
+		"italian": "Menu di Costruzione",
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
@@ -273,6 +275,7 @@
 		"french": "Vous pouvez cliquer ici pour construire des routes et des bâtiments, les déplacer et les détruire.",
 		"chinese": "你可以单击此处建造道路和建筑物，移动它们或拆毁它们。",
 		"russian": "Вы можете щелкнуть здесь, чтобы строить дороги и здания, перемещать их и разрушать.",
+		"italian": "Puoi fare click qui per costruire strade ed edifici, muoverli e distruggerli.",
 	},
 	"tutorialMessage_cameraMovement_title": {
 		"english": "Camera Movement",
@@ -280,6 +283,7 @@
 		"french": "Mouvements de caméra",
 		"chinese": "移动镜头",
 		"russian": "Передвижение камеры",
+		"italian": "Movimento della Camera",
 	},
 	"tutorialMessage_cameraMovement_desc": {
 		"english": "By default, you can move the camera with your arrow keys, WASD, or by moving your mouse to the edge of your screen.\n\nPress the middle mouse button and drag move your mouse to rotate your view.",
@@ -287,6 +291,7 @@
 		"french": "Par défaut, vous pouvez déplacer la caméra à l'aide des touches fléchées, des touche ZQSD ou en déplaçant votre souris vers le bord de votre écran.\n\nAppuyez sur le bouton central de la souris et faites-la glisser pour faire pivoter la vue.",
 		"chinese": "默认情况下，你可以使用方向键，WASD 或通过将鼠标移动到屏幕边缘来移动镜头。\n\n按住鼠标中键并拖动鼠标以旋转你的视角。",
 		"russian": "По умолчанию вы можете перемещать камеру с помощью клавиш со стрелками, WASD или перемещая мышь к краю экрана.\n\nНажмите среднюю кнопку мыши и перетащите мышь, чтобы изменить вид.",
+		"italian": "Per default, puoi muovere la camera con i tasti freccia, con i tasti WASD, o muovendo il tuo mouse al bordo dello schermo.\n\nPremi il bottone centrale del mouse e trascina il mouse per ruotare la visuale.",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -294,6 +299,7 @@
 		"french": "Ressources nécessaires",
 		"chinese": "需求资源",
 		"russian": "Необходимые ресурсы",
+		"italian": "Risorse richieste",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_desc": {
 		"english": "You need to provide these things in order to get people to move in.",
@@ -301,6 +307,7 @@
 		"french": "Vous devez fournir ces éléments afin d'inciter les gens à s'installer.",
 		"chinese": "你需要提供这些资源才能让新居民搬迁进来。",
 		"russian": "Вы должны предоставить эти ресурсы, чтобы люди смогли сюда переехать.",
+		"italian": "Devi fornire queste risorse perchè la gente si trasferisca.",
 	},
 	"tutorialMessage_habitatInfoNextResources_title": {
 		"english": "Upgrade Resources",
@@ -308,6 +315,7 @@
 		"french": "Ressources d'amélioration",
 		"chinese": "升级资源",
 		"russian": "Ресурсы для улучшения",
+		"italian": "Risorse per il miglioramento",
 	},
 	"tutorialMessage_habitatInfoNextResources_desc": {
 		"english": "If you manage to provide these things, the habitat will upgrade to the next level.",
@@ -315,6 +323,7 @@
 		"french": "Si vous parvenez à fournir ces éléments, l'habitat passera au niveau supérieur.",
 		"chinese": "如果你能提供满足需求的资源，居住点将升级到一个新的等级。",
 		"russian": "Когда вы предоставите эти вещи, среда обитания перейдет на следующий уровень.",
+		"italian": "Se sei in grado di fornire queste risorse, l'habitat si aggiorerà al prossimo livello.",
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -322,6 +331,7 @@
 		"french": "Niveaux de la ville",
 		"chinese": "城市等级",
 		"russian": "Уровни города",
+		"italian": "Livelli della città",
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -329,6 +339,7 @@
 		"french": "Niveaux de la ville",
 		"chinese": "城市等级",
 		"russian": "Уровни города",
+		"italian": "Livelli della città",
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -336,6 +347,7 @@
 		"french": "Ce panneau vous indique combien de personnes vivent dans chaque type d'habitat. Vous devez améliorer vos habitats afin d'atteindre le niveau de ville suivant.",
 		"chinese": "此面板显示不同等级的居住点有多少人口居住。\n\n你需要升级居住点才能达到下一个城市等级。",
 		"russian": "На этой панели показано, сколько людей проживает в каждом типе среды обитания.\n\nВам необходимо обновить среду обитания, чтобы перейти на следующий уровень города.",
+		"italian": "Questo pannello mostra quanta gente sta vivendo in ogni tipologia di habitat.\n\nHai bisogno di aggiornare i tuoi habitat per far raggiungere alla città il prossimo livello.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -343,6 +355,7 @@
 		"french": "Niveaux de la ville",
 		"chinese": "城市等级",
 		"russian": "Уровни города",
+		"italian": "Livelli della città",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -350,6 +363,7 @@
 		"french": "Consultez la barre de progression pour savoir combien de citoyens doivent encore obtenir un meilleur logement pour atteindre le niveau suivant.",
 		"chinese": "检查进度条，看看有多少居民需要获得更好的住房才能达到更高的等级。",
 		"russian": "Проверьте индикатор выполнения, чтобы узнать, скольким гражданам нужно улучшить жилье, чтобы перейти на следующий уровень.",
+		"italian": "Controlla la barra di progressione per vedere di quanti cittadini devono raggiungere una miglior habitat per raggiungere il prossimo livello.",
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
@@ -357,6 +371,7 @@
 		"french": "Priorité des emplois",
 		"chinese": "工作优先级",
 		"russian": "Приоритезация работ",
+		"italian": "Priorità del lavoro",
 	},
 	"tutorialMessage_productionPanel_title": {
 		"english": "Production Overview",
@@ -364,6 +379,7 @@
 		"french": "Aperçu de la production",
 		"chinese": "生产概况",
 		"russian": "Обзор производства",
+		"italian": "Panoramica della Produzione",
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
@@ -371,6 +387,7 @@
 		"french": "Vérifiez les chiffres de production et de consommation de votre ville pour voir si vous produisez suffisamment pour répondre à la demande. Si vous voulez remplir vos réserves, vous devez produire plus que vous ne consommez !",
 		"chinese": "检查你的城市的生产和消耗量，看看你的生产量是否足以满足需求。\n\n如果你想填满库存，你的生产量必须大于消耗量！",
 		"russian": "Проверьте показатели производства и потребления в своем городе, чтобы узнать, достаточно ли вы производите для удовлетворения спроса.\n\nЕсли вы хотите пополнять запасы, вам нужно производить больше, чем вы потребляете!",
+		"italian": "Controlla i numeri della produzione e del consumo della tua città per vedere se stai producendo abbastanza per rimanere al passo con la domanda.\n\nSe vuoi riempire le riserve, devi produrre più di quanto consumi!",
 	},
 	"tutorialMessage_productionPanelPrioBars_title": {
 		"english": "Jobs Prioritization",
@@ -378,6 +395,7 @@
 		"french": "Priorité des emplois",
 		"chinese": "工作优先级",
 		"russian": "Приоритезация работ",
+		"italian": "Priorità del lavoro",
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
 		"english": "If you don't have enough workers, use the sliders to move your workforce into the most important jobs.",
@@ -385,5 +403,6 @@
 		"french": "Si vous n'avez pas assez d'ouvriers, utilisez les curseurs pour déplacer vos effectifs vers les emplois les plus importants.",
 		"chinese": "如果你没有足够的工人，请使用滑块将你的劳动力转移到最重要的工作中。",
 		"russian": "Если вам не хватает рабочих, используйте ползунки, чтобы переместить вашу рабочую силу на самые важные рабочие места.",
+		"italian": "Se non hai abbastanza lavoratori, usa le barre a scorrimento per spostare la tua forza lavoro verso i lavori più importanti.",
 	},
 }
