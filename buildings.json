@@ -281,6 +281,7 @@
     "french": "Usine de propulseurs à iridium",
     "chinese": "铱推进剂厂",
     "russian": "Завод иридиевого топлива",
+    "italian": "Fabbrica di carburante all'iridio",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -288,6 +289,7 @@
     "french": "Usine d'unités de contrôle IA",
     "chinese": "AI控制单元厂",
     "russian": "Завод блоков управления ИИ",
+    "italian": "Fabbrica di unità di controllo IA",
   },
 
 
@@ -597,6 +599,7 @@
     "french": "Grande symbole sur pied",
     "chinese": "大型竖立标志",
     "russian": "Большой стоящий знак",
+    "italian": "Grande cartellone verticale",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -604,6 +607,7 @@
     "french": "Grand symbole posé",
     "chinese": "大型平铺标志",
     "russian": "Большой лежащий знак",
+    "italian": "Grande cartellone a terra",
   },
   "monumentDrill": {
     "english": "Collosal Adamantine Drill",
@@ -611,5 +615,6 @@
     "french": "Foreuse collosale adamantine",
     "chinese": "大型金刚砂矿机",
     "russian": "Огромный адамантиновый бур",
+    "italian": "Trivella colossale per adamantio",
   }
 }
