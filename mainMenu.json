@@ -1655,6 +1655,7 @@
 		"french": "Feuille de route",
 		"chinese": "路线图",
 		"russian": "Дорожная карта",
+		"italian": "Roadmap",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -1662,6 +1663,7 @@
 		"french": "Aucune feuille de route trouvée.\n\nÊtes-vous connecté à internet ?",
 		"chinese": "未找到路线图。\n\n你是否已连接网络?",
 		"russian": "Дорожная карта не найдена.\n\nВы подключены к интернету?",
+		"italian": "Nessuna Roadmap trovata. \n\Sei connesso ad internet?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -1669,6 +1671,7 @@
 		"french": "Fonctionnalités garanties pour l'accès anticipé",
 		"chinese": "抢先体验的保证功能",
 		"russian": "Гарантированные функции раннего доступа",
+		"italian": "Caratteristiche Garantite per l'Accesso Anticipato",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -1676,6 +1679,7 @@
 		"french": "Voter pour des fonctionnalités additionnelles",
 		"chinese": "对额外功能投票",
 		"russian": "Голосуйте за дополнительный функционал",
+		"italian": "Vota per le funzionalità aggiuntive",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -1683,6 +1687,7 @@
 		"french": "Votez pour vos fonctionnalités préférées afin de nous faire savoir sur quoi nous devons nous concentrer. Nous choisirons dans cette liste en fonction des souhaits de la communauté et de leur pertinence dans le jeu.",
 		"chinese": "投票选出你最喜欢的功能，让我们知道我们应该关注什么。\n我们将根据社区的期望以及它们在游戏中的适合程度从这个列表中进行选择。",
 		"russian": "Голосуйте за понравившиеся функции, чтобы сообщить нам, на чем мы должны сосредоточиться.\nФункционал, который понравится сообществу и хорошо впишется в игру, будет добавлен.",
+		"italian": "Vota per le tue caratteristiche preferite per farci sapere su che cosa dovremmo concentrarci.\nSceglieremo dalla lista in base ai desideri della comunità e a come si inserisce nel gioco.",
 	},
 	"vote": {
 		"english": "Vote",
@@ -1690,6 +1695,7 @@
 		"french": "Voter",
 		"chinese": "投票",
 		"russian": "Голосовать",
+		"italian": "Vota",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -1697,6 +1703,7 @@
 		"french": "Discuter",
 		"chinese": "讨论",
 		"russian": "Обсуждение",
+		"italian": "Discuti",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -1704,6 +1711,7 @@
 		"french": "Signaler un bug",
 		"chinese": "报告错误",
 		"russian": "Сообщить о ошибке",
+		"italian": "Riporta un bug.",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -1711,6 +1719,7 @@
 		"french": "Traduire InfraSpace",
 		"chinese": "帮助翻译",
 		"russian": "Перевод InfraSpace",
+		"italian": "Traduci InfraSpace",
 	},
 	
 	"roadmap_trafficTools_title": {
@@ -1719,6 +1728,7 @@
 		"french": "Panneaux et feux de signalisation",
 		"chinese": "交通标志和交通灯",
 		"russian": "Дорожные знаки и светофоры",
+		"italian": "Semafori e Cartelli Stradali",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -1726,6 +1736,7 @@
 		"french": "Empêchez vos intersections de se boucher et donnez la priorité à certaines voitures.",
 		"chinese": "防止的十字路口堵塞车辆，并优先考虑哪些汽车可以先行。",
 		"russian": "Избегайте пробок на перекрестках и расставляйте приоритеты для машин, которые должны проезжать в первую очередь.",
+		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -1733,6 +1744,7 @@
 		"french": "Trains",
 		"chinese": "火车",
 		"russian": "Поезда",
+		"italian": "Treni",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -1740,6 +1752,7 @@
 		"french": "Les autoroutes, c'est bien, mais il faut parfois transporter des milliers de tonnes de matériaux à travers la moitié de la ville.",
 		"chinese": "高速公路很好，但有时你需要运输数千吨材料穿越大半个城市。",
 		"russian": "Автомагистрали хороши, но иногда нужно перевозить тысячи тонн материалов через полгорода.",
+		"italian": "Le autostrade sono belle, ma a volte hai bisogno di trasportare migliaia di tonnellate di materiali attraversando mezza città.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -1747,6 +1760,7 @@
 		"french": "Grand projet de fin de partie",
 		"chinese": "Page Up",
 		"russian": "Большой финальный проект",
+		"italian": "Grande Progetto di Fine Partita",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -1754,6 +1768,7 @@
 		"french": "Vous avez atteint le maximum de votre ville et terminé l'arbre technologique ? Vous êtes à la recherche d'un dernier défi ?",
 		"chinese": "你的城市是否发展到最大并完成科技树? 你想进行终极挑战吗?",
 		"russian": "Достигли максимума в своем городе и закончили дерево развития? В поисках последнего вызова?",
+		"italian": "Hai massimizzato la tua città e terminato l'albero delle tecnologie? Sei in cerca di un'ultima sfida?",
 	},
 	
 	"roadmap_gondolas_title": {
@@ -1762,6 +1777,7 @@
 		"french": "Cabines pour accéder aux montagnes",
 		"chinese": "高地缆车",
 		"russian": "Гондолы для доступа в горы",
+		"italian": "Una telecabina per andare in montagna",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -1769,6 +1785,7 @@
 		"french": "Les nacelles de grande capacité peuvent transporter vos marchandises par-dessus les rochers et les montagnes.",
 		"chinese": "大容量货运缆车可以将你的货物运送到岩石和山脉上。",
 		"russian": "Грузовые гондолы большой вместимости могут перевозить ваши грузы по скалам и горам.",
+		"italian": "Le cabine ad alta capacità possono trasportare i tuoi beni oltre le rocce e le montagne.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -1776,6 +1793,7 @@
 		"french": "Système de bonheur",
 		"chinese": "幸福系统",
 		"russian": "Система удовлетворенности",
+		"italian": "Sistema di felicità",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -1783,6 +1801,7 @@
 		"french": "Système amélioré pour décider de la mise à niveau des habitats. Il prend en compte les bâtiments de service à proximité, le bruit, les réglementations, etc.",
 		"chinese": "改进系统来决定何时升级居住点。 考虑到附近的服务建筑以及噪音等等。",
 		"russian": "Улучшенная система принятия решения о том, когда улучшать среду обитания. Принимает во внимание близлежащие служебные здания, шум, правила и многое другое.",
+		"italian": "Sistema migliorato per decidere quando un habitat sarà migliorato. Tiene conto degli edifici di servizio vicini, del rumore, delle ordinanze, ed altro.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -1790,6 +1809,7 @@
 		"french": "Support des mods",
 		"chinese": "模组支持",
 		"russian": "Поддержка модификаций",
+		"italian": "Supporto dei mod",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -1797,6 +1817,7 @@
 		"french": "Prise en charge des mods d'équilibre, de construction, de ressources, d'interface, d'infrastructure et de script.",
 		"chinese": "支持平衡模组，建筑模组，资源模组，UI模组，基础设施模组和脚本模组。",
 		"russian": "Поддержка балансирующих модификаций, скриптов, строительных модов, модов на ресурсы, UI и инфраструктуру.",
+		"italian": "Supporto dei mod di bilanciamento, di costruzione, di risorsa, di UI, di infrastruttura e di script.",
 	},
 	
 	"roadmap_pipes_title": {
@@ -1805,6 +1826,7 @@
 		"french": "Tuyaux pour liquides et gaz",
 		"chinese": "液体和气体管道",
 		"russian": "Трубы для жидкостей и газов",
+		"italian": "Tubi per Liquidi e Gas",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -1812,6 +1834,7 @@
 		"french": "Et si vous pouviez transporter de grandes quantités de ressources sous terre ou dans des pipelines ? Et si vous aviez besoin de produire de l'eau pour survivre ?",
 		"chinese": "如果你可以在地下或管道中运输大量资源会怎样? 如果你需要生产水来生存怎么办?",
 		"russian": "Необходимо транспортировать большие объемы ресурсов под землей или по трубопроводам? Необходимо производить воду для выживания?",
+		"italian": "E se potessi trasportare grandi quantità di risorse sotto terra o dentro i tubi? E se avessi bisogno di produrre acqua per sopravvivere?",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -1819,6 +1842,7 @@
 		"french": "Système de chauffage",
 		"chinese": "温度系统",
 		"russian": "Отопительная система",
+		"italian": "Sistema di riscaldamento",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -1826,6 +1850,7 @@
 		"french": "Les systèmes de survie sont importants dans l'espace - garder votre ville suffisamment chaude ou fraîche pourrait être critique.",
 		"chinese": "生命维持系统在太空中很重要——让你的城市保持足够的温度或凉爽或许很重要。",
 		"russian": "Системы жизнеобеспечения важны в космосе - сохранение тепла или прохлады в вашем городе может иметь решающее значение.",
+		"italian": "I sistemi di sopravvivenza sono importanti nello spazio - tenere la tua città abbastanza calda o fresca può essere critico.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -1833,6 +1858,7 @@
 		"french": "Cycle jour-nuit",
 		"chinese": "昼夜循环",
 		"russian": "Цикл день-ночь",
+		"italian": "Ciclo giorno-notte",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -1840,6 +1866,7 @@
 		"french": "Ça a l'air cool et vous devez préparer votre réseau électrique pour la nuit. Cela pourrait également fonctionner avec un système de chauffage - les planètes de sable se refroidissent rapidement la nuit.",
 		"chinese": "看起来很酷，你需要为夜间准备电网。 也可以很好地与温度系统配合使用 - 沙地行星在夜间会迅速降温。",
 		"russian": "Выглядит круто, и вам нужно будет подготавливать свою электросеть к ночи. Может хорошо работать и с тепловой системой - песчаные планеты ночью становятся очень холодными.",
+		"italian": "Sembra bello e devi preparare la tua rete energetica per la notte. Può anche funzionare bene con il sistema di riscaldamento - i pianeti sabbiosi si raffreddano in fretta di notte.",
 	},
 	
 	"roadmap_firesCrime_title": {
@@ -1848,6 +1875,7 @@
 		"french": "Incendies et criminalité",
 		"chinese": "火灾和犯罪",
 		"russian": "Пожары и преступность",
+		"italian": "Incendi e crimine",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -1855,6 +1883,7 @@
 		"french": "Les accidents arrivent et votre ville a besoin de services d'urgence pour y faire face - soyez prêt !",
 		"chinese": "会发生事故，你的城市需要紧急服务来处理它们 - 做好准备！",
 		"russian": "Аварии случаются, и вашему городу нужны службы экстренной помощи, чтобы справиться с ними - будьте готовы!",
+		"italian": "Gli incidenti accadono e la tua città ha bisogno di servizi di emergenza per gestirli - sii preparato!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -1862,6 +1891,7 @@
 		"french": "Voitures volantes pour les ouvriers",
 		"chinese": "飞行汽车",
 		"russian": "Летающие машины для рабочих",
+		"italian": "Macchine volanti per i lavoratori",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -1869,6 +1899,7 @@
 		"french": "Ajouter du trafic pour les travailleurs qui se rendent au travail, mais introduir aussi des voitures volantes pour éviter que votre système routier ne s'enlise.",
 		"chinese": "让我们为上班的工人增加交通，但也引入先进的飞行汽车，以防止你的道路堵塞。",
 		"russian": "Давайте добавим трафик для рабочих, идущих на работу, а также представим апгрейд до летающей машины, чтобы ваша дорожная система не утонула в пробках.",
+		"italian": "Aggiungiamo il traffico per i lavoratori che vanno al lavoro, ma introduciamo anche l'aggiornamento alle macchine volanti per evitare che il tuo sistema stradale si blocchi.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -1876,6 +1907,7 @@
 		"french": "Catastrophes naturelles",
 		"chinese": "自然灾害",
 		"russian": "Стихийные бедствия",
+		"italian": "Disastri Naturali",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -1883,47 +1915,56 @@
 		"french": "Comment vos routes vont-elles fonctionner après une tempête de sable ? Seriez-vous prêts ?",
 		"chinese": "沙尘暴过后，你的道路的运行状况如何? 你会做好准备吗?",
 		"russian": "Насколько хорошо ваши дороги будут работать после песчаной бури? Будете ли вы готовы?",
+		"italian": "Quanto funzioneranno bene le tue strade dopo una tempesta di sabbia? Saresti pronto?",
 	},
 
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
 		"german": "Schwierigkeit des Spiels",
 		"french": "Difficulté de la partie",
+		"italian": "Difficoltà del gioco",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
 		"german": "Beeinflusst, wie viele Produkte Bürger verbrauchen.\nJe höher die Schwierigkeit, desto besser musst du dich um deine Wirtschaft kümmern.",
 		"french": "Contrôle le nombre de produits dont les citoyens ont besoin.\nPlus la difficulté est élevée, mieux vous devez gérer votre économie.",
+		"italian": "Controlla il numero di prodotti di cui i cittadini hanno bisogno. \nPiù è alta la difficoltà, più dovrai gestire al meglio la tua economia.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
 		"german": "Schwierigkeit des Transports",
 		"french": "Difficulté de transport",
+		"italian": "Difficoltà dei trasporti",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
 		"german": "Ändert wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto wengier Objekte können auf einmal transportiert werden.",
 		"french": "Contrôle le nombre d'objets que les véhicules peuvent transporter.\nPlus la difficulté est élevée, moins il est possible de transporter d'objets à la fois.",
+		"italian": "Controlla quanti oggetti possono essere trasportati dai veicoli. \nPiù è alta la difficoltà, meno oggetti potranno essere trasportati alla volta.",
 	},
 	"startGame": {
 		"english": "Start Game",
 		"german": "Spiel starten",
 		"french": "Commencer la partie",
+		"italian": "Comincia la partita",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
 		"german": "Einfach",
 		"french": "Facile",
+		"italian": "Facile",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
 		"german": "Mittel",
 		"french": "Normal",
+		"italian": "Media",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
 		"german": "Schwer",
 		"french": "Difficile",
+		"italian": "Difficile",
 	},
 
 }
