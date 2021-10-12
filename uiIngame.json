@@ -652,4 +652,91 @@
 		"chinese": "目前开采总量: %amount%",
 		"italian": "Quantità totale estratta fino ad ora: %amount%",
 	},
+
+	"districts": {
+		"english": "Districts",
+		"german": "Stadtviertel",
+		"french": "Quartiers",
+		"chinese": "地区",
+	},
+	"districtsPaintingExplanation": {
+		"english": "Left click to paint\nRight click to erase",
+		"german": "Linksklick zum Zeichnen\nRechtsklick zum Löschen",
+		"french": "Clic gauche pour peindre\nClic droit pour effacer",
+		"chinese": "左键单击绘画\n右键单击擦除",
+	},
+	"districtsRulesExplanation": {
+		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
+		"german": "Ziehe deine von einem Viertel zum nächsten um eine Exportregel zu erstellen.\n\nStadtviertel ohne Exportregel dürfen ihre Güter überall hin liefern.",
+		"french": "Faites glisser la souris entre les quartiers pour créer une règle d'exportation.\n\nLes quartiers sans règles d'exportation peuvent exporter des marchandises n'importe où.",
+		"chinese": "在地区之间拖动鼠标光标创建出口规则。\n\n没有出口规则的地区可以将货物出口到任何地方。",
+	},
+
+	"populationInfo": {
+		"english": "Population Info",
+		"german": "Bevölkerungsinfo",
+		"french": "Infos population",
+		"chinese": "人口信息",
+	},
+	"immigrantsReadyToMoveIn": {
+		"english": "Immigrants ready to move in:",
+		"german": "Immigranten bereit zum Einziehen:",
+		"french": "Immigrants prêts à emménager :",
+		"chinese": "准备搬入的居民:",
+	},
+	"immigrationRate": {
+		"english": "Immigration rate:",
+		"german": "Immigrationsrate",
+		"french": "Taux d'immigration :",
+		"chinese": "移民率:",
+	},
+	"upgradeHabitatsForImmigrants": {
+		"english": "Upgrade your habitats to make your city attractive to newcomers.",
+		"german": "Lasse deine Habitats aufsteigen, damit deine Stadt attraktiver für Neuankömmlinge wird.",
+		"french": "Améliorez vos habitats pour rendre votre ville attrayante pour les nouveaux arrivants.",
+		"chinese": "升级你的居住点，让你的城市对新居民具有吸引力。",
+	},
+	"low": {
+		"english": "Low",
+		"german": "Niedrig",
+		"french": "Bas",
+		"chinese": "低",
+	},
+	"moderate": {
+		"english": "Moderate",
+		"german": "Mittel",
+		"french": "Modéré",
+		"chinese": "中",
+	},
+	"high": {
+		"english": "High",
+		"german": "Hoch",
+		"french": "Élevé",
+		"chinese": "高",
+	},
+
+	"habitatUpgraded": {
+		"english": "Habitat Upgraded",
+		"german": "Habitat aufgestiegen",
+		"french": "Habitat amélioré",
+		"chinese": "居住点升级",
+	},
+	"habitatDowngraded": {
+		"english": "Habitat Downgraded",
+		"german": "Habitat herabgestuft",
+		"french": "Habitat rétrogradé",
+		"chinese": "居住点降级",
+	},
+	"megawatts_short": {
+		"english": "MW",
+		"german": "MW",
+		"french": "MW",
+		"chinese": "兆瓦",
+	},
+	"percentageEfficiency": {
+		"english": "%percentage%% Efficiency",
+		"german": "%percentage%% Effizienz",
+		"french": "%percentage%% d'efficacité",
+		"chinese": "%percentage%% 效率",
+	},
 }
