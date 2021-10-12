@@ -1663,7 +1663,7 @@
 		"french": "Aucune feuille de route trouvée.\n\nÊtes-vous connecté à internet ?",
 		"chinese": "未找到路线图。\n\n你是否已连接网络?",
 		"russian": "Дорожная карта не найдена.\n\nВы подключены к интернету?",
-		"italian": "Nessuna Roadmap trovata. \n\Sei connesso ad internet?",
+		"italian": "Nessuna Roadmap trovata. \n\nSei connesso ad internet?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
