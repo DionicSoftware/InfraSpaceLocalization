@@ -205,6 +205,7 @@
 		"french": "Consommation",
 		"chinese": "消耗",
 		"russian": "Потребление",
+		"italian": "Consumo",
 	},
 	"workers": {
 		"english": "Workers",
@@ -212,6 +213,7 @@
 		"french": "Ouvriers",
 		"chinese": "工人",
 		"russian": "Рабочие",
+		"italian": "Lavoratori",
 	},
 	"storage": {
 		"english": "Storage",
@@ -469,6 +471,7 @@
 		"french": "Assitance de longueur de routes",
 		"chinese": "捕捉道路长度",
 		"russian": "Длина дороги",
+		"italian": "Lunghezza aggancio strada",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -476,6 +479,7 @@
 		"french": "Assitance d'angle de routes",
 		"chinese": "捕捉道路角度",
 		"russian": "Угол привязки дороги",
+		"italian": "Angolo aggancio strada",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -483,6 +487,7 @@
 		"french": "Remplacer des routes",
 		"chinese": "变更道路",
 		"russian": "Заменить дорогу",
+		"italian": "Sostituisci strada",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -490,6 +495,7 @@
 		"french": "Accrocher à la route",
 		"chinese": "捕捉道路",
 		"russian": "Привязать к дороге",
+		"italian": "Aggancia alla strada",
 	},
 	"resourcesOnWay" : { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -497,6 +503,7 @@
 		"french": "En cours de livraison : %amount%",
 		"chinese": "当前正在交付:%amount%",
 		"russian": "В настоящее время доставляется: %amount%",
+		"italian": "Attualmente in consegna: %amount%",
 	},
 
 	// sign panel
@@ -506,6 +513,7 @@
 		"french": "Texte",
 		"chinese": "文本",
 		"russian": "Текст",
+		"italian": "Testo",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -513,6 +521,7 @@
 		"french": "Taille de la police",
 		"chinese": "字体大小",
 		"russian": "Размер шрифта",
+		"italian": "Dimensioni Carattere",
 	},
 	"font": {
 		"english": "Font",
@@ -520,6 +529,7 @@
 		"french": "Police",
 		"chinese": "字体",
 		"russian": "Шрифт",
+		"italian": "Tipo di carattere",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -527,6 +537,7 @@
 		"french": "Non connecté au réseau électrique",
 		"chinese": "未连接到电网",
 		"russian": "Не подключен к электросети",
+		"italian": "Non connesso ad una rete elettrica",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -534,6 +545,7 @@
 		"french": "Le bâtiment est en collision avec quelque chose",
 		"chinese": "建筑物与物体发生冲突",
 		"russian": "Зданию что-то мешает",
+		"italian": "L'edificio è in collisione con qualcosa",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -541,6 +553,7 @@
 		"french": "Le bâtiment n'est pas placé sur un dépôt de ressources",
 		"chinese": "建筑物未放置在资源储藏上",
 		"russian": "Здание не размещено на залежи ресурсов",
+		"italian": "Edificio non si trova su un deposito di risorse",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -548,6 +561,7 @@
 		"french": "La route est en collision avec quelque chose",
 		"chinese": "道路与物体发生冲突",
 		"russian": "Дороге что-то мешает",
+		"italian": "La strada è in collisione con qualcosa",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -555,6 +569,7 @@
 		"french": "Routes trop proches",
 		"chinese": "距离邻道太近",
 		"russian": "Слишком близко к соседней дороге",
+		"italian": "Strade troppo vicine",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -562,6 +577,7 @@
 		"french": "Segment de route trop court",
 		"chinese": "路段太短",
 		"russian": "Слишком короткий отрезок дороги",
+		"italian": "Segmento di strada troppo corto",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -569,6 +585,7 @@
 		"french": "Route trop raide",
 		"chinese": "道路太陡",
 		"russian": "Дорога слишком крутая",
+		"italian": "Strada troppo ripida",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -576,6 +593,7 @@
 		"french": "Route trop éloignée de la surface",
 		"chinese": "道路离地面太高",
 		"russian": "Дорога слишком далеко от земли",
+		"italian": "strada troppo lontana dalla superficie",
 	},
 
 
@@ -587,6 +605,7 @@
 		"french": "Visualisations",
 		"chinese": "可视化",
 		"russian": "Визуализации",
+		"italian": "Visualizzazioni",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -594,6 +613,7 @@
 		"french": "Efficacité des bâtiments",
 		"chinese": "建筑效率",
 		"russian": "Эффективность строительства",
+		"italian": "Efficienza dell'edificio",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -601,6 +621,7 @@
 		"french": "Occupation du bâtiment (Ouvriers & Habitants)",
 		"chinese": "建筑入住率(工人和居民)",
 		"russian": "Заселенность здания (рабочие и жители)",
+		"italian": "Occupazioni dell'edificio (Lavoratori & Abitanti)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -608,6 +629,7 @@
 		"french": "Énergie",
 		"chinese": "电力",
 		"russian": "Энергия",
+		"italian": "Energia",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -615,6 +637,7 @@
 		"french": "Éoliennes",
 		"chinese": "风力发电机",
 		"russian": "Ветряные турбины",
+		"italian": "Turbine eoliche",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -622,6 +645,7 @@
 		"french": "Installations d'enrichissement du sol",
 		"chinese": "土壤浓缩设施",
 		"russian": "Системы обогащения почвы",
+		"italian": "Strutture di arricchimento del terreno",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -629,6 +653,7 @@
 		"french": "Centres de recyclage",
 		"chinese": "回收中心",
 		"russian": "Центр переработки",
+		"italian": "Centri di riciclaggio",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -636,6 +661,7 @@
 		"french": "Bâtiments dotés d'outils high-tech",
 		"chinese": "高科技工具建筑",
 		"russian": "Строительство с помощью высокотехнологичных инструментов",
+		"italian": "Edifici con strumenti ad alta tecnologia",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial ÖRobots",
@@ -643,6 +669,7 @@
 		"french": "Bâtiments avec des robots industriels",
 		"chinese": "工业机器人建筑",
 		"russian": "Строительство с промышленными роботами",
+		"italian": "Edifici con robot industriali",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -650,6 +677,7 @@
 		"french": "Ressources nécessaires :",
 		"chinese": "需求资源:",
 		"russian": "Необходимые материалы",
+		"italian": "Risorse necessarie:",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -657,6 +685,7 @@
 		"french": "Extrait %amount% %resourceName% par minute",
 		"chinese": "每分钟开采 %amount% %resourceName%",
 		"russian": "%amount% %resourceName% добывается каждую минуту",
+		"italian": "Estratte %amount% %resourcesName% al minuto",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -664,6 +693,7 @@
 		"french": "Quantité totale extraite jusqu'ici : %amount%",
 		"chinese": "目前开采总量: %amount%",
 		"russian": "Всего добыто: %amount%",
+		"italian": "Quantità totale estratta fino ad ora: %amount%",
 	},
 
 	"districts": {
