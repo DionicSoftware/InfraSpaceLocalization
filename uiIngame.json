@@ -676,12 +676,14 @@
 		"german": "Autos",
 		"italian": "Automobili",
 		"chinese": "汽车",
+		"russian": "Машины",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
 		"german": "Straßen",
 		"italian": "Strade",
 		"chinese": "道路",
+		"russian": "Дороги",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -707,13 +709,13 @@
 		"russian": "Всего добыто: %amount%",
 		"italian": "Quantità totale estratta fino ad ora: %amount%",
 	},
-
 	"districts": {
 		"english": "Districts",
 		"german": "Stadtviertel",
 		"french": "Quartiers",
 		"chinese": "地区",
 		"italian": "Distretti",
+		"russian": "Районы",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -721,6 +723,7 @@
 		"french": "Clic gauche pour peindre\nClic droit pour effacer",
 		"chinese": "左键单击绘画\n右键单击擦除",
 		"italian": "Clic sinistro per evidenziare\nClick destro per cancellare",
+		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -728,6 +731,7 @@
 		"french": "Faites glisser la souris entre les quartiers pour créer une règle d'exportation.\n\nLes quartiers sans règles d'exportation peuvent exporter des marchandises n'importe où.",
 		"chinese": "在地区之间拖动鼠标光标创建出口规则。\n\n没有出口规则的地区可以将货物出口到任何地方。",
 		"italian": "Trascina il cursore del mouse tra i distretti per creare una regola di esportazione.\n\nI distretti senza regole di esportazione posso esportare beni ovunque.",
+		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
 	},
 
 	"populationInfo": {
@@ -736,6 +740,7 @@
 		"french": "Infos population",
 		"chinese": "人口信息",
 		"italian": "Informazioni sulla popolazione",
+		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -743,6 +748,7 @@
 		"french": "Immigrants prêts à emménager :",
 		"chinese": "准备搬入的居民:",
 		"italian": "Migranti pronti a trasferirsi:",
+		"russian": "Количество иммигрантов, готовых к заселению:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -750,6 +756,7 @@
 		"french": "Taux d'immigration :",
 		"chinese": "移民率:",
 		"italian": "Tasso di immigrazione:",
+		"russian": "Скорость иммиграции:",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -757,6 +764,7 @@
 		"french": "Améliorez vos habitats pour rendre votre ville attrayante pour les nouveaux arrivants.",
 		"chinese": "升级你的居住点，让你的城市对新居民具有吸引力。",
 		"italian": "Aggiorna gli habitat per rendere la tua città attraente per i nuovi arrivati.",
+		"russian": "Улучшайте среду обитания, чтобы сделать город привлекательным для новых жителей.",
 	},
 	"low": {
 		"english": "Low",
@@ -764,6 +772,7 @@
 		"french": "Bas",
 		"chinese": "低",
 		"italian": "Basso",
+		"russian": "Низкий",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -771,21 +780,23 @@
 		"french": "Modéré",
 		"chinese": "中",
 		"italian": "Moderato",
+		"russian": "Средний",
 	},
 	"high": {
 		"english": "High",
 		"german": "Hoch",
 		"french": "Élevé",
 		"chinese": "高",
-		"italian": "Alto"
+		"italian": "Alto",
+		"russian": "Высокий",
 	},
-
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
 		"german": "Habitat aufgestiegen",
 		"french": "Habitat amélioré",
 		"chinese": "居住点升级",
 		"italian": "Habitat migliorato",
+		"russian": "Уровень среды обитания увеличен",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -793,6 +804,7 @@
 		"french": "Habitat rétrogradé",
 		"chinese": "居住点降级",
 		"italian": "Habitat declassato",
+		"russian": "Уровень среды обитания понижен",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -800,6 +812,7 @@
 		"french": "MW",
 		"chinese": "兆瓦",
 		"italian": "MW",
+		"russian": "МВт",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -807,5 +820,6 @@
 		"french": "%percentage%% d'efficacité",
 		"chinese": "%percentage%% 效率",
 		"italian": "%percentahe%% di efficienza",
+		"russian": "Эффективность %percentage%%",
 	},
 }
