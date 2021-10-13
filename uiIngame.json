@@ -115,7 +115,7 @@
 		"french": "Votre ville sera rétrogradée en %cityLevelName% si vous avez moins de %amount% citoyens niveau %level%.",
 		"spanish": "Tu ciudad será degradada a \"%cityLevelName%\" si tienes menos de %amount% ciudadanos de nivel %nextLevel%.",
 		"russian": "Ваш город будет понижен до \"%cityLevelName%\", если в нем будет меньше %amount% жителей %level% уровня.",
-		"chinese": "如果你城镇少于%amount%名%nextLevel%级的居民，城镇就会降级为 \"%cityLevelName%\"。",
+		"chinese": "如果你城镇少于%amount%名%level%级的居民，城镇就会降级为 \"%cityLevelName%\"。",
 		"italian": "La tua città sarà retrocessa a \"%cityLevelName%\" se avrai meno di %amount% cittadini di Livello %level%.",
 	},
 	"researchingSomething":  {
