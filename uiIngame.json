@@ -20,7 +20,7 @@
 	"powerConsumed":  {
 		"english": "Power consumed:",
 		"german": "Stromverbrauch:",
-		"french": "Énergie consommée :",
+		"french": "Consommation d'énergie :",
 		"spanish": "Energía consumida:",
 		"russian": "Потребляемая энергия:",
 		"chinese": "耗电量:",
@@ -38,7 +38,7 @@
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
 		"german": "Eigehendes Lager leer",
-		"french": "Entrepôt entrant vide",
+		"french": "Entrée vide",
 		"spanish": "Almacenamiento entrante vacío",
 		"russian": "Входящее хранилище пусто",
 		"chinese": "输入库存为空",
@@ -56,7 +56,7 @@
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
 		"german": "Ausgehendes Lager voll",
-		"french": "Entrepôt sortant plein",
+		"french": "Sortie pleine",
 		"spanish": "Almacenamiento saliente vacío",
 		"russian": "Исходящее хранилище заполнено",
 		"chinese": "输出库存为空",
@@ -130,7 +130,7 @@
 	"selectTech":  {
 		"english": "Select technology to research",
 		"german": "Technolgie wählen",
-		"french": "Sélectionner une technologie à rechercher",
+		"french": "Sélectionnez une technologie à rechercher",
 		"spanish": "Selecciona una tecnología para investigar",
 		"russian": "Выберите технологию для исследования",
 		"chinese": "选择技术研究",
@@ -218,7 +218,7 @@
 	"storage": {
 		"english": "Storage",
 		"german": "Lager",
-		"french": "Entreposage",
+		"french": "Réserve",
 		"spanish": "Almacenamiento",
 		"russian": "Хранение:",
 		"chinese": "存储",
@@ -283,7 +283,7 @@
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
 		"german": "Wohngebäude ist voll. Erfülle die weiteren Bedürfnisse um aufzusteigen.",
-		"french": "L'habitat est complet. Remplissez les besoins supplémentaires pour l'amélioration.",
+		"french": "L'habitat est complet. Remplissez les besoins complémentaires pour l'améliorer.",
 		"spanish": "Hábitat lleno. Cumple los requisitos adicionales para mejorar.",
 		"russian": "Среда обитания заполнена. Выполните дополнительные требования для улучшения.",
 		"chinese": "居住点人口已满，满足升级的额外需求。",
@@ -292,7 +292,7 @@
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
 		"german": "Leute ziehen ein.",
-		"french": "Les gens emménagent.",
+		"french": "Des personnes emménagent.",
 		"spanish": "La gente se está mudando.",
 		"russian": "Жители приезжают.",
 		"chinese": "人们正在搬进。",
@@ -301,7 +301,7 @@
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
 		"german": "Leute ziehen aus.",
-		"french": "Les gens déménagent.",
+		"french": "Des personnes déménagent.",
 		"spanish": "La gente se está yendo.",
 		"russian": "Жители уезжают.",
 		"chinese": "人们正在搬离。",
@@ -518,7 +518,7 @@
 	"fontSize": {
 		"english": "Font Size",
 		"german": "Schriftgröße",
-		"french": "Taille de la police",
+		"french": "Taille police",
 		"chinese": "字体大小",
 		"russian": "Размер шрифта",
 		"italian": "Dimensioni Carattere",
@@ -618,7 +618,7 @@
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
 		"german": "Gebäudebelegung (Arbeiter & Einwohner)",
-		"french": "Occupation du bâtiment (Ouvriers & Habitants)",
+		"french": "Occupation des bâtiments (ouvriers & habitants)",
 		"chinese": "建筑入住率(工人和居民)",
 		"russian": "Заселенность здания (рабочие и жители)",
 		"italian": "Occupazioni dell'edificio (Lavoratori & Abitanti)",
@@ -658,7 +658,7 @@
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
 		"german": "Gebäude mit High-Tech Werkzeugen",
-		"french": "Bâtiments dotés d'outils high-tech",
+		"french": "Bâtiments avec des outils high-tech",
 		"chinese": "高科技工具建筑",
 		"russian": "Строительство с помощью высокотехнологичных инструментов",
 		"italian": "Edifici con strumenti ad alta tecnologia",
@@ -674,6 +674,7 @@
 	"visualization_Cars": {
 		"english": "Cars",
 		"german": "Autos",
+		"french": "Véhicules",
 		"italian": "Automobili",
 		"chinese": "汽车",
 		"russian": "Машины",
@@ -681,6 +682,7 @@
 	"visualization_Roads": {
 		"english": "Roads",
 		"german": "Straßen",
+		"french": "Routes",
 		"italian": "Strade",
 		"chinese": "道路",
 		"russian": "Дороги",
