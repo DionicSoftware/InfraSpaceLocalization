@@ -790,4 +790,16 @@
 		"french": "%percentage%% d'efficacité",
 		"chinese": "%percentage%% 效率",
 	},
+	"productionOverview": {
+		"english": "Production Overview",
+		"german": "Produktionsübersicht",
+	},
+	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
+		"english": "Resource",
+		"german": "Produkt",
+	},
+	"priority": {
+		"english": "Priority",
+		"german": "Priorisierung",
+	},
 }
