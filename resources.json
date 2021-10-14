@@ -118,10 +118,10 @@
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
 		"german": "Elektronikmodule",
+		"french": "Modules électroniques",
 		"russian": "Электроника",
 		"chinese": "电子元件",
 		"spanish": "Módulos Electrónicos",
-		"french": "Modules électroniques",
 		"italian": "Moduli Elettronici",
 	},
 	"resource_homeAppliance": {
@@ -216,7 +216,7 @@
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
 		"german": "Iridiumtreibstoff",
-		"french": "Propulseurs à iridium",
+		"french": "Propulseur à iridium",
 		"chinese": "铱推进剂",
 		"russian": "Иридиевое топливо",
 		"italian": "Carburante all'iridio",
@@ -358,7 +358,7 @@
 	"resource_car": {
 		"english": "Car",
 		"german": "Auto",
-		"french": "Véhicule",
+		"french": "Voiture",
 		"russian": "Машина",
 		"spanish": "Auto",
 		"chinese": "汽车",

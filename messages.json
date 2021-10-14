@@ -29,7 +29,7 @@
 	"message_cityLevelDownText":  {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
 		"german": "Du hast es nicht geschafft, dich um deine Bürger zu kümmern. Deine Stadt wurde zurückgestuft bist du ihre Bedürfnisse wieder erfüllen kannst.",
-		"french": "Vous n'avez pas réussi à subvenir aux besoins de vos citoyens. Votre ville a été rétrogradée jusqu'à ce que vous puissiez renverser la situation.",
+		"french": "Vous n'avez pas réussi à subvenir aux besoins de vos citoyens. Votre ville a été rétrogradée jusqu'à ce que vous puissiez reprendre les choses en main.",
 		"russian": "Вы не смогли обеспечить своих граждан. Ваш уровень вашего города понижен, пока вы не сможете изменить ситуацию.",
 		"spanish": "Has fallado en proveer para tus ciudadanos. Tu ciudad ha sido degradada hasta que puedas cambiar la situación",
 		"chinese": "你没有为你的居民提供食物。你的城市已被降级，直到改变现状。",
@@ -47,7 +47,7 @@
 	"message_debugModeText":  {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
 		"german": "Der Debugmodus ist für den Einsatz in der Entwicklung gedacht. Wenn du den Debugmodus verwendest, könnten Bugs auftreten.",
-		"french": "Le mode débogage est destiné à être utilisé dans le cadre du développement. Si vous activez le mode débogage, vous risquez d'obtenir des bugs.",
+		"french": "Le mode débogage est destiné à être utilisé dans le cadre du développement. Si vous activez le mode débogage, vous risquez d'avoir des bugs.",
 		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, вы можете получить баги.",
 		"spanish": "El modo debug está destinado a ser utilizado en el desarrollo. Si habilitas el modo debug, puedes experimentar bugs.",
 		"chinese": "调试模式旨在用于开发。如果你启用调试模式，可能会遇到错误。",

@@ -186,7 +186,7 @@
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
 		"german": "Fabrik für Holo-Displays",
-    "french": "Usine d'affichage holographique",
+    "french": "Usine d'affichages holographiques",
     "russian": "Завод голографических дисплеев",
     "chinese": "全息显示屏厂",
     "spanish": "Fábrica de Holo-Pantallas",
@@ -542,7 +542,7 @@
 	"powerPole": {
 		"english": "Power Pole",
 		"german": "Strommast",
-    "french": "Pôle électrique",
+    "french": "Pylône électrique",
     "russian": "Электрический столб",
     "chinese": "电杆",
     "spanish": "Poste de Energía",
@@ -612,7 +612,7 @@
   "monumentDrill": {
     "english": "Collosal Adamantine Drill",
     "german": "Gewaltiger Adamant-Bohrer",
-    "french": "Foreuse collosale adamantine",
+    "french": "Foreuse collosale d'adamantine",
     "chinese": "大型金刚砂矿机",
     "russian": "Огромный адамантиновый бур",
     "italian": "Trivella colossale per adamantio",

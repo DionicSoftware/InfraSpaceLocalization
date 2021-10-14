@@ -26,7 +26,7 @@
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
 		"german": "Wenn du nicht genug Arbeiter hast, können deine Fabriken nicht effizient arbeiten.\nVerwende das Priorisierungswerkzeug oben links um deine Arbeitskräfte zu verteilen.",
-		"french": "Si vous n'avez pas assez d'ouvriers, vos usines ne peuvent pas fonctionner efficacement. Utilisez l'outil de priorisation en haut à gauche pour répartir votre main-d'œuvre.",
+		"french": "Si vous n'avez pas assez d'ouvriers, vos usines ne peuvent pas fonctionner efficacement.\nUtilisez l'outil de priorisation en haut à gauche pour répartir votre main-d'œuvre.",
 		"chinese": "如果你没有足够的工人，你的工厂就无法高效运行。\n使用左上角的优先级工具来分配你的劳动力。",
 		"russian": "Если у вас недостаточно рабочих, ваши предприятия не смогут работать эффективно.\nИспользуйте инструмент приоритезации в левом верхнем углу, чтобы распределить рабочую силу.",
 		"italian": "Se non hai abbastanza lavoratori, le tue fabbriche non lavoreranno efficientemente.\nUsa lo strumento di Priorità in alto a sinistra per distribuire la forza lavoro.",
@@ -34,7 +34,7 @@
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
 		"german": "Verwirbelungen senken Windradeffizienz",
-		"french": "Les turbulences diminuent l'efficacité des éoliennes",
+		"french": "Diminution de l'efficacité d'éoliennes",
 		"chinese": "湍流会降低风力涡轮机的效率",
 		"russian": "Турбулентность снижает эффективность ветряных турбин",
 		"italian": "Le turbolenze diminuiscono l'efficienza delle turbine eoliche",
@@ -42,7 +42,7 @@
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
 		"german": "Zwei Windräder stehen zu nah zusammen. Ihre Effizienz ist reduziert.",
-		"french": "Deux éoliennes sont trop proches l'une de l'autre. Leur efficacité est réduite.",
+		"french": "Des éoliennes sont trop proches l'une de l'autre. Leur efficacité est réduite à cause des turbulences.",
 		"chinese": "两个风力涡轮机靠得太近，它们的效率降低了。",
 		"russian": "Две ветряные турбины расположены слишком близко друг к другу. Их эффективность снижена.",
 		"italian": "Due turbine eoliche sono troppo vicine fra loro. La loro efficienza è più bassa.",
