@@ -5,7 +5,7 @@
 		"french": "Réseau électrique %id%",
 	  	"spanish": "Red de Energía %id%",
 		"russian": "Электросеть %id%",
-		"chinese": "电力网络",
+		"chinese": "电力网络 %id%",
 		"italian": "Rete Elettrica %id%",
 	},
 	"powerRequired":  {
@@ -14,7 +14,7 @@
 		"french": "Requis : %amount% MW",
 		"spanish": "Se necesitan: %amount% MW",
 		"russian": "Требуется: %amount% МВт",
-		"chinese": "需求: %amount% MW",
+		"chinese": "需求: %amount% 兆瓦",
 		"italian": "Richiesta: %amount% MW",
 	},
 	"powerConsumed":  {
