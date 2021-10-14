@@ -1734,7 +1734,7 @@
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
 		"german": "Halte deine Kreuzungen frei und priorisiere welche Autos zuerst fahren dürfen.",
-		"french": "Empêchez vos intersections de se boucher et donnez la priorité à certaines voitures.",
+		"french": "Empêchez vos intersections de se boucher et donnez la priorité à certains véhicules.",
 		"chinese": "防止的十字路口堵塞车辆，\n并优先考虑哪些汽车可以先行。",
 		"russian": "Избегайте пробок на перекрестках и расставляйте приоритеты для машин, которые должны проезжать в первую очередь.",
 		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
@@ -1925,6 +1925,7 @@
 		"french": "Difficulté de la partie",
 		"italian": "Difficoltà del gioco",
 		"chinese": "游戏难度",
+		"russian": "Сложность игры",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -1932,6 +1933,7 @@
 		"french": "Contrôle le nombre de produits dont les citoyens ont besoin.\nPlus la difficulté est élevée, mieux vous devez gérer votre économie.",
 		"italian": "Controlla il numero di prodotti di cui i cittadini hanno bisogno. \nPiù è alta la difficoltà, più dovrai gestire al meglio la tua economia.",
 		"chinese": "决定着居民对产品的需求量。\n难度越高，你需要更好的管理经济能力。",
+		"russian": "Отвечает за количество еды, необходимое жителям.\nЧем выше сложность, тем лучше вы должны управлять своей экономикой.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -1939,6 +1941,7 @@
 		"french": "Difficulté de transport",
 		"italian": "Difficoltà dei trasporti",
 		"chinese": "运输难度",
+		"russian": "Сложность транспорта",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -1946,6 +1949,7 @@
 		"french": "Contrôle le nombre d'objets que les véhicules peuvent transporter.\nPlus la difficulté est élevée, moins il est possible de transporter d'objets à la fois.",
 		"italian": "Controlla quanti oggetti possono essere trasportati dai veicoli. \nPiù è alta la difficoltà, meno oggetti potranno essere trasportati alla volta.",
 		"chinese": "决定着车辆的货物装载量。\n难度越高，车辆一次运输的物品越少。",
+		"russian": "Отвечает за количество перевозимых предметов машинами.\nЧем выше сложность, тем меньше предметов будет перевозиться за один раз.",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -1953,6 +1957,7 @@
 		"french": "Commencer la partie",
 		"italian": "Comincia la partita",
 		"chinese": "开始游戏",
+		"russian": "Начать игру",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -1960,6 +1965,7 @@
 		"french": "Facile",
 		"italian": "Facile",
 		"chinese": "简单",
+		"russian": "Легкий",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -1967,6 +1973,7 @@
 		"french": "Normal",
 		"italian": "Media",
 		"chinese": "中等",
+		"russian": "Средний",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -1974,6 +1981,7 @@
 		"french": "Difficile",
 		"italian": "Difficile",
 		"chinese": "困难",
+		"russian": "Сложный",
 	},
 
 }

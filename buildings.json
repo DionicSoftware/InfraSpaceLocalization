@@ -596,7 +596,7 @@
   "signStanding": {
     "english": "Great Standing Sign",
     "german": "Großer stehender Schriftzug",
-    "french": "Grande symbole sur pied",
+    "french": "Grand panneau sur pied",
     "chinese": "大型竖立标志",
     "russian": "Большой стоящий знак",
     "italian": "Grande cartellone verticale",
@@ -604,7 +604,7 @@
   "signLaying": {
     "english": "Great Laying Sign",
     "german": "Großer liegender Schriftzug",
-    "french": "Grand symbole posé",
+    "french": "Grand panneau posé",
     "chinese": "大型平铺标志",
     "russian": "Большой лежащий знак",
     "italian": "Grande cartellone a terra",
