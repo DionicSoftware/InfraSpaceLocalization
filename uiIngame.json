@@ -827,13 +827,16 @@
 	"productionOverview": {
 		"english": "Production Overview",
 		"german": "Produktionsübersicht",
+		"chinese": "生产概况",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
 		"german": "Produkt",
+		"chinese": "资源",
 	},
 	"priority": {
 		"english": "Priority",
 		"german": "Priorisierung",
+		"chinese": "优先级",
 	},
 }
