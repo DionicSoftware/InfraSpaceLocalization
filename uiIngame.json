@@ -379,6 +379,10 @@
 		"italian": "Alloggi",
 		"russian": "Жилье",
 	},
+	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
+		"english": "City Statistics",
+		"german": "Diagramme",
+	},
 	"statistics_population" : {
 		"english": "Population",
 		"german": "Bevölkerung",
@@ -841,5 +845,9 @@
 		"german": "Priorisierung",
 		"french": "Priorité",
 		"chinese": "优先级",
+	},
+	"cityLevelOverview": {
+		"english": "City Level",
+		"german": "Stadtstufe",
 	},
 }
