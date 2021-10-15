@@ -384,6 +384,7 @@
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
 		"german": "Diagramme",
+		"french": "Statistiques de la ville",
 		"russian": "Городская статистика",
 		"chinese": "城市统计",
 	},
@@ -872,6 +873,7 @@
 	"cityLevelOverview": {
 		"english": "City Level",
 		"german": "Stadtstufe",
+		"french": "Niveau de la ville",
 		"russian": "Уровень города",
 		"chinese": "城市等级",
 	},
