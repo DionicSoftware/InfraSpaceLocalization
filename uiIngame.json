@@ -382,6 +382,7 @@
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
 		"german": "Diagramme",
+		"russian": "Городская статистика",
 	},
 	"statistics_population" : {
 		"english": "Population",
@@ -833,21 +834,25 @@
 		"german": "Produktionsübersicht",
 		"french": "Aperçu de la production",
 		"chinese": "生产概况",
+		"russian": "Обзор производства",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
 		"german": "Produkt",
 		"french": "Ressource",
 		"chinese": "资源",
+		"russian": "Ресурс",
 	},
 	"priority": {
 		"english": "Priority",
 		"german": "Priorisierung",
 		"french": "Priorité",
 		"chinese": "优先级",
+		"russian": "Приоритет",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
 		"german": "Stadtstufe",
+		"russian": "Уровень города",
 	},
 }
