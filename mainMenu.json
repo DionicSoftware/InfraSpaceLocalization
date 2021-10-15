@@ -1656,6 +1656,7 @@
 		"french": "Feuille de route",
 		"chinese": "路线图",
 		"russian": "Дорожная карта",
+		"spanish": "Hoja de ruta",
 		"italian": "Roadmap",
 	},
 	"noRoadmapFound": {
@@ -1664,6 +1665,7 @@
 		"french": "Aucune feuille de route trouvée.\n\nÊtes-vous connecté à Internet ?",
 		"chinese": "未找到路线图。\n\n你是否已连接网络?",
 		"russian": "Дорожная карта не найдена.\n\nВы подключены к интернету?",
+		"spanish": "Ninguna hoja de ruta encontrada. \n\nEstás conectado a internet?",
 		"italian": "Nessuna Roadmap trovata. \n\nSei connesso ad internet?",
 	},
 	"earlyAccessPromises": {
@@ -1672,6 +1674,7 @@
 		"french": "Fonctionnalités garanties pour l'Accès anticipé",
 		"chinese": "抢先体验版本实现功能",
 		"russian": "Гарантированные функции раннего доступа",
+		"spanish": "Funcionalidades garantizadas por el Accesso Anticipado",
 		"italian": "Caratteristiche Garantite per l'Accesso Anticipato",
 	},
 	"voteOnExtraFeatures": {
@@ -1680,6 +1683,7 @@
 		"french": "Voter pour des fonctionnalités supplémentaires",
 		"chinese": "对额外功能投票",
 		"russian": "Голосуйте за дополнительный функционал",
+		"spanish": "Votar para funcionalidades adicionales",
 		"italian": "Vota per le funzionalità aggiuntive",
 	},
 	"voteOnExtraFeatures_desc": {
@@ -1688,6 +1692,7 @@
 		"french": "Votez pour vos fonctionnalités préférées afin de nous faire savoir sur quoi nous devons nous concentrer.\nNous choisirons dans cette liste en fonction des souhaits de la communauté et de leur pertinence dans le jeu.",
 		"chinese": "投票选出你最喜欢的功能，让我们知道我们应该关注什么。\n我们将根据社区的期望以及它们在游戏中的适合程度从这个列表中进行选择。",
 		"russian": "Голосуйте за понравившиеся функции, чтобы сообщить нам, на чем мы должны сосредоточиться.\nФункционал, который понравится сообществу и хорошо впишется в игру, будет добавлен.",
+		"spanish": "Votar para sus funcionalidades favoritas, así sabemos sobre cual debemos concentrarnos.\nElegiremos en esta lista según los deseos de la comunidad y su pertinencia.",
 		"italian": "Vota per le tue caratteristiche preferite per farci sapere su che cosa dovremmo concentrarci.\nSceglieremo dalla lista in base ai desideri della comunità e a come si inserisce nel gioco.",
 	},
 	"vote": {
@@ -1696,6 +1701,7 @@
 		"french": "Voter",
 		"chinese": "投票",
 		"russian": "Голосовать",
+		"spanish": "Votar",
 		"italian": "Vota",
 	},
 	"discuss": {
@@ -1704,6 +1710,7 @@
 		"french": "Discuter",
 		"chinese": "讨论",
 		"russian": "Обсуждение",
+		"spanish": "Foro",
 		"italian": "Discuti",
 	},
 	"reportBug": {
@@ -1712,6 +1719,7 @@
 		"french": "Signaler un bug",
 		"chinese": "报告错误",
 		"russian": "Сообщить о ошибке",
+		"spanish": "Señalar un bug.",
 		"italian": "Riporta un bug.",
 	},
 	"translateInfraSpace": {
@@ -1720,6 +1728,7 @@
 		"french": "Traduire InfraSpace",
 		"chinese": "帮助翻译",
 		"russian": "Перевод InfraSpace",
+		"spanish": "Traducir InfraSpace",
 		"italian": "Traduci InfraSpace",
 	},
 	
@@ -1729,6 +1738,7 @@
 		"french": "Panneaux et feux de signalisation",
 		"chinese": "交通标志和交通灯",
 		"russian": "Дорожные знаки и светофоры",
+		"spanish": "Carteles y Semáforos",
 		"italian": "Semafori e Cartelli Stradali",
 	},
 	"roadmap_trafficTools_desc": {
@@ -1737,6 +1747,7 @@
 		"french": "Empêchez vos intersections de se boucher et donnez la priorité à certains véhicules.",
 		"chinese": "防止的十字路口堵塞车辆，\n并优先考虑哪些汽车可以先行。",
 		"russian": "Избегайте пробок на перекрестках и расставляйте приоритеты для машин, которые должны проезжать в первую очередь.",
+		"spanish": "Evita que sus intersecciones se atascan y da prioridades a algunos vehículos.",
 		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
 	},
 	"roadmap_trains_title": {
@@ -1745,6 +1756,7 @@
 		"french": "Trains",
 		"chinese": "火车",
 		"russian": "Поезда",
+		"spanish": "Trenes",
 		"italian": "Treni",
 	},
 	"roadmap_trains_desc": {
@@ -1753,6 +1765,7 @@
 		"french": "Les autoroutes, c'est bien. Mais il faut parfois transporter des tonnes de matériaux à travers toute la ville.",
 		"chinese": "高速公路很好，但有时你需要运输\n数千吨材料穿越大半个城市。",
 		"russian": "Автомагистрали хороши, но иногда нужно перевозить тысячи тонн материалов через полгорода.",
+		"spanish": "Las autovías son muy bien, pero a veces hay que transportar miles de toneladas de materiales a traves de la ciudad.",
 		"italian": "Le autostrade sono belle, ma a volte hai bisogno di trasportare migliaia di tonnellate di materiali attraversando mezza città.",
 	},
 	"roadmap_endgame_title": {
@@ -1761,6 +1774,7 @@
 		"french": "Grand projet de fin de partie",
 		"chinese": "终极游戏",
 		"russian": "Большой финальный проект",
+		"spanish": "Gran Proyecto de Fin de Partida",
 		"italian": "Grande Progetto di Fine Partita",
 	},
 	"roadmap_endgame_desc": {
@@ -1769,6 +1783,7 @@
 		"french": "Votre ville a atteint le niveau maximum et vous avez terminé l'arbre technologique ? Vous êtes à la recherche d'un dernier défi ?",
 		"chinese": "你的城市是否发展到最大并完成科技树? 你想进行终极挑战吗?",
 		"russian": "Достигли максимума в своем городе и закончили дерево развития? В поисках последнего вызова?",
+		"spanish": "Su ciudad ha llegado al nivel maximal y ha terminado el arbol de tecnología ? Está buscando un ultimo reto ?",
 		"italian": "Hai massimizzato la tua città e terminato l'albero delle tecnologie? Sei in cerca di un'ultima sfida?",
 	},
 	
@@ -1778,6 +1793,7 @@
 		"french": "Cabines pour accéder aux montagnes",
 		"chinese": "高地缆车",
 		"russian": "Гондолы для доступа в горы",
+		"spanish": "Telecabinas para aceder a las montañas",
 		"italian": "Una telecabina per andare in montagna",
 	},
 	"roadmap_gondolas_desc": {
@@ -1786,6 +1802,7 @@
 		"french": "De grandes nacelles peuvent transporter vos marchandises en haut des montagnes.",
 		"chinese": "大容量货运缆车可以将你的货物\n运送到岩石和山脉上。",
 		"russian": "Грузовые гондолы большой вместимости могут перевозить ваши грузы по скалам и горам.",
+		"spanish": "Las barquillas grandes pueden transportar sus mercancías arriba de las montañas.",
 		"italian": "Le cabine ad alta capacità possono trasportare i tuoi beni oltre le rocce e le montagne.",
 	},
 	"roadmap_happinessSystem_title": {
@@ -1794,6 +1811,7 @@
 		"french": "Système de bonheur",
 		"chinese": "幸福系统",
 		"russian": "Система удовлетворенности",
+		"spanish": "Sistema de felicidades",
 		"italian": "Sistema di felicità",
 	},
 	"roadmap_happinessSystem_desc": {
@@ -1802,6 +1820,7 @@
 		"french": "Système amélioré pour décider quand un habitat peut être mis à niveau. Il prend en compte les bâtiments de service à proximité, le bruit, les réglementations, etc.",
 		"chinese": "改进系统来决定何时升级居住点。\n考虑到附近的服务建筑以及噪音等等。",
 		"russian": "Улучшенная система принятия решения о том, когда улучшать среду обитания. Принимает во внимание близлежащие служебные здания, шум, правила и многое другое.",
+		"spanish": "Sistema mejorado para decidir cuando una vivienda sera modernizada. Tiene en cuenta los edificios de servicio de proximidad, el ruido, las reglementaciones, etc.",
 		"italian": "Sistema migliorato per decidere quando un habitat sarà migliorato. Tiene conto degli edifici di servizio vicini, del rumore, delle ordinanze, ed altro.",
 	},
 	"roadmap_modSupport_title": {
@@ -1810,6 +1829,7 @@
 		"french": "Support des mods",
 		"chinese": "模组支持",
 		"russian": "Поддержка модификаций",
+		"spanish": "Soporte de Mod",
 		"italian": "Supporto dei mod",
 	},
 	"roadmap_modSupport_desc": {

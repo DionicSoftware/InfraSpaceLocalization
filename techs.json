@@ -228,6 +228,7 @@
     "french": "Améliore les panneaux solaires pour qu'ils s'autonettoient afin d'augmenter significativement la production d'énergie des centrales solaires.",
     "chinese": "一旦你的太阳能电池板自行清洁，\n你的太阳能发电厂将产生更多的电力。",
     "russian": "Как только ваши солнечные панели очистятся, ваши солнечные электростанции будут вырабатывать гораздо больше энергии.",
+    "spanish": "Mejora los paneles solares para que se autolimpien, su planta de energía solar generará mucho mas energía.",
     "italian": "Una volta che i tuoi pannelli solari si puliscono da soli, le tue centrali solari produrranno molta più energia.",
 	},
   "tech_sixLaneRoads": {
@@ -291,6 +292,7 @@
     "french": "Super-autoroutes",
     "chinese": "超级高速公路",
     "russian": "Супермагистрали",
+    "spanish": "Super-Autopistas",
     "italian": "Super-autostrada",
   },
 	
@@ -411,6 +413,7 @@
     "french": "Unités de contrôle IA",
     "chinese": "AI控制单元",
     "russian": "Блоки управления ИИ",
+    "spanish": "Unidad de control IA",
     "italian": "Unità di controllo IA",
   },
   "tech_iridiumPropellant": {
@@ -419,6 +422,7 @@
     "french": "Propulseurs à iridium",
     "chinese": "铱推进剂",
     "russian": "Иридиевое топливо",
+    "spanish": "Propulsores al iridio",
     "italian": "Carburante all'iridio",
   },
   "tech_fastNeutronReactor": {
@@ -447,6 +451,7 @@
     "french": "Extraction minière adamantine",
     "chinese": "金刚砂开采",
     "russian": "Адамантиновая добыча",
+    "spanish": "Extracción minera de diamantino",
     "italian": "Miniera di adamantio",
   },
 }

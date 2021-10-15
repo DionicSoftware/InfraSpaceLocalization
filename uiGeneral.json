@@ -51,6 +51,7 @@
 		"italian": "ore",
 		"russian": "часов",
 		"chinese": "小时",
+		"spanish": "horas",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -61,6 +62,7 @@
 		"czech": "h",
 		"korean": "시간",
 		"portuguese": "h",
+		"spanish": "h",
 		"italian": "h",
 		"russian": "час.",
 		"chinese": "时",
@@ -95,6 +97,7 @@
 		"korean": "분",
 		"portuguese": "min",
 		"italian": "min",
+		"spanish": "min",
 		"russian": "мин.",
 		"chinese": "分",
 	},

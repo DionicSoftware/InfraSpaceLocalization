@@ -599,6 +599,7 @@
     "french": "Grand panneau sur pied",
     "chinese": "大型竖立标志",
     "russian": "Большой стоящий знак",
+	"spanish": "Cartel de pie",
     "italian": "Grande cartellone verticale",
   },
   "signLaying": {
@@ -607,6 +608,7 @@
     "french": "Grand panneau posé",
     "chinese": "大型平铺标志",
     "russian": "Большой лежащий знак",
+	"spanish": "Cartel posado",
     "italian": "Grande cartellone a terra",
   },
   "monumentDrill": {
@@ -615,6 +617,7 @@
     "french": "Foreuse collosale d'adamantine",
     "chinese": "大型金刚砂矿机",
     "russian": "Огромный адамантиновый бур",
+	"spanish": "Excavadora colosal de diamantino",
     "italian": "Trivella colossale per adamantio",
   }
 }
