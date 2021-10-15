@@ -141,7 +141,7 @@
 		"french": "Accepter les nouveaux arrivants",
 		"russian": "Прием новичков",
 		"spanish": "Aceptar a los Nuevos",
-		"chinese": "接受新人",
+		"chinese": "接受移民",
 		"italian": "Accogliere i Nuovi Arrivati",
 	},
 	"tutorial_growingTown":  {
@@ -150,7 +150,7 @@
 		"french": "Développer la ville",
 		"russian": "Рост города",
 		"spanish": "Crecimiento de la Ciudad",
-		"chinese": "发展城镇",
+		"chinese": "发展城市",
 		"italian": "Far Crescere la Città",
 	},
 	"tutorial_research":  {
@@ -168,7 +168,7 @@
 		"french": "Utilisez des routes pour relier les mines à l'usine de béton.",
 		"russian": "Используйте дороги для соединения шахты с бетонным заводом.",
 		"spanish": "Utiliza caminos para conectar las minas con la fábrica de concreto",
-		"chinese": "使用道路将矿井与混凝土工厂连接起来",
+		"chinese": "使用道路将矿机与混凝土工厂连接起来",
 		"italian": "Utilizzate le strade per connettere le miniere alla fabbrica di cemento",
 	},
 	"tutorial_power": {
