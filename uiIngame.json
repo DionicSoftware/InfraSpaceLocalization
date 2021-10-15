@@ -385,6 +385,7 @@
 		"english": "City Statistics",
 		"german": "Diagramme",
 		"russian": "Городская статистика",
+		"chinese": "城市统计",
 	},
 	"statistics_population" : {
 		"english": "Population",
@@ -872,5 +873,6 @@
 		"english": "City Level",
 		"german": "Stadtstufe",
 		"russian": "Уровень города",
+		"chinese": "城市等级",
 	},
 }
