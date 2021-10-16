@@ -218,6 +218,7 @@
 		"chinese": "社区",
 		"spanish": "Comunidad",
 		"italian": "Community",
+		"japanese": "コミュニティー",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -227,6 +228,7 @@
 		"chinese": "这是Alpha版本",
 		"spanish": "Esta es una Version Alpha",
 		"italian": "Questa è una versione Alpha",
+		"japanese": "これはアルファーバージョンです",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -236,6 +238,7 @@
 		"chinese": "该游戏还没有开发完成。它可能存在漏洞。\n\n我们正向玩家发布早期版本，以便我们可以在正式发布之前的一段时间内获得对游戏玩法的反馈并发现漏洞。\n\n让我们知道你喜欢它！",
 		"spanish": "Este juego aún no está terminado. Puede contener bugs.\n\nEstamos lanzando estas versiones tempranas a los jugadores para conseguir reatroalimentación del juego y encontrar bugs mucho antes del lanzamiento oficial.\n\n¡Haznos saber si te gusta",
 		"italian": "Questo gioco non è ancora finito. Può contenere dei bugs. \n\nStiamo rilasciando queste versioni preliminari ai giocatori così che possiamo avere del feedback sul gameplay e trovare bugs prima della versione definitiva.\n\nFateci sapere se vi piace!",
+		"japanese": "このゲームはこれで終わりではありません。バグが含まれている可能性があります。\n\n公式リリースの前にプレイに関するフィードバック、バグの発見のためにこのアルファーバージョンを解放しています。\n\nまた気に入った点があればお知らせください！",
 	},
 
   // SAVE MENU
@@ -319,6 +322,7 @@
 		"chinese": "哨站 Theta-3",
 		"spanish": "Puesto Avanzado Theta-3",
 		"italian": "Avamposto Theta-3",
+		"japanese": "アウトポスト Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -458,7 +462,7 @@
 		"polish": "Ogólna jakość",
 		"czech": "Kvalita grafiky",
 		"romanian": "Calitate grafică",
-		"japanese": "グラフィッククオリティー",
+		"japanese": "画質",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -601,6 +605,7 @@
 		"chinese": "独占全屏",
 		"spanish": "Pantalla Completa Exclusiva",
 		"italian": "Schermo Intero Esclusivo",
+		"japanese": "排他的フル",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -619,7 +624,7 @@
 		"polish": "Vsync",
 		"czech": "Vsync",
 		"romanian": "Vsync",
-		"japanese": "Vsync",
+		"japanese": "垂直同期",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -636,7 +641,7 @@
 		"polish": "Powolny",
 		"czech": "Pomalý",
 		"romanian": "Lent",
-		"japanese": "Slow",
+		"japanese": "スロー",
 	},
 	"on": {
 		"english": "On",
@@ -655,7 +660,7 @@
 		"polish": "Tak",
 		"czech": "Zapnuto",
 		"romanian": "Activat",
-		"japanese": "On",
+		"japanese": "オン",
 	},
 	"off": {
 		"english": "Off",
@@ -674,7 +679,7 @@
 		"polish": "Nie",
 		"czech": "Vypnuto",
 		"romanian": "Dezactivat",
-		"japanese": "Off",
+		"japanese": "オフ",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -732,7 +737,7 @@
 		"polish": "Głośność ogólna",
 		"czech": "Celková hlasitost",
 		"romanian": "Volum global",
-		"japanese": "トータルボリューム",
+		"japanese": "音量",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -751,7 +756,7 @@
 		"polish": "Efekty dźwiękowe",
 		"czech": "Zvukové efekty",
 		"romanian": "Efecte sonore",
-		"japanese": "サウンドエフェクト",
+		"japanese": "効果音",
 	},
 	"music": {
 		"english": "Music",
@@ -893,6 +898,7 @@
 		"chinese": "显示教程",
 		"russian": "Отображение руководства",
 		"italian": "Mostra Tutorial",
+		"japanese": "チュートリアルの表示",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -901,6 +907,7 @@
 		"chinese": "重置已知教程",
 		"russian": "Сбросить пройденные руководства",
 		"italian": "Resetta i tutorial conosciuti",
+		"japanese": "チュートリアルをリセット",
 	},
 
 	// OTHER
@@ -956,7 +963,7 @@
 		"italian": "Ok",
 		"czech": "OK",
 		"romanian": "Ok",
-		"japanese": "OK",
+		"japanese": "了解",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -994,7 +1001,7 @@
 		"polish": "Anuluj",
 		"czech": "Zrušit",
 		"romanian": "Renunță",
-		"japanese": "キャンセル",
+		"japanese": "取り消し",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1023,6 +1030,7 @@
 		"chinese": "万岁!",
 		"spanish": "¡Hurra!",
 		"italian": "Evviva!",
+		"japanese": "やったー!",
 	},
 
 
@@ -1204,6 +1212,7 @@
 		"chinese": "建造",
 		"spanish": "Construcción",
 		"italian": "Costruzione",
+		"japanese": "建設",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1213,6 +1222,7 @@
 		"chinese": "提升道路",
 		"spanish": "Elevar carretera",
 		"italian": "Eleva la Strada",
+		"japanese": "道路を上昇",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1222,6 +1232,7 @@
 		"chinese": "降低道路",
 		"spanish": "Bajar carretera",
 		"italian": "Abbassa la Strada",
+		"japanese": "道路を下降",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1260,7 +1271,6 @@
 		"czech": "Pauza",
 		"romanian": "Pauză",
 		"japanese": "ポーズ",
-
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1346,6 +1356,7 @@
 		"chinese": "截图模式",
 		"spanish": "Modo captura de pantalla",
 		"italian": "Modalità di Screenshot",
+		"japanese": "スクリーンショット画面",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1373,6 +1384,7 @@
 		"chinese": "打开截图/存档文件夹",
 		"russian": "Открыть скриншоты / сохранения",
 		"italian": "Apri screenshot / Salvataggi",
+		"japanese": "Screenshots/Savesフォルダー",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1448,7 +1460,7 @@
 		"polish": "ŚPM",
 		"czech": "Prostřední tlačítko myši",
 		"romanian": "Butonul din mijloc al mausului",
-		"japanese": "ミドルマウスボタン[ホイールボタン]",
+		"japanese": "中央マウスボタン[ホイールボタン]",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1658,6 +1670,7 @@
 		"russian": "Дорожная карта",
 		"spanish": "Hoja de ruta",
 		"italian": "Roadmap",
+		"japanese": "ロードマップ",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -1667,6 +1680,7 @@
 		"russian": "Дорожная карта не найдена.\n\nВы подключены к интернету?",
 		"spanish": "Ninguna hoja de ruta encontrada. \n\nEstás conectado a internet?",
 		"italian": "Nessuna Roadmap trovata. \n\nSei connesso ad internet?",
+		"japanese": "ロードマップが見つかりません。\n\nインターネットに接続されていますか?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -1676,6 +1690,7 @@
 		"russian": "Гарантированные функции раннего доступа",
 		"spanish": "Funcionalidades garantizadas por el Accesso Anticipado",
 		"italian": "Caratteristiche Garantite per l'Accesso Anticipato",
+		"japanese": "アーリーアクセスに期待する機能",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -1685,6 +1700,7 @@
 		"russian": "Голосуйте за дополнительный функционал",
 		"spanish": "Votar para funcionalidades adicionales",
 		"italian": "Vota per le funzionalità aggiuntive",
+		"japanese": "追加機能に投票",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -1694,6 +1710,7 @@
 		"russian": "Голосуйте за понравившиеся функции, чтобы сообщить нам, на чем мы должны сосредоточиться.\nФункционал, который понравится сообществу и хорошо впишется в игру, будет добавлен.",
 		"spanish": "Votar para sus funcionalidades favoritas, así sabemos sobre cual debemos concentrarnos.\nElegiremos en esta lista según los deseos de la comunidad y su pertinencia.",
 		"italian": "Vota per le tue caratteristiche preferite per farci sapere su che cosa dovremmo concentrarci.\nSceglieremo dalla lista in base ai desideri della comunità e a come si inserisce nel gioco.",
+		"japanese": "何に焦点を当てるべきか判断するために興味のある機能に投票してください。\nコミュニティの希望に基づくリストから、またこれらがゲームにとても適合しているものを選択してください。",
 	},
 	"vote": {
 		"english": "Vote",
@@ -1703,6 +1720,7 @@
 		"russian": "Голосовать",
 		"spanish": "Votar",
 		"italian": "Vota",
+		"japanese": "投票",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -1712,6 +1730,7 @@
 		"russian": "Обсуждение",
 		"spanish": "Foro",
 		"italian": "Discuti",
+		"japanese": "議論",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -1721,6 +1740,7 @@
 		"russian": "Сообщить о ошибке",
 		"spanish": "Señalar un bug.",
 		"italian": "Riporta un bug.",
+		"japanese": "バグを報告",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -1730,8 +1750,8 @@
 		"russian": "Перевод InfraSpace",
 		"spanish": "Traducir InfraSpace",
 		"italian": "Traduci InfraSpace",
-	},
-	
+		"japanese": "InfraSpaceの翻訳",
+	},	
 	"roadmap_trafficTools_title": {
 		"english": "Traffic Signs and Traffic Lights",
 		"german": "Verkehrsschilder und Ampeln",
@@ -1740,6 +1760,7 @@
 		"russian": "Дорожные знаки и светофоры",
 		"spanish": "Carteles y Semáforos",
 		"italian": "Semafori e Cartelli Stradali",
+		"japanese": "交通標識と信号機",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -1749,6 +1770,7 @@
 		"russian": "Избегайте пробок на перекрестках и расставляйте приоритеты для машин, которые должны проезжать в первую очередь.",
 		"spanish": "Evita que sus intersecciones se atascan y da prioridades a algunos vehículos.",
 		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
+		"japanese": "交差点が渋滞しないように最初に\n発進できる車に優先順位を付けます。",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -1758,6 +1780,7 @@
 		"russian": "Поезда",
 		"spanish": "Trenes",
 		"italian": "Treni",
+		"japanese": "鉄道",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -1767,6 +1790,7 @@
 		"russian": "Автомагистрали хороши, но иногда нужно перевозить тысячи тонн материалов через полгорода.",
 		"spanish": "Las autovías son muy bien, pero a veces hay que transportar miles de toneladas de materiales a traves de la ciudad.",
 		"italian": "Le autostrade sono belle, ma a volte hai bisogno di trasportare migliaia di tonnellate di materiali attraversando mezza città.",
+		"japanese": "高速道路は良いものですが、時には街の\n半分にも匹敵する何千トンの物資を輸送する\n必要があります。",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -1776,6 +1800,7 @@
 		"russian": "Большой финальный проект",
 		"spanish": "Gran Proyecto de Fin de Partida",
 		"italian": "Grande Progetto di Fine Partita",
+		"japanese": "巨大な最終計画",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -1785,8 +1810,8 @@
 		"russian": "Достигли максимума в своем городе и закончили дерево развития? В поисках последнего вызова?",
 		"spanish": "Su ciudad ha llegado al nivel maximal y ha terminado el arbol de tecnología ? Está buscando un ultimo reto ?",
 		"italian": "Hai massimizzato la tua città e terminato l'albero delle tecnologie? Sei in cerca di un'ultima sfida?",
-	},
-	
+		"japanese": "あなたは自分の街を最大限に活用して\n技術ツリーを完成させましたか？\nそれとも他の最後の課題が必要ですか？",
+	},	
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
 		"german": "Gondeln zur Hochebenenanbindung",
@@ -1795,6 +1820,7 @@
 		"russian": "Гондолы для доступа в горы",
 		"spanish": "Telecabinas para aceder a las montañas",
 		"italian": "Una telecabina per andare in montagna",
+		"japanese": "高地のアクセスのためのゴンドラ",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -1804,6 +1830,7 @@
 		"russian": "Грузовые гондолы большой вместимости могут перевозить ваши грузы по скалам и горам.",
 		"spanish": "Las barquillas grandes pueden transportar sus mercancías arriba de las montañas.",
 		"italian": "Le cabine ad alta capacità possono trasportare i tuoi beni oltre le rocce e le montagne.",
+		"japanese": "大容量の貨物ゴンドラは険しい山を\n越えて物資を運ぶことができます。",		
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -1813,6 +1840,7 @@
 		"russian": "Система удовлетворенности",
 		"spanish": "Sistema de felicidades",
 		"italian": "Sistema di felicità",
+		"japanese": "幸福システム",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -1822,6 +1850,7 @@
 		"russian": "Улучшенная система принятия решения о том, когда улучшать среду обитания. Принимает во внимание близлежащие служебные здания, шум, правила и многое другое.",
 		"spanish": "Sistema mejorado para decidir cuando una vivienda sera modernizada. Tiene en cuenta los edificios de servicio de proximidad, el ruido, las reglementaciones, etc.",
 		"italian": "Sistema migliorato per decidere quando un habitat sarà migliorato. Tiene conto degli edifici di servizio vicini, del rumore, delle ordinanze, ed altro.",
+		"japanese": "住居地のアップグレードする時の決定の\n仕組みを改善します。\n近くの建築設備、騒音、条例などを考慮に\n入れます。",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -1831,6 +1860,7 @@
 		"russian": "Поддержка модификаций",
 		"spanish": "Soporte de Mod",
 		"italian": "Supporto dei mod",
+		"japanese": "Modのサポート",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -1839,8 +1869,8 @@
 		"chinese": "支持平衡模组，建筑模组，资源模组，\nUI模组，基础设施模组和脚本模组。",
 		"russian": "Поддержка балансирующих модификаций, скриптов, строительных модов, модов на ресурсы, UI и инфраструктуру.",
 		"italian": "Supporto dei mod di bilanciamento, di costruzione, di risorsa, di UI, di infrastruttura e di script.",
-	},
-	
+		"japanese": "バランス、建設、資源、UI、公共施設、\nスクリプト等のnModのサポートをします。",
+	},	
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
 		"german": "Rohre für Flüssigkeiten und Gase",
@@ -1848,6 +1878,7 @@
 		"chinese": "液体和气体管道",
 		"russian": "Трубы для жидкостей и газов",
 		"italian": "Tubi per Liquidi e Gas",
+		"japanese": "液体および気体用パイプ",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -1856,6 +1887,7 @@
 		"chinese": "如果你可以在地下或管道中运输大量资源会怎样? 如果你需要生产水来生存怎么办?",
 		"russian": "Необходимо транспортировать большие объемы ресурсов под землей или по трубопроводам? Необходимо производить воду для выживания?",
 		"italian": "E se potessi trasportare grandi quantità di risorse sotto terra o dentro i tubi? E se avessi bisogno di produrre acqua per sopravvivere?",
+		"japanese": "地下やパイプラインで大量の資源を\n輸送できるとしたら？生き残るために\n水を生産する必要があるとしたら？",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -1864,6 +1896,7 @@
 		"chinese": "温度系统",
 		"russian": "Отопительная система",
 		"italian": "Sistema di riscaldamento",
+		"japanese": "熱システム",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -1872,6 +1905,7 @@
 		"chinese": "生命维持系统在太空中很重要，让你的城市\n保持足够的温度或凉爽或许很重要。",
 		"russian": "Системы жизнеобеспечения важны в космосе - сохранение тепла или прохлады в вашем городе может иметь решающее значение.",
 		"italian": "I sistemi di sopravvivenza sono importanti nello spazio - tenere la tua città abbastanza calda o fresca può essere critico.",
+		"japanese": "生命維持システムは宇宙では重要です。\n街を十分に暖かくまたは涼しく保つことが必要です。",		
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -1880,6 +1914,7 @@
 		"chinese": "昼夜循环",
 		"russian": "Цикл день-ночь",
 		"italian": "Ciclo giorno-notte",
+		"japanese": "昼夜サイクル",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -1888,8 +1923,8 @@
 		"chinese": "看起来很酷，你需要为夜间准备电网。 \n也可以很好地与温度系统配合使用 - 沙地行星在夜间会迅速降温。",
 		"russian": "Выглядит круто, и вам нужно будет подготавливать свою электросеть к ночи. Может хорошо работать и с тепловой системой - песчаные планеты ночью становятся очень холодными.",
 		"italian": "Sembra bello e devi preparare la tua rete energetica per la notte. Può anche funzionare bene con il sistema di riscaldamento - i pianeti sabbiosi si raffreddano in fretta di notte.",
-	},
-	
+		"japanese": "夜間の電力ネットワークを準備する必要があります。\n熱システムもうまく機能させる可能性があります。\n砂の惑星の夜は真っ暗で急速に冷え込むからです。",
+	},	
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
 		"german": "Feuer und Kriminalität",
@@ -1897,6 +1932,7 @@
 		"chinese": "火灾和犯罪",
 		"russian": "Пожары и преступность",
 		"italian": "Incendi e crimine",
+		"japanese": "火災と犯罪",		
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -1905,6 +1941,7 @@
 		"chinese": "会发生事故，你的城市需要紧急服务\n来处理它们 - 做好准备！",
 		"russian": "Аварии случаются, и вашему городу нужны службы экстренной помощи, чтобы справиться с ними - будьте готовы!",
 		"italian": "Gli incidenti accadono e la tua città ha bisogno di servizi di emergenza per gestirli - sii preparato!",
+		"japanese": "事故が発生した街はそれらに対処するために\n緊急サービスを必要とします。\nそのための準備をしてください！",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -1913,6 +1950,7 @@
 		"chinese": "飞行汽车",
 		"russian": "Летающие машины для рабочих",
 		"italian": "Macchine volanti per i lavoratori",
+		"japanese": "飛行自動車",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -1921,6 +1959,7 @@
 		"chinese": "让我们为上班的工人增加交通，但也引入\n先进的飞行汽车，以防止你的道路堵塞。",
 		"russian": "Давайте добавим трафик для рабочих, идущих на работу, а также представим апгрейд до летающей машины, чтобы ваша дорожная система не утонула в пробках.",
 		"italian": "Aggiungiamo il traffico per i lavoratori che vanno al lavoro, ma introduciamo anche l'aggiornamento alle macchine volanti per evitare che il tuo sistema stradale si blocchi.",
+		"japanese": "通勤する労働者の交通量を増加させるためにも\n道路の渋滞を防ぐためにも自動車をアップグレードした\n飛行自動車を導入しましょう。",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -1928,7 +1967,8 @@
 		"french": "Catastrophes naturelles",
 		"chinese": "自然灾害",
 		"russian": "Стихийные бедствия",
-		"italian": "Disastri Naturali",
+		"italian": "Disastri Naturali",		
+		"japanese": "自然災害",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -1937,6 +1977,7 @@
 		"chinese": "沙尘暴过后，你的道路的运行状况如何? 你会做好准备吗?",
 		"russian": "Насколько хорошо ваши дороги будут работать после песчаной бури? Будете ли вы готовы?",
 		"italian": "Quanto funzioneranno bene le tue strade dopo una tempesta di sabbia? Saresti pronto?",
+		"japanese": "砂嵐の後の道路はどの程度うまく機能しますか？\nそのための準備はできていますか？",
 	},
 
 	"gameDifficulty_title": {
@@ -1946,6 +1987,7 @@
 		"italian": "Difficoltà del gioco",
 		"chinese": "游戏难度",
 		"russian": "Сложность игры",
+		"japanese": "ゲーム難易度",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -1954,6 +1996,7 @@
 		"italian": "Controlla il numero di prodotti di cui i cittadini hanno bisogno. \nPiù è alta la difficoltà, più dovrai gestire al meglio la tua economia.",
 		"chinese": "决定着居民对产品的需求量。\n难度越高，你需要更好的管理经济能力。",
 		"russian": "Отвечает за количество еды, необходимое жителям.\nЧем выше сложность, тем лучше вы должны управлять своей экономикой.",
+		"japanese": "市民が必要とする物資の数を変更します。\n難易度が高いほど経済をより適切に管理する必要があります。",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -1962,6 +2005,7 @@
 		"italian": "Difficoltà dei trasporti",
 		"chinese": "运输难度",
 		"russian": "Сложность транспорта",
+		"japanese": "輸送難易度",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -1970,6 +2014,7 @@
 		"italian": "Controlla quanti oggetti possono essere trasportati dai veicoli. \nPiù è alta la difficoltà, meno oggetti potranno essere trasportati alla volta.",
 		"chinese": "决定着车辆的货物装载量。\n难度越高，车辆一次运输的物品越少。",
 		"russian": "Отвечает за количество перевозимых предметов машинами.\nЧем выше сложность, тем меньше предметов будет перевозиться за один раз.",
+		"japanese": "車両が運ぶことができる物資の数を変更します。\n難易度が高いほど運ぶことができる物資は少なくなります。",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -1978,6 +2023,7 @@
 		"italian": "Comincia la partita",
 		"chinese": "开始游戏",
 		"russian": "Начать игру",
+		"japanese": "ゲームスタート",		
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -1986,6 +2032,7 @@
 		"italian": "Facile",
 		"chinese": "简单",
 		"russian": "Легкий",
+		"japanese": "簡単",		
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -1994,6 +2041,7 @@
 		"italian": "Media",
 		"chinese": "中等",
 		"russian": "Средний",
+		"japanese": "普通",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -2002,6 +2050,7 @@
 		"italian": "Difficile",
 		"chinese": "困难",
 		"russian": "Сложный",
+		"japanese": "難しい",
 	},
 
 }
