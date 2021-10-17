@@ -7,6 +7,7 @@
 	  	"spanish": "Carretera de Grava",
 		"chinese": "碎石路",
 		"italian": "Strada in Ghiaia",
+		"japanese": "砂利道",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -16,6 +17,7 @@
 		"spanish": "Carretera de Concreto",
 		"chinese": "混凝土路",
 		"italian": "Strada in Cemento",
+		"japanese": "舗装道路",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -25,6 +27,7 @@
 		"spanish": "Autopista",
 		"chinese": "高速公路",
 		"italian": "Autostrada",
+		"japanese": "高速道路",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -34,5 +37,6 @@
 		"russian": "Супермагистраль",
 		"spanish": "Super-Autopista",
 		"italian": "Super-autostrada",
+		"japanese": "アウトバーン",
 	},
 }
