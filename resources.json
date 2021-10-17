@@ -7,6 +7,8 @@
 	  	"spanish": "Arena",
 		"chinese": "沙子",
 		"italian": "Sabbia",
+		"japanese": "砂",
+
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
@@ -16,6 +18,7 @@
 		"spanish": "Azufre",
 		"chinese": "硫磺",
 		"italian": "Zolfo",
+		"japanese": "硫黄",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -25,6 +28,7 @@
 		"spanish": "Concreto",
 		"chinese": "混凝土",
 		"italian": "Cemento",
+		"japanese": "コンクリート",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -34,6 +38,7 @@
 		"spanish": "Mineral de Hierro",
 		"chinese": "铁矿石",
 		"italian": "Minerale di Ferro",
+		"japanese": "鉄鉱石",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -43,6 +48,7 @@
 		"spanish": "Mineral de Aluminio",
 		"chinese": "铝矿石",
 		"italian": "Minerale di Alluminio",
+		"japanese": "アルミ鉱石",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -52,6 +58,7 @@
 		"spanish": "Mineral de Uranio",
 		"chinese": "铀矿石",
 		"italian": "Minerale di Uranio",
+		"japanese": "ウラン鉱石",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -61,6 +68,7 @@
 		"spanish": "Mineral de Iridio",
 		"chinese": "铱矿石",
 		"italian": "Minerale di Iridio",
+		"japanese": "イリジウム鉱石",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -70,6 +78,7 @@
 		"russian": "Адамантин",
 		"spanish": "Diamantino",
 		"italian": "Admantio",
+		"japanese": "アダマンタイト",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -79,6 +88,7 @@
 		"spanish": "Carbono",
 		"chinese": "煤炭",
 		"italian": "Carbonio",
+		"japanese": "炭素",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -88,6 +98,7 @@
 		"spanish": "Nanotubos",
 		"chinese": "纳米管",
 		"italian": "Nanotubi",
+		"japanese": "ナノチューブ",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -97,6 +108,7 @@
 		"spanish": "Acero",
 		"chinese": "钢铁",
 		"italian": "Acciaio",
+		"japanese": "鋼鉄",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -106,6 +118,7 @@
 		"spanish": "Mineral de Cobre",
 		"chinese": "铜矿石",
 		"italian": "Minerale di Rame",
+		"japanese": "銅鉱",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -115,6 +128,7 @@
 		"spanish": "Motor",
 		"chinese": "发动机",
 		"italian": "Motore",
+		"japanese": "モーター",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -124,6 +138,7 @@
 		"chinese": "电子元件",
 		"spanish": "Módulos Electrónicos",
 		"italian": "Moduli Elettronici",
+		"japanese": "電子部品",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -133,6 +148,7 @@
 		"spanish": "Electrodomésticos",
 		"chinese": "家用电器",
 		"italian": "Elettrodomestici",
+		"japanese": "家電",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -142,6 +158,7 @@
 		"spanish": "Microchip",
 		"chinese": "微芯片",
 		"italian": "Microchip",
+		"japanese": "マイクロチップ",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -151,6 +168,7 @@
 		"spanish": "Procesador Neuronal",
 		"chinese": "神经处理器",
 		"italian": "Processore Neurale",
+		"japanese": "ニューラルプロセッサー",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -160,6 +178,7 @@
 		"spanish": "Computador",
 		"chinese": "计算机",
 		"italian": "Computer",
+		"japanese": "コンピューター",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -169,6 +188,7 @@
 		"spanish": "Robot Doméstico",
 		"chinese": "家用机器人",
 		"italian": "Robot Domestico",
+		"japanese": "家庭用ロボ",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -178,6 +198,7 @@
 		"spanish": "Robot Industrial",
 		"chinese": "工业机器人",
 		"italian": "Robot Industriale",
+		"japanese": "工業用ロボ",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -187,6 +208,7 @@
 		"spanish": "Herramienta de Alta Tecnología",
 		"chinese": "高科技工具",
 		"italian": "Utensile High Tech",
+		"japanese": "ハイテクニカルツール",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -196,6 +218,7 @@
 		"russian": "Голографический дисплей",
 		"spanish": "Visualización Holográfica ",
 		"italian": "Display holografico",
+		"japanese": "ホロディスプレイ",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -205,6 +228,7 @@
 		"spanish": "VR de Entretenimiento Educativo",
 		"chinese": "VR娱乐设备",
 		"italian": "Intrattenimento Realtà Virtuale",
+		"japanese": "教育用VR",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -214,6 +238,7 @@
 		"spanish": "Aleación de Iridio",
 		"chinese": "铱合金",
 		"italian": "Lega di Iridio",
+		"japanese": "イリジウム合金",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -223,6 +248,7 @@
 		"russian": "Иридиевое топливо",
 		"spanish": "Propulsor a Iridio",
 		"italian": "Carburante all'iridio",
+		"japanese": "イリジウム推進剤",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -232,6 +258,7 @@
 		"russian": "Блок управления ИИ",
 		"spanish": "Unidad de control IA",
 		"italian": "Unità di controllo IA",
+		"japanese": "AI制御ユニット",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -241,6 +268,7 @@
 		"spanish": "Núcleo de Radiación",
 		"chinese": "辐射核心",
 		"italian": "Nucleo di Radiazione",
+		"japanese": "電磁波コア",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -250,6 +278,7 @@
 		"spanish": "Paquete Científico Azul",
 		"chinese": "蓝色科技包",
 		"italian": "Pacchetto Scientifico Blu",
+		"japanese": "ブルーサイエンスパック",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -259,6 +288,7 @@
 		"spanish": "Paquete Científico Verde",
 		"chinese": "绿色科技包",
 		"italian": "Pacchetto Scientifico Verde",
+		"japanese": "グリーンサイエンスパック",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -268,6 +298,7 @@
 		"spanish": "Paquete Científico Amarillo",
 		"chinese": "黄色科技包",
 		"italian": "Pacchetto Scientifico Giallo",
+		"japanese": "イエローサイエンスパック",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -277,6 +308,7 @@
 		"spanish": "Paquete Científico Rojo",
 		"chinese": "红色科技包",
 		"italian": "Pacchetto Scientifico Rosso",
+		"japanese": "レッドサイエンスパック",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -286,6 +318,7 @@
 		"spanish": "Oxígeno",
 		"chinese": "氧气",
 		"italian": "Ossigeno",
+		"japanese": "酸素",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -295,6 +328,7 @@
 		"spanish": "Fertilizante",
 		"chinese": "化肥",
 		"italian": "Fertilizzante",
+		"japanese": "肥料",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -304,6 +338,7 @@
 		"spanish": "Vegetales",
 		"chinese": "蔬菜",
 		"italian": "Verdure",
+		"japanese": "野菜",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -313,6 +348,7 @@
 		"spanish": "Carne",
 		"chinese": "肉类",
 		"italian": "Carne",
+		"japanese": "肉",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -322,6 +358,7 @@
 		"spanish": "Buena Comida",
 		"chinese": "美味食品",
 		"italian": "Pasti Buoni",
+		"japanese": "食料品",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -331,6 +368,7 @@
 		"spanish": "Comida de Supervivencia",
 		"chinese": "生存食品",
 		"italian": "Cibo di Sopravvivenza",
+		"japanese": "非常食",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -340,6 +378,7 @@
 		"spanish": "Parque",
 		"chinese": "公园",
 		"italian": "Parco",
+		"japanese": "公園",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -349,6 +388,7 @@
 		"spanish": "Cultura",
 		"chinese": "文化",
 		"italian": "Cultura",
+		"japanese": "文化",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -358,6 +398,7 @@
 		"spanish": "Escuela",
 		"chinese": "学校",
 		"italian": "Scuola",
+		"japanese": "学校",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -367,6 +408,7 @@
 		"spanish": "Auto",
 		"chinese": "汽车",
 		"italian": "Automobile",
+		"japanese": "車",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -376,6 +418,7 @@
 		"spanish": "Ciudadano",
 		"chinese": "居民",
 		"italian": "Cittadino in Arrivo",
+		"japanese": "住民",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -385,6 +428,7 @@
 		"spanish": "Ciudadano",
 		"chinese": "居民",
 		"italian": "Cittadino in Partenza",
+		"japanese": "住民",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -394,5 +438,6 @@
 		"russian": "Энергия",
 		"spanish": "Energia",
 		"italian": "Energia",
+		"japanese": "電力",
 	}
 }
