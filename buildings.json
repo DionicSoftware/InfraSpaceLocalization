@@ -524,7 +524,6 @@
     "italian": "Habitat Decente",
 	  "japanese": "一般的な居住地",
   },
-  },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
 		"german": "Komfortables Habitat",
