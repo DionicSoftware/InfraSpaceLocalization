@@ -595,6 +595,7 @@
 		"chinese": "距离邻道太近",
 		"russian": "Слишком близко к соседней дороге",
 		"italian": "Strade troppo vicine",
+		"spanish": "Carretera demasiado cerca",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -603,6 +604,7 @@
 		"chinese": "路段太短",
 		"russian": "Слишком короткий отрезок дороги",
 		"italian": "Segmento di strada troppo corto",
+		"spanish": "Segmento de carretera demasiado corto",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -611,6 +613,7 @@
 		"chinese": "道路太陡",
 		"russian": "Дорога слишком крутая",
 		"italian": "Strada troppo ripida",
+		"spanish": "Carretera demasiado escarpado",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -619,6 +622,7 @@
 		"chinese": "道路离地面太高",
 		"russian": "Дорога слишком далеко от земли",
 		"italian": "strada troppo lontana dalla superficie",
+		"spanish": "Carretera demasiado lejo de la superficie",
 	},
 
 
@@ -631,6 +635,7 @@
 		"chinese": "可视化",
 		"russian": "Визуализации",
 		"italian": "Visualizzazioni",
+		"spanish": "Visualización",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -639,6 +644,7 @@
 		"chinese": "建筑效率",
 		"russian": "Эффективность строительства",
 		"italian": "Efficienza dell'edificio",
+		"spanish": "Eficiencia de los edificios",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -647,6 +653,7 @@
 		"chinese": "建筑入住率(工人和居民)",
 		"russian": "Заселенность здания (рабочие и жители)",
 		"italian": "Occupazioni dell'edificio (Lavoratori & Abitanti)",
+		"spanish": "Ocupación de los edificios (Obreros & Habitantes)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -655,6 +662,7 @@
 		"chinese": "电力",
 		"russian": "Энергия",
 		"italian": "Energia",
+		"spanish": "Energia",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -663,6 +671,7 @@
 		"chinese": "风力发电机",
 		"russian": "Ветряные турбины",
 		"italian": "Turbine eoliche",
+		"spanish": "Aerogenerador",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -671,6 +680,7 @@
 		"chinese": "土壤浓缩设施",
 		"russian": "Системы обогащения почвы",
 		"italian": "Strutture di arricchimento del terreno",
+		"spanish": "Estructura de mejoramiento del terreno",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -703,6 +713,7 @@
 		"italian": "Automobili",
 		"chinese": "汽车",
 		"russian": "Машины",
+		"spanish": "Vehículos",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -711,6 +722,7 @@
 		"italian": "Strade",
 		"chinese": "道路",
 		"russian": "Дороги",
+		"spanish": "Carreteras",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
