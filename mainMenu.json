@@ -1691,7 +1691,7 @@
 		"russian": "Гарантированные функции раннего доступа",
 		"spanish": "Funcionalidades garantizadas por el Accesso Anticipado",
 		"italian": "Caratteristiche Garantite per l'Accesso Anticipato",
-		"japanese": "アーリーアクセスに期待する機能",
+		"japanese": "アーリーアクセスに実装される機能",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
