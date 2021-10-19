@@ -459,7 +459,7 @@
 		"italian": "Alloggi",
 		"russian": "Жилье",
 		"japanese": "移住可能な人口数",
-		"polish": "Dostępne łóżka",
+		"polish": "Dostępne miejsce w domach",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -502,6 +502,7 @@
 		"italian": "Alloggi",
 		"russian": "Жилье",
 		"japanese": "移住可能な人口数",
+		"polish": "Dostępne miejsce w domach",
 	},
 	"statistics_immigrationRate" : {
 		"english": "Immigration Rate",
@@ -512,6 +513,7 @@
 		"russian": "Скорость иммиграции",
 		"spanish": "Indice de inmigración",
 		"japanese": "移住希望率",
+		"polish": "Ilość imigrantów",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -522,6 +524,7 @@
 		"italian": "Efficienza",
 		"russian": "Эффективность",
 		"japanese": "稼働率",
+		"polish": "Efektywność",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -532,6 +535,7 @@
 		"italian": "Non ci sono abbastanza lavoratori:",
 		"russian": "Недостаточно рабочих",
 		"japanese": "労働者不足:",
+		"polish": "Zbyt mało pracowników",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -542,6 +546,7 @@
 		"spanish": "Estimulado por los edificios vecinos",
 		"russian": "Усиливается соседними зданиями",
 		"japanese": "近隣建築による稼働率アップ",
+		"polish": "Efektywność zwiększona dzieki sąsiednim budynkom",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -552,6 +557,7 @@
 		"italian": "Manca energia:",
 		"russian": "Недостаточно энергии:",
 		"japanese": "電力不足:",
+		"polish": "Zbyt mało energii",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
