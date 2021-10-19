@@ -8,6 +8,7 @@
 		"spanish": "Puesto Avanzado",
                 "italian": "Avamposto",
 		"japanese": "前哨基地",
+		"polish": "Kolonia",
 	},
 	"cityLevel2":  {
 		"english": "Settlement",
@@ -18,6 +19,7 @@
 		"spanish": "Asentamiento",
                 "italian": "Insediamento",
 		"japanese": "入植地",
+		"polish": "Osada",
 	},
 	"cityLevel3":  {
 		"english": "Small Town",
@@ -28,6 +30,7 @@
 		"spanish": "Pueblo Pequeño",
                 "italian": "Cittadina Piccola",
 		"japanese": "村",
+		"polish": "Miasteczko",
 	},
 	"cityLevel4":  {
 		"english": "Large Town",
@@ -38,6 +41,7 @@
 		"spanish": "Gran Pueblo",
                 "italian": "Cittadina Grande",
 		"japanese": "町",
+		"polish": "Miasto",
 	},
 	"cityLevel5":  {
 		"english": "City",
@@ -48,6 +52,7 @@
 		"spanish": "Ciudad",
                 "italian": "Città",
 		"japanese": "都市",
+		"polish": "Metropolia",
 	},
 	"cityLevel6":  {
 		"english": "Planetary Capital",
@@ -58,5 +63,6 @@
 		"spanish": "Capital Planetaria",
                 "italian": "Capitale Planetaria",
 		"japanese": "首都",
+		"polish": "Stolica planetarna",
 	},
 }
