@@ -8,6 +8,7 @@
 		"chinese": "电力网络 %id%",
 		"italian": "Rete Elettrica %id%",
 		"japanese": "電力ネットワーク網:No.%id%",
+	  "polish": "Sieć energetyczna %id%",
 	},
 	"powerRequired":  {
 		"english": "Required: %amount% MW",
@@ -18,6 +19,7 @@
 		"chinese": "需求: %amount% 兆瓦",
 		"italian": "Richiesta: %amount% MW",
 		"japanese": "必要電力:%amount%MW",
+		"polish": "Wymagane: %amount% MW",
 	},
 	"powerConsumed":  {
 		"english": "Power consumed:",
@@ -28,6 +30,7 @@
 		"chinese": "耗电量:",
 		"italian": "Elettricità consumata",
 		"japanese": "消費電力:",
+		"polish": "Zużywana energia",
 	},
 	"powerProduced":  {
 		"english": "Power produced:",
@@ -38,6 +41,7 @@
 		"chinese": "发电量:",
 		"italian": "Elettricità Prodotta:",
 		"japanese": "発電力:",
+		"polish": "Produkowana energia",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -48,6 +52,7 @@
 		"chinese": "输入库存为空",
 		"italian": "Magazzino in entrata vuoto",
 		"japanese": "在庫なし",
+		"polish": "Brak potrzebnych towarów",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -58,6 +63,7 @@
 		"chinese": "无法进入道路",
 		"italian": "Nessun accesso alla strada",
 		"japanese": "道路に未接続",
+		"polish": "Brak dostępu do drogi",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -68,6 +74,7 @@
 		"chinese": "输出库存为空",
 		"italian": "Magazzino in uscita pieno",
 		"japanese": "在庫満タン",
+		"polish": "Magazyn towarów pełny",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -78,6 +85,7 @@
 		"chinese": "没有工人在建造",
 		"italian": "Nessun lavoratore nell'edificio",
 		"japanese": "労働者なし",
+		"polish": "Brak pracowników",
 	},
 	"noPower": {
 		"english": "No power",
@@ -88,6 +96,7 @@
 		"chinese": "无电力",
 		"italian": "Manca elettricità",
 		"japanese": "電力なし",
+		"polish": "Brak energii",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -98,6 +107,7 @@
 		"chinese": "%amount%% 效率",
 		"italian": "Efficienza al %amount%%",
 		"japanese": "%amount%%の稼働率",
+		"polish": "%amount%% efektywności",
 	},
 
 
@@ -110,6 +120,7 @@
 		"chinese": "一旦你拥有至少%amount%名%nextLevel%级的居民后，城镇就会升级到 \"%cityLevelName%\"。",
 		"italian": "La tua città sarà promossa a \"%cityLevelName%\" non appena avrai almeno %amount% cittadini di Livello %nextLevel%.",
 		"japanese": "%nextLevel%レベルの住民%amount%人:都市レベル\"%cityLevelName%\"へグレードアップ",
+		"polish": "Twoje miasto osiagnie status \"%cityLevelName%\", gdy co najmniej %amount% mieszkańców osiągnie poziom %nextLevel%.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -120,6 +131,7 @@
 		"chinese": "你已达到最高城市级别。恭喜！",
 		"italian": "Hai raggiunto il livello più alto della città. Congratulazioni!",
 		"japanese": "最高の都市レベルに到達しました。おめでとうございます！",
+		"polish": "Osiągnałeś najwyżczy poziom miasta. Gratulacje!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -130,6 +142,7 @@
 		"chinese": "如果你城镇少于%amount%名%level%级的居民，城镇就会降级为 \"%cityLevelName%\"。",
 		"italian": "La tua città sarà retrocessa a \"%cityLevelName%\" se avrai meno di %amount% cittadini di Livello %level%.",
 		"japanese": "%level%レベルの住民%amount%人以下:都市レベル\"%cityLevelName%\"へグレードダウン",
+		"polish": "Twoje miasto zostanie zdegradowanie do poziomu \"%cityLevelName%\" jesli będziesz miał mniej niż %amount% mieszkańców poziomu %level%.",
 	},
 	"researchingSomething":  {
 		"english": "Researching %techName%...    %progress%",
