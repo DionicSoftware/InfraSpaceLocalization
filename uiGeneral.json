@@ -88,7 +88,6 @@
 		"bulgarian": "минути",
 		"czech": "minut",
 		"japanese": "分",
-		"polish": "minuty",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
