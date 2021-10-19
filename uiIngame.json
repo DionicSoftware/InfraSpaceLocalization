@@ -153,6 +153,7 @@
 		"chinese": "研究%techName%中...    %progress%",
 		"italian": "Ricerca di %techName%...    %progress%",
 		"japanese": "%techName%を研究中：進捗%progress%",
+		"polish":"Badanie: %techName%...    %progress%",
 	},
 	"selectTech":  {
 		"english": "Select technology to research",
@@ -163,6 +164,7 @@
 		"chinese": "选择技术研究",
 		"italian": "Seleziona la tecnologia da ricercare",
 		"japanese": "テクノロジー一覧",
+		"polish":"Wybierz technologie do zbadania",
 	},
 	"researchUnlockedNothing":  {
 		"english": "Nothing",
@@ -173,6 +175,7 @@
 		"chinese": "无",
 		"italian": "Niente",
 		"japanese": "なし",
+		"polish":"Nic",
 	},
 	"researchUnlockedAndCanBuild":  {
 		"english": "We have unlocked %techName% and can now build:",
@@ -183,6 +186,7 @@
 		"chinese": "我们已解锁了%techName%，可以建造:",
 		"italian": "Abbiamo sbloccato %techName% ed adesso puoi costruire:",
 		"japanese": "%techName%の研究が終了し下記の建設が可能:",
+		"polish":"Odblokowaliśmy nową technologię: %techName%. Możemy teraz zbudować:",
 	},
 	"researchUnlocked":  {
 		"english": "We have unlocked %techName%.",
@@ -193,6 +197,7 @@
 		"chinese": "我们已解锁了%techName%。",
 		"italian": "Abbiamo sbloccato %techName%.",
 		"japanese": "%techName%の研究が終了",
+		"polish":"Odblokowaliśmy nową technologię: %techName%.",
 	},
 	"techUnlocks":  {
 		"english": "This technology unlocks:",
@@ -203,6 +208,7 @@
 		"chinese": "该项技术解锁了:",
 		"italian": "Questa tecnologia sblocca:",
 		"japanese": "テクノロジーを取得:",
+		"polish":"Ta technologia odblokowuje:",
 	},
 	"techUnlocksNothing":  {
 		"english": "This technology unlocks nothing.",
@@ -213,6 +219,7 @@
 		"chinese": "该项技术没有解锁任何东西。",
 		"italian": "Questa tecnologia non sblocca niente.",
 		"japanese": "このテクノロジーは未取得",
+		"polish":"Ta technologia nic nie odblokowuje.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -223,6 +230,7 @@
 		"chinese": "研究完成！",
 		"italian": "Ricerca completata!",
 		"japanese": "研究が完了！",
+		"polish":"Badanie ukończone",
 	},
 	"production": {
 		"english": "Production",
@@ -233,6 +241,7 @@
 		"chinese": "生产",
 		"italian": "Produzione",
 		"japanese": "生産",
+		"polish":"Produkcja",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -243,6 +252,7 @@
 		"italian": "Consumo",
 		"spanish": "Consumo",
 		"japanese": "消費",
+		"polish":"Zapotrzebowanie",
 	},
 	"workers": {
 		"english": "Workers",
@@ -253,6 +263,7 @@
 		"italian": "Lavoratori",
 		"spanish": "Obreros",
 		"japanese": "労働者",
+		"polish":"Pracownicy",
 	},
 	"storage": {
 		"english": "Storage",
@@ -263,6 +274,7 @@
 		"chinese": "存储",
 		"italian": "Magazzino",
 		"japanese": "在庫",
+		"polish":"Przestrzeń magazynowa",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -273,6 +285,7 @@
 		"chinese": "升级",
 		"italian": "Aggiornamenti",
 		"japanese": "アップグレード",
+		"polish":"Ulepszenia",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -283,6 +296,7 @@
 		"chinese": "优先",
 		"italian": "Priorità",
 		"japanese": "優先",
+		"polish":"Zwiększ priorytet",
 	},
 	"price": {
 		"english": "Price",
