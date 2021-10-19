@@ -2019,6 +2019,7 @@
 		"chinese": "运输难度",
 		"russian": "Сложность транспорта",
 		"japanese": "輸送難易度",
+		"polish": "Poziom trudności transportu",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -2028,6 +2029,7 @@
 		"chinese": "决定着车辆的货物装载量。\n难度越高，车辆一次运输的物品越少。",
 		"russian": "Отвечает за количество перевозимых предметов машинами.\nЧем выше сложность, тем меньше предметов будет перевозиться за один раз.",
 		"japanese": "車両が運ぶことができる物資の数を変更します。\n難易度が高いほど運ぶことができる物資は少なくなります。",
+		"polish": "Kontroluje ile produktów mogą przewozić pojazdy.\nIm wyższy poziom trudności tym mniej towarów mogą przewieźć na raz.",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -2037,6 +2039,7 @@
 		"chinese": "开始游戏",
 		"russian": "Начать игру",
 		"japanese": "ゲームスタート",
+		"polish": "Rozpocznij grę",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -2046,6 +2049,7 @@
 		"chinese": "简单",
 		"russian": "Легкий",
 		"japanese": "簡単",
+		"polish": "Łatwy",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -2055,6 +2059,7 @@
 		"chinese": "中等",
 		"russian": "Средний",
 		"japanese": "普通",
+		"polish": "Średni",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
