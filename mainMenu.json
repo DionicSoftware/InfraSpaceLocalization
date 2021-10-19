@@ -1945,6 +1945,7 @@
 		"spanish": "Incendios y crimen",
 		"italian": "Incendi e crimine",
 		"japanese": "火災と犯罪",
+		"polish": "Pożary i przestępstwa",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -1955,6 +1956,7 @@
 		"spanish": "Los accidentes pasan y tu ciudad necesita servicios de emergencia para resolverlos - ¡prepárate!",
 		"italian": "Gli incidenti accadono e la tua città ha bisogno di servizi di emergenza per gestirli - sii preparato!",
 		"japanese": "事故が発生した都市はそれらに対処するために\n緊急サービスを必要とします。\nそのための準備をしてください！",
+		"polish": "Wypadki się zdażają, a twoje miasto potrzebuje służb ratunkowych by sobie z nimi poradzić - bądź gotowy!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -1965,6 +1967,7 @@
 		"spanish": "Coches voladores para trabajadores",
 		"italian": "Macchine volanti per i lavoratori",
 		"japanese": "飛行自動車",
+		"polish": "Latajace samochody dla pracowników",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -1974,6 +1977,7 @@
 		"russian": "Давайте добавим трафик для рабочих, идущих на работу, а также представим апгрейд до летающей машины, чтобы ваша дорожная система не утонула в пробках.",
 		"italian": "Aggiungiamo il traffico per i lavoratori che vanno al lavoro, ma introduciamo anche l'aggiornamento alle macchine volanti per evitare che il tuo sistema stradale si blocchi.",
 		"japanese": "通勤する労働者の交通量を増加させるためにも\n道路の渋滞を防ぐためにも自動車をアップグレードした\n飛行自動車を導入しましょう。",
+		"polish": "Dodajmy do ruchu latające samochody dla pracowników podrużujacych do pracy oraz możliwość przerobienia pojazdu na latający, by ograniczyć korki.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -1983,6 +1987,7 @@
 		"russian": "Стихийные бедствия",
 		"italian": "Disastri Naturali",
 		"japanese": "自然災害",
+		"polish": "Katastrofy naturalne",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -1992,6 +1997,7 @@
 		"russian": "Насколько хорошо ваши дороги будут работать после песчаной бури? Будете ли вы готовы?",
 		"italian": "Quanto funzioneranno bene le tue strade dopo una tempesta di sabbia? Saresti pronto?",
 		"japanese": "砂嵐の後の道路はどの程度うまく機能しますか？\nそのための準備はできていますか？",
+		"polish": "Jak dobrze będą działac twoje drogi po burzy piaskowej? Bedziesz przygotowany?",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -2001,6 +2007,7 @@
 		"chinese": "游戏难度",
 		"russian": "Сложность игры",
 		"japanese": "ゲーム難易度",
+		"polish": "Poziom trudności gry",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -2010,6 +2017,7 @@
 		"chinese": "决定着居民对产品的需求量。\n难度越高，你需要更好的管理经济能力。",
 		"russian": "Отвечает за количество еды, необходимое жителям.\nЧем выше сложность, тем лучше вы должны управлять своей экономикой.",
 		"japanese": "市民が必要とする物資の数を変更します。\n難易度が高いほど経済をより適切に管理する必要があります。",
+		"polish": "Kontroluje jak dużo produktów potrzebują mieszkańcy.\nIm wyższy poziom trudności, tym lepiej musisz zarządzać swoim miastem.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
