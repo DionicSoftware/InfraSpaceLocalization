@@ -8,6 +8,7 @@
 		"chinese": "沙子",
 		"italian": "Sabbia",
 		"japanese": "砂",
+	  	"polish": "Piasek",
 
 	},
 	"resource_sulfur": {
@@ -19,6 +20,7 @@
 		"chinese": "硫磺",
 		"italian": "Zolfo",
 		"japanese": "硫黄",
+		"polish": "Siarka",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -29,6 +31,7 @@
 		"chinese": "混凝土",
 		"italian": "Cemento",
 		"japanese": "コンクリート",
+		"polish": "Beton",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -39,6 +42,7 @@
 		"chinese": "铁矿石",
 		"italian": "Minerale di Ferro",
 		"japanese": "鉄鉱石",
+		"polish": "Złoże żelaza",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -49,6 +53,7 @@
 		"chinese": "铝矿石",
 		"italian": "Minerale di Alluminio",
 		"japanese": "アルミ鉱石",
+		"polish": "Złoże aluminium",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -59,6 +64,7 @@
 		"chinese": "铀矿石",
 		"italian": "Minerale di Uranio",
 		"japanese": "ウラン鉱石",
+		"polish": "Złoże uranu",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -69,6 +75,7 @@
 		"chinese": "铱矿石",
 		"italian": "Minerale di Iridio",
 		"japanese": "イリジウム鉱石",
+		"polish": "Złoże irydu",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -79,6 +86,7 @@
 		"spanish": "Diamantino",
 		"italian": "Admantio",
 		"japanese": "アダマンタイト",
+		"polish": "Adamantyna",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -89,6 +97,7 @@
 		"chinese": "煤炭",
 		"italian": "Carbonio",
 		"japanese": "炭素",
+		"polish": "Węgiel",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -99,6 +108,7 @@
 		"chinese": "纳米管",
 		"italian": "Nanotubi",
 		"japanese": "ナノチューブ",
+		"polish": "Nanorurki węglowe",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -109,6 +119,7 @@
 		"chinese": "钢铁",
 		"italian": "Acciaio",
 		"japanese": "鋼鉄",
+		"polish": "Stal",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -118,7 +129,8 @@
 		"spanish": "Mineral de Cobre",
 		"chinese": "铜矿石",
 		"italian": "Minerale di Rame",
-		"japanese": "銅鉱",
+		"japanese": "銅鉱石",
+		"polish": "Złoże miedzi",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -129,6 +141,7 @@
 		"chinese": "发动机",
 		"italian": "Motore",
 		"japanese": "モーター",
+		"polish": "Silniki",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -139,6 +152,7 @@
 		"spanish": "Módulos Electrónicos",
 		"italian": "Moduli Elettronici",
 		"japanese": "電子部品",
+		"polish": "Elektronika",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -149,6 +163,7 @@
 		"chinese": "家用电器",
 		"italian": "Elettrodomestici",
 		"japanese": "家電",
+		"polish": "AGD",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -159,6 +174,7 @@
 		"chinese": "微芯片",
 		"italian": "Microchip",
 		"japanese": "マイクロチップ",
+		"polish": "Mikroczipy",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -169,6 +185,7 @@
 		"chinese": "神经处理器",
 		"italian": "Processore Neurale",
 		"japanese": "ニューラルプロセッサー",
+		"polish": "Procesory neuronowe",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -179,6 +196,7 @@
 		"chinese": "计算机",
 		"italian": "Computer",
 		"japanese": "コンピューター",
+		"polish": "Komputery",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -189,6 +207,7 @@
 		"chinese": "家用机器人",
 		"italian": "Robot Domestico",
 		"japanese": "家庭用ロボ",
+		"polish": "Roboty domowe",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -199,6 +218,7 @@
 		"chinese": "工业机器人",
 		"italian": "Robot Industriale",
 		"japanese": "工業用ロボ",
+		"polish": "Roboty przemysłowe",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -209,6 +229,7 @@
 		"chinese": "高科技工具",
 		"italian": "Utensile High Tech",
 		"japanese": "ハイテクニカルツール",
+		"polish": "Zaawansowane narzędzia",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -219,6 +240,7 @@
 		"spanish": "Visualización Holográfica ",
 		"italian": "Display holografico",
 		"japanese": "ホロディスプレイ",
+		"polish": "Wyświetlacze holograficzne",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -229,6 +251,7 @@
 		"chinese": "VR娱乐设备",
 		"italian": "Intrattenimento Realtà Virtuale",
 		"japanese": "教育用VR",
+		"polish": "Sprzęty edukacyjno-rozrywkowe VR",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -239,6 +262,7 @@
 		"chinese": "铱合金",
 		"italian": "Lega di Iridio",
 		"japanese": "イリジウム合金",
+		"polish": "Stop aluminium",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -249,6 +273,7 @@
 		"spanish": "Propulsor a Iridio",
 		"italian": "Carburante all'iridio",
 		"japanese": "イリジウム推進剤",
+		"polish": "Paliwo irydowe",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -259,6 +284,7 @@
 		"spanish": "Unidad de control IA",
 		"italian": "Unità di controllo IA",
 		"japanese": "AI制御ユニット",
+		"polish": "Panele kontrolne sztucznej inteligencji",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -269,6 +295,7 @@
 		"chinese": "辐射核心",
 		"italian": "Nucleo di Radiazione",
 		"japanese": "電磁波コア",
+		"polish": "Wkłady jadrowe",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -279,6 +306,7 @@
 		"chinese": "蓝色科技包",
 		"italian": "Pacchetto Scientifico Blu",
 		"japanese": "ブルーサイエンスパック",
+		"polish": "Niebieski pakiet naukowy",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -289,6 +317,7 @@
 		"chinese": "绿色科技包",
 		"italian": "Pacchetto Scientifico Verde",
 		"japanese": "グリーンサイエンスパック",
+		"polish": "Zielony pakiet naukowy",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -299,6 +328,7 @@
 		"chinese": "黄色科技包",
 		"italian": "Pacchetto Scientifico Giallo",
 		"japanese": "イエローサイエンスパック",
+		"polish": "Żółty pakiet naukowy",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -309,6 +339,7 @@
 		"chinese": "红色科技包",
 		"italian": "Pacchetto Scientifico Rosso",
 		"japanese": "レッドサイエンスパック",
+		"polish": "Czerwony pakiet naukowy",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -319,6 +350,7 @@
 		"chinese": "氧气",
 		"italian": "Ossigeno",
 		"japanese": "酸素",
+		"polish": "Tlen",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -329,6 +361,7 @@
 		"chinese": "化肥",
 		"italian": "Fertilizzante",
 		"japanese": "肥料",
+		"polish": "Nawóz",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -339,6 +372,7 @@
 		"chinese": "蔬菜",
 		"italian": "Verdure",
 		"japanese": "野菜",
+		"polish": "Warzywa",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -349,6 +383,7 @@
 		"chinese": "肉类",
 		"italian": "Carne",
 		"japanese": "肉",
+		"polish": "Mięso",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -359,6 +394,7 @@
 		"chinese": "美味食品",
 		"italian": "Pasti Buoni",
 		"japanese": "食料品",
+		"polish": "Dobre posiłki",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -369,6 +405,7 @@
 		"chinese": "生存食品",
 		"italian": "Cibo di Sopravvivenza",
 		"japanese": "非常食",
+		"polish": "Surwiwalowe posiłki",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -379,6 +416,7 @@
 		"chinese": "公园",
 		"italian": "Parco",
 		"japanese": "公園",
+		"polish": "Park",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -389,6 +427,7 @@
 		"chinese": "文化",
 		"italian": "Cultura",
 		"japanese": "文化",
+		"polish": "Kultura",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -399,6 +438,7 @@
 		"chinese": "学校",
 		"italian": "Scuola",
 		"japanese": "学校",
+		"polish": "Szkoła",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -409,6 +449,7 @@
 		"chinese": "汽车",
 		"italian": "Automobile",
 		"japanese": "車",
+		"polish": "Samochody",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -419,6 +460,7 @@
 		"chinese": "居民",
 		"italian": "Cittadino in Arrivo",
 		"japanese": "住民",
+		"polish": "Mieszkańcy",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -429,6 +471,7 @@
 		"chinese": "居民",
 		"italian": "Cittadino in Partenza",
 		"japanese": "住民",
+		"polish": "Mieszkańcy",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -439,5 +482,6 @@
 		"spanish": "Energia",
 		"italian": "Energia",
 		"japanese": "電力",
+		"polish": "Energia",
 	}
 }

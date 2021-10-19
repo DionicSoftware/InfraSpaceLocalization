@@ -7,6 +7,8 @@
 		"russian": "Электросеть %id%",
 		"chinese": "电力网络 %id%",
 		"italian": "Rete Elettrica %id%",
+		"japanese": "電力ネットワーク網:No.%id%",
+	  "polish": "Sieć energetyczna %id%",
 	},
 	"powerRequired":  {
 		"english": "Required: %amount% MW",
@@ -16,6 +18,8 @@
 		"russian": "Требуется: %amount% МВт",
 		"chinese": "需求: %amount% 兆瓦",
 		"italian": "Richiesta: %amount% MW",
+		"japanese": "必要電力:%amount%MW",
+		"polish": "Wymagane: %amount% MW",
 	},
 	"powerConsumed":  {
 		"english": "Power consumed:",
@@ -25,6 +29,8 @@
 		"russian": "Потребляемая энергия:",
 		"chinese": "耗电量:",
 		"italian": "Elettricità consumata",
+		"japanese": "消費電力:",
+		"polish": "Zużywana energia",
 	},
 	"powerProduced":  {
 		"english": "Power produced:",
@@ -34,6 +40,8 @@
 		"russian": "Производимая энергия:",
 		"chinese": "发电量:",
 		"italian": "Elettricità Prodotta:",
+		"japanese": "発電力:",
+		"polish": "Produkowana energia",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -43,6 +51,8 @@
 		"russian": "Входящее хранилище пусто",
 		"chinese": "输入库存为空",
 		"italian": "Magazzino in entrata vuoto",
+		"japanese": "在庫なし",
+		"polish": "Brak potrzebnych towarów",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -52,6 +62,8 @@
 		"russian": "Нет доступа к дороге",
 		"chinese": "无法进入道路",
 		"italian": "Nessun accesso alla strada",
+		"japanese": "道路に未接続",
+		"polish": "Brak dostępu do drogi",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -61,6 +73,8 @@
 		"russian": "Исходящее хранилище заполнено",
 		"chinese": "输出库存为空",
 		"italian": "Magazzino in uscita pieno",
+		"japanese": "在庫満タン",
+		"polish": "Magazyn towarów pełny",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -70,6 +84,8 @@
 		"russian": "В здании нет строителей",
 		"chinese": "没有工人在建造",
 		"italian": "Nessun lavoratore nell'edificio",
+		"japanese": "労働者なし",
+		"polish": "Brak pracowników",
 	},
 	"noPower": {
 		"english": "No power",
@@ -79,6 +95,8 @@
 		"russian": "Нет энергии",
 		"chinese": "无电力",
 		"italian": "Manca elettricità",
+		"japanese": "電力なし",
+		"polish": "Brak energii",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -88,6 +106,8 @@
 		"russian": "Эффективность: %amount%%",
 		"chinese": "%amount%% 效率",
 		"italian": "Efficienza al %amount%%",
+		"japanese": "%amount%%の稼働率",
+		"polish": "%amount%% efektywności",
 	},
 
 
@@ -99,6 +119,8 @@
 		"russian": "Ваш город будет повышен до \"%cityLevelName%\", как только у вас будет хотя бы %amount% жителей %nextLevel% уровня.",
 		"chinese": "一旦你拥有至少%amount%名%nextLevel%级的居民后，城镇就会升级到 \"%cityLevelName%\"。",
 		"italian": "La tua città sarà promossa a \"%cityLevelName%\" non appena avrai almeno %amount% cittadini di Livello %nextLevel%.",
+		"japanese": "%nextLevel%レベルの住民%amount%人:都市レベル\"%cityLevelName%\"へグレードアップ",
+		"polish": "Twoje miasto osiagnie status \"%cityLevelName%\", gdy co najmniej %amount% mieszkańców osiągnie poziom %nextLevel%.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -108,6 +130,8 @@
 		"russian": "Вы достигли максимального уровня города. Поздравляем!",
 		"chinese": "你已达到最高城市级别。恭喜！",
 		"italian": "Hai raggiunto il livello più alto della città. Congratulazioni!",
+		"japanese": "最高の都市レベルに到達しました。おめでとうございます！",
+		"polish": "Osiągnałeś najwyżczy poziom miasta. Gratulacje!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -117,6 +141,8 @@
 		"russian": "Ваш город будет понижен до \"%cityLevelName%\", если в нем будет меньше %amount% жителей %level% уровня.",
 		"chinese": "如果你城镇少于%amount%名%level%级的居民，城镇就会降级为 \"%cityLevelName%\"。",
 		"italian": "La tua città sarà retrocessa a \"%cityLevelName%\" se avrai meno di %amount% cittadini di Livello %level%.",
+		"japanese": "%level%レベルの住民%amount%人以下:都市レベル\"%cityLevelName%\"へグレードダウン",
+		"polish": "Twoje miasto zostanie zdegradowanie do poziomu \"%cityLevelName%\" jesli będziesz miał mniej niż %amount% mieszkańców poziomu %level%.",
 	},
 	"researchingSomething":  {
 		"english": "Researching %techName%...    %progress%",
@@ -126,6 +152,8 @@
 		"russian": "Исследование %techName%...    %progress%",
 		"chinese": "研究%techName%中...    %progress%",
 		"italian": "Ricerca di %techName%...    %progress%",
+		"japanese": "%techName%を研究中：進捗%progress%",
+		"polish":"Badanie: %techName%...    %progress%",
 	},
 	"selectTech":  {
 		"english": "Select technology to research",
@@ -135,6 +163,8 @@
 		"russian": "Выберите технологию для исследования",
 		"chinese": "选择技术研究",
 		"italian": "Seleziona la tecnologia da ricercare",
+		"japanese": "テクノロジー一覧",
+		"polish":"Wybierz technologie do zbadania",
 	},
 	"researchUnlockedNothing":  {
 		"english": "Nothing",
@@ -144,6 +174,8 @@
 		"russian": "Ничего",
 		"chinese": "无",
 		"italian": "Niente",
+		"japanese": "なし",
+		"polish":"Nic",
 	},
 	"researchUnlockedAndCanBuild":  {
 		"english": "We have unlocked %techName% and can now build:",
@@ -153,6 +185,8 @@
 		"russian": "Вы разблокировали %techName%, теперь вам доступны строения:",
 		"chinese": "我们已解锁了%techName%，可以建造:",
 		"italian": "Abbiamo sbloccato %techName% ed adesso puoi costruire:",
+		"japanese": "%techName%の研究が終了し下記の建設が可能:",
+		"polish":"Odblokowaliśmy nową technologię: %techName%. Możemy teraz zbudować:",
 	},
 	"researchUnlocked":  {
 		"english": "We have unlocked %techName%.",
@@ -162,6 +196,8 @@
 		"russian": "Вы разблокировали %techName%.",
 		"chinese": "我们已解锁了%techName%。",
 		"italian": "Abbiamo sbloccato %techName%.",
+		"japanese": "%techName%の研究が終了",
+		"polish":"Odblokowaliśmy nową technologię: %techName%.",
 	},
 	"techUnlocks":  {
 		"english": "This technology unlocks:",
@@ -171,6 +207,8 @@
 		"russian": "Эта технология разблокирует:",
 		"chinese": "该项技术解锁了:",
 		"italian": "Questa tecnologia sblocca:",
+		"japanese": "テクノロジーを取得:",
+		"polish":"Ta technologia odblokowuje:",
 	},
 	"techUnlocksNothing":  {
 		"english": "This technology unlocks nothing.",
@@ -180,6 +218,8 @@
 		"russian": "Эта технология ничего не разблокирует.",
 		"chinese": "该项技术没有解锁任何东西。",
 		"italian": "Questa tecnologia non sblocca niente.",
+		"japanese": "このテクノロジーは未取得",
+		"polish":"Ta technologia nic nie odblokowuje.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -189,6 +229,8 @@
 		"russian": "Исследование завершено!",
 		"chinese": "研究完成！",
 		"italian": "Ricerca completata!",
+		"japanese": "研究が完了！",
+		"polish":"Badanie ukończone",
 	},
 	"production": {
 		"english": "Production",
@@ -198,6 +240,8 @@
 		"russian": "Производство:",
 		"chinese": "生产",
 		"italian": "Produzione",
+		"japanese": "生産",
+		"polish":"Produkcja",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -207,6 +251,8 @@
 		"russian": "Потребление",
 		"italian": "Consumo",
 		"spanish": "Consumo",
+		"japanese": "消費",
+		"polish":"Zapotrzebowanie",
 	},
 	"workers": {
 		"english": "Workers",
@@ -216,6 +262,8 @@
 		"russian": "Рабочие",
 		"italian": "Lavoratori",
 		"spanish": "Obreros",
+		"japanese": "労働者",
+		"polish":"Pracownicy",
 	},
 	"storage": {
 		"english": "Storage",
@@ -225,6 +273,8 @@
 		"russian": "Хранение:",
 		"chinese": "存储",
 		"italian": "Magazzino",
+		"japanese": "在庫",
+		"polish":"Przestrzeń magazynowa",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -234,6 +284,8 @@
 		"russian": "Улучшения",
 		"chinese": "升级",
 		"italian": "Aggiornamenti",
+		"japanese": "アップグレード",
+		"polish":"Ulepszenia",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -243,6 +295,8 @@
 		"russian": "Сделать приоритетным",
 		"chinese": "优先",
 		"italian": "Priorità",
+		"japanese": "優先",
+		"polish":"Zwiększ priorytet",
 	},
 	"price": {
 		"english": "Price",
@@ -260,7 +314,7 @@
 		"italian": "Prezzo",
 		"romanian": "Preț",
 		"czech": "Cena",
-		"japanese": "値段",
+		"japanese": "価格",
 	},
 
 	// habitat info panel
@@ -272,6 +326,7 @@
 		"russian": "Улучшение среды обитания через %seconds% сек.",
 		"chinese": "%seconds%s后居住点升级。",
 		"italian": "L'habitat si aggiornerà in %seconds%s.",
+		"japanese": "居住地のアップグレードまで%seconds%秒",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -281,6 +336,7 @@
 		"russian": "Ухудшение среды обитания через %seconds% сек.",
 		"chinese": "%seconds%s后居住点降级。",
 		"italian": "L'habitat si declasserà in %seconds%s.",
+		"japanese": "居住地のダウングレードまで%seconds%秒",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -290,6 +346,7 @@
 		"russian": "Среда обитания заполнена. Выполните дополнительные требования для улучшения.",
 		"chinese": "居住点人口已满，满足升级的额外需求。",
 		"italian": "L'habitat è pieno. Soddisfa i bisogni supplementari per farlo aggiornare.",
+		"japanese": "居住地をアップグレードするためのニーズ",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -299,6 +356,7 @@
 		"russian": "Жители приезжают.",
 		"chinese": "人们正在搬进。",
 		"italian": "Sta arrivando gente.",
+		"japanese": "住民が入居中",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -308,6 +366,7 @@
 		"russian": "Жители уезжают.",
 		"chinese": "人们正在搬离。",
 		"italian": "La gente sta andando via.",
+		"japanese": "住民が引っ越し中",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -317,6 +376,7 @@
 		"russian": "Потребности не удовлетворены.",
 		"chinese": "没有选择研究:",
 		"italian": "I bisogni non sono soddisfatti.",
+		"japanese": "ニーズが不足",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -326,6 +386,7 @@
 		"russian": "Жители в порядке.",
 		"chinese": "居民感觉良好",
 		"italian": "Gli abitanti stanno bene",
+		"japanese": "住民の状態は良好",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -335,6 +396,7 @@
 		"russian": "Исследование не выбрано",
 		"chinese": "没有选择研究:",
 		"italian": "Nessuna ricerca selezionata",
+		"japanese": "研究が未選択",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -344,6 +406,7 @@
 		"russian": "Ресурсов в хранилище:",
 		"chinese": "资源库存:",
 		"italian": "Risorse in magazzino:",
+		"japanese": "倉庫の物資:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -353,6 +416,7 @@
 		"russian": "Жители %level% уровня",
 		"chinese": "%level%级居民",
 		"italian": "Cittadini di livello %level%",
+		"japanese": "%level%レベルの住民",
 	},
 	"population": {
 		"english": "Population",
@@ -362,6 +426,7 @@
 		"chinese": "人口",
 		"italian": "Popolazione",
 		"russian": "Население",
+		"japanese": "現在の人口数",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -371,6 +436,7 @@
 		"chinese": "职业",
 		"italian": "Posti di lavoro",
 		"russian": "Работы",
+		"japanese": "必要な労働者",
 	},
 	"housing": {
 		"english": "Housing",
@@ -380,6 +446,7 @@
 		"chinese": "住房",
 		"italian": "Alloggi",
 		"russian": "Жилье",
+		"japanese": "移住可能な人口数",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -387,6 +454,8 @@
 		"french": "Statistiques de la ville",
 		"russian": "Городская статистика",
 		"chinese": "城市统计",
+		"japanese": "都市統計",
+
 	},
 	"statistics_population" : {
 		"english": "Population",
@@ -396,6 +465,7 @@
 		"chinese": "人口",
 		"italian": "Popolazione",
 		"russian": "Население",
+		"japanese": "人口数",
 	},
 	"statistics_jobs" : {
 		"english": "Jobs",
@@ -405,6 +475,7 @@
 		"chinese": "职业",
 		"italian": "Posti di lavoro",	
 		"russian": "Работы",
+		"japanese": "労働者",
 	},
 	"statistics_housing" : {
 		"english": "Housing",
@@ -414,6 +485,7 @@
 		"chinese": "住房",
 		"italian": "Alloggi",
 		"russian": "Жилье",
+		"japanese": "移住可能な人口数",
 	},
 	"statistics_immigrationRate" : {
 		"english": "Immigration Rate",
@@ -423,6 +495,7 @@
 		"italian": "Tasso di Immigrazione",
 		"russian": "Скорость иммиграции",
 		"spanish": "Indice de inmigración",
+		"japanese": "移住希望率",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -432,6 +505,7 @@
 		"chinese": "效率",
 		"italian": "Efficienza",
 		"russian": "Эффективность",
+		"japanese": "稼働率",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -441,6 +515,7 @@
 		"chinese": "工人不足:",
 		"italian": "Non ci sono abbastanza lavoratori:",
 		"russian": "Недостаточно рабочих",
+		"japanese": "労働者不足:",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -450,6 +525,7 @@
 		"italian": "Migliorato dagli edifici vicini",
 		"spanish": "Estimulado por los edificios vecinos",
 		"russian": "Усиливается соседними зданиями",
+		"japanese": "近隣建築による稼働率アップ",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -459,6 +535,7 @@
 		"chinese": "电力不足:",
 		"italian": "Manca energia:",
 		"russian": "Недостаточно энергии:",
+		"japanese": "電力不足:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -468,6 +545,7 @@
 		"italian": "Flusso d'aria disturbato",
 		"spanish": "Flujo de aire perturbado",
 		"russian": "Нарушенный воздушный поток",
+		"japanese": "十分でない気流",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -477,6 +555,7 @@
 		"italian": "Costruisci una Strada Curva",
 		"spanish": "Construir una Carretera Curva",
 		"russian": "Построить изогнутую дорогу",
+		"japanese": "カーブ",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -486,6 +565,7 @@
 		"russian": "Длина дороги",
 		"italian": "Lunghezza aggancio strada",
 		"spanish": "Asistencia de longitud de carretera",
+		"japanese": "距離の表示",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -495,6 +575,7 @@
 		"russian": "Угол привязки дороги",
 		"italian": "Angolo aggancio strada",
 		"spanish": "Asistencia de ángulo de carretera",
+		"japanese": "直角の表示",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -504,6 +585,7 @@
 		"russian": "Заменить дорогу",
 		"italian": "Sostituisci strada",
 		"spanish": "Reemplazar carretera",
+		"japanese": "置き換え",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road seleted",
@@ -521,6 +603,7 @@
 		"russian": "Привязать к дороге",
 		"italian": "Aggancia alla strada",
 		"spanish": "Pegar a la carretera",
+		"japanese": "道路に接着",
 	},
 	"resourcesOnWay" : { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -530,6 +613,7 @@
 		"russian": "В настоящее время доставляется: %amount%",
 		"italian": "Attualmente in consegna: %amount%",
 		"spanish": "Actualmente entregando: %amount%",
+		"japanese": "現在配送中:%amount%",
 	},
 
 	// sign panel
@@ -541,6 +625,7 @@
 		"russian": "Текст",
 		"italian": "Testo",
 		"spanish": "Texto",
+		"japanese": "文字",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -550,6 +635,7 @@
 		"russian": "Размер шрифта",
 		"italian": "Dimensioni Carattere",
 		"spanish": "Dimensión Fuente",
+		"japanese": "フォントサイズ",
 	},
 	"font": {
 		"english": "Font",
@@ -559,6 +645,7 @@
 		"russian": "Шрифт",
 		"italian": "Tipo di carattere",
 		"spanish": "Fuente",
+		"japanese": "フォント",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -568,6 +655,7 @@
 		"russian": "Не подключен к электросети",
 		"italian": "Non connesso ad una rete elettrica",
 		"spanish": "No conectado al red eléctrica",
+		"japanese": "電力ネットワークに未接続",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -577,6 +665,7 @@
 		"russian": "Зданию что-то мешает",
 		"italian": "L'edificio è in collisione con qualcosa",
 		"spanish": "El edificio está en colisión con un elemento",
+		"japanese": "他の建物などに接触",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -586,6 +675,7 @@
 		"russian": "Здание не размещено на залежи ресурсов",
 		"italian": "Edificio non si trova su un deposito di risorse",
 		"spanish": "El Edificio no está colocado sobre un depósito de recursos",
+		"japanese": "資源採取地外に設置",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -595,6 +685,7 @@
 		"russian": "Дороге что-то мешает",
 		"italian": "La strada è in collisione con qualcosa",
 		"spanish": "La carretera está en colisión con un elemento",
+		"japanese": "他の道路などに接触",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -603,6 +694,8 @@
 		"chinese": "距离邻道太近",
 		"russian": "Слишком близко к соседней дороге",
 		"italian": "Strade troppo vicine",
+		"spanish": "Carretera demasiado cerca",
+		"japanese": "他の道路などに隣接",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -611,6 +704,8 @@
 		"chinese": "路段太短",
 		"russian": "Слишком короткий отрезок дороги",
 		"italian": "Segmento di strada troppo corto",
+		"spanish": "Segmento de carretera demasiado corto",
+		"japanese": "道路が短すぎ",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -619,6 +714,8 @@
 		"chinese": "道路太陡",
 		"russian": "Дорога слишком крутая",
 		"italian": "Strada troppo ripida",
+		"spanish": "Carretera demasiado escarpado",
+		"japanese": "道路が急すぎ",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -627,6 +724,8 @@
 		"chinese": "道路离地面太高",
 		"russian": "Дорога слишком далеко от земли",
 		"italian": "strada troppo lontana dalla superficie",
+		"spanish": "Carretera demasiado lejo de la superficie",
+		"japanese": "道路が地面から遠すぎ",
 	},
 
 
@@ -639,6 +738,8 @@
 		"chinese": "可视化",
 		"russian": "Визуализации",
 		"italian": "Visualizzazioni",
+		"spanish": "Visualización",
+		"japanese": "情報視覚化",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -647,6 +748,8 @@
 		"chinese": "建筑效率",
 		"russian": "Эффективность строительства",
 		"italian": "Efficienza dell'edificio",
+		"spanish": "Eficiencia de los edificios",
+		"japanese": "建物稼働率",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -655,6 +758,8 @@
 		"chinese": "建筑入住率(工人和居民)",
 		"russian": "Заселенность здания (рабочие и жители)",
 		"italian": "Occupazioni dell'edificio (Lavoratori & Abitanti)",
+		"spanish": "Ocupación de los edificios (Obreros & Habitantes)",
+		"japanese": "住民･労働者入居率",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -663,6 +768,8 @@
 		"chinese": "电力",
 		"russian": "Энергия",
 		"italian": "Energia",
+		"spanish": "Energia",
+		"japanese": "電力供給範囲",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -671,6 +778,8 @@
 		"chinese": "风力发电机",
 		"russian": "Ветряные турбины",
 		"italian": "Turbine eoliche",
+		"spanish": "Aerogenerador",
+		"japanese": "風力発電稼働範囲",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -679,6 +788,8 @@
 		"chinese": "土壤浓缩设施",
 		"russian": "Системы обогащения почвы",
 		"italian": "Strutture di arricchimento del terreno",
+		"spanish": "Estructura de mejoramiento del terreno",
+		"japanese": "農場関連施設",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -687,6 +798,7 @@
 		"chinese": "回收中心",
 		"russian": "Центр переработки",
 		"italian": "Centri di riciclaggio",
+		"japanese": "リサイクル関連施設",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -695,6 +807,7 @@
 		"chinese": "高科技工具建筑",
 		"russian": "Строительство с помощью высокотехнологичных инструментов",
 		"italian": "Edifici con strumenti ad alta tecnologia",
+		"japanese": "ハイテクツール関連施設",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -703,6 +816,7 @@
 		"chinese": "工业机器人建筑",
 		"russian": "Строительство с промышленными роботами",
 		"italian": "Edifici con robot industriali",
+		"japanese": "工業ロボット関連施設",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -711,6 +825,8 @@
 		"italian": "Automobili",
 		"chinese": "汽车",
 		"russian": "Машины",
+		"spanish": "Vehículos",
+		"japanese": "車",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -719,6 +835,8 @@
 		"italian": "Strade",
 		"chinese": "道路",
 		"russian": "Дороги",
+		"spanish": "Carreteras",
+		"japanese": "道路",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -727,6 +845,8 @@
 		"chinese": "需求资源:",
 		"russian": "Необходимые материалы",
 		"italian": "Risorse necessarie:",
+		"japanese": "必要物資:",
+
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -735,6 +855,7 @@
 		"chinese": "每分钟开采 %amount% %resourceName%",
 		"russian": "%amount% %resourceName% добывается каждую минуту",
 		"italian": "Estratte %amount% %resourcesName% al minuto",
+		"japanese": "%resourceName%の採掘量:%amount%/分",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -743,6 +864,7 @@
 		"chinese": "目前开采总量: %amount%",
 		"russian": "Всего добыто: %amount%",
 		"italian": "Quantità totale estratta fino ad ora: %amount%",
+		"japanese": "総採掘量:%amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -751,6 +873,7 @@
 		"chinese": "地区",
 		"italian": "Distretti",
 		"russian": "Районы",
+		"japanese": "輸送管理",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -759,6 +882,7 @@
 		"chinese": "左键单击绘画\n右键单击擦除",
 		"italian": "Clic sinistro per evidenziare\nClick destro per cancellare",
 		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
+		"japanese": "左クリック:地区の範囲指定\n右クリック:地区の範囲削除",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -767,6 +891,7 @@
 		"chinese": "在地区之间拖动鼠标光标创建出口规则。\n\n没有出口规则的地区可以将货物出口到任何地方。",
 		"italian": "Trascina il cursore del mouse tra i distretti per creare una regola di esportazione.\n\nI distretti senza regole di esportazione posso esportare beni ovunque.",
 		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
+		"japanese": "指定した地区間をドラッグし物資の輸送管理を行います。\n\n輸送管理のない地区はどこへでも輸送します。",
 	},
 
 	"populationInfo": {
@@ -776,6 +901,7 @@
 		"chinese": "人口信息",
 		"italian": "Informazioni sulla popolazione",
 		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
+		"japanese": "宇宙港情報",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -784,6 +910,7 @@
 		"chinese": "准备搬入的居民:",
 		"italian": "Migranti pronti a trasferirsi:",
 		"russian": "Количество иммигрантов, готовых к заселению:",
+		"japanese": "移住希望者:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -792,6 +919,7 @@
 		"chinese": "移民率:",
 		"italian": "Tasso di immigrazione:",
 		"russian": "Скорость иммиграции:",
+		"japanese": "移住希望率:",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -800,6 +928,7 @@
 		"chinese": "升级你的居住点，让你的城市对新居民具有吸引力。",
 		"italian": "Aggiorna gli habitat per rendere la tua città attraente per i nuovi arrivati.",
 		"russian": "Улучшайте среду обитания, чтобы сделать город привлекательным для новых жителей.",
+		"japanese": "居住地のアップグレードが移住希望率に影響",
 	},
 	"low": {
 		"english": "Low",
@@ -808,6 +937,7 @@
 		"chinese": "低",
 		"italian": "Basso",
 		"russian": "Низкий",
+		"japanese": "低",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -816,6 +946,7 @@
 		"chinese": "中",
 		"italian": "Moderato",
 		"russian": "Средний",
+		"japanese": "中",
 	},
 	"high": {
 		"english": "High",
@@ -824,6 +955,7 @@
 		"chinese": "高",
 		"italian": "Alto",
 		"russian": "Высокий",
+		"japanese": "高",
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -832,6 +964,7 @@
 		"chinese": "居住点升级",
 		"italian": "Habitat migliorato",
 		"russian": "Уровень среды обитания увеличен",
+		"japanese": "居住地のアップグレード",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -840,6 +973,7 @@
 		"chinese": "居住点降级",
 		"italian": "Habitat declassato",
 		"russian": "Уровень среды обитания понижен",
+		"japanese": "居住地のダウングレード",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -848,6 +982,7 @@
 		"chinese": "兆瓦",
 		"italian": "MW",
 		"russian": "МВт",
+		"japanese": "MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -856,6 +991,7 @@
 		"chinese": "%percentage%% 效率",
 		"italian": "%percentahe%% di efficienza",
 		"russian": "Эффективность %percentage%%",
+		"japanese": "%percentage%%の稼働率",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -863,6 +999,7 @@
 		"french": "Aperçu de la production",
 		"chinese": "生产概况",
 		"russian": "Обзор производства",
+		"japanese": "生産状況",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -870,6 +1007,7 @@
 		"french": "Ressource",
 		"chinese": "资源",
 		"russian": "Ресурс",
+		"japanese": "物資",
 	},
 	"priority": {
 		"english": "Priority",
@@ -877,6 +1015,7 @@
 		"french": "Priorité",
 		"chinese": "优先级",
 		"russian": "Приоритет",
+		"japanese": "優先順位",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -884,5 +1023,6 @@
 		"french": "Niveau de la ville",
 		"russian": "Уровень города",
 		"chinese": "城市等级",
+		"japanese": "都市レベル",
 	},
 }
