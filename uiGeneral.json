@@ -52,6 +52,7 @@
 		"russian": "часов",
 		"chinese": "小时",
 		"spanish": "horas",
+		"polish": "godziny",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -66,6 +67,7 @@
 		"italian": "h",
 		"russian": "час.",
 		"chinese": "时",
+		"polish": "h",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -86,6 +88,7 @@
 		"bulgarian": "минути",
 		"czech": "minut",
 		"japanese": "分",
+		"polish": "minuty",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
@@ -100,6 +103,7 @@
 		"spanish": "min",
 		"russian": "мин.",
 		"chinese": "分",
+		"polish": "min",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -114,7 +118,7 @@
 		"chinese": "秒",
 		"korean": "초",
 		//"arabic": "",
-		"polish": "sekund",
+		"polish": "sekuny",
 		"italian": "secondi",
 		"romanian": "secunde",
 		"bulgarian": "секунди",
