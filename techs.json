@@ -7,6 +7,7 @@
     "spanish": "Agricultura",
     "chinese": "农业",
     "italian": "Agricoltura",
+	  "polish": "Rolnictwo",
   },
 
   "tech_electronics": {
@@ -17,6 +18,7 @@
     "spanish": "Electrónica",
     "chinese": "电子元件",
     "italian": "Elettronica",
+	  "polish": "Elektronika",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -26,6 +28,7 @@
     "spanish": "Producción de Acero",
     "chinese": "钢铁冶炼",
     "italian": "Produzione di Acciaio",
+	  "polish": "Produkcja stali",
   },
 
 	
@@ -37,6 +40,7 @@
     "spanish": "Ciencia Verde",
     "chinese": "绿色科技",
     "italian": "Scienza Verde",
+	  "polish": "Zielona nauka",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -46,6 +50,7 @@
     "spanish": "Electrodomésticos",
     "chinese": "家用电器",
     "italian": "Elettrodomestici",
+	  "polish": "AGD",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -55,6 +60,7 @@
     "spanish": "Paneles Solares",
     "chinese": "太阳能板",
     "italian": "Pannelli Solari",
+	  "polish": "Panele słoneczne",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -64,6 +70,7 @@
     "spanish": "Turbinas Eólicas Mejoradas",
     "chinese": "改进风力涡轮机叶片",
     "italian": "Pale Eoliche Migliorate",
+	  "polish": "Ulepszone łopaty turbin wiatrowych",
   },
 	"techDesc_improvedWindTurbineBlades": {
 		"english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -73,6 +80,7 @@
     "spanish": "Adapta la forma de las turbinas eólicas a la atmósfera. Esto lleva a disminuir las perturbaciones en el aire, lo que te permite construir turbinas eólicas más cercanas entre sí.",
     "chinese": "使风力涡轮机叶片的形状符合空气流动。\n这会降低空气阻力，让你建造彼此更近的风力涡轮机。",
     "italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria, che ti consente di costruire le turbine eoliche più vicine fra loro.",
+		"polish": "Zmienia geometrię łopat, by dostowac sie do panujacych warunków. Pozwala to na zmniejszenie generowanych turbulencji i pozwala na budowanie elektrowni wiatroch bliżej siebie",
 	},
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -82,6 +90,7 @@
     "spanish": "Carreteras de Concreto",
     "chinese": "混凝土路",
     "italian": "Strade in Cemento",
+	  "polish": "Betonowe drogi",
   },
 
 	
@@ -93,6 +102,7 @@
     "spanish": "Minería de Aluminio",
     "chinese": "铝矿开采",
     "italian": "Miniere di Alluminio",
+	  "polish": "Wydobycie aluminium",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -102,6 +112,7 @@
     "spanish": "Subestaciones Eléctricas",
     "chinese": "变电站",
     "italian": "Sotto-stazioni Elettriche",
+	  "polish": "Rozdzielnia elektryczna",
   },
 	"techDesc_powerSubstation": {
 		"english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -111,6 +122,7 @@
     "spanish": "Subestaciones integradas en tu red de energía, para que no tengas que suministrar cada edificio con postes eléctricos.",
     "chinese": "将变电站集成到你的电力网络中，\n这样就不必为每个建筑物都配备电线杆。",
     "italian": "Integrate le sotto-stazioni nella vostra rete elettrica così che non dobbiate più collegare ogni edificio con i pali della luce.",
+		"polish": "Włącznie rozdzielni do sieci elektrycznej sprawia, że budynki nie musza byc juz połączone z słupami elektrycznymi.",
 	},
   "tech_motors": {
     "english": "Motors",
@@ -120,6 +132,7 @@
     "spanish": "Motores",
     "chinese": "电动机",
     "italian": "Motori",
+	  "polish": "Silniki",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -129,6 +142,7 @@
     "spanish": "Carreteras de Cuatro Carriles",
     "chinese": "四车道",
     "italian": "Strade a Quattro Corsie",
+	  "polish": "Czteropasmowe drogi",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -138,6 +152,7 @@
     "spanish": "Carreteras de Una Vía",
     "chinese": "单行道",
     "italian": "Strade a Senso Unico",
+	  "polish": "Drogi jednokierunkowe",
   },
 	
   "tech_parks": {
@@ -148,6 +163,7 @@
     "spanish": "Edificios Grandes",
     "chinese": "大型建筑",
     "italian": "Grandi Edifici",
+	  "polish": "Duże budynki",
   },
   "tech_computers": {
     "english": "Computers",
@@ -157,6 +173,7 @@
     "spanish": "Computadoras",
     "chinese": "计算机",
     "italian": "Computer",
+	  "polish": "Komputery",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -166,6 +183,7 @@
     "spanish": "Minas Grandes",
     "chinese": "大型矿机",
     "italian": "Miniere Grandi",
+	  "polish": "Duże kopalnie",
   },
 	"techDesc_largeMines": {
 		"english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -175,6 +193,7 @@
     "spanish": "Acelera la extracción de recursos para alimentar el hambre de tu creciente ciudad.",
     "chinese": "加快资源开采，以满足不断发展的城市需求。",
     "italian": "Aumenta la velocità di estrazione per rifornire la tua città in espansione.",
+		"polish": "Przyspiesz wydobycie, aby nadążyc za rosnącymi potrzebami miasta.",
 	},
 
   "tech_foodProcessing": {
@@ -185,6 +204,7 @@
     "spanish": "Procesamiento de Alimentos",
     "chinese": "食品加工",
     "italian": "Trasformazione Alimentare",
+	  "polish": "Przetważanie żywności",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -194,6 +214,7 @@
     "spanish": "Fertilizante",
     "chinese": "化肥",
     "italian": "Fertilizzante",
+	  "polish": "nawóz",
   },
 	"techDesc_fertilizer": {
 		"english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -203,6 +224,7 @@
     "spanish": "Suministra suelo fertilizado a las granjas cercanas e incrementa su producción de forma significativa.",
     "chinese": "向附近的农场供应施肥的土壤，将显着提高其产量。",
     "italian": "Rifornisci di terreno fertilizzato le fattorie vicine ed aumenta significativamente la loro produzione.",
+		"polish": "Zapewnienie dostaw nawozu do farm znacznie zwieksza ilość produkowanej żywności",
 	},
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -212,6 +234,7 @@
     "spanish": "Nanotubos de Carbono",
     "chinese": "碳纳米管",
     "italian": "Nanotubi in Carbonio",
+	  "polish": "Nanorurki weglowe",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -221,6 +244,7 @@
     "spanish": "Autolimpieza de Paneles Solares",
     "chinese": "自清洁太阳能电池板",
     "italian": "Pannelli Solari Autopulenti",
+	  "polish": "Samoczyszczące panele słoneczne",
   },
 	"techDesc_selfCleaningSolarPanels": {
 		"english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -230,6 +254,7 @@
     "russian": "Как только ваши солнечные панели очистятся, ваши солнечные электростанции будут вырабатывать гораздо больше энергии.",
     "spanish": "Mejora los paneles solares para que se autolimpien, su planta de energía solar generará mucho mas energía.",
     "italian": "Una volta che i tuoi pannelli solari si puliscono da soli, le tue centrali solari produrranno molta più energia.",
+		"polish": "Dzięki zastosowaniu samoczyszczących paneli słonecznych, alektrownie słoneczne bedą produkowac znacznie wiecej energii",
 	},
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -239,6 +264,7 @@
     "spanish": "Carreteras de Seis Carriles",
     "chinese": "六车道",
     "italian": "Strade a Sei Corsie",
+	  "polish": "Sześciopasmowe drogi",
   },
 	
   "tech_stadiums": {
@@ -249,6 +275,7 @@
     "spanish": "Estadios",
     "chinese": "体育馆",
     "italian": "Stadio",
+	  "polish": "Stadiony",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -258,6 +285,7 @@
     "spanish": "Procesadores Neuronales",
     "chinese": "神经处理器",
     "italian": "Processori Neurali",
+	  "polish": "Procesory neuronowe",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -267,6 +295,7 @@
     "spanish": "Ciencia Amarilla",
     "chinese": "黄色科技",
     "italian": "Scienza Gialla",
+	  "polish": "Żółta nauka",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -276,6 +305,7 @@
     "spanish": "Minería de Uranio",
     "chinese": "铀矿开采",
     "italian": "Sfruttamento dell'Uranio",
+	  "polish": "Wybodycie uranu",
   },
   "tech_highways": {
     "english": "Highways",
@@ -285,6 +315,7 @@
     "spanish": "Autopistas",
     "chinese": "高速公路",
     "italian": "Autostrade",
+	  "polish": "Autostrady",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -294,6 +325,7 @@
     "russian": "Супермагистрали",
     "spanish": "Super-Autopistas",
     "italian": "Super-autostrada",
+	  "polish": "Superautostrady",
   },
 	
   "tech_homeRobots": {
@@ -304,6 +336,7 @@
     "spanish": "Robots Domésticos",
     "chinese": "家用机器人",
     "italian": "Robot Domestici",
+	  "polish": "Roboty domowe",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -313,6 +346,7 @@
     "spanish": "Robots Industriales",
     "chinese": "工业机器人",
     "italian": "Robot Industriali",
+	  "polish": "Roboty przemysłowe",
   },
 	"techDesc_industrialRobots": {
 		"english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -322,6 +356,7 @@
     "spanish": "Suministra a tus fábricas con robots industriales para reducir la cantidad de trabajadores requerida.",
     "chinese": "为你的工厂提供工业机器人以减少所需的工人数量。",
     "italian": "Rifornisci le tue fabbriche con robot industriali per ridurre il numero di lavoratori richiesti",
+		"polish": "Zaopatrzenie fabryk w roboty przemysłowe zmniejsza potrzebna ilość pracowników",
 	},
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -331,6 +366,7 @@
     "spanish": "Filtro de Partículas",
     "chinese": "粒子过滤器",
     "italian": "Filtro a Particelle",
+	  "polish": "Filtr cząstek stałych",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -340,6 +376,7 @@
     "spanish": "Energía Nuclear",
     "chinese": "核电",
     "italian": "Energia Nucleare",
+	  "polish": "Energia jądrowa",
   },
 
   "tech_schools": {
@@ -350,6 +387,7 @@
     "spanish": "Escuelas",
     "chinese": "学校",
     "italian": "Scuole",
+	  "polish": "Szkoły",
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -359,6 +397,7 @@
     "spanish": "Minería de Iridio",
     "chinese": "铱矿开采",
     "italian": "Sfruttamento dell'Iridio",
+	  "polish": "Wydobycie irydu",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -368,6 +407,7 @@
     "spanish": "Reciclaje",
     "chinese": "回收",
     "italian": "Riciclaggio",
+	  "polish": "Recykling",
   },
 	"techDesc_recycling": {
 		"english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -377,6 +417,7 @@
     "spanish": "Disminuye tu consumo de recursos al procesar los desechos industriales en las fábricas cercanas.",
     "chinese": "通过处理附近工厂的工业废物来降低资源消耗。",
     "italian": "Riduce il consumo di risorse processando i rifiuti industriali nelle fabbriche vicine.",
+		"polish": "Zmniejsz zapotrzebowanie na surowce dzieki wykorzystaniu odpadów przemysłowych w pobliskich fabrykach",
 	},
 	
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
@@ -387,6 +428,7 @@
     "spanish": "Holo-Pantallas",
     "chinese": "全息显示器",
     "italian": "Schermi Olografici",
+	  "polish": "Ekrany holograficzne",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -396,6 +438,7 @@
     "spanish": "Taller de Alta Tecnología",
     "chinese": "高科技工作坊",
     "italian": "Laboratorio High Tech",
+	  "polish": "Warsztat zaawansowanych technologii",
   },
 	"techDesc_highTechWorkshop": {
 		"english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -405,6 +448,7 @@
     "spanish": "Suministra a tus fábricas con herramientas de alta tecnología para incrementar su productividad.",
     "chinese": "为你的工厂提供高科技工具以提高生产力。",
     "italian": "Rifornisci le tue fabbriche con utensili High Tech per aumentare la produttività.",
+		"polish": "Zaopatrzenie fabryk w zaawansowane technologicznie narzędzia pozwala na zwiekszenie produktywności.",
 	},
 
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
@@ -415,6 +459,7 @@
     "russian": "Блоки управления ИИ",
     "spanish": "Unidad de control IA",
     "italian": "Unità di controllo IA",
+	  "polish": "Panele kontrolne sztucznej inteligencji",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -424,6 +469,7 @@
     "russian": "Иридиевое топливо",
     "spanish": "Propulsores al iridio",
     "italian": "Carburante all'iridio",
+	  "polish": "Paliwa irydowe",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -433,6 +479,7 @@
     "spanish": "Reactor de Neutrones Rápidos",
     "chinese": "快中子反应堆",
     "italian": "Reattore Rapido a Neutroni",
+	  "polish": "Szybki reaktor jądrowy",
   },
 
   "tech_science4": {
@@ -443,6 +490,7 @@
     "spanish": "Ciencia Roja",
     "chinese": "红色科技",
     "italian": "Scienza Rossa",
+	  "polish": "Czerwona nauka",
   },
 
   "tech_adamantineMining":  {
@@ -453,5 +501,6 @@
     "russian": "Адамантиновая добыча",
     "spanish": "Extracción minera de diamantino",
     "italian": "Miniera di adamantio",
+	  "polish": "Wydobycie adamantyny",
   },
 }
