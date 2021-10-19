@@ -8,6 +8,7 @@
 		"chinese": "沙子",
 		"italian": "Sabbia",
 		"japanese": "砂",
+	  	"polish": "Piasek",
 
 	},
 	"resource_sulfur": {
@@ -19,6 +20,7 @@
 		"chinese": "硫磺",
 		"italian": "Zolfo",
 		"japanese": "硫黄",
+		"polish": "Siarka",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -29,6 +31,7 @@
 		"chinese": "混凝土",
 		"italian": "Cemento",
 		"japanese": "コンクリート",
+		"polish": "Beton",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -39,6 +42,7 @@
 		"chinese": "铁矿石",
 		"italian": "Minerale di Ferro",
 		"japanese": "鉄鉱石",
+		"polish": "Złoże żelaza",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -49,6 +53,7 @@
 		"chinese": "铝矿石",
 		"italian": "Minerale di Alluminio",
 		"japanese": "アルミ鉱石",
+		"polish": "Złoże aluminium",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -59,6 +64,7 @@
 		"chinese": "铀矿石",
 		"italian": "Minerale di Uranio",
 		"japanese": "ウラン鉱石",
+		"polish": "Złoże uranu",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -69,6 +75,7 @@
 		"chinese": "铱矿石",
 		"italian": "Minerale di Iridio",
 		"japanese": "イリジウム鉱石",
+		"polish": "Złoże irydu",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -79,6 +86,7 @@
 		"spanish": "Diamantino",
 		"italian": "Admantio",
 		"japanese": "アダマンタイト",
+		"polish": "Adamantyna",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -89,6 +97,7 @@
 		"chinese": "煤炭",
 		"italian": "Carbonio",
 		"japanese": "炭素",
+		"polish": "Węgiel",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -99,6 +108,7 @@
 		"chinese": "纳米管",
 		"italian": "Nanotubi",
 		"japanese": "ナノチューブ",
+		"polish": "Nanorurki węglowe",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -109,6 +119,7 @@
 		"chinese": "钢铁",
 		"italian": "Acciaio",
 		"japanese": "鋼鉄",
+		"polish": "Stal",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -119,6 +130,7 @@
 		"chinese": "铜矿石",
 		"italian": "Minerale di Rame",
 		"japanese": "銅鉱石",
+		"polish": "Złoże miedzi",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -129,6 +141,7 @@
 		"chinese": "发动机",
 		"italian": "Motore",
 		"japanese": "モーター",
+		"polish": "Silniki",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -139,6 +152,7 @@
 		"spanish": "Módulos Electrónicos",
 		"italian": "Moduli Elettronici",
 		"japanese": "電子部品",
+		"polish": "Elektronika",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -149,6 +163,7 @@
 		"chinese": "家用电器",
 		"italian": "Elettrodomestici",
 		"japanese": "家電",
+		"polish": "AGD",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -159,6 +174,7 @@
 		"chinese": "微芯片",
 		"italian": "Microchip",
 		"japanese": "マイクロチップ",
+		"polish": "Mikroczipy",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -169,6 +185,7 @@
 		"chinese": "神经处理器",
 		"italian": "Processore Neurale",
 		"japanese": "ニューラルプロセッサー",
+		"polish": "Procesory neuronowe",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -179,6 +196,7 @@
 		"chinese": "计算机",
 		"italian": "Computer",
 		"japanese": "コンピューター",
+		"polish": "Komputery",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -189,6 +207,7 @@
 		"chinese": "家用机器人",
 		"italian": "Robot Domestico",
 		"japanese": "家庭用ロボ",
+		"polish": "Roboty domowe",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -199,6 +218,7 @@
 		"chinese": "工业机器人",
 		"italian": "Robot Industriale",
 		"japanese": "工業用ロボ",
+		"polish": "Roboty przemysłowe",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -209,6 +229,7 @@
 		"chinese": "高科技工具",
 		"italian": "Utensile High Tech",
 		"japanese": "ハイテクニカルツール",
+		"polish": "Zaawansowane narzędzia",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -219,6 +240,7 @@
 		"spanish": "Visualización Holográfica ",
 		"italian": "Display holografico",
 		"japanese": "ホロディスプレイ",
+		"polish": "Wyświetlacze holograficzne",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
