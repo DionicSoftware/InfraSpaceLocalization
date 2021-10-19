@@ -8,6 +8,7 @@
 		"chinese": "碎石路",
 		"italian": "Strada in Ghiaia",
 		"japanese": "砂利道",
+	  	"polish": "Żwirowa droga",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -18,6 +19,7 @@
 		"chinese": "混凝土路",
 		"italian": "Strada in Cemento",
 		"japanese": "舗装道路",
+		"polish": "Betonowa droga",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -28,6 +30,7 @@
 		"chinese": "高速公路",
 		"italian": "Autostrada",
 		"japanese": "高速道路",
+		"polish": "Autostrada",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -38,5 +41,6 @@
 		"spanish": "Super-Autopista",
 		"italian": "Super-autostrada",
 		"japanese": "アウトバーン",
+		"polish": "Superautostrada",
 	},
 }
