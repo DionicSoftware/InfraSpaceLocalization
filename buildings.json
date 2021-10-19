@@ -374,6 +374,7 @@
     "italian": "Fabbrica di carburante all'iridio",
 	  "japanese": "イリジウム推進剤生産工場",
 	  "polish": "Rafineria paliwa irydowego",
+	  "spanish": "Fábrica de propelente de iridio",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -382,6 +383,7 @@
     "chinese": "AI控制单元厂",
     "russian": "Завод блоков управления ИИ",
     "italian": "Fabbrica di unità di controllo IA",
+	  "spanish":"Fábrica de unidades de control de IA",
 	  "japanese": "AI制御ユニット生産工場",
 	  "polish": "Fabryka paneli kontrolnych sztucznej inteligencji",
   },
