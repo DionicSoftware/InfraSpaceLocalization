@@ -7,7 +7,7 @@
     "chinese": "沙子矿机",
     "spanish": "Mina de Arena",
     "italian": "Miniera di Sabbia",
-	  "japanese": "砂採掘機",
+	  "japanese": "砂採掘場",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -17,7 +17,7 @@
     "chinese": "硫磺矿机",
     "spanish": "Mina de Azufre",
     "italian": "Miniera di Zolfo",
-	  "japanese": "硫黄採掘機",
+	  "japanese": "硫黄採掘場",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -27,7 +27,7 @@
     "chinese": "铁矿机",
     "spanish": "Mina de Hierro",
     "italian": "Miniera di Ferro",
-	  "japanese": "鉄採掘機",
+	  "japanese": "鉄採掘場",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -37,7 +37,7 @@
     "chinese": "铜矿机",
     "spanish": "Mina de Cobre",
     "italian": "Miniera di Rame",
-	  "japanese": "銅採掘機",
+	  "japanese": "銅採掘場",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -47,7 +47,7 @@
     "chinese": "铝矿机",
     "spanish": "Mina de Aluminio",
     "italian": "Miniera di Alluminio",
-	  "japanese": "アルミ採掘機",
+	  "japanese": "アルミ採掘場",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -57,7 +57,7 @@
     "chinese": "铀矿机",
     "spanish": "Mina de Uranio",
     "italian": "Miniera di Uranio",
-	  "japanese": "ウラン採掘機",
+	  "japanese": "ウラン採掘場",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -67,7 +67,7 @@
     "chinese": "铱矿机",
     "spanish": "Mina de Iridio",
     "italian": "Miniera di Iridio",
-	  "japanese": "イリジウム採掘機",
+	  "japanese": "イリジウム採掘場",
   },
 
 
@@ -79,7 +79,7 @@
     "chinese": "大型沙子矿机",
     "spanish": "Gran Mina de Arena",
     "italian": "Grande Miniera di Sabbia",
-	  "japanese": "大型の砂採掘機",
+	  "japanese": "拡大砂採掘場",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -89,7 +89,7 @@
     "chinese": "大型硫磺矿机",
     "spanish": "Gran Mina de Azufre",
     "italian": "Grande Miniera di Zolfo",
-	  "japanese": "大型の硫黄掘機",
+	  "japanese": "拡大硫黄掘場",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -99,7 +99,7 @@
     "chinese": "大型铁矿机",
     "spanish": "Gran Mina de Hierro",
     "italian": "Grande Miniera di Ferro",
-	  "japanese": "大型の鉄採掘機",
+	  "japanese": "拡大鉄採掘場",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -109,7 +109,7 @@
     "chinese": "大型铜矿机",
     "spanish": "Gran Mina de Hierro",
     "italian": "Grande Miniera di Rame",
-	  "japanese": "大型の銅採掘機",
+	  "japanese": "拡大銅採掘場",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -119,7 +119,7 @@
     "chinese": "大型铝矿机",
     "spanish": "Gran Mina de Aluminio",
     "italian": "Grande Miniera di Alluminio",
-	  "japanese": "大型のアルミ採掘機",
+	  "japanese": "拡大アルミ採掘場",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -129,7 +129,7 @@
     "chinese": "大型铀矿机",
     "spanish": "Gran Mina de Uranio",
     "italian": "Grande Miniera di Uranio",
-	  "japanese": "大型のウラン採掘機",
+	  "japanese": "拡大ウラン採掘場",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -139,7 +139,7 @@
     "chinese": "大型铱矿机",
     "spanish": "Gran Mina de Iridio",
     "italian": "Grande Miniera di Iridio",
-	  "japanese": "大型のイリジウム採掘機",
+	  "japanese": "拡大イリジウム採掘場",
   },
 
 
@@ -685,6 +685,6 @@
     "russian": "Огромный адамантиновый бур",
 	"spanish": "Excavadora colosal de diamantino",
     "italian": "Trivella colossale per adamantio",
-	  "japanese": "アダマンタイト採掘機",
+	  "japanese": "アダマンタイト採掘場",
   }
 }
