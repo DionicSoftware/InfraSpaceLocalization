@@ -251,6 +251,7 @@
 		"chinese": "VR娱乐设备",
 		"italian": "Intrattenimento Realtà Virtuale",
 		"japanese": "教育用VR",
+		"polish": "Sprzęty edukacyjno-rozrywkowe VR",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -261,6 +262,7 @@
 		"chinese": "铱合金",
 		"italian": "Lega di Iridio",
 		"japanese": "イリジウム合金",
+		"polish": "Stop aluminium",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -271,6 +273,7 @@
 		"spanish": "Propulsor a Iridio",
 		"italian": "Carburante all'iridio",
 		"japanese": "イリジウム推進剤",
+		"polish": "Paliwo irydowe",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -281,6 +284,7 @@
 		"spanish": "Unidad de control IA",
 		"italian": "Unità di controllo IA",
 		"japanese": "AI制御ユニット",
+		"polish": "Panele kontrolne sztucznej inteligencji",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -291,6 +295,7 @@
 		"chinese": "辐射核心",
 		"italian": "Nucleo di Radiazione",
 		"japanese": "電磁波コア",
+		"polish": "Wkłady jadrowe",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -301,6 +306,7 @@
 		"chinese": "蓝色科技包",
 		"italian": "Pacchetto Scientifico Blu",
 		"japanese": "ブルーサイエンスパック",
+		"polish": "Niebieski pakiet naukowy",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -311,6 +317,7 @@
 		"chinese": "绿色科技包",
 		"italian": "Pacchetto Scientifico Verde",
 		"japanese": "グリーンサイエンスパック",
+		"polish": "Zielony pakiet naukowy",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -321,6 +328,7 @@
 		"chinese": "黄色科技包",
 		"italian": "Pacchetto Scientifico Giallo",
 		"japanese": "イエローサイエンスパック",
+		"polish": "Żółty pakiet naukowy",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -331,6 +339,7 @@
 		"chinese": "红色科技包",
 		"italian": "Pacchetto Scientifico Rosso",
 		"japanese": "レッドサイエンスパック",
+		"polish": "Czerwony pakiet naukowy",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -341,6 +350,7 @@
 		"chinese": "氧气",
 		"italian": "Ossigeno",
 		"japanese": "酸素",
+		"polish": "Tlen",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -351,6 +361,7 @@
 		"chinese": "化肥",
 		"italian": "Fertilizzante",
 		"japanese": "肥料",
+		"polish": "Nawóz",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -361,6 +372,7 @@
 		"chinese": "蔬菜",
 		"italian": "Verdure",
 		"japanese": "野菜",
+		"polish": "Warzywa",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -371,6 +383,7 @@
 		"chinese": "肉类",
 		"italian": "Carne",
 		"japanese": "肉",
+		"polish": "Mięso",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -381,6 +394,7 @@
 		"chinese": "美味食品",
 		"italian": "Pasti Buoni",
 		"japanese": "食料品",
+		"polish": "Dobre posiłki",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -391,6 +405,7 @@
 		"chinese": "生存食品",
 		"italian": "Cibo di Sopravvivenza",
 		"japanese": "非常食",
+		"polish": "Surwiwalowe posiłki",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -401,6 +416,7 @@
 		"chinese": "公园",
 		"italian": "Parco",
 		"japanese": "公園",
+		"polish": "Park",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -411,6 +427,7 @@
 		"chinese": "文化",
 		"italian": "Cultura",
 		"japanese": "文化",
+		"polish": "Kultura",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -421,6 +438,7 @@
 		"chinese": "学校",
 		"italian": "Scuola",
 		"japanese": "学校",
+		"polish": "Szkoła",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -431,6 +449,7 @@
 		"chinese": "汽车",
 		"italian": "Automobile",
 		"japanese": "車",
+		"polish": "Samochody",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -441,6 +460,7 @@
 		"chinese": "居民",
 		"italian": "Cittadino in Arrivo",
 		"japanese": "住民",
+		"polish": "Mieszkańcy",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -451,6 +471,7 @@
 		"chinese": "居民",
 		"italian": "Cittadino in Partenza",
 		"japanese": "住民",
+		"polish": "Mieszkańcy",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -461,5 +482,6 @@
 		"spanish": "Energia",
 		"italian": "Energia",
 		"japanese": "電力",
+		"polish": "Energia",
 	}
 }
