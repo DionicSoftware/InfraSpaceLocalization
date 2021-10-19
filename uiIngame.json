@@ -505,6 +505,14 @@
 		"italian": "Sostituisci strada",
 		"spanish": "Reemplazar carretera",
 	},
+	"replaceRoadDesc": {
+		"english": "Also reverses road direction if you don't have a replacement road seleted",
+		"german": "Kehrt außerdem Straßenrichtung um wenn keine Straße zum ersetzen ausgewählt ist",
+	},
+	"reverseRoad": {
+		"english": "Reverse Road",
+		"german": "Straßenrichtung umkehren",
+	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
 		"german": "An Straße einrasten",
