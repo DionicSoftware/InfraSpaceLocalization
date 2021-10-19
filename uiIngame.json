@@ -327,6 +327,7 @@
 		"chinese": "%seconds%s后居住点升级。",
 		"italian": "L'habitat si aggiornerà in %seconds%s.",
 		"japanese": "居住地のアップグレードまで%seconds%秒",
+		"polish":"Budynek mieszkalny awansuje za %seconds%s.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -337,6 +338,7 @@
 		"chinese": "%seconds%s后居住点降级。",
 		"italian": "L'habitat si declasserà in %seconds%s.",
 		"japanese": "居住地のダウングレードまで%seconds%秒",
+		"polish": "Budynek mieszkalny zostanie zdegradowany za %seconds%s.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -347,6 +349,7 @@
 		"chinese": "居住点人口已满，满足升级的额外需求。",
 		"italian": "L'habitat è pieno. Soddisfa i bisogni supplementari per farlo aggiornare.",
 		"japanese": "居住地をアップグレードするためのニーズ",
+		"polish": "Budynek jest pełny. Zaspokój wszystkie potrzeby, aby mógł awansować",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -357,6 +360,7 @@
 		"chinese": "人们正在搬进。",
 		"italian": "Sta arrivando gente.",
 		"japanese": "住民が入居中",
+		"polish": "Nowi ludzie wprowadzaja się.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -367,6 +371,7 @@
 		"chinese": "人们正在搬离。",
 		"italian": "La gente sta andando via.",
 		"japanese": "住民が引っ越し中",
+		"polish": "Ludzie wyprowadzaja sie",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -377,6 +382,7 @@
 		"chinese": "没有选择研究:",
 		"italian": "I bisogni non sono soddisfatti.",
 		"japanese": "ニーズが不足",
+		"polish": "Potrzeby twoich mieszkańców nie sa zaspokojone!",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -387,6 +393,7 @@
 		"chinese": "居民感觉良好",
 		"italian": "Gli abitanti stanno bene",
 		"japanese": "住民の状態は良好",
+		"polish": "Mieszkańcy maja sie dobrze.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -397,6 +404,7 @@
 		"chinese": "没有选择研究:",
 		"italian": "Nessuna ricerca selezionata",
 		"japanese": "研究が未選択",
+		"polish": "Nie wybrano żadnych badań.",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -407,6 +415,7 @@
 		"chinese": "资源库存:",
 		"italian": "Risorse in magazzino:",
 		"japanese": "倉庫の物資:",
+		"polish": "Towary w magazynie:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -417,6 +426,7 @@
 		"chinese": "%level%级居民",
 		"italian": "Cittadini di livello %level%",
 		"japanese": "%level%レベルの住民",
+		"polish": "Mieszkańcy poziomu %level%",
 	},
 	"population": {
 		"english": "Population",
@@ -427,6 +437,7 @@
 		"italian": "Popolazione",
 		"russian": "Население",
 		"japanese": "現在の人口数",
+		"polish": "Populacja",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -437,6 +448,7 @@
 		"italian": "Posti di lavoro",
 		"russian": "Работы",
 		"japanese": "必要な労働者",
+		"polish": "Miejsca pracy",
 	},
 	"housing": {
 		"english": "Housing",
@@ -447,6 +459,7 @@
 		"italian": "Alloggi",
 		"russian": "Жилье",
 		"japanese": "移住可能な人口数",
+		"polish": "Dostępne łóżka",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -455,6 +468,7 @@
 		"russian": "Городская статистика",
 		"chinese": "城市统计",
 		"japanese": "都市統計",
+		"polish": "Statystyki miasta",
 
 	},
 	"statistics_population" : {
@@ -466,6 +480,7 @@
 		"italian": "Popolazione",
 		"russian": "Население",
 		"japanese": "人口数",
+		"polish": "Populacja",
 	},
 	"statistics_jobs" : {
 		"english": "Jobs",
@@ -476,6 +491,7 @@
 		"italian": "Posti di lavoro",	
 		"russian": "Работы",
 		"japanese": "労働者",
+		"polish": "Miejsca pracy",
 	},
 	"statistics_housing" : {
 		"english": "Housing",
@@ -586,14 +602,6 @@
 		"italian": "Sostituisci strada",
 		"spanish": "Reemplazar carretera",
 		"japanese": "置き換え",
-	},
-	"replaceRoadDesc": {
-		"english": "Also reverses road direction if you don't have a replacement road seleted",
-		"german": "Kehrt außerdem Straßenrichtung um wenn keine Straße zum ersetzen ausgewählt ist",
-	},
-	"reverseRoad": {
-		"english": "Reverse Road",
-		"german": "Straßenrichtung umkehren",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
