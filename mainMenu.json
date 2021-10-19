@@ -1845,6 +1845,7 @@
 		"spanish": "Sistema de felicidad",
 		"italian": "Sistema di felicità",
 		"japanese": "幸福システム",
+		"polish": "System szczęścia",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -1855,6 +1856,7 @@
 		"spanish": "Sistema mejorado para decidir cuándo una vivienda se moderniza. Considera los edificios de servicio cercanos, el ruido, las reglamentaciones, etc.",
 		"italian": "Sistema migliorato per decidere quando un habitat sarà migliorato. Tiene conto degli edifici di servizio vicini, del rumore, delle ordinanze, ed altro.",
 		"japanese": "住居地のアップグレードする時の決定の\n仕組みを改善します。\n近くの建築設備、騒音、条例などを考慮に\n入れます。",
+		"polish": "Poprawiony system decydujacy kiedy dom awansuje na kolejny poziom. Bierze pod uwagę dostęp do usług, hałas, przepisy i inne.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -1865,6 +1867,7 @@
 		"spanish": "Soporte de Mods",
 		"italian": "Supporto dei mod",
 		"japanese": "Modのサポート",
+		"polish": "Wsparcie dla modów",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -1875,6 +1878,7 @@
 		"spanish": "Soporte de mods de balance, mods de construcción, mods de recursos, mods de IU, mods de infraestructura y Scriptmods.",
 		"italian": "Supporto dei mod di bilanciamento, di costruzione, di risorsa, di UI, di infrastruttura e di script.",
 		"japanese": "バランス、建設、資源、UI、公共施設、\nスクリプト等のModのサポートをします。",
+		"polish": "Wsparcie dla modów zmieniających balans, dodających budynki i zasoby, zmieniających interface użytkownika, czy infrastrukturę, modów ze sktyptami.",
 	},	
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -1885,6 +1889,7 @@
 		"spanish": "Tuberías de líquidos y gases",
 		"italian": "Tubi per Liquidi e Gas",
 		"japanese": "液体および気体用パイプ",
+		"polish": "Wodo i gazociagi",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -1895,6 +1900,7 @@
 		"spanish": "¿Y si pudieras transportar grandes cantidades de recursos por el subsuelo o a través de tuberías? ¿Y si tuvieras que producir agua para sobrevivir?",
 		"italian": "E se potessi trasportare grandi quantità di risorse sotto terra o dentro i tubi? E se avessi bisogno di produrre acqua per sopravvivere?",
 		"japanese": "地下やパイプラインで大量の資源を\n輸送できるとしたら？生き残るために\n水を生産する必要があるとしたら？",
+		"polish": "Co gdybys mógł transportowac duże ilości zasobów pod ziemia lub za pomopca rurociągów? A co gdybys musiał produkowac wodę, aby przetrwać?",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -1905,6 +1911,7 @@
 		"spanish": "Sistema de calefacción",
 		"italian": "Sistema di riscaldamento",
 		"japanese": "温度システム",
+		"polish": "System ciepła",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -1915,6 +1922,7 @@
 		"spanish": "Los sistemas de soporte de vida son importantes en el espacio - mantener caliente o fría tu ciudad podría ser crítico.",
 		"italian": "I sistemi di sopravvivenza sono importanti nello spazio - tenere la tua città abbastanza calda o fresca può essere critico.",
 		"japanese": "生命維持システムは宇宙では重要です。\n都市を十分に暖かくまたは涼しく保つことが必要です。",
+		"polish": "Systemu podtrzymywania życia są ważne na obcych planetach. Utrzymanie odpowiedniej temperatury może okazac sie kluczowe.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -1925,6 +1933,7 @@
 		"spanish": "Ciclo de día y noche",
 		"italian": "Ciclo giorno-notte",
 		"japanese": "昼夜サイクル",
+		"polish": "Cykl dnia i nocy",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -1935,6 +1944,7 @@
 		"spanish": "Se ve asombroso y tienes que preparar tu red eléctrica para la noche. Podría funcionar bien con el sistema de calefacción - los planetas de arena se enfrían mucho en la noche.",
 		"italian": "Sembra bello e devi preparare la tua rete energetica per la notte. Può anche funzionare bene con il sistema di riscaldamento - i pianeti sabbiosi si raffreddano in fretta di notte.",
 		"japanese": "夜間の電力ネットワークを準備する必要があります。\n温度システムもうまく機能させる必要があります。\n砂の惑星の夜は真っ暗で急速に冷え込むからです。",
+		"polish": "Wygląda dobrze, a ty będziesz musiał przygotować siec energetyczną na noc. Może współpracowac dobrze z systemem cieła - piaszczyste planety szybko traca temperature, kiedy zapada zmrok.",
 	},	
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
