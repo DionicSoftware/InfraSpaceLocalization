@@ -1711,7 +1711,7 @@
 		"russian": "Голосуйте за понравившиеся функции, чтобы сообщить нам, на чем мы должны сосредоточиться.\nФункционал, который понравится сообществу и хорошо впишется в игру, будет добавлен.",
 		"spanish": "Votar para sus funcionalidades favoritas, así sabemos sobre cual debemos concentrarnos.\nElegiremos en esta lista según los deseos de la comunidad y su pertinencia.",
 		"italian": "Vota per le tue caratteristiche preferite per farci sapere su che cosa dovremmo concentrarci.\nSceglieremo dalla lista in base ai desideri della comunità e a come si inserisce nel gioco.",
-		"japanese": "何に焦点を当てるべきか判断するために興味のある機能に投票してください。\nコミュニティの希望に基づくリストから、またこれらがゲームにとても適合しているものを選択します。",
+		"japanese": "何に焦点を当てるべきか判断するために興味のある機能に投票してください。\nコミュニティの希望に基づくリストからゲームにとても適合しているものを選択してください。",
 	},
 	"vote": {
 		"english": "Vote",
@@ -1772,7 +1772,7 @@
 		"russian": "Избегайте пробок на перекрестках и расставляйте приоритеты для машин, которые должны проезжать в первую очередь.",
 		"spanish": "Evita que sus intersecciones se atascan y da prioridades a algunos vehículos.",
 		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
-		"japanese": "交差点が渋滞しないように最初に\n発進できる車に優先順位を付けます。",
+		"japanese": "交差点が渋滞しないように\n発進する車に優先順位を付けます。",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -1792,7 +1792,7 @@
 		"russian": "Автомагистрали хороши, но иногда нужно перевозить тысячи тонн материалов через полгорода.",
 		"spanish": "Las autovías son muy bien, pero a veces hay que transportar miles de toneladas de materiales a traves de la ciudad.",
 		"italian": "Le autostrade sono belle, ma a volte hai bisogno di trasportare migliaia di tonnellate di materiali attraversando mezza città.",
-		"japanese": "高速道路は良いものですが、時には街の\n半分にも匹敵する何千トンの資源を輸送する\n必要があります。",
+		"japanese": "高速道路は良いものですが、時には都市の\n半分にも匹敵する何千トンの資源を輸送する\n必要があります。",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -1812,7 +1812,7 @@
 		"russian": "Достигли максимума в своем городе и закончили дерево развития? В поисках последнего вызова?",
 		"spanish": "Su ciudad ha llegado al nivel maximal y ha terminado el arbol de tecnología ? Está buscando un ultimo reto ?",
 		"italian": "Hai massimizzato la tua città e terminato l'albero delle tecnologie? Sei in cerca di un'ultima sfida?",
-		"japanese": "あなたは自分の街を最大限に活用して\n技術ツリーを完成させましたか？\nそれとも他の最後の課題が必要ですか？",
+		"japanese": "あなたは自分の都市を最大限に活用して\n技術ツリーを完成させましたか？\nそれとも他の最後の課題が必要ですか？",
 	},	
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -1871,7 +1871,7 @@
 		"chinese": "支持平衡模组，建筑模组，资源模组，\nUI模组，基础设施模组和脚本模组。",
 		"russian": "Поддержка балансирующих модификаций, скриптов, строительных модов, модов на ресурсы, UI и инфраструктуру.",
 		"italian": "Supporto dei mod di bilanciamento, di costruzione, di risorsa, di UI, di infrastruttura e di script.",
-		"japanese": "バランス、建設、資源、UI、公共施設、\nスクリプト等のnModのサポートをします。",
+		"japanese": "バランス、建設、資源、UI、公共施設、\nスクリプト等のModのサポートをします。",
 	},	
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -1907,7 +1907,7 @@
 		"chinese": "生命维持系统在太空中很重要，让你的城市\n保持足够的温度或凉爽或许很重要。",
 		"russian": "Системы жизнеобеспечения важны в космосе - сохранение тепла или прохлады в вашем городе может иметь решающее значение.",
 		"italian": "I sistemi di sopravvivenza sono importanti nello spazio - tenere la tua città abbastanza calda o fresca può essere critico.",
-		"japanese": "生命維持システムは宇宙では重要です。\n街を十分に暖かくまたは涼しく保つことが必要です。",
+		"japanese": "生命維持システムは宇宙では重要です。\n都市を十分に暖かくまたは涼しく保つことが必要です。",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -1925,7 +1925,7 @@
 		"chinese": "看起来很酷，你需要为夜间准备电网。 \n也可以很好地与温度系统配合使用 - 沙地行星在夜间会迅速降温。",
 		"russian": "Выглядит круто, и вам нужно будет подготавливать свою электросеть к ночи. Может хорошо работать и с тепловой системой - песчаные планеты ночью становятся очень холодными.",
 		"italian": "Sembra bello e devi preparare la tua rete energetica per la notte. Può anche funzionare bene con il sistema di riscaldamento - i pianeti sabbiosi si raffreddano in fretta di notte.",
-		"japanese": "夜間の電力ネットワークを準備する必要があります。\n熱システムもうまく機能させる可能性があります。\n砂の惑星の夜は真っ暗で急速に冷え込むからです。",
+		"japanese": "夜間の電力ネットワークを準備する必要があります。\n温度システムもうまく機能させる必要があります。\n砂の惑星の夜は真っ暗で急速に冷え込むからです。",
 	},	
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -1943,7 +1943,7 @@
 		"chinese": "会发生事故，你的城市需要紧急服务\n来处理它们 - 做好准备！",
 		"russian": "Аварии случаются, и вашему городу нужны службы экстренной помощи, чтобы справиться с ними - будьте готовы!",
 		"italian": "Gli incidenti accadono e la tua città ha bisogno di servizi di emergenza per gestirli - sii preparato!",
-		"japanese": "事故が発生した街はそれらに対処するために\n緊急サービスを必要とします。\nそのための準備をしてください！",
+		"japanese": "事故が発生した都市はそれらに対処するために\n緊急サービスを必要とします。\nそのための準備をしてください！",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
