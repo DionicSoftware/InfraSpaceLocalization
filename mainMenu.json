@@ -219,6 +219,7 @@
 		"spanish": "Comunidad",
 		"italian": "Community",
 		"japanese": "コミュニティー",
+		"polish": "Społeczność",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -229,6 +230,7 @@
 		"spanish": "Esta es una Version Alpha",
 		"italian": "Questa è una versione Alpha",
 		"japanese": "これはアルファーバージョンです",
+		"polish": "Jest to wersja Alpha",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -239,6 +241,7 @@
 		"spanish": "Este juego aún no está terminado. Puede contener bugs.\n\nEstamos lanzando estas versiones tempranas a los jugadores para conseguir reatroalimentación del juego y encontrar bugs mucho antes del lanzamiento oficial.\n\n¡Haznos saber si te gusta",
 		"italian": "Questo gioco non è ancora finito. Può contenere dei bugs. \n\nStiamo rilasciando queste versioni preliminari ai giocatori così che possiamo avere del feedback sul gameplay e trovare bugs prima della versione definitiva.\n\nFateci sapere se vi piace!",
 		"japanese": "このゲームはこれで終わりではありません。バグが含まれている可能性があります。\n\n公式リリースの前にプレイに関するフィードバック、バグの発見のためにこのアルファーバージョンを解放しています。\n\nまた気に入った点があればお知らせください！",
+		"polish": "Gra nie jest jeszcze skończona. Może zawierać bugi.\n\nWydaliśmy wczesna wersję gry, aby gracze mogli przesłac nam swoje opinie na temat grywalności oraz znaleźć bugi, bysmy mogli je wyelminowac jeszcze przed oficjalna premierą.\n\nDaj znać jak podoba ci sie gra!",
 	},
 
   // SAVE MENU
@@ -323,6 +326,7 @@
 		"spanish": "Puesto de Avanzada Theta-3",
 		"italian": "Avamposto Theta-3",
 		"japanese": "前哨基地 Theta-3",
+		"polish": "Kolonia Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -606,6 +610,7 @@
 		"spanish": "Pantalla Completa Exclusiva",
 		"italian": "Schermo Intero Esclusivo",
 		"japanese": "排他的フル",
+		"polish": "Dedykowany pełny ekran",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -900,6 +905,7 @@
 		"russian": "Отображение руководства",
 		"italian": "Mostra Tutorial",
 		"japanese": "チュートリアルの表示",
+		"polish": "Pokaż samouczki",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -910,6 +916,7 @@
 		"russian": "Сбросить пройденные руководства",
 		"italian": "Resetta i tutorial conosciuti",
 		"japanese": "チュートリアルをリセット",
+		"polish": "Zresetuj ukończone samouczki",
 	},
 
 	// OTHER
@@ -1033,6 +1040,7 @@
 		"spanish": "¡Hurra!",
 		"italian": "Evviva!",
 		"japanese": "やったー!",
+		"polish": "Hurra!",
 	},
 
 
@@ -1215,6 +1223,7 @@
 		"spanish": "Construcción",
 		"italian": "Costruzione",
 		"japanese": "建設",
+		"polish": "Konstrukcja",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1225,6 +1234,7 @@
 		"spanish": "Elevar carretera",
 		"italian": "Eleva la Strada",
 		"japanese": "道路を上昇",
+		"polish": "Podnies drogę",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1235,6 +1245,7 @@
 		"spanish": "Bajar carretera",
 		"italian": "Abbassa la Strada",
 		"japanese": "道路を下降",
+		"polish": "Obniż drogę",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1360,6 +1371,7 @@
 		"spanish": "Modo captura de pantalla",
 		"italian": "Modalità di Screenshot",
 		"japanese": "スクリーンショット画面",
+		"polish": "Tryb fotograficzny",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1388,6 +1400,7 @@
 		"russian": "Открыть скриншоты / сохранения",
 		"italian": "Apri screenshot / Salvataggi",
 		"japanese": "Screenshots/Savesフォルダー",
+		"polish": "Otwórz folder ze zdjęciami/zapisami",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1629,6 +1642,7 @@
 		"russian": "Page Up",
 		"chinese": "Page Up",
 		"italian": "Pagina Sù",
+		"polish": "PageUp",
 	},
 	"key_PageDown":  {
 		"english": "Page Down",
@@ -1641,6 +1655,7 @@
 		"russian": "Page Down",
 		"chinese": "Page Down",
 		"italian": "Pagina Giù",
+		"polish": "PageDown",
 	},
 
 
