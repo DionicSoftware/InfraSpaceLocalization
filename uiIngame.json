@@ -615,6 +615,16 @@
 		"japanese": "置き換え",
 		"polish": "Zastąp drogę",
 	},
+	"replaceRoadDesc": {
+		"english": "Also reverses road direction if you don't have a replacement road seleted",
+		"german": "Kehrt außerdem Straßenrichtung um wenn keine Straße zum ersetzen ausgewählt ist",
+		"french": "Inverse la direction de la route sauf pour les remplacements de routes",
+	},
+	"reverseRoad": {
+		"english": "Reverse Road",
+		"german": "Straßenrichtung umkehren",
+		"french": "Inverser les routes",
+	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
 		"german": "An Straße einrasten",
