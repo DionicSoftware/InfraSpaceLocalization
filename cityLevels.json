@@ -9,6 +9,7 @@
                 "italian": "Avamposto",
 		"japanese": "前哨基地",
 		"polish": "Kolonia",
+		"czech": "Kolonie",
 	},
 	"cityLevel2":  {
 		"english": "Settlement",
@@ -20,6 +21,7 @@
                 "italian": "Insediamento",
 		"japanese": "入植地",
 		"polish": "Osada",
+		"czech": "Osada",
 	},
 	"cityLevel3":  {
 		"english": "Small Town",
@@ -31,6 +33,7 @@
                 "italian": "Cittadina Piccola",
 		"japanese": "村",
 		"polish": "Miasteczko",
+		"czech": "Městys",
 	},
 	"cityLevel4":  {
 		"english": "Large Town",
@@ -42,6 +45,7 @@
                 "italian": "Cittadina Grande",
 		"japanese": "町",
 		"polish": "Miasto",
+		"czech": "Město",
 	},
 	"cityLevel5":  {
 		"english": "City",
@@ -53,6 +57,7 @@
                 "italian": "Città",
 		"japanese": "都市",
 		"polish": "Metropolia",
+		"czech": "Metropole",
 	},
 	"cityLevel6":  {
 		"english": "Planetary Capital",
@@ -64,5 +69,6 @@
                 "italian": "Capitale Planetaria",
 		"japanese": "首都",
 		"polish": "Stolica planetarna",
+		"czech": "Hlavní město planety",
 	},
 }
