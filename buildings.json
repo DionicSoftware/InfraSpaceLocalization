@@ -364,6 +364,7 @@
     "italian": "Fabbrica di Intrattenimento Educativo VR",
 	  "japanese": "教育用VR生産工場",
 	  "polish": "Fabryka sprzętów edukacyjno-rozrywkowych VR",
+	  "czech": "Továrna na zábavní VR",
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -375,6 +376,7 @@
 	  "japanese": "イリジウム推進剤生産工場",
 	  "polish": "Rafineria paliwa irydowego",
 	  "spanish": "Fábrica de propelente de iridio",
+	  "czech": "Továrna na iridiové palivo",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -386,6 +388,7 @@
 	  "spanish":"Fábrica de unidades de control de IA",
 	  "japanese": "AI制御ユニット生産工場",
 	  "polish": "Fabryka paneli kontrolnych sztucznej inteligencji",
+	  "czech": "Továrna na kontrolní jednotky umělé inteligence",
   },
 
 
@@ -399,6 +402,7 @@
     "italian": "Fabbrica di Moduli Scientifici Blu",
 	  "japanese": "ブルーサイエンスパック生産工場",
 	  "polish": "Fabryka niebieskich pakietów naukowych",
+	  "czech": "Továrna na modré vědecké balíčky",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -410,6 +414,7 @@
     "italian": "Fabbrica di Moduli Scientifici Verdi",
 	  "japanese": "グリーンサイエンスパック生産工場",
 	  "polish": "Fabryka zielonych pakietów naukowych",
+	  "czech": "Továrna na zelené vědecké balíčky",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -421,6 +426,7 @@
     "italian": "Fabbrica di Moduli Scientifici Gialli",
 	  "japanese": "イエローサイエンスパック生産工場",
 	  "polish": "Fabryka żółtych pakietów naukowych",
+	  "czech": "Továrna na žluté vědecké balíčky",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -432,6 +438,7 @@
     "italian": "Fabbrica di Moduli Scientifici Rossi",
 	  "japanese": "レッドサイエンスパック生産工場",
 	  "polish": "Fabryka czerwonych pakietów naukowych",
+	  "czech": "Továrna na červené vědecké balíčky",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -443,6 +450,7 @@
     "italian": "Laboratorio di Ricerca",
 	  "japanese": "テクノロジー研究所",
 	  "polish": "Labolatorium",
+	  "czech": "Výzkumná laboratoř",
   },
 
 
@@ -458,6 +466,7 @@
     "italian": "Deposito",
 	  "japanese": "倉庫",
 	  "polish": "Skład materiałów budowlanych",
+	  "czech": "Sklad stavebních materiálů",
   },
   "spacePort": {
     "english": "Space Port",
@@ -469,6 +478,7 @@
     "italian": "Spazioporto",
 	  "japanese": "宇宙港",
 	  "polish": "Port kosmiczny",
+	  "czech": "Vesmírný přístav",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -480,6 +490,7 @@
     "italian": "Centro di Riciclaggio",
 	  "japanese": "リサイクル工場",
 	  "polish": "Centrum recyklingu",
+	  "czech": "Recyklační centrum",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -491,6 +502,7 @@
     "italian": "Stazione di Arricchimento del Suolo",
 	  "japanese": "土壌濃縮施設",
 	  "polish": "Zakład użyźniania gleby",
+	  "czech": "Zařízení na obohacování půdy",
   },
 
 
@@ -504,6 +516,7 @@
     "italian": "Trasformatore Atmosferico",
 	  "japanese": "大気生産施設",
 	  "polish": "Jednostka pozyskiwania powietrza",
+	  "czech": "Zařízení na zpracování vzduchu",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -515,6 +528,7 @@
     "italian": "Trasformatore d'Ossigeno",
 	  "japanese": "酸素生産施設",
 	  "polish": "Jednostka pozyskiwania tlenu",
+	  "czech": "Zařízení na výrobu kyslíku",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -526,6 +540,7 @@
     "italian": "Trasformatore di Carbonio",
 	  "japanese": "炭素生産施設",
 	  "polish": "jednostka pozyskiwania wegla",
+	  "czech": "Zařízení na výrobu uhlíku",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -537,6 +552,7 @@
     "italian": "Fattoria Semplice",
 	  "japanese": "簡易農場",
 	  "polish": "Podstawowa farma",
+	  "czech": "Základní farma",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -548,6 +564,7 @@
     "italian": "Fabbrica di Fertilizzante",
 	  "japanese": "肥料工場",
 	  "polish": "Fabryka nawozu",
+	  "czech": "Továrna na hnojivo",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -559,6 +576,7 @@
     "italian": "Fattoria di Verdure",
 	  "japanese": "野菜農場",
 	  "polish": "Farma warzywna",
+	  "czech": "Zeleninová farma",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -570,6 +588,7 @@
     "italian": "Laboratorio delle Carni",
 	  "japanese": "精肉場",
 	  "polish": "Labolatorium mięsa",
+	  "czech": "Masová laboratoř",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -581,6 +600,7 @@
     "italian": "Fabbrica di Pietanze",
 	  "japanese": "食品生産工場",
 	  "polish": "Labolatorium pożywienia",
+	  "czech": "Továrna na jídlo",
   },
 
 
@@ -594,6 +614,7 @@
     "italian": "Habitat di Base",
 	  "japanese": "基本的な居住地",
 	  "polish": "Podstawowy dom",
+	  "czech": "Základní dům",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -605,6 +626,7 @@
     "italian": "Habitat Decente",
 	  "japanese": "一般的な居住地",
 	  "polish": "Przyzwoity dom",
+	  "czech": "Ucházející dům",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -616,6 +638,7 @@
     "italian": "Habitat Confortevole",
 	  "japanese": "快適な居住地",
 	  "polish": "Wygodny dom",
+	  "czech": "Komfortní dům",
   },
   "habitatLevel4": {
 		"english": "Residential building",
@@ -627,6 +650,7 @@
     "italian": "Edificio Residenziale",
 	  "japanese": "住宅用ビル",
 	  "polish": "Blok mieszkalny",
+	  "czech": "Bytovka",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -638,6 +662,7 @@
     "italian": "Torre Residenziale",
 	  "japanese": "住宅用高層ビル",
 	  "polish": "Wierzowiec mieszkalny",
+	  "czech": "Panelák",
   },
 	"habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -649,6 +674,7 @@
     "italian": "Torre Residenziale di Lusso",
 		"japanese": "高級住宅用高層ビル",
 		"polish": "Luksusowy wierzowiec mieszkalny",
+		"czech": "Luxusní věžák",
   },
 
 
@@ -662,6 +688,7 @@
     "italian": "Parco",
 	  "japanese": "公園",
 	  "polish": "Park",
+	  "czech": "Park",
   },
   "arena": {
     "english": "Stadium",
@@ -673,6 +700,7 @@
     "italian": "Stadio",
 	  "japanese": "スタジアム",
 	  "polish": "Stadion",
+	  "czech": "Stadion",
   },
   "school": {
     "english": "School",
@@ -684,6 +712,7 @@
     "italian": "Scuola",
 	  "japanese": "学校",
 	  "polish": "Szkoła",
+	  "czech": "Škola",
   },
 
 	"powerPole": {
@@ -696,6 +725,7 @@
     "italian": "Palo della Luce",
 		"japanese": "電柱",
 		"polish": "słup elektryczny",
+		"czech": "Elektrický sloup",
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
@@ -707,6 +737,7 @@
     "italian": "Sottostazione Elettrica",
 		"japanese": "変電所",
 		"polish": "Rozdzielnia elektryczna",
+		"czech": "Rozvodna elektřiny",
 	},
 	"windTurbine": {
 		"english": "Wind Turbine",
@@ -718,6 +749,7 @@
     "italian": "Turbina Eolica",
 		"japanese": "風力発電所",
 		"polish": "Elektrownia wiartowa",
+		"czech": "Větrná turbína",
 	},
 	"solarPowerPlant": {
 		"english": "Solar Power Plant",
@@ -729,6 +761,7 @@
     "italian": "Centrale Elettrica ad Energia Solare",
 		"japanese": "太陽光発電所",
 		"polish": "Elektrownia słoneczna",
+		"czech": "Fotovoltaická elektrárna",
 	},
 	"nuclearPowerPlant": {
 		"english": "Nuclear Power Plant",
@@ -740,6 +773,7 @@
     "italian": "Centrale Elettrica Nucleare",
 		"japanese": "原子力発電所",
 		"polish": "Elektrownia jądrowa",
+		"czech": "Jaderná elektrárna",
 	},
 	"fastNeutronReactor": {
 		"english": "Fast Neutron Reactor",
@@ -751,6 +785,7 @@
     "italian": "Reattore a Neutroni Veloci",
 		"japanese": "高速中性子発電所",
 		"polish": "Szybka elektrownia jądrowa",
+		"czech": "Reaktor na rychlé neutrony",
 	},
   "signStanding": {
     "english": "Great Standing Sign",
@@ -762,6 +797,7 @@
     "italian": "Grande cartellone verticale",
 	  "japanese": "立て看板",
 	  "polish": "Znak pionowy",
+	  "czech": "Stojící nápis",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -773,6 +809,7 @@
     "italian": "Grande cartellone a terra",
 	  "japanese": "置き看板",
 	  "polish": "Znak poziomy",
+	  "czech": "Ležící nápis",
   },
   "monumentDrill": {
     "english": "Collosal Adamantine Drill",
@@ -784,5 +821,6 @@
     "italian": "Trivella colossale per adamantio",
 	  "japanese": "アダマンタイト採掘場",
 	  "polish": "Kolosalne wiertło adamantowe",
+	  "czech": "Obři adamantinový vrták",
   }
 }
