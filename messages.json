@@ -8,6 +8,7 @@
 		"chinese": "城市等级提升！",
 		"italian": "La Città è Aumentata di Livello!",
 	  	"polish": "Miasto osiągnęło nowy poziom!",
+	  	"czech": "Úroveň města se zvýšila!",
 	},
 	"message_cityLevelUpText":  {
 		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
@@ -18,6 +19,7 @@
 		"chinese": "恭喜，你的城市刚刚达到%cityLevel%级。解锁了用于研究的新技术。",
 		"italian": "Congratulazioni, la tua città ha appena raggiunto il livello %cityLevel%. Hai sbloccato nuove tecnologie nella ricerca.",
 		"polish": "Gratulacje! Twoje miasto właśnie osiągnęło poziom %cityLevel%. Odblokowałeś nowe technologie zbadania.",
+		"czech": "Gratulujemem tvé město dosáhlo úrovně %cityLevel%. Odemkli se ti nové budovy a technologie pro výzkum.",
 	},
 	"message_cityLevelDownTitle":  {
 		"english": "City demoted!",
@@ -28,6 +30,7 @@
 		"chinese": "城市降级！",
 		"italian": "La città è stata degradata!",
 		"polish": "Miasto zdegradowane!",
+		"czech": "Město degradovalo!",
 	},
 	"message_cityLevelDownText":  {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
@@ -38,6 +41,7 @@
 		"chinese": "你没有为你的居民提供食物。你的城市已被降级，直到改变现状。",
 		"italian": "Non sei riuscito a soddisfare i bisogni dei cittadini. La tua città è stata degradata fino a quando non riuscirai a ripristinare le condizioni precedenti.",
 		"polish": "Nie udało ci się zaspokoić potrzeb mieszkańców. Twoje miasto zostało zdegradowane do momentu, kiedy nie rozwiążesz tego problemu.",
+		"czech": "Selhal jsi v zásobování tvých obyvatel. Tvé město bude degradované dokud se situace nezlepší.",
 	},
 	"attention":  {
 		"english": "Attention!",
@@ -48,6 +52,7 @@
 		"chinese": "请注意！",
 		"italian": "Attenzione!",
 		"polish": "Uwaga!",
+		"czech": "Pozor!",
 	},
 	"message_debugModeText":  {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
@@ -58,5 +63,6 @@
 		"chinese": "调试模式旨在用于开发。如果你启用调试模式，可能会遇到错误。",
 		"italian": "La modalità di debug deve essere utilizzata durante lo sviluppo. Se abiliti la modalità debug, potresti avere dei bug.",
 		"polish": "Tryb deweloperski został stworzony tylko z myślą o deweloperach. Aktywowanie go może doprowadzić do pojawienia sie bugów.",
+		"czech": "Developerský mód se používá pro vývoj. Jeho zapnutím můžeš narazit na bugy.",
 	},
 }
