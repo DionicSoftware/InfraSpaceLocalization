@@ -9,6 +9,7 @@
 		"italian": "Strada in Ghiaia",
 		"japanese": "砂利道",
 	  	"polish": "Żwirowa droga",
+	  	"czech": "Štěrková cesta",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -20,6 +21,7 @@
 		"italian": "Strada in Cemento",
 		"japanese": "舗装道路",
 		"polish": "Betonowa droga",
+		"czech": "Betonová cesta",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -31,6 +33,7 @@
 		"italian": "Autostrada",
 		"japanese": "高速道路",
 		"polish": "Autostrada",
+		"czech": "Dálnice",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -42,5 +45,6 @@
 		"italian": "Super-autostrada",
 		"japanese": "アウトバーン",
 		"polish": "Superautostrada",
+		"czech": "Superdálnice",
 	},
 }
