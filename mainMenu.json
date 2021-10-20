@@ -220,6 +220,7 @@
 		"italian": "Community",
 		"japanese": "コミュニティー",
 		"polish": "Społeczność",
+		"czech": "Komunita",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -231,6 +232,7 @@
 		"italian": "Questa è una versione Alpha",
 		"japanese": "これはアルファーバージョンです",
 		"polish": "Jest to wersja Alpha",
+		"czech": "Toto je Alpha verze",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -242,6 +244,7 @@
 		"italian": "Questo gioco non è ancora finito. Può contenere dei bugs. \n\nStiamo rilasciando queste versioni preliminari ai giocatori così che possiamo avere del feedback sul gameplay e trovare bugs prima della versione definitiva.\n\nFateci sapere se vi piace!",
 		"japanese": "このゲームはこれで終わりではありません。バグが含まれている可能性があります。\n\n公式リリースの前にプレイに関するフィードバック、バグの発見のためにこのアルファーバージョンを解放しています。\n\nまた気に入った点があればお知らせください！",
 		"polish": "Gra nie jest jeszcze skończona. Może zawierać bugi.\n\nWydaliśmy wczesna wersję gry, aby gracze mogli przesłac nam swoje opinie na temat grywalności oraz znaleźć bugi, bysmy mogli je wyelminowac jeszcze przed oficjalna premierą.\n\nDaj znać jak podoba ci sie gra!",
+		"czech": "Tato hra zatím není hotova. Může obsahovat bugy.\n\nVydáváme tuto ranou verzi hry, aby nám hráči mohli dát zpětnou vazbu o hratelnosti a nahlásit bugy dlouho před oficiálním vydáním.\n\nDejte nám vědět jak se vám líbí!",
 	},
 
   // SAVE MENU
@@ -327,6 +330,7 @@
 		"italian": "Avamposto Theta-3",
 		"japanese": "前哨基地 Theta-3",
 		"polish": "Kolonia Theta-3",
+		"czech": "Kolonie Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -611,6 +615,7 @@
 		"italian": "Schermo Intero Esclusivo",
 		"japanese": "排他的フル",
 		"polish": "Dedykowany pełny ekran",
+		"czech": "Úplný Fullscreen",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -906,6 +911,7 @@
 		"italian": "Mostra Tutorial",
 		"japanese": "チュートリアルの表示",
 		"polish": "Pokaż samouczki",
+		"czech": "Zobrazit Tutoriál",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -917,6 +923,7 @@
 		"italian": "Resetta i tutorial conosciuti",
 		"japanese": "チュートリアルをリセット",
 		"polish": "Zresetuj ukończone samouczki",
+		"czech": "Obnovit Tutoriál",
 	},
 
 	// OTHER
@@ -1041,6 +1048,7 @@
 		"italian": "Evviva!",
 		"japanese": "やったー!",
 		"polish": "Hurra!",
+		"czech": "Hurá!",
 	},
 
 
@@ -1224,6 +1232,7 @@
 		"italian": "Costruzione",
 		"japanese": "建設",
 		"polish": "Konstrukcja",
+		"czech": "Stavba",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1235,6 +1244,7 @@
 		"italian": "Eleva la Strada",
 		"japanese": "道路を上昇",
 		"polish": "Podnies drogę",
+		"czech": "Zvýšit silnici",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1246,6 +1256,7 @@
 		"italian": "Abbassa la Strada",
 		"japanese": "道路を下降",
 		"polish": "Obniż drogę",
+		"czech": "Snížit silnici",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1372,6 +1383,7 @@
 		"italian": "Modalità di Screenshot",
 		"japanese": "スクリーンショット画面",
 		"polish": "Tryb fotograficzny",
+		"czech": "Fotografický mód",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1402,6 +1414,7 @@
 		"italian": "Apri screenshot / Salvataggi",
 		"japanese": "Screenshots/Savesフォルダー",
 		"polish": "Otwórz folder ze zdjęciami/zapisami",
+		"czech": "Otevři Snímky/Uložené Hry",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1691,6 +1704,7 @@
 		"italian": "Roadmap",
 		"japanese": "ロードマップ",
 		"polish": "Plany na przyszłość",
+		"czech": "Plány Do Budoucnosti",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -1702,6 +1716,7 @@
 		"italian": "Nessuna Roadmap trovata. \n\nSei connesso ad internet?",
 		"japanese": "ロードマップが見つかりません。\n\nインターネットに接続されていますか?",
 		"polish": "Nie znaleziono zadnych planów.\n\nMasz połączenie z internetem?",
+		"czech": "Nenanlezeny žádné plány.\n\nNemáte problémy s připojením?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -1713,6 +1728,7 @@
 		"italian": "Caratteristiche Garantite per l'Accesso Anticipato",
 		"japanese": "アーリーアクセスに実装される機能",
 		"polish": "Funkcjonalności gwarantowane we wczesnym dostępie",
+		"czech": "Funkce garantované pro předběžný pŕistup",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -1724,6 +1740,7 @@
 		"italian": "Vota per le funzionalità aggiuntive",
 		"japanese": "追加機能に投票",
 		"polish": "Głosuj na funkcjonalności dodatkowe",
+		"czech": "Hlasujte pro další funkce",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -1735,6 +1752,7 @@
 		"italian": "Vota per le tue caratteristiche preferite per farci sapere su che cosa dovremmo concentrarci.\nSceglieremo dalla lista in base ai desideri della comunità e a come si inserisce nel gioco.",
 		"japanese": "何に焦点を当てるべきか判断するために興味のある機能に投票してください。\nコミュニティの希望に基づくリストからゲームにとても適合しているものを選択してください。",
 		"polish": "Głosuj na swoje ulubione funkcjonalności, żebyśmy wiedzieli na czym powinniśmy sie skupić.\nWybierzemy z tej listy na podstawie głosów społeczności oraz tego, jak bardzo nowe funkcje wpasuja sie w grę.",
+		"czech": "Hlasuj pro svou oblíbenou funkci, abychom věděli na co se soustředit.\n\nBudeme vybírat ze seznamu založeném na přáních komunity tak, jak dobře půjdou implementovat do hry",
 	},
 	"vote": {
 		"english": "Vote",
@@ -1746,6 +1764,7 @@
 		"italian": "Vota",
 		"japanese": "投票",
 		"polish": "Głosuj",
+		"czech": "Hlasuj",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -1757,6 +1776,7 @@
 		"italian": "Discuti",
 		"japanese": "議論",
 		"polish": "Forum",
+		"czech": "Fórum",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -1768,6 +1788,7 @@
 		"italian": "Riporta un bug.",
 		"japanese": "バグを報告",
 		"polish": "Zgłoś buga",
+		"czech": "Nahlásit bug",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -1779,6 +1800,7 @@
 		"italian": "Traduci InfraSpace",
 		"japanese": "InfraSpaceの翻訳",
 		"polish": "Przetłumacz InfraSpace",
+		"czech": "Překládat InfraSpace",
 	},
 	
 	"roadmap_trafficTools_title": {
@@ -1791,6 +1813,7 @@
 		"italian": "Semafori e Cartelli Stradali",
 		"japanese": "交通標識と信号機",
 		"polish": "Znaki drogowe i sygnalizacja świetlna",
+		"czech": "Dopravní značky a semafory",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -1802,6 +1825,7 @@
 		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
 		"japanese": "交差点が渋滞しないように\n発進する車に優先順位を付けます。",
 		"polish": "Utrzymaj płynność ruchu na skrzyżowaniach i zdecyduj które pojazdy pojadą najpierw.",
+		"czech": "Nedovol, aby se tvé křižovatky ucpaly a urči, ktará auta budou mít přednost.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -1813,6 +1837,7 @@
 		"italian": "Treni",
 		"japanese": "鉄道",
 		"polish": "Pociągi",
+		"czech": "Vlaky",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -1824,6 +1849,7 @@
 		"italian": "Le autostrade sono belle, ma a volte hai bisogno di trasportare migliaia di tonnellate di materiali attraversando mezza città.",
 		"japanese": "高速道路は良いものですが、時には都市の\n半分にも匹敵する何千トンの資源を輸送する\n必要があります。",
 		"polish": "Autostrady są super. Ale czasem musisz przewieźć tysiące ton towarów przez pół miasta.",
+		"czech": "Dálnice jsou fajn, ale někdy potřebuješ přepravit stovky tun materiálu přes půl města.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -1835,6 +1861,7 @@
 		"italian": "Grande Progetto di Fine Partita",
 		"japanese": "巨大な最終計画",
 		"polish": "Duże projekty pod koniec gry",
+		"czech": "Velké projekty na konci hry",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -1846,6 +1873,7 @@
 		"italian": "Hai massimizzato la tua città e terminato l'albero delle tecnologie? Sei in cerca di un'ultima sfida?",
 		"japanese": "あなたは自分の都市を最大限に活用して\n技術ツリーを完成させましたか？\nそれとも他の最後の課題が必要ですか？",
 		"polish": "Osiągnąłes już wszystko w swoim mieście, a wszystkie technologie zostały już przez ciebie zbadane? Szukasz tego ostatniego, wielkiego wyzwania?",
+		"czech": "Vše ve tvém městě je na nejvyšší úrovni a všechny technologie vyzkoumány? Hledáš pořádnou poslední výzvu?",
 	},	
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -1857,6 +1885,7 @@
 		"italian": "Una telecabina per andare in montagna",
 		"japanese": "高地のアクセスのためのゴンドラ",
 		"polish": "Gondole linowe i dostęp do wysoko położonych częsci mapy",
+		"czech": "Lanovky pro vysoko položená místa",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -1868,6 +1897,7 @@
 		"italian": "Le cabine ad alta capacità possono trasportare i tuoi beni oltre le rocce e le montagne.",
 		"japanese": "大容量の貨物ゴンドラは険しい山を\n越えて物資を運ぶことができます。",
 		"polish": "Gondole moga przewozić duże ilości towarów ponad skałami i górami.",
+		"czech": "Vysokokapacitní lanovky mohou převážet náklad přes skály i kopce.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -1879,6 +1909,7 @@
 		"italian": "Sistema di felicità",
 		"japanese": "幸福システム",
 		"polish": "System szczęścia",
+		"czech": "Systém spokojenosti",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -1890,6 +1921,7 @@
 		"italian": "Sistema migliorato per decidere quando un habitat sarà migliorato. Tiene conto degli edifici di servizio vicini, del rumore, delle ordinanze, ed altro.",
 		"japanese": "住居地のアップグレードする時の決定の\n仕組みを改善します。\n近くの建築設備、騒音、条例などを考慮に\n入れます。",
 		"polish": "Poprawiony system decydujacy kiedy dom awansuje na kolejny poziom. Bierze pod uwagę dostęp do usług, hałas, przepisy i inne.",
+		"czech": "Vylepší systém jakým se domy rozhodují o vylepšení. Bere v potaz blízkost služeb, hluk, vyhlášky a další.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -1901,6 +1933,7 @@
 		"italian": "Supporto dei mod",
 		"japanese": "Modのサポート",
 		"polish": "Wsparcie dla modów",
+		"czech": "Podpora módů",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -1912,6 +1945,7 @@
 		"italian": "Supporto dei mod di bilanciamento, di costruzione, di risorsa, di UI, di infrastruttura e di script.",
 		"japanese": "バランス、建設、資源、UI、公共施設、\nスクリプト等のModのサポートをします。",
 		"polish": "Wsparcie dla modów zmieniających balans, dodających budynki i zasoby, zmieniających interface użytkownika, czy infrastrukturę, modów ze sktyptami.",
+		"czech": "Podpora pro balanční módy, nové budovy, infrastrukturu a suroviny, úpravu UI a módy se skripty.",
 	},	
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -1923,6 +1957,7 @@
 		"italian": "Tubi per Liquidi e Gas",
 		"japanese": "液体および気体用パイプ",
 		"polish": "Wodo i gazociagi",
+		"czech": "Trubky pro plyny i kapaliny",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -1934,6 +1969,7 @@
 		"italian": "E se potessi trasportare grandi quantità di risorse sotto terra o dentro i tubi? E se avessi bisogno di produrre acqua per sopravvivere?",
 		"japanese": "地下やパイプラインで大量の資源を\n輸送できるとしたら？生き残るために\n水を生産する必要があるとしたら？",
 		"polish": "Co gdybys mógł transportowac duże ilości zasobów pod ziemia lub za pomopca rurociągów? A co gdybys musiał produkowac wodę, aby przetrwać?",
+		"czech": "Co kdybys mohl přesouvat velké množství surovin pod zemí nebo trubkami? Co kdybys potřeboval vodu k přežití",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -1945,6 +1981,7 @@
 		"italian": "Sistema di riscaldamento",
 		"japanese": "温度システム",
 		"polish": "System ciepła",
+		"czech": "Systém tepla",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -1956,6 +1993,7 @@
 		"italian": "I sistemi di sopravvivenza sono importanti nello spazio - tenere la tua città abbastanza calda o fresca può essere critico.",
 		"japanese": "生命維持システムは宇宙では重要です。\n都市を十分に暖かくまたは涼しく保つことが必要です。",
 		"polish": "Systemu podtrzymywania życia są ważne na obcych planetach. Utrzymanie odpowiedniej temperatury może okazac sie kluczowe.",
+		"czech": "Systém podpory života v kosmu je důležitý a ohřát či ochladit tvé mésto dostatečně může být klíćové.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -1967,6 +2005,7 @@
 		"italian": "Ciclo giorno-notte",
 		"japanese": "昼夜サイクル",
 		"polish": "Cykl dnia i nocy",
+		"czech": "Střídání dne a noci",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -1978,6 +2017,7 @@
 		"italian": "Sembra bello e devi preparare la tua rete energetica per la notte. Può anche funzionare bene con il sistema di riscaldamento - i pianeti sabbiosi si raffreddano in fretta di notte.",
 		"japanese": "夜間の電力ネットワークを準備する必要があります。\n温度システムもうまく機能させる必要があります。\n砂の惑星の夜は真っ暗で急速に冷え込むからです。",
 		"polish": "Wygląda dobrze, a ty będziesz musiał przygotować siec energetyczną na noc. Może współpracowac dobrze z systemem cieła - piaszczyste planety szybko traca temperature, kiedy zapada zmrok.",
+		"czech": "Vypadá dobře a musíš připravit přenosovou soustavu na tmu. Také může zajímavě fungovat se Systémem tepla - písečné planety v noci chladnou rychleji.",
 	},	
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -1989,6 +2029,7 @@
 		"italian": "Incendi e crimine",
 		"japanese": "火災と犯罪",
 		"polish": "Pożary i przestępstwa",
+		"czech": "Požáry a zločiny",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -2000,6 +2041,7 @@
 		"italian": "Gli incidenti accadono e la tua città ha bisogno di servizi di emergenza per gestirli - sii preparato!",
 		"japanese": "事故が発生した都市はそれらに対処するために\n緊急サービスを必要とします。\nそのための準備をしてください！",
 		"polish": "Wypadki się zdażają, a twoje miasto potrzebuje służb ratunkowych by sobie z nimi poradzić - bądź gotowy!",
+		"czech": "Nehody se dějí a tvé město potřebuje zásahové složky aby se s nimi vypořádalo - buď připraven!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -2011,6 +2053,7 @@
 		"italian": "Macchine volanti per i lavoratori",
 		"japanese": "飛行自動車",
 		"polish": "Latajace samochody dla pracowników",
+		"czech": "Létající auta pro pracující",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -2022,6 +2065,7 @@
 		"italian": "Aggiungiamo il traffico per i lavoratori che vanno al lavoro, ma introduciamo anche l'aggiornamento alle macchine volanti per evitare che il tuo sistema stradale si blocchi.",
 		"japanese": "通勤する労働者の交通量を増加させるためにも\n道路の渋滞を防ぐためにも自動車をアップグレードした\n飛行自動車を導入しましょう。",
 		"polish": "Dodajmy do ruchu latające samochody dla pracowników podrużujacych do pracy oraz możliwość przerobienia pojazdu na latający, by ograniczyć korki.",
+		"czech": "Pŕidejme dopravu pro pracující, ale také pŕedstavme vylepšená létající auta, aby tvá dopravní síť nezkolabovala.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -2033,6 +2077,7 @@
 		"italian": "Disastri Naturali",
 		"japanese": "自然災害",
 		"polish": "Katastrofy naturalne",
+		"czech": "Přírodní katastrofy",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -2044,6 +2089,7 @@
 		"italian": "Quanto funzioneranno bene le tue strade dopo una tempesta di sabbia? Saresti pronto?",
 		"japanese": "砂嵐の後の道路はどの程度うまく機能しますか？\nそのための準備はできていますか？",
 		"polish": "Jak dobrze będą działac twoje drogi po burzy piaskowej? Bedziesz przygotowany?",
+		"czech": "Jak dobře budou tvé cesty fungovat v písečné bouři? Budeš na to připraven?",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -2055,6 +2101,7 @@
 		"russian": "Сложность игры",
 		"japanese": "ゲーム難易度",
 		"polish": "Poziom trudności gry",
+		"czech": "Obtížnost hry",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -2066,6 +2113,7 @@
 		"russian": "Отвечает за количество еды, необходимое жителям.\nЧем выше сложность, тем лучше вы должны управлять своей экономикой.",
 		"japanese": "市民が必要とする物資の数を変更します。\n難易度が高いほど経済をより適切に管理する必要があります。",
 		"polish": "Kontroluje jak dużo produktów potrzebują mieszkańcy.\nIm wyższy poziom trudności, tym lepiej musisz zarządzać swoim miastem.",
+		"czech": "Určuje kolik produktů obyvtalé potřebují.\nČím vyšší úrověn, tím lépe budeš muset řídit svou ekonomiku.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -2077,6 +2125,7 @@
 		"russian": "Сложность транспорта",
 		"japanese": "輸送難易度",
 		"polish": "Poziom trudności transportu",
+		"czech": "Náročnost provozu",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -2088,6 +2137,7 @@
 		"russian": "Отвечает за количество перевозимых предметов машинами.\nЧем выше сложность, тем меньше предметов будет перевозиться за один раз.",
 		"japanese": "車両が運ぶことができる物資の数を変更します。\n難易度が高いほど運ぶことができる物資は少なくなります。",
 		"polish": "Kontroluje ile produktów mogą przewozić pojazdy.\nIm wyższy poziom trudności tym mniej towarów mogą przewieźć na raz.",
+		"czech": "Určuje, kolik nákladu mohou vozidla vést.\nČím vyšší úroveň, tím méně nákladu bude najednou přepravováno.",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -2099,6 +2149,7 @@
 		"russian": "Начать игру",
 		"japanese": "ゲームスタート",
 		"polish": "Rozpocznij grę",
+		"czech": "Začít hr",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -2110,6 +2161,7 @@
 		"russian": "Легкий",
 		"japanese": "簡単",
 		"polish": "Łatwy",
+		"czech": "Jednoduchá",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -2121,6 +2173,7 @@
 		"russian": "Средний",
 		"japanese": "普通",
 		"polish": "Średni",
+		"czech": "Střední",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -2132,6 +2185,7 @@
 		"russian": "Сложный",
 		"japanese": "難しい",
 		"polish": "Trudny",
+		"czech": "Těžká",
 	},
 
 }
