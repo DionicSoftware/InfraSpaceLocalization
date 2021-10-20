@@ -19,3 +19,5 @@ Italian
 Chinese
 - law_4x
 
+Polish
+- Hubert Ł. (ArmekStyle)
