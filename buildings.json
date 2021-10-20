@@ -1,4 +1,4 @@
-﻿{
+{
   "sandMine": {
     "english": "Sand Mine",
 		"german": "Sandmine",
@@ -8,7 +8,7 @@
     "spanish": "Mina de Arena",
     "italian": "Miniera di Sabbia",
 	  "japanese": "砂採掘場",
-	  "polish": "Piaskarnia",
+	  "polish": "Kopalnia piasku",
 	  "czech": "Pískovna",
   },
   "sulfurMine": {
@@ -56,7 +56,7 @@
     "spanish": "Mina de Aluminio",
     "italian": "Miniera di Alluminio",
 	  "japanese": "アルミ採掘場",
-	  "polish": "kopalnia aluminium",
+	  "polish": "Kopalnia aluminium",
 	  "czech": "Důl na hliník",
   },
   "uraniumMine": {
@@ -94,7 +94,7 @@
     "spanish": "Mina de Arena grande",
     "italian": "Grande Miniera di Sabbia",
 	  "japanese": "大型拡大砂採掘場",
-	  "polish": "Duża piaskarnia",
+	  "polish": "Duża kopalnia piasku",
 	  "czech": "Velká pískovna",
 	  
   },
@@ -107,7 +107,7 @@
     "spanish": "Mina de Azufre grande",
     "italian": "Grande Miniera di Zolfo",
 	  "japanese": "大型硫黄掘場",
-	  "polish": "Duza kopalnia siarki",
+	  "polish": "Duża kopalnia siarki",
 	  "czech": "Velký důl na síru",
   },
   "largeIronMine": {
@@ -229,7 +229,7 @@
     "spanish": "Fábrica de Nanotubos",
     "italian": "Fabbrica di Nanotubi",
 	  "japanese": "ナノチューブ生産工場",
-	  "polish": "Fabryka nanorurek węglowych",
+	  "polish": "Fabryka nanorurek",
 	  "czech": "Továrna na nanotrubice",
   },
   "iridiumAlloyFactory": {
@@ -253,7 +253,7 @@
     "spanish": "Fábrica de Holo-Pantallas",
     "italian": "Fabbrica di Holo-Schermi",
 	  "japanese": "ホロディスプレイ生産工場",
-	  "polish": "Fabryka wyswietlaczy holograficznych",
+	  "polish": "Fabryka wyświetlaczy holograficznych",
 	  "czech": "Továrna na hologramové obrazovky",
   },
   "radiationCoreFactory": {
@@ -291,7 +291,7 @@
     "spanish": "Molino de Acero",
     "italian": "Acciaieria",
 	  "japanese": "製鉄所",
-	  "polish": "Fabryka żelaza",
+	  "polish": "Fabryka stali",
 	  "czech": "Ocelárna",
   },
   "homeAppliancesFactory": {
@@ -303,7 +303,7 @@
     "spanish": "Fábrica de Electrodomésticos",
     "italian": "Fabbrica di Elettrodomestici",
 	  "japanese": "家電生産工場",
-	  "polish": "Fabryka AGD",
+	  "polish": "Fabryka sprzętu AGD",
 	  "czech": "Továrna na domácí spotřtebiče",
   },
   "computerFactory": {
@@ -351,7 +351,7 @@
     "spanish": "Taller de Alta Tecnología",
     "italian": "Laboratorio di Alta Tecnologia",
 	  "japanese": "ハイテクニカル生産工場",
-	  "polish": "Warsztat produkcyjny technologii zaawansowanej",
+	  "polish": "Warsztat produkcyjny zaawansowanej technologii",
 	  "czech": "Dílna špičkových technologií",
   },
   "vrEdutainmentFactory": {
@@ -374,7 +374,7 @@
     "russian": "Завод иридиевого топлива",
     "italian": "Fabbrica di carburante all'iridio",
 	  "japanese": "イリジウム推進剤生産工場",
-	  "polish": "Rafineria paliwa irydowego",
+	  "polish": "Fabryka paliwa irydowego",
 	  "spanish": "Fábrica de propelente de iridio",
 	  "czech": "Továrna na iridiové palivo",
   },
@@ -387,7 +387,7 @@
     "italian": "Fabbrica di unità di controllo IA",
 	  "spanish":"Fábrica de unidades de control de IA",
 	  "japanese": "AI制御ユニット生産工場",
-	  "polish": "Fabryka paneli kontrolnych sztucznej inteligencji",
+	  "polish": "Fabryka paneli kontrolnych AI",
 	  "czech": "Továrna na kontrolní jednotky umělé inteligence",
   },
 
@@ -449,7 +449,7 @@
     "spanish": "Laboratorio de Investigación",
     "italian": "Laboratorio di Ricerca",
 	  "japanese": "テクノロジー研究所",
-	  "polish": "Labolatorium",
+	  "polish": "Laboratorium",
 	  "czech": "Výzkumná laboratoř",
   },
 
@@ -489,7 +489,7 @@
     "spanish": "Centro de Reciclaje",
     "italian": "Centro di Riciclaggio",
 	  "japanese": "リサイクル工場",
-	  "polish": "Centrum recyklingu",
+	  "polish": "Centrum recyklingowe",
 	  "czech": "Recyklační centrum",
   },
   "soilEnrichmentFacility": {
@@ -501,7 +501,7 @@
     "spanish": "Instalación de Enriquecimiento de Suelos",
     "italian": "Stazione di Arricchimento del Suolo",
 	  "japanese": "土壌濃縮施設",
-	  "polish": "Zakład użyźniania gleby",
+	  "polish": "Zakład wzbogacania gleby",
 	  "czech": "Zařízení na obohacování půdy",
   },
 
@@ -539,7 +539,7 @@
     "spanish": "Procesador de Carbono",
     "italian": "Trasformatore di Carbonio",
 	  "japanese": "炭素生産施設",
-	  "polish": "jednostka pozyskiwania wegla",
+	  "polish": "Jednostka pozyskiwania wegla",
 	  "czech": "Zařízení na výrobu uhlíku",
   },
   "basicFarm": {
@@ -587,7 +587,7 @@
     "spanish": "Laboratorio de Carne",
     "italian": "Laboratorio delle Carni",
 	  "japanese": "精肉場",
-	  "polish": "Labolatorium mięsa",
+	  "polish": "Laboratorium mięsa",
 	  "czech": "Masová laboratoř",
   },
   "foodFactory": {
@@ -599,7 +599,7 @@
     "spanish": "Fábrica de Comida",
     "italian": "Fabbrica di Pietanze",
 	  "japanese": "食品生産工場",
-	  "polish": "Labolatorium pożywienia",
+	  "polish": "Laboratorium żywności",
 	  "czech": "Továrna na jídlo",
   },
 
@@ -724,7 +724,7 @@
     "spanish": "Poste de Energía",
     "italian": "Palo della Luce",
 		"japanese": "電柱",
-		"polish": "słup elektryczny",
+		"polish": "Słup energetyczny",
 		"czech": "Elektrický sloup",
 	},
 	"powerSubstation": {
@@ -736,7 +736,7 @@
     "spanish": "Subestación de Energía",
     "italian": "Sottostazione Elettrica",
 		"japanese": "変電所",
-		"polish": "Rozdzielnia elektryczna",
+		"polish": "Podstacja energetyczna",
 		"czech": "Rozvodna elektřiny",
 	},
 	"windTurbine": {
@@ -784,7 +784,7 @@
     "spanish": "Reactor de Neutrones Rápidos",
     "italian": "Reattore a Neutroni Veloci",
 		"japanese": "高速中性子発電所",
-		"polish": "Szybka elektrownia jądrowa",
+		"polish": "Reaktor prędki", // Fachowa nazwa, może też być Reaktor na prędkich neutronach
 		"czech": "Reaktor na rychlé neutrony",
 	},
   "signStanding": {
@@ -796,7 +796,7 @@
 	"spanish": "Cartel de parado grande",
     "italian": "Grande cartellone verticale",
 	  "japanese": "立て看板",
-	  "polish": "Znak pionowy",
+	  "polish": "Znak stojący",
 	  "czech": "Stojící nápis",
   },
   "signLaying": {
@@ -808,7 +808,7 @@
 	"spanish": "Cartel posado grande",
     "italian": "Grande cartellone a terra",
 	  "japanese": "置き看板",
-	  "polish": "Znak poziomy",
+	  "polish": "Znak leżący",
 	  "czech": "Ležící nápis",
   },
   "monumentDrill": {
@@ -820,7 +820,7 @@
 	"spanish": "Excavadora colosal de adamantio",
     "italian": "Trivella colossale per adamantio",
 	  "japanese": "アダマンタイト採掘場",
-	  "polish": "Kolosalne wiertło adamantowe",
+	  "polish": "Kolosalne adamantynowe wiertło",
 	  "czech": "Obři adamantinový vrták",
   }
 }
