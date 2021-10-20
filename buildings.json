@@ -304,7 +304,7 @@
     "italian": "Fabbrica di Elettrodomestici",
 	  "japanese": "家電生産工場",
 	  "polish": "Fabryka sprzętu AGD",
-	  "czech": "Továrna na domácí spotřtebiče",
+	  "czech": "Továrna na domácí spotřebiče",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -352,7 +352,7 @@
     "italian": "Laboratorio di Alta Tecnologia",
 	  "japanese": "ハイテクニカル生産工場",
 	  "polish": "Warsztat produkcyjny zaawansowanej technologii",
-	  "czech": "Dílna špičkových technologií",
+	  "czech": "High Tech dílna",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
