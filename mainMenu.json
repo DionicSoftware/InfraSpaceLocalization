@@ -243,7 +243,7 @@
 		"spanish": "Este juego aún no está terminado. Puede contener bugs.\n\nEstamos lanzando estas versiones tempranas a los jugadores para conseguir reatroalimentación del juego y encontrar bugs mucho antes del lanzamiento oficial.\n\n¡Haznos saber si te gusta",
 		"italian": "Questo gioco non è ancora finito. Può contenere dei bugs. \n\nStiamo rilasciando queste versioni preliminari ai giocatori così che possiamo avere del feedback sul gameplay e trovare bugs prima della versione definitiva.\n\nFateci sapere se vi piace!",
 		"japanese": "このゲームはこれで終わりではありません。バグが含まれている可能性があります。\n\n公式リリースの前にプレイに関するフィードバック、バグの発見のためにこのアルファーバージョンを解放しています。\n\nまた気に入った点があればお知らせください！",
-		"polish": "Gra nie jest jeszcze skończona. Może zawierać bugi.\n\nWydaliśmy wczesna wersję gry, aby gracze mogli przesłac nam swoje opinie na temat grywalności oraz znaleźć bugi, bysmy mogli je wyelminowac jeszcze przed oficjalna premierą.\n\nDaj znać jak podoba ci sie gra!",
+		"polish": "Gra nie została ukończona i może zawierać błędy.\n\nUdostępniamy wczesne wersje gry graczom, aby zebrać opinie na temat rozgrywki i wykryć błędy na długo przed oficjalną premierą.\n\nDajcie nam znać, jak wam się podoba!",
 		"czech": "Tato hra zatím není hotova. Může obsahovat bugy.\n\nVydáváme tuto ranou verzi hry, aby nám hráči mohli dát zpětnou vazbu o hratelnosti a nahlásit bugy dlouho před oficiálním vydáním.\n\nDejte nám vědět jak se vám líbí!",
 	},
 
@@ -297,7 +297,7 @@
 		"russian": "Вы уверены, что хотите удалить сохранение \"%save%\"? Это действие безвозвратно!",
 		"portuguese": "Tem certeza de que deseja excluir o save \"%save%\"? Ele terá desaparecido para sempre.",
 		"italian": "Vuoi davvero eliminare il salvataggio \"%save%\"? Andrà perso per sempre.",
-		"polish": "Jesteś pewien, że chcesz usunąć zapis \"%save%\"? Uwaga! Nie będzie można go odzyskać.",
+		"polish": "Na pewno chcesz usunąć zapis \"%save%\"? Uwaga! Nie będzie można go odzyskać.",
 		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
 		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
 		"romanian": "Sigur doriți să ștergeți salvarea \"%save%\"? O veți pierde pentru totdeauna.",
@@ -314,7 +314,7 @@
 		"russian": "Последний раз игра сохранялась %minutes% минут назад. Вы действительно хотите выйти в меню БЕЗ сохранения?",
 		"portuguese": "O jogo não foi salvo por %minutes% minutos. Tem certeza de que deseja voltar ao menu principal sem salvar?",
 		"italian": "L'ultimo salvataggio risale a %minutes% minuti fa. Vuoi davvero tornare al menu principale senza salvare?",
-		"polish": "Ta gra nie była zapisywana przez %minutes% minut. Jesteś pewien, że chcesz wyjść do menu głównego bez zapisywania?",
+		"polish": "Ta gra nie była zapisywana przez %minutes% minut. Na pewno chcesz wyjść do menu głównego bez zapisywania?",
 		"turkish": "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinden emin misiniz?",
 		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
 		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?",
@@ -819,7 +819,7 @@
 		"korean": "카메라 스피드",
 		"italian": "Velocità telecamera",
 		"chinese": "镜头速度",
-		"polish": "Szybkość kamery",
+		"polish": "Prędkość kamery",
 		"czech": "Rychlost kamery",
 		"romanian": "Viteza camerei",
 		"japanese": "カメラスピード",
@@ -859,7 +859,7 @@
 		"arabic": "ﻑﺍﺮﻃﻷﺍ ﻰﻠﻋ ﺓﺭﺄﻔﻟﺍ ﻚﻳﺮﺤﺗ",
 		"korean": "가장자리에서 화면 끌기",
 		"italian": "Scorrimento del mouse ai bordi",
-		"polish": "Przeiwjanie na krawędziach",
+		"polish": "Przewijanie na krawędziach",
 		"czech": "Posouvání myší na okrajích",
 		"romanian": "Derularea cu mausul la marginea ecranului",
 		"japanese": "マウスによるカメラコントロール",
@@ -1243,7 +1243,7 @@
 		"spanish": "Elevar carretera",
 		"italian": "Eleva la Strada",
 		"japanese": "道路を上昇",
-		"polish": "Podnies drogę",
+		"polish": "Wznieś drogę",
 		"czech": "Zvýšit silnici",
 	},
 	"lowerRoad": {
@@ -1311,7 +1311,7 @@
 		"arabic": "ﺭﺎﺴﻴﻠﻟ ﺓﺭﺍﺪﺘﺳﺍ",
 		"korean": "왼쪽으로 회전",
 		"italian": "Ruota a sinistra",
-		"polish": "Obróć w lewo",
+		"polish": "Obrót w lewo",
 		"czech": "Otočit doleva",
 		"romanian": "Rotește spre stânga",
 		"japanese": "左に回転",
@@ -1330,7 +1330,7 @@
 		"arabic": "ﻦﻴﻤﻴﻠﻟ ﺓﺭﺍﺪﺘﺳﺍ",
 		"korean": "오른쪽으로 회전",
 		"italian": "Ruota a destra",
-		"polish": "Obróć w prawo",
+		"polish": "Obrót w prawo",
 		"czech": "Otočit doprava",
 		"romanian": "Rotește spre dreapta",
 		"japanese": "右に回転",
@@ -1604,7 +1604,7 @@
 		"italian": "Ctrl (sinistro)",
 		"czech": "Ctrl (levý)",
 		"romanian": "Ctrl (stânga)",
-		"polish": "CTRL (lewy)",
+		"polish": "Ctrl (lewy)",
 		"japanese": "左Ctrlキー",
 	},
 	"key_RightControl": {
@@ -1623,7 +1623,7 @@
 		"italian": "Ctrl (destro)",
 		"czech": "Ctrl (pravý)",
 		"romanian": "Ctrl (dreapta)",
-		"polish": "CTRL (prawy)",
+		"polish": "Ctrl (prawy)",
 		"japanese": "右Ctrlキー",
 	},
 	"key_CapsLock": {
@@ -1715,7 +1715,7 @@
 		"spanish": "Ningún Roadmap encontrado. \n\n¿Estás conectado a internet?",
 		"italian": "Nessuna Roadmap trovata. \n\nSei connesso ad internet?",
 		"japanese": "ロードマップが見つかりません。\n\nインターネットに接続されていますか?",
-		"polish": "Nie znaleziono zadnych planów.\n\nMasz połączenie z internetem?",
+		"polish": "Nie znaleziono żadnych planów.\n\nMasz połączenie z Internetem?",
 		"czech": "Nenanlezeny žádné plány.\n\nNemáte problémy s připojením?",
 	},
 	"earlyAccessPromises": {
@@ -1727,7 +1727,7 @@
 		"spanish": "Funcionalidades garantizadas por el Accesso Anticipado",
 		"italian": "Caratteristiche Garantite per l'Accesso Anticipato",
 		"japanese": "アーリーアクセスに実装される機能",
-		"polish": "Funkcjonalności gwarantowane we wczesnym dostępie",
+		"polish": "Funkcje gwarantowane we wczesnym dostępie",
 		"czech": "Funkce garantované pro předběžný pŕistup",
 	},
 	"voteOnExtraFeatures": {
@@ -1739,7 +1739,7 @@
 		"spanish": "Votar por funcionalidades adicionales",
 		"italian": "Vota per le funzionalità aggiuntive",
 		"japanese": "追加機能に投票",
-		"polish": "Głosuj na funkcjonalności dodatkowe",
+		"polish": "Głosuj na funkcje dodatkowe",
 		"czech": "Hlasujte pro další funkce",
 	},
 	"voteOnExtraFeatures_desc": {
@@ -1751,7 +1751,7 @@
 		"spanish": "Votar por sus funcionalidades favoritas, así sabemos sobre cual debemos concentrarnos.\nElegiremos en esta lista según los deseos de la comunidad y su pertinencia.",
 		"italian": "Vota per le tue caratteristiche preferite per farci sapere su che cosa dovremmo concentrarci.\nSceglieremo dalla lista in base ai desideri della comunità e a come si inserisce nel gioco.",
 		"japanese": "何に焦点を当てるべきか判断するために興味のある機能に投票してください。\nコミュニティの希望に基づくリストからゲームにとても適合しているものを選択してください。",
-		"polish": "Głosuj na swoje ulubione funkcjonalności, żebyśmy wiedzieli na czym powinniśmy sie skupić.\nWybierzemy z tej listy na podstawie głosów społeczności oraz tego, jak bardzo nowe funkcje wpasuja sie w grę.",
+		"polish": "Głosując na swoje ulubione funkcje dajesz nam znać na czym powinniśmy się skupić.\nWybieramy z tej listy bazując na życzeniach społeczności i ocenie jak dana funkcja pasuje do gry.",
 		"czech": "Hlasuj pro svou oblíbenou funkci, abychom věděli na co se soustředit.\n\nBudeme vybírat ze seznamu založeném na přáních komunity tak, jak dobře půjdou implementovat do hry",
 	},
 	"vote": {
@@ -1787,7 +1787,7 @@
 		"spanish": "Señalar un bug.",
 		"italian": "Riporta un bug.",
 		"japanese": "バグを報告",
-		"polish": "Zgłoś buga",
+		"polish": "Zgłoś błąd",
 		"czech": "Nahlásit bug",
 	},
 	"translateInfraSpace": {
@@ -1824,7 +1824,7 @@
 		"spanish": "Evita que sus intersecciones se atascan y da prioridades a algunos vehículos.",
 		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
 		"japanese": "交差点が渋滞しないように\n発進する車に優先順位を付けます。",
-		"polish": "Utrzymaj płynność ruchu na skrzyżowaniach i zdecyduj które pojazdy pojadą najpierw.",
+		"polish": "Utrzymaj płynność ruchu na skrzyżowaniach i zdecyduj które pojazdy mają pierwszeństwo.",
 		"czech": "Nedovol, aby se tvé křižovatky ucpaly a urči, ktará auta budou mít přednost.",
 	},
 	"roadmap_trains_title": {
@@ -1848,7 +1848,7 @@
 		"spanish": "Las autovías son buenas, pero a veces hay que transportar miles de toneladas de materiales por toda la ciudad.",
 		"italian": "Le autostrade sono belle, ma a volte hai bisogno di trasportare migliaia di tonnellate di materiali attraversando mezza città.",
 		"japanese": "高速道路は良いものですが、時には都市の\n半分にも匹敵する何千トンの資源を輸送する\n必要があります。",
-		"polish": "Autostrady są super. Ale czasem musisz przewieźć tysiące ton towarów przez pół miasta.",
+		"polish": "Autostrady są super, ale czasem musisz przewieźć tysiące ton towarów przez pół miasta.",
 		"czech": "Dálnice jsou fajn, ale někdy potřebuješ přepravit stovky tun materiálu přes půl města.",
 	},
 	"roadmap_endgame_title": {
@@ -1872,7 +1872,7 @@
 		"spanish": "¿Tu ciudad ha llegado al nivel máximo y has terminado el árbol de tecnología? ¿Buscas un último reto?",
 		"italian": "Hai massimizzato la tua città e terminato l'albero delle tecnologie? Sei in cerca di un'ultima sfida?",
 		"japanese": "あなたは自分の都市を最大限に活用して\n技術ツリーを完成させましたか？\nそれとも他の最後の課題が必要ですか？",
-		"polish": "Osiągnąłes już wszystko w swoim mieście, a wszystkie technologie zostały już przez ciebie zbadane? Szukasz tego ostatniego, wielkiego wyzwania?",
+		"polish": "Osiągnąłes już wszystko w swoim mieście i zbadałeś wszystkie technologie? Szukasz tego ostatniego, wielkiego wyzwania?",
 		"czech": "Vše ve tvém městě je na nejvyšší úrovni a všechny technologie vyzkoumány? Hledáš pořádnou poslední výzvu?",
 	},	
 	"roadmap_gondolas_title": {
@@ -1884,7 +1884,7 @@
 		"spanish": "Góndolas para acceder a las montañas",
 		"italian": "Una telecabina per andare in montagna",
 		"japanese": "高地のアクセスのためのゴンドラ",
-		"polish": "Gondole linowe i dostęp do wysoko położonych częsci mapy",
+		"polish": "Transport kolejkami linowymi",
 		"czech": "Lanovky pro vysoko položená místa",
 	},
 	"roadmap_gondolas_desc": {
@@ -1896,7 +1896,7 @@
 		"spanish": "Las góndolas grandes de cargo pueden transportar tus mercancías por encima de las montañas.",
 		"italian": "Le cabine ad alta capacità possono trasportare i tuoi beni oltre le rocce e le montagne.",
 		"japanese": "大容量の貨物ゴンドラは険しい山を\n越えて物資を運ぶことができます。",
-		"polish": "Gondole moga przewozić duże ilości towarów ponad skałami i górami.",
+		"polish": "Gondole mogące przewozić duże ilości towarów ponad skałami i górami.",
 		"czech": "Vysokokapacitní lanovky mohou převážet náklad přes skály i kopce.",
 	},
 	"roadmap_happinessSystem_title": {
@@ -1944,7 +1944,7 @@
 		"spanish": "Soporte de mods de balance, mods de construcción, mods de recursos, mods de IU, mods de infraestructura y Scriptmods.",
 		"italian": "Supporto dei mod di bilanciamento, di costruzione, di risorsa, di UI, di infrastruttura e di script.",
 		"japanese": "バランス、建設、資源、UI、公共施設、\nスクリプト等のModのサポートをします。",
-		"polish": "Wsparcie dla modów zmieniających balans, dodających budynki i zasoby, zmieniających interface użytkownika, czy infrastrukturę, modów ze sktyptami.",
+		"polish": "Wsparcie dla modów zmieniających balans rozgrywki, dodających budynki i zasoby, usprawniających interfejs, infrastrukturę oraz dla skryptów.",
 		"czech": "Podpora pro balanční módy, nové budovy, infrastrukturu a suroviny, úpravu UI a módy se skripty.",
 	},	
 	"roadmap_pipes_title": {
@@ -1956,7 +1956,7 @@
 		"spanish": "Tuberías de líquidos y gases",
 		"italian": "Tubi per Liquidi e Gas",
 		"japanese": "液体および気体用パイプ",
-		"polish": "Wodo i gazociagi",
+		"polish": "Wodo- i gazociagi",
 		"czech": "Trubky pro plyny i kapaliny",
 	},
 	"roadmap_pipes_desc": {
@@ -1968,7 +1968,7 @@
 		"spanish": "¿Y si pudieras transportar grandes cantidades de recursos por el subsuelo o a través de tuberías? ¿Y si tuvieras que producir agua para sobrevivir?",
 		"italian": "E se potessi trasportare grandi quantità di risorse sotto terra o dentro i tubi? E se avessi bisogno di produrre acqua per sopravvivere?",
 		"japanese": "地下やパイプラインで大量の資源を\n輸送できるとしたら？生き残るために\n水を生産する必要があるとしたら？",
-		"polish": "Co gdybys mógł transportowac duże ilości zasobów pod ziemia lub za pomopca rurociągów? A co gdybys musiał produkowac wodę, aby przetrwać?",
+		"polish": "Co, gdybyś mógł transportować duże ilości zasobów pod ziemią lub za pomocą rurociągów? A co, gdybyś musiał produkować wodę, aby przetrwać?",
 		"czech": "Co kdybys mohl přesouvat velké množství surovin pod zemí nebo trubkami? Co kdybys potřeboval vodu k přežití",
 	},
 	"roadmap_heatSystem_title": {
@@ -2016,7 +2016,7 @@
 		"spanish": "Se ve asombroso y tienes que preparar tu red eléctrica para la noche. Podría funcionar bien con el sistema de calefacción - los planetas de arena se enfrían mucho en la noche.",
 		"italian": "Sembra bello e devi preparare la tua rete energetica per la notte. Può anche funzionare bene con il sistema di riscaldamento - i pianeti sabbiosi si raffreddano in fretta di notte.",
 		"japanese": "夜間の電力ネットワークを準備する必要があります。\n温度システムもうまく機能させる必要があります。\n砂の惑星の夜は真っ暗で急速に冷え込むからです。",
-		"polish": "Wygląda dobrze, a ty będziesz musiał przygotować siec energetyczną na noc. Może współpracowac dobrze z systemem cieła - piaszczyste planety szybko traca temperature, kiedy zapada zmrok.",
+		"polish": "Wygląda dobrze, a ty będziesz musiał przygotować sieć energetyczną na noc. Może nieźle współpracować z systemem ciepła - gdy zapada zmrok, piaszczyste planety szybko tracą temperaturę.",
 		"czech": "Vypadá dobře a musíš připravit přenosovou soustavu na tmu. Také může zajímavě fungovat se Systémem tepla - písečné planety v noci chladnou rychleji.",
 	},	
 	"roadmap_firesCrime_title": {
@@ -2040,7 +2040,7 @@
 		"spanish": "Los accidentes pasan y tu ciudad necesita servicios de emergencia para resolverlos - ¡prepárate!",
 		"italian": "Gli incidenti accadono e la tua città ha bisogno di servizi di emergenza per gestirli - sii preparato!",
 		"japanese": "事故が発生した都市はそれらに対処するために\n緊急サービスを必要とします。\nそのための準備をしてください！",
-		"polish": "Wypadki się zdażają, a twoje miasto potrzebuje służb ratunkowych by sobie z nimi poradzić - bądź gotowy!",
+		"polish": "Wypadki się zdarzają, a twoje miasto potrzebuje służb ratunkowych by sobie z nimi poradzić - bądź gotowy!",
 		"czech": "Nehody se dějí a tvé město potřebuje zásahové složky aby se s nimi vypořádalo - buď připraven!",
 	},
 	"roadmap_flyingCars_title": {
@@ -2064,7 +2064,7 @@
 		"spanish": "Añadamos tráfico a los trabajadores yendo al trabajo, pero también la mejora de coche volador para no sobrecargar la red de transportes.",
 		"italian": "Aggiungiamo il traffico per i lavoratori che vanno al lavoro, ma introduciamo anche l'aggiornamento alle macchine volanti per evitare che il tuo sistema stradale si blocchi.",
 		"japanese": "通勤する労働者の交通量を増加させるためにも\n道路の渋滞を防ぐためにも自動車をアップグレードした\n飛行自動車を導入しましょう。",
-		"polish": "Dodajmy do ruchu latające samochody dla pracowników podrużujacych do pracy oraz możliwość przerobienia pojazdu na latający, by ograniczyć korki.",
+		"polish": "Dodajmy do ruchu latające samochody dla pracowników podróżujacych do pracy oraz możliwość przerobienia pojazdu na latający, by ograniczyć korki.",
 		"czech": "Pŕidejme dopravu pro pracující, ale také pŕedstavme vylepšená létající auta, aby tvá dopravní síť nezkolabovala.",
 	},
 	"roadmap_naturalDisasters_title": {
@@ -2088,7 +2088,7 @@
 		"spanish": "¿Cómo van a estar tus calles después de una tormenta de arena? ¿Estarías preparado?",
 		"italian": "Quanto funzioneranno bene le tue strade dopo una tempesta di sabbia? Saresti pronto?",
 		"japanese": "砂嵐の後の道路はどの程度うまく機能しますか？\nそのための準備はできていますか？",
-		"polish": "Jak dobrze będą działac twoje drogi po burzy piaskowej? Bedziesz przygotowany?",
+		"polish": "Jak dobrze będą działać twoje drogi po burzy piaskowej? Będziesz przygotowany?",
 		"czech": "Jak dobře budou tvé cesty fungovat v písečné bouři? Budeš na to připraven?",
 	},
 	"gameDifficulty_title": {
