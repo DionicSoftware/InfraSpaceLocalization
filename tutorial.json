@@ -9,6 +9,7 @@
 		"chinese": "达到 %amount% 人口",
 		"italian": "Raggiungi una popolazione di %amount% abitanti",
 		"japanese": "人口%amount%人に達する",
+		"polish": "Osiągnij populację %amount% mieszkańców"
 	},
 	"populationGoalText":  {
 		"english": "%current% / %required% people",
@@ -19,6 +20,7 @@
 		"chinese": "%current% / %required% 人口",
 		"italian": "%current% / %required% abitanti",
 		"japanese": "現在%current%人/目標%required%人",
+		"polish": "%current% z %required% osób"
 	},
 	"buildingGoalText":  {
 		"english": "Build a %buildingName%",
@@ -29,6 +31,7 @@
 		"chinese": "建造 %buildingName%",
 		"italian": "Costruisci un(a) %buildingName%",
 		"japanese": "%buildingName%を建設する",
+		"polish": "Wybuduj %buildingName%"
 	},
 	"researchGoalText":  {
 		"english": "Research %techName%",
@@ -39,6 +42,7 @@
 		"chinese": "研究 %techName%",
 		"italian": "Ricerca %techName%",
 		"japanese": "%techName%を研究する",
+		"polish": "Zbadaj %techName%"
 	},
 	"researchGoalText2":  {
 		"english": "Click on the science pack factory to see which resources are needed.",
@@ -49,6 +53,7 @@
 		"chinese": "单击科技包厂以查看需要哪些资源。",
 		"russian": "Нажмите на завод научных пакетов, чтобы узнать, какие ресурсы необходимы.",
 		"japanese": "サイエンスパック生産工場をクリックして必要な物資を確認してください",
+		"polish": "Kliknij na fabrykę pakietów naukowych aby zobaczyć listę potrzebnych surowców."
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
@@ -59,6 +64,7 @@
 		"chinese": "在硫磺矿和铁矿旁边修建一条道路。",
 		"italian": "Costruisci una strada vicino a zolfo e ferro.",
 		"japanese": "硫黄採掘場所と鉄採掘場所のすぐ近辺に道路を建設する",
+		"polish": "Wybuduj drogę w pobliżu złóż siarki i żelaza."
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads":  {
 		"english": "You can place your buildings next to roads.",
@@ -69,6 +75,7 @@
 		"chinese": "可以将建筑物放置在道路旁边。",
 		"italian": "Puoi mettere i tuoi edifici di fianco alle strade.",
 		"japanese": "採掘場を設置するために道路を建設します",
+		"polish": "Budynki możesz stawiać w pobliżu dróg."
 	},
 	"upgradeGoalText":  {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -79,6 +86,7 @@
 		"chinese": "满足你的居住点需求，直到它们自动升级。",
 		"italian": "Soddisfa le esigenze dei tuoi abitati finchè non si aggiornano automaticamente.",
 		"japanese": "居住地はニーズを満たせば自動的にアップグレードされます",
+		"polish": "Zaspokojenie potrzeb mieszkańców spowoduje automatyczną rozbudowę domu."
 	},
 	"tutorialFinishedTitle":  {
 		"english": "You finished the tutorial!",
@@ -89,6 +97,7 @@
 		"chinese": "你完成了教程！",
 		"italian": "Hai finito il tutorial.",
 		"japanese": "チュートリアルは終了しました！",
+		"polish": "Ukończyłeś samouczek!"
 	},
 	"tutorialFinishedText":  {
 		"english": "Congrats! You're now ready to make your city great!",
@@ -99,6 +108,7 @@
 		"chinese": "恭喜！你现在已准备好让你的城市变得更好！",
 		"italian": "Congratulazioni! Adesso sei pronto per rendere grande la tua città!.",
 		"japanese": "おめでとうございます！これであなたは素晴らしい都市に発展させる準備ができました！",
+		"polish": "Gratulacje! Jesteś już gotów do zbudowania wspaniałego miasta!"
 	},
 	"tutorial_concreteProduction":  {
 		"english": "Concrete Production for Roads",
@@ -109,6 +119,7 @@
 		"chinese": "生产混凝土来建造道路",
 		"italian": "Produzione di cemento per le strade.",
 		"japanese": "コンクリート生産工場の建設",
+		"polish": "Budowa betonu na drogi"
 	},
 	"tutorial_roadConnections":  {
 		"english": "Road Connections",
@@ -119,6 +130,7 @@
 		"chinese": "道路连接",
 		"italian": "Incroci nelle strade",
 		"japanese": "道路の接続",
+		"polish": "Łączenie dróg"
 	},
 	"tutorial_powerGeneration":  {
 		"english": "Power Generation",
@@ -129,6 +141,7 @@
 		"chinese": "发电",
 		"italian": "Produzione di Elettricità",
 		"japanese": "電力の供給",
+		"polish": "Produkcja prądu"
 	},
 	"tutorial_storage":  {
 		"english": "Storing the Concrete",
@@ -139,6 +152,7 @@
 		"chinese": "储存混凝土",
 		"italian": "Stoccaggio del Cemento",
 		"japanese": "物資の保管",
+		"polish": "Magazynowanie betonu"
 	},
 	"tutorial_lifeSupport":  {
 		"english": "Life Support",
@@ -149,6 +163,7 @@
 		"chinese": "生活保障",
 		"italian": "Supporto Vitale",
 		"japanese": "居住地の設置",
+		"polish": "System podtrzymywania życia"
 	},
 	"tutorial_newcomers":  {
 		"english": "Accepting Newcomers",
@@ -159,6 +174,7 @@
 		"chinese": "接受移民",
 		"italian": "Accogliere i Nuovi Arrivati",
 		"japanese": "移住希望者の受け入れ",
+		"polish": "Przyjmowanie przybyszów"
 	},
 	"tutorial_growingTown":  {
 		"english": "Growing the Town",
@@ -169,6 +185,7 @@
 		"chinese": "发展城市",
 		"italian": "Far Crescere la Città",
 		"japanese": "都市の発展",
+		"polish": "Rozbudowa miasta"
 	},
 	"tutorial_research":  {
 		"english": "Research",
@@ -179,6 +196,7 @@
 		"chinese": "研究",
 		"italian": "Ricerca",
 		"japanese": "研究の実施",
+		"polish": "Badania"
 	},
 	"tutorial_roads":  {
 		"english": "Use roads to connect the mines with the concrete factory",
@@ -189,6 +207,7 @@
 		"chinese": "使用道路将矿机与混凝土工厂连接起来",
 		"italian": "Utilizzate le strade per connettere le miniere alla fabbrica di cemento",
 		"japanese": "採掘場とコンクリート生産工場を道路に接続させる",
+		"polish": "Zbuduj drogę, aby połączyć kopalnie z fabryką betonu"
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
@@ -199,6 +218,7 @@
 		"chinese": "使用电线杆将所有建筑物连接到你的风力涡轮机",
 		"italian": "Usate i pali della luce per connettere tutti gli edifici alle turbine eoliche",
 		"japanese": "建物へ電力を供給するため電柱を建設する",
+		"polish": "Zbuduj słupy elektryczne, aby połączyć wszystkie budynki z turbiną wiatrową"
 	},
 
 
@@ -213,6 +233,7 @@
 		"spanish": "Tutorial: %tutorialName%",
 		"italian": "Tutorial: %tutorialName%",
 		"japanese": "チュートリアル:%tutorialName%",
+		"polish": "Samouczek: %tutorialName%"
 
 	},
 	"tutorial_dashboardInfoPanel": {
@@ -224,6 +245,7 @@
 		"spanish": "Resumen de la ciudad",
 		"italian": "Informazioni rapide sulla città",
 		"japanese": "都市情報",
+		"polish": "Skrót informacji o mieście"
 	},
 	"tutorialMessage_dashboardInfoPanel_title": {
 		"english": "Quick City Info",
@@ -234,6 +256,7 @@
 		"spanish": "Resumen de la ciudad",
 		"italian": "Informazioni rapide sulla città",
 		"japanese": "都市情報",
+		"polish": "Skrót informacji o mieście"
 	},
 	"tutorialMessage_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
@@ -244,6 +267,7 @@
 		"spanish": "Esta pantalla le da una vista rápida sobre su ciudad.\n\nLa primera fila indica la cantidad de concreto y de acero disponibles. Necesita estos dos materiales para construir edificios. El tercer ícono indica si su ciudad tiene suficiente energía.\n\nLa linea de abajo indica cuánta gente vive en su ciudad, cuántos obreros faltan, y cuántas viviendas están disponbles. Si no tiene suficientes obreros para rellenar la mayor parte de los trabajos, sus fábricas no funcionarán eficientemente. Además, asegúrate de tener viviendas disponibles para que los nuevos obreros pueden instalarse.",
 		"italian": "Questo pannello ti dà un'occhiata veloce sulla città.\n\nLa prima fila mostra quanto cemento e quanto acciaio hai a disposizione. Hai bisogno di entrambi i materiali per costruire edifici. La terza icona ti mostra se hai abbastanza energia per alimentare la tua città.\n\nLa riga in fondo ti mostra quanta gente vive nella tua città, di quanti lavoratori hai bisogno e quanto spazioabitativo hai a disposizione. Se non hai abbastanza lavoratori per occupare la maggior parte dei posti, le tue fabbriche non funzioneranno in maniera efficiente. Inoltre, assicurati di avere abbastanza spazi abitativi liberi per consentire ai lavoratori di trasferirsi.",
 		"japanese": "このパネルは都市の概要を簡単に確認できます。\n\n利用可能なコンクリートと鉄鋼の量です。建設物資です。\n\n現在の人口数、必要な労働者、居住可能な人口数です。十分な稼働率を維持するため移住希望者の住宅地があることを確認してください。",
+		"polish": "Ten panel pozwala szybko skontrolować stan twojego miasta.\n\nW górnym rzędzie znajdują się informacje o zmagazynowanych zasobach betonu i stali. Oba surowce są niezbędne do budowy budynków. Trzecia ikona wskazuje, czy produkujesz wystarczająco prądu.\n\nIkony w dolnym wierszu opisują liczbę mieszkańców twojego miasta, liczbę potrzebnych pracowników oraz ilu mieszkańców mogą pomieścić wybudowane domy. Jeżeli w mieście nie ma wystarczającej liczby pracowników, twoje fabryki nie będą działać wydajnie. Upewnij się, że twoje domy są w stanie pomieścić nowych pracowników."
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -254,6 +278,7 @@
 		"spanish": "Vale",
 		"italian": "D'accordo",
 		"japanese": "了解！",
+		"polish": "Rozumiem!"
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
@@ -264,6 +289,7 @@
 		"spanish": "Saltar los tutoriales siguientes",
 		"italian": "Salta i prossimi tutorial",
 		"japanese": "チュートリアルを次に進める",
+		"polish": "Pomiń kolejne samouczki"
 	},
 	"tutorialQuestion_title": { // shown at start of first game
 		"english": "Welcome to InfraSpace!",
@@ -274,6 +300,7 @@
 		"spanish": "¡Bienvenido a InfraSpace!",
 		"italian": "Benvenuti a Infraspace!",
 		"japanese": "ようこそInfraSpaceへ!",
+		"polish": "Witaj w InfraSpace!"
 	},
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
@@ -284,6 +311,7 @@
 		"spanish": "¿Quiere obtener consejos mientras juega?\n\nTodavía puede activarlos o desactivarlos en los parámetros.",
 		"italian": "Vuoi vedere i tutorial mentre stai giocando?\n\nPuoi anche attivarli e disattivarli nei settaggi.",
 		"japanese": "プレイ中にチュートリアルのヒントを表示しますか？\n\n設定でオン/オフを切り替えることもできます。",
+		"polish": "Chcesz, aby w czasie gry pojawiały się podpowiedzi samouczka?\n\nMożesz je włączyć lub wyłączyć w ustawieniach."
 	},
 	"tutorialMessage_goalPanel_title": {
 		"english": "Making your first city",
@@ -294,6 +322,7 @@
 		"spanish": "Crear tu primera ciudad",
 		"italian": "Crea la tua prima città",
 		"japanese": "最初に都市となる場所を決めましょう！",
+		"polish": "Budowa pierwszego miasta"
 	},
 	"tutorialMessage_goalPanel_desc": {
 		"english": "This panel will guide you through the necessary steps to create your first stable city and research some tech.",
@@ -304,6 +333,7 @@
 		"spanish": "Esta pantalla te guiará a través de las etapas necesarias para crear tu primera ciudad estable y investigar algunas tecnologías.",
 		"italian": "Questo pannello ti guiderà attraverso i passaggi necessari per creare la tua prima città stabile e ricercare qualche tecnologia.",
 		"japanese": "このパネルは都市の作り方と技術を研究するために必要な手順を説明します。",
+		"polish": "Informacje w tym panelu przeprowadzą cię przez kolejne kroki niezbędne do zbudowania pierwszego, stabilnego miasta i odkrycia kilku technologii."
 
 	},
 	"tutorialMessage_constructionMenu_title": {
@@ -315,6 +345,7 @@
 		"spanish": "Menú de Construcción",
 		"italian": "Menu di Costruzione",
 		"japanese": "建設メニュー",
+		"polish": "Menu budowy"
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
@@ -325,6 +356,7 @@
 		"spanish": "Puede hacer clic aquí  para construir carreteras y edificios, moverlos y destruirlos.",
 		"italian": "Puoi fare click qui per costruire strade ed edifici, muoverli e distruggerli.",
 		"japanese": "ここをクリックして道路または様々な建物の建設、移動、破壊をすることができます。",
+		"polish": "Kliknij tu, aby budować drogi i budynki oraz aby je przesuwać i wyburzać."
 
 	},
 	"tutorialMessage_cameraMovement_title": {
@@ -336,6 +368,7 @@
 		"spanish": "Movimiento de la cámara",
 		"italian": "Movimento della Camera",
 		"japanese": "カメラの移動",
+		"polish": "Ruch kamery"
 	},
 	"tutorialMessage_cameraMovement_desc": {
 		"english": "By default, you can move the camera with your arrow keys, WASD, or by moving your mouse to the edge of your screen.\n\nPress the middle mouse button and drag move your mouse to rotate your view.",
@@ -346,6 +379,7 @@
 		"spanish": "Por defecto, puede mover la cámara con las flechas de tu teclado, con las teclas WASD, o moviendo el ratón al borde de la pantalla.\n\nPresiona la rueda del ratón y mueve el ratón para girar la vista.",
 		"italian": "Per default, puoi muovere la camera con i tasti freccia, con i tasti WASD, o muovendo il tuo mouse al bordo dello schermo.\n\nPremi il bottone centrale del mouse e trascina il mouse per ruotare la visuale.",
 		"japanese": "矢印キー、WASDキー、カーソルを画面の端に移動させることでカメラを移動できます。\n\nマウスの中ボタン＋ドラッグで画面が回転します。",
+		"polish": "Domyślnie kamerę można przesuwać za pomocą strzałek na klawiaturze, klawiszy WASD lub przesuwając kursor myszy do krawędzi ekranu.\n\nPrzytrzymanie środkowego przycisku myszy pozwala na obracanie widoku."
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -356,6 +390,7 @@
 		"spanish": "Recursos necesarios",
 		"italian": "Risorse richieste",
 		"japanese": "必要な物資",
+		"polish": "Wymagane zasoby"
 	},
 	"tutorialMessage_habitatInfoRequiredResources_desc": {
 		"english": "You need to provide these things in order to get people to move in.",
@@ -366,6 +401,7 @@
 		"spanish": "Debe proveer estos elementos para incitar a la gente a establecerse.",
 		"italian": "Devi fornire queste risorse perchè la gente si trasferisca.",
 		"japanese": "住民を入居させるためにはこれらの物資を準備する必要があります。",
+		"polish": "Te rzeczy są wymagane, aby mieszkańcy mogli się wprowadzić."
 	},
 	"tutorialMessage_habitatInfoNextResources_title": {
 		"english": "Upgrade Resources",
@@ -376,6 +412,7 @@
 		"spanish": "Recursos de mejoramiento",
 		"italian": "Risorse per il miglioramento",
 		"japanese": "居住地改善の物資",
+		"polish": "Zasoby do awansu"
 	},
 	"tutorialMessage_habitatInfoNextResources_desc": {
 		"english": "If you manage to provide these things, the habitat will upgrade to the next level.",
@@ -386,6 +423,7 @@
 		"spanish": "Si consigue proveer estos elementos, la vivienda se mejorará al nivel superior.",
 		"italian": "Se sei in grado di fornire queste risorse, l'habitat si aggiorerà al prossimo livello.",
 		"japanese": "これらの物資を準備して住宅地をアップグレードしてください。",
+		"polish": "Jeżeli zdołasz zapewnić te rzeczy, dom zostanie rozbudowany do kolejnego poziomu."
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -396,6 +434,7 @@
 		"spanish": "Niveles de la ciudad",
 		"italian": "Livelli della città",
 		"japanese": "都市レベル",
+		"polish": "Poziomy miasta"
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -406,6 +445,7 @@
 		"spanish": "Niveles de la ciudad",
 		"italian": "Livelli della città",
 		"japanese": "都市レベル",
+		"polish": "Poziomy miasta"
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -416,6 +456,7 @@
 		"spanish": "Esta pantalla indica cuántas personas viven en cada tipo de vivienda.\n\nTiene que mejorar sus viviendas para conseguir el nivel de ciudad siguiente.",
 		"italian": "Questo pannello mostra quanta gente sta vivendo in ogni tipologia di habitat.\n\nHai bisogno di aggiornare i tuoi habitat per far raggiungere alla città il prossimo livello.",
 		"japanese": "このパネルは各レベルの居住地の住民数が表示されます。\n\n次のレベルに到達するにはニーズを満たす必要があります。",
+		"polish": "W tym panelu znajdziesz informację ilu mieszkańców żyje w domach poszczególnych poziomów.\n\nRozbudowa domów jest konieczna do osiągania kolejnych poziomów miasta."
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -426,6 +467,7 @@
 		"spanish": "Niveles de la ciudad",
 		"italian": "Livelli della città",
 		"japanese": "都市レベル",
+		"polish": "Poziomy miasta"
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -436,6 +478,7 @@
 		"spanish": "Controla la barra de avance para saber cuántos ciudadanos todavía deben obtener un mejor alojamiento para conseguir el nivel siguiente.",
 		"italian": "Controlla la barra di progressione per vedere di quanti cittadini devono raggiungere una miglior habitat per raggiungere il prossimo livello.",
 		"japanese": "進捗バーを確認して次のレベルの住宅地を取得する必要がある住民数を確認してください。",
+		"polish": "Pasek postępu wskazuje ilu mieszkańców potrzebuje zamieszkać w lepszych domach, aby miasto osiągnęło kolejny poziom."
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
@@ -446,6 +489,7 @@
 		"spanish": "Prioridad de los trabajos",
 		"italian": "Priorità del lavoro",
 		"japanese": "労働の優先度",
+		"polish": "Priorytetyzacja produkcji"
 	},
 	"tutorialMessage_productionPanel_title": {
 		"english": "Production Overview",
@@ -456,6 +500,7 @@
 		"spanish": "Visión global de la producción",
 		"italian": "Panoramica della Produzione",
 		"japanese": "生産状況",
+		"polish": "Przegląd produkcji"
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
@@ -466,6 +511,7 @@
 		"spanish": "Controla los números de producción y de consumo de su ciudad para ver si produce lo suficiente para satisfacer las necesidades.\n\nSi quiere rellenar sus reservas, ¡debe producir más de lo que consume!",
 		"italian": "Controlla i numeri della produzione e del consumo della tua città per vedere se stai producendo abbastanza per rimanere al passo con la domanda.\n\nSe vuoi riempire le riserve, devi produrre più di quanto consumi!",
 		"japanese": "消費量に十分な生産量があるかどうかを確認します。\n\n備蓄を満タンにしたい場合は生産量を増やす必要があります！",
+		"polish": "Spójrz na informacje o produkcji i konsumpcji surowców, aby dowiedzieć się, czy produkujesz wystarczająco by zaspokoić popyt.\n\nJeżeli chcesz zapełnić magazyny musisz produkować więcej niż zużywasz!"
 	},
 	"tutorialMessage_productionPanelPrioBars_title": {
 		"english": "Jobs Prioritization",
@@ -476,6 +522,7 @@
 		"spanish": "Prioridad de los trabajos",
 		"italian": "Priorità del lavoro",
 		"japanese": "労働の優先度",
+		"polish": "Priorytetyzacja zatrudnienia"
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
 		"english": "If you don't have enough workers, use the sliders to move your workforce into the most important jobs.",
@@ -486,5 +533,6 @@
 		"spanish": "Si no tiene suficientes obreros, utiliza las barras deslizadoras para mover sus efectivos hasta los trabajos más importantes.",
 		"italian": "Se non hai abbastanza lavoratori, usa le barre a scorrimento per spostare la tua forza lavoro verso i lavori più importanti.",
 		"japanese": "必要な作業に十分な労働者がいない場合はスライダーを使用して労働者を増員してください。",
+		"polish": "Jeżeli nie masz wystarczającej liczby pracowników, użyj suwaków by przenieść ich do ważniejszych zadań."
 	},
 }
