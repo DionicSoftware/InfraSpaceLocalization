@@ -45,6 +45,10 @@ Infraspace是一个科幻主题的城市建设模拟 - 统筹交通，让制造�
 ### Italian
 Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risorsa prodotta deve passare per la tua infrastruttura di trasporti. Per prosperare dovrai estrarre i materiali e gestire la catena produttiva, ma dovrai anche avere un sistema stradale adeguato.
 
+### Polish
+
+InfraSpace to kosmiczny city builder, w którym każdy wyprodukowany surowiec musi zostać przetransportowany siecią komunikacyjną. Aby przetrwać w tym systemie solarnym, musisz nie tylko wydobywać surowce i zarządzać produkcją, ale także zbudować sieć dróg, która podoła tym zadaniom.
+
 
 
 
@@ -87,7 +91,7 @@ Substitute "..." with your language
 (La traduzione italiana è stata realizzata dalla comunità.)
 
 ### Polish
-(Polskie tłumaczenie wykonała społeczność.)
+(Polskie tłumaczenie przygotowane przez społeczność.)
 
 ### Japanese
 （翻訳はコミュニティによって行われました。）
@@ -154,6 +158,15 @@ Ai confini dello spazio, non puoi costruire una città spendendo soldi. Dovrai, 
 Una volta che avrai ferro, carbonio, sabbia e zolfo, sarà il momento di costruire la tua prima acciaieria e la tua prima fabbrica di cemento per cominciare ad approntare le infrastrutture. Anche i beni di prima necessità come ossigeno ed il cibo richiedono una solida catena produttiva che non deve essere interrotta!
 
 
+### Polish
+
+Wyprodukuj wszystko, czego potrzebujesz
+
+Na skraju kosmosu eksplorowanego przez ludzi niewiele można kupić za pieniądze, a już na pewno nie można za nie wybudować miasta. Zamiast tego musisz zaprząc do pracy pierwszych astronautów i rozpocząć wydobycie surowców.
+
+Gdy wydobędziesz wystarczająco dużo żelaza, węgla, piasku i siarki możesz zbudować pierwszą hutę żelaza oraz fabrykę betonu, aby rozpocząć budowę odpowiedniej infrastruktury. Również surowce pierwszej potrzeby, jak tlen czy żywność, muszą być włączone w łańcuch dostaw, którego nie można przerwać!
+
+
 
 
 # Long Description - Transport Section
@@ -210,6 +223,14 @@ Infrastruttura dei Trasporti
 Infraspace simula ogni, singolo, veicolo. Ogni risorsa che produci deve essere trasportata ad una fabbrica per essere lavorata ed ogni prodotto deve essere trasportato in una abitazione per essere consumata ed usata.
 
 La tua rete stradale può gestire tanto traffico, ma senza la tua supervisione rallenterà e potrebbe anche bloccarsi. Costruisci autostrade, rotonde, e strade a più corsie per fare in modo che il cuore propduttivo della città continui a battere.
+
+### Polish
+
+Infrastruktura transportowa
+
+InfraSpace symuluje każdy. pojedynczy. pojazd. Każdy surowiec, którego potrzebujesz, musi zostać przetransportowany do odpowiedniej fabryki, a każdy gotowy produkt przewieziony do mieszkań w celu konsumpcji.
+
+Twoja sieć drogowa jest w stanie udźwignąć wiele, ale bez nadzoru prędzej czy później ulegnie przeciążeniu i całkowicie się zakorkuje. Buduj autostrady, ronda i drogi wielopasmowe aby mieć pewność, że serce produkcji nie przestanie bić.
 
 
 
@@ -270,6 +291,15 @@ Crescita della Popolazione
 I tuoi primi coloni saranno astronauti, i migliori ed i più coraggiosi che l'umanità possa offrire. Dai loro cibo e riparo e faranno funzionare il tuo avamposto a tutti i costi.
 
 Con la crescita del tuo insediamento, dovrai gestire il crescente carico di lavoro assumendo scienziati ed ingegneri, che richiedono maggiori comodità. Ogni città di sufficienti dimensioni ospiterà sempre più famiglie, quindi accertati che le tue scuole siano all'altezza e sarai anche in grado di fornire i più avanzati strumenti di Realtà-Virtuale con l'educazione e l'intrattenimento.
+
+### Polish
+
+Wzrost populacji
+
+Twoi pierwsi astronauci to najodważniejsi i najlepsi ludzie swojego pokolenia. Zapewnij im żywność i schronienie, a w zamian będą utrzymywać pracę Twojej kolonii za wszelką cenę.
+
+Rozrost osady oznacza natłok spraw, które trzeba rozwiązać zatrudniając naukowców i inżynierów. Ci jednak potrzebują odrobinę więcej komfortu. Każde odpowiednio duże miasto w końcu staje się miejscem schronienia dla kolejnych rodzin, dlatego musisz zapewnić odpowiednią liczbę miejsc w szkołach oraz dostarczać najnowocześniejsze systemy edukacyjno-rozrywkowe wirtualnej rzeczywistości.
+
 
 
 
@@ -338,6 +368,17 @@ Mentre la conquista dello spazio da parte dell'umanità continua, il tuo compito
 
 Puoi scegliere di ignorare l'obiettivo finale e semplicemente costruire la tua città in libertà nella modalità infinita, se questo è il tuo stile di gioco!
 
+### Polish
+
+Cel ostateczny
+
+Ludzkość odkryła technologię tworzenia sztucznych tuneli czasoprzestrzennych pozwalających na pokonywanie kosmicznych odległości. Niestety, tunele te wymagają portali ogromnych rozmiarów, z których budową niewielki zespół astronautów sam sobie nie poradzi.
+
+Gdy ludzkość kontynuuje podbój kosmosu, Twoim zadaniem jest zbudowanie osady na obrzeżach kosmosu będącej w stanie zapewnić wystarczająco dużo surowców i pracowników, aby wybudować jeden z takich portali.
+
+Choć, jeśli wolisz, możesz zupełnie pominąć ten cel i grać w trybie nieskończonym.
+
+
 
 
 # Long Description - Difficulty Section
@@ -378,3 +419,8 @@ Non devi rendere le cose difficili
 
 La gestione del traffico può essere mutevole e la sopravvivenza può essere dura. Puoi regolare le difficoltà di entrambe per rendere la gestione della tua città più facile o più difficile in base a come vuoi che sia.
 
+### Polish
+
+Nie musisz się trudzić
+
+Ruch drogowy potrafi być kapryśny a przetrwanie na obcej planecie - ciężkie. Możesz dopasować poziom trudności obu tych parametrów, aby zarządzanie miastem było tak proste, lub tak trudne, jak tylko chcesz.
