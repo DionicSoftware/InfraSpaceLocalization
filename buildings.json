@@ -724,7 +724,7 @@
     "spanish": "Poste de Energía",
     "italian": "Palo della Luce",
 		"japanese": "電柱",
-		"polish": "Słup energetyczny",
+		"polish": "Słup elektryczny",
 		"czech": "Elektrický sloup",
 	},
 	"powerSubstation": {
@@ -736,7 +736,7 @@
     "spanish": "Subestación de Energía",
     "italian": "Sottostazione Elettrica",
 		"japanese": "変電所",
-		"polish": "Podstacja energetyczna",
+		"polish": "Rozdzielnia elektryczna",
 		"czech": "Rozvodna elektřiny",
 	},
 	"windTurbine": {
