@@ -285,7 +285,7 @@
 		"chinese": "铱合金",
 		"italian": "Lega di Iridio",
 		"japanese": "イリジウム合金",
-		"polish": "Stop aluminium",
+		"polish": "Stop irydu",
 		"czech": "Slitina iridia",
 	},
 	"resource_iridiumPropellant": {
@@ -309,7 +309,7 @@
 		"spanish": "Unidad de control IA",
 		"italian": "Unità di controllo IA",
 		"japanese": "AI制御ユニット",
-		"polish": "Panele kontrolne sztucznej inteligencji",
+		"polish": "Kontrolery AI",
 		"czech": "Kontrolní jednotky umělé inteligence",
 	},
 	"resource_radiationCore": {
@@ -321,7 +321,7 @@
 		"chinese": "辐射核心",
 		"italian": "Nucleo di Radiazione",
 		"japanese": "電磁波コア",
-		"polish": "Wkłady jadrowe",
+		"polish": "Wkłady jądrowe",
 		"czech": "Radiační jádro",
 	},
 	"resource_sciencePack1": {
@@ -441,7 +441,7 @@
 		"chinese": "生存食品",
 		"italian": "Cibo di Sopravvivenza",
 		"japanese": "非常食",
-		"polish": "Surwiwalowe posiłki",
+		"polish": "Racje żywnościowe",
 		"czech": "Jídlo pro přežití",
 	},
 	"resource_parkPoints": {
