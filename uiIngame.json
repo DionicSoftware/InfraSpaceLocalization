@@ -107,7 +107,7 @@
 		"chinese": "%amount%% 效率",
 		"italian": "Efficienza al %amount%%",
 		"japanese": "%amount%%の稼働率",
-		"polish": "%amount%% efektywności",
+		"polish": "%amount%% wydajności",
 	},
 
 
@@ -131,7 +131,7 @@
 		"chinese": "你已达到最高城市级别。恭喜！",
 		"italian": "Hai raggiunto il livello più alto della città. Congratulazioni!",
 		"japanese": "最高の都市レベルに到達しました。おめでとうございます！",
-		"polish": "Osiągnałeś najwyżczy poziom miasta. Gratulacje!",
+		"polish": "Osiągnałeś najwyższy poziom miasta. Gratulacje!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -142,7 +142,7 @@
 		"chinese": "如果你城镇少于%amount%名%level%级的居民，城镇就会降级为 \"%cityLevelName%\"。",
 		"italian": "La tua città sarà retrocessa a \"%cityLevelName%\" se avrai meno di %amount% cittadini di Livello %level%.",
 		"japanese": "%level%レベルの住民%amount%人以下:都市レベル\"%cityLevelName%\"へグレードダウン",
-		"polish": "Twoje miasto zostanie zdegradowanie do poziomu \"%cityLevelName%\" jesli będziesz miał mniej niż %amount% mieszkańców poziomu %level%.",
+		"polish": "Twoje miasto zostanie zdegradowanie do poziomu \"%cityLevelName%\" jeśli będziesz miał mniej niż %amount% mieszkańców poziomu %level%.",
 	},
 	"researchingSomething":  {
 		"english": "Researching %techName%...    %progress%",
@@ -164,7 +164,7 @@
 		"chinese": "选择技术研究",
 		"italian": "Seleziona la tecnologia da ricercare",
 		"japanese": "テクノロジー一覧",
-		"polish":"Wybierz technologie do zbadania",
+		"polish":"Wybierz technologię do zbadania",
 	},
 	"researchUnlockedNothing":  {
 		"english": "Nothing",
@@ -327,7 +327,7 @@
 		"chinese": "%seconds%s后居住点升级。",
 		"italian": "L'habitat si aggiornerà in %seconds%s.",
 		"japanese": "居住地のアップグレードまで%seconds%秒",
-		"polish":"Budynek mieszkalny awansuje za %seconds%s.",
+		"polish":"Budynek mieszkalny zostanie rozbudowany za %seconds% s.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -338,7 +338,7 @@
 		"chinese": "%seconds%s后居住点降级。",
 		"italian": "L'habitat si declasserà in %seconds%s.",
 		"japanese": "居住地のダウングレードまで%seconds%秒",
-		"polish": "Budynek mieszkalny zostanie zdegradowany za %seconds%s.",
+		"polish": "Budynek mieszkalny zostanie zdegradowany za %seconds% s.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -349,7 +349,7 @@
 		"chinese": "居住点人口已满，满足升级的额外需求。",
 		"italian": "L'habitat è pieno. Soddisfa i bisogni supplementari per farlo aggiornare.",
 		"japanese": "居住地をアップグレードするためのニーズ",
-		"polish": "Budynek jest pełny. Zaspokój wszystkie potrzeby, aby mógł awansować",
+		"polish": "Budynek jest pełny. Zaspokój dodatkowe potrzeby, aby mógł zostać rozbudowany.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -360,7 +360,7 @@
 		"chinese": "人们正在搬进。",
 		"italian": "Sta arrivando gente.",
 		"japanese": "住民が入居中",
-		"polish": "Nowi ludzie wprowadzaja się.",
+		"polish": "Nowi mieszkańcy wprowadzaja się.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -371,7 +371,7 @@
 		"chinese": "人们正在搬离。",
 		"italian": "La gente sta andando via.",
 		"japanese": "住民が引っ越し中",
-		"polish": "Ludzie wyprowadzaja sie",
+		"polish": "Mieszkańcy wyprowadzają się.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -382,7 +382,7 @@
 		"chinese": "没有选择研究:",
 		"italian": "I bisogni non sono soddisfatti.",
 		"japanese": "ニーズが不足",
-		"polish": "Potrzeby twoich mieszkańców nie sa zaspokojone!",
+		"polish": "Potrzeby mieszkańców nie są zaspokajane.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -393,7 +393,7 @@
 		"chinese": "居民感觉良好",
 		"italian": "Gli abitanti stanno bene",
 		"japanese": "住民の状態は良好",
-		"polish": "Mieszkańcy maja sie dobrze.",
+		"polish": "Mieszkańcy mają się dobrze.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -404,7 +404,7 @@
 		"chinese": "没有选择研究:",
 		"italian": "Nessuna ricerca selezionata",
 		"japanese": "研究が未選択",
-		"polish": "Nie wybrano żadnych badań.",
+		"polish": "Nie wybrano badań.",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -459,7 +459,7 @@
 		"italian": "Alloggi",
 		"russian": "Жилье",
 		"japanese": "移住可能な人口数",
-		"polish": "Dostępne miejsce w domach",
+		"polish": "Dostępne miejsca w domach",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -503,7 +503,7 @@
 		"italian": "Alloggi",
 		"russian": "Жилье",
 		"japanese": "移住可能な人口数",
-		"polish": "Dostępne miejsce w domach",
+		"polish": "Dostępne miejsca w domach",
 	},
 	"statistics_immigrationRate" : {
 		"english": "Immigration Rate",
@@ -514,7 +514,7 @@
 		"russian": "Скорость иммиграции",
 		"spanish": "Tasa de inmigración",
 		"japanese": "移住希望率",
-		"polish": "Ilość imigrantów",
+		"polish": "Wskaźnik imigracji",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -525,7 +525,7 @@
 		"italian": "Efficienza",
 		"russian": "Эффективность",
 		"japanese": "稼働率",
-		"polish": "Efektywność",
+		"polish": "Wydajność",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -536,7 +536,7 @@
 		"italian": "Non ci sono abbastanza lavoratori:",
 		"russian": "Недостаточно рабочих",
 		"japanese": "労働者不足:",
-		"polish": "Zbyt mało pracowników",
+		"polish": "Za mało pracowników",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -547,7 +547,7 @@
 		"spanish": "Impulsado por los edificios vecinos",
 		"russian": "Усиливается соседними зданиями",
 		"japanese": "近隣建築による稼働率アップ",
-		"polish": "Efektywność zwiększona dzieki sąsiednim budynkom",
+		"polish": "Wydajność zwiększona dzięki sąsiednim budynkom",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -558,7 +558,7 @@
 		"italian": "Manca energia:",
 		"russian": "Недостаточно энергии:",
 		"japanese": "電力不足:",
-		"polish": "Zbyt mało energii",
+		"polish": "Za mało energii",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -569,7 +569,7 @@
 		"spanish": "Flujo de aire perturbado",
 		"russian": "Нарушенный воздушный поток",
 		"japanese": "十分でない気流",
-		"polish": "Zakłucony przepływ powietrza",
+		"polish": "Zakłócony przepływ powietrza",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -591,7 +591,7 @@
 		"italian": "Lunghezza aggancio strada",
 		"spanish": "Asistencia de longitud de carretera",
 		"japanese": "距離の表示",
-		"polish": "Przyciągnij do długości drogi",
+		"polish": "Przyciągaj do długości drogi",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -602,7 +602,7 @@
 		"italian": "Angolo aggancio strada",
 		"spanish": "Asistencia de ángulo de carretera",
 		"japanese": "直角の表示",
-		"polish": "Przyciągnij do kąta drogi",
+		"polish": "Przyciągaj do kąta drogi",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -619,11 +619,13 @@
 		"english": "Also reverses road direction if you don't have a replacement road seleted",
 		"german": "Kehrt außerdem Straßenrichtung um wenn keine Straße zum ersetzen ausgewählt ist",
 		"french": "Inverse la direction de la route sauf pour les remplacements de routes",
+		"polish": "Pozwala także odwrócić kierunek drogi, jeśli nie wybrano innego typu ulicy do zamiany."
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
 		"german": "Straßenrichtung umkehren",
 		"french": "Inverser les routes",
+		"polish": "Odwrócenie kierunku drogi"
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -634,7 +636,7 @@
 		"italian": "Aggancia alla strada",
 		"spanish": "Pegar a la carretera",
 		"japanese": "道路に接着",
-		"polish": "Przyciągnij do drogi",
+		"polish": "Przyciągaj do drogi",
 	},
 	"resourcesOnWay" : { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -691,7 +693,7 @@
 		"italian": "Non connesso ad una rete elettrica",
 		"spanish": "No conectado a la red eléctrica",
 		"japanese": "電力ネットワークに未接続",
-		"polish": "Nie połączono z siecią energetyczną",
+		"polish": "Nie połączono z siecią elektryczną",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -713,7 +715,7 @@
 		"italian": "Edificio non si trova su un deposito di risorse",
 		"spanish": "Edificio no colocado sobre un depósito de recursos",
 		"japanese": "資源採取地外に設置",
-		"polish": "Budynek nie jest umieszczony za odpowiednim złożu",
+		"polish": "Budynek nie jest umieszczony na odpowiednim złożu",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -735,7 +737,7 @@
 		"italian": "Strade troppo vicine",
 		"spanish": "Carretera demasiado cerca",
 		"japanese": "他の道路などに隣接",
-		"polish": "Zbyt mało miejsca między drogami",
+		"polish": "Za mało miejsca między drogami",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -746,7 +748,7 @@
 		"italian": "Segmento di strada troppo corto",
 		"spanish": "Segmento de carretera demasiado corto",
 		"japanese": "道路が短すぎ",
-		"polish": "Segment drogi jest zbyt krótki",
+		"polish": "Segment drogi jest za krótki",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -794,7 +796,7 @@
 		"italian": "Efficienza dell'edificio",
 		"spanish": "Eficiencia de los edificios",
 		"japanese": "建物稼働率",
-		"polish": "Efektywność budynków",
+		"polish": "Wydajność budynków",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -838,7 +840,7 @@
 		"italian": "Strutture di arricchimento del terreno",
 		"spanish": "Instalaciones de enriquecimiento de suelo",
 		"japanese": "農場関連施設",
-		"polish": "Budynki zwiekszające bogactwo ziemi",
+		"polish": "Zakłady wzbogacania gleby",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1005,7 +1007,7 @@
 		"spanish": "Mejora tus habitantes para hacer tu ciudad más atractiva a los recién llegados.",
 		"russian": "Улучшайте среду обитания, чтобы сделать город привлекательным для новых жителей.",
 		"japanese": "居住地のアップグレードが移住希望率に影響",
-		"polish": "Awansuj budynki mieszkalne, aby przyciągnąc wiecej mieszkańców.",
+		"polish": "Rozbuduj budynki mieszkalne, aby przyciągnąć więcej mieszkańców.",
 	},
 	"low": {
 		"english": "Low",
@@ -1049,7 +1051,7 @@
 		"spanish": "Hábitat mejorado",
 		"russian": "Уровень среды обитания увеличен",
 		"japanese": "居住地のアップグレード",
-		"polish": "Budynek mieszkalny awansował",
+		"polish": "Budynek mieszkalny został rozbudowany",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -1082,7 +1084,7 @@
 		"spanish": "%percentage%% de eficiencia",
 		"russian": "Эффективность %percentage%%",
 		"japanese": "%percentage%%の稼働率",
-		"polish": "%percentage%% efektywności",
+		"polish": "%percentage%% wydajności",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -1092,7 +1094,7 @@
 		"spanish": "Resumen de producción",
 		"russian": "Обзор производства",
 		"japanese": "生産状況",
-		"polish": "Przeglad produkcji",
+		"polish": "Przegląd produkcji",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
