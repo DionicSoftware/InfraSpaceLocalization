@@ -47,7 +47,7 @@ Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risor
 
 ### Polish
 
-InfraSpace to kosmiczny city builder, w którym każdy wyprodukowany surowiec musi zostać przetransportowany siecią komunikacyjną. Aby przetrwać w tym systemie solarnym, musisz nie tylko wydobywać surowce i zarządzać produkcją, ale także zbudować sieć dróg, która podoła tym zadaniom.
+InfraSpace to kosmiczny city builder, w którym każdy wyprodukowany surowiec musi zostać przetransportowany siecią komunikacyjną. Aby przetrwać w systemie solarnym, musisz nie tylko wydobywać surowce i zarządzać produkcją, ale także zbudować sieć dróg, która podoła zadaniom.
 
 
 
