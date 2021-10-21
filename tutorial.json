@@ -53,7 +53,7 @@
 		"chinese": "单击科技包厂以查看需要哪些资源。",
 		"russian": "Нажмите на завод научных пакетов, чтобы узнать, какие ресурсы необходимы.",
 		"japanese": "サイエンスパック生産工場をクリックして必要な物資を確認してください",
-		"polish": "Kliknij na fabrykę pakietów naukowych aby zobaczyć listę potrzebnych surowców."
+		"polish": "Kliknij na fabrykę pakietów naukowych, aby zobaczyć listę potrzebnych surowców."
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
@@ -75,7 +75,7 @@
 		"chinese": "可以将建筑物放置在道路旁边。",
 		"italian": "Puoi mettere i tuoi edifici di fianco alle strade.",
 		"japanese": "採掘場を設置するために道路を建設します",
-		"polish": "Budynki możesz stawiać w pobliżu dróg."
+		"polish": "Budynki możesz stawiać przy drogach."
 	},
 	"upgradeGoalText":  {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -267,7 +267,7 @@
 		"spanish": "Esta pantalla le da una vista rápida sobre su ciudad.\n\nLa primera fila indica la cantidad de concreto y de acero disponibles. Necesita estos dos materiales para construir edificios. El tercer ícono indica si su ciudad tiene suficiente energía.\n\nLa linea de abajo indica cuánta gente vive en su ciudad, cuántos obreros faltan, y cuántas viviendas están disponbles. Si no tiene suficientes obreros para rellenar la mayor parte de los trabajos, sus fábricas no funcionarán eficientemente. Además, asegúrate de tener viviendas disponibles para que los nuevos obreros pueden instalarse.",
 		"italian": "Questo pannello ti dà un'occhiata veloce sulla città.\n\nLa prima fila mostra quanto cemento e quanto acciaio hai a disposizione. Hai bisogno di entrambi i materiali per costruire edifici. La terza icona ti mostra se hai abbastanza energia per alimentare la tua città.\n\nLa riga in fondo ti mostra quanta gente vive nella tua città, di quanti lavoratori hai bisogno e quanto spazioabitativo hai a disposizione. Se non hai abbastanza lavoratori per occupare la maggior parte dei posti, le tue fabbriche non funzioneranno in maniera efficiente. Inoltre, assicurati di avere abbastanza spazi abitativi liberi per consentire ai lavoratori di trasferirsi.",
 		"japanese": "このパネルは都市の概要を簡単に確認できます。\n\n利用可能なコンクリートと鉄鋼の量です。建設物資です。\n\n現在の人口数、必要な労働者、居住可能な人口数です。十分な稼働率を維持するため移住希望者の住宅地があることを確認してください。",
-		"polish": "Ten panel pozwala szybko skontrolować stan twojego miasta.\n\nW górnym rzędzie znajdują się informacje o zmagazynowanych zasobach betonu i stali. Oba surowce są niezbędne do budowy budynków. Trzecia ikona wskazuje, czy produkujesz wystarczająco prądu.\n\nIkony w dolnym wierszu opisują liczbę mieszkańców twojego miasta, liczbę potrzebnych pracowników oraz ilu mieszkańców mogą pomieścić wybudowane domy. Jeżeli w mieście nie ma wystarczającej liczby pracowników, twoje fabryki nie będą działać wydajnie. Upewnij się, że twoje domy są w stanie pomieścić nowych pracowników."
+		"polish": "Ten panel pozwala szybko skontrolować stan twojego miasta.\n\nW górnym rzędzie znajdują się informacje o zmagazynowanych zasobach betonu i stali. Oba surowce są niezbędne do budowy budynków. Trzecia ikona wskazuje, czy produkujesz wystarczająco dużo prądu.\n\nIkony w dolnym wierszu opisują liczbę mieszkańców twojego miasta, liczbę potrzebnych pracowników oraz ilu mieszkańców mogą pomieścić wybudowane domy. Jeżeli w mieście nie ma wystarczającej liczby pracowników, twoje fabryki nie będą działać wydajnie. Upewnij się, że twoje domy są w stanie pomieścić nowych pracowników."
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -278,7 +278,7 @@
 		"spanish": "Vale",
 		"italian": "D'accordo",
 		"japanese": "了解！",
-		"polish": "Rozumiem!"
+		"polish": "Jasne!"
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
