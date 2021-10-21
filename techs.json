@@ -87,7 +87,7 @@
     "spanish": "Adapta la forma de las hojas de las turbinas eólicas a la atmósfera. Esto lleva a disminuir los disturbios en el aire, lo que te permite construir turbinas eólicas más cercanas entre sí.",
     "chinese": "使风力涡轮机叶片的形状符合空气流动。\n这会降低空气阻力，让你建造彼此更近的风力涡轮机。",
     "italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria, che ti consente di costruire le turbine eoliche più vicine fra loro.",
-		"polish": "Zmienia geometrię łopat, by dostowac sie do panujacych warunków. Pozwala to na zmniejszenie generowanych turbulencji i pozwala na budowanie elektrowni wiatroch bliżej siebie",
+		"polish": "Zmienia geometrię łopat dostosowując je do atmosfery. Pozwala to na zmniejszenie generowanych turbulencji, dzięki czemu elektrownie mogą być budowane bliżej siebie.",
 		"czech": "Adaptuje listy turbíny na atmosféru. Toto vede k menším turbulencím, takže můžou být blíže k sobě.",
 	},
   "tech_concreteRoads": {
@@ -122,7 +122,7 @@
     "spanish": "Subestaciones Eléctricas",
     "chinese": "变电站",
     "italian": "Sotto-stazioni Elettriche",
-	  "polish": "Rozdzielnia elektryczna",
+	  "polish": "Rozdzielnie elektryczne",
 	  "czech": "Elektrické rozvody",
   },
 	"techDesc_powerSubstation": {
@@ -133,7 +133,7 @@
     "spanish": "Subestaciones integradas en tu red de energía, para que no tengas que suministrar cada edificio con postes eléctricos.",
     "chinese": "将变电站集成到你的电力网络中，\n这样就不必为每个建筑物都配备电线杆。",
     "italian": "Integrate le sotto-stazioni nella vostra rete elettrica così che non dobbiate più collegare ogni edificio con i pali della luce.",
-		"polish": "Włącznie rozdzielni do sieci elektrycznej sprawia, że budynki nie musza byc juz połączone z słupami elektrycznymi.",
+		"polish": "Włącznie rozdzielni do sieci elektrycznej sprawia, że budynki nie muszą być już połączone ze słupami elektrycznymi.",
 		"czech": "Vlož rozvodny do své sítě abys zásoboval elektřinou všechny budovy v dosahu.",
 	},
   "tech_motors": {
@@ -211,7 +211,7 @@
     "spanish": "Acelera la extracción de recursos para alimentar el hambre de tu creciente ciudad.",
     "chinese": "加快资源开采，以满足不断发展的城市需求。",
     "italian": "Aumenta la velocità di estrazione per rifornire la tua città in espansione.",
-		"polish": "Przyspiesz wydobycie, aby nadążyc za rosnącymi potrzebami miasta.",
+		"polish": "Przyspiesz wydobycie, aby nadążyć za rosnącymi potrzebami miasta.",
 		"czech": "Zrychli těžbu surovin abys nasytil své rostoucí město.",
 	},
 
@@ -223,7 +223,7 @@
     "spanish": "Procesamiento de Alimentos",
     "chinese": "食品加工",
     "italian": "Trasformazione Alimentare",
-	  "polish": "Przetważanie żywności",
+	  "polish": "Przetwarzanie żywności",
 	  "czech": "Zpracování jídla",
   },
   "tech_fertilizer": {
@@ -245,7 +245,7 @@
     "spanish": "Suministra suelo fertilizado a las granjas cercanas e incrementa su producción de forma significativa.",
     "chinese": "向附近的农场供应施肥的土壤，将显着提高其产量。",
     "italian": "Rifornisci di terreno fertilizzato le fattorie vicine ed aumenta significativamente la loro produzione.",
-		"polish": "Zapewnienie dostaw nawozu do farm znacznie zwieksza ilość produkowanej żywności",
+		"polish": "Zapewnienie dostaw nawozu do farm znacząco zwiększa ilość produkowanej żywności.",
 		"czech": "Distribuje hnojivo do blízkých farem a výrazně zvyšuje jejich produkci.",
 	},
   "tech_nanotubes": {
@@ -278,7 +278,7 @@
     "russian": "Как только ваши солнечные панели очистятся, ваши солнечные электростанции будут вырабатывать гораздо больше энергии.",
     "spanish": "Mejora los paneles solares para que se autolimpien, su planta de energía solar generará mucho más energía.",
     "italian": "Una volta che i tuoi pannelli solari si puliscono da soli, le tue centrali solari produrranno molta più energia.",
-		"polish": "Dzięki zastosowaniu samoczyszczących paneli słonecznych, alektrownie słoneczne bedą produkowac znacznie wiecej energii",
+		"polish": "Dzięki zastosowaniu samoczyszczących paneli słonecznych, elektrownie słoneczne będą produkować znacznie więcej energii.",
 		"czech": "Jakmile se fotovoltaické panely začnou čistit samy, budou generovat mnohem víc energie.",
 	},
   "tech_sixLaneRoads": {
@@ -334,7 +334,7 @@
     "spanish": "Minería de Uranio",
     "chinese": "铀矿开采",
     "italian": "Sfruttamento dell'Uranio",
-	  "polish": "Wybodycie uranu",
+	  "polish": "Wydobycie uranu",
 	  "czech": "Těžba uranu",
   },
   "tech_highways": {
@@ -390,7 +390,7 @@
     "spanish": "Suministra a tus fábricas con robots industriales para reducir la cantidad de trabajadores requerida.",
     "chinese": "为你的工厂提供工业机器人以减少所需的工人数量。",
     "italian": "Rifornisci le tue fabbriche con robot industriali per ridurre il numero di lavoratori richiesti",
-		"polish": "Zaopatrzenie fabryk w roboty przemysłowe zmniejsza potrzebna ilość pracowników",
+		"polish": "Zaopatrzenie fabryk w roboty przemysłowe zmniejsza liczbę potrzebnych pracowników.",
 		"czech": "Zásobuj továrny roboty abys snížil počet pracovníků",
 	},
   "tech_particleFiltering": {
@@ -457,7 +457,7 @@
     "spanish": "Disminuye tu consumo de recursos al procesar los desechos industriales en las fábricas cercanas.",
     "chinese": "通过处理附近工厂的工业废物来降低资源消耗。",
     "italian": "Riduce il consumo di risorse processando i rifiuti industriali nelle fabbriche vicine.",
-		"polish": "Zmniejsz zapotrzebowanie na surowce dzieki wykorzystaniu odpadów przemysłowych w pobliskich fabrykach",
+		"polish": "Zmniejsz zapotrzebowanie na surowce dzięki wykorzystaniu odpadów przemysłowych w pobliskich fabrykach.",
 		"czech": "Snižje spotřebu surovin recyklací odpadu z blźkých továren",
 	},
 	
@@ -491,7 +491,7 @@
     "spanish": "Suministra a tus fábricas con herramientas de alta tecnología para incrementar su productividad.",
     "chinese": "为你的工厂提供高科技工具以提高生产力。",
     "italian": "Rifornisci le tue fabbriche con utensili High Tech per aumentare la produttività.",
-		"polish": "Zaopatrzenie fabryk w zaawansowane technologicznie narzędzia pozwala na zwiekszenie produktywności.",
+		"polish": "Zaopatrzenie fabryk w zaawansowane technologicznie narzędzia pozwala na zwiększenie produktywności.",
 		"czech": "Továrnám zásobovaným High Tech nástroji se zvyšuje produkce.",
 	},
 
@@ -503,7 +503,7 @@
     "russian": "Блоки управления ИИ",
     "spanish": "Unidad de control IA",
     "italian": "Unità di controllo IA",
-	  "polish": "Panele kontrolne sztucznej inteligencji",
+	  "polish": "Kontrolery AI",
 	  "czech": "Kontrolní jednotky umělé inteligence",
   },
   "tech_iridiumPropellant": {
@@ -525,7 +525,7 @@
     "spanish": "Reactor de Neutrones Rápidos",
     "chinese": "快中子反应堆",
     "italian": "Reattore Rapido a Neutroni",
-	  "polish": "Szybki reaktor jądrowy",
+	  "polish": "Reaktor prędki",
 	  "czech": "Reaktor na rychlé neutrony",
   },
 
