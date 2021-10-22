@@ -49,6 +49,10 @@ Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risor
 
 InfraSpace to kosmiczny city builder, w którym każdy wyprodukowany surowiec musi zostać przetransportowany siecią komunikacyjną. Aby przetrwać w systemie solarnym, musisz nie tylko wydobywać surowce i zarządzać produkcją, ale także zbudować sieć dróg, która podoła zadaniom.
 
+### Ukrainian
+
+InfraSpace — це науково-фантастичний містобудівний симулятор, але кожен ресурс, який ви виробляєте, має пройти через вашу транспортну інфраструктуру. Щоб процвітати в цій сонячній системі, вам доведеться не тільки розпочати видобуток корисних копалин і керувати виробничими ланцюгами, але й переконатися, що ваша дорожня мережа відповідає завданню.
+
 
 
 
@@ -79,7 +83,7 @@ Substitute "..." with your language
 (Перевод на русский язык выполнен сообществом.)
 
 ### Ukrainian
-(Переклад на українську мову виконаний спільнотою.)
+(Переклад українською мовою виконаний спільнотою.)
 
 ### Korean
 (한국어 번역 작업은 커뮤니티의 기여를 통해 이루어졌습니다.)
@@ -166,6 +170,14 @@ Na skraju kosmosu eksplorowanego przez ludzi niewiele można kupić za pieniądz
 
 Gdy wydobędziesz wystarczająco dużo żelaza, węgla, piasku i siarki możesz zbudować pierwszą hutę żelaza oraz fabrykę betonu, aby rozpocząć budowę odpowiedniej infrastruktury. Również surowce pierwszej potrzeby, jak tlen czy żywność, muszą być włączone w łańcuch dostaw, którego nie można przerwać!
 
+### Ukrainian
+
+Виробляйте все, що споживаєте
+
+На краю людського космосу не можна побудувати місто, просто витративши багато грошей. Натомість вам доведеться залучити своїх перших космонавтів до гірничодобувних робіт та отримати трохи сировини.
+
+Коли у вас буде трохи заліза, вуглецю, піску та сірки, настав час створити свій перший сталеливарний завод і бетонний завод, щоб почати закладати інфраструктуру. Навіть такі потреби, як їжа та кисень, вимагають стабільного виробничого ланцюга, який не можна порушувати!
+
 
 
 
@@ -231,6 +243,14 @@ Infrastruktura transportowa
 InfraSpace symuluje każdy. pojedynczy. pojazd. Każdy surowiec, którego potrzebujesz, musi zostać przetransportowany do odpowiedniej fabryki, a każdy gotowy produkt przewieziony do mieszkań w celu konsumpcji.
 
 Twoja sieć drogowa jest w stanie udźwignąć wiele, ale bez nadzoru prędzej czy później ulegnie przeciążeniu i całkowicie się zakorkuje. Buduj autostrady, ronda i drogi wielopasmowe aby mieć pewność, że serce produkcji nie przestanie bić.
+
+### Ukrainian
+
+Транспортна інфраструктура
+
+InfraSpace імітує кожен автомобіль. Кожен ресурс, який ви коли-небудь виробляєте, потрібно транспортувати на фабрику для переробки, а кожен продукт повинен відправитися в середовище проживання для споживання.
+
+Ваша мережа доріг може багато з чим впоратися, але без вашого нагляду вона зупиниться і врешті-решт потоне в русі. Будуйте автомагістралі, кільцеві розв’язки та багатосмугові дороги, щоб виробниче серце міста продовжувало битися.
 
 
 
@@ -299,6 +319,14 @@ Wzrost populacji
 Twoi pierwsi astronauci to najodważniejsi i najlepsi ludzie swojego pokolenia. Zapewnij im żywność i schronienie, a w zamian będą utrzymywać pracę Twojej kolonii za wszelką cenę.
 
 Rozrost osady oznacza natłok spraw, które trzeba rozwiązać zatrudniając naukowców i inżynierów. Ci jednak potrzebują odrobinę więcej komfortu. Każde odpowiednio duże miasto w końcu staje się miejscem schronienia dla kolejnych rodzin, dlatego musisz zapewnić odpowiednią liczbę miejsc w szkołach oraz dostarczać najnowocześniejsze systemy edukacyjno-rozrywkowe wirtualnej rzeczywistości.
+
+### Ukrainian
+
+Приріст населення
+
+Ваші перші колоністи будуть космонавтами, найкращими та найсміливішими з людства. Дайте їм їжу та притулок, і вони забезпечать роботу вашого форпосту незважаючи ні на що.
+
+Оскільки ваше поселення росте, вам потрібно покривати зростаюче робоче навантаження, залучаючи вчених та інженерів, які потребують деяких зручностей. Будь-яке місто достатнього розміру рано чи пізно стане домом для все більшої кількості сімей, тому переконайтесь, що ваші школи впораються з цим, і ви також зможете поставляти найновіші продукти для VR-навчання.
 
 
 
@@ -378,6 +406,16 @@ Gdy ludzkość kontynuuje podbój kosmosu, Twoim zadaniem jest zbudowanie osady 
 
 Choć, jeśli wolisz, możesz zupełnie pominąć ten cel i grać w trybie nieskończonym.
 
+### Ukrainian
+
+Кінцева ціль
+
+Людство відкрило технологію створення штучних червоточин, щоб стрибати на величезні відстані у космосі. На жаль, для цих червоточин потрібні портали величезних розмірів — жодна невелика команда астронавтів не може побудувати їх самостійно.
+
+Оскільки людство продовжує завоювати космос, ваша робота полягає в тому, щоб побудувати форпост у далекому світі, здатний обробляти величезні ресурси та роботи, необхідних для створення одного з цих порталів.
+
+Ви можете ігнорувати кінцеву мету і просто будувати вільно в нескінченному режимі, якщо це  ваш стиль гри!
+
 
 
 
@@ -424,3 +462,13 @@ La gestione del traffico può essere mutevole e la sopravvivenza può essere dur
 Nie musisz się trudzić
 
 Ruch drogowy potrafi być kapryśny a przetrwanie na obcej planecie - ciężkie. Możesz dopasować poziom trudności obu tych parametrów, aby zarządzanie miastem było tak proste, lub tak trudne, jak tylko chcesz.
+
+### Ukrainian
+
+Вам не потрібно напружуватись
+
+Управління дорожнім рухом може бути непостійним, а виживання може бути важким. Ви можете налаштувати складність обох, щоб зробити ваш досвід управління містом таким легким або настільки складним, наскільки ви хочете.
+
+
+
+
