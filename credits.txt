@@ -21,3 +21,6 @@ Chinese
 
 Polish
 - Hubert Ł. (ArmekStyle)
+
+Ukrainian
+- Dmytro G. (DmytroKokos)
