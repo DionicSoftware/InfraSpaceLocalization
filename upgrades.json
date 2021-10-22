@@ -7,7 +7,7 @@
 		"russian": "Улучшенные лопасти ветряных турбин",
 		"chinese": "改进风力涡轮机叶片",
 		"italian": "Pale Eoliche Migliorate",
-	        "polish": "Ulepszone łopaty turbin wiatrowych"
+	        "polish": "Ulepszone łopaty turbin wiatrowych",
 	        "ukrainian": "Покращені лопаті вітряних турбін",
 	},
 	"upgradeDesc_improvedWindTurbineBlades":  {
@@ -29,7 +29,7 @@
 		"russian": "Самоочищающиеся солнечные панели",
 		"chinese": "自清洁太阳能电池板",
 		"italian": "Pannelli Solari Autopulenti",
-		"polish": "Samoczyszczące panele słoneczne"
+		"polish": "Samoczyszczące panele słoneczne",
 		"ukrainian": "Самоочисні сонячні панелі",
 	},
 	"upgradeDesc_selfCleaningSolarPanels":  {
@@ -40,7 +40,7 @@
 		"chinese": "自清洁面板将功率输出提高 %amount%%。",
 		"russian": "Самоочищающиеся панели увеличивают выходную энергию на %amount%%.",
 		"italian": "I pannelli autopulenti aumentano la produzione di energia del %amount%%.",
-		"polish": "Samoczyszczące panele zwiększają produkcję energii o %amount%%."
+		"polish": "Samoczyszczące panele zwiększają produkcję energii o %amount%%.",
 		"ukrainian": "Самоочисні панелі збільшують вихідну енергію на %amount%%",
 	},
 	"upgrade_industrialWasteRecycling":  {
@@ -51,7 +51,7 @@
 		"russian": "Переработка промышленных отходов",
 		"chinese": "工业废料回收",
 		"italian": "Riciclaggio degli scarichi industriali",
-		"polish": "Recykling odpadów przemysłowych"
+		"polish": "Recykling odpadów przemysłowych",
 		"ukrainian": "Переробка промислових відходів",
 	},
 	"upgradeDesc_industrialWasteRecycling":  {
@@ -62,7 +62,7 @@
 		"russian": "Часть промышленных отходов этого здания перерабатывается. Каждые %amount% раундов возвращаются все использованые ресурсы.",
 		"chinese": "这座建筑可以回收一些工业废料。每%amount%轮，它会返还使用过的资源。-TODO",
 		"italian": "Una parte degli scarichi industriali di questo edificio viene riciclata. Ogni %amount% rounds, recupera tutte le risorse utilizzate.",
-		"polish": "Część śmieci przemysłowych z tego budynku jest poddawana recyklingowi. Co %amount% cykli wszystkie surowce są wykorzystywane ponownie."
+		"polish": "Część śmieci przemysłowych z tego budynku jest poddawana recyklingowi. Co %amount% cykli wszystkie surowce są wykorzystywane ponownie.",
 		"ukrainian": "Частина промислових відходів цієї будівлі перероблюється. Кожні %amount%% раундів повертаються всі використані ресурси.",
 	},
 	"upgrade_soilEnrichment":  {
@@ -73,7 +73,7 @@
 		"russian": "Обогащение почвы",
 		"chinese": "土壤富集",
 		"italian": "Arricchimento del suolo.",
-		"polish": "Wzbogacanie gleby"
+		"polish": "Wzbogacanie gleby",
 		"ukrainian": "Збагачення ґрунту",
 	},
 	"upgradeDesc_soilEnrichment":  {
@@ -84,7 +84,7 @@
 		"russian": "Почва была тщательно подготовлена, что позволяет получать на %amount%% больше урожая.",
 		"chinese": "土壤经过堆肥后，增加了%amount%%的收成。",
 		"italian": "Il suolo è stato attentamente preparato per fornire raccolti superiori del %amount%%.",
-		"polish": "Gleba została starannie przygotowana, by dawać o %amount%% większe zbiory."
+		"polish": "Gleba została starannie przygotowana, by dawać o %amount%% większe zbiory.",
 		"ukrainian": "Ґрунт був ретельно підготовлений, що дозволяє отримувати на %amount%% більше врожаю.",
 	},
 	"upgrade_industrialRobots":  {
@@ -95,7 +95,7 @@
 		"russian": "Промышленный робот",
 		"chinese": "工业机器人",
 		"italian": "Robot Industriali",
-		"polish": "Roboty przemysłowe"
+		"polish": "Roboty przemysłowe",
 		"ukrainian": "Промислові роботи",
 	},
 	"upgradeDesc_industrialRobots":  {
@@ -106,7 +106,7 @@
 		"russian": "Автоматизация снижает потребность в вашей рабочей силе на %amount% рабочих.",
 		"chinese": "自动化将的减少%amount%工人的劳动力需求。",
 		"italian": "L'automazione riduce le richieste della tua forza lavoro di %amount% lavoratore(i).",
-		"polish": "Automatyzacja zmniejsza liczbę wymaganych pracowników o %amount% osób."
+		"polish": "Automatyzacja zmniejsza liczbę wymaganych pracowników o %amount% osób.",
 		"ukrainian": "Автоматизація знижуе потребу у вашій робочій силі на %amount%% працівників.",
 	},
 	"upgrade_highTechTools":  {
@@ -117,7 +117,7 @@
 		"russian": "Высокотехнологичные инструменты",
 		"chinese": "高科技工具",
 		"italian": "Utensili High Tech",
-		"polish": "Zaawansowane technologicznie narzędzia"
+		"polish": "Zaawansowane technologicznie narzędzia",
 		"ukrainian": "Високотехнологічні інструменти",
 	},
 	"upgradeDesc_highTechTools":  {
@@ -128,7 +128,7 @@
 		"russian": "Улучшение инструментов приводит к увеличению производства на %amount%%.",
 		"chinese": "更好的工具可将产量提高%amount%%。",
 		"italian": "Utensili migliori portano ad aumentare la produttività del %amount%%.",
-		"polish": "Lepsze narzędzia umożliwiają zwiększenie produkcji o %amount%%."
+		"polish": "Lepsze narzędzia umożliwiają zwiększenie produkcji o %amount%%.",
 		"ukrainian": "Покращення інструментів приводить до збільшення виробництва на %amount%%",
 	},
 
@@ -140,7 +140,7 @@
 		"russian": "Прочность",
 		"chinese": "续航能力",
 		"italian": "Durabilità",
-		"polish": "Wytrzymałość"
+		"polish": "Wytrzymałość",
 		"ukrainian": "Міцність",
 	},
 	"upgradeDurabilityTooltipDesc":  {
@@ -151,7 +151,7 @@
 		"russian": "100% улучшение - полностью новое, в свою очередь 0% улучшение полностью израсходовано. Эффект улучшения активен до тех пор, пока процент выше 0.",
 		"chinese": "100%升级是全新的，0%升级全部用完。 只要百分比在0以上，升级的效果就会激活。--TODO",
 		"italian": "Un miglioramento al 100% è completamente nuovo, allo 0% è completamente esaurito. L'effetto del miglioramento è attivo finchè la percentuale è superiore a 0.",
-		"polish": "100% ulepszenie oznacza fabrycznie nowe, 0% - całkowicie zużyte. Efekt ulepszenia jest aktywny tak długo, jak procent jest wyższy od 0."
+		"polish": "100% ulepszenie oznacza fabrycznie nowe, 0% - całkowicie zużyte. Efekt ulepszenia jest aktywny tak długo, jak procent jest wyższy od 0.",
 		"ukrainian": "100% покращення - повністю нове, у свою чершу 0% покращення повністю витрачено. Ефект покращення активний до тих пір, пока процент вище 0.",
 	},
 }
