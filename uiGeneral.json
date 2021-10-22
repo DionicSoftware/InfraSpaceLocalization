@@ -107,6 +107,7 @@
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
 		"german": "m",
+		"french": "m",
 	},
 	"seconds": {
 		"english": "seconds",
