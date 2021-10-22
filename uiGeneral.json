@@ -104,6 +104,10 @@
 		"chinese": "分",
 		"polish": "min",
 	},
+	"minute_M": { // used for something like "remaining time: 5 m".
+		"english": "m",
+		"german": "m",
+	},
 	"seconds": {
 		"english": "seconds",
 		"german": "Sekunden",
