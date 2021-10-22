@@ -120,7 +120,7 @@
 		"chinese": "一旦你拥有至少%amount%名%nextLevel%级的居民后，城镇就会升级到 \"%cityLevelName%\"。",
 		"italian": "La tua città sarà promossa a \"%cityLevelName%\" non appena avrai almeno %amount% cittadini di Livello %nextLevel%.",
 		"japanese": "%nextLevel%レベルの住民%amount%人:都市レベル\"%cityLevelName%\"へグレードアップ",
-		"polish": "Twoje miasto osiagnie status \"%cityLevelName%\", gdy co najmniej %amount% mieszkańców osiągnie poziom %nextLevel%.",
+		"polish": "Twoje miasto osiągnie status \"%cityLevelName%\", gdy co najmniej %amount% mieszkańców osiągnie poziom %nextLevel%.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -131,7 +131,7 @@
 		"chinese": "你已达到最高城市级别。恭喜！",
 		"italian": "Hai raggiunto il livello più alto della città. Congratulazioni!",
 		"japanese": "最高の都市レベルに到達しました。おめでとうございます！",
-		"polish": "Osiągnałeś najwyższy poziom miasta. Gratulacje!",
+		"polish": "Osiągnięto najwyższy poziom miasta. Gratulacje!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -360,7 +360,7 @@
 		"chinese": "人们正在搬进。",
 		"italian": "Sta arrivando gente.",
 		"japanese": "住民が入居中",
-		"polish": "Nowi mieszkańcy wprowadzaja się.",
+		"polish": "Nowi mieszkańcy wprowadzają się.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",

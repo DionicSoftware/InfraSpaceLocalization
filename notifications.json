@@ -7,7 +7,7 @@
 		"russian": "Недостаточно энергии в сети %networkId%",
 		"spanish": "No hay suficiente energía en la red %networkId%",
 		"italian": "Non c'è abbastanza energia nella rete %networkId%",
-	 	"polish": "W sieci %networkId% nie ma dosć energii",
+	 	"polish": "W sieci %networkId% nie ma dość energii",
 		"czech": "Nedostatek energie v síti %networkId%",
 	        "ukrainian": "Недостатньо енергії у мережі %networkId%",
 	},
