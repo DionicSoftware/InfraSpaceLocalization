@@ -1201,7 +1201,7 @@
 	},
 	"zoomIn": {
 		"english": "Zoom In",
-		"german": "Reinzommen",
+		"german": "Reinzoomen",
 		"french": "Zoomer",
 		"spanish": "Acercar la vista",
 		"russian": "Приблизить",
@@ -1941,7 +1941,7 @@
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
-		"german": "Zufriendenheitssystem",
+		"german": "Zufriedenheitssystem",
 		"french": "Système de bonheur",
 		"chinese": "幸福系统",
 		"russian": "Система удовлетворенности",
@@ -2188,7 +2188,7 @@
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
-		"german": "Ändert wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto wengier Objekte können auf einmal transportiert werden.",
+		"german": "Ändert wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto weniger Objekte können auf einmal transportiert werden.",
 		"french": "Contrôle le nombre d'objets que les véhicules peuvent transporter.\nPlus la difficulté est élevée, moins il est possible de transporter d'objets à la fois.",
 		"italian": "Controlla quanti oggetti possono essere trasportati dai veicoli. \nPiù è alta la difficoltà, meno oggetti potranno essere trasportati alla volta.",
 		"chinese": "决定着车辆的货物装载量。\n难度越高，车辆一次运输的物品越少。",

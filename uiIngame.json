@@ -157,7 +157,7 @@
 	},
 	"selectTech":  {
 		"english": "Select technology to research",
-		"german": "Technolgie wählen",
+		"german": "Technologie wählen",
 		"french": "Sélectionnez une technologie à rechercher",
 		"spanish": "Selecciona una tecnología para investigar",
 		"russian": "Выберите технологию для исследования",
@@ -616,7 +616,7 @@
 		"polish": "Zastąp drogę",
 	},
 	"replaceRoadDesc": {
-		"english": "Also reverses road direction if you don't have a replacement road seleted",
+		"english": "Also reverses road direction if you don't have a replacement road selected",
 		"german": "Kehrt außerdem Straßenrichtung um wenn keine Straße zum ersetzen ausgewählt ist",
 		"french": "Inverse la direction de la route sauf pour les remplacements de routes",
 		"polish": "Pozwala także odwrócić kierunek drogi, jeśli nie wybrano innego typu ulicy do zamiany.",

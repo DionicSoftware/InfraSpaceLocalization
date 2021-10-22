@@ -562,7 +562,7 @@
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
-		"german": "Sauerstofffilteranalge",
+		"german": "Sauerstofffilteranlage",
     "french": "Transformateur d'oxygène",
     "russian": "Кислородный процессор",
     "chinese": "氧气处理器",
@@ -601,7 +601,7 @@
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
-		"german": "Düngeranalge",
+		"german": "Düngeranlage",
     "french": "Usine d'engrais",
     "russian": "Завод удобрений",
     "chinese": "化肥厂",
@@ -720,7 +720,7 @@
   },
 	"habitatLevel6": {
     "english": "Luxury Residential Highrise",
-		"german": "Luxus-Wohnhohchaus",
+		"german": "Luxus-Wohnhochhaus",
     "french": "Tour résidentielle de luxe",
     "russian": "Элитная жилая высотка",
     "chinese": "豪华高层住宅",
@@ -878,7 +878,7 @@
 	  "ukrainian": "Великий лежачий знак",
   },
   "monumentDrill": {
-    "english": "Collosal Adamantine Drill",
+    "english": "Colossal Adamantine Drill",
     "german": "Gewaltiger Adamant-Bohrer",
     "french": "Foreuse colossale d'adamantine",
     "chinese": "大型金刚砂矿机",
