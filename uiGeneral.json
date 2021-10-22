@@ -53,6 +53,7 @@
 		"chinese": "小时",
 		"spanish": "horas",
 		"polish": "godziny",
+		"ukrainian": "годин",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -68,6 +69,7 @@
 		"russian": "час.",
 		"chinese": "时",
 		"polish": "h",
+		"ukrainian": "години" "годин",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -103,11 +105,13 @@
 		"russian": "мин.",
 		"chinese": "分",
 		"polish": "min",
+		"ukrainian": "хв.",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
 		"german": "m",
 		"french": "m",
+		"ukrainian": "хв.",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -185,5 +189,6 @@
 		"chinese": "天",
 		"czech": "dne",
 		"korean": "일",
+		"ukrainian": "днів",
 	},
 }
