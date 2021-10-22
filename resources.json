@@ -10,6 +10,7 @@
 		"japanese": "砂",
 	  	"polish": "Piasek",
 	  	"czech": "Písek",
+	        "ukrainian": "Пісок",
 
 	},
 	"resource_sulfur": {
@@ -23,6 +24,7 @@
 		"japanese": "硫黄",
 		"polish": "Siarka",
 		"czech": "Síra",
+		"ukrainian": "Сірка",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -35,6 +37,7 @@
 		"japanese": "コンクリート",
 		"polish": "Beton",
 		"czech": "Beton",
+		"ukrainian": "Бетон",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -47,6 +50,7 @@
 		"japanese": "鉄鉱石",
 		"polish": "Złoże żelaza",
 		"czech": "Železná ruda",
+		"ukrainian": "Залізна руда",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -59,6 +63,7 @@
 		"japanese": "アルミ鉱石",
 		"polish": "Złoże aluminium",
 		"czech": "Hliníková ruda",
+		"ukrainian": "Алюмінієва руда",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -71,6 +76,7 @@
 		"japanese": "ウラン鉱石",
 		"polish": "Złoże uranu",
 		"czech": "Uranová ruda",
+		"ukrainian": "Уранова руда",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -83,6 +89,7 @@
 		"japanese": "イリジウム鉱石",
 		"polish": "Złoże irydu",
 		"czech": "Iridiová ruda",
+		"ukrainian": "Іридієва руда",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -95,6 +102,7 @@
 		"japanese": "アダマンタイト",
 		"polish": "Adamantyna",
 		"czech": "Adamantin",
+		"ukrainian": "Адамантін",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -107,6 +115,7 @@
 		"japanese": "炭素",
 		"polish": "Węgiel",
 		"czech": "Uhlík",
+		"ukrainian": "Вуглець",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -119,6 +128,7 @@
 		"japanese": "ナノチューブ",
 		"polish": "Nanorurki węglowe",
 		"czech": "Nanotrubice",
+		"ukrainian": "Нанотрубки",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -131,6 +141,7 @@
 		"japanese": "鋼鉄",
 		"polish": "Stal",
 		"czech": "Ocel",
+		"ukrainian": "Сталь",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -143,6 +154,7 @@
 		"japanese": "銅鉱石",
 		"polish": "Złoże miedzi",
 		"czech": "Měděná ruda",
+		"ukrainian": "Мідна руда",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -155,6 +167,7 @@
 		"japanese": "モーター",
 		"polish": "Silniki",
 		"czech": "Motor",
+		"ukrainian": "Мотор",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -167,6 +180,7 @@
 		"japanese": "電子部品",
 		"polish": "Elektronika",
 		"czech": "Elektronika",
+		"ukrainian": "Електроніка",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -179,6 +193,7 @@
 		"japanese": "家電",
 		"polish": "AGD",
 		"czech": "Domácí spotřebiče",
+		"ukrainian": "Побутова техніка",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -191,6 +206,7 @@
 		"japanese": "マイクロチップ",
 		"polish": "Mikroczipy",
 		"czech": "Mikročipy",
+		"ukrainian": "Мікрочіп",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -203,6 +219,7 @@
 		"japanese": "ニューラルプロセッサー",
 		"polish": "Procesory neuronowe",
 		"czech": "Neuronové procesory",
+		"ukrainian": "Нейронний процесор",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -215,6 +232,7 @@
 		"japanese": "コンピューター",
 		"polish": "Komputery",
 		"czech": "Počítače",
+		"ukrainian": "Комп'ютер",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -227,6 +245,7 @@
 		"japanese": "家庭用ロボ",
 		"polish": "Roboty domowe",
 		"czech": "Roboti do domácnosti",
+		"ukrainian": "Домашній робот",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -239,6 +258,7 @@
 		"japanese": "工業用ロボ",
 		"polish": "Roboty przemysłowe",
 		"czech": "Průmysloví roboti",
+		"ukrainian": "Промисловий робот",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -251,6 +271,7 @@
 		"japanese": "ハイテクニカルツール",
 		"polish": "Zaawansowane narzędzia",
 		"czech": "High Tech nástroje",
+		"ukrainian": "Високотехнологічний інструмент",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -263,6 +284,7 @@
 		"japanese": "ホロディスプレイ",
 		"polish": "Wyświetlacze holograficzne",
 		"czech": "Hologramové obrazovky",
+		"ukrainian": "Голографічний дисплей,
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -275,6 +297,7 @@
 		"japanese": "教育用VR",
 		"polish": "Sprzęty edukacyjno-rozrywkowe VR",
 		"czech": "Zábavní VR",
+		"ukrainian": "VR-навчання",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -287,6 +310,7 @@
 		"japanese": "イリジウム合金",
 		"polish": "Stop irydu",
 		"czech": "Slitina iridia",
+		"ukrainian": "Іридієвий сплав",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -299,6 +323,7 @@
 		"japanese": "イリジウム推進剤",
 		"polish": "Paliwo irydowe",
 		"czech": "Iridiové palivo",
+		"ukrainian": "Іридієве паливо",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -311,6 +336,7 @@
 		"japanese": "AI制御ユニット",
 		"polish": "Kontrolery AI",
 		"czech": "Kontrolní jednotky umělé inteligence",
+		"ukrainian": "Блок керування ШІ",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -323,6 +349,7 @@
 		"japanese": "電磁波コア",
 		"polish": "Wkłady jądrowe",
 		"czech": "Radiační jádro",
+		"ukrainian": "Радіаційне ядро",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -335,6 +362,7 @@
 		"japanese": "ブルーサイエンスパック",
 		"polish": "Niebieski pakiet naukowy",
 		"czech": "Modrý vědecký balíček",
+		"ukrainian": "Синій науковий пакет",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -347,6 +375,7 @@
 		"japanese": "グリーンサイエンスパック",
 		"polish": "Zielony pakiet naukowy",
 		"czech": "Zelený vědecký balíček",
+		"ukrainian": "Зелений науковий пакет",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -359,6 +388,7 @@
 		"japanese": "イエローサイエンスパック",
 		"polish": "Żółty pakiet naukowy",
 		"czech": "Žlutý védecký balíček",
+		"ukrainian": "Жовтий науковий пакет",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -371,6 +401,7 @@
 		"japanese": "レッドサイエンスパック",
 		"polish": "Czerwony pakiet naukowy",
 		"czech": "Červený vědecký balíček",
+		"ukrainian": "Червоний науковий пакет",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -383,6 +414,7 @@
 		"japanese": "酸素",
 		"polish": "Tlen",
 		"czech": "Kyslík",
+		"ukrainian": "Кисень",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -395,6 +427,7 @@
 		"japanese": "肥料",
 		"polish": "Nawóz",
 		"czech": "Hnojivo",
+		"ukrainian": "Добрива",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -407,6 +440,7 @@
 		"japanese": "野菜",
 		"polish": "Warzywa",
 		"czech": "Zelenina",
+		"ukrainian": "Овочі",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -419,6 +453,7 @@
 		"japanese": "肉",
 		"polish": "Mięso",
 		"czech": "Maso",
+		"ukrainian": "М'ясо",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -431,6 +466,7 @@
 		"japanese": "食料品",
 		"polish": "Dobre posiłki",
 		"czech": "Kvalitní jídlo",
+		"ukrainian": "Хороша їжа",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -443,6 +479,7 @@
 		"japanese": "非常食",
 		"polish": "Racje żywnościowe",
 		"czech": "Jídlo pro přežití",
+		"ukrainian": "Їжа для виживання",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -455,6 +492,7 @@
 		"japanese": "公園",
 		"polish": "Park",
 		"czech": "Park",
+		"ukrainian": "Парк",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -467,6 +505,7 @@
 		"japanese": "文化",
 		"polish": "Kultura",
 		"czech": "Kultura",
+		"ukrainian": "Культура",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -479,6 +518,7 @@
 		"japanese": "学校",
 		"polish": "Szkoła",
 		"czech": "Škola",
+		"ukrainian": "Школа",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -491,6 +531,7 @@
 		"japanese": "車",
 		"polish": "Pojazd",
 		"czech": "Auto",
+		"ukrainian": "Машина",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -503,6 +544,7 @@
 		"japanese": "住民",
 		"polish": "Mieszkańcy",
 		"czech": "Obyvatel",
+		"ukrainian": "Громадянин",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -515,6 +557,7 @@
 		"japanese": "住民",
 		"polish": "Mieszkańcy",
 		"czech": "Obyvatel",
+		"ukrainian": "Громадянин",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -527,5 +570,6 @@
 		"japanese": "電力",
 		"polish": "Energia",
 		"czech": "Energie",
+		"ukrainian": "Енергія",
 	}
 }
