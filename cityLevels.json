@@ -10,6 +10,7 @@
 		"japanese": "前哨基地",
 		"polish": "Kolonia",
 		"czech": "Kolonie",
+		"ukrainian": "Аванпост",
 	},
 	"cityLevel2":  {
 		"english": "Settlement",
@@ -22,6 +23,7 @@
 		"japanese": "入植地",
 		"polish": "Osada",
 		"czech": "Osada",
+		"ukrainian": "Поселення",
 	},
 	"cityLevel3":  {
 		"english": "Small Town",
@@ -34,6 +36,7 @@
 		"japanese": "村",
 		"polish": "Miasteczko",
 		"czech": "Městys",
+		"ukrainian": "Маленьке місто",
 	},
 	"cityLevel4":  {
 		"english": "Large Town",
@@ -46,6 +49,7 @@
 		"japanese": "町",
 		"polish": "Miasto",
 		"czech": "Město",
+		"ukrainian": "Велике місто",
 	},
 	"cityLevel5":  {
 		"english": "City",
@@ -58,6 +62,7 @@
 		"japanese": "都市",
 		"polish": "Metropolia",
 		"czech": "Metropole",
+		"ukrainian": "Місто",
 	},
 	"cityLevel6":  {
 		"english": "Planetary Capital",
@@ -70,5 +75,6 @@
 		"japanese": "首都",
 		"polish": "Stolica planetarna",
 		"czech": "Hlavní město planety",
+		"ukrainian": "Планетарна столиця",
 	},
 }
