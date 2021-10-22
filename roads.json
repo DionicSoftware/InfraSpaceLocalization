@@ -10,6 +10,7 @@
 		"japanese": "砂利道",
 	  	"polish": "Żwirowa droga",
 	  	"czech": "Štěrková cesta",
+	        "ukrainian": "Гравійна дорога",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -22,6 +23,7 @@
 		"japanese": "舗装道路",
 		"polish": "Betonowa droga",
 		"czech": "Betonová cesta",
+		"ukrainian": "Бетонна дорога",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -34,6 +36,7 @@
 		"japanese": "高速道路",
 		"polish": "Autostrada",
 		"czech": "Dálnice",
+		"ukrainian": "Шосе",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -46,5 +49,6 @@
 		"japanese": "アウトバーン",
 		"polish": "Superautostrada",
 		"czech": "Superdálnice",
+		"ukrainian": "Супермагістраль",
 	},
 }
