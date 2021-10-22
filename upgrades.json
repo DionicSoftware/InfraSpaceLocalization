@@ -18,7 +18,7 @@
 		"russian": "Адаптированные лопасти создают меньше помех в воздухе. Ветровые турбины можно разместить на %amount%% ближе друг к другу",
 		"chinese": "使叶片更加符合空气流动减少空气阻力。风力涡轮机可以彼此靠近%amount%%放置。",
  		"italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria. Le turbine eoliche possono essere cotruite il %amount%% più vicine fra loro.",
-		"polish": "Ulepszone łopaty powodują mniej zawirowań powietrza. Turbiny wiatrowe mogą być umieszczane %amount%% bliżej siebie."
+		"polish": "Ulepszone łopaty powodują mniej zawirowań powietrza. Turbiny wiatrowe mogą być umieszczane %amount%% bliżej siebie.",
 		"ukrainian": "Адаптованні лопаті створюють менше перешкод у повітрі. Вітрові турбіни можна розмістити на %amount%% ближче одна до одної.",
 	},
 	"upgrade_selfCleaningSolarPanels":  {
