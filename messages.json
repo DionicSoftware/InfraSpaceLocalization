@@ -21,7 +21,7 @@
 		"italian": "Congratulazioni, la tua città ha appena raggiunto il livello %cityLevel%. Hai sbloccato nuove tecnologie nella ricerca.",
 		"polish": "Gratulacje! Twoje miasto właśnie osiągnęło poziom %cityLevel%. Odblokowano możliwość odkrycia nowych technologii.",
 		"czech": "Gratulujemem tvé město dosáhlo úrovně %cityLevel%. Odemkli se ti nové budovy a technologie pro výzkum.",
-		"ukrainian": "Вітаємо, ваше місто тільки що досягло рівень %cityLevel%. Ви відкрили нові технології та дослідження.",
+		"ukrainian": "Вітаємо, ваше місто тільки що досягло %cityLevel% рівня. Ви відкрили нові технології та дослідження.",
 	},
 	"message_cityLevelDownTitle":  {
 		"english": "City demoted!",
