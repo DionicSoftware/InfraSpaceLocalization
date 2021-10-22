@@ -619,14 +619,14 @@
 		"english": "Also reverses road direction if you don't have a replacement road seleted",
 		"german": "Kehrt außerdem Straßenrichtung um wenn keine Straße zum ersetzen ausgewählt ist",
 		"french": "Inverse la direction de la route sauf pour les remplacements de routes",
-		"polish": "Pozwala także odwrócić kierunek drogi, jeśli nie wybrano innego typu ulicy do zamiany."
+		"polish": "Pozwala także odwrócić kierunek drogi, jeśli nie wybrano innego typu ulicy do zamiany.",
 		"spanish": "Además invierte la dirección de la carretera si no tienes un reemplazo seleccionado",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
 		"german": "Straßenrichtung umkehren",
 		"french": "Inverser les routes",
-		"polish": "Odwrócenie kierunku drogi"
+		"polish": "Odwrócenie kierunku drogi",
 		"spanish": "Invertir carretera"
 	},
 	"snapToRoad": { // snapping building to road
