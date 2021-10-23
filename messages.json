@@ -9,7 +9,7 @@
 		"italian": "La Città è Aumentata di Livello!",
 	  	"polish": "Miasto osiągnęło nowy poziom!",
 	  	"czech": "Úroveň města se zvýšila!",
-        "ukrainian": "Місто перейшло на новий рівень",
+        	"ukrainian": "Місто перейшло на новий рівень",
 		"slovak": "Úroveň mesta sa zvýšila",
 	},
 	"message_cityLevelUpText":  {
