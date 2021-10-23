@@ -1,15 +1,15 @@
 {
   "tech_farming": {
     "english": "Farming",
-		"german": "Landwirtschaft",
+    "german": "Landwirtschaft",
     "french": "Agriculture",
     "russian": "Фермерство",
     "spanish": "Agricultura",
     "chinese": "农业",
     "italian": "Agricoltura",
-	  "polish": "Rolnictwo",
-	  "czech": "Farmaření",
-	  "ukrainian": "Фермерство",
+    "polish": "Rolnictwo",
+    "czech": "Farmaření",
+    "ukrainian": "Фермерство",
     "slovak": "Farmárenie",
   },
 
