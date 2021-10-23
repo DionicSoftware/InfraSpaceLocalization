@@ -682,7 +682,7 @@
 		"german": "Straßenrichtung umkehren",
 		"french": "Inverser les routes",
 		"polish": "Odwrócenie kierunku drogi",
-		"spanish": "Invertir carretera"
+		"spanish": "Invertir carretera",
 		"ukrainian": "Зворотня дорога",
 	},
 	"snapToRoad": { // snapping building to road
