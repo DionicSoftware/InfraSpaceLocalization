@@ -1,4 +1,4 @@
-﻿{
+{
   "message_cityLevelUpTitle":  {
 		"english": "City leveled up!",
 		"german": "Stadt aufgestiegen!",
@@ -9,7 +9,8 @@
 		"italian": "La Città è Aumentata di Livello!",
 	  	"polish": "Miasto osiągnęło nowy poziom!",
 	  	"czech": "Úroveň města se zvýšila!",
-                "ukrainian": "Місто перейшло на новий рівень",
+        "ukrainian": "Місто перейшло на новий рівень",
+		"slovak": "Úroveň mesta sa zvýšila",
 	},
 	"message_cityLevelUpText":  {
 		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
@@ -22,6 +23,7 @@
 		"polish": "Gratulacje! Twoje miasto właśnie osiągnęło poziom %cityLevel%. Odblokowano możliwość odkrycia nowych technologii.",
 		"czech": "Gratulujemem tvé město dosáhlo úrovně %cityLevel%. Odemkli se ti nové budovy a technologie pro výzkum.",
 		"ukrainian": "Вітаємо, ваше місто тільки що досягло %cityLevel% рівня. Ви відкрили нові технології та дослідження.",
+		"slovak": "Gralujeme tvoje mesto dosiahlo úrovne %cotyLevel%. Odomkli sa vám nové budovy a technológie pre výzkum.",
 	},
 	"message_cityLevelDownTitle":  {
 		"english": "City demoted!",
@@ -34,6 +36,7 @@
 		"polish": "Miasto zdegradowane!",
 		"czech": "Město degradovalo!",
 		"ukrainian": "Рівень міста знижений!",
+		"slovak": "Mesto sa degradovalo!",
 	},
 	"message_cityLevelDownText":  {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
@@ -46,6 +49,7 @@
 		"polish": "Nie udało ci się zadbać o mieszkańców. Poziom miasta pozostanie obniżony do czasu zaspokojenia ich potrzeb.",
 		"czech": "Selhal jsi v zásobování tvých obyvatel. Tvé město bude degradované dokud se situace nezlepší.",
 		"ukrainian": "Ви не змогли забезпечити своїх громадян. Рівень вашого міста був знижений, поки що ви не зможете змінити ситуацію.",
+		"slovak": "Zlyhal si v zásobovaní tvojich obyvatelov. Tvoje mesto bude degradované pokiaľ sa situácia nezlepší.",
 	},
 	"attention":  {
 		"english": "Attention!",
@@ -58,6 +62,7 @@
 		"polish": "Uwaga!",
 		"czech": "Pozor!",
 		"ukrainian": "Увага!",
+		"slovak": "Pozor!",
 	},
 	"message_debugModeText":  {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
@@ -70,5 +75,6 @@
 		"polish": "Tryb deweloperski został stworzony tylko z myślą o deweloperach. Aktywowanie go może doprowadzić do pojawiania się błędów.",
 		"czech": "Developerský mód se používá pro vývoj. Jeho zapnutím můžeš narazit na bugy.",
 		"ukrainian": "Режим налагодження призначений для використання при розробці. Якщо ввімкнути режим налагодження, можуть виникнути помилки.",
+		"slovak": "Developerský režim sa používa pre vývoj. Jeho zapnutím môžeš naraziť na chyby.",
 	},
 }
