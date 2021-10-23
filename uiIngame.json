@@ -1179,7 +1179,7 @@
 		"russian": "Эффективность %percentage%%",
 		"japanese": "%percentage%%の稼働率",
 		"polish": "%percentage%% wydajności",
-		"slovak": "%percantage%% Efektivita",
+		"slovak": "%percentage%% Efektivita",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
