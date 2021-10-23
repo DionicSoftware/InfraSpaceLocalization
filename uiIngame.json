@@ -8,8 +8,8 @@
 		"chinese": "电力网络 %id%",
 		"italian": "Rete Elettrica %id%",
 		"japanese": "電力ネットワーク網:No.%id%",
-	  	"polish": "Sieć energetyczna %id%",
-	  	"slovak": "Napájacia sieť %id%",
+	  "polish": "Sieć energetyczna %id%",
+	        "ukrainian": "Електромережа %id%",
 	},
 	"powerRequired":  {
 		"english": "Required: %amount% MW",
@@ -21,7 +21,7 @@
 		"italian": "Richiesta: %amount% MW",
 		"japanese": "必要電力:%amount%MW",
 		"polish": "Wymagane: %amount% MW",
-		"slovak": "Požadované: %amount% MW",
+		"ukrainian": "Потрібно: %amount% МВт",
 	},
 	"powerConsumed":  {
 		"english": "Power consumed:",
@@ -33,7 +33,7 @@
 		"italian": "Elettricità consumata",
 		"japanese": "消費電力:",
 		"polish": "Zużywana energia",
-		"slovak": "Elektrina spotrebovaná:",
+		"ukrainian": "Споживана енергія",
 	},
 	"powerProduced":  {
 		"english": "Power produced:",
@@ -45,7 +45,7 @@
 		"italian": "Elettricità Prodotta:",
 		"japanese": "発電力:",
 		"polish": "Produkowana energia",
-		"slovak": "Elektrina produkcia:",
+		"ukrainian": "Вироблена енергія",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -57,7 +57,7 @@
 		"italian": "Magazzino in entrata vuoto",
 		"japanese": "在庫なし",
 		"polish": "Brak potrzebnych towarów",
-		"slovak": "Prichádzajúci sklad je prázny",
+		"ukrainian": "Вхідне сховище порожнє",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -69,7 +69,7 @@
 		"italian": "Nessun accesso alla strada",
 		"japanese": "道路に未接続",
 		"polish": "Brak dostępu do drogi",
-		"slovak": "Žiadny prístup k ceste",
+		"ukrainian": "Немає доступу до дороги",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -81,7 +81,7 @@
 		"italian": "Magazzino in uscita pieno",
 		"japanese": "在庫満タン",
 		"polish": "Magazyn towarów pełny",
-		"slovak": "Odchádzajúci sklad je plný",
+		"ukrainian": "Вихідне сховище заповнене",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -93,7 +93,7 @@
 		"italian": "Nessun lavoratore nell'edificio",
 		"japanese": "労働者なし",
 		"polish": "Brak pracowników",
-		"slovak": "Žiadny pracovníci v budove",
+		"ukrainian": "В будівлі немає будівників",
 	},
 	"noPower": {
 		"english": "No power",
@@ -105,7 +105,7 @@
 		"italian": "Manca elettricità",
 		"japanese": "電力なし",
 		"polish": "Brak energii",
-		"slovak": "Žiadna elektrina",
+		"ukrainian": "Немає енергії",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -117,7 +117,7 @@
 		"italian": "Efficienza al %amount%%",
 		"japanese": "%amount%%の稼働率",
 		"polish": "%amount%% wydajności",
-		"slovak": "%amount%% Efektivita",
+		"ukrainian": "Ефективність: %amount%%",
 	},
 
 
@@ -131,7 +131,7 @@
 		"italian": "La tua città sarà promossa a \"%cityLevelName%\" non appena avrai almeno %amount% cittadini di Livello %nextLevel%.",
 		"japanese": "%nextLevel%レベルの住民%amount%人:都市レベル\"%cityLevelName%\"へグレードアップ",
 		"polish": "Twoje miasto osiągnie status \"%cityLevelName%\", gdy co najmniej %amount% mieszkańców osiągnie poziom %nextLevel%.",
-		"slovak": "Tvoje mesto bude povýšené na úroveň \"%cityLevelName%\" až keď dosiahneš %amount% úrovne %nextLevel% občanov.",
+		"ukrainian": "Ваше місто буде підвищено до \"%cityLevelName%\", як тільки у вас буде хоча б %amount% громадян %nextLevel% рівня. ",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -143,7 +143,7 @@
 		"italian": "Hai raggiunto il livello più alto della città. Congratulazioni!",
 		"japanese": "最高の都市レベルに到達しました。おめでとうございます！",
 		"polish": "Osiągnięto najwyższy poziom miasta. Gratulacje!",
-		"slovak": "Dosiahol si maximálnu úroveň mesta. Gratulujeme!",
+		"ukrainian": "Ви досягли максимального рівня міста. Вітаємо!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -155,7 +155,7 @@
 		"italian": "La tua città sarà retrocessa a \"%cityLevelName%\" se avrai meno di %amount% cittadini di Livello %level%.",
 		"japanese": "%level%レベルの住民%amount%人以下:都市レベル\"%cityLevelName%\"へグレードダウン",
 		"polish": "Twoje miasto zostanie zdegradowanie do poziomu \"%cityLevelName%\" jeśli będziesz miał mniej niż %amount% mieszkańców poziomu %level%.",
-		"slovak": "Tvoje mesto sa degradovalo na úroveň \"%cityLevelName%\" ak máte menej ako %amount% Úroveň %level% občanov",
+		"ukrainian": "Ваше місто буде понижено до \"%cityLevelName%\", якщо в ньому буде менше %amount% громадян %level% рівня. ",
 	},
 	"researchingSomething":  {
 		"english": "Researching %techName%...    %progress%",
@@ -166,8 +166,8 @@
 		"chinese": "研究%techName%中...    %progress%",
 		"italian": "Ricerca di %techName%...    %progress%",
 		"japanese": "%techName%を研究中：進捗%progress%",
-		"polish": "Badanie: %techName%...    %progress%",
-		"slovak": "Vyskúm %techName%... %progress%",
+		"polish":"Badanie: %techName%...    %progress%",
+		"ukrainian": "Дослідження %techName%...    %progress%",
 	},
 	"selectTech":  {
 		"english": "Select technology to research",
@@ -178,8 +178,8 @@
 		"chinese": "选择技术研究",
 		"italian": "Seleziona la tecnologia da ricercare",
 		"japanese": "テクノロジー一覧",
-		"polish": "Wybierz technologię do zbadania",
-		"slovak": "Vyber technológiu na výskum",
+		"polish":"Wybierz technologię do zbadania",
+		"ukrainian": "Оберіть технологію для дослідження.",
 	},
 	"researchUnlockedNothing":  {
 		"english": "Nothing",
@@ -191,7 +191,7 @@
 		"italian": "Niente",
 		"japanese": "なし",
 		"polish":"Nic",
-		"slovak": "Nič",
+		"ukrainian": "Нічого",
 	},
 	"researchUnlockedAndCanBuild":  {
 		"english": "We have unlocked %techName% and can now build:",
@@ -203,7 +203,7 @@
 		"italian": "Abbiamo sbloccato %techName% ed adesso puoi costruire:",
 		"japanese": "%techName%の研究が終了し下記の建設が可能:",
 		"polish":"Odblokowaliśmy nową technologię: %techName%. Możemy teraz zbudować:",
-		"slovak": "Odomkli sme %techName% a teraz to môžeme postaviť:",
+		"ukrainian": "Ви розблокували %techName% і тепер вам доступні будови:",
 	},
 	"researchUnlocked":  {
 		"english": "We have unlocked %techName%.",
@@ -215,7 +215,7 @@
 		"italian": "Abbiamo sbloccato %techName%.",
 		"japanese": "%techName%の研究が終了",
 		"polish":"Odblokowaliśmy nową technologię: %techName%.",
-		"slovak": "Odomkli sme %techName%.",
+		"ukrainian": "Ви розблокували %techName%.",
 	},
 	"techUnlocks":  {
 		"english": "This technology unlocks:",
@@ -227,7 +227,7 @@
 		"italian": "Questa tecnologia sblocca:",
 		"japanese": "テクノロジーを取得:",
 		"polish":"Ta technologia odblokowuje:",
-		"slovak": "Táto technológia odomkne:",
+		"ukrainian": "Ця технологя розблокує :",
 	},
 	"techUnlocksNothing":  {
 		"english": "This technology unlocks nothing.",
@@ -239,7 +239,7 @@
 		"italian": "Questa tecnologia non sblocca niente.",
 		"japanese": "このテクノロジーは未取得",
 		"polish":"Ta technologia nic nie odblokowuje.",
-		"slovak": "Táto technológia odomkne nič.",
+		"ukrainian": "Ця технологія нічого не розблокує.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -251,7 +251,7 @@
 		"italian": "Ricerca completata!",
 		"japanese": "研究が完了！",
 		"polish":"Badanie ukończone",
-		"slovak": "Vyskúm dokončený",
+		"ukrainian": "Дослідження завершено!",
 	},
 	"production": {
 		"english": "Production",
@@ -263,7 +263,7 @@
 		"italian": "Produzione",
 		"japanese": "生産",
 		"polish":"Produkcja",
-		"slovak": "Produkcia",
+		"ukrainian": "Виробництво",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -275,7 +275,7 @@
 		"spanish": "Consumo",
 		"japanese": "消費",
 		"polish":"Zapotrzebowanie",
-		"slovak": "Spotreba",
+		"ukrainian": "Споживання",
 	},
 	"workers": {
 		"english": "Workers",
@@ -287,7 +287,7 @@
 		"spanish": "Obreros",
 		"japanese": "労働者",
 		"polish":"Pracownicy",
-		"slovak": "Pracovníci",
+		"ukrainian": "Працівники",
 	},
 	"storage": {
 		"english": "Storage",
@@ -299,7 +299,7 @@
 		"italian": "Magazzino",
 		"japanese": "在庫",
 		"polish":"Przestrzeń magazynowa",
-		"slovak": "Sklad",
+		"ukrainian": "Сховище",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -311,7 +311,7 @@
 		"italian": "Aggiornamenti",
 		"japanese": "アップグレード",
 		"polish":"Ulepszenia",
-		"slovak": "Vylepšenia",
+		"ukrainian": "Покращення",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -323,7 +323,7 @@
 		"italian": "Priorità",
 		"japanese": "優先",
 		"polish":"Zwiększ priorytet",
-		"slovak": "Priorita",
+		"ukrainian": "Зробити пріоритетним",
 	},
 	"price": {
 		"english": "Price",
@@ -342,7 +342,6 @@
 		"romanian": "Preț",
 		"czech": "Cena",
 		"japanese": "価格",
-		"slovak": "Cena",
 	},
 
 	// habitat info panel
@@ -356,7 +355,7 @@
 		"italian": "L'habitat si aggiornerà in %seconds%s.",
 		"japanese": "居住地のアップグレードまで%seconds%秒",
 		"polish":"Budynek mieszkalny zostanie rozbudowany za %seconds% s.",
-		"slovak": "Obydlenie sa vylepšuje za %seconds%s.",
+		"ukrainian": "Покращення середовища проживання через %seconds% сек.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -368,7 +367,7 @@
 		"italian": "L'habitat si declasserà in %seconds%s.",
 		"japanese": "居住地のダウングレードまで%seconds%秒",
 		"polish": "Budynek mieszkalny zostanie zdegradowany za %seconds% s.",
-		"slovak": "Obydlenie sa degraduje za %seconds%s.",
+		"ukrainian": "Погіршення середовища проживання через %seconds% сек.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -380,7 +379,7 @@
 		"italian": "L'habitat è pieno. Soddisfa i bisogni supplementari per farlo aggiornare.",
 		"japanese": "居住地をアップグレードするためのニーズ",
 		"polish": "Budynek jest pełny. Zaspokój dodatkowe potrzeby, aby mógł zostać rozbudowany.",
-		"slovak": "Obydlenie je plné. Splňte ďalšie potreby pre vylepšenie.",
+		"ukrainian": "Середовище проживання заповнене. Виконайте додаткові вимоги для покращення.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -392,7 +391,7 @@
 		"italian": "Sta arrivando gente.",
 		"japanese": "住民が入居中",
 		"polish": "Nowi mieszkańcy wprowadzają się.",
-		"slovak": "Ľudia sa sťahujú",
+		"ukrainian": "Жителі приїжджають.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -404,7 +403,7 @@
 		"italian": "La gente sta andando via.",
 		"japanese": "住民が引っ越し中",
 		"polish": "Mieszkańcy wyprowadzają się.",
-		"slovak": "Ľudia sa odsťahovavájú",
+		"ukrainian": "Жителі виїжджають.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -416,7 +415,7 @@
 		"italian": "I bisogni non sono soddisfatti.",
 		"japanese": "ニーズが不足",
 		"polish": "Potrzeby mieszkańców nie są zaspokajane.",
-		"slovak": "Potreby nie sú splnené.",
+		"ukrainian": "Потреби не задоволені.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -428,7 +427,7 @@
 		"italian": "Gli abitanti stanno bene",
 		"japanese": "住民の状態は良好",
 		"polish": "Mieszkańcy mają się dobrze.",
-		"slovak": "Obyvatelia sú v poriadku",
+		"ukrainian": "З жителями все добре.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -440,7 +439,7 @@
 		"italian": "Nessuna ricerca selezionata",
 		"japanese": "研究が未選択",
 		"polish": "Nie wybrano badań.",
-		"slovak": "Žiadny výskum vybraný",
+		"ukrainian": "Дослідження не обрано",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -452,7 +451,7 @@
 		"italian": "Risorse in magazzino:",
 		"japanese": "倉庫の物資:",
 		"polish": "Towary w magazynie:",
-		"slovak": "Suroviny v sklade:",
+		"ukrainian": "Ресурсів у сховищі:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -464,7 +463,7 @@
 		"italian": "Cittadini di livello %level%",
 		"japanese": "%level%レベルの住民",
 		"polish": "Mieszkańcy poziomu %level%",
-		"slovak": "Úroveň %level% Obyvateľov",
+		"ukrainian": "Громадяни %level% рівня",
 	},
 	"population": {
 		"english": "Population",
@@ -476,7 +475,7 @@
 		"russian": "Население",
 		"japanese": "現在の人口数",
 		"polish": "Populacja",
-		"slovak": "Populácia",
+		"ukrainian": "Населення",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -488,7 +487,7 @@
 		"russian": "Работы",
 		"japanese": "必要な労働者",
 		"polish": "Miejsca pracy",
-		"slovak": "Práce",
+		"ukrainian": "Роботи",
 	},
 	"housing": {
 		"english": "Housing",
@@ -500,7 +499,7 @@
 		"russian": "Жилье",
 		"japanese": "移住可能な人口数",
 		"polish": "Dostępne miejsca w domach",
-		"slovak": "Bývanie",
+		"ukrainian": "Житло",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -511,7 +510,7 @@
 		"spanish": "Estadísticas",
 		"japanese": "都市統計",
 		"polish": "Statystyki miasta",
-		"slovak": "Štatistiky Mesta",
+		"ukrainian": "Міська статистика",
 
 	},
 	"statistics_population" : {
@@ -524,7 +523,7 @@
 		"russian": "Население",
 		"japanese": "人口数",
 		"polish": "Populacja",
-		"slovak": "Populácia",
+		"ukrainian": "Населення",
 	},
 	"statistics_jobs" : {
 		"english": "Jobs",
@@ -536,7 +535,7 @@
 		"russian": "Работы",
 		"japanese": "労働者",
 		"polish": "Miejsca pracy",
-		"slovak": "Práce",
+		"ukrainian": "Роботи",
 	},
 	"statistics_housing" : {
 		"english": "Housing",
@@ -548,7 +547,7 @@
 		"russian": "Жилье",
 		"japanese": "移住可能な人口数",
 		"polish": "Dostępne miejsca w domach",
-		"slovak": "Bývanie",
+		"ukrainian": "Житло",
 	},
 	"statistics_immigrationRate" : {
 		"english": "Immigration Rate",
@@ -560,7 +559,7 @@
 		"spanish": "Tasa de inmigración",
 		"japanese": "移住希望率",
 		"polish": "Wskaźnik imigracji",
-		"slovak": "Miera prisťahovalectva",
+		"ukrainian": "Швидкість імміграції",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -572,7 +571,7 @@
 		"russian": "Эффективность",
 		"japanese": "稼働率",
 		"polish": "Wydajność",
-		"slovak": "Efektivita",
+		"ukrainian": "Ефективність",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -584,7 +583,7 @@
 		"russian": "Недостаточно рабочих",
 		"japanese": "労働者不足:",
 		"polish": "Za mało pracowników",
-		"slovak": "Nedostatok pracovníkov",
+		"ukrainian": "Недостатньо працівників:",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -596,7 +595,7 @@
 		"russian": "Усиливается соседними зданиями",
 		"japanese": "近隣建築による稼働率アップ",
 		"polish": "Wydajność zwiększona dzięki sąsiednim budynkom",
-		"slovak": "Posilnené susednou budovou",
+		"ukrainian": "Посилюється сусідніми будівлями",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -608,7 +607,7 @@
 		"russian": "Недостаточно энергии:",
 		"japanese": "電力不足:",
 		"polish": "Za mało energii",
-		"slovak": "Nedostatok energie:",
+		"ukrainian": "Недостатньо енергії",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -620,7 +619,7 @@
 		"russian": "Нарушенный воздушный поток",
 		"japanese": "十分でない気流",
 		"polish": "Zakłócony przepływ powietrza",
-		"slovak": "Narušené prúdenie vzduchu",
+		"ukrainian": "Порушений повітряний потік",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -632,7 +631,7 @@
 		"russian": "Построить изогнутую дорогу",
 		"japanese": "カーブ",
 		"polish": "Zbuduj kręte drogi",
-		"slovak": "Postaviť zakrivenú cestu",
+		"ukrainian": "Побудувати вигнуту дорогу ",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -644,7 +643,7 @@
 		"spanish": "Asistencia de longitud de carretera",
 		"japanese": "距離の表示",
 		"polish": "Przyciągaj do długości drogi",
-		"slovak": "Dĺžka cesty",
+		"ukrainian": "Довжина дороги",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -656,7 +655,7 @@
 		"spanish": "Asistencia de ángulo de carretera",
 		"japanese": "直角の表示",
 		"polish": "Przyciągaj do kąta drogi",
-		"slovak": "Uhol cesty",
+		"ukrainian": "Кут прив'язки дороги",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -668,7 +667,7 @@
 		"spanish": "Reemplazar carretera",
 		"japanese": "置き換え",
 		"polish": "Zastąp drogę",
-		"slovak": "Nahradiť cestu",
+		"ukrainian": "Замінити дорогу",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -676,7 +675,7 @@
 		"french": "Inverse la direction de la route sauf pour les remplacements de routes",
 		"polish": "Pozwala także odwrócić kierunek drogi, jeśli nie wybrano innego typu ulicy do zamiany.",
 		"spanish": "Además invierte la dirección de la carretera si no tienes un reemplazo seleccionado",
-		"slovak": "Tiež zmení smer cesty, ak nemáte vybratú náhradnú cestu",
+		"ukrainian": "Також змінює напрямок дороги, якщо ви не обрали альтернативну дорогу",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -684,7 +683,7 @@
 		"french": "Inverser les routes",
 		"polish": "Odwrócenie kierunku drogi",
 		"spanish": "Invertir carretera",
-		"slovak": "Opačná cesta",
+		"ukrainian": "Зворотня дорога",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -696,7 +695,7 @@
 		"spanish": "Pegar a la carretera",
 		"japanese": "道路に接着",
 		"polish": "Przyciągaj do drogi",
-		"slovak": "Zacvaknúť na cestu",
+		"ukrainian": "Прив'язати до дороги",
 	},
 	"resourcesOnWay" : { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -708,7 +707,7 @@
 		"spanish": "Actualmente entregando: %amount%",
 		"japanese": "現在配送中:%amount%",
 		"polish": "Aktualnie dostarczane: %amount%",
-		"slovak": "Momentálne sa dodáva: %amount%",
+		"ukrainian": "В данний час доставляється: %amount%",
 	},
 
 	// sign panel
@@ -722,7 +721,7 @@
 		"spanish": "Texto",
 		"japanese": "文字",
 		"polish": "Tekst",
-		"slovak": "Text",
+		"ukrainian": "Текст",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -734,7 +733,7 @@
 		"spanish": "Tamaño de la Fuente",
 		"japanese": "フォントサイズ",
 		"polish": "Wielkość czcionki",
-		"slovak": "Veľkosť písma",
+		"ukrainian": "Розмір шрифту",
 	},
 	"font": {
 		"english": "Font",
@@ -746,7 +745,7 @@
 		"spanish": "Fuente",
 		"japanese": "フォント",
 		"polish": "Czcionka",
-		"slovak": "Druh Písma",
+		"ukrainian": "Шрифт",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -758,7 +757,7 @@
 		"spanish": "No conectado a la red eléctrica",
 		"japanese": "電力ネットワークに未接続",
 		"polish": "Nie połączono z siecią elektryczną",
-		"slovak": "Nepripojené k zdroju energie",
+		"ukrainian": "Не підключено до електромережі",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -770,7 +769,7 @@
 		"spanish": "El edificio está en colisión con algo",
 		"japanese": "他の建物などに接触",
 		"polish": "Budynek koliduje",
-		"slovak": "Budova s ​​niečím koliduje",
+		"ukrainian": "Будівлі щось заважає",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -782,7 +781,7 @@
 		"spanish": "Edificio no colocado sobre un depósito de recursos",
 		"japanese": "資源採取地外に設置",
 		"polish": "Budynek nie jest umieszczony na odpowiednim złożu",
-		"slovak": "Budova nie je umiestnená na zdroju surovín",
+		"ukrainian": "Будівлю не розміщена на покладі ресурсів",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -794,7 +793,7 @@
 		"spanish": "La carretera está en colisión con algo",
 		"japanese": "他の道路などに接触",
 		"polish": "Droga koliduje",
-		"slovak": "Cesta s niečím koliduje",
+		"ukrainian": "Дорозі щось заважає",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -806,7 +805,7 @@
 		"spanish": "Carretera demasiado cerca",
 		"japanese": "他の道路などに隣接",
 		"polish": "Za mało miejsca między drogami",
-		"slovak": "Blízko susednej cesty",
+		"ukrainian": "Занадто близько до сусідньої дороги",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -818,7 +817,7 @@
 		"spanish": "Segmento de carretera demasiado corto",
 		"japanese": "道路が短すぎ",
 		"polish": "Segment drogi jest za krótki",
-		"slovak": "Úsek cesty je príliš krátky",
+		"ukrainian": "Занадто короткий відрізок дороги",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -830,7 +829,7 @@
 		"spanish": "Carretera demasiado inclinada",
 		"japanese": "道路が急すぎ",
 		"polish": "Droga jest zbyt stroma",
-		"slovak": "Príliš strmá cesta",
+		"ukrainian": "Дорога занадто крута",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -842,8 +841,12 @@
 		"spanish": "Carretera demasiado lejos del suelo",
 		"japanese": "道路が地面から遠すぎ",
 		"polish": "Droga jest zbyt wysoko",
-		"slovak": "Cesta je príliš ďaleko od zeme",
+		"ukrainian": "Дорога занадто далеко від землі",
 	},
+
+
+
+
 	"visualizations": {
 		"english": "Visualizations",
 		"german": "Visualisierungen",
@@ -854,7 +857,7 @@
 		"spanish": "Visualización",
 		"japanese": "情報視覚化",
 		"polish": "Wizualizacje",
-		"slovak": "Vizualizácia",
+		"ukrainian": "Візуалізації",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -866,7 +869,7 @@
 		"spanish": "Eficiencia de los edificios",
 		"japanese": "建物稼働率",
 		"polish": "Wydajność budynków",
-		"slovak": "Stavebná efektivita",
+		"ukrainian": "Ефективність будівництва",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -878,7 +881,7 @@
 		"spanish": "Ocupación del edificio (Obreros & Habitantes)",
 		"japanese": "住民･労働者入居率",
 		"polish": "Obłożenie budynku (pracownicy i mieszkańcy)",
-		"slovak": "Obsadenosť budovy (pracovníci a obyvatelia)",
+		"ukrainian": "Заселеність будівлі (працівники та жителі)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -890,7 +893,7 @@
 		"spanish": "Energía",
 		"japanese": "電力供給範囲",
 		"polish": "Energia",
-		"slovak": "Energia",
+		"ukrainian": "Енергія",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -902,7 +905,7 @@
 		"spanish": "Turbina Eólica",
 		"japanese": "風力発電稼働範囲",
 		"polish": "Elektrownie wiatrowe",
-		"slovak": "Veterné turbíny",
+		"ukrainian": "Вітряні турбіни",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -914,7 +917,7 @@
 		"spanish": "Instalaciones de enriquecimiento de suelo",
 		"japanese": "農場関連施設",
 		"polish": "Zakłady wzbogacania gleby",
-		"slovak": "Zariadenia na obohacovanie pôdy",
+		"ukrainian": "Системи збагачення ґрунту",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -926,7 +929,7 @@
 		"spanish": "Centros de reciclaje",
 		"japanese": "リサイクル関連施設",
 		"polish": "Centra recyklingu",
-		"slovak": "Recyklačné centrná",
+		"ukrainian": "Центр переробки",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -938,7 +941,7 @@
 		"spanish": "Edificios con herramientas de alta tecnología",
 		"japanese": "ハイテクツール関連施設",
 		"polish": "Budynki z zaawansowanymi narzędziami",
-		"slovak": "Budovanie so Špičkovými nástrojmi",
+		"ukrainian": "Будівництво за допомогою високотехнологічних інструментів",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -950,7 +953,7 @@
 		"spanish": "Edificios con robots industriales",
 		"japanese": "工業ロボット関連施設",
 		"polish": "Budynki z robotami przemysłowymi",
-		"slovak": "Budovanie s Priemyslovými robotmi",
+		"ukrainian": "Будівництво з промисловими роботами",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -962,7 +965,7 @@
 		"spanish": "Vehículos",
 		"japanese": "車",
 		"polish": "Pojazdy",
-		"slovak": "Autá",
+		"ukrainian": "Машини",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -974,7 +977,7 @@
 		"spanish": "Carreteras",
 		"japanese": "道路",
 		"polish": "Drogi",
-		"slovak": "Cesty",
+		"ukrainian": "Дороги",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -986,7 +989,7 @@
 		"spanish": "Recursos necesarios",
 		"japanese": "必要物資:",
 		"polish": "Potrzebne surowce:",
-		"slovak": "Potrebné suroviny:",
+		"ukrainian": "Необхідні ресурси",
 
 	},
 	"miningResourcePerMinute": {
@@ -999,7 +1002,7 @@
 		"spanish": "Extrayendo %amount% %resourceName% por minuto",
 		"japanese": "%resourceName%の採掘量:%amount%/分",
 		"polish": "Wydobywa %resourceName% z prędkością %amount% na minutę",
-		"slovak": "Ťažba %amount% %resourceName% za minútu",
+		"ukrainian": "%amount% %resourceName% видобувається кожну хвилину",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1011,7 +1014,7 @@
 		"spanish": "Cantidad total extraída hasta ahora: %amount%",
 		"japanese": "総採掘量:%amount%",
 		"polish": "Dotychczas wydobyto: %amount%",
-		"slovak": "Celkové množstvo doteraz vyťažené: %amount%",
+		"ukrainian": "Усього видобуто: %amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1023,7 +1026,7 @@
 		"russian": "Районы",
 		"japanese": "輸送管理",
 		"polish": "Dzielnice",
-		"slovak": "Oblasť",
+		"ukrainian": "Райони",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -1035,7 +1038,7 @@
 		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
 		"japanese": "左クリック:地区の範囲指定\n右クリック:地区の範囲削除",
 		"polish": "LPM aby malować\nRPM aby wymazać",
-		"slovak": "Ľavým tlačidlom kreslíte\nPravým tlačidlom zmazávate",
+		"ukrainian": "Нажміть ЛКМ, щоб намалювати\nПКМ, щоб стерти",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -1047,8 +1050,9 @@
 		"spanish": "Mueve el cursor entre los distritos para crear una regla de exportación.\n\nLos distritos sin reglas de exportación pueden exportar bienes a donde sea.",
 		"japanese": "指定した地区間をドラッグし物資の輸送管理を行います。\n\n輸送管理のない地区はどこへでも輸送します。",
 		"polish": "Przeciągnij kursor myszy między dzielnicami, aby utworzyć drogę eksportową.\n\nDzielnice bez dróg eksportowych mogą wysyłać towary wszędzie.",
-		"slovak": "Potiahnutím kurzora myši medzi oblasťami vytvoríte pravidlo exportu.\n\nOkresy bez pravidiel exportu môžu vyvážať tovar kamkoľvek.",
+		"ukrainian": "Перетягуйте курсор миші між районами, щоб створити правило експорту.\n\nРайони без правил експорту можут експортувати товари куди завгодно. ",
 	},
+
 	"populationInfo": {
 		"english": "Population Info",
 		"german": "Bevölkerungsinfo",
@@ -1059,7 +1063,8 @@
 		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
 		"japanese": "宇宙港情報",
 		"polish": "Informacje o populacji",
-		"slovak": "Informácie o puplácii",
+		"ukrainian": "Інформація про населення",
+		
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -1071,7 +1076,7 @@
 		"russian": "Количество иммигрантов, готовых к заселению:",
 		"japanese": "移住希望者:",
 		"polish": "Imigranci gotowi, żeby się wprowadzić:",
-		"slovak": "Immigrants pripravený sa prisťahovať:",
+		"ukrainian": "Кількість іммігрантів, готових до заселення:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -1083,7 +1088,7 @@
 		"russian": "Скорость иммиграции:",
 		"japanese": "移住希望率:",
 		"polish": "Wskaźnik imigracji:",
-		"slovak": "Miera prisťahovalectva:",
+		"ukrainian": "Рівень імміграції",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -1095,7 +1100,7 @@
 		"russian": "Улучшайте среду обитания, чтобы сделать город привлекательным для новых жителей.",
 		"japanese": "居住地のアップグレードが移住希望率に影響",
 		"polish": "Rozbuduj budynki mieszkalne, aby przyciągnąć więcej mieszkańców.",
-		"slovak": "Vylepši si obydlia aby tvoje mesto príjimalo prisťahovalcov.",
+		"ukrainian": "Покращуйте середовище проживання,щоб зробити місто привабливим для нових жителів.",
 	},
 	"low": {
 		"english": "Low",
@@ -1107,7 +1112,7 @@
 		"russian": "Низкий",
 		"japanese": "低",
 		"polish": "Niski",
-		"slovak": "Malá",
+		"ukrainian": "Низький",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -1119,7 +1124,7 @@
 		"russian": "Средний",
 		"japanese": "中",
 		"polish": "Umiarkowany",
-		"slovak": "Mierna",
+		"ukrainian": "Помірний",
 	},
 	"high": {
 		"english": "High",
@@ -1131,7 +1136,7 @@
 		"russian": "Высокий",
 		"japanese": "高",
 		"polish": "Wysoki",
-		"slovak": "Vysoká",
+		"ukrainian": "Високий",
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -1143,7 +1148,7 @@
 		"russian": "Уровень среды обитания увеличен",
 		"japanese": "居住地のアップグレード",
 		"polish": "Budynek mieszkalny został rozbudowany",
-		"slovak": "Obydlie vylepšené",
+		"ukrainian": "Рівень середовища проживання збільшений",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -1155,7 +1160,7 @@
 		"russian": "Уровень среды обитания понижен",
 		"japanese": "居住地のダウングレード",
 		"polish": "Budynek mieszkalny zdegradował",
-		"slovak": "Obydlie degradované",
+		"ukrainian": "Рівень середовища проживання знижений",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -1167,7 +1172,7 @@
 		"russian": "МВт",
 		"japanese": "MW",
 		"polish": "MW",
-		"slovak": "MW",
+		"ukrainian": "МВт",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -1179,6 +1184,7 @@
 		"russian": "Эффективность %percentage%%",
 		"japanese": "%percentage%%の稼働率",
 		"polish": "%percentage%% wydajności",
+		"ukrainian": "Ефективність %percentage%%",
 		"slovak": "%percentage%% Efektivita",
 	},
 	"productionOverview": {
@@ -1190,7 +1196,7 @@
 		"russian": "Обзор производства",
 		"japanese": "生産状況",
 		"polish": "Przegląd produkcji",
-		"slovak": "Prehľad výroby",
+		"ukrainian": "Огляд виробництва",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -1201,7 +1207,7 @@
 		"russian": "Ресурс",
 		"japanese": "物資",
 		"polish": "Zasoby",
-		"slovak": "Zásoby",
+		"ukrainian": "Ресурс",
 	},
 	"priority": {
 		"english": "Priority",
@@ -1212,7 +1218,7 @@
 		"russian": "Приоритет",
 		"japanese": "優先度",
 		"polish": "Priorytet",
-		"slovak": "Priority",
+		"ukrainian": "Пріоритет",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -1223,6 +1229,6 @@
 		"chinese": "城市等级",
 		"japanese": "都市レベル",
 		"polish": "Poziom miasta",
-		"slovak": "Úroveň Mesta",
+		"ukrainian": "Рівень міста",
 	},
 }
