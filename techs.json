@@ -1,4 +1,4 @@
-﻿{
+{
   "tech_farming": {
     "english": "Farming",
 		"german": "Landwirtschaft",
@@ -10,6 +10,7 @@
 	  "polish": "Rolnictwo",
 	  "czech": "Farmaření",
 	  "ukrainian": "Фермерство",
+    "slovak": "Farmárenie",
   },
 
   "tech_electronics": {
@@ -23,6 +24,7 @@
 	  "polish": "Elektronika",
 	  "czech": "Elektronika",
 	  "ukrainian": "Електроніка",
+    "slovak": "Elektronika",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -35,6 +37,7 @@
 	  "polish": "Produkcja stali",
 	  "czech": "Produkce oceli",
 	  "ukrainian": "Виробництво сталі",
+    "slovak": "Produkcia ocele",
   },
 
 	
@@ -49,6 +52,7 @@
 	  "polish": "Zielona nauka",
 	  "czech": "Zelená věda",
 	  "ukrainian": "Зелена наука",
+    "slovak": "Zelená veda",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -61,6 +65,7 @@
 	  "polish": "AGD",
 	  "czech": "Domácí spotřebiče",
 	  "ukrainian": "Побутова техніка",
+    "slovak": "Domáce spotrebiče",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -73,6 +78,7 @@
 	  "polish": "Panele słoneczne",
 	  "czech": "Fotovoltaické panely",
 	  "ukrainian": "Сонячні панелі",
+    "slovak": "Solárne panely",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -85,6 +91,7 @@
 	  "polish": "Ulepszone łopaty turbin wiatrowych",
 	  "czech": "Vylepšená větrná turbína",
 	  "ukrainian": "Покращені лопаті вітряних турбін",
+    "slovak": "Vylepšená veterná turbína",
   },
 	"techDesc_improvedWindTurbineBlades": {
 		"english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -97,6 +104,7 @@
 		"polish": "Zmienia geometrię łopat dostosowując je do atmosfery. Pozwala to na zmniejszenie generowanych turbulencji, dzięki czemu elektrownie mogą być budowane bliżej siebie.",
 		"czech": "Adaptuje listy turbíny na atmosféru. Toto vede k menším turbulencím, takže můžou být blíže k sobě.",
 		"ukrainian": "Адаптує форму лопатей вітряної турбіни до атмосфери. Це знижує рівень високих перешкод в повітрі, що дозволяє будувати вітряні турбіни ближче одна до одної.",
+    "slovak": "Prispôsobuje tvar lopatiek veternej turbíny atmosfére. To vedie k menšiemu rušeniu vo vzduchu, čo vám umožní postaviť veterné turbíny bližšie k sebe.",
 	},
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -109,6 +117,7 @@
 	  "polish": "Betonowe drogi",
 	  "czech": "Betonové cesty",
 	  "ukrainian": "Бетонні дороги",
+    "slovak": "Betónové cesty",
   },
 
 	
@@ -122,7 +131,8 @@
     "italian": "Miniere di Alluminio",
 	  "polish": "Wydobycie aluminium",
 	  "czech": "Těžba hliníku",
-	  "ukrainian": "Видобуток алюмінію",
+	  "ukrainian": "Видуботок алюмінію",
+    "slovak": "Ťažba hliníka",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -135,11 +145,12 @@
 	  "polish": "Rozdzielnie elektryczne",
 	  "czech": "Elektrické rozvody",
 	  "ukrainian": "Електричні підстанції",
+    "slovak": "Elektrické rozvody",
   },
 	"techDesc_powerSubstation": {
 		"english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
 		"german": "Erweitere dein Stromnetz durch Umspannwerke, sodass du nicht mehr jedes Gebäude mit Strommästen versorgen musst.",
-    "french": "Intègre des sous-stations au réseau électrique pour ne pas avoir à relier chaque bâtiment à des poteaux électriques.",
+    "french": "Intégre des sous-stations au réseau électrique pour ne pas avoir à relier chaque bâtiment à des poteaux électriques.",
     "russian": "Интегрируйте подстанции в свою электрическую сеть, чтобы вам не пришлось снабжать каждое здание электрическими столбами.",
     "spanish": "Subestaciones integradas en tu red de energía, para que no tengas que suministrar cada edificio con postes eléctricos.",
     "chinese": "将变电站集成到你的电力网络中，\n这样就不必为每个建筑物都配备电线杆。",
@@ -147,6 +158,7 @@
 		"polish": "Włącznie rozdzielni do sieci elektrycznej sprawia, że budynki nie muszą być już połączone ze słupami elektrycznymi.",
 		"czech": "Vlož rozvodny do své sítě abys zásoboval elektřinou všechny budovy v dosahu.",
 		"ukrainian": "Інтегруйте підстанції у свою електричну мережу, щоб вам не довелось постачати у кожне приміщення електричні стовпи.",
+    "slovak": "Integrujte rozvodne do svojej elektrickej siete, aby ste nemuseli zásobovať každú budovu elektrickými stĺpmi.",
 	},
   "tech_motors": {
     "english": "Motors",
@@ -159,6 +171,7 @@
 	  "polish": "Silniki",
 	  "czech": "Motory",
 	  "ukrainian": "Мотори",
+    "slovak": "Motory",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -171,6 +184,7 @@
 	  "polish": "Czteropasmowe drogi",
 	  "czech": "Čtyřproudové silnice",
 	  "ukrainian": "Чотирьохсмугові дороги",
+    "slovak": "Čtvorprúdové diaľnice",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -183,6 +197,7 @@
 	  "polish": "Drogi jednokierunkowe",
 	  "czech": "Jednosměrky",
 	  "ukrainian": "Дороги з одностороннім рухом",
+    "slovak": "Jednosmerné cesty",
   },
 	
   "tech_parks": {
@@ -196,6 +211,7 @@
 	  "polish": "Duże budynki",
 	  "czech": "Velké stavby",
 	  "ukrainian": "Великі будівлі",
+    "slovak": "Veľké stavby",
   },
   "tech_computers": {
     "english": "Computers",
@@ -208,6 +224,7 @@
 	  "polish": "Komputery",
 	  "czech": "Počítače",
 	  "ukrainian": "Комп'ютери",
+    "slovak": "Počítače",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -220,6 +237,7 @@
 	  "polish": "Duże kopalnie",
 	  "czech": "Velké doly",
 	  "ukrainian": "Великі шахти",
+    "slovak": "Veľké bane",
   },
 	"techDesc_largeMines": {
 		"english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -232,6 +250,7 @@
 		"polish": "Przyspiesz wydobycie, aby nadążyć za rosnącymi potrzebami miasta.",
 		"czech": "Zrychli těžbu surovin abys nasytil své rostoucí město.",
 		"ukrainian": "Прискорте видобуток ресурсів,щоб вгамувати голод в зростаючому місті",
+    "slovak": "Zrýchlite ťažbu surovín, aby ste nakŕmili hlad vášho rastúceho mesta",
 	},
 
   "tech_foodProcessing": {
@@ -245,6 +264,7 @@
 	  "polish": "Przetwarzanie żywności",
 	  "czech": "Zpracování jídla",
 	  "ukrainian": "Харчова промисловість",
+    "slovak": "Zpracovávanie jedla",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -257,6 +277,7 @@
 	  "polish": "Nawóz",
 	  "czech": "Hnojivo",
 	  "ukrainian": "Добрива",
+    "slovak": "Hnojivo",
   },
 	"techDesc_fertilizer": {
 		"english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -269,6 +290,7 @@
 		"polish": "Zapewnienie dostaw nawozu do farm znacząco zwiększa ilość produkowanej żywności.",
 		"czech": "Distribuje hnojivo do blízkých farem a výrazně zvyšuje jejich produkci.",
 		"ukrainian": "Постачайте ґрунт з добривом на найближчі ферми та значно збільшуйте їх виробництво.",
+    "slovak": "Distribuje hnojivo do blízkych fariem a význe zvyšuje ich produkciu",
 	},
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -281,6 +303,7 @@
 	  "polish": "Nanorurki węglowe",
 	  "czech": "Hliníkové nanotrubice",
 	  "ukrainian": "Вуглецеві нанотрубки",
+    "slovak": "Hliníkové nanotrubice",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -293,6 +316,7 @@
 	  "polish": "Samoczyszczące panele słoneczne",
 	  "czech": "Samočistící panely",
 	  "ukrainian": "Самоочисні сонячні панелі",
+    "slovak": "Samočistiace solárne panely",
   },
 	"techDesc_selfCleaningSolarPanels": {
 		"english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -305,6 +329,7 @@
 		"polish": "Dzięki zastosowaniu samoczyszczących paneli słonecznych, elektrownie słoneczne będą produkować znacznie więcej energii.",
 		"czech": "Jakmile se fotovoltaické panely začnou čistit samy, budou generovat mnohem víc energie.",
 		"ukrainian": "Як тільки ваші сонячні панелі очистяться, ваші сонячні електростанції будуть виробляти набагато більше енергії",
+    "slovak": "Keď sa vaše solárne panely vyčistia, vaše solárne elektrárne budú generovať oveľa viac energie.",
 	},
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -317,6 +342,7 @@
 	  "polish": "Sześciopasmowe drogi",
 	  "czech": "Šestiproudová silnice",
 	  "ukrainian": "Шестисмугові дороги",
+    "slovak": "Šesťprúdová diaľnica",
   },
 	
   "tech_stadiums": {
@@ -330,6 +356,7 @@
 	  "polish": "Stadiony",
 	  "czech": "Stadiony",
 	  "ukrainian": "Стадіони",
+    "slovak": "Štadióny",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -342,6 +369,7 @@
 	  "polish": "Procesory neuronowe",
 	  "czech": "Neuronové procesory",
 	  "ukrainian": "Нейронні процесори",
+    "slovak": "Neuronové procesory",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -354,6 +382,7 @@
 	  "polish": "Żółta nauka",
 	  "czech": "Žlutá věda",
 	  "ukrainian": "Жовта наука",
+    "slovak": "Žltá veda",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -366,6 +395,7 @@
 	  "polish": "Wydobycie uranu",
 	  "czech": "Těžba uranu",
 	  "ukrainian": "Видобуток урану",
+    "slovak": "Ťažba uránu",
   },
   "tech_highways": {
     "english": "Highways",
@@ -378,6 +408,7 @@
 	  "polish": "Autostrady",
 	  "czech": "Dálnice",
 	  "ukrainian": "Шосе",
+    "slovak": "Dialnica",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -390,6 +421,7 @@
 	  "polish": "Superautostrady",
 	  "czech": "Superdálnice",
 	  "ukrainian": "Супермагістралі",
+    "slovak": "Super-diaľnica",
   },
 	
   "tech_homeRobots": {
@@ -403,6 +435,7 @@
 	  "polish": "Roboty domowe",
 	  "czech": "Roboti do domácnosti",
 	  "ukrainian": "Домашні роботи",
+    "slovak": "Roboti do domácností",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -415,6 +448,7 @@
 	  "polish": "Roboty przemysłowe",
 	  "czech": "Průmysloví roboti",
 	  "ukrainian": "Промислові роботи",
+    "slovak": "Priemyselné roboty",
   },
 	"techDesc_industrialRobots": {
 		"english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -427,6 +461,7 @@
 		"polish": "Zaopatrzenie fabryk w roboty przemysłowe zmniejsza liczbę potrzebnych pracowników.",
 		"czech": "Zásobuj továrny roboty abys snížil počet pracovníků",
 		"ukrainian": "Забезпечте свої підприємства промисловими роботами, щоб скоротити кількість необхідних працівників.",
+    "slovak": "Zásobuj továrne robotmi aby si znížil počet pracovníku",
 	},
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -439,6 +474,7 @@
 	  "polish": "Filtr cząstek stałych",
 	  "czech": "Částicový filtr",
 	  "ukrainian": "Фільтр твердих частинок",
+    "slovak": "Časticový filter",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -451,6 +487,7 @@
 	  "polish": "Energia jądrowa",
 	  "czech": "Jaderná energie",
 	  "ukrainian": "Атомна енергія",
+    "slovak": "Jadrová Energia",
   },
 
   "tech_schools": {
@@ -464,6 +501,7 @@
 	  "polish": "Szkoły",
 	  "czech": "Školy",
 	  "ukrainian": "Школи",
+    "slovak": "Školy",
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -476,6 +514,7 @@
 	  "polish": "Wydobycie irydu",
 	  "czech": "Těžba iridia",
 	  "ukrainian": "Видобуток іридія",
+    "slovak": "Ťažba iridia",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -488,6 +527,7 @@
 	  "polish": "Recykling",
 	  "czech": "Recyklace",
 	  "ukrainian": "Переробка відходів",
+    "slovak": "Recyklácia",
   },
 	"techDesc_recycling": {
 		"english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -500,6 +540,7 @@
 		"polish": "Zmniejsz zapotrzebowanie na surowce dzięki wykorzystaniu odpadów przemysłowych w pobliskich fabrykach.",
 		"czech": "Snižje spotřebu surovin recyklací odpadu z blźkých továren",
 		"ukrainian": "Знизьте споживання ресурсів за рахунок переробки промислових відходів на прилеглих заводах.",
+    "slovak": "Znižuje spotrebu surovín recykláciou odpadu z okolitých továrňach",
 	},
 	
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
@@ -512,7 +553,8 @@
     "italian": "Schermi Olografici",
 	  "polish": "Ekrany holograficzne",
 	  "czech": "Holografické obrazovky",
-	  "ukrainian": "Голографічні дисплеї",
+	  "ukrainian": "Гологрофічні дисплеї",
+    "slovak": "Holografické obrazovky",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -525,6 +567,7 @@
 	  "polish": "Warsztat zaawansowanych technologii",
 	  "czech": "High Tech dílny",
 	  "ukrainian": "Майстерня високих технологій",
+    "slovak": "Dielňa pre špičkové technológie",
   },
 	"techDesc_highTechWorkshop": {
 		"english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -537,6 +580,7 @@
 		"polish": "Zaopatrzenie fabryk w zaawansowane technologicznie narzędzia pozwala na zwiększenie produktywności.",
 		"czech": "Továrnám zásobovaným High Tech nástroji se zvyšuje produkce.",
 		"ukrainian": "Забезпечте свои підприємства високотехнологічними інструментами, щоб підвищити продуктивність",
+    "slovak": "Zásobujte svoje továrne špičkovými technologickými nástrojmi s cieľom zvýšiť produktivitu.",
 	},
 
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
@@ -550,6 +594,7 @@
 	  "polish": "Kontrolery AI",
 	  "czech": "Kontrolní jednotky umělé inteligence",
 	  "ukrainian": "Блоки управління ШІ",
+    "slovak": "Riadiace jednotky AI",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -562,6 +607,7 @@
 	  "polish": "Paliwa irydowe",
 	  "czech": "Iridiové palivo",
 	  "ukrainian": "Іридієве паливо",
+    "slovak": "Iridiové palivo",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -574,6 +620,7 @@
 	  "polish": "Reaktor prędki",
 	  "czech": "Reaktor na rychlé neutrony",
 	  "ukrainian": "Реактор на швидких нейтронах",
+    "slovak": "Reaktor na rýchle neutróny",
   },
 
   "tech_science4": {
@@ -587,6 +634,7 @@
 	  "polish": "Czerwona nauka",
 	  "czech": "Červená věda",
 	  "ukrainian": "Червона наука",
+    "slovak": "Červená veda",
   },
 
   "tech_adamantineMining":  {
@@ -600,5 +648,6 @@
 	  "polish": "Wydobycie adamantyny",
 	  "czech": "Těžba adamantia",
 	  "ukrainian": "Видобуток адамантину",
+    "slovak": "Ťažba adamantia",
   },
 }
