@@ -1937,7 +1937,7 @@
 		"japanese": "大容量の貨物ゴンドラは険しい山を\n越えて物資を運ぶことができます。",
 		"polish": "Gondole mogące przewozić duże ilości towarów ponad skałami i górami.",
 		"czech": "Vysokokapacitní lanovky mohou převážet náklad přes skály i kopce.",
-		"ukrainian": "Вантажні гондоли,великої містькості можуть перевозити ваші вантажі по скелях і горах",
+		"ukrainian": "Вантажні гондоли,великої місткості можуть перевозити ваші вантажі по скелях і горах",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -2015,7 +2015,7 @@
 		"japanese": "地下やパイプラインで大量の資源を\n輸送できるとしたら？生き残るために\n水を生産する必要があるとしたら？",
 		"polish": "Co, gdybyś mógł transportować duże ilości zasobów pod ziemią lub za pomocą rurociągów? A co, gdybyś musiał produkować wodę, aby przetrwać?",
 		"czech": "Co kdybys mohl přesouvat velké množství surovin pod zemí nebo trubkami? Co kdybys potřeboval vodu k přežití",
-		"ukrainian": "Необхнідно транспортувати великі розміри ресурсів під землею або по трубопроводам? Необхідно виробляти воду для виживання?",
+		"ukrainian": "Необхідно транспортувати великі розміри ресурсів під землею або по трубопроводам? Необхідно виробляти воду для виживання?",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -2067,7 +2067,7 @@
 		"japanese": "夜間の電力ネットワークを準備する必要があります。\n温度システムもうまく機能させる必要があります。\n砂の惑星の夜は真っ暗で急速に冷え込むからです。",
 		"polish": "Wygląda dobrze, a ty będziesz musiał przygotować sieć energetyczną na noc. Może nieźle współpracować z systemem ciepła - gdy zapada zmrok, piaszczyste planety szybko tracą temperaturę.",
 		"czech": "Vypadá dobře a musíš připravit přenosovou soustavu na tmu. Také může zajímavě fungovat se Systémem tepla - písečné planety v noci chladnou rychleji.",
-		"ukrainian": "Виглядяє класно, також вам буде потрібно підготовляти свою електромережу до ночі. Також може добре працювати із системою опалення - пісчані планети вночі швидко стають холодними",
+		"ukrainian": "Виглядає класно, також вам буде потрібно підготовляти свою електромережу до ночі. Також може добре працювати із системою опалення - пісчані планети вночі швидко стають холодними",
 	},	
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
