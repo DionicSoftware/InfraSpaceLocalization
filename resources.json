@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_sand": {
 		"english": "Sand",
 		"german": "Sand",
@@ -10,7 +10,8 @@
 		"japanese": "砂",
 	  	"polish": "Piasek",
 	  	"czech": "Písek",
-	        "ukrainian": "Пісок",
+	    "ukrainian": "Пісок",
+		"slovak": "Piesok",
 
 	},
 	"resource_sulfur": {
@@ -25,6 +26,7 @@
 		"polish": "Siarka",
 		"czech": "Síra",
 		"ukrainian": "Сірка",
+		"slovak": "Síra",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -38,6 +40,7 @@
 		"polish": "Beton",
 		"czech": "Beton",
 		"ukrainian": "Бетон",
+		"slovak": "Betón",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -51,6 +54,7 @@
 		"polish": "Złoże żelaza",
 		"czech": "Železná ruda",
 		"ukrainian": "Залізна руда",
+		"slovak": "Železná ruda",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -64,6 +68,7 @@
 		"polish": "Złoże aluminium",
 		"czech": "Hliníková ruda",
 		"ukrainian": "Алюмінієва руда",
+		"slovak": "Hliníková ruda",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -77,6 +82,7 @@
 		"polish": "Złoże uranu",
 		"czech": "Uranová ruda",
 		"ukrainian": "Уранова руда",
+		"slovak": "Uránová ruda",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -90,6 +96,7 @@
 		"polish": "Złoże irydu",
 		"czech": "Iridiová ruda",
 		"ukrainian": "Іридієва руда",
+		"slovak": "Iridiová ruda",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -103,6 +110,7 @@
 		"polish": "Adamantyna",
 		"czech": "Adamantin",
 		"ukrainian": "Адамантін",
+		"slovak": "Adamantín",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -116,6 +124,7 @@
 		"polish": "Węgiel",
 		"czech": "Uhlík",
 		"ukrainian": "Вуглець",
+		"slovak": "Uhlík",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -129,6 +138,7 @@
 		"polish": "Nanorurki węglowe",
 		"czech": "Nanotrubice",
 		"ukrainian": "Нанотрубки",
+		"slovak": "Nanotrubice",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -142,6 +152,7 @@
 		"polish": "Stal",
 		"czech": "Ocel",
 		"ukrainian": "Сталь",
+		"slovak": "Oceľ",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -155,6 +166,7 @@
 		"polish": "Złoże miedzi",
 		"czech": "Měděná ruda",
 		"ukrainian": "Мідна руда",
+		"slovak": "Medená ruda",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -168,6 +180,7 @@
 		"polish": "Silniki",
 		"czech": "Motor",
 		"ukrainian": "Мотор",
+		"slovak": "Motor",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -181,6 +194,7 @@
 		"polish": "Elektronika",
 		"czech": "Elektronika",
 		"ukrainian": "Електроніка",
+		"slovak": "Elektronika",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -194,6 +208,7 @@
 		"polish": "AGD",
 		"czech": "Domácí spotřebiče",
 		"ukrainian": "Побутова техніка",
+		"slovak": "Domáce spotrebiče",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -207,6 +222,7 @@
 		"polish": "Mikroczipy",
 		"czech": "Mikročipy",
 		"ukrainian": "Мікрочіп",
+		"slovak": "Mikročipy",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -220,6 +236,7 @@
 		"polish": "Procesory neuronowe",
 		"czech": "Neuronové procesory",
 		"ukrainian": "Нейронний процесор",
+		"slovak": "Neuronové procesory",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -233,6 +250,7 @@
 		"polish": "Komputery",
 		"czech": "Počítače",
 		"ukrainian": "Комп'ютер",
+		"slovak": "Počítače",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -246,6 +264,7 @@
 		"polish": "Roboty domowe",
 		"czech": "Roboti do domácnosti",
 		"ukrainian": "Домашній робот",
+		"slovak": "Roboty do domácnosti",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -259,6 +278,7 @@
 		"polish": "Roboty przemysłowe",
 		"czech": "Průmysloví roboti",
 		"ukrainian": "Промисловий робот",
+		"slovak": "Priemysloví roboti",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -272,6 +292,7 @@
 		"polish": "Zaawansowane narzędzia",
 		"czech": "High Tech nástroje",
 		"ukrainian": "Високотехнологічний інструмент",
+		"slovak": "Špičkové Technológie nástroje",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -285,6 +306,7 @@
 		"polish": "Wyświetlacze holograficzne",
 		"czech": "Hologramové obrazovky",
 		"ukrainian": "Голографічний дисплей",
+		"slovak": "Hologramové obrazovky",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -298,6 +320,7 @@
 		"polish": "Sprzęty edukacyjno-rozrywkowe VR",
 		"czech": "Zábavní VR",
 		"ukrainian": "VR-навчання",
+		"slovak": "Zábavné VR",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -311,6 +334,7 @@
 		"polish": "Stop irydu",
 		"czech": "Slitina iridia",
 		"ukrainian": "Іридієвий сплав",
+		"slovak": "Zliatina iridia",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -324,6 +348,7 @@
 		"polish": "Paliwo irydowe",
 		"czech": "Iridiové palivo",
 		"ukrainian": "Іридієве паливо",
+		"slovak": "Iridiové palivo",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -337,6 +362,7 @@
 		"polish": "Kontrolery AI",
 		"czech": "Kontrolní jednotky umělé inteligence",
 		"ukrainian": "Блок керування ШІ",
+		"slovak": "Kontrolné jednotky umelej inteligencie",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -350,6 +376,7 @@
 		"polish": "Wkłady jądrowe",
 		"czech": "Radiační jádro",
 		"ukrainian": "Радіаційне ядро",
+		"slovak": "Radiačné jádro",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -363,6 +390,7 @@
 		"polish": "Niebieski pakiet naukowy",
 		"czech": "Modrý vědecký balíček",
 		"ukrainian": "Синій науковий пакет",
+		"slovak": "Modrý vedecký balík",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -376,6 +404,7 @@
 		"polish": "Zielony pakiet naukowy",
 		"czech": "Zelený vědecký balíček",
 		"ukrainian": "Зелений науковий пакет",
+		"slovak": "Zelený vedecký balík",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -389,6 +418,7 @@
 		"polish": "Żółty pakiet naukowy",
 		"czech": "Žlutý védecký balíček",
 		"ukrainian": "Жовтий науковий пакет",
+		"slovak": "Žltý vedecký balík",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -402,6 +432,7 @@
 		"polish": "Czerwony pakiet naukowy",
 		"czech": "Červený vědecký balíček",
 		"ukrainian": "Червоний науковий пакет",
+		"slovak": "Červený vedecký balík",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -415,6 +446,7 @@
 		"polish": "Tlen",
 		"czech": "Kyslík",
 		"ukrainian": "Кисень",
+		"slovak": "Kyslík",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -428,6 +460,7 @@
 		"polish": "Nawóz",
 		"czech": "Hnojivo",
 		"ukrainian": "Добрива",
+		"slovak": "Hnojivo",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -441,6 +474,7 @@
 		"polish": "Warzywa",
 		"czech": "Zelenina",
 		"ukrainian": "Овочі",
+		"slovak": "Zelenina",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -454,6 +488,7 @@
 		"polish": "Mięso",
 		"czech": "Maso",
 		"ukrainian": "М'ясо",
+		"slovak": "Mäso",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -467,6 +502,7 @@
 		"polish": "Dobre posiłki",
 		"czech": "Kvalitní jídlo",
 		"ukrainian": "Хороша їжа",
+		"slovak": "Kvalitné jedlo",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -480,6 +516,7 @@
 		"polish": "Racje żywnościowe",
 		"czech": "Jídlo pro přežití",
 		"ukrainian": "Їжа для виживання",
+		"slovak": "Jedlo pre prežitie",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -493,6 +530,7 @@
 		"polish": "Park",
 		"czech": "Park",
 		"ukrainian": "Парк",
+		"slovak": "Park",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -506,6 +544,7 @@
 		"polish": "Kultura",
 		"czech": "Kultura",
 		"ukrainian": "Культура",
+		"slovak": "Kultúra",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -519,6 +558,7 @@
 		"polish": "Szkoła",
 		"czech": "Škola",
 		"ukrainian": "Школа",
+		"slovak": "Škola",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -532,6 +572,7 @@
 		"polish": "Pojazd",
 		"czech": "Auto",
 		"ukrainian": "Машина",
+		"slovak": "Auto",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -545,6 +586,7 @@
 		"polish": "Mieszkańcy",
 		"czech": "Obyvatel",
 		"ukrainian": "Громадянин",
+		"slovak": "Obyvateľ",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -558,6 +600,7 @@
 		"polish": "Mieszkańcy",
 		"czech": "Obyvatel",
 		"ukrainian": "Громадянин",
+		"slovak": "Obyvateľ",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -571,5 +614,6 @@
 		"polish": "Energia",
 		"czech": "Energie",
 		"ukrainian": "Енергія",
+		"slovak": "Energia",
 	}
 }
