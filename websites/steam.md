@@ -53,6 +53,8 @@ InfraSpace to kosmiczny city builder, w którym każdy wyprodukowany surowiec mu
 
 InfraSpace — це науково-фантастичний містобудівний симулятор, але кожен ресурс, який ви виробляєте, має пройти через вашу транспортну інфраструктуру. Щоб процвітати в цій сонячній системі, вам доведеться не тільки розпочати видобуток корисних копалин і керувати виробничими ланцюгами, але й переконатися, що ваша дорожня мережа відповідає завданню.
 
+### Slovak
+Infraspace je Sci-Fi City Builder - ale každý zdroj, ktorý vyrába, musí prejsť svoju dopravnú infraštruktúru. Aby ste mohli darovať v tomto slnečnom systéme, musíte nielen začať ťažobné operácie a spravovať výrobné reťazce, ale tiež sa uistite, že vaša cestná sieť je na úlohe.
 
 
 
@@ -102,6 +104,10 @@ Substitute "..." with your language
 
 ### Czech
 ( Český překlad byl vytvořen komunitou )
+
+### Slovak
+
+( Slovenský preklad bol vytvorený komunitou )
 
 
 
@@ -178,6 +184,14 @@ Gdy wydobędziesz wystarczająco dużo żelaza, węgla, piasku i siarki możesz 
 
 Коли у вас буде трохи заліза, вуглецю, піску та сірки, настав час створити свій перший сталеливарний завод і бетонний завод, щоб почати закладати інфраструктуру. Навіть такі потреби, як їжа та кисень, вимагають стабільного виробничого ланцюга, який не можна порушувати!
 
+### Slovak
+
+Vyrábať všetko, čo konzumujete
+
+Na okrajoch ľudského priestoru, nemôžete vybudovať mesto výdavkovými kreditmi. Namiesto toho budete musieť dať svojich prvých astronautou do banskej práce a získať suroviny.
+
+Akonáhle budete mať nejaké železo, uhlík, piesok a síru, je čas nastaviť svoj prvý oceľový mlyn a betónová továreň aby začala stanoviť infraštruktúru. Dokonca aj potreby, ako je jedlo a kyslík vyžadujú stabilný výrobný reťazec, ktorý nesmie byť zlomený!
+
 
 
 
@@ -251,6 +265,14 @@ Twoja sieć drogowa jest w stanie udźwignąć wiele, ale bez nadzoru prędzej c
 InfraSpace імітує кожен автомобіль. Кожен ресурс, який ви коли-небудь виробляєте, потрібно транспортувати на фабрику для переробки, а кожен продукт повинен відправитися в середовище проживання для споживання.
 
 Ваша мережа доріг може багато з чим впоратися, але без вашого нагляду вона зупиниться і врешті-решт потоне в русі. Будуйте автомагістралі, кільцеві розв’язки та багатосмугові дороги, щоб виробниче серце міста продовжувало битися.
+
+### Slovak
+
+Dopravná infraštruktúra
+
+InfraSpace simuluje každé. jedinné. auto. Každý zdroj, ktorý ste niekedy vytvorili, je potrebné prepravovať do továrne na spracovanie a každý výrobok potrebuje ísť do obydlia na spotrebu.
+
+Vaša cestná sieť dokáže veľa zvládnuť, ale bez vášho dohľadu to bude brúsiť na zastavenie a utopiť sa do prevádzky nakoniec. Stavať diaľnice, kruhové objazdy a väčšie cesty, aby sa zabezpečilo, že výrobné srdce mesta stále bije.
 
 
 
@@ -327,6 +349,14 @@ Rozrost osady oznacza natłok spraw, które trzeba rozwiązać zatrudniając nau
 Ваші перші колоністи будуть космонавтами, найкращими та найсміливішими з людства. Дайте їм їжу та притулок, і вони забезпечать роботу вашого форпосту незважаючи ні на що.
 
 Оскільки ваше поселення росте, вам потрібно покривати зростаюче робоче навантаження, залучаючи вчених та інженерів, які потребують деяких зручностей. Будь-яке місто достатнього розміру рано чи пізно стане домом для все більшої кількості сімей, тому переконайтесь, що ваші школи впораються з цим, і ви також зможете поставляти найновіші продукти для VR-навчання.
+
+### Slovak
+
+Rast populácie
+
+Vaši prví kolonisti budú astronauti, to najlepšie a najodvážnejšie ľudstvo ponúka. Dajte im jedlo a prístrešie a oni uchovávajú vašu základňu bez ohľadu na to, čo sa stane.
+
+Keďže vaše mesto rastie, musíte pokryť rastúce pracovné zaťaženie zamestnávaním vedcov a inžinierov, ktoré vyžadujú niekoľko ďalšieho stvorenia pohodlia. Akékoľvek mesto dostatočnej veľkosti bude skôr alebo neskôr dom pre viac a viac rodín, takže sa uistite, že vaše školy dokážu zvládnuť a vy ste schopní dodať najnovšie produkty VR-zábavy.
 
 
 
@@ -416,6 +446,16 @@ Choć, jeśli wolisz, możesz zupełnie pominąć ten cel i grać w trybie niesk
 
 Ви можете ігнорувати кінцеву мету і просто будувати вільно в нескінченному режимі, якщо це  ваш стиль гри!
 
+### Slovak
+
+Konečný cieľ
+
+Ľudstvo objavilo technológiu, aby umelých červov, aby sa skočili obrovské vzdialenosti cez priestor. Bohužiaľ, tieto červy vyžadujú portály enormnej veľkosti - žiaden malý tím astronautov môže stavať jeden samostatne.
+
+Ako dobytie priestoru pre ľudstvo pokračuje, je tvoja práca vybudovať základňu na ďalekom svete schopný zvládnuť obrovské množstvo zdrojov a prácu potrebnú na vybudovanie jedného z týchto portálov.
+
+Môžete sa rozhodnúť ignorovať koncový cieľ a len ak vám stačí stavať voľne v nekonečnom režime, ak je to viac váš štýl mestskej budovy!
+
 
 
 
@@ -469,6 +509,8 @@ Ruch drogowy potrafi być kapryśny a przetrwanie na obcej planecie - ciężkie.
 
 Управління дорожнім рухом може бути непостійним, а виживання може бути важким. Ви можете налаштувати складність обох, щоб зробити ваш досвід управління містом таким легким або настільки складним, наскільки ви хочете.
 
+### Slovak
 
+Nemusíte hrať ťažko
 
-
+Riadenie dopravy môže byť neustále a prežitie môže byť ťažké. Môžete upraviť ťažkosti oboch, aby sa vaše zážitky z riadenia mesta tak jednoduché - alebo tak ťažké - ako chcete.
