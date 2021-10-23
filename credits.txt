@@ -24,3 +24,6 @@ Polish
 
 Ukrainian
 - Dmytro G. (DmytroKokos)
+
+Slovak
+- f1f
