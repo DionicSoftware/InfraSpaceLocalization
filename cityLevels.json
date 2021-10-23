@@ -1,4 +1,4 @@
-﻿{
+{
 	"cityLevel1":  {
 		"english": "Outpost",
 		"german": "Außenposten",
@@ -11,6 +11,7 @@
 		"polish": "Kolonia",
 		"czech": "Kolonie",
 		"ukrainian": "Космічний хутір",
+		"slovak": "Kolónia",
 	},
 	"cityLevel2":  {
 		"english": "Settlement",
@@ -24,6 +25,7 @@
 		"polish": "Osada",
 		"czech": "Osada",
 		"ukrainian": "Поселення",
+		"slovak": "Osada",
 	},
 	"cityLevel3":  {
 		"english": "Small Town",
@@ -37,6 +39,7 @@
 		"polish": "Miasteczko",
 		"czech": "Městys",
 		"ukrainian": "Маленьке місто",
+		"slovak": "Mestečko",
 	},
 	"cityLevel4":  {
 		"english": "Large Town",
@@ -50,6 +53,7 @@
 		"polish": "Miasto",
 		"czech": "Město",
 		"ukrainian": "Велике місто",
+		"slovak": "Mesto",
 	},
 	"cityLevel5":  {
 		"english": "City",
@@ -63,6 +67,7 @@
 		"polish": "Metropolia",
 		"czech": "Metropole",
 		"ukrainian": "Мегаполіс",
+		"slovak": "Metropola",
 	},
 	"cityLevel6":  {
 		"english": "Planetary Capital",
@@ -76,5 +81,6 @@
 		"polish": "Stolica planetarna",
 		"czech": "Hlavní město planety",
 		"ukrainian": "Планетарна столиця",
+		"slovak": "Hlavné mesto planety",
 	},
 }
