@@ -122,7 +122,7 @@
     "italian": "Miniere di Alluminio",
 	  "polish": "Wydobycie aluminium",
 	  "czech": "Těžba hliníku",
-	  "ukrainian": "Видуботок алюмінію",
+	  "ukrainian": "Видобуток алюмінію",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -512,7 +512,7 @@
     "italian": "Schermi Olografici",
 	  "polish": "Ekrany holograficzne",
 	  "czech": "Holografické obrazovky",
-	  "ukrainian": "Гологрофічні дисплеї",
+	  "ukrainian": "Голографічні дисплеї",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
