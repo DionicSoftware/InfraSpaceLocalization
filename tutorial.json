@@ -11,6 +11,7 @@
 		"japanese": "人口%amount%人に達する",
 		"polish": "Osiągnij populację %amount% mieszkańców",
 		"czech": "Dosáhni populace %amount% obyvatel",
+		"ukrainian": "Досягніть населення у %amount%% осіб",
 	},
 	"populationGoalText":  {
 		"english": "%current% / %required% people",
@@ -23,6 +24,7 @@
 		"japanese": "現在%current%人/目標%required%人",
 		"polish": "%current% z %required% osób",
 		"czech": "%current% z %required% obyvatel",
+		"ukrainian": "%current% / %required% жителів",
 	},
 	"buildingGoalText":  {
 		"english": "Build a %buildingName%",
@@ -35,6 +37,7 @@
 		"japanese": "%buildingName%を建設する",
 		"polish": "Wybuduj %buildingName%",
 		"czech": "Postav %buildingName%",
+		"ukrainian": "Побудуйте %buildingName%",
 	},
 	"researchGoalText":  {
 		"english": "Research %techName%",
@@ -47,6 +50,7 @@
 		"japanese": "%techName%を研究する",
 		"polish": "Zbadaj %techName%",
 		"czech": "Vyzkoumej %techName%",
+		"ukrainian": "Дослідіть %techName%",
 	},
 	"researchGoalText2":  {
 		"english": "Click on the science pack factory to see which resources are needed.",
@@ -59,6 +63,7 @@
 		"japanese": "サイエンスパック生産工場をクリックして必要な物資を確認してください",
 		"polish": "Kliknij na fabrykę pakietów naukowych, aby zobaczyć listę potrzebnych surowców.",
 		"czech": "Klikni na továrnu na vědecké balíčky, abys zjistil, jaké suroviny jsou potřeba.",
+		"ukrainian": "Нажміть на завод наукових пакетів, щоб дізнатись, які ресурси вам потрібні.",
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
@@ -71,6 +76,7 @@
 		"japanese": "硫黄採掘場所と鉄採掘場所のすぐ近辺に道路を建設する",
 		"polish": "Wybuduj drogę w pobliżu złóż siarki i żelaza.",
 		"czech": "Postav cestu vedle síry a železa.",
+		"ukrainian": "Побудуйте дорогу поруч з сіркою та залізом.",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads":  {
 		"english": "You can place your buildings next to roads.",
@@ -83,6 +89,7 @@
 		"japanese": "採掘場を設置するために道路を建設します",
 		"polish": "Budynki możesz stawiać przy drogach.",
 		"czech": "Budovy můžeš stavět podél cest.",
+		"ukrainian": "Ви можете розміщувати свої споруди поруч з дорогами.",
 	},
 	"upgradeGoalText":  {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -95,6 +102,7 @@
 		"japanese": "居住地はニーズを満たせば自動的にアップグレードされます",
 		"polish": "Zaspokojenie potrzeb mieszkańców spowoduje automatyczną rozbudowę domu.",
 		"czech": "Uspokojení potřeb obyvatel vyústí v automatické vylepśení domu.",
+		"ukrainian": "Задовольняйте потреби своїх мешканців, поки вони автоматично не перейдуть на новий рівень.",
 	},
 	"tutorialFinishedTitle":  {
 		"english": "You finished the tutorial!",
@@ -107,6 +115,7 @@
 		"japanese": "チュートリアルは終了しました！",
 		"polish": "Ukończyłeś samouczek!",
 		"czech": "Dokončil jsi tutoriál!",
+		"ukrainian": "Ви завершили туторіал!",
 	},
 	"tutorialFinishedText":  {
 		"english": "Congrats! You're now ready to make your city great!",
@@ -119,6 +128,7 @@
 		"japanese": "おめでとうございます！これであなたは素晴らしい都市に発展させる準備ができました！",
 		"polish": "Gratulacje! Jesteś już gotów do zbudowania wspaniałego miasta!",
 		"czech": "Gratulujeme! Nyní jsi připraven postavit skvělé město!",
+		"ukrainian": "Вітаємо! Тепер ви готові до того, щоб зробити найвеличніше місто!",
 	},
 	"tutorial_concreteProduction":  {
 		"english": "Concrete Production for Roads",
@@ -131,6 +141,7 @@
 		"japanese": "コンクリート生産工場の建設",
 		"polish": "Budowa betonu na drogi",
 		"czech": "Produkce betonu na cesty",
+		"ukrainian": "Виробництво бетону для доріг",
 	},
 	"tutorial_roadConnections":  {
 		"english": "Road Connections",
@@ -143,6 +154,7 @@
 		"japanese": "道路の接続",
 		"polish": "Łączenie dróg",
 		"czech": "Silniční spojení",
+		"ukrainian": "З'єднання доріг",
 	},
 	"tutorial_powerGeneration":  {
 		"english": "Power Generation",
@@ -155,6 +167,7 @@
 		"japanese": "電力の供給",
 		"polish": "Produkcja prądu",
 		"czech": "Výroba elektřiny",
+		"ukrainian": "Генерація енергії",
 	},
 	"tutorial_storage":  {
 		"english": "Storing the Concrete",
@@ -167,6 +180,7 @@
 		"japanese": "物資の保管",
 		"polish": "Magazynowanie betonu",
 		"czech": "Skladování betonu",
+		"ukrainian": "Зберігання бетону",
 	},
 	"tutorial_lifeSupport":  {
 		"english": "Life Support",
@@ -179,6 +193,7 @@
 		"japanese": "居住地の設置",
 		"polish": "System podtrzymywania życia",
 		"czech": "Podpora života",
+		"ukrainian": "Життєзабезпечення",
 	},
 	"tutorial_newcomers":  {
 		"english": "Accepting Newcomers",
@@ -191,6 +206,7 @@
 		"japanese": "移住希望者の受け入れ",
 		"polish": "Przyjmowanie przybyszów",
 		"czech": "Přijímání nových kolonistů",
+		"ukrainian": "Прийом новачків",
 	},
 	"tutorial_growingTown":  {
 		"english": "Growing the Town",
@@ -203,6 +219,7 @@
 		"japanese": "都市の発展",
 		"polish": "Rozbudowa miasta",
 		"czech": "Růst města",
+		"ukrainian": "Зростання міста",
 	},
 	"tutorial_research":  {
 		"english": "Research",
@@ -215,6 +232,7 @@
 		"japanese": "研究の実施",
 		"polish": "Badania",
 		"czech": "Výzkum",
+		"ukrainian": "Дослідження",
 	},
 	"tutorial_roads":  {
 		"english": "Use roads to connect the mines with the concrete factory",
@@ -227,6 +245,7 @@
 		"japanese": "採掘場とコンクリート生産工場を道路に接続させる",
 		"polish": "Zbuduj drogę, aby połączyć kopalnie z fabryką betonu",
 		"czech": "Postav cesty abys propojil doly s betonárkou",
+		"ukrainian": "Використовуйте дороги для з'єднання шахти із бетонним заводом.",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
@@ -239,6 +258,7 @@
 		"japanese": "建物へ電力を供給するため電柱を建設する",
 		"polish": "Zbuduj słupy elektryczne, aby połączyć wszystkie budynki z turbiną wiatrową",
 		"czech": "Použij eletrické sloupy pro propojení budov s větrnou turbínou",
+		"ukrainian": "Використовуйте енергетичні стовпи для підключення усіх будівель до вітряної турбіни.",
 	},
 
 
@@ -255,6 +275,7 @@
 		"japanese": "チュートリアル:%tutorialName%",
 		"polish": "Samouczek: %tutorialName%",
 		"czech": "Tutoriál: %tutorialName%",
+		"ukrainian": "Посібник: %tutorialName%",
 
 	},
 	"tutorial_dashboardInfoPanel": {
@@ -268,6 +289,8 @@
 		"japanese": "都市情報",
 		"polish": "Skrót informacji o mieście",
 		"czech": "Informace o městé",
+		"ukrainian": "Короткий огляд міста",
+
 	},
 	"tutorialMessage_dashboardInfoPanel_title": {
 		"english": "Quick City Info",
@@ -280,6 +303,8 @@
 		"japanese": "都市情報",
 		"polish": "Skrót informacji o mieście",
 		"czech": "Informace o městě",
+		"ukrainian": "Короткий огляд міста",
+
 	},
 	"tutorialMessage_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
@@ -292,6 +317,8 @@
 		"japanese": "このパネルは都市の概要を簡単に確認できます。\n\n利用可能なコンクリートと鉄鋼の量です。建設物資です。\n\n現在の人口数、必要な労働者、居住可能な人口数です。十分な稼働率を維持するため移住希望者の住宅地があることを確認してください。",
 		"polish": "Ten panel pozwala szybko skontrolować stan twojego miasta.\n\nW górnym rzędzie znajdują się informacje o zmagazynowanych zasobach betonu i stali. Oba surowce są niezbędne do budowy budynków. Trzecia ikona wskazuje, czy produkujesz wystarczająco dużo prądu.\n\nIkony w dolnym wierszu opisują liczbę mieszkańców twojego miasta, liczbę potrzebnych pracowników oraz ilu mieszkańców mogą pomieścić wybudowane domy. Jeżeli w mieście nie ma wystarczającej liczby pracowników, twoje fabryki nie będą działać wydajnie. Upewnij się, że twoje domy są w stanie pomieścić nowych pracowników.",
 		"czech": "Tento panel ti dá rychlý přehled o tvém městě.\n\nHorní řádek ukazuje kolik betonu a oceli je k dispozici. Oba matriály potřebuješ na stavbu budov. Třetí ikon ukazuje jestli máš ve městě dost elektřiny.\n\nSpodní řádek ukazuje kolik lidí žije ve tvém městě, kolik pracovníků je potřeba a kolik je maximální kapacita všech domů. Pokud nemáš dost pracovníků, pak výroba v továrnách nebude tak efektivní. Také si dávej pozor na to, abys měl v domech dost místa pro nově přichźející pracovníky.",
+		"ukrainian": "Ця панель надає вам швидкий огляд вашого міста.\n\nУ верхньому ряді показано, скільки бетона та сталі у вас є. Для будівництва будівель вам знадобляться обидва матеріали. Третій значок показує, чи достатньо у вас енергії, у вашому місті.\n\nВ нижньому ряді показано, скільки людей живе у вашому місті, скільки потрібно працівників та скільки житла доступно. Якщо у вас недостатньо працівників, щоб заповнити більшість робочих місць, ваші фабрики не будуть працювати ефективно. Також переконайтесь, щоб у вас було достатньо безкоштовного житла, щоб в нього могли в'їхати нові працівники.",
+
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -304,6 +331,7 @@
 		"japanese": "了解！",
 		"polish": "Jasne!",
 		"czech": "Chápu!",
+		"ukrainian": "Зрозуміло!",
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
@@ -316,6 +344,7 @@
 		"japanese": "チュートリアルを次に進める",
 		"polish": "Pomiń kolejne samouczki",
 		"czech": "Přeskočit tutoriál",
+		"ukrainian": "Пропустити наступні посібники",
 	},
 	"tutorialQuestion_title": { // shown at start of first game
 		"english": "Welcome to InfraSpace!",
@@ -328,6 +357,7 @@
 		"japanese": "ようこそInfraSpaceへ!",
 		"polish": "Witaj w InfraSpace!",
 		"czech": "Vítej v InfraSpace!",
+		"ukrainian": "Ласкаво просимо у InfraSpace!",
 	},
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
@@ -340,6 +370,7 @@
 		"japanese": "プレイ中にチュートリアルのヒントを表示しますか？\n\n設定でオン/オフを切り替えることもできます。",
 		"polish": "Chcesz, aby w czasie gry pojawiały się podpowiedzi samouczka?\n\nMożesz je włączyć lub wyłączyć w ustawieniach.",
 		"czech": "Chceš v průběhu hry zobrazovat nápovédu?\n\nTuto možnost můžeš vypnout/zapnout v nastevní.",
+		"ukrainian": "Чи хочете ви отримувати підказки під час гри?\n\nВи також можете ввімкнути / вимкнути їх у налаштуваннях.",
 	},
 	"tutorialMessage_goalPanel_title": {
 		"english": "Making your first city",
@@ -352,6 +383,7 @@
 		"japanese": "最初に都市となる場所を決めましょう！",
 		"polish": "Budowa pierwszego miasta",
 		"czech": "Postav své první město",
+		"ukrainian": "Створення вашого першого міста",
 	},
 	"tutorialMessage_goalPanel_desc": {
 		"english": "This panel will guide you through the necessary steps to create your first stable city and research some tech.",
@@ -364,6 +396,7 @@
 		"japanese": "このパネルは都市の作り方と技術を研究するために必要な手順を説明します。",
 		"polish": "Informacje w tym panelu przeprowadzą cię przez kolejne kroki niezbędne do zbudowania pierwszego, stabilnego miasta i odkrycia kilku technologii.",
 		"czech": "Tento panel tě provede nutnými kroky pro první soběstačné město a výzkumem prvních technologií.",
+		"ukrainian": "Ця панель проведе вас через необхідні кроки для створення вашого першого стабільного міста та дослідження деяких технологій.",
 
 	},
 	"tutorialMessage_constructionMenu_title": {
@@ -377,6 +410,7 @@
 		"japanese": "建設メニュー",
 		"polish": "Menu budowy",
 		"czech": "Stavební menu",
+		"ukrainian": "Будівельне меню",
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
@@ -389,6 +423,7 @@
 		"japanese": "ここをクリックして道路または様々な建物の建設、移動、破壊をすることができます。",
 		"polish": "Kliknij tu, aby budować drogi i budynki oraz aby je przesuwać i wyburzać.",
 		"czech": "Sem můžeš kliknout pro stavbu cest a budov, jejich pŕesun a demolici.",
+		"ukrainian": "Ви можете клацнути тут, щоб будувати дороги та будівлі, переміщувати їх і руйнувати.",
 
 	},
 	"tutorialMessage_cameraMovement_title": {
@@ -402,6 +437,7 @@
 		"japanese": "カメラの移動",
 		"polish": "Ruch kamery",
 		"czech": "Pohyb kamerou",
+		"ukrainian": "Пересування камери",
 	},
 	"tutorialMessage_cameraMovement_desc": {
 		"english": "By default, you can move the camera with your arrow keys, WASD, or by moving your mouse to the edge of your screen.\n\nPress the middle mouse button and drag move your mouse to rotate your view.",
@@ -414,6 +450,7 @@
 		"japanese": "矢印キー、WASDキー、カーソルを画面の端に移動させることでカメラを移動できます。\n\nマウスの中ボタン＋ドラッグで画面が回転します。",
 		"polish": "Domyślnie kamerę można przesuwać za pomocą strzałek na klawiaturze, klawiszy WASD lub przesuwając kursor myszy do krawędzi ekranu.\n\nPrzytrzymanie środkowego przycisku myszy pozwala na obracanie widoku.",
 		"czech": "V základním nastevení kamerou pohybuješ pomocí šipek, WASD nebo najetím myši na okraj obrazovky\n\nStiknutím kolečka myši a následným pohybem myši můžeš rotovat kamerou.",
+		"ukrainian": "За замовчуванням ви можете переміщувати камеру за допомогою клавішів зі стрілками, WASD або переміщуючи мишку до краю екрана.\n\nНатисніть середню кнопку миші та перетягніть мишу, щоб змінити вид.",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -426,6 +463,7 @@
 		"japanese": "必要な物資",
 		"polish": "Wymagane zasoby",
 		"czech": "Potřebné suroviny",
+		"ukrainian": "Необхідні ресурси",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_desc": {
 		"english": "You need to provide these things in order to get people to move in.",
@@ -438,6 +476,7 @@
 		"japanese": "住民を入居させるためにはこれらの物資を準備する必要があります。",
 		"polish": "Te rzeczy są wymagane, aby mieszkańcy mogli się wprowadzić.",
 		"czech": "Potřebuješ zajistit tyto věci, aby se lidé nastěhovali.",
+		"ukrainian": "Ви повинні надати ці ресурси, щоб люди змогли сюди переїхати.",
 	},
 	"tutorialMessage_habitatInfoNextResources_title": {
 		"english": "Upgrade Resources",
@@ -450,6 +489,7 @@
 		"japanese": "居住地改善の物資",
 		"polish": "Zasoby do awansu",
 		"czech": "Vylepšování zásob",
+		"ukrainian": "Ресурси для покращення",
 	},
 	"tutorialMessage_habitatInfoNextResources_desc": {
 		"english": "If you manage to provide these things, the habitat will upgrade to the next level.",
@@ -462,6 +502,7 @@
 		"japanese": "これらの物資を準備して住宅地をアップグレードしてください。",
 		"polish": "Jeżeli zdołasz zapewnić te rzeczy, dom zostanie rozbudowany do kolejnego poziomu.",
 		"czech": "Pokud dokážeš zajistit tyto věci, dům se vylepši na dalši úroveň.",
+		"ukrainian": "Коли ви надасте ці речі, середовище проживання перейде на наступний рівень.",
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -474,6 +515,7 @@
 		"japanese": "都市レベル",
 		"polish": "Poziomy miasta",
 		"czech": "Úrovně města",
+		"ukrainian": "Рівні міста",
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -486,6 +528,7 @@
 		"japanese": "都市レベル",
 		"polish": "Poziomy miasta",
 		"czech": "Úrovně města",
+		"ukrainian": "Рівні міста",
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -498,6 +541,7 @@
 		"japanese": "このパネルは各レベルの居住地の住民数が表示されます。\n\n次のレベルに到達するにはニーズを満たす必要があります。",
 		"polish": "W tym panelu znajdziesz informację ilu mieszkańców żyje w domach poszczególnych poziomów.\n\nRozbudowa domów jest konieczna do osiągania kolejnych poziomów miasta.",
 		"czech": "Tento panel ukazuje, kolik lidí žije v každém typu domu.\n\nPro zvýšení úrovně mésta je nutné jejich domy vylepšit.",
+		"ukrainian": "На цій панелі показано, скільки людей проживає у кожному типі середовища проживання.\n\nВам необхідно поновити середовище проживання, щоб перейти на наступний рівень міста.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -510,6 +554,7 @@
 		"japanese": "都市レベル",
 		"polish": "Poziomy miasta",
 		"czech": "Úrovně města",
+		"ukrainian": "Рівні міста",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -522,6 +567,7 @@
 		"japanese": "進捗バーを確認して次のレベルの住宅地を取得する必要がある住民数を確認してください。",
 		"polish": "Pasek postępu wskazuje ilu mieszkańców potrzebuje zamieszkać w lepszych domach, aby miasto osiągnęło kolejny poziom.",
 		"czech": "Sleduj ukazatel průběhu vylepšení, abys věděl, kolik obyvatel potřebuje lepši bydlení pro zvýšení úrovně města.",
+		"ukrainian": "Перевірте індикатор виконання, щоб дізнатись, скільком громадянам потрібно покращити житло, щоб перейти на наступний рівень.",
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
@@ -534,6 +580,7 @@
 		"japanese": "労働の優先度",
 		"polish": "Priorytetyzacja produkcji",
 		"czech": "Priorita produkce",
+		"ukrainian": "Пріоритизація робіт",
 	},
 	"tutorialMessage_productionPanel_title": {
 		"english": "Production Overview",
@@ -546,6 +593,7 @@
 		"japanese": "生産状況",
 		"polish": "Przegląd produkcji",
 		"czech": "Přehled produkce",
+		"ukrainian": "Огляд виробництва",
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
@@ -558,6 +606,7 @@
 		"japanese": "消費量に十分な生産量があるかどうかを確認します。\n\n備蓄を満タンにしたい場合は生産量を増やす必要があります！",
 		"polish": "Spójrz na informacje o produkcji i konsumpcji surowców, aby dowiedzieć się, czy produkujesz wystarczająco by zaspokoić popyt.\n\nJeżeli chcesz zapełnić magazyny musisz produkować więcej niż zużywasz!",
 		"czech": "Sleduj velikost produkce a poptávky, abys věděl, zda tvé město produkuje dostatek surovin.\n\nPokud chceš zaplnit skladiště, musíš vyrábét víc než spotřebuješ!",
+		"ukrainian": "Перевірте показники вирбництва та споживання у своєму місті, щоб дізнатись, чи достатньо ви виробляєте для задоволення попиту.\n\nЯкщо ви хочете поповнювати запаси, вам потрібно виробляти більше, ніж ви споживаєте!",
 	},
 	"tutorialMessage_productionPanelPrioBars_title": {
 		"english": "Jobs Prioritization",
@@ -570,6 +619,7 @@
 		"japanese": "労働の優先度",
 		"polish": "Priorytetyzacja zatrudnienia",
 		"czech": "Priorita práce",
+		"ukrainian": "Пріоритизація робіт",
 		
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
@@ -583,5 +633,6 @@
 		"japanese": "必要な作業に十分な労働者がいない場合はスライダーを使用して労働者を増員してください。",
 		"polish": "Jeżeli nie masz wystarczającej liczby pracowników, użyj suwaków by przenieść ich do ważniejszych zadań.",
 		"czech": "Pokud nemáš dostatek pracovníků, použij posuvníky pro přesunutí pracovníků na nejdůležitějši práce.",
+		"ukrainian": "Якщо вам не вистачає працівників, використовуйте повзунки, щоб перемістити вашу робочу силу на найважливіші робочі місця.",
 	},
 }
