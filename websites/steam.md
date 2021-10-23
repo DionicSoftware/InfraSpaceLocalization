@@ -54,7 +54,7 @@ InfraSpace to kosmiczny city builder, w którym każdy wyprodukowany surowiec mu
 InfraSpace — це науково-фантастичний містобудівний симулятор, але кожен ресурс, який ви виробляєте, має пройти через вашу транспортну інфраструктуру. Щоб процвітати в цій сонячній системі, вам доведеться не тільки розпочати видобуток корисних копалин і керувати виробничими ланцюгами, але й переконатися, що ваша дорожня мережа відповідає завданню.
 
 ### Slovak
-Infraspace je Sci-Fi City Builder - ale každý zdroj, ktorý vyrába, musí prejsť svoju dopravnú infraštruktúru. Aby ste mohli darovať v tomto slnečnom systéme, musíte nielen začať ťažobné operácie a spravovať výrobné reťazce, ale tiež sa uistite, že vaša cestná sieť je na úlohe.
+Infraspace je Sci-Fi Stavanie Mesta - ale každý zdroj, ktorý vyrába, musí prejsť svoju dopravnú infraštruktúru. Aby ste mohli darovať v tomto slnečnom systéme, musíte nielen začať ťažobné operácie a spravovať výrobné reťazce, ale tiež sa uistite, že vaša cestná sieť je na úlohe.
 
 
 
