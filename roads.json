@@ -1,4 +1,4 @@
-﻿{
+{
   "road_gravel": {
 		"english": "Gravel Road",
 		"german": "Kiesstraße",
@@ -10,7 +10,8 @@
 		"japanese": "砂利道",
 	  	"polish": "Żwirowa droga",
 	  	"czech": "Štěrková cesta",
-	        "ukrainian": "Гравійна дорога",
+	    "ukrainian": "Гравійна дорога",
+		"slovak": "Štrková cesta",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -24,6 +25,7 @@
 		"polish": "Betonowa droga",
 		"czech": "Betonová cesta",
 		"ukrainian": "Бетонна дорога",
+		"slovak": "Betónová cesta",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -37,6 +39,7 @@
 		"polish": "Autostrada",
 		"czech": "Dálnice",
 		"ukrainian": "Шосе",
+		"slovak": "Dialnica",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -50,5 +53,6 @@
 		"polish": "Superautostrada",
 		"czech": "Superdálnice",
 		"ukrainian": "Супермагістраль",
+		"slovak": "Super-diaľnica",
 	},
 }
