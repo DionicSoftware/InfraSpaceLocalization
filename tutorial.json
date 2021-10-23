@@ -1,4 +1,4 @@
-﻿{
+{
   // goal manager
 	"populationGoalTitle":  {
 		"english": "Reach a population of %amount% people",
@@ -12,6 +12,7 @@
 		"polish": "Osiągnij populację %amount% mieszkańców",
 		"czech": "Dosáhni populace %amount% obyvatel",
 		"ukrainian": "Досягніть населення у %amount%% осіб",
+		"slovak": "Dosiahnite populáciu %amount% obyvateľov",
 	},
 	"populationGoalText":  {
 		"english": "%current% / %required% people",
@@ -25,6 +26,7 @@
 		"polish": "%current% z %required% osób",
 		"czech": "%current% z %required% obyvatel",
 		"ukrainian": "%current% / %required% жителів",
+		"slovak": "%current% z %required% obyvateľov",
 	},
 	"buildingGoalText":  {
 		"english": "Build a %buildingName%",
@@ -38,6 +40,7 @@
 		"polish": "Wybuduj %buildingName%",
 		"czech": "Postav %buildingName%",
 		"ukrainian": "Побудуйте %buildingName%",
+		"slovak": "Postavaj %buildingName%",
 	},
 	"researchGoalText":  {
 		"english": "Research %techName%",
@@ -51,6 +54,7 @@
 		"polish": "Zbadaj %techName%",
 		"czech": "Vyzkoumej %techName%",
 		"ukrainian": "Дослідіть %techName%",
+		"slovak": "Vyskúmaj %techName%",
 	},
 	"researchGoalText2":  {
 		"english": "Click on the science pack factory to see which resources are needed.",
@@ -64,6 +68,7 @@
 		"polish": "Kliknij na fabrykę pakietów naukowych, aby zobaczyć listę potrzebnych surowców.",
 		"czech": "Klikni na továrnu na vědecké balíčky, abys zjistil, jaké suroviny jsou potřeba.",
 		"ukrainian": "Нажміть на завод наукових пакетів, щоб дізнатись, які ресурси вам потрібні.",
+		"slovak": "Klikni na továrnu na vedecké balíky, aby si zistil, aké suroviny sú potrebné.",
 	},
 	"tutorial_buildRoad":  {
 		"english": "Build a road next to sulfur and iron.",
@@ -77,6 +82,7 @@
 		"polish": "Wybuduj drogę w pobliżu złóż siarki i żelaza.",
 		"czech": "Postav cestu vedle síry a železa.",
 		"ukrainian": "Побудуйте дорогу поруч з сіркою та залізом.",
+		"slovak": "Postav cestu vedľa síry a železa",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads":  {
 		"english": "You can place your buildings next to roads.",
@@ -90,6 +96,7 @@
 		"polish": "Budynki możesz stawiać przy drogach.",
 		"czech": "Budovy můžeš stavět podél cest.",
 		"ukrainian": "Ви можете розміщувати свої споруди поруч з дорогами.",
+		"slovak": "Budovy môžeš postaviť pozdĺž ciest",
 	},
 	"upgradeGoalText":  {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -103,6 +110,7 @@
 		"polish": "Zaspokojenie potrzeb mieszkańców spowoduje automatyczną rozbudowę domu.",
 		"czech": "Uspokojení potřeb obyvatel vyústí v automatické vylepśení domu.",
 		"ukrainian": "Задовольняйте потреби своїх мешканців, поки вони автоматично не перейдуть на новий рівень.",
+		"slovak": "Uspokojením potrieb vaších obyvateľov, výsledkom je automatické vylepšenie domu",
 	},
 	"tutorialFinishedTitle":  {
 		"english": "You finished the tutorial!",
@@ -116,6 +124,7 @@
 		"polish": "Ukończyłeś samouczek!",
 		"czech": "Dokončil jsi tutoriál!",
 		"ukrainian": "Ви завершили туторіал!",
+		"slovak": "Dokončil si návod!",
 	},
 	"tutorialFinishedText":  {
 		"english": "Congrats! You're now ready to make your city great!",
@@ -129,6 +138,7 @@
 		"polish": "Gratulacje! Jesteś już gotów do zbudowania wspaniałego miasta!",
 		"czech": "Gratulujeme! Nyní jsi připraven postavit skvělé město!",
 		"ukrainian": "Вітаємо! Тепер ви готові до того, щоб зробити найвеличніше місто!",
+		"slovak": "Gratulujeme! Teraz si pripravený postaviť si skvelé mesto!",
 	},
 	"tutorial_concreteProduction":  {
 		"english": "Concrete Production for Roads",
@@ -142,6 +152,7 @@
 		"polish": "Budowa betonu na drogi",
 		"czech": "Produkce betonu na cesty",
 		"ukrainian": "Виробництво бетону для доріг",
+		"slovak": "Produkcia betonu na cesty",
 	},
 	"tutorial_roadConnections":  {
 		"english": "Road Connections",
@@ -155,6 +166,7 @@
 		"polish": "Łączenie dróg",
 		"czech": "Silniční spojení",
 		"ukrainian": "З'єднання доріг",
+		"slovak": "Dialničné spojenie",
 	},
 	"tutorial_powerGeneration":  {
 		"english": "Power Generation",
@@ -168,6 +180,7 @@
 		"polish": "Produkcja prądu",
 		"czech": "Výroba elektřiny",
 		"ukrainian": "Генерація енергії",
+		"slovak": "Výroba elektriny",
 	},
 	"tutorial_storage":  {
 		"english": "Storing the Concrete",
@@ -181,6 +194,7 @@
 		"polish": "Magazynowanie betonu",
 		"czech": "Skladování betonu",
 		"ukrainian": "Зберігання бетону",
+		"slovak": "Skladovanie betónu",
 	},
 	"tutorial_lifeSupport":  {
 		"english": "Life Support",
@@ -194,6 +208,7 @@
 		"polish": "System podtrzymywania życia",
 		"czech": "Podpora života",
 		"ukrainian": "Життєзабезпечення",
+		"slovak": "Podpora života",
 	},
 	"tutorial_newcomers":  {
 		"english": "Accepting Newcomers",
@@ -207,6 +222,7 @@
 		"polish": "Przyjmowanie przybyszów",
 		"czech": "Přijímání nových kolonistů",
 		"ukrainian": "Прийом новачків",
+		"slovak": "Príjimanie nových obyvateľov",
 	},
 	"tutorial_growingTown":  {
 		"english": "Growing the Town",
@@ -220,6 +236,7 @@
 		"polish": "Rozbudowa miasta",
 		"czech": "Růst města",
 		"ukrainian": "Зростання міста",
+		"slovak": "Rast mesta",
 	},
 	"tutorial_research":  {
 		"english": "Research",
@@ -233,6 +250,7 @@
 		"polish": "Badania",
 		"czech": "Výzkum",
 		"ukrainian": "Дослідження",
+		"slovak": "Výskum",
 	},
 	"tutorial_roads":  {
 		"english": "Use roads to connect the mines with the concrete factory",
@@ -246,6 +264,7 @@
 		"polish": "Zbuduj drogę, aby połączyć kopalnie z fabryką betonu",
 		"czech": "Postav cesty abys propojil doly s betonárkou",
 		"ukrainian": "Використовуйте дороги для з'єднання шахти із бетонним заводом.",
+		"slovak": "Použite cesty na spojenie baní s továrňou na betón",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
@@ -259,6 +278,7 @@
 		"polish": "Zbuduj słupy elektryczne, aby połączyć wszystkie budynki z turbiną wiatrową",
 		"czech": "Použij eletrické sloupy pro propojení budov s větrnou turbínou",
 		"ukrainian": "Використовуйте енергетичні стовпи для підключення усіх будівель до вітряної турбіни.",
+		"slovak": "Použi elektrické stĺpy pre prepojenie budov s veternou turbínou",
 	},
 
 
@@ -276,7 +296,7 @@
 		"polish": "Samouczek: %tutorialName%",
 		"czech": "Tutoriál: %tutorialName%",
 		"ukrainian": "Посібник: %tutorialName%",
-
+		"slovak": "Návod: %tutorialName%",
 	},
 	"tutorial_dashboardInfoPanel": {
 		"english": "Quick City Info",
@@ -290,7 +310,7 @@
 		"polish": "Skrót informacji o mieście",
 		"czech": "Informace o městé",
 		"ukrainian": "Короткий огляд міста",
-
+		"slovak": "Informácie o meste",
 	},
 	"tutorialMessage_dashboardInfoPanel_title": {
 		"english": "Quick City Info",
@@ -304,7 +324,7 @@
 		"polish": "Skrót informacji o mieście",
 		"czech": "Informace o městě",
 		"ukrainian": "Короткий огляд міста",
-
+		"slovak": "Informácie o meste",
 	},
 	"tutorialMessage_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
@@ -318,7 +338,7 @@
 		"polish": "Ten panel pozwala szybko skontrolować stan twojego miasta.\n\nW górnym rzędzie znajdują się informacje o zmagazynowanych zasobach betonu i stali. Oba surowce są niezbędne do budowy budynków. Trzecia ikona wskazuje, czy produkujesz wystarczająco dużo prądu.\n\nIkony w dolnym wierszu opisują liczbę mieszkańców twojego miasta, liczbę potrzebnych pracowników oraz ilu mieszkańców mogą pomieścić wybudowane domy. Jeżeli w mieście nie ma wystarczającej liczby pracowników, twoje fabryki nie będą działać wydajnie. Upewnij się, że twoje domy są w stanie pomieścić nowych pracowników.",
 		"czech": "Tento panel ti dá rychlý přehled o tvém městě.\n\nHorní řádek ukazuje kolik betonu a oceli je k dispozici. Oba matriály potřebuješ na stavbu budov. Třetí ikon ukazuje jestli máš ve městě dost elektřiny.\n\nSpodní řádek ukazuje kolik lidí žije ve tvém městě, kolik pracovníků je potřeba a kolik je maximální kapacita všech domů. Pokud nemáš dost pracovníků, pak výroba v továrnách nebude tak efektivní. Také si dávej pozor na to, abys měl v domech dost místa pro nově přichźející pracovníky.",
 		"ukrainian": "Ця панель надає вам швидкий огляд вашого міста.\n\nУ верхньому ряді показано, скільки бетона та сталі у вас є. Для будівництва будівель вам знадобляться обидва матеріали. Третій значок показує, чи достатньо у вас енергії, у вашому місті.\n\nВ нижньому ряді показано, скільки людей живе у вашому місті, скільки потрібно працівників та скільки житла доступно. Якщо у вас недостатньо працівників, щоб заповнити більшість робочих місць, ваші фабрики не будуть працювати ефективно. Також переконайтесь, щоб у вас було достатньо безкоштовного житла, щоб в нього могли в'їхати нові працівники.",
-
+		"slovak": "Tento panel ti dá rýchly prehľad o tvojom meste. \n\nHorný riadok ukazuje koľko betónu a ocele je k dispozícii. Oba materiály potrebuješ na stavbu budov. Tretia ikona ukazuje či máš v meste dosť elektriny.\n\nSpodní riadok ukazuje koľko ľudí žije v tvojom meste, koľko pracovníkov je potreba a koľko je maximálna kapacita všetkých domov. Ak nemáš dosť pracovníkov, potom výroba v továrňach nebude tak efektívna. Tiež si dávaj pozor na to, aby si mal v domoch dosť miesta pre novo prichádzajúcich pracovníkov.",
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -332,6 +352,7 @@
 		"polish": "Jasne!",
 		"czech": "Chápu!",
 		"ukrainian": "Зрозуміло!",
+		"slovak": "Chápem!",
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
@@ -345,6 +366,7 @@
 		"polish": "Pomiń kolejne samouczki",
 		"czech": "Přeskočit tutoriál",
 		"ukrainian": "Пропустити наступні посібники",
+		"slovak": "Preskočiť návod",
 	},
 	"tutorialQuestion_title": { // shown at start of first game
 		"english": "Welcome to InfraSpace!",
@@ -358,6 +380,7 @@
 		"polish": "Witaj w InfraSpace!",
 		"czech": "Vítej v InfraSpace!",
 		"ukrainian": "Ласкаво просимо у InfraSpace!",
+		"slovak": "Vítaj v InfraSpace!",
 	},
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
@@ -371,6 +394,7 @@
 		"polish": "Chcesz, aby w czasie gry pojawiały się podpowiedzi samouczka?\n\nMożesz je włączyć lub wyłączyć w ustawieniach.",
 		"czech": "Chceš v průběhu hry zobrazovat nápovédu?\n\nTuto možnost můžeš vypnout/zapnout v nastevní.",
 		"ukrainian": "Чи хочете ви отримувати підказки під час гри?\n\nВи також можете ввімкнути / вимкнути їх у налаштуваннях.",
+		"slovak": "Chceš v priebehu hry zobrazovať nápovedu?\n\nTúto možnosť môžeš vypnúť/zapnúť v nastaveniach",
 	},
 	"tutorialMessage_goalPanel_title": {
 		"english": "Making your first city",
@@ -384,6 +408,7 @@
 		"polish": "Budowa pierwszego miasta",
 		"czech": "Postav své první město",
 		"ukrainian": "Створення вашого першого міста",
+		"slovak": "Postav svoje prvé mesto",
 	},
 	"tutorialMessage_goalPanel_desc": {
 		"english": "This panel will guide you through the necessary steps to create your first stable city and research some tech.",
@@ -397,7 +422,7 @@
 		"polish": "Informacje w tym panelu przeprowadzą cię przez kolejne kroki niezbędne do zbudowania pierwszego, stabilnego miasta i odkrycia kilku technologii.",
 		"czech": "Tento panel tě provede nutnými kroky pro první soběstačné město a výzkumem prvních technologií.",
 		"ukrainian": "Ця панель проведе вас через необхідні кроки для створення вашого першого стабільного міста та дослідження деяких технологій.",
-
+		"slovak": "Tento panel ťa prevedie nutnými krokmi pre prvé samostatné mesto a vyskúmom prvých technológií.",
 	},
 	"tutorialMessage_constructionMenu_title": {
 		"english": "Construction Menu",
@@ -411,6 +436,7 @@
 		"polish": "Menu budowy",
 		"czech": "Stavební menu",
 		"ukrainian": "Будівельне меню",
+		"slovak": "Stavebné menu",
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
@@ -424,7 +450,7 @@
 		"polish": "Kliknij tu, aby budować drogi i budynki oraz aby je przesuwać i wyburzać.",
 		"czech": "Sem můžeš kliknout pro stavbu cest a budov, jejich pŕesun a demolici.",
 		"ukrainian": "Ви можете клацнути тут, щоб будувати дороги та будівлі, переміщувати їх і руйнувати.",
-
+		"slovak": "Sem môžeš kliknúť pre stavbu ciest a budov, ich premiestnenie a demolíciu.",
 	},
 	"tutorialMessage_cameraMovement_title": {
 		"english": "Camera Movement",
@@ -438,6 +464,7 @@
 		"polish": "Ruch kamery",
 		"czech": "Pohyb kamerou",
 		"ukrainian": "Пересування камери",
+		"slovak": "Pohyb kamerou",
 	},
 	"tutorialMessage_cameraMovement_desc": {
 		"english": "By default, you can move the camera with your arrow keys, WASD, or by moving your mouse to the edge of your screen.\n\nPress the middle mouse button and drag move your mouse to rotate your view.",
@@ -451,6 +478,7 @@
 		"polish": "Domyślnie kamerę można przesuwać za pomocą strzałek na klawiaturze, klawiszy WASD lub przesuwając kursor myszy do krawędzi ekranu.\n\nPrzytrzymanie środkowego przycisku myszy pozwala na obracanie widoku.",
 		"czech": "V základním nastevení kamerou pohybuješ pomocí šipek, WASD nebo najetím myši na okraj obrazovky\n\nStiknutím kolečka myši a následným pohybem myši můžeš rotovat kamerou.",
 		"ukrainian": "За замовчуванням ви можете переміщувати камеру за допомогою клавішів зі стрілками, WASD або переміщуючи мишку до краю екрана.\n\nНатисніть середню кнопку миші та перетягніть мишу, щоб змінити вид.",
+		"slovak": "V základnom nastavený kamerou pohybuješ pomocí šípok, WASD alebo pohybom myšou na okraj obrazovky.\n\nStlačením kolieska myši a následným pohybom myši, môžeš otáčať kamerou.",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -464,6 +492,7 @@
 		"polish": "Wymagane zasoby",
 		"czech": "Potřebné suroviny",
 		"ukrainian": "Необхідні ресурси",
+		"slovak": "Potrebné suroviny",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_desc": {
 		"english": "You need to provide these things in order to get people to move in.",
@@ -477,6 +506,7 @@
 		"polish": "Te rzeczy są wymagane, aby mieszkańcy mogli się wprowadzić.",
 		"czech": "Potřebuješ zajistit tyto věci, aby se lidé nastěhovali.",
 		"ukrainian": "Ви повинні надати ці ресурси, щоб люди змогли сюди переїхати.",
+		"slovak": "Potrebuješ zaistiť tieto veci, aby sa ľudia nasťahovali",
 	},
 	"tutorialMessage_habitatInfoNextResources_title": {
 		"english": "Upgrade Resources",
@@ -490,6 +520,7 @@
 		"polish": "Zasoby do awansu",
 		"czech": "Vylepšování zásob",
 		"ukrainian": "Ресурси для покращення",
+		"slovak": "Vylepšovanie domu",
 	},
 	"tutorialMessage_habitatInfoNextResources_desc": {
 		"english": "If you manage to provide these things, the habitat will upgrade to the next level.",
@@ -503,6 +534,7 @@
 		"polish": "Jeżeli zdołasz zapewnić te rzeczy, dom zostanie rozbudowany do kolejnego poziomu.",
 		"czech": "Pokud dokážeš zajistit tyto věci, dům se vylepši na dalši úroveň.",
 		"ukrainian": "Коли ви надасте ці речі, середовище проживання перейде на наступний рівень.",
+		"slovak": "Pokiaľ dokážeš zaistiť tieto veci, dom sa vylepší na ďalšiu úroveň.",
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -516,6 +548,7 @@
 		"polish": "Poziomy miasta",
 		"czech": "Úrovně města",
 		"ukrainian": "Рівні міста",
+		"slovak": "Úrovne mesta",
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -529,6 +562,7 @@
 		"polish": "Poziomy miasta",
 		"czech": "Úrovně města",
 		"ukrainian": "Рівні міста",
+		"slovak": "Úrovne mesta",
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -542,6 +576,7 @@
 		"polish": "W tym panelu znajdziesz informację ilu mieszkańców żyje w domach poszczególnych poziomów.\n\nRozbudowa domów jest konieczna do osiągania kolejnych poziomów miasta.",
 		"czech": "Tento panel ukazuje, kolik lidí žije v každém typu domu.\n\nPro zvýšení úrovně mésta je nutné jejich domy vylepšit.",
 		"ukrainian": "На цій панелі показано, скільки людей проживає у кожному типі середовища проживання.\n\nВам необхідно поновити середовище проживання, щоб перейти на наступний рівень міста.",
+		"slovak": "Tento panel ti ukazuje, koľko ľudí žije v každom typu domu.\n\nPre zvýšenie úrovne mesta je nutné ich domy vylepšiť.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -555,6 +590,7 @@
 		"polish": "Poziomy miasta",
 		"czech": "Úrovně města",
 		"ukrainian": "Рівні міста",
+		"slovak": "Úrovne mesta",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -568,6 +604,7 @@
 		"polish": "Pasek postępu wskazuje ilu mieszkańców potrzebuje zamieszkać w lepszych domach, aby miasto osiągnęło kolejny poziom.",
 		"czech": "Sleduj ukazatel průběhu vylepšení, abys věděl, kolik obyvatel potřebuje lepši bydlení pro zvýšení úrovně města.",
 		"ukrainian": "Перевірте індикатор виконання, щоб дізнатись, скільком громадянам потрібно покращити житло, щоб перейти на наступний рівень.",
+		"slovak": "Sleduj ukazovateľ priebehu vylepšení, aby si vedel, koľko obyvateľov potrebuje lepší domov pre zvýšenie úrovne mesta.",
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
@@ -581,6 +618,7 @@
 		"polish": "Priorytetyzacja produkcji",
 		"czech": "Priorita produkce",
 		"ukrainian": "Пріоритизація робіт",
+		"slovak": "Priorita produkcie",
 	},
 	"tutorialMessage_productionPanel_title": {
 		"english": "Production Overview",
@@ -594,6 +632,7 @@
 		"polish": "Przegląd produkcji",
 		"czech": "Přehled produkce",
 		"ukrainian": "Огляд виробництва",
+		"slovak": "Prehľad produkcie",
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
@@ -607,6 +646,7 @@
 		"polish": "Spójrz na informacje o produkcji i konsumpcji surowców, aby dowiedzieć się, czy produkujesz wystarczająco by zaspokoić popyt.\n\nJeżeli chcesz zapełnić magazyny musisz produkować więcej niż zużywasz!",
 		"czech": "Sleduj velikost produkce a poptávky, abys věděl, zda tvé město produkuje dostatek surovin.\n\nPokud chceš zaplnit skladiště, musíš vyrábét víc než spotřebuješ!",
 		"ukrainian": "Перевірте показники вирбництва та споживання у своєму місті, щоб дізнатись, чи достатньо ви виробляєте для задоволення попиту.\n\nЯкщо ви хочете поповнювати запаси, вам потрібно виробляти більше, ніж ви споживаєте!",
+		"slovak": "Sleduj velľkosť produkcie a dopytu, aby si vedel, či tvoje mesto produkuje dsotatok surovín.\n\nPokiaľ chceš zaplniť skladisko, musíš vyrábať viac než potrebuješ!",
 	},
 	"tutorialMessage_productionPanelPrioBars_title": {
 		"english": "Jobs Prioritization",
@@ -620,7 +660,7 @@
 		"polish": "Priorytetyzacja zatrudnienia",
 		"czech": "Priorita práce",
 		"ukrainian": "Пріоритизація робіт",
-		
+		"slovak": "Priorita práce",	
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
 		"english": "If you don't have enough workers, use the sliders to move your workforce into the most important jobs.",
@@ -634,5 +674,6 @@
 		"polish": "Jeżeli nie masz wystarczającej liczby pracowników, użyj suwaków by przenieść ich do ważniejszych zadań.",
 		"czech": "Pokud nemáš dostatek pracovníků, použij posuvníky pro přesunutí pracovníků na nejdůležitějši práce.",
 		"ukrainian": "Якщо вам не вистачає працівників, використовуйте повзунки, щоб перемістити вашу робочу силу на найважливіші робочі місця.",
+		"slovak": "Pokiaľ nemáš dostatok pracovníkov, použi posuvníky pre presunutie pracovnikov na najdôležitejšiu prácu.",
 	},
 }
