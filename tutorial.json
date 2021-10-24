@@ -337,7 +337,7 @@
 		"japanese": "このパネルは都市の概要を簡単に確認できます。\n\n利用可能なコンクリートと鉄鋼の量です。建設物資です。\n\n現在の人口数、必要な労働者、居住可能な人口数です。十分な稼働率を維持するため移住希望者の住宅地があることを確認してください。",
 		"polish": "Ten panel pozwala szybko skontrolować stan twojego miasta.\n\nW górnym rzędzie znajdują się informacje o zmagazynowanych zasobach betonu i stali. Oba surowce są niezbędne do budowy budynków. Trzecia ikona wskazuje, czy produkujesz wystarczająco dużo prądu.\n\nIkony w dolnym wierszu opisują liczbę mieszkańców twojego miasta, liczbę potrzebnych pracowników oraz ilu mieszkańców mogą pomieścić wybudowane domy. Jeżeli w mieście nie ma wystarczającej liczby pracowników, twoje fabryki nie będą działać wydajnie. Upewnij się, że twoje domy są w stanie pomieścić nowych pracowników.",
 		"czech": "Tento panel ti dá rychlý přehled o tvém městě.\n\nHorní řádek ukazuje kolik betonu a oceli je k dispozici. Oba matriály potřebuješ na stavbu budov. Třetí ikon ukazuje jestli máš ve městě dost elektřiny.\n\nSpodní řádek ukazuje kolik lidí žije ve tvém městě, kolik pracovníků je potřeba a kolik je maximální kapacita všech domů. Pokud nemáš dost pracovníků, pak výroba v továrnách nebude tak efektivní. Také si dávej pozor na to, abys měl v domech dost místa pro nově přichźející pracovníky.",
-		"ukrainian": "Ця панель надає вам швидкий огляд вашого міста.\n\nУ верхньому ряді показано, скільки бетона та сталі у вас є. Для будівництва будівель вам знадобляться обидва матеріали. Третій значок показує, чи достатньо у вас енергії, у вашому місті.\n\nВ нижньому ряді показано, скільки людей живе у вашому місті, скільки потрібно працівників та скільки житла доступно. Якщо у вас недостатньо працівників, щоб заповнити більшість робочих місць, ваші фабрики не будуть працювати ефективно. Також переконайтесь, щоб у вас було достатньо безкоштовного житла, щоб в нього могли в'їхати нові працівники.",
+		"ukrainian": "Ця панель надає вам швидкий огляд вашого міста.\n\nУ верхньому ряді показана кількість наявного у вас бетону й сталі. Для будівництва вам знадобляться обидва матеріали. Третя піктограма вказує, чи достатньо у вашому місті енергії.\n\nУ нижньому ряді вказана кількість мешканців вашого міста, кількість доступного житла й необхідна кількість працівників. Якщо у вас недостатньо працівників, щоби заповнити робочі місця, ваші заводи не працюватимуть ефективно. Також переконайтеся, щоб у вас було достатньо безкоштовного житла, щоби в нього могли в’їхати нові працівники.",
 		"slovak": "Tento panel ti dá rýchly prehľad o tvojom meste. \n\nHorný riadok ukazuje koľko betónu a ocele je k dispozícii. Oba materiály potrebuješ na stavbu budov. Tretia ikona ukazuje či máš v meste dosť elektriny.\n\nSpodní riadok ukazuje koľko ľudí žije v tvojom meste, koľko pracovníkov je potreba a koľko je maximálna kapacita všetkých domov. Ak nemáš dosť pracovníkov, potom výroba v továrňach nebude tak efektívna. Tiež si dávaj pozor na to, aby si mal v domoch dosť miesta pre novo prichádzajúcich pracovníkov.",
 	},
 	"gotIt": {
@@ -477,7 +477,7 @@
 		"japanese": "矢印キー、WASDキー、カーソルを画面の端に移動させることでカメラを移動できます。\n\nマウスの中ボタン＋ドラッグで画面が回転します。",
 		"polish": "Domyślnie kamerę można przesuwać za pomocą strzałek na klawiaturze, klawiszy WASD lub przesuwając kursor myszy do krawędzi ekranu.\n\nPrzytrzymanie środkowego przycisku myszy pozwala na obracanie widoku.",
 		"czech": "V základním nastevení kamerou pohybuješ pomocí šipek, WASD nebo najetím myši na okraj obrazovky\n\nStiknutím kolečka myši a následným pohybem myši můžeš rotovat kamerou.",
-		"ukrainian": "За замовчуванням ви можете переміщувати камеру за допомогою клавішів зі стрілками, WASD або переміщуючи мишку до краю екрана.\n\nНатисніть середню кнопку миші та перетягніть мишу, щоб змінити вид.",
+		"ukrainian": "Стандартно ви можете рухати камеру за допомогою клавіш зі стрілками, WASD або переміщенням вказівника миші до краю екрана.\n\nНатисніть середню кнопку миші та перетягніть мишку, щоб обертати мапу.",
 		"slovak": "V základnom nastavený kamerou pohybuješ pomocí šípok, WASD alebo pohybom myšou na okraj obrazovky.\n\nStlačením kolieska myši a následným pohybom myši, môžeš otáčať kamerou.",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
@@ -519,7 +519,7 @@
 		"japanese": "居住地改善の物資",
 		"polish": "Zasoby do awansu",
 		"czech": "Vylepšování zásob",
-		"ukrainian": "Ресурси для покращення",
+		"ukrainian": "Ресурси для поліпшення",
 		"slovak": "Vylepšovanie domu",
 	},
 	"tutorialMessage_habitatInfoNextResources_desc": {
@@ -575,7 +575,7 @@
 		"japanese": "このパネルは各レベルの居住地の住民数が表示されます。\n\n次のレベルに到達するにはニーズを満たす必要があります。",
 		"polish": "W tym panelu znajdziesz informację ilu mieszkańców żyje w domach poszczególnych poziomów.\n\nRozbudowa domów jest konieczna do osiągania kolejnych poziomów miasta.",
 		"czech": "Tento panel ukazuje, kolik lidí žije v každém typu domu.\n\nPro zvýšení úrovně mésta je nutné jejich domy vylepšit.",
-		"ukrainian": "На цій панелі показано, скільки людей проживає у кожному типі середовища проживання.\n\nВам необхідно поновити середовище проживання, щоб перейти на наступний рівень міста.",
+		"ukrainian": "На цій панелі показана кількість мешканців у кожному типі середовища проживання.\n\nВам необхідно поновити середовище проживання, щоби перейти на наступний рівень міста.",
 		"slovak": "Tento panel ti ukazuje, koľko ľudí žije v každom typu domu.\n\nPre zvýšenie úrovne mesta je nutné ich domy vylepšiť.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
@@ -603,7 +603,7 @@
 		"japanese": "進捗バーを確認して次のレベルの住宅地を取得する必要がある住民数を確認してください。",
 		"polish": "Pasek postępu wskazuje ilu mieszkańców potrzebuje zamieszkać w lepszych domach, aby miasto osiągnęło kolejny poziom.",
 		"czech": "Sleduj ukazatel průběhu vylepšení, abys věděl, kolik obyvatel potřebuje lepši bydlení pro zvýšení úrovně města.",
-		"ukrainian": "Перевірте індикатор виконання, щоб дізнатись, скільком громадянам потрібно покращити житло, щоб перейти на наступний рівень.",
+		"ukrainian": "Перевірте смугу поступу, щоби дізнатися кількість мешканців, яким потрібно поліпшити житло, щоби перейти на наступний рівень.",
 		"slovak": "Sleduj ukazovateľ priebehu vylepšení, aby si vedel, koľko obyvateľov potrebuje lepší domov pre zvýšenie úrovne mesta.",
 	},
 	"tutorial_productionPanel": {
@@ -617,7 +617,7 @@
 		"japanese": "労働の優先度",
 		"polish": "Priorytetyzacja produkcji",
 		"czech": "Priorita produkce",
-		"ukrainian": "Пріоритизація робіт",
+		"ukrainian": "Пріоритезація робіт",
 		"slovak": "Priorita produkcie",
 	},
 	"tutorialMessage_productionPanel_title": {
