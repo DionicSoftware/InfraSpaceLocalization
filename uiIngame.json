@@ -21,7 +21,7 @@
 		"chinese": "需求: %amount% 兆瓦",
 		"italian": "Richiesta: %amount% MW",
 		"japanese": "必要電力:%amount%MW",
-		"polish": "Wymagane: %amount% MW",
+		"polish": "Zapotrzebowanie: %amount% MW",
 		"ukrainian": "Потрібно: %amount% МВт",
 		"slovak": "Požadované: %amount% MW",
 	},
