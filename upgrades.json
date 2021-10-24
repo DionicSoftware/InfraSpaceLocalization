@@ -21,7 +21,7 @@
 		   "italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria. Le turbine eoliche possono essere cotruite il %amount%% più vicine fra loro.",
 		  "polish": "Ulepszone łopaty powodują mniej zawirowań powietrza. Turbiny wiatrowe mogą być umieszczane %amount%% bliżej siebie.",
 		  "ukrainian": "Адаптованні лопаті створюють менше перешкод у повітрі. Вітрові турбіни можна розмістити на %amount%% ближче одна до одної.",
-		  "slovak": "Prispôsobené lopatky vytvárajú menšie rušenie vo vzduchu. Veterné turbíny môžu byť umiestnené o %amount%% bližšie k sebe.",
+		  "slovak": "Prispôsobené vzduchové lopatky vytvárajú menšie rušenie vo vzduchu. Veterné turbíny môžu byť umiestnené o %amount%% bližšie k sebe.",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
 		  "english": "Self Cleaning Solar Panels",
