@@ -237,7 +237,7 @@
 		"japanese": "マイクロチップ",
 		"polish": "Mikroczipy",
 		"czech": "Mikročipy",
-		"ukrainian": "Мікрочіп",
+		"ukrainian": "Мікросхема",
 		"slovak": "Mikročipy",
 	},
 	"resource_neuralProcessor": {
@@ -312,7 +312,7 @@
 		"japanese": "ハイテクニカルツール",
 		"polish": "Zaawansowane narzędzia",
 		"czech": "High Tech nástroje",
-		"ukrainian": "Високотехнологічний інструмент",
+		"ukrainian": "Високотехнологічне знаряддя",
 		"slovak": "Špičkové Technológie nástroje",
 	},
 	"resource_holoDisplay": {
@@ -342,7 +342,7 @@
 		"japanese": "教育用VR",
 		"polish": "Sprzęty edukacyjno-rozrywkowe VR",
 		"czech": "Zábavní VR",
-		"ukrainian": "VR-навчання",
+		"ukrainian": "Навчання у ВР",
 		"slovak": "Zábavné VR",
 	},
 	"resource_iridiumAlloy": {
@@ -612,7 +612,7 @@
 		"japanese": "車",
 		"polish": "Pojazd",
 		"czech": "Auto",
-		"ukrainian": "Машина",
+		"ukrainian": "Авто",
 		"slovak": "Auto",
 	},
 	"resource_citizenMovingIn": {
