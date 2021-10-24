@@ -116,7 +116,7 @@
 		  "chinese": "自动化将的减少%amount%工人的劳动力需求。",
 		  "italian": "L'automazione riduce le richieste della tua forza lavoro di %amount% lavoratore(i).",
 		  "polish": "Automatyzacja zmniejsza liczbę wymaganych pracowników o %amount% osób.",
-		  "ukrainian": "Автоматизація знижує потребу у вашій робочій силі на %amount%% працівників.",
+		  "ukrainian": "Автоматизація знижує потребу у вашій робочій силі на %amount%% робітників.",
 		  "slovak": "Automatizácia znižuje požiadavky na pracovnú silu o %amount% pracovníkov.",
 	  },
 	  "upgrade_highTechTools":  {
