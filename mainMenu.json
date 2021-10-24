@@ -2272,7 +2272,7 @@
 		"japanese": "飛行自動車",
 		"polish": "Latające samochody dla pracowników",
 		"czech": "Létající auta pro pracující",
-		"ukrainian": "Летючі машини для працівників",
+		"ukrainian": "Летючі машини для робітників",
 		"slovak": "Lietajúce auta pre pracovníkov",
 	},
 	"roadmap_flyingCars_desc": {
@@ -2287,7 +2287,7 @@
 		"japanese": "通勤する労働者の交通量を増加させるためにも\n道路の渋滞を防ぐためにも自動車をアップグレードした\n飛行自動車を導入しましょう。",
 		"polish": "Dodajmy do ruchu latające samochody dla pracowników podróżujących do pracy oraz możliwość przerobienia pojazdu na latający, by ograniczyć korki.",
 		"czech": "Pŕidejme dopravu pro pracující, ale také pŕedstavme vylepšená létající auta, aby tvá dopravní síť nezkolabovala.",
-		"ukrainian": "Додаймо транспорт для працівників, що прямують на роботу, але також представимо покращення для летючої машини, щоби ваша дорожня система не потонула в заторах.",
+		"ukrainian": "Додаймо транспорт для робітників, що прямують на роботу, але також представимо покращення для летючої машини, щоби ваша дорожня система не потонула в заторах.",
 		"slovak": "Pridáme dopravu pre pracujúcich, ale taktiež predstavme vylepšené lietajúce auta, aby tvoja dopravná sieť nezkolabovala",
 	},
 	"roadmap_naturalDisasters_title": {
