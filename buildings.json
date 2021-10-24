@@ -42,7 +42,7 @@
 	  "czech": "Důl na železo",
 	  "ukrainian": "Залізна шахта",
     "slovak": "Baňa na železo",
-    "dutch": "Ijzermijn",	  
+    "dutch": "IJzermijn",	  
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -119,7 +119,7 @@
 	  "czech": "Velká pískovna",
 	  "ukrainian": "Велика пісчана шахта",
     "slovak": "Veľká pieskovňa",
-    "dutch": "Grote zandmijn",
+    "dutch": "Grote Zandmijn",
 	  
   },
   "largeSulfurMine": {
@@ -135,7 +135,7 @@
 	  "czech": "Velký důl na síru",
 	  "ukrainian": "Велика сірчана шахта",
     "slovak": "Veľká baňa na síru",
-    "dutch": "Grote zwavelmijn",	  
+    "dutch": "Grote Zwavelmijn",	  
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -150,7 +150,7 @@
 	  "czech": "Velký důl na železo",
 	  "ukrainian": "Велика залізна шахта",
     "slovak": "Veľká baňa na železo",
-    "dutch": "Grote ijzermijn",	  
+    "dutch": "Grote IJzermijn",	  
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -165,7 +165,7 @@
 	  "czech": "Velký důl na měď",
 	  "ukrainian": "Велика мідна шахта",
     "slovak": "Veľká baňa na meď",
-    "dutch": "Grote kopermijn",	  
+    "dutch": "Grote Kopermijn",	  
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -180,7 +180,7 @@
 	  "czech": "Velký důl na hliník",
 	  "ukrainian": "Велика алюмінієва шахта",
     "slovak": "Veľká baňa na hliník",
-    "dutch": "Grote aluminiummijn",	  
+    "dutch": "Grote Aluminiummijn",	  
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -195,7 +195,7 @@
 	  "czech": "Velký důl na uran",
 	  "ukrainian": "Велика уранова шахта",
     "slovak": "Veľká baňa na hliník",
-    "dutch": "Grote uraniummijn",	  
+    "dutch": "Grote Uraniummijn",	  
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -210,7 +210,7 @@
 	  "czech": "Velký důl na iridium",
 	  "ukrainian": "Велика іридієва шахта",
     "slovak": "Veľká baňa na iridium",
-    "dutch": "Grote iridiummijn",	  
+    "dutch": "Grote Iridiummijn",	  
   },
 
 
@@ -440,7 +440,7 @@
 	  "czech": "High Tech dílna",
 	  "ukrainian": "Майстерня високих технологій",
     "slovak": "Dielna na špičkové technológie",
-    "dutch": "Hih Tech werkplaats",	  
+    "dutch": "High Tech Werkplaats",	  
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -470,7 +470,7 @@
 	  "czech": "Továrna na iridiové palivo",
 	  "ukrainian": "Завод іридієвого палива",
     "slovak": "Továrna na iridiové palivo",
-    "dutch": "Iridiumdrijfgasfabriek",	  
+    "dutch": "Iridium Drijfgasfabriek",	  
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
