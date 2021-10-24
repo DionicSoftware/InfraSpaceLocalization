@@ -52,7 +52,7 @@
 		"italian": "Non sei riuscito a soddisfare i bisogni dei cittadini. La tua città è stata degradata fino a quando non riuscirai a ripristinare le condizioni precedenti.",
 		"polish": "Nie udało ci się zadbać o mieszkańców. Poziom miasta pozostanie obniżony do czasu zaspokojenia ich potrzeb.",
 		"czech": "Selhal jsi v zásobování tvých obyvatel. Tvé město bude degradované dokud se situace nezlepší.",
-		"ukrainian": "Ви не змогли забезпечити своїх громадян. Рівень вашого міста був знижений, поки що ви не зможете змінити ситуацію.",
+		"ukrainian": "Ви не змогли забезпечити своїх громадян усім необхідним. Рівень вашого міста знижених доти, доки ви не виправите ситуацію",
 		"slovak": "Zlyhal si v zásobovaní tvojich obyvatelov. Tvoje mesto bude degradované pokiaľ sa situácia nezlepší.",
 	},
 	"attention":  {
@@ -80,7 +80,7 @@
 		"italian": "La modalità di debug deve essere utilizzata durante lo sviluppo. Se abiliti la modalità debug, potresti avere dei bug.",
 		"polish": "Tryb deweloperski został stworzony tylko z myślą o deweloperach. Aktywowanie go może doprowadzić do pojawiania się błędów.",
 		"czech": "Developerský mód se používá pro vývoj. Jeho zapnutím můžeš narazit na bugy.",
-		"ukrainian": "Режим налагодження призначений для використання при розробці. Якщо ввімкнути режим налагодження, можуть виникнути помилки.",
+		"ukrainian": "Режим відлагодження використовується для розроблення гри. Якщо його ввімкнути, то можуть трапитися помилки.",
 		"slovak": "Developerský režim sa používa pre vývoj. Jeho zapnutím môžeš naraziť na chyby.",
 	},
 }
