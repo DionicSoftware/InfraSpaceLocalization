@@ -100,7 +100,7 @@
 		"italian": "Nessun lavoratore nell'edificio",
 		"japanese": "労働者なし",
 		"polish": "Brak pracowników",
-		"ukrainian": "В будівлі немає будівників",
+		"ukrainian": "У будівлі немає робітників",
 		"slovak": "Žiadny pracovníci v budove",
 	},
 	"noPower": {
@@ -141,7 +141,7 @@
 		"italian": "La tua città sarà promossa a \"%cityLevelName%\" non appena avrai almeno %amount% cittadini di Livello %nextLevel%.",
 		"japanese": "%nextLevel%レベルの住民%amount%人:都市レベル\"%cityLevelName%\"へグレードアップ",
 		"polish": "Twoje miasto osiągnie status \"%cityLevelName%\", gdy co najmniej %amount% mieszkańców osiągnie poziom %nextLevel%.",
-		"ukrainian": "Ваше місто буде підвищено до \"%cityLevelName%\", як тільки у вас буде хоча б %amount% громадян %nextLevel% рівня. ",
+		"ukrainian": "Ваше місто буде підвищено до \"%cityLevelName%\", щойно у вас буде хоча б %amount% громадян %nextLevel%-го рівня.",
 		"slovak": "Tvoje mesto bude povýšené na úroveň \"%cityLevelName%\" až keď dosiahneš %amount% úrovne %nextLevel% občanov.",
 	},
 	"upgradeTextFinished": {
@@ -167,7 +167,7 @@
 		"italian": "La tua città sarà retrocessa a \"%cityLevelName%\" se avrai meno di %amount% cittadini di Livello %level%.",
 		"japanese": "%level%レベルの住民%amount%人以下:都市レベル\"%cityLevelName%\"へグレードダウン",
 		"polish": "Twoje miasto zostanie zdegradowanie do poziomu \"%cityLevelName%\" jeśli będziesz miał mniej niż %amount% mieszkańców poziomu %level%.",
-		"ukrainian": "Ваше місто буде понижено до \"%cityLevelName%\", якщо в ньому буде менше %amount% громадян %level% рівня. ",
+		"ukrainian": "Ваше місто буде понижено до \"%cityLevelName%\", якщо в ньому буде менше ніж %amount% громадян %level%-го рівня.",
 		"slovak": "Tvoje mesto sa degradovalo na úroveň \"%cityLevelName%\" ak máte menej ako %amount% Úroveň %level% občanov",
 	},
 	"researchingSomething":  {
@@ -245,7 +245,7 @@
 		"italian": "Questa tecnologia sblocca:",
 		"japanese": "テクノロジーを取得:",
 		"polish":"Ta technologia odblokowuje:",
-		"ukrainian": "Ця технологя розблокує :",
+		"ukrainian": "Ця технологія розблокує:",
 		"slovak": "Táto technológia odomkne:",
 	},
 	"techUnlocksNothing":  {
@@ -310,7 +310,7 @@
 		"spanish": "Obreros",
 		"japanese": "労働者",
 		"polish":"Pracownicy",
-		"ukrainian": "Працівники",
+		"ukrainian": "Робітники",
 		"slovak": "Pracovníci",
 	},
 	"storage": {
@@ -336,7 +336,7 @@
 		"italian": "Aggiornamenti",
 		"japanese": "アップグレード",
 		"polish":"Ulepszenia",
-		"ukrainian": "Покращення",
+		"ukrainian": "Поліпшення",
 		"slovak": "Vylepšenia",
 	},
 	"prioritize": {
@@ -383,7 +383,7 @@
 		"italian": "L'habitat si aggiornerà in %seconds%s.",
 		"japanese": "居住地のアップグレードまで%seconds%秒",
 		"polish":"Budynek mieszkalny zostanie rozbudowany za %seconds% s.",
-		"ukrainian": "Покращення середовища проживання через %seconds% сек.",
+		"ukrainian": "Поліпшення  середовища проживання за %seconds% с.",
 		"slovak": "Obydlenie sa vylepší za %seconds%s.",
 	},
 	"habitatDowngradingIn": {
@@ -396,7 +396,7 @@
 		"italian": "L'habitat si declasserà in %seconds%s.",
 		"japanese": "居住地のダウングレードまで%seconds%秒",
 		"polish": "Budynek mieszkalny zostanie zdegradowany za %seconds% s.",
-		"ukrainian": "Погіршення середовища проживання через %seconds% сек.",
+		"ukrainian": "Погіршення середовища проживання за %seconds% с.",
 		"slovak": "Obydlenie sa zhorší za %seconds%s.",
 	},
 	"habitatFullMeetNeeds": {
@@ -409,7 +409,7 @@
 		"italian": "L'habitat è pieno. Soddisfa i bisogni supplementari per farlo aggiornare.",
 		"japanese": "居住地をアップグレードするためのニーズ",
 		"polish": "Budynek jest pełny. Zaspokój dodatkowe potrzeby, aby mógł zostać rozbudowany.",
-		"ukrainian": "Середовище проживання заповнене. Виконайте додаткові вимоги для покращення.",
+		"ukrainian": "Середовище проживання заповнене. Виконайте додаткові вимоги для поліпшення.",
 		"slovak": "Obydlenie je plné. Splňte ďalšie potreby pre vylepšenie.",
 	},
 	"peopleAreMovingIn": {
@@ -500,7 +500,7 @@
 		"italian": "Cittadini di livello %level%",
 		"japanese": "%level%レベルの住民",
 		"polish": "Mieszkańcy poziomu %level%",
-		"ukrainian": "Громадяни %level% рівня",
+		"ukrainian": "Громадяни %level%-го рівня",
 		"slovak": "Úroveň %level% Obyvateľov",
 	},
 	"population": {
@@ -629,7 +629,7 @@
 		"russian": "Недостаточно рабочих",
 		"japanese": "労働者不足:",
 		"polish": "Za mało pracowników",
-		"ukrainian": "Недостатньо працівників:",
+		"ukrainian": "Недостатньо робітників:",
 		"slovak": "Nedostatok pracovníkov",
 	},
 	"boostedByNeighbors": {
@@ -707,7 +707,7 @@
 		"spanish": "Asistencia de ángulo de carretera",
 		"japanese": "直角の表示",
 		"polish": "Przyciągaj do kąta drogi",
-		"ukrainian": "Кут прив'язки дороги",
+		"ukrainian": "Кут прив'язування дороги",
 		"slovak": "Uhol cesty",
 	},
 	"replaceRoad": {
@@ -764,7 +764,7 @@
 		"spanish": "Actualmente entregando: %amount%",
 		"japanese": "現在配送中:%amount%",
 		"polish": "Aktualnie dostarczane: %amount%",
-		"ukrainian": "В данний час доставляється: %amount%",
+		"ukrainian": "Наразі доставляється: %amount%",
 		"slovak": "Momentálne sa dodáva: %amount%",
 	},
 
@@ -818,7 +818,7 @@
 		"spanish": "No conectado a la red eléctrica",
 		"japanese": "電力ネットワークに未接続",
 		"polish": "Nie połączono z siecią elektryczną",
-		"ukrainian": "Не підключено до електромережі",
+		"ukrainian": "Не під'єднано до електромережі",
 		"slovak": "Nepripojené k zdroju energie",
 	},
 	"buildingColliding": {
@@ -844,7 +844,7 @@
 		"spanish": "Edificio no colocado sobre un depósito de recursos",
 		"japanese": "資源採取地外に設置",
 		"polish": "Budynek nie jest umieszczony na odpowiednim złożu",
-		"ukrainian": "Будівлю не розміщена на покладі ресурсів",
+		"ukrainian": "Будівля не розміщена на покладі ресурсів",
 		"slovak": "Budova nie je umiestnená na zdroju surovín",
 	},
 	"roadColliding": {
@@ -948,7 +948,7 @@
 		"spanish": "Ocupación del edificio (Obreros & Habitantes)",
 		"japanese": "住民･労働者入居率",
 		"polish": "Obłożenie budynku (pracownicy i mieszkańcy)",
-		"ukrainian": "Заселеність будівлі (працівники та жителі)",
+		"ukrainian": "Заселеність будівлі (робітники та жителі)",
 		"slovak": "Obsadenosť budovy (pracovníci a obyvatelia)",
 	},
 	"visualization_Power": {
@@ -1000,7 +1000,7 @@
 		"spanish": "Centros de reciclaje",
 		"japanese": "リサイクル関連施設",
 		"polish": "Centra recyklingu",
-		"ukrainian": "Центр переробки",
+		"ukrainian": "Центр перероблення",
 		"slovak": "Recyklačné centrná",
 	},
 	"visualization_HighTechTools": {
@@ -1013,7 +1013,7 @@
 		"spanish": "Edificios con herramientas de alta tecnología",
 		"japanese": "ハイテクツール関連施設",
 		"polish": "Budynki z zaawansowanymi narzędziami",
-		"ukrainian": "Будівництво за допомогою високотехнологічних інструментів",
+		"ukrainian": "Будівництво за допомогою високотехнологічних знарядь",
 		"slovak": "Budovanie so Špičkovými nástrojmi",
 	},
 	"visualization_IndustrialRobots": {
@@ -1039,7 +1039,7 @@
 		"spanish": "Vehículos",
 		"japanese": "車",
 		"polish": "Pojazdy",
-		"ukrainian": "Машини",
+		"ukrainian": "Авто",
 		"slovak": "Autá",
 	},
 	"visualization_Roads": {
@@ -1078,7 +1078,7 @@
 		"spanish": "Extrayendo %amount% %resourceName% por minuto",
 		"japanese": "%resourceName%の採掘量:%amount%/分",
 		"polish": "Wydobywa %resourceName% z prędkością %amount% na minutę",
-		"ukrainian": "%amount% %resourceName% видобувається кожну хвилину",
+		"ukrainian": "%amount% %resourceName% видобувається щохвилини",
 		"slovak": "Ťažba %amount% %resourceName% za minútu",
 	},
 	"minedResourcesTotal": {
@@ -1130,7 +1130,7 @@
 		"spanish": "Mueve el cursor entre los distritos para crear una regla de exportación.\n\nLos distritos sin reglas de exportación pueden exportar bienes a donde sea.",
 		"japanese": "指定した地区間をドラッグし物資の輸送管理を行います。\n\n輸送管理のない地区はどこへでも輸送します。",
 		"polish": "Przeciągnij kursor myszy między dzielnicami, aby utworzyć drogę eksportową.\n\nDzielnice bez dróg eksportowych mogą wysyłać towary wszędzie.",
-		"ukrainian": "Перетягуйте курсор миші між районами, щоб створити правило експорту.\n\nРайони без правил експорту можут експортувати товари куди завгодно. ",
+		"ukrainian": "Перетягуйте вказівник миші між районами, щоб створити правило експорту.\n\nРайони без правил експорту можут експортувати товари куди завгодно.",
 		"slovak": "Potiahnutím kurzora myši medzi oblasťami vytvoríte pravidlo exportu.\n\nOblasti bez pravidiel exportu môžu vyvážať tovar kamkoľvek.",
 	},
 
@@ -1183,7 +1183,7 @@
 		"russian": "Улучшайте среду обитания, чтобы сделать город привлекательным для новых жителей.",
 		"japanese": "居住地のアップグレードが移住希望率に影響",
 		"polish": "Rozbuduj budynki mieszkalne, aby przyciągnąć więcej mieszkańców.",
-		"ukrainian": "Покращуйте середовище проживання,щоб зробити місто привабливим для нових жителів.",
+		"ukrainian": "Покращуйте середовище проживання, щоби зробити місто привабливим для нових жителів.",
 		"slovak": "Vylepši si obydlia aby tvoje mesto príjimalo prisťahovalcov.",
 	},
 	"low": {
