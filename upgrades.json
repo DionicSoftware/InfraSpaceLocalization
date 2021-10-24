@@ -8,7 +8,7 @@
 		  "chinese": "改进风力涡轮机叶片",
 		  "italian": "Pale Eoliche Migliorate",
 		  "polish": "Ulepszone łopaty turbin wiatrowych",
-		  "ukrainian": "Покращені лопаті вітряних турбін",
+		  "ukrainian": "Поліпшені лопаті вітряних турбін",
 		  "slovak": "Vylepšené Veterné Turbníny",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
@@ -20,7 +20,7 @@
 		  "chinese": "使叶片更加符合空气流动减少空气阻力。风力涡轮机可以彼此靠近%amount%%放置。",
 		   "italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria. Le turbine eoliche possono essere cotruite il %amount%% più vicine fra loro.",
 		  "polish": "Ulepszone łopaty powodują mniej zawirowań powietrza. Turbiny wiatrowe mogą być umieszczane %amount%% bliżej siebie.",
-		  "ukrainian": "Адаптованні лопаті створюють менше перешкод у повітрі. Вітрові турбіни можна розмістити на %amount%% ближче одна до одної.",
+		  "ukrainian": "Підлаштовані лопаті створюють менше перешкод у повітрі. Вітрові турбіни можна розмістити на %amount%% ближче одна до одної.",
 		  "slovak": "Prispôsobené vzduchové lopatky vytvárajú menšie rušenie vo vzduchu. Veterné turbíny môžu byť umiestnené o %amount%% bližšie k sebe.",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
@@ -56,7 +56,7 @@
 		  "chinese": "工业废料回收",
 		  "italian": "Riciclaggio degli scarichi industriali",
 		  "polish": "Recykling odpadów przemysłowych",
-		  "ukrainian": "Переробка промислових відходів",
+		  "ukrainian": "Перероблення промислових відходів",
 		  "slovak": "Recyklácia priemyselného odpadu",
 	  },
 	  "upgradeDesc_industrialWasteRecycling":  {
@@ -128,7 +128,7 @@
 		  "chinese": "高科技工具",
 		  "italian": "Utensili High Tech",
 		  "polish": "Zaawansowane technologicznie narzędzia",
-		  "ukrainian": "Високотехнологічні інструменти",
+		  "ukrainian": "Високотехнологічні знаряддя",
 		  "slovak": "Špičkové technické nástroje",
 	  },
 	  "upgradeDesc_highTechTools":  {
@@ -140,7 +140,7 @@
 		  "chinese": "更好的工具可将产量提高%amount%%。",
 		  "italian": "Utensili migliori portano ad aumentare la produttività del %amount%%.",
 		  "polish": "Lepsze narzędzia umożliwiają zwiększenie produkcji o %amount%%.",
-		  "ukrainian": "Покращення інструментів приводить до збільшення виробництва на %amount%%",
+		  "ukrainian": "Поліпшення знаряддя збільшує виробництво на %amount%%.",
 		  "slovak": "Lepšie nástroje vedú k zvýšeniu výroby podľa %amount%%",
 	  },
   
@@ -165,7 +165,7 @@
 		  "chinese": "100%升级是全新的，0%升级全部用完。 只要百分比在0以上，升级的效果就会激活。--TODO",
 		  "italian": "Un miglioramento al 100% è completamente nuovo, allo 0% è completamente esaurito. L'effetto del miglioramento è attivo finchè la percentuale è superiore a 0.",
 		  "polish": "100% ulepszenie oznacza fabrycznie nowe, 0% - całkowicie zużyte. Efekt ulepszenia jest aktywny tak długo, jak procent jest wyższy od 0.",
-		  "ukrainian": "100% покращення - повністю нове, у свою чершу 0% покращення повністю витрачено. Ефект покращення активний до тих пір, пока процент вище 0.",
+		  "ukrainian": "100% поліпшення — повністю нове, 0% поліпшення — зношене. Поліпшення діє доти, доки його відсоток вищий за 0.",
 		  "slovak": "100% upgrade je úplne nový, upgrade 0% sa používa. Efekt aktualizácie je aktívny, pokiaľ je percento nad 0.",
 	  },
   }
