@@ -12,6 +12,7 @@
 	  "czech": "Pískovna",
 	  "ukrainian": "Піщана шахта",
     "slovak": "Pieskovňa",
+    "dutch": "Zandmijn",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -26,6 +27,7 @@
 	  "czech": "Důl na síru",
 	  "ukrainian": "Сірчана шахта",
     "slovak": "Baňa na síru",
+    "dutch": "Zwavelmijn",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -40,6 +42,7 @@
 	  "czech": "Důl na železo",
 	  "ukrainian": "Залізна шахта",
     "slovak": "Baňa na železo",
+    "dutch": "Ijzermijn",	  
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -54,6 +57,7 @@
 	  "czech": "Důl na měď",
 	  "ukrainian": "Мідна шахта",
     "slovak": "Baňa na meď",
+    "dutch": "Kopermijn",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -68,6 +72,7 @@
 	  "czech": "Důl na hliník",
 	  "ukrainian": "Алюмінієва шахта",
     "slovak": "Baňa na hliník",
+    "dutch": "Aluminiummijn",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -82,6 +87,7 @@
 	  "czech": "Důl na uran",
 	  "ukrainian": "Уранова шахта",
     "slovak": "Baňa na urán",
+    "dutch": "Uraniummijn",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -96,6 +102,7 @@
 	  "czech": "Důl na iridium",
 	  "ukrainian": "Іридієва шахта",
     "slovak": "Baňa na iridium",
+    "dutch": "Iridiummijn",
   },
 
 
@@ -112,6 +119,7 @@
 	  "czech": "Velká pískovna",
 	  "ukrainian": "Велика пісчана шахта",
     "slovak": "Veľká pieskovňa",
+    "dutch": "Grote zandmijn",
 	  
   },
   "largeSulfurMine": {
@@ -127,6 +135,7 @@
 	  "czech": "Velký důl na síru",
 	  "ukrainian": "Велика сірчана шахта",
     "slovak": "Veľká baňa na síru",
+    "dutch": "Grote zwavelmijn",	  
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -141,6 +150,7 @@
 	  "czech": "Velký důl na železo",
 	  "ukrainian": "Велика залізна шахта",
     "slovak": "Veľká baňa na železo",
+    "dutch": "Grote ijzermijn",	  
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -155,6 +165,7 @@
 	  "czech": "Velký důl na měď",
 	  "ukrainian": "Велика мідна шахта",
     "slovak": "Veľká baňa na meď",
+    "dutch": "Grote kopermijn",	  
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -169,6 +180,7 @@
 	  "czech": "Velký důl na hliník",
 	  "ukrainian": "Велика алюмінієва шахта",
     "slovak": "Veľká baňa na hliník",
+    "dutch": "Grote aluminiummijn",	  
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -183,6 +195,7 @@
 	  "czech": "Velký důl na uran",
 	  "ukrainian": "Велика уранова шахта",
     "slovak": "Veľká baňa na hliník",
+    "dutch": "Grote uraniummijn",	  
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -197,6 +210,7 @@
 	  "czech": "Velký důl na iridium",
 	  "ukrainian": "Велика іридієва шахта",
     "slovak": "Veľká baňa na iridium",
+    "dutch": "Grote iridiummijn",	  
   },
 
 
@@ -213,6 +227,7 @@
 	  "czech": "Továrna na elektroniku",
 	  "ukrainian": "Завод електроніки",
     "slovak": "Továrna na elektroniku",
+    "dutch": "Electronicafabriek",	  
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -227,6 +242,7 @@
 	  "czech": "Továrna na mikročipy",
 	  "ukrainian": "Завод мікрочіпів",
     "slovak": "Továrna na mikročipy",
+    "dutch": "Microchipfabriek",  
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -241,6 +257,7 @@
 	  "czech": "Továrna na neuronové procesory",
 	  "ukrainian": "Завод нейронних процесорів",
     "slovak": "Továrna na neuronové procesory",
+    "dutch": "Neuraalprocessorfabriek",	  
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -255,6 +272,8 @@
 	  "czech": "Továrna na motory",
 	  "ukrainian": "Моторний завод",
     "slovak": "Továrna na motory",
+    "dutch": "Motorfabriek",	  
+	  
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -269,6 +288,7 @@
 	  "czech": "Továrna na nanotrubice",
 	  "ukrainian": "Завод нанотрубок",
     "slovak": "Továrna na nanotrubice",
+    "dutch": "Nanobuizenfabriek",	  
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -283,6 +303,7 @@
 	  "czech": "Továrna na slitiny iridia",
 	  "ukrainian": "Завод іридієвих сплавів",
     "slovak": "Továrna na zliatiny iridia",
+    "dutch": "Iridiumlegeringfabriek",	  
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -297,6 +318,7 @@
 	  "czech": "Továrna na hologramové obrazovky",
 	  "ukrainian": "Завод голографічних дисплеїв",
     "slovak": "Továrna na hologramové obrazovky",
+    "dutch": "Holobeeldschermfabriek",	  
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -311,6 +333,7 @@
 	  "czech": "Továrna na radiační jádra",
 	  "ukrainian": "Завод радіаційного ядра",
     "slovak": "Továrna na radiačné jadrá",
+    "dutch": "Radiatiekernfabriek",	  
   },
 
 
@@ -327,6 +350,7 @@
 	  "czech": "Betonárka",
 	  "ukrainian": "Бетонний завод",
     "slovak": "Betonárka",
+    "dutch": "Betonfabriek",	  
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -341,6 +365,7 @@
 	  "czech": "Ocelárna",
 	  "ukrainian": "Металургійний комбінат",
     "slovak": "Oceliareň",
+    "dutch": "Staalfabriek",	  
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -355,6 +380,7 @@
 	  "czech": "Továrna na domácí spotřebiče",
 	  "ukrainian": "Завод побутової техніки",
     "slovak": "Továrna na domáce spotrebiče",
+    "dutch": "Huishoudapparatuurfabriek",	  
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -369,6 +395,7 @@
 	  "czech": "Továrna na počítače",
 	  "ukrainian": "Комп'ютерний завод",
     "slovak": "Továrna na počítače",
+    "dutch": "Computerfabriek",	  
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -383,6 +410,7 @@
 	  "czech": "Továrna na roboty do domácnosti",
 	  "ukrainian": "Завод домашніх роботів",
     "slovak": "Továrna na roboty pre domácnosť",
+    "dutch": "Huishoudsrobotfabriek",	  
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -397,6 +425,7 @@
 	  "czech": "Továrna na průmyslové roboty",
 	  "ukrainian": "Завод промислових роботів",
     "slovak": "Továrna na premieslové roboty",
+    "dutch": "Industriële robotfabriek",	  
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -411,6 +440,7 @@
 	  "czech": "High Tech dílna",
 	  "ukrainian": "Майстерня високих технологій",
     "slovak": "Dielna na špičkové technológie",
+    "dutch": "Hih Tech werkplaats",	  
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -425,6 +455,7 @@
 	  "czech": "Továrna na zábavní VR",
 	  "ukrainian": "Завод VR-навчання",
     "slovak": "Továrna na zábavu VR",
+    "dutch": "VR Edutainmentfabriek",	  
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -439,6 +470,7 @@
 	  "czech": "Továrna na iridiové palivo",
 	  "ukrainian": "Завод іридієвого палива",
     "slovak": "Továrna na iridiové palivo",
+    "dutch": "Iridiumdrijfgasfabriek",	  
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -453,6 +485,7 @@
 	  "czech": "Továrna na kontrolní jednotky umělé inteligence",
 	  "ukrainian": "Завод блоків управління ШІ",
     "slovak": "Továrna na kontrolné jednotky umelej inteligencie",
+    "dutch": "AI Controleeenheidfabriek",	  
   },
 
 
@@ -469,6 +502,7 @@
 	  "czech": "Továrna na modré vědecké balíčky",
 	  "ukrainian": "Завод блакитних наукових пакетів",
     "slovak": "Továrna na modré vedecké balíky",
+    "dutch": "Fabriek voor blauwe wetenschapspaketten",	  
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -483,6 +517,7 @@
 	  "czech": "Továrna na zelené vědecké balíčky",
 	  "ukrainian": "Завод зелених наукових пакетів",
     "slovak": "Továrna na zelené vedecké balíky",
+    "dutch": "Fabriek voor groene wetenschapspaketten",		  
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -497,6 +532,7 @@
 	  "czech": "Továrna na žluté vědecké balíčky",
 	  "ukrainian": "Завод жовтих наукових пакетів",
     "slovak": "Továrna na žlté vedecké balíky",
+    "dutch": "Fabriek voor gele wetenschapspaketten",		  
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -511,6 +547,7 @@
 	  "czech": "Továrna na červené vědecké balíčky",
 	  "ukrainian": "Завод червоних наукових пакетів",
     "slovak": "Továrna na červené vedecké balíky",
+    "dutch": "Fabriek voor rode wetenschapspaketten",		  
   },
   "researchLab": {
     "english": "Research Lab",
@@ -525,6 +562,7 @@
 	  "czech": "Výzkumná laboratoř",
 	  "ukrainian": "Дослідницька лабораторія",
     "slovak": "Výskumné laborátorium",
+    "dutch": "Onderzoekslaboratorium",		  
   },
 
 
@@ -543,6 +581,7 @@
 	  "czech": "Sklad stavebních materiálů",
 	  "ukrainian": "Склад будівельних матеріалів",
     "slovak": "Sklad stavebných materiálov",
+    "dutch": "Bouwmateriaalopslag",		  
   },
   "spacePort": {
     "english": "Space Port",
@@ -557,6 +596,7 @@
 	  "czech": "Vesmírný přístav",
 	  "ukrainian": "Космодром",
     "slovak": "Vesmírny prístav",
+    "dutch": "Ruimtehaven",		  
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -571,6 +611,7 @@
 	  "czech": "Recyklační centrum",
 	  "ukrainian": "Центр утилізації",
     "slovak": "Recyklačné centrum",
+    "dutch": "Recyclingcentrum",		  
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -585,6 +626,7 @@
 	  "czech": "Zařízení na obohacování půdy",
 	  "ukrainian": "Завод зі збагачення ґрунту",
     "slovak": "Zariadenie na obohocovanie pôdy",
+    "dutch": "Bodemverrijkingsfaciliteit",	  
   },
 
 
@@ -601,6 +643,7 @@
 	  "czech": "Zařízení na zpracování vzduchu",
 	  "ukrainian": "Атмосферний процесор",
     "slovak": "Zariadenie na  zpracovanie vzduchu",
+    "dutch": "Atmosfeerverwerker",	  
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -615,6 +658,7 @@
 	  "czech": "Zařízení na výrobu kyslíku",
 	  "ukrainian": "Кисневий процесор",
     "slovak": "Zariadenie na výrobu kyslíku",
+    "dutch": "Zuurstofverwerker",	  
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -629,6 +673,7 @@
 	  "czech": "Zařízení na výrobu uhlíku",
 	  "ukrainian": "Вуглецевий процесор",
     "slovak": "Zariadenie na výrobu uhlíku",
+    "dutch": "Koolstofverwerker",	  
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -643,6 +688,7 @@
 	  "czech": "Základní farma",
 	  "ukrainian": "Проста ферма",
     "slovak": "Základná farma",
+    "dutch": "Eenvoudige Boerderij",	  
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -657,6 +703,7 @@
 	  "czech": "Továrna na hnojivo",
 	  "ukrainian": "Завод добрив",
     "slovak": "Továrna na hnojivo",
+    "dutch": "Kunstmestfabriek",	  
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -671,6 +718,7 @@
 	  "czech": "Zeleninová farma",
 	  "ukrainian": "Овочева ферма",
     "slovak": "Zeleninová farma",
+    "dutch": "Groenteteler",	  
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -685,6 +733,7 @@
 	  "czech": "Masová laboratoř",
 	  "ukrainian": "М'ясна лабораторія",
     "slovak": "Mäsové laboratórium",
+    "dutch": "Vleeslaboratorium",	  
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -699,6 +748,7 @@
 	  "czech": "Továrna na jídlo",
 	  "ukrainian": "Завод їжі",
     "slovak": "Továrna na jedlo",
+    "dutch": "Maaltijdfabriek",	  
   },
 
 
@@ -715,6 +765,7 @@
 	  "czech": "Základní dům",
 	  "ukrainian": "Базове середовище проживання",
     "slovak": "Základný dom",
+    "dutch": "Basishabitat",	  
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -729,6 +780,7 @@
 	  "czech": "Ucházející dům",
 	  "ukrainian": "Гідне середовище проживання",
     "slovak": "Lepší dom",
+    "dutch": "Redelijke Habitat",	  
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -743,6 +795,7 @@
 	  "czech": "Komfortní dům",
 	  "ukrainian": "Комфортне середовище проживання",
     "slovak": "Komfortný dom",
+    "dutch": "Comforatbele Habitat",	  
   },
   "habitatLevel4": {
 		"english": "Residential building",
@@ -757,6 +810,7 @@
 	  "czech": "Bytovka",
 	  "ukrainian": "Житловий будинок",
     "slovak": "Bytovka",
+    "dutch": "Woongebouw",	  
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -771,6 +825,7 @@
 	  "czech": "Panelák",
 	  "ukrainian": "Житлова багатоповерхівка",
     "slovak": "Panelák",
+    "dutch": "Woonhoogbouw",	  
   },
 	"habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -785,6 +840,7 @@
 		"czech": "Luxusní věžák",
 		"ukrainian": "Елітна житлова багатоповерхівка",
     "slovak": "Luxusná veža",
+    "dutch": "Luxe Woonhoogbouw",		
   },
 
 
@@ -801,6 +857,7 @@
 	  "czech": "Park",
 	  "ukrainian": "Парк",
     "slovak": "Park",
+    "dutch": "Park",	  
   },
   "arena": {
     "english": "Stadium",
@@ -815,6 +872,7 @@
 	  "czech": "Stadion",
 	  "ukrainian": "Стадіон",
     "slovak": "Štadión",
+    "dutch": "Stadion",	  
   },
   "school": {
     "english": "School",
@@ -829,6 +887,7 @@
 	  "czech": "Škola",
 	  "ukrainian": "Школа",
     "slovak": "Škola",
+    "dutch": "School",	  
   },
 
 	"powerPole": {
@@ -844,6 +903,7 @@
 		"czech": "Elektrický sloup",
 		"ukrainian": "Електричний стовп",
     "slovak": "Elektrický stĺp",
+    "dutch": "Stroommast",		
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
@@ -858,6 +918,7 @@
 		"czech": "Rozvodna elektřiny",
 		"ukrainian": "Електропідстанція",
     "slovak": "Rozvodna elektriny",
+    "dutch": "Stroomonderstation",		
 	},
 	"windTurbine": {
 		"english": "Wind Turbine",
@@ -872,6 +933,7 @@
 		"czech": "Větrná turbína",
 		"ukrainian": "Вітряна турбіна",
     "slovak": "Veterná turbína",
+    "dutch": "Windturbine",		
 	},
 	"solarPowerPlant": {
 		"english": "Solar Power Plant",
@@ -886,6 +948,7 @@
 		"czech": "Fotovoltaická elektrárna",
 		"ukrainian": "Сонячна електростанція",
     "slovak": "Slnečná elektráreň",
+    "dutch": "Zonne-energiecentrale",		
 	},
 	"nuclearPowerPlant": {
 		"english": "Nuclear Power Plant",
@@ -900,6 +963,7 @@
 		"czech": "Jaderná elektrárna",
 		"ukrainian": "Атомна електростанція",
     "slovak": "Jadrová elektráreň",
+    "dutch": "Kerncentrale",		
 	},
 	"fastNeutronReactor": {
 		"english": "Fast Neutron Reactor",
@@ -914,6 +978,7 @@
 		"czech": "Reaktor na rychlé neutrony",
 		"ukrainian": "Швидкий нейтронний реактор",
     "slovak": "Rýchly Neutrónový reaktor",
+    "dutch": "Snelle Neutronenreactor",		
 	},
   "signStanding": {
     "english": "Great Standing Sign",
@@ -928,6 +993,7 @@
 	  "czech": "Stojící nápis",
 	  "ukrainian": "Великий стоячий знак",
     "slovak": "Stojáci nápis",
+    "dutch": "Grote Staande Belettering",	  
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -942,6 +1008,7 @@
 	  "czech": "Ležící nápis",
 	  "ukrainian": "Великий лежачий знак",
     "slovak": "Ležatý nápis",
+    "dutch": "Grote Liggende Belettering",	  
   },
   "monumentDrill": {
     "english": "Colossal Adamantine Drill",
@@ -956,5 +1023,6 @@
 	  "czech": "Obři adamantinový vrták",
 	  "ukrainian": "Величезний адамантієвий бур",
     "slovak": "Obrovský Adamantitový vrták",
+    "dutch": "Kolossale Adamantboor",	  
   }
 }
