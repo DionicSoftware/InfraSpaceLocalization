@@ -90,7 +90,7 @@
     "italian": "Pale Eoliche Migliorate",
 	  "polish": "Ulepszone łopaty turbin wiatrowych",
 	  "czech": "Vylepšená větrná turbína",
-	  "ukrainian": "Покращені лопаті вітряних турбін",
+	  "ukrainian": "Поліпшені лопаті вітряних турбін",
     "slovak": "Vylepšená veterná turbína",
   },
 	"techDesc_improvedWindTurbineBlades": {
@@ -103,7 +103,7 @@
     "italian": "Adatta la forma delle pale eoliche all'atmosfera. Questo porta a ridurre le turbolenze nell'aria, che ti consente di costruire le turbine eoliche più vicine fra loro.",
 		"polish": "Zmienia geometrię łopat dostosowując je do atmosfery. Pozwala to na zmniejszenie generowanych turbulencji, dzięki czemu elektrownie mogą być budowane bliżej siebie.",
 		"czech": "Adaptuje listy turbíny na atmosféru. Toto vede k menším turbulencím, takže můžou být blíže k sobě.",
-		"ukrainian": "Адаптує форму лопатей вітряної турбіни до атмосфери. Це знижує рівень високих перешкод в повітрі, що дозволяє будувати вітряні турбіни ближче одна до одної.",
+		"ukrainian": "Підлаштовує форму лопатей вітряної турбіни до атмосфери. Це знижує рівень високих перешкод в повітрі, що дозволяє будувати вітряні турбіни ближче одна до одної.",
     "slovak": "Prispôsobuje tvar lopatiek veternej turbíny atmosfére. To vedie k menšiemu rušeniu vo vzduchu, čo vám umožní postaviť veterné turbíny bližšie k sebe.",
 	},
   "tech_concreteRoads": {
@@ -183,7 +183,7 @@
     "italian": "Strade a Quattro Corsie",
 	  "polish": "Czteropasmowe drogi",
 	  "czech": "Čtyřproudové silnice",
-	  "ukrainian": "Чотирьохсмугові дороги",
+	  "ukrainian": "Чотирисмугові дороги",
     "slovak": "Čtvorprúdové diaľnice",
   },
   "tech_oneWayRoads": {
@@ -249,7 +249,7 @@
     "italian": "Aumenta la velocità di estrazione per rifornire la tua città in espansione.",
 		"polish": "Przyspiesz wydobycie, aby nadążyć za rosnącymi potrzebami miasta.",
 		"czech": "Zrychli těžbu surovin abys nasytil své rostoucí město.",
-		"ukrainian": "Прискорте видобуток ресурсів,щоб вгамувати голод в зростаючому місті",
+		"ukrainian": "Пришвидшіть видобуток ресурсів, щоби вгамувати голод у місті, що розростається.",
     "slovak": "Zrýchlite ťažbu surovín, aby ste nakŕmili hlad vášho rastúceho mesta",
 	},
 
@@ -289,7 +289,7 @@
     "italian": "Rifornisci di terreno fertilizzato le fattorie vicine ed aumenta significativamente la loro produzione.",
 		"polish": "Zapewnienie dostaw nawozu do farm znacząco zwiększa ilość produkowanej żywności.",
 		"czech": "Distribuje hnojivo do blízkých farem a výrazně zvyšuje jejich produkci.",
-		"ukrainian": "Постачайте ґрунт з добривом на найближчі ферми та значно збільшуйте їх виробництво.",
+		"ukrainian": "Постачайте ґрунт із добривом на найближчі ферми та значно збільшуйте їхнє виробництво.",
     "slovak": "Distribuje hnojivo do blízkych fariem a význe zvyšuje ich produkciu",
 	},
   "tech_nanotubes": {
@@ -328,7 +328,7 @@
     "italian": "Una volta che i tuoi pannelli solari si puliscono da soli, le tue centrali solari produrranno molta più energia.",
 		"polish": "Dzięki zastosowaniu samoczyszczących paneli słonecznych, elektrownie słoneczne będą produkować znacznie więcej energii.",
 		"czech": "Jakmile se fotovoltaické panely začnou čistit samy, budou generovat mnohem víc energie.",
-		"ukrainian": "Як тільки ваші сонячні панелі очистяться, ваші сонячні електростанції будуть виробляти набагато більше енергії",
+		"ukrainian": "Щойно ваші сонячні панелі очистяться, сонячні електростанції вироблятимуть набагато більше енергії.",
     "slovak": "Keď sa vaše solárne panely vyčistia, vaše solárne elektrárne budú generovať oveľa viac energie.",
 	},
   "tech_sixLaneRoads": {
@@ -513,7 +513,7 @@
     "italian": "Sfruttamento dell'Iridio",
 	  "polish": "Wydobycie irydu",
 	  "czech": "Těžba iridia",
-	  "ukrainian": "Видобуток іридія",
+	  "ukrainian": "Видобуток іридію",
     "slovak": "Ťažba iridia",
   },
   "tech_recycling": {
@@ -539,7 +539,7 @@
     "italian": "Riduce il consumo di risorse processando i rifiuti industriali nelle fabbriche vicine.",
 		"polish": "Zmniejsz zapotrzebowanie na surowce dzięki wykorzystaniu odpadów przemysłowych w pobliskich fabrykach.",
 		"czech": "Snižje spotřebu surovin recyklací odpadu z blźkých továren",
-		"ukrainian": "Знизьте споживання ресурсів за рахунок переробки промислових відходів на прилеглих заводах.",
+		"ukrainian": "Знизьте споживання ресурсів шляхом перероблення промислових відходів на прилеглих заводах.",
     "slovak": "Znižuje spotrebu surovín recykláciou odpadu z okolitých továrňach",
 	},
 	
@@ -579,7 +579,7 @@
     "italian": "Rifornisci le tue fabbriche con utensili High Tech per aumentare la produttività.",
 		"polish": "Zaopatrzenie fabryk w zaawansowane technologicznie narzędzia pozwala na zwiększenie produktywności.",
 		"czech": "Továrnám zásobovaným High Tech nástroji se zvyšuje produkce.",
-		"ukrainian": "Забезпечте свои підприємства високотехнологічними інструментами, щоб підвищити продуктивність",
+		"ukrainian": "Забезпечте свої підприємства високотехнологічними знаряддями, щоби підвищити продуктивність.",
     "slovak": "Zásobujte svoje továrne špičkovými technologickými nástrojmi s cieľom zvýšiť produktivitu.",
 	},
 
