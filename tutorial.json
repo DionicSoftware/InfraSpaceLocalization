@@ -67,7 +67,7 @@
 		"japanese": "サイエンスパック生産工場をクリックして必要な物資を確認してください",
 		"polish": "Kliknij na fabrykę pakietów naukowych, aby zobaczyć listę potrzebnych surowców.",
 		"czech": "Klikni na továrnu na vědecké balíčky, abys zjistil, jaké suroviny jsou potřeba.",
-		"ukrainian": "Нажміть на завод наукових пакетів, щоб дізнатись, які ресурси вам потрібні.",
+		"ukrainian": "Натисніть на завод наукових пакетів, щоби дізнатися про потрібні ресурси.",
 		"slovak": "Klikni na továrnu na vedecké balíky, aby si zistil, aké suroviny sú potrebné.",
 	},
 	"tutorial_buildRoad":  {
@@ -81,7 +81,7 @@
 		"japanese": "硫黄採掘場所と鉄採掘場所のすぐ近辺に道路を建設する",
 		"polish": "Wybuduj drogę w pobliżu złóż siarki i żelaza.",
 		"czech": "Postav cestu vedle síry a železa.",
-		"ukrainian": "Побудуйте дорогу поруч з сіркою та залізом.",
+		"ukrainian": "Побудуйте дорогу поруч із сіркою та залізом.",
 		"slovak": "Postav cestu vedľa síry a železa",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads":  {
@@ -95,7 +95,7 @@
 		"japanese": "採掘場を設置するために道路を建設します",
 		"polish": "Budynki możesz stawiać przy drogach.",
 		"czech": "Budovy můžeš stavět podél cest.",
-		"ukrainian": "Ви можете розміщувати свої споруди поруч з дорогами.",
+		"ukrainian": "Ви можете розміщувати свої споруди поруч із дорогами.",
 		"slovak": "Budovy môžeš postaviť pozdĺž ciest",
 	},
 	"upgradeGoalText":  {
@@ -123,7 +123,7 @@
 		"japanese": "チュートリアルは終了しました！",
 		"polish": "Ukończyłeś samouczek!",
 		"czech": "Dokončil jsi tutoriál!",
-		"ukrainian": "Ви завершили туторіал!",
+		"ukrainian": "Ви завершили навчання!",
 		"slovak": "Dokončil si návod!",
 	},
 	"tutorialFinishedText":  {
@@ -263,7 +263,7 @@
 		"japanese": "採掘場とコンクリート生産工場を道路に接続させる",
 		"polish": "Zbuduj drogę, aby połączyć kopalnie z fabryką betonu",
 		"czech": "Postav cesty abys propojil doly s betonárkou",
-		"ukrainian": "Використовуйте дороги для з'єднання шахти із бетонним заводом.",
+		"ukrainian": "Використовуйте дороги для з'єднання шахти з бетонним заводом.",
 		"slovak": "Použite cesty na spojenie baní s továrňou na betón",
 	},
 	"tutorial_power": {
@@ -277,7 +277,7 @@
 		"japanese": "建物へ電力を供給するため電柱を建設する",
 		"polish": "Zbuduj słupy elektryczne, aby połączyć wszystkie budynki z turbiną wiatrową",
 		"czech": "Použij eletrické sloupy pro propojení budov s větrnou turbínou",
-		"ukrainian": "Використовуйте енергетичні стовпи для підключення усіх будівель до вітряної турбіни.",
+		"ukrainian": "Використовуйте енергетичні стовпи для під’єднання всіх будівель до вітряної турбіни.",
 		"slovak": "Použi elektrické stĺpy pre prepojenie budov s veternou turbínou",
 	},
 
