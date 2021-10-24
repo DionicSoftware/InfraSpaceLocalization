@@ -38,7 +38,7 @@
 		"italian": "Non ci sono abbastanza lavoratori",
 		"polish": "Zbyt mało pracowników",
 		"czech": "Nedostatek pracovníků",
-		"ukrainian": "Недостатньо працівників",
+		"ukrainian": "Недостатньо робітників",
 		"slovak": "Nedostatok pracovníkov",
 	},
 	"notEnoughWorkers_desc": {
@@ -52,7 +52,7 @@
 		"italian": "Se non hai abbastanza lavoratori, le tue fabbriche non lavoreranno efficientemente.\nUsa lo strumento di Priorità in alto a sinistra per distribuire la forza lavoro.",
 		"polish": "Zbyt mała liczba pracowników sprawia, że fabryki nie pracują z pełną wydajnością.\nUstaw priorytet pracy korzystając z narzędzia w lewym górnym rogu ekranu.",
 		"czech": "Pokud nemáš dostatek pracovníků, tvé továrny nebudou tak efektivní.\nPoužij Prioriritní nástroj vlevo nahoře k distribuci pracovní síly.",
-		"ukrainian": "Якщо у вас недостатньо працівників, ваші підприємства не зможуть працювати ефективно.\nВикористовуйте інструмент виставлення пріоритетів у лівому верхньому куті, щоб розподілити робочу силу.",
+		"ukrainian": "Якщо у вас недостатньо робітників, ваші підприємства не зможуть працювати ефективно.\nВикористовуйте інструмент виставлення пріоритетів у лівому верхньому куті, щоб розподілити робочу силу.",
 		"slovak": "Pokiaľ nemáš dostatok pracovníkov, tvoje továrne nebudú tak efektívne.\nPouži Prioritný nástroj vľavo nahore k distribuci pracovnej sily.",
 	},
 	"turbulencesAffectWindTurbine_title": {
