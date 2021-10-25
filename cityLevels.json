@@ -12,7 +12,7 @@
 		"czech": "Kolonie",
 		"ukrainian": "База",
 		"slovak": "Kolónia",
-		"ducth": "Kolonie",		
+		"dutch": "Kolonie",		
 	},
 	"cityLevel2":  {
 		"english": "Settlement",
@@ -27,7 +27,7 @@
 		"czech": "Osada",
 		"ukrainian": "Поселення",
 		"slovak": "Osada",
-		"ducth": "Nederzetting",		
+		"dutch": "Nederzetting",		
 	},
 	"cityLevel3":  {
 		"english": "Small Town",
@@ -42,7 +42,7 @@
 		"czech": "Městys",
 		"ukrainian": "Маленьке місто",
 		"slovak": "Mestečko",
-		"ducth": "Klein Dorp",		
+		"dutch": "Klein Dorp",		
 	},
 	"cityLevel4":  {
 		"english": "Large Town",
@@ -57,7 +57,7 @@
 		"czech": "Město",
 		"ukrainian": "Велике місто",
 		"slovak": "Mesto",
-		"ducth": "Groot Dorp",		
+		"dutch": "Groot Dorp",		
 	},
 	"cityLevel5":  {
 		"english": "City",
@@ -72,7 +72,7 @@
 		"czech": "Metropole",
 		"ukrainian": "Мегаполіс",
 		"slovak": "Metropola",
-		"ducth": "Stad",		
+		"dutch": "Stad",		
 	},
 	"cityLevel6":  {
 		"english": "Planetary Capital",
@@ -87,6 +87,6 @@
 		"czech": "Hlavní město planety",
 		"ukrainian": "Планетарна столиця",
 		"slovak": "Hlavné mesto planéty",
-		"ducth": "Planetaire Hoofdstad",		
+		"dutch": "Planetaire Hoofdstad",		
 	},
 }
