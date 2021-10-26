@@ -11,6 +11,7 @@
 		  "polish": "Ulepszone łopaty turbin wiatrowych",
 		  "ukrainian": "Поліпшені лопаті вітряних турбін",
 		  "slovak": "Vylepšené Veterné Turbníny",
+		  "portuguese": "Lâminas de turbina eólica aprimoradas",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
 		  "english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
@@ -24,6 +25,7 @@
 		  "polish": "Ulepszone łopaty powodują mniej zawirowań powietrza. Turbiny wiatrowe mogą być umieszczane %amount%% bliżej siebie.",
 		  "ukrainian": "Підлаштовані лопаті створюють менше перешкод у повітрі. Вітрові турбіни можна розмістити на %amount%% ближче одна до одної.",
 		  "slovak": "Prispôsobené vzduchové lopatky vytvárajú menšie rušenie vo vzduchu. Veterné turbíny môžu byť umiestnené o %amount%% bližšie k sebe.",
+		  "portuguese": "As lâminas adaptadas criam menos perturbação no ar. As turbinas eólicas podem ser colocadas %amount%% mais próximas umas das outras.",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
 		  "english": "Self Cleaning Solar Panels",
@@ -37,6 +39,7 @@
 		  "polish": "Samoczyszczące panele słoneczne",
 		  "ukrainian": "Самоочисні сонячні панелі",
 		  "slovak": "Samočistiace solárne panely",
+		  "portuguese": "Painéis solares autolimpantes",
 	  },
 	  "upgradeDesc_selfCleaningSolarPanels":  {
 		  "english": "Self cleaning panels improve power output by %amount%%.",
@@ -50,6 +53,7 @@
 		  "polish": "Samoczyszczące panele zwiększają produkcję energii o %amount%%.",
 		  "ukrainian": "Самоочисні панелі збільшують вихідну енергію на %amount%%",
 		  "slovak": "Samočistiace panely zlepšujú výstupný výkon o %amount%%",
+		  "portuguese": "Painéis autolimpantes aumentam a potência em %amount%%.",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
 		  "english": "Industrial Waste Recycling",
@@ -63,6 +67,7 @@
 		  "polish": "Recykling odpadów przemysłowych",
 		  "ukrainian": "Перероблення промислових відходів",
 		  "slovak": "Recyklácia priemyselného odpadu",
+		  "portuguese": "Reciclagem de resíduos industriais",
 	  },
 	  "upgradeDesc_industrialWasteRecycling":  {
 		  "english": "Some of this building's industrial waste is recycled. Every %amount% rounds, it gets all used resources back.",
@@ -76,6 +81,7 @@
 		  "polish": "Część śmieci przemysłowych z tego budynku jest poddawana recyklingowi. Co %amount% cykli wszystkie surowce są wykorzystywane ponownie.",
 		  "ukrainian": "Частина промислових відходів цієї будівлі перероблюється. Кожні %amount%% раундів повертаються всі використані ресурси.",
 		  "slovak": "Časť priemyselného odpadu tejto budovy sa recykluje. Každé kolo %amount% dostane späť všetky použité zdroje.",
+		  "portuguese": "Alguns dos resíduos industriais deste edifício são reciclados. A cada %amount% ciclos, ele obtém todos os recursos usados de volta.",
 	  },
 	  "upgrade_soilEnrichment":  {
 		  "english": "Soil Enrichment",
@@ -89,6 +95,7 @@
 		  "polish": "Wzbogacanie gleby",
 		  "ukrainian": "Збагачення ґрунту",
 		  "slovak": "Obohacovanie pôdy",
+		  "portuguese": "Enriquecimento do solo",
 	  },
 	  "upgradeDesc_soilEnrichment":  {
 		  "english": "The soil has been carefully prepared to yield %amount%% larger harvests.",
@@ -102,6 +109,7 @@
 		  "polish": "Gleba została starannie przygotowana, by dawać o %amount%% większe zbiory.",
 		  "ukrainian": "Ґрунт був ретельно підготовлений, що дозволяє отримувати на %amount%% більше врожаю.",
 		  "slovak": "Pôda bola starostlivo pripravená na získanie %amount%% väčšieho zberu.",
+		  "portuguese": "O solo foi cuidadosamente preparado para render %amount%% colheitas maiores.",
 	  },
 	  "upgrade_industrialRobots":  {
 		  "english": "Industrial Robot",
@@ -115,6 +123,7 @@
 		  "polish": "Roboty przemysłowe",
 		  "ukrainian": "Промислові роботи",
 		  "slovak": "Priemyselný robot",
+		  "portuguese": "Robôs industriais",
 	  },
 	  "upgradeDesc_industrialRobots":  {
 		  "english": "Automation reduces your workforce requirements by %amount% worker(s).",
@@ -128,6 +137,7 @@
 		  "polish": "Automatyzacja zmniejsza liczbę wymaganych pracowników o %amount% osób.",
 		  "ukrainian": "Автоматизація знижує потребу у вашій робочій силі на %amount%% робітників.",
 		  "slovak": "Automatizácia znižuje požiadavky na pracovnú silu o %amount% pracovníkov.",
+		  "portuguese": "A automação reduz seus requisitos de força de trabalho em %amount% trabalhador(es).",
 	  },
 	  "upgrade_highTechTools":  {
 		  "english": "High Tech Tools",
@@ -141,6 +151,7 @@
 		  "polish": "Zaawansowane technologicznie narzędzia",
 		  "ukrainian": "Високотехнологічні знаряддя",
 		  "slovak": "Špičkové technické nástroje",
+		  "portuguese": "Ferramentas de alta tecnologia",
 	  },
 	  "upgradeDesc_highTechTools":  {
 		  "english": "Better tools lead to increased production by %amount%%.",
@@ -154,8 +165,8 @@
 		  "polish": "Lepsze narzędzia umożliwiają zwiększenie produkcji o %amount%%.",
 		  "ukrainian": "Поліпшення знаряддя збільшує виробництво на %amount%%.",
 		  "slovak": "Lepšie nástroje vedú k zvýšeniu výroby podľa %amount%%",
+		  "portuguese": "Melhores ferramentas levam ao aumento da produção em %amount%%.",
 	  },
-  
 	  "upgradeDurabilityTooltipTitle":  {
 		  "english": "Durability",
 		  "german": "Haltbarkeit",
@@ -168,6 +179,7 @@
 		  "polish": "Wytrzymałość",
 		  "ukrainian": "Міцність",
 		  "slovak": "Trvanlivosť",
+		  "portuguese": "Durabilidade",
 	  },
 	  "upgradeDurabilityTooltipDesc":  {
 		  "english": "A 100% upgrade is brand new, a 0% upgrade is all used up. The upgrade effect is active as long as the percentage is above 0.",
@@ -181,6 +193,7 @@
 		  "polish": "100% ulepszenie oznacza fabrycznie nowe, 0% - całkowicie zużyte. Efekt ulepszenia jest aktywny tak długo, jak procent jest wyższy od 0.",
 		  "ukrainian": "100% поліпшення — повністю нове, 0% поліпшення — зношене. Поліпшення діє доти, доки його відсоток вищий за 0.",
 		  "slovak": "100% upgrade je úplne nový, upgrade 0% sa používa. Efekt aktualizácie je aktívny, pokiaľ je percento nad 0.",
+		  "portuguese": "Uma melhoria em 100% é totalmente nova, uma melhoria em 0% é completamente usada. O efeito da melhoria está ativo enquanto a porcentagem estiver acima de 0.",
 	  },
   }
   

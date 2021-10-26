@@ -46,16 +46,16 @@ Infraspace是一个科幻主题的城市建设模拟 - 统筹交通，让制造�
 Infraspace è un city-builder con ambientazione fantascientifica - ma ogni risorsa prodotta deve passare per la tua infrastruttura di trasporti. Per prosperare dovrai estrarre i materiali e gestire la catena produttiva, ma dovrai anche avere un sistema stradale adeguato.
 
 ### Polish
-
 InfraSpace to kosmiczny city builder, w którym każdy wyprodukowany surowiec musi zostać przetransportowany siecią komunikacyjną. Aby przetrwać w systemie solarnym, musisz nie tylko wydobywać surowce i zarządzać produkcją, ale także zbudować sieć dróg, która podoła zadaniom.
 
 ### Ukrainian
-
 InfraSpace — це науково-фантастичний містобудівний симулятор, але кожен ресурс, який ви виробляєте, має пройти через вашу транспортну інфраструктуру. Щоб процвітати в цій сонячній системі, вам доведеться не тільки розпочати видобуток корисних копалин і керувати виробничими ланцюгами, але й переконатися, що ваша дорожня мережа відповідає завданню.
 
 ### Slovak
 Infraspace je Sci-Fi Stavanie Mesta - ale každý zdroj, ktorý vyrába, musí prejsť svojou dopravnou infraštruktúrou. Aby ste mohli začať v tomto slnečnom systéme, musíte nielen začať ťažobné operácie a spravovať výrobné reťazce, ale tiež sa uistite, že vaša cestná sieť je v poriadku.
 
+### Portuguese
+O InfraSpace é um construtor de cidades - mas cada recurso produzido precisa passar por uma infraestrutura de transporte. Para prosperar neste sistema solar, você não só terá que minerar e gerenciar a produção, mas também se certificar de que a infraestrutura está à altura da tarefa.
 
 
 # Long Description - Translation Disclaimer
@@ -160,16 +160,13 @@ Una vez tengas algo de hierro, carbono, arena y azufre, es tiempo de establecer 
 食物和氧气这样最简单的生产线也需要保持稳定，来让这个新生的殖民地蓬勃发展。
 
 ### Italian
-
 Produci tutto quello che consumi
 
 Ai confini dello spazio, non puoi costruire una città spendendo soldi. Dovrai, invece, far lavorare i tuoi astronauti nelle miniere per ottenere i materiali grezzi.
 
 Una volta che avrai ferro, carbonio, sabbia e zolfo, sarà il momento di costruire la tua prima acciaieria e la tua prima fabbrica di cemento per cominciare ad approntare le infrastrutture. Anche i beni di prima necessità come ossigeno ed il cibo richiedono una solida catena produttiva che non deve essere interrotta!
 
-
 ### Polish
-
 Wyprodukuj wszystko, czego potrzebujesz
 
 Na skraju kosmosu eksplorowanego przez ludzi niewiele można kupić za pieniądze, a już na pewno nie można za nie wybudować miasta. Zamiast tego musisz zaprząc do pracy pierwszych astronautów i rozpocząć wydobycie surowców.
@@ -177,7 +174,6 @@ Na skraju kosmosu eksplorowanego przez ludzi niewiele można kupić za pieniądz
 Gdy wydobędziesz wystarczająco dużo żelaza, węgla, piasku i siarki możesz zbudować pierwszą hutę żelaza oraz fabrykę betonu, aby rozpocząć budowę odpowiedniej infrastruktury. Również surowce pierwszej potrzeby, jak tlen czy żywność, muszą być włączone w łańcuch dostaw, którego nie można przerwać!
 
 ### Ukrainian
-
 Виробляйте все, що споживаєте
 
 На краю людського космосу не можна побудувати місто, просто витративши багато грошей. Натомість вам доведеться залучити своїх перших космонавтів до гірничодобувних робіт та отримати трохи сировини.
@@ -185,14 +181,18 @@ Gdy wydobędziesz wystarczająco dużo żelaza, węgla, piasku i siarki możesz 
 Коли у вас буде трохи заліза, вуглецю, піску та сірки, настав час створити свій перший сталеливарний завод і бетонний завод, щоб почати закладати інфраструктуру. Навіть такі потреби, як їжа та кисень, вимагають стабільного виробничого ланцюга, який не можна порушувати!
 
 ### Slovak
-
 Vyrábať všetko, čo konzumujete
 
 Na okrajoch ľudského priestoru, nemôžete vybudovať mesto výdavkovými kreditmi. Namiesto toho budete musieť dať svojich prvých astronautou do banskej práce a získať suroviny.
 
 Akonáhle budete mať nejaké železo, uhlík, piesok a síru, je čas nastaviť svoj prvý oceľový mlyn a betónová továreň aby začala stanoviť infraštruktúru. Dokonca aj potreby, ako je jedlo a kyslík vyžadujú stabilný výrobný reťazec, ktorý nesmie byť zlomený!
 
+### Portuguese
+Produza tudo o que você consome
 
+Nos limites do espaço humano, você não pode construir uma cidade gastando créditos. Em vez disso, você terá que colocar seus primeiros astronautas no trabalho de mineração e obter algumas matérias-primas.
+
+Depois de ter um pouco de ferro, carbono, areia e enxofre, é hora de montar sua primeira usina siderúrgica e fábrica de concreto para começar a estabelecer alguma infraestrutura. Mesmo as necessidades como comida e oxigênio requerem uma cadeia de produção estável que não deve ser quebrada!
 
 
 # Long Description - Transport Section
@@ -243,7 +243,6 @@ InfraSpace将模拟游戏中的每一辆车。生产出来的资源要被送往�
 建造高速，环岛和多车道公路以保证殖民地的工业之心保持跳动。
 
 ### Italian
-
 Infrastruttura dei Trasporti
 
 Infraspace simula ogni, singolo, veicolo. Ogni risorsa che produci deve essere trasportata ad una fabbrica per essere lavorata ed ogni prodotto deve essere trasportato in una abitazione per essere consumata ed usata.
@@ -251,7 +250,6 @@ Infraspace simula ogni, singolo, veicolo. Ogni risorsa che produci deve essere t
 La tua rete stradale può gestire tanto traffico, ma senza la tua supervisione rallenterà e potrebbe anche bloccarsi. Costruisci autostrade, rotonde, e strade a più corsie per fare in modo che il cuore propduttivo della città continui a battere.
 
 ### Polish
-
 Infrastruktura transportowa
 
 InfraSpace symuluje każdy. pojedynczy. pojazd. Każdy surowiec, którego potrzebujesz, musi zostać przetransportowany do odpowiedniej fabryki, a każdy gotowy produkt przewieziony do mieszkań w celu konsumpcji.
@@ -259,7 +257,6 @@ InfraSpace symuluje każdy. pojedynczy. pojazd. Każdy surowiec, którego potrze
 Twoja sieć drogowa jest w stanie udźwignąć wiele, ale bez nadzoru prędzej czy później ulegnie przeciążeniu i całkowicie się zakorkuje. Buduj autostrady, ronda i drogi wielopasmowe aby mieć pewność, że serce produkcji nie przestanie bić.
 
 ### Ukrainian
-
 Транспортна інфраструктура
 
 InfraSpace імітує кожен автомобіль. Кожен ресурс, який ви коли-небудь виробляєте, потрібно транспортувати на фабрику для переробки, а кожен продукт повинен відправитися в середовище проживання для споживання.
@@ -267,14 +264,18 @@ InfraSpace імітує кожен автомобіль. Кожен ресурс
 Ваша мережа доріг може багато з чим впоратися, але без вашого нагляду вона зупиниться і врешті-решт потоне в русі. Будуйте автомагістралі, кільцеві розв’язки та багатосмугові дороги, щоб виробниче серце міста продовжувало битися.
 
 ### Slovak
-
 Dopravná infraštruktúra
 
 InfraSpace simuluje každé. jedinné. auto. Každý zdroj, ktorý ste niekedy vytvorili, je potrebné prepravovať do továrne na spracovanie a každý výrobok potrebuje ísť do obydlia na spotrebu.
 
 Vaša cestná sieť dokáže veľa zvládnuť, ale bez vášho dohľadu to bude brúsiť na zastavenie a utopiť sa do prevádzky nakoniec. Stavať diaľnice, kruhové objazdy a väčšie cesty, aby sa zabezpečilo, že výrobné srdce mesta stále bije.
 
+### Portuguese
+Infraestrutura de transporte
 
+O InfraSpace simula carro individualmente. Cada recurso que você produz precisa ser transportado para uma fábrica para processamento e cada produto precisa ir para uma moradia para o consumo.
+
+Sua rede rodoviária pode lidar com muita coisa, mas sem sua supervisão ela irá parar e eventualmente se afogar no tráfego. Construa rodovias, rotatórias e estradas com várias faixas para garantir que o centro de produção da cidade continue funcionando.
 
 
 # Long Description - Population Section
@@ -313,7 +314,6 @@ A medida que tu asentamiento crezca, deberás cubrir la creciente carga de traba
 
 Вашими первыми колонистами будут космонавты, лучшие и храбрейшие из всех, кого может предложить человечество. Снабдите их пищей и жильем, и они будут поддерживать ваш аванпост в рабочем состоянии, несмотря ни на что.
 
-
 По мере роста поселения вам необходимо покрывать возрастающую рабочую нагрузку, нанимая ученых и инженеров, которые требуют некоторых удобств. Любой город достаточного размера рано или поздно станет домом для все большего и большего числа семей, поэтому убедитесь, что ваши школы справятся с этим, и что вы сможете поставлять новейшие продукты для VR-обучения.
 
 ### Chinese
@@ -325,8 +325,6 @@ A medida que tu asentamiento crezca, deberás cubrir la creciente carga de traba
 
 当殖民地成为城市，它也会成为许多人的家，而非普通的岗位。建造学校，生产最新的VR教育器材以确保市民的需求得到满足。
 
-
-
 ### Italian
 Crescita della Popolazione
 
@@ -335,7 +333,6 @@ I tuoi primi coloni saranno astronauti, i migliori ed i più coraggiosi che l'um
 Con la crescita del tuo insediamento, dovrai gestire il crescente carico di lavoro assumendo scienziati ed ingegneri, che richiedono maggiori comodità. Ogni città di sufficienti dimensioni ospiterà sempre più famiglie, quindi accertati che le tue scuole siano all'altezza e sarai anche in grado di fornire i più avanzati strumenti di Realtà-Virtuale con l'educazione e l'intrattenimento.
 
 ### Polish
-
 Wzrost populacji
 
 Twoi pierwsi astronauci to najodważniejsi i najlepsi ludzie swojego pokolenia. Zapewnij im żywność i schronienie, a w zamian będą utrzymywać pracę Twojej kolonii za wszelką cenę.
@@ -343,7 +340,6 @@ Twoi pierwsi astronauci to najodważniejsi i najlepsi ludzie swojego pokolenia. 
 Rozrost osady oznacza natłok spraw, które trzeba rozwiązać zatrudniając naukowców i inżynierów. Ci jednak potrzebują odrobinę więcej komfortu. Każde odpowiednio duże miasto w końcu staje się miejscem schronienia dla kolejnych rodzin, dlatego musisz zapewnić odpowiednią liczbę miejsc w szkołach oraz dostarczać najnowocześniejsze systemy edukacyjno-rozrywkowe wirtualnej rzeczywistości.
 
 ### Ukrainian
-
 Приріст населення
 
 Ваші перші колоністи будуть космонавтами, найкращими та найсміливішими з людства. Дайте їм їжу та притулок, і вони забезпечать роботу вашої бази незважаючи ні на що.
@@ -351,14 +347,18 @@ Rozrost osady oznacza natłok spraw, które trzeba rozwiązać zatrudniając nau
 Оскільки ваше поселення росте, вам потрібно покривати зростаюче робоче навантаження, залучаючи вчених та інженерів, які потребують деяких зручностей. Будь-яке місто достатнього розміру рано чи пізно стане домом для все більшої кількості сімей, тому переконайтесь, що ваші школи впораються з цим, і ви також зможете поставляти найновіші продукти для VR-навчання.
 
 ### Slovak
-
 Rast populácie
 
 Vaši prví kolonisti budú astronauti, to najlepšie a najodvážnejšie ľudstvo ponúka. Dajte im jedlo a prístrešie a oni uchovávajú vašu základňu bez ohľadu na to, čo sa stane.
 
 Keďže vaše mesto rastie, musíte pokryť rastúce pracovné zaťaženie zamestnávaním vedcov a inžinierov, ktoré vyžadujú niekoľko ďalšieho stvorenia pohodlia. Akékoľvek mesto dostatočnej veľkosti bude skôr alebo neskôr dom pre viac a viac rodín, takže sa uistite, že vaše školy dokážu zvládnuť a vy ste schopní dodať najnovšie produkty VR-zábavy.
 
+### Portuguese
+Crescimento populacional
 
+Seus primeiros colonos serão astronautas, os melhores e mais corajosos que a humanidade tem a oferecer. Dê a eles comida e moradia e eles manterão seu posto avançado funcionando de qualquer maneira.
+
+À medida que sua colônia cresce, você precisa gerenciar a crescente demanda de trabalho empregando cientistas e engenheiros, que exigem mais alguns recursos. Qualquer cidade de tamanho razoavél, mais cedo ou mais tarde, será o lar de mais e mais famílias também, então certifique-se de que suas escolas possam lidar com isso e de que você seja capaz de fornecer os produtos mais recentes de educação e entretenimento em RV.
 
 
 # Long Description - End Goal Section
@@ -407,7 +407,6 @@ A medida que la conquista del espacio por la humanidad continua, es tu trabajo c
 
 Вы можете игнорировать конечную цель и просто свободно строить в бесконечном режиме, если это ваш стиль игры!
 
-
 ### Chinese
 终极目标
 
@@ -427,7 +426,6 @@ Mentre la conquista dello spazio da parte dell'umanità continua, il tuo compito
 Puoi scegliere di ignorare l'obiettivo finale e semplicemente costruire la tua città in libertà nella modalità infinita, se questo è il tuo stile di gioco!
 
 ### Polish
-
 Cel ostateczny
 
 Ludzkość odkryła technologię tworzenia sztucznych tuneli czasoprzestrzennych pozwalających na pokonywanie kosmicznych odległości. Niestety, tunele te wymagają portali ogromnych rozmiarów, z których budową niewielki zespół astronautów sam sobie nie poradzi.
@@ -437,7 +435,6 @@ Gdy ludzkość kontynuuje podbój kosmosu, Twoim zadaniem jest zbudowanie osady 
 Choć, jeśli wolisz, możesz zupełnie pominąć ten cel i grać w trybie nieskończonym.
 
 ### Ukrainian
-
 Кінцева ціль
 
 Людство відкрило технологію створення штучних червоточин, щоб стрибати на величезні відстані у космосі. На жаль, для цих червоточин потрібні портали величезних розмірів — жодна невелика команда астронавтів не може побудувати їх самостійно.
@@ -447,7 +444,6 @@ Choć, jeśli wolisz, możesz zupełnie pominąć ten cel i grać w trybie niesk
 Ви можете ігнорувати кінцеву мету і просто будувати вільно в нескінченному режимі, якщо це  ваш стиль гри!
 
 ### Slovak
-
 Konečný cieľ
 
 Ľudstvo objavilo technológiu, aby umelých červov, aby sa skočili obrovské vzdialenosti cez priestor. Bohužiaľ, tieto červy vyžadujú portály enormnej veľkosti - žiaden malý tím astronautov môže stavať jeden samostatne.
@@ -456,7 +452,14 @@ Ako dobytie priestoru pre ľudstvo pokračuje, je tvoja práca vybudovať zákla
 
 Môžete sa rozhodnúť ignorovať koncový cieľ a len ak vám stačí stavať voľne v nekonečnom režime, ak je to viac váš štýl mestskej budovy!
 
+### Portuguese
+O objetivo final
 
+A humanidade descobriu a tecnologia para fazer buracos de minhoca artificiais a fim de pular grandes distâncias no espaço. Infelizmente, esses buracos de minhoca requerem portais de tamanho gigantesco - nenhuma equipe pequena de astronautas pode construir um por conta própria.
+
+À medida que a conquista do espaço pela humanidade continua, o seu trabalho é construir um posto avançado em um mundo distante, capaz de lidar com a enorme quantidade de recursos e trabalho necessários para construir um desses portais.
+
+Você pode escolher ignorar o objetivo final e apenas construir livremente no modo infinito se esse for mais o seu estilo de construção de cidade!
 
 
 # Long Description - Difficulty Section
@@ -498,19 +501,22 @@ Non devi rendere le cose difficili
 La gestione del traffico può essere mutevole e la sopravvivenza può essere dura. Puoi regolare le difficoltà di entrambe per rendere la gestione della tua città più facile o più difficile in base a come vuoi che sia.
 
 ### Polish
-
 Nie musisz się trudzić
 
 Ruch drogowy potrafi być kapryśny a przetrwanie na obcej planecie - ciężkie. Możesz dopasować poziom trudności obu tych parametrów, aby zarządzanie miastem było tak proste, lub tak trudne, jak tylko chcesz.
 
 ### Ukrainian
-
 Вам не потрібно напружуватись
 
 Управління дорожнім рухом може бути непостійним, а виживання може бути важким. Ви можете налаштувати складність обох, щоб зробити ваш досвід управління містом таким легким або настільки складним, наскільки ви хочете.
 
 ### Slovak
-
 Nemusíte hrať ťažko
 
 Riadenie dopravy môže byť neustále a prežitie môže byť ťažké. Môžete upraviť ťažkosti oboch, aby sa vaše zážitky z riadenia mesta tak jednoduché - alebo tak ťažké - ako chcete.
+
+### Portuguese
+Você não tem que jogar duro
+
+O gerenciamento do tráfego pode ser inconstante e a sobrevivência pode ser difícil. Você pode ajustar as dificuldades de ambos para tornar a experiência de gerenciamento da sua cidade tão fácil - ou tão difícil - quanto você quiser.
+

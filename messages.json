@@ -1,23 +1,24 @@
 {
-  "message_cityLevelUpTitle":  {
+	"message_cityLevelUpTitle": {
 		"english": "City leveled up!",
 		"german": "Stadt aufgestiegen!",
 		"french": "La ville s'est améliorée !",
-		"dutch": "Stad is gepromoveerd",	  
+		"dutch": "Stad is gepromoveerd",
 		"russian": "Город перешел на новый уровень!",
-	  	"spanish": "¡La ciudad ha subido de nivel!",
+		"spanish": "¡La ciudad ha subido de nivel!",
 		"chinese": "城市等级提升！",
 		"italian": "La Città è Aumentata di Livello!",
-	  	"polish": "Miasto osiągnęło nowy poziom!",
-	  	"czech": "Úroveň města se zvýšila!",
-        	"ukrainian": "Місто перейшло на новий рівень",
+		"polish": "Miasto osiągnęło nowy poziom!",
+		"czech": "Úroveň města se zvýšila!",
+		"ukrainian": "Місто перейшло на новий рівень",
 		"slovak": "Úroveň mesta sa zvýšila",
+		"portuguese": "Cidade subiu de nível!",
 	},
-	"message_cityLevelUpText":  {
+	"message_cityLevelUpText": {
 		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
 		"german": "Glückwunsch! Deine Stadt hat gerade Level %cityLevel% erreicht. Du kannst jetzt neue Technologien erforschen.",
 		"french": "Félicitations, votre ville vient d'atteindre le niveau %cityLevel%. Vous avez débloqué de nouvelles technologies à rechercher.",
-		"dutch": "Gefeliciteerd, jouw stad heeft level %cityLevel% bereikt. U heeft nieuwe technologien om te onderzoeken ontgrendeld.",		
+		"dutch": "Gefeliciteerd, jouw stad heeft level %cityLevel% bereikt. U heeft nieuwe technologien om te onderzoeken ontgrendeld.",
 		"russian": "Поздравляем, ваш город только что достиг уровня %cityLevel%. Вы открыли новые технологии для исследования.",
 		"spanish": "Felicidades, tu ciudad ha alcanzado el nivel %cityLevel%. Has desbloqueado nuevas tecnologías para investigar.",
 		"chinese": "恭喜，你的城市刚刚达到%cityLevel%级。解锁了用于研究的新技术。",
@@ -26,12 +27,13 @@
 		"czech": "Gratulujemem tvé město dosáhlo úrovně %cityLevel%. Odemkli se ti nové budovy a technologie pro výzkum.",
 		"ukrainian": "Вітаємо, ваше місто тільки що досягло %cityLevel% рівня. Ви відкрили нові технології та дослідження.",
 		"slovak": "Gralujeme tvoje mesto dosiahlo úrovne %cotyLevel%. Odomkli sa vám nové budovy a technológie pre výzkum.",
+		"portuguese": "Parabéns, sua cidade acabou de atingir o nível %cityLevel%. Você desbloqueou novas tecnologias para pesquisar.",
 	},
-	"message_cityLevelDownTitle":  {
+	"message_cityLevelDownTitle": {
 		"english": "City demoted!",
 		"german": "Stadt zurückgestuft!",
 		"french": "La ville a été rétrogradée !",
-		"dutch": "Stad gedegradeerd",		
+		"dutch": "Stad gedegradeerd",
 		"russian": "Уровень города понижен!",
 		"spanish": "¡La ciudad ha sido degradada!",
 		"chinese": "城市降级！",
@@ -40,12 +42,13 @@
 		"czech": "Město degradovalo!",
 		"ukrainian": "Рівень міста знижений!",
 		"slovak": "Mesto sa degradovalo!",
+		"portuguese": "Cidade rebaixada!",
 	},
-	"message_cityLevelDownText":  {
+	"message_cityLevelDownText": {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
 		"german": "Du hast es nicht geschafft, dich um deine Bürger zu kümmern. Deine Stadt wurde zurückgestuft bist du ihre Bedürfnisse wieder erfüllen kannst.",
 		"french": "Vous n'avez pas réussi à subvenir aux besoins de vos citoyens. Votre ville a été rétrogradée jusqu'à ce que vous puissiez reprendre les choses en main.",
-		"dutch": "Het is u niet gelukt voor uw inwoners te zorgen. Uw stad is gedegradeerd tot u de situatie kunt omkeren.",		
+		"dutch": "Het is u niet gelukt voor uw inwoners te zorgen. Uw stad is gedegradeerd tot u de situatie kunt omkeren.",
 		"russian": "Вы не смогли обеспечить своих граждан. Ваш уровень вашего города понижен, пока вы не сможете изменить ситуацию.",
 		"spanish": "Has fallado en proveer para tus ciudadanos. Tu ciudad ha sido degradada hasta que puedas cambiar la situación",
 		"chinese": "你没有为你的居民提供食物。你的城市已被降级，直到改变现状。",
@@ -54,12 +57,13 @@
 		"czech": "Selhal jsi v zásobování tvých obyvatel. Tvé město bude degradované dokud se situace nezlepší.",
 		"ukrainian": "Ви не змогли забезпечити своїх громадян усім необхідним. Рівень вашого міста знижених доти, доки ви не виправите ситуацію",
 		"slovak": "Zlyhal si v zásobovaní tvojich obyvatelov. Tvoje mesto bude degradované pokiaľ sa situácia nezlepší.",
+		"portuguese": "Você falhou em prover para seus cidadãos. Sua cidade foi rebaixada até que você possa reverter a situação.",
 	},
-	"attention":  {
+	"attention": {
 		"english": "Attention!",
 		"german": "Achtung!",
 		"french": "Attention !",
-		"dutch": "Attentie!",		
+		"dutch": "Attentie!",
 		"russian": "Внимание!",
 		"spanish": "¡Atención!",
 		"chinese": "请注意！",
@@ -68,12 +72,13 @@
 		"czech": "Pozor!",
 		"ukrainian": "Увага!",
 		"slovak": "Pozor!",
+		"portuguese": "Atenção!",
 	},
-	"message_debugModeText":  {
+	"message_debugModeText": {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
 		"german": "Der Debugmodus ist für den Einsatz in der Entwicklung gedacht. Wenn du den Debugmodus verwendest, könnten Bugs auftreten.",
 		"french": "Le mode débogage est destiné à être utilisé dans le cadre du développement. Si vous activez le mode débogage, vous risquez d'avoir des bugs.",
-		"dutch": "Debug modus is bedoeld om tijdens de ontwikkeling gebruikt te worden. Als je het inschakelt kunnen er bigs ontstaan.",		
+		"dutch": "Debug modus is bedoeld om tijdens de ontwikkeling gebruikt te worden. Als je het inschakelt kunnen er bigs ontstaan.",
 		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, вы можете получить баги.",
 		"spanish": "El modo debug está destinado a ser utilizado en el desarrollo. Si habilitas el modo debug, puedes experimentar bugs.",
 		"chinese": "调试模式旨在用于开发。如果你启用调试模式，可能会遇到错误。",
@@ -82,5 +87,6 @@
 		"czech": "Developerský mód se používá pro vývoj. Jeho zapnutím můžeš narazit na bugy.",
 		"ukrainian": "Режим відлагодження використовується для розроблення гри. Якщо його ввімкнути, то можуть трапитися помилки.",
 		"slovak": "Developerský režim sa používa pre vývoj. Jeho zapnutím môžeš naraziť na chyby.",
+		"portuguese": "O modo de depuração deve ser usado no desenvolvimento. Se você habilitar o modo de depuração, poderá obter erros.",
 	},
 }
