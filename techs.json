@@ -40,7 +40,7 @@
     "polish": "Produkcja stali",
     "czech": "Produkce oceli",
     "ukrainian": "Виробництво сталі",
-    "slovak": "Produkcia ocele",
+    "slovak": "Výroba ocele",
   },
 
 	
@@ -284,7 +284,7 @@
     "polish": "Przetwarzanie żywności",
     "czech": "Zpracování jídla",
     "ukrainian": "Харчова промисловість",
-    "slovak": "Zpracovávanie jedla",
+    "slovak": "Spracovávanie jedla",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -312,7 +312,7 @@
     "polish": "Zapewnienie dostaw nawozu do farm znacząco zwiększa ilość produkowanej żywności.",
     "czech": "Distribuje hnojivo do blízkých farem a výrazně zvyšuje jejich produkci.",
     "ukrainian": "Постачайте ґрунт із добривом на найближчі ферми та значно збільшуйте їхнє виробництво.",
-    "slovak": "Distribuje hnojivo do blízkych fariem a význe zvyšuje ich produkciu",
+    "slovak": "Distribuje hnojivo do blízkych fariem a výrazne zvyšuje ich produkciu",
  },
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -368,7 +368,7 @@
     "polish": "Sześciopasmowe drogi",
     "czech": "Šestiproudová silnice",
     "ukrainian": "Шестисмугові дороги",
-    "slovak": "Šesťprúdová diaľnica",
+    "slovak": "Šesťprúhová diaľnica",
   },
 	
   "tech_stadiums": {
@@ -439,7 +439,7 @@
     "polish": "Autostrady",
     "czech": "Dálnice",
     "ukrainian": "Шосе",
-    "slovak": "Dialnica",
+    "slovak": "Diaľnica",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -482,7 +482,7 @@
     "polish": "Roboty przemysłowe",
     "czech": "Průmysloví roboti",
     "ukrainian": "Промислові роботи",
-    "slovak": "Priemyselné roboty",
+    "slovak": "Priemyselný roboti",
   },
  "techDesc_industrialRobots": {
     "english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -624,7 +624,7 @@
     "polish": "Zaopatrzenie fabryk w zaawansowane technologicznie narzędzia pozwala na zwiększenie produktywności.",
     "czech": "Továrnám zásobovaným High Tech nástroji se zvyšuje produkce.",
     "ukrainian": "Забезпечте свої підприємства високотехнологічними знаряддями, щоби підвищити продуктивність.",
-    "slovak": "Zásobujte svoje továrne špičkovými technologickými nástrojmi s cieľom zvýšiť produktivitu.",
+    "slovak": "Zásobujte svoje továrne špičkovými technologickými nástrojmi s cieľom zvýšiť jej produktivitu.",
     "dutch": "Voorzie uw fabrieken van high tech gereedschap om hun productiviteit te verhogen.",	 
  },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
