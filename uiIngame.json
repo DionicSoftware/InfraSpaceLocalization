@@ -53,7 +53,7 @@
 		"japanese": "発電力:",
 		"polish": "Produkowana energia",
 		"ukrainian": "Вироблена енергія",
-		"slovak": "Elektrina produkcia:",
+		"slovak": "Produkcia Elektriny:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
