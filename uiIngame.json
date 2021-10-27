@@ -1145,6 +1145,7 @@
 		"ukrainian": "Ефективність будівництва",
 		"slovak": "Stavebná efektivita",
 		"portuguese": "Eficiência do edifício",
+		"czech": "Stavební efektivita",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -1160,6 +1161,7 @@
 		"ukrainian": "Заселеність будівлі (робітники та жителі)",
 		"slovak": "Obsadenosť budovy (pracovníci a obyvatelia)",
 		"portuguese": "Ocupação do edifício (trabalhadores e habitantes)",
+		"czech": "Obsazenost budovy (pracovníci a obyvatelé)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1175,6 +1177,7 @@
 		"ukrainian": "Енергія",
 		"slovak": "Energia",
 		"portuguese": "Energia",
+		"czech": "Energie",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1190,6 +1193,7 @@
 		"ukrainian": "Вітряні турбіни",
 		"slovak": "Veterné turbíny",
 		"portuguese": "Turbinas éolicas",
+		"czech": "Větrné turbíny",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -1205,6 +1209,7 @@
 		"ukrainian": "Системи збагачення ґрунту",
 		"slovak": "Zariadenia na obohacovanie pôdy",
 		"portuguese": "Instalações de enriquecimento de solo",
+		"czech": "Zařízení na obohacování půdy",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1220,6 +1225,7 @@
 		"ukrainian": "Центр перероблення",
 		"slovak": "Recyklačné centrná",
 		"portuguese": "Centros de reciclagem",
+		"czech": "Recyklační centrum",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -1235,6 +1241,7 @@
 		"ukrainian": "Будівництво за допомогою високотехнологічних знарядь",
 		"slovak": "Budovanie so Špičkovými nástrojmi",
 		"portuguese": "Edifícios com ferramentas de alta tecnologia",
+		"czech": "Budování se špičkovými nástroji",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -1250,6 +1257,7 @@
 		"ukrainian": "Будівництво з промисловими роботами",
 		"slovak": "Budovanie s Priemyslovými robotmi",
 		"portuguese": "Edifícios com robôs industriais",
+		"czech": "Budování s průmyslovými roboty",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -1265,6 +1273,7 @@
 		"ukrainian": "Авто",
 		"slovak": "Autá",
 		"portuguese": "Carros",
+		"czech": "Auta",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -1280,6 +1289,7 @@
 		"ukrainian": "Дороги",
 		"slovak": "Cesty",
 		"portuguese": "Estradas",
+		"czech": "Cesty",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -1295,6 +1305,7 @@
 		"ukrainian": "Необхідні ресурси",
 		"slovak": "Potrebné suroviny:",
 		"portuguese": "Recursos necessários;",
+		"czech": "Potřebné suroviny:",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -1310,6 +1321,7 @@
 		"ukrainian": "%amount% %resourceName% видобувається щохвилини",
 		"slovak": "Ťažba %amount% %resourceName% za minútu",
 		"portuguese": "Extraindo %amount% %resourceName% por minuto",
+		"czech": "Těžba %amount% %resourceName% za minutu",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1325,6 +1337,7 @@
 		"ukrainian": "Усього видобуто: %amount%",
 		"slovak": "Celkové množstvo doteraz naťažené: %amount%",
 		"portuguese": "Quantidade total extraída até o momento: %amount%",
+		"czech": "Celkové dosud natěžené množství: %amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1340,6 +1353,7 @@
 		"ukrainian": "Райони",
 		"slovak": "Oblasť",
 		"portuguese": "Distritos",
+		"czech": "Oblast",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -1355,6 +1369,7 @@
 		"ukrainian": "Нажміть ЛКМ, щоб намалювати\nПКМ, щоб стерти",
 		"slovak": "Ľavým tlačidlom kreslíte\nPravým tlačidlom zmazávate",
 		"portuguese": "Clique com o botão esquerdo para pintar\nClique com o botão direito para apagar",
+		"czech": "Levým tlačítkem kreslíte\nPravým tlačítkem mažete",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -1370,6 +1385,7 @@
 		"ukrainian": "Перетягуйте вказівник миші між районами, щоб створити правило експорту.\n\nРайони без правил експорту можут експортувати товари куди завгодно.",
 		"slovak": "Potiahnutím kurzora myši medzi oblasťami vytvoríte pravidlo exportu.\n\nOblasti bez pravidiel exportu môžu vyvážať tovar kamkoľvek.",
 		"portuguese": "Arraste o cursor do mouse entre os distritos para criar uma regra de exportação.\n\nDistritos sem regras de exportação podem exportar mercadorias para qualquer lugar.",
+		"czech": "Potažením kurzorem myši mezi oblastmi vytvoříte pravidlo exportu.\n\nOblasti bez pravidel exportu mohou vyvážet suroviny kamkoliv.",
 	},
 	"populationInfo": {
 		"english": "Population Info",
@@ -1383,8 +1399,9 @@
 		"japanese": "宇宙港情報",
 		"polish": "Informacje o populacji",
 		"ukrainian": "Інформація про населення",
-		"slovak": "Informácie o pupulácii",
+		"slovak": "Informácie o populácii",
 		"portuguese": "Informação da população",
+		"czech": "Informace o populaci",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -1400,6 +1417,7 @@
 		"ukrainian": "Кількість іммігрантів, готових до заселення:",
 		"slovak": "Imigranti pripravený sa prisťahovať:",
 		"portuguese": "Imigrantes prontos para se mudarem:",
+		"czech": "Imigranti připraveni se přistěhovat:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -1415,6 +1433,7 @@
 		"ukrainian": "Рівень імміграції",
 		"slovak": "Miera prisťahovalectva:",
 		"portuguese": "Taxa de imigração:",
+		"czech": "Míra přistěhovalectví:",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -1430,6 +1449,7 @@
 		"ukrainian": "Покращуйте середовище проживання, щоби зробити місто привабливим для нових жителів.",
 		"slovak": "Vylepši si obydlia aby tvoje mesto príjimalo prisťahovalcov.",
 		"portuguese": "Atualize suas moradias para tornar sua cidade atraente para os recém-chegados.",
+		"czech": "Vylepši obydlí, aby tvé město mohlo příjímat přistěhovalce.",
 	},
 	"low": {
 		"english": "Low",
@@ -1445,6 +1465,7 @@
 		"ukrainian": "Низький",
 		"slovak": "Malá",
 		"portuguese": "Baixo",
+		"czech": "Malá",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -1460,6 +1481,7 @@
 		"ukrainian": "Помірний",
 		"slovak": "Mierna",
 		"portuguese": "Moderado",
+		"czech": "Mírná",
 	},
 	"high": {
 		"english": "High",
@@ -1475,6 +1497,7 @@
 		"ukrainian": "Високий",
 		"slovak": "Vysoká",
 		"portuguese": "Alto",
+		"czech": "Vysoká",
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -1490,6 +1513,7 @@
 		"ukrainian": "Рівень середовища проживання збільшений",
 		"slovak": "Obydlie vylepšené",
 		"portuguese": "Moradia atualizada",
+		"czech": "Obydlí bylo vylepšeno",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -1505,6 +1529,7 @@
 		"ukrainian": "Рівень середовища проживання знижений",
 		"slovak": "Obydlie degradované",
 		"portuguese": "Moradia rebaixada",
+		"czech": "Obydlí bylo degradováno",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -1520,6 +1545,7 @@
 		"ukrainian": "МВт",
 		"slovak": "MW",
 		"portuguese": "MW",
+		"czech": "MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -1535,6 +1561,7 @@
 		"ukrainian": "Ефективність %percentage%%",
 		"slovak": "%percentage%% Efektivita",
 		"portuguese": "%percentage%% Eficiência",
+		"czech": "%percentage%% efektivity",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -1549,6 +1576,7 @@
 		"ukrainian": "Огляд виробництва",
 		"slovak": "Prehľad výroby",
 		"portuguese": "Visão geral da produção",
+		"czech": "Přehled výroby",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -1563,6 +1591,7 @@
 		"ukrainian": "Ресурс",
 		"slovak": "Zásoby",
 		"portuguese": "Recurso",
+		"czech": "Zásoby",
 	},
 	"priority": {
 		"english": "Priority",
@@ -1577,6 +1606,7 @@
 		"ukrainian": "Пріоритет",
 		"slovak": "Priorita",
 		"portuguese": "Prioridade",
+		"czech": "Priorita",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -1591,5 +1621,6 @@
 		"ukrainian": "Рівень міста",
 		"slovak": "Úroveň Mesta",
 		"portuguese": "Nível da cidade",
+		"czech": "Úroveň města",
 	},
 }
