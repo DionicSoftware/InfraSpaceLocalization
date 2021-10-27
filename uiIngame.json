@@ -317,6 +317,7 @@
 		"ukrainian": "Ця технологія нічого не розблокує.",
 		"slovak": "Táto technológia vám odomkne nič.",
 		"portuguese": "Esta tecnologia não desbloqueia nada.",
+		"czech": "Tato technologie vám nic neodemkne.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -332,6 +333,7 @@
 		"ukrainian": "Дослідження завершено!",
 		"slovak": "Vyskúm dokončený",
 		"portuguese": "Pesquisa concluída!",
+		"czech": "Výzkum dokončen",
 	},
 	"production": {
 		"english": "Production",
@@ -347,6 +349,7 @@
 		"ukrainian": "Виробництво",
 		"slovak": "Produkcia",
 		"portuguese": "Produção",
+		"czech": "Produkce",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -362,6 +365,7 @@
 		"ukrainian": "Споживання",
 		"slovak": "Spotreba",
 		"portuguese": "Consumo",
+		"czech": "Spotřeba",
 	},
 	"workers": {
 		"english": "Workers",
@@ -377,6 +381,7 @@
 		"ukrainian": "Робітники",
 		"slovak": "Pracovníci",
 		"portuguese": "Trabalhadores",
+		"czech": "Pracovníci",
 	},
 	"storage": {
 		"english": "Storage",
@@ -392,6 +397,7 @@
 		"ukrainian": "Сховище",
 		"slovak": "Sklad",
 		"portuguese": "Armazenamento",
+		"czech": "Sklad",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -407,6 +413,7 @@
 		"ukrainian": "Поліпшення",
 		"slovak": "Vylepšenia",
 		"portuguese": "Atualizações",
+		"czech": "Vylepšení",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -422,6 +429,7 @@
 		"ukrainian": "Зробити пріоритетним",
 		"slovak": "Priorita",
 		"portuguese": "Prioridades",
+		"czech": "Priorita",
 	},
 	"price": {
 		"english": "Price",
@@ -441,6 +449,7 @@
 		"japanese": "価格",
 		"slovak": "Cena",
 		"portuguese": "Custo",
+		"czech": "Cena",
 	},
 	// habitat info panel
 	"habitatUpgradingIn": {
@@ -457,6 +466,7 @@
 		"ukrainian": "Поліпшення  середовища проживання за %seconds% с.",
 		"slovak": "Obydlenie sa vylepší za %seconds%s.",
 		"portuguese": "Moradia atualizando em %seconds%s",
+		"czech": "Obydlí se vylepší za %seconds%s.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -472,6 +482,7 @@
 		"ukrainian": "Погіршення середовища проживання за %seconds% с.",
 		"slovak": "Obydlenie sa zhorší za %seconds%s.",
 		"portuguese": "Moradia rebaixando em %seconds%s",
+		"czech": "Obydlí se zhorší za %seconds%s.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -487,6 +498,7 @@
 		"ukrainian": "Середовище проживання заповнене. Виконайте додаткові вимоги для поліпшення.",
 		"slovak": "Obydlenie je plné. Splňte ďalšie potreby pre vylepšenie.",
 		"portuguese": "A moradia está cheia. Atenda às necessidades adicionais para atualizar.",
+		"czech": "Obydlí je plné. Splňte další potřeby pro vylepšení.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -502,6 +514,7 @@
 		"ukrainian": "Жителі приїжджають.",
 		"slovak": "Ľudia sa sťahujú",
 		"portuguese": "As pessoas estão chegando.",
+		"czech": "Lidé se přistěhovávají.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -517,6 +530,7 @@
 		"ukrainian": "Жителі виїжджають.",
 		"slovak": "Ľudia sa odchádzajú",
 		"portuguese": "As pessoas estão saindo.",
+		"czech": "Lidé se odstěhovávají.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -532,6 +546,7 @@
 		"ukrainian": "Потреби не задоволені.",
 		"slovak": "Potreby nie sú splnené.",
 		"portuguese": "As necessidades não foram atendidas.",
+		"czech": "Potřeby nejsou splněny.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -547,6 +562,7 @@
 		"ukrainian": "З жителями все добре.",
 		"slovak": "Obyvatelia sú v poriadku",
 		"portuguese": "Os habitantes estão bem.",
+		"czech": "Obyvatelé jsou v pořádku.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -562,6 +578,7 @@
 		"ukrainian": "Дослідження не обрано",
 		"slovak": "Žiadny výskum vybraný",
 		"portuguese": "nenhuma pesquisa selecionada",
+		"czech": "Není vybrán žádný výzkum.",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -577,6 +594,7 @@
 		"ukrainian": "Ресурсів у сховищі:",
 		"slovak": "Suroviny v sklade:",
 		"portuguese": "Recursos no armazém",
+		"czech": "Suroviny ve skladu:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -592,6 +610,7 @@
 		"ukrainian": "Громадяни %level%-го рівня",
 		"slovak": "Úroveň %level% Obyvateľov",
 		"portuguese": "Cidadãos nível %level%",
+		"czech": "Úroveň %level% obyvatel",
 	},
 	"population": {
 		"english": "Population",
@@ -607,6 +626,7 @@
 		"ukrainian": "Населення",
 		"slovak": "Populácia",
 		"portuguese": "População",
+		"czech": "Populace",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -622,6 +642,7 @@
 		"ukrainian": "Роботи",
 		"slovak": "Práce",
 		"portuguese": "Empregos",
+		"czech": "Práce",
 	},
 	"housing": {
 		"english": "Housing",
@@ -637,6 +658,7 @@
 		"ukrainian": "Житло",
 		"slovak": "Bývanie",
 		"portuguese": "Moradia",
+		"czech": "Obydlí",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -651,6 +673,7 @@
 		"ukrainian": "Міська статистика",
 		"slovak": "Štatistiky Mesta",
 		"portuguese": "Estatísticas da cidade",
+		"czech": "Statistiky města",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -666,6 +689,7 @@
 		"ukrainian": "Населення",
 		"slovak": "Populácia",
 		"portuguese": "População",
+		"czech": "Populace",
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -681,6 +705,7 @@
 		"ukrainian": "Роботи",
 		"slovak": "Práce",
 		"portuguese": "Empregos",
+		"czech": "Práce",
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -696,6 +721,7 @@
 		"ukrainian": "Житло",
 		"slovak": "Bývanie",
 		"portuguese": "Moradia",
+		"czech": "Obydlí",
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -711,6 +737,7 @@
 		"ukrainian": "Швидкість імміграції",
 		"slovak": "Miera prisťahovalectva",
 		"portuguese": "Taxa de imigração",
+		"czech": "Míra přistěhovalectví",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -726,6 +753,7 @@
 		"ukrainian": "Ефективність",
 		"slovak": "Efektivita",
 		"portuguese": "Eficiência",
+		"czech": "Efektivita",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
