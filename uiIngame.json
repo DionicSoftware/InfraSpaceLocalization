@@ -769,6 +769,7 @@
 		"ukrainian": "Недостатньо робітників:",
 		"slovak": "Nedostatok pracovníkov",
 		"portuguese": "Sem trabalhadores suficientes:",
+		"czech": "Nedostatek pracovníků",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -784,6 +785,7 @@
 		"ukrainian": "Посилюється сусідніми будівлями",
 		"slovak": "Zvýšena efektivita susednou budovou",
 		"portuguese": "Impulsionado por edifícios vizinhos",
+		"czech": "Efektivita zvýšena sousední budovou.",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -799,6 +801,7 @@
 		"ukrainian": "Недостатньо енергії",
 		"slovak": "Nedostatok energie:",
 		"portuguese": "Sem energia suficiente:",
+		"czech": "Nedostatek energie:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -814,6 +817,7 @@
 		"ukrainian": "Порушений повітряний потік",
 		"slovak": "Narušené prúdenie vzduchu",
 		"portuguese": "Fluxo de ar perturbado",
+		"czech": "Narušené proudění vzduchu",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -829,6 +833,7 @@
 		"ukrainian": "Побудувати вигнуту дорогу ",
 		"slovak": "Postaviť zakrivenú cestu",
 		"portuguese": "Construir estrada curva",
+		"czech": "Postavit zakřivenou cestu",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -844,6 +849,7 @@
 		"ukrainian": "Довжина дороги",
 		"slovak": "Dĺžka cesty",
 		"portuguese": "Travar comprimento da estrada",
+		"czech": "Délka cesty"
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -859,6 +865,7 @@
 		"ukrainian": "Кут прив'язування дороги",
 		"slovak": "Uhol cesty",
 		"portuguese": "Travar angulo da estrada",
+		"czech": "Úhel cesty",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -874,6 +881,7 @@
 		"ukrainian": "Замінити дорогу",
 		"slovak": "Nahradiť cestu",
 		"portuguese": "Substituir estrada",
+		"czech": "Nahradit cestu",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -885,6 +893,7 @@
 		"ukrainian": "Також змінює напрямок дороги, якщо ви не обрали альтернативну дорогу",
 		"slovak": "Tiež zmení smer cesty, ak nemáte vybratú náhradnú cestu",
 		"portuguese": "Também inverte a direção da estrada se você não tiver uma estrada substituta selecionada",
+		"czech": "Změní směr cesty, pokud nemáte vybranou náhradní cestu",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -896,6 +905,7 @@
 		"ukrainian": "Зворотня дорога",
 		"slovak": "Opačná cesta",
 		"portuguese": "inverter estrada",
+		"czech": "Zpáteční cesta",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -911,6 +921,7 @@
 		"ukrainian": "Прив'язати до дороги",
 		"slovak": "Zacvaknúť na cestu",
 		"portuguese": "Travar à estrada",
+		"czech": "Připojovat budovu cestou",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -926,6 +937,7 @@
 		"ukrainian": "Наразі доставляється: %amount%",
 		"slovak": "Momentálne sa dodáva: %amount%",
 		"portuguese": "Atualmente sendo entregue: %amount%",
+		"czech": "Momentálně se dodává: %amount%",
 	},
 	// sign panel
 	"signPanelText": {
@@ -942,6 +954,7 @@
 		"ukrainian": "Текст",
 		"slovak": "Text",
 		"portuguese": "Texto",
+		"czech": "Text",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -957,6 +970,7 @@
 		"ukrainian": "Розмір шрифту",
 		"slovak": "Veľkosť písma",
 		"portuguese": "Tamanho da fonte",
+		"czech": "Velikost písma",
 	},
 	"font": {
 		"english": "Font",
@@ -972,6 +986,7 @@
 		"ukrainian": "Шрифт",
 		"slovak": "Druh Písma",
 		"portuguese": "Fonte",
+		"czech": "Druh písma",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -987,6 +1002,7 @@
 		"ukrainian": "Не під'єднано до електромережі",
 		"slovak": "Nepripojené k zdroju energie",
 		"portuguese": "Não conectado à uma rede de energia",
+		"czech": "Nepřipojené ke zdroji energie",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1000,8 +1016,9 @@
 		"japanese": "他の建物などに接触",
 		"polish": "Budynek koliduje",
 		"ukrainian": "Будівлі щось заважає",
-		"slovak": "Budova s ​​niečím koliduje",
+		"slovak": "Budova s niečím koliduje",
 		"portuguese": "O edifício está colidindo com algo",
+		"czech": "Budova s něčím koliduje",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -1017,6 +1034,7 @@
 		"ukrainian": "Будівля не розміщена на покладі ресурсів",
 		"slovak": "Budova nie je umiestnená na zdroju surovín",
 		"portuguese": "O edifício não está sob um depósito de recursos",
+		"czech": "Budova není umístěná na zdroji surovin",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -1032,6 +1050,7 @@
 		"ukrainian": "Дорозі щось заважає",
 		"slovak": "Cesta s niečím koliduje",
 		"portuguese": "A estrada está colidindo com algo",
+		"czech": "Cesta s něčím koliduje",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -1047,6 +1066,7 @@
 		"ukrainian": "Занадто близько до сусідньої дороги",
 		"slovak": "Príliš blízko k inej ceste",
 		"portuguese": "Muito perto da outra estrada",
+		"czech": "Příliš blízko k jiné cestě",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1062,6 +1082,7 @@
 		"ukrainian": "Занадто короткий відрізок дороги",
 		"slovak": "Úsek cesty je príliš krátky",
 		"portuguese": "O segmento da estrada é curto demais",
+		"czech": "Úsek cesty je příliš krátký",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -1077,6 +1098,7 @@
 		"ukrainian": "Дорога занадто крута",
 		"slovak": "Príliš strmá cesta",
 		"portuguese": "A estrada está muito íngrime",
+		"czech": "Příliš strmá cesta",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -1092,6 +1114,7 @@
 		"ukrainian": "Дорога занадто далеко від землі",
 		"slovak": "Cesta je príliš ďaleko od zeme",
 		"portuguese": "A estrada está muito longe do solo",
+		"czech": "Cesta je příliš daleko od země",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1107,6 +1130,7 @@
 		"ukrainian": "Візуалізації",
 		"slovak": "Vizualizácia",
 		"portuguese": "Visualizações",
+		"czech": "Vizualizace",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
