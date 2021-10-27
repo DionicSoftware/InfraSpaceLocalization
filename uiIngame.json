@@ -13,6 +13,7 @@
 		"ukrainian": "Електромережа %id%",
 		"slovak": "Napájacia sieť %id%",
 		"portuguese": "Rede elétrica %id%",
+		"czech": "Napájecí síť %id%",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -28,6 +29,7 @@
 		"ukrainian": "Потрібно: %amount% МВт",
 		"slovak": "Požadované: %amount% MW",
 		"portuguese": "Necessário: %amount% MW",
+		"czech": "Požadované: %amount% MW",
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -43,6 +45,7 @@
 		"ukrainian": "Споживана енергія",
 		"slovak": "Elektrina spotrebovaná:",
 		"portuguese": "Energia consumida:",
+		"czech": "Elektřina byla spotřebována:",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -58,6 +61,7 @@
 		"ukrainian": "Вироблена енергія",
 		"slovak": "Produkcia Elektriny:",
 		"portuguese": "Energia produzida:",
+		"czech": "Produkce elektřiny:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -73,6 +77,7 @@
 		"ukrainian": "Вхідне сховище порожнє",
 		"slovak": "Prichádzajúci sklad je prázny",
 		"portuguese": "Armazenamento de entrada vazio",
+		"czech": "Příchozí sklad je prázdný",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -88,6 +93,7 @@
 		"ukrainian": "Немає доступу до дороги",
 		"slovak": "Žiadny prístup k ceste",
 		"portuguese": "Sem acesso à estrada",
+		"czech": "Žádný přístup k cestě",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -103,6 +109,7 @@
 		"ukrainian": "Вихідне сховище заповнене",
 		"slovak": "Odchádzajúci sklad je plný",
 		"portuguese": "Armazenamento de saída cheio",
+		"czech": "Odchozí sklad je prázdný",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -118,6 +125,7 @@
 		"ukrainian": "У будівлі немає робітників",
 		"slovak": "Žiadny pracovníci v budove",
 		"portuguese": "Sem trabalhadores no edifício",
+		"czech": "Žádní pracovníci v budově",
 	},
 	"noPower": {
 		"english": "No power",
@@ -133,6 +141,7 @@
 		"ukrainian": "Немає енергії",
 		"slovak": "Žiadna elektrina",
 		"portuguese": "Sem energia",
+		"czech": "Žádná elektřina",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -148,6 +157,7 @@
 		"ukrainian": "Ефективність: %amount%%",
 		"slovak": "%amount%% Efektivita",
 		"portuguese": "%amount%% de eficiência",
+		"czech": "%amount%% efektivita",
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -163,6 +173,7 @@
 		"ukrainian": "Ваше місто буде підвищено до \"%cityLevelName%\", щойно у вас буде хоча б %amount% громадян %nextLevel%-го рівня.",
 		"slovak": "Tvoje mesto bude povýšené na úroveň \"%cityLevelName%\" až keď dosiahneš %amount% úrovne %nextLevel% občanov.",
 		"portuguese": "Sua cidade será promovida à \"%cityLevelName%\" assim que você tiver pelo menos %amount% cidadãos nível %nextLevel%.",
+		"czech": "Tvé město bude povýšeno na úroveň \"%cityLevelName%\" až dosáhneš %amount% úrovně %nextLevel% občanů.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -178,6 +189,7 @@
 		"ukrainian": "Ви досягли максимального рівня міста. Вітаємо!",
 		"slovak": "Dosiahol si maximálnu úroveň mesta. Gratulujeme!",
 		"portuguese": "Você atingiu o nível mais alto da cidade. Parabéns!",
+		"czech": "Dosaženo maximální úrovně města. Gratulujeme!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -193,6 +205,7 @@
 		"ukrainian": "Ваше місто буде понижено до \"%cityLevelName%\", якщо в ньому буде менше ніж %amount% громадян %level%-го рівня.",
 		"slovak": "Tvoje mesto sa degradovalo na úroveň \"%cityLevelName%\" ak máte menej ako %amount% Úroveň %level% občanov",
 		"portuguese": "Sua cidade será rebaixada para \"%cityLevelName%\" se você tiver menos de %amount% cidadãos nível %level%.",
+		"czech": "Tvé město degradovalo na úroveň \"%cityLevelName%\", pokud máte méně jak %amount% úroveň %level% občanů.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -208,6 +221,7 @@
 		"ukrainian": "Дослідження %techName%...    %progress%",
 		"slovak": "Vyskúm %techName%... %progress%",
 		"portuguese": "Pesquisando %techName%...    %progress%",
+		"czech": "Výzkum %techName%... %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -223,6 +237,7 @@
 		"ukrainian": "Оберіть технологію для дослідження.",
 		"slovak": "Vyber technológiu na výskum",
 		"portuguese": "Selecione uma tecnologia para pesquisar",
+		"czech": "Vyber technologii pro výzkum",
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -238,6 +253,7 @@
 		"ukrainian": "Нічого",
 		"slovak": "Nič",
 		"portuguese": "Nada",
+		"czech": "Nic",
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -253,6 +269,7 @@
 		"ukrainian": "Ви розблокували %techName% і тепер вам доступні будови:",
 		"slovak": "Odomkli sme %techName% a teraz to môžeme postaviť:",
 		"portuguese": "Mós desbloqueamos %techName% e agora podemos construir:",
+		"czech": "Odemkli jsme %techName% a nyní můžeme postavit:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -268,6 +285,7 @@
 		"ukrainian": "Ви розблокували %techName%.",
 		"slovak": "Odomkli sme %techName%.",
 		"portuguese": "Nós desbloqueamos %techName% ",
+		"czech": "Odemkli jsme %techName%.",
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -283,6 +301,7 @@
 		"ukrainian": "Ця технологія розблокує:",
 		"slovak": "Táto technológia odomkne:",
 		"portuguese": "Esta tecnologia desbloqueia:",
+		"czech": "Tato technologie odemkne:",
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
