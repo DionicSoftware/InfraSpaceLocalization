@@ -20,6 +20,7 @@ Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translati
 ###### - **[CN]** 将下载的文件夹放到游戏根目录并重命名为 "**localization**". 不要忘记 **创建一个 "custom.txt"文件** 里面写着以下内容:
 ###### - **[PL]** Umieść folder z plikami w katalogu gry i zmień jego nazwę na "**localization**". Stwórz w nim **plik "custom.txt"** zawierający poniższą formułę:
 ###### - **[SK]** Vložte súbory do priečinka hry a premenujte ho na "**localization**". Nezabudnite na **vytvorenie súboru "custom.txt"** a napísať tam nasledovné:
+###### - **[CZ]** Vložte soubory do adresáře hry a přejmenujte ho na "**localization**". Nezapomeňte na **vytvoření souboru "custom.txt"** a napsat do něj následovné:
 
 ## Custom.txt:
 ```
