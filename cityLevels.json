@@ -14,6 +14,7 @@
 		"slovak": "Kolónia",
 		"dutch": "Kolonie",
 		"portuguese": "Posto avançado",
+		"hungarian": "Külváros",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -30,6 +31,7 @@
 		"slovak": "Osada",
 		"dutch": "Nederzetting",
 		"portuguese": "Povoado",
+		"hungarian": "Település",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -46,6 +48,7 @@
 		"slovak": "Mestečko",
 		"dutch": "Klein Dorp",
 		"portuguese": "Pequeno vilarejo",
+		"hungarian": "Kis város",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -62,6 +65,7 @@
 		"slovak": "Mesto",
 		"dutch": "Groot Dorp",
 		"portuguese": "Grande vilarejo",
+		"hungarian": "Nagy város",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -78,6 +82,7 @@
 		"slovak": "Metropola",
 		"dutch": "Stad",
 		"portuguese": "Cidade",
+		"hungarian": "Város",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -94,5 +99,6 @@
 		"slovak": "Hlavné mesto planéty",
 		"dutch": "Planetaire Hoofdstad",
 		"portuguese": "Capital planetária",
+		"hungarian": "Csillagközi főváros",
 	},
 }
