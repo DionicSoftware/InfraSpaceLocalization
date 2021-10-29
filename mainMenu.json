@@ -100,6 +100,10 @@
 		"japanese": "ゲームを終了する",
 		"slovak": "Odísť na plochu",
 	},
+	"back": {
+		"english": "Back to Game",
+		"german": "Zurück zum Spiel",
+	},
 	"website": {
 		"english": "Website",
 		"german": "Webseite",
