@@ -13,6 +13,7 @@
 		"ukrainian": "Місто перейшло на новий рівень",
 		"slovak": "Úroveň mesta sa zvýšila",
 		"portuguese": "Cidade subiu de nível!",
+		"hungarian": "Város szintlépés!",
 	},
 	"message_cityLevelUpText": {
 		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
@@ -28,6 +29,7 @@
 		"ukrainian": "Вітаємо, ваше місто тільки що досягло %cityLevel% рівня. Ви відкрили нові технології та дослідження.",
 		"slovak": "Gralujeme tvoje mesto dosiahlo úrovne %cotyLevel%. Odomkli sa vám nové budovy a technológie pre výzkum.",
 		"portuguese": "Parabéns, sua cidade acabou de atingir o nível %cityLevel%. Você desbloqueou novas tecnologias para pesquisar.",
+		"hungarian": "Gratulálunk, a városod elérte a %cityLevel%. szintet. Elérehtők lettek új technologiák és kutatások.",
 	},
 	"message_cityLevelDownTitle": {
 		"english": "City demoted!",
@@ -43,6 +45,7 @@
 		"ukrainian": "Рівень міста знижений!",
 		"slovak": "Mesto sa degradovalo!",
 		"portuguese": "Cidade rebaixada!",
+		"hungarian": "Város szintesés!",
 	},
 	"message_cityLevelDownText": {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
@@ -58,6 +61,7 @@
 		"ukrainian": "Ви не змогли забезпечити своїх громадян усім необхідним. Рівень вашого міста знижених доти, доки ви не виправите ситуацію",
 		"slovak": "Zlyhal si v zásobovaní tvojich obyvatelov. Tvoje mesto bude degradované pokiaľ sa situácia nezlepší.",
 		"portuguese": "Você falhou em prover para seus cidadãos. Sua cidade foi rebaixada até que você possa reverter a situação.",
+		"hungarian": "Nem tudtál eleget tenni a lakóid elvárásainak. A városod addig kissebb szintü lesz, amíg a feltételek el nem lesznek érve.",
 	},
 	"attention": {
 		"english": "Attention!",
@@ -73,6 +77,7 @@
 		"ukrainian": "Увага!",
 		"slovak": "Pozor!",
 		"portuguese": "Atenção!",
+		"hungarian": "Figyelem!",
 	},
 	"message_debugModeText": {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
@@ -88,5 +93,6 @@
 		"ukrainian": "Режим відлагодження використовується для розроблення гри. Якщо його ввімкнути, то можуть трапитися помилки.",
 		"slovak": "Developerský režim sa používa pre vývoj. Jeho zapnutím môžeš naraziť na chyby.",
 		"portuguese": "O modo de depuração deve ser usado no desenvolvimento. Se você habilitar o modo de depuração, poderá obter erros.",
+		"hungarian": "A hibakeresési mód a játékfejlesztéshez van. Ha engedélyezed, lehet, hogy hibákkal fogsz találkozni.",
 	},
 }
