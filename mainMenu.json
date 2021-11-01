@@ -19,6 +19,7 @@
 		"romanian": "Joc nou",
 		"japanese": "ゲームを始める",
 		"slovak": "Nová hra",
+		"hungarian": "Új játék",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -39,6 +40,7 @@
 		"romanian": "Salvează jocul",
 		"japanese": "ゲームを保存する",
 		"slovak": "Uložiť hru",
+		"hungarian": "Mentés",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -59,6 +61,7 @@
 		"romanian": "Încarcă jocul",
 		"japanese": "ゲームを読み込みする",
 		"slovak": "Načítať hru",
+		"hungarian": "Betöltés",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -79,6 +82,7 @@
 		"romanian": "Meniul principal",
 		"japanese": "メインメニュー",
 		"slovak": "Hlavné menu",
+		"hungarian": "Főmenü",
 	},
 	"quit": {
 		"english": "Quit",
@@ -99,10 +103,12 @@
 		"romanian": "Ieși",
 		"japanese": "ゲームを終了する",
 		"slovak": "Odísť na plochu",
+		"hungarian": "Kilépés",
 	},
 	"back": {
 		"english": "Back to Game",
 		"german": "Zurück zum Spiel",
+		"hungarian": "Vissza a játékba",
 	},
 	"website": {
 		"english": "Website",
@@ -123,6 +129,7 @@
 		"romanian": "Sait web",
 		"japanese": "Website",
 		"slovak": "Webstránka",
+		"hungarian": "Weboldal",
 	},
 	"forum": {
 		"english": "Forum",
@@ -143,6 +150,7 @@
 		"romanian": "Forum",
 		"japanese": "Forum",
 		"slovak": "Fórum",
+		"hungarian": "Fórum",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -163,6 +171,7 @@
 		"romanian": "Actualizare disponibilă!",
 		"japanese": "アップデートが利用可能です！",
 		"slovak": "Je dostupná aktualizácia!",
+		"hungarian": "Frissítés elérhető!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -183,6 +192,7 @@
 		"romanian": "Obține cea mai nouă versiune",
 		"japanese": "最新パージョンをダウンロードする",
 		"slovak": "Získat najnovšiu verziu",
+		"hungarian": "Legújabb verzió letöltése",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -203,6 +213,7 @@
 		"romanian": "Versiunea dvs.",
 		"japanese": "あなたのインストールされたバージョン",
 		"slovak": "Vaša verzia",
+		"hungarian": "A te verziód",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -223,6 +234,7 @@
 		"romanian": "Versiunea curentă",
 		"japanese": "現在のバージョン",
 		"slovak": "Aktuálna verzia",
+		"hungarian": "Jelenlegi verzió",
 	},
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
@@ -239,6 +251,7 @@
 		"ukrainian": "Спільнота",
 		"slovak": "Komunita",
 		"portuguese": "Comunidade",
+		"hungarian": "Közösség",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -255,6 +268,7 @@
 		"ukrainian": "Це альфа-версія",
 		"slovak": "Toto je Alpha verzia",
 		"portuguese": "Esta é uma versão Alfa",
+		"hungarian": "Ez egy alpha verzió"
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -271,6 +285,7 @@
 		"ukrainian": "Ця гра ще не закінчена. Вона може містити помилки.\n\nМи випускаємо ці ранні версії для гравців, щоб ми могли отримати відгук про ігровий процес і знайти помилки задовго до офіційного випуску.\n\nПовідомте нам, якщо гра вам сподобалась!",
 		"slovak": "Táto hra nie je zatiaľ hotová. Môže obsahovať chyby.\n\nVydávame tútu alpha verziu, aby nám hráči mohli dať spätnú väzbu o hratelnosti a nahlásiť bugy pred oficiálným vydaním.\n\nDajte nám vedieť, ako sa vám hra páči!",
 		"portuguese": "Este jogo ainda não está acabado. Pode conter erros.\n\nEstamos lançando essas primeiras versões para os jogadores para que possamos obter algum retorno sobre o jogo e encontrar erros muito antes do lançamento oficial.\n\nDiga-nos se você gosta!",
+		"hungarian": "Ez a játék még nincs készen. Lehetnek benne hibák \n\nEzeket a korai verziókat adjuk ki játékosoknak, hogy visszajelzést kapjunk a játékmenetről és mielőbb megtaláljuk a hibákat a hivatalos kiadás előtt.\n\nTudasd velünk, hogy neked hogy tetszik!",
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -292,6 +307,7 @@
 		"romanian": "Încarcă",
 		"japanese": "読み込み",
 		"slovak": "Načítať",
+		"hungarian": "Betöltés",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -312,6 +328,7 @@
 		"romanian": "Suprascrie",
 		"japanese": "上書き保存",
 		"slovak": "Prepísať",
+		"hungarian": "Felülírás",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -331,6 +348,7 @@
 		"japanese": "\"%save%\"を削除します。本当に削除してもよろしいですか?",
 		"ukrainian": "Ви дійсно бажаєте видалити збереження \"%save%\"? Ця дія незворотна!",
 		"slovak": "Určite chcete prepísať hru \"%save%\"? Bude navždy odstránena!",
+		"hungarian": "Biztos hogy ki szeretnéd törölni a(z) \"%save%\" nevű mentést? Örökké el fog veszni.",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -350,6 +368,7 @@
 		"japanese": "このゲームは%minutes%分間保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか?",
 		"ukrainian": "Останній раз гра зберігалась %minutes% хв тому. Ви дійсно бажаєте вийти в головне меню без збереження?",
 		"slovak": "Hra nebola uložená posledných %minutes% minut. Určite sa chcete vrátiť do hlavnej ponuky bez uloženia?",
+		"hungarian": "A játékállás %minutes% perce nem volt mentve. Biztos hogy visszatérnél a főmenübe mentés nélkül?",
 	},
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
@@ -366,6 +385,7 @@
 		"ukrainian": "База Тета-3",
 		"slovak": "Kolónia Theta-3",
 		"portuguese": "Posto avançado Theta-3",
+		"hungarian": "Theta-3-as Előőrs",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -386,6 +406,7 @@
 		"romanian": "Caractere interzise în numele fișierului",
 		"japanese": "ファイル名に使用できない禁止文字が含まれています",
 		"slovak": "Zakázané znaky v názve súboru",
+		"hungarian": "Nem engedélyezett karakterek a fájlnévben",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -406,6 +427,7 @@
 		"romanian": "Numele fișierului este prea lung",
 		"japanese": "ファイル名が長すぎます",
 		"slovak": "Názov súboru je príliš dlhý",
+		"hungarian": "Fájl neve túl hosszú",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -426,6 +448,7 @@
 		"romanian": "Numele fișierului este prea scurt",
 		"japanese": "ファイル名が短すぎます",
 		"slovak": "Názov súboru je príliš krátky",
+		"hungarian": "Fájl neve túl rövid",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -446,6 +469,7 @@
 		"romanian": "Numele fișierului este folosit deja",
 		"japanese": "すでに使用されているファイル名です",
 		"slovak": "Tento názov súboru už ide použiť",
+		"hungarian": "Fájl név már használatban",
 	},
 	// SETTINGS
 	"settings": {
@@ -467,6 +491,7 @@
 		"romanian": "Setări",
 		"japanese": "設定",
 		"slovak": "Nastavenia",
+		"hungarian": "Beállítások",
 	},
 	"graphics": {
 		"english": "Video",
@@ -487,6 +512,7 @@
 		"romanian": "Video",
 		"japanese": "ビデオ",
 		"slovak": "Video",
+		"hungarian": "Videó",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -507,6 +533,7 @@
 		"romanian": "Calitate grafică",
 		"japanese": "画質",
 		"slovak": "Kvalita grafiky",
+		"hungarian": "Grafika minősége",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -527,6 +554,7 @@
 		"romanian": "Redusă",
 		"japanese": "低",
 		"slovak": "Nízka",
+		"hungarian": "Alacsony",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -547,6 +575,7 @@
 		"romanian": "Medie",
 		"japanese": "中",
 		"slovak": "Stredná",
+		"hungarian": "Közepes",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -567,6 +596,7 @@
 		"romanian": "Ridicată",
 		"japanese": "高",
 		"slovak": "Vysoká",
+		"hungarian": "Magas",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -587,6 +617,7 @@
 		"romanian": "Rezoluție",
 		"japanese": "解像度",
 		"slovak": "Rozlíšenie",
+		"hungarian": "Felbontás",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -607,6 +638,7 @@
 		"romanian": "Modul de afișare",
 		"japanese": "ディスプレイモード",
 		"slovak": "Režim rozbrazenia",
+		"hungarian": "Megjelenítési mód",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -627,6 +659,7 @@
 		"romanian": "În fereastră",
 		"japanese": "ウィンドウ",
 		"slovak": "V okne",
+		"hungarian": "Ablakos",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -647,6 +680,7 @@
 		"romanian": "Ecran complet",
 		"japanese": "フルスクリーン",
 		"slovak": "Celá obrazovka",
+		"hungarian": "Teljesképernyős",
 	},
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
@@ -663,6 +697,7 @@
 		"ukrainian": "Ексклюзивний повноекранний режим",
 		"slovak": "Úplne celá obrazovka",
 		"portuguese": "Tela inteira exclusiva",
+		"hungarian": "Exklúzív teljesképernyős",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -683,6 +718,7 @@
 		"romanian": "Vsync",
 		"japanese": "垂直同期",
 		"slovak": "Vsync",
+		"hungarian": "Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -702,6 +738,7 @@
 		"japanese": "スロー",
 		"ukrainian": "Повільний",
 		"slovak": "Pomalý",
+		"hungarian": "Lassú",
 	},
 	"on": {
 		"english": "On",
@@ -722,6 +759,7 @@
 		"romanian": "Activat",
 		"japanese": "オン",
 		"slovak": "Zapnuté",
+		"hungarian": "Be",
 	},
 	"off": {
 		"english": "Off",
@@ -742,6 +780,7 @@
 		"romanian": "Dezactivat",
 		"japanese": "オフ",
 		"slovak": "Vypnuté",
+		"hungarian": "Ki",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -762,6 +801,7 @@
 		"romanian": "Luminozitate",
 		"japanese": "輝度",
 		"slovak": "Jas",
+		"hungarian": "Fényerő",
 	},
 	"audio": {
 		"english": "Audio",
@@ -782,6 +822,7 @@
 		"romanian": "Audio",
 		"japanese": "オーディオ",
 		"slovak": "Zvuk",
+		"hungarian": "Hang",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -802,6 +843,7 @@
 		"romanian": "Volum global",
 		"japanese": "音量",
 		"slovak": "Celková hlasitosť",
+		"hungarian": "Teljes hangerő",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -822,6 +864,7 @@
 		"romanian": "Efecte sonore",
 		"japanese": "効果音",
 		"slovak": "Zvukové efekty",
+		"hungarian": "Hanghatások",
 	},
 	"music": {
 		"english": "Music",
@@ -842,6 +885,7 @@
 		"romanian": "Muzică",
 		"japanese": "BGM",
 		"slovak": "Hudba",
+		"hungarian": "Zene",
 	},
 	"other": {
 		"english": "Other",
@@ -862,6 +906,7 @@
 		"romanian": "Alte",
 		"japanese": "その他",
 		"slovak": "Ostatné",
+		"hungarian": "Egyéb",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -881,6 +926,7 @@
 		"romanian": "Viteza camerei",
 		"japanese": "カメラスピード",
 		"slovak": "Rychlosť kamery",
+		"hungarian": "Kamera gyorsasága",
 	},
 	"language": {
 		"english": "Language",
@@ -901,6 +947,7 @@
 		"romanian": "Limbă",
 		"japanese": "言語",
 		"slovak": "Jazyk",
+		"hungarian": "Nyelv",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -921,6 +968,7 @@
 		"romanian": "Derularea cu mausul la marginea ecranului",
 		"japanese": "マウスによるカメラコントロール",
 		"slovak": "Posúvanie myši na okrajoch",
+		"hungarian": "Kamerairányítás egérrel",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -940,6 +988,7 @@
 		"japanese": "開発者モード",
 		"ukrainian": "Режим розробника",
 		"slovak": "Vývojársky režim",
+		"hungarian": "Fejlesztő mód",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -960,6 +1009,7 @@
 		"romanian": "Jocul activ în fundal",
 		"japanese": "ゲームをバックグラウンドで実行",
 		"slovak": "Hra je zapnutá na pozadí",
+		"hungarian": "Játék háttérben fut",
 	},
 	"showTutorials": {
 		"english": "Show Tutorials",
@@ -976,6 +1026,7 @@
 		"ukrainian": "Показати посібники",
 		"slovak": "Zobrazit Nápovedu",
 		"portuguese": "Mostrar tutoriais",
+		"hungarian": "Oktatóanyag megjelenítése",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -992,6 +1043,7 @@
 		"ukrainian": "Скинути налаштування пройдених посібників",
 		"slovak": "Obnovit Nápovedu",
 		"portuguese": "Redefinir tutoriais conhecidos",
+		"hungarian": "Oktatóanyagok visszaállítása",
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1013,6 +1065,7 @@
 		"romanian": "Încărcarea lumii...",
 		"japanese": "世界を読み込んでいます...",
 		"slovak": "Načítanie sveta...",
+		"hungarian": "Világ betöltése...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1033,6 +1086,7 @@
 		"romanian": "Resetează",
 		"japanese": "リセット",
 		"slovak": "Obnoviť",
+		"hungarian": "Alaphelyzet",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1051,6 +1105,7 @@
 		"japanese": "了解",
 		"ukrainian": "Ок",
 		"slovak": "Ok",
+		"hungarian": "Ok",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1071,6 +1126,7 @@
 		"romanian": "Confirmă",
 		"japanese": "確認",
 		"slovak": "Potvrdiť",
+		"hungarian": "Megerősít",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1091,6 +1147,7 @@
 		"romanian": "Renunță",
 		"japanese": "取り消し",
 		"slovak": "Zrušiť",
+		"hungarian": "Mégse",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1111,6 +1168,7 @@
 		"romanian": "Aplică",
 		"japanese": "適用",
 		"slovak": "Použiť",
+		"hungarian": "Alkalmaz",
 	},
 	"hooray": {
 		"english": "Hooray!",
@@ -1127,6 +1185,7 @@
 		"ukrainian": "Ура!",
 		"slovak": "Hurá",
 		"portuguese": "Viva!",
+		"hungarian": "Hurrá!",
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1148,6 +1207,7 @@
 		"romanian": "Controlul camerei",
 		"japanese": "カメラコントロール",
 		"slovak": "Ovládanie kamery",
+		"hungarian": "Kamera irányításai",
 	},
 	"keybindings": {
 		"english": "Key Bindings",
@@ -1168,6 +1228,7 @@
 		"romanian": "Configurarea tastaturii",
 		"japanese": "キー割り当て",
 		"slovak": "Klávesové skratky",
+		"hungarian": "Billenytűkiosztás",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1188,6 +1249,7 @@
 		"romanian": "Înainte",
 		"japanese": "前",
 		"slovak": "Dopredu",
+		"hungarian": "Előre",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1208,6 +1270,7 @@
 		"romanian": "Înapoi",
 		"japanese": "後ろ",
 		"slovak": "Dozadu",
+		"hungarian": "Hátra",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1228,6 +1291,7 @@
 		"romanian": "Stânga",
 		"japanese": "左",
 		"slovak": "Vľavo",
+		"hungarian": "Balra",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1248,6 +1312,7 @@
 		"romanian": "Dreapta",
 		"japanese": "右",
 		"slovak": "Vpravo",
+		"hungarian": "Jobbra",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1268,6 +1333,7 @@
 		"romanian": "Rotește",
 		"japanese": "回転",
 		"slovak": "Otočiť",
+		"hungarian": "Forgatás",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1287,6 +1353,7 @@
 		"romanian": "Mărește",
 		"japanese": "ズームイン",
 		"slovak": "Priblížiť",
+		"hungarian": "Nagyítás",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1306,6 +1373,7 @@
 		"romanian": "Micșorează",
 		"japanese": "ズームアウト",
 		"slovak": "Oddialiť",
+		"hungarian": "Kicsinyítés",
 	},
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -1322,6 +1390,7 @@
 		"ukrainian": "Будівництво",
 		"slovak": "Stavba",
 		"portuguese": "Construção",
+		"hungarian": "Építkezés",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1338,6 +1407,7 @@
 		"ukrainian": "Підйом доріг",
 		"slovak": "Zvýšiť dialnicu",
 		"portuguese": "Elevar a via",
+		"hungarian": "Út magasítása",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1354,6 +1424,7 @@
 		"ukrainian": "Зниження доріг",
 		"slovak": "Znížiť dialnicu",
 		"portuguese": "Abaixar a via",
+		"hungarian": "",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1374,6 +1445,7 @@
 		"romanian": "Controlul timpului",
 		"japanese": "時間管理",
 		"slovak": "Ovládanie času",
+		"hungarian": "Idő irányítás",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1394,6 +1466,7 @@
 		"romanian": "Pauză",
 		"japanese": "ポーズ",
 		"slovak": "Pauza",
+		"hungarian": "Szünet",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1414,6 +1487,7 @@
 		"romanian": "Rotește spre stânga",
 		"japanese": "左に回転",
 		"slovak": "Otočiť vľavo",
+		"hungarian": "Forgatás balra",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1434,6 +1508,7 @@
 		"romanian": "Rotește spre dreapta",
 		"japanese": "右に回転",
 		"slovak": "Otočiť vpravo",
+		"hungarian": "Forgatás jobbra",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1454,6 +1529,7 @@
 		"romanian": "Diverse",
 		"japanese": "その他",
 		"slovak": "Ostatné",
+		"hungarian": "Vegyes",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1474,6 +1550,7 @@
 		"romanian": "Captură de ecran",
 		"japanese": "スクリーンショット",
 		"slovak": "Snímka obrazovky",
+		"hungarian": "Képernyőkép",
 	},
 	"screenshotMode": {
 		"english": "Screenshot Mode",
@@ -1490,6 +1567,7 @@
 		"ukrainian": "Режим знімку екрана",
 		"slovak": "Fotografický režim",
 		"portuguese": "Modo de captura de tela",
+		"hungarian": "Képernyőkép mód",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1510,6 +1588,7 @@
 		"romanian": "Deschide dosarul cu capturile de ecran",
 		"japanese": "スクリーンショットフォルダを開く",
 		"slovak": "Otvoriť adresár snímok",
+		"hungarian": "Képernyőképek mappa megnyitása",
 	},
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
@@ -1526,6 +1605,7 @@
 		"ukrainian": "Відкрити знімки екрана / збереження",
 		"slovak": "Otvoriť Snímky / Uložené hry",
 		"portuguese": "Abrir capturas de tela / gravações",
+		"hungarian": "Képernyőképek / Mentések",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1546,6 +1626,7 @@
 		"romanian": "Afișează FPS",
 		"japanese": "1秒あたりのフレーム数を表示",
 		"slovak": "Zobraziť FPS",
+		"hungarian": "FPS mutatása",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -1566,6 +1647,7 @@
 		"romanian": "Butonul din stânga al mausului",
 		"japanese": "左マウスボタン",
 		"slovak": "Ľavé tlačidlo myši",
+		"hungarian": "Bal egérgomb",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -1586,6 +1668,7 @@
 		"romanian": "Butonul din dreapta al mausului",
 		"japanese": "右マウスボタン",
 		"slovak": "Pravé tlačídlo myši",
+		"hungarian": "Jobb egérgomb",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -1606,6 +1689,7 @@
 		"romanian": "Butonul din mijloc al mausului",
 		"japanese": "中央マウスボタン[ホイールボタン]",
 		"slovak": "Prostredné tlačídko myši",
+		"hungarian": "Középső egérgomb",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1626,6 +1710,7 @@
 		"romanian": "Spațiu",
 		"japanese": "Spaceキー",
 		"slovak": "Medzerník",
+		"hungarian": "Szóköz",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -1646,6 +1731,7 @@
 		"polish": "Shift (lewy)",
 		"japanese": "左Shiftキー",
 		"slovak": "Shift (ľavý)",
+		"hungarian": "Shift (bal)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -1666,6 +1752,7 @@
 		"polish": "Shift (prawy)",
 		"japanese": "右Shiftキー",
 		"slovak": "Shift (pravý)",
+		"hungarian": "Shift (jobb)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -1686,6 +1773,7 @@
 		"polish": "Alt (lewy)",
 		"japanese": "左Altキー",
 		"slovak": "Alt (ľavý)",
+		"hungarian": "Alt (bal)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -1706,6 +1794,7 @@
 		"polish": "Alt (prawy)",
 		"japanese": "右Altキー",
 		"slovak": "Alt (pravý)",
+		"hungarian": "Alt (jobb)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -1726,6 +1815,7 @@
 		"polish": "Ctrl (lewy)",
 		"japanese": "左Ctrlキー",
 		"slovak": "Ctrl (ľavý)",
+		"hungarian": "Ctrl (bal)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -1746,6 +1836,7 @@
 		"polish": "Ctrl (prawy)",
 		"japanese": "右Ctrlキー",
 		"slovak": "Ctrl (pravý)",
+		"hungarian": "Ctrl (jobb)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -1766,6 +1857,7 @@
 		"romanian": "Caps Lock",
 		"japanese": "Caps Lockキー",
 		"slovak": "CapsLock",
+		"hungarian": "Caps lock",
 	},
 	"key_PageUp": {
 		"english": "Page Up",
@@ -1782,6 +1874,7 @@
 		"ukrainian": "PageUp",
 		"slovak": "PageUP",
 		"czech": "PageUP",
+		"hungarian": "PageUp",
 	},
 	"key_PageDown": {
 		"english": "Page Down",
@@ -1798,6 +1891,7 @@
 		"ukrainian": "PageDown",
 		"slovak": "PageDown",
 		"czech": "PageDown",
+		"hungarian": "PageDown",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -1817,6 +1911,7 @@
 		"japanese": "このセーブデーターは現在のゲームバージョンと互換性がありません。\nSteamのベーター機能を使用して古いバージョンのゲームをプレイする事ができます。",
 		"ukrainian": "Це збереження не сумісне з вашою версією гри.\nВи можете відтворювати старі версії за допомогою функції «Бета» у Steam.",
 		"slovak": "Táto uložená hra nie je kompatibilná so súčasnou verziou hry. \nStaršie uložené hry môžete hrať vďaka Steam funkcii 'Beta'",
+		"hungarian": "Ez a mentés nem kompatibilis a játék verziójával.\nRégebbi verziókat a Steam 'Béták' funkciója segítségével játszhatod.",
 	},
 	// ROADMAP
 	"roadmap": {
@@ -1834,6 +1929,7 @@
 		"ukrainian": "Дорожня карта",
 		"slovak": "Plány do Budúcnosti",
 		"portuguese": "Roteiro",
+		"hungarian": "Útiterv",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -1850,6 +1946,7 @@
 		"ukrainian": "Дорожня карта не знайдена.\n\nЧи підключені ви до інтернету?",
 		"slovak": "Nenájdené žiadne plány.\n\nNemáte problémy s pripojením?",
 		"portuguese": "Nenhum roteiro encontrado\n\nVocê está conectado à internet ?",
+		"hungarian": "Nem található útiterv.\n\nCsatlakozva vagy az internethez?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -1866,6 +1963,7 @@
 		"ukrainian": "Гарантовані функції раннього доступу",
 		"slovak": "Funckcie garantované pre predbežný prístup",
 		"portuguese": "Recursos garantidos para acesso antecipado",
+		"hungarian": "Garantált tartalmak a Korai Hozzáféréshez",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -1882,6 +1980,7 @@
 		"ukrainian": "Голосуйте за додаткові функції",
 		"slovak": "Hlasujte pre extra funkcie",
 		"portuguese": "Vote em funcionalidades extras",
+		"hungarian": "Szavazz extra tartalmakra",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -1898,6 +1997,7 @@
 		"ukrainian": "Голосуйте за свої улюблені функції, щоб повідомити нам, на чому ми повинні зосередитися.\nМи виберемо з цього списку на основі побажань спільноти та того, наскільки добре вони вписуються в гру",
 		"slovak": "Hlasuj pre svoju oblúbenú funkciu, aby sme vedeli na čom sa máme sústrediť.\nBudeme vyberať zo zoznamu založeného na prianiach komunity tak, ako dobre pôjdu implementovat do hry",
 		"portuguese": "Vote em suas funcionalidades favoritas para que saibamos no que focar.\nNós vamos pegar desta lista baseado na vontade da comunidade e em como ela encaixa no jogo.",
+		"hungarian": "Szavazz a kedvenc funkcióidra, hogy tudasd velünk melyikre figyeljünk jobban.\nEbből a listából választunk a közösség kívánságai és a játékba való illeszkedésük alapján.",
 	},
 	"vote": {
 		"english": "Vote",
@@ -1914,6 +2014,7 @@
 		"ukrainian": "Голосувати",
 		"slovak": "Hlasuj",
 		"portuguese": "Votar",
+		"hungarian": "Szavazás",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -1930,6 +2031,7 @@
 		"ukrainian": "Обговорити",
 		"slovak": "Fórum",
 		"portuguese": "Fórum",
+		"hungarian": "Fórum",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -1946,6 +2048,7 @@
 		"ukrainian": "Повідомити про помилку",
 		"slovak": "Nahlásiť bug",
 		"portuguese": "Informar um erro",
+		"hungarian": "Hiba bejelentése",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -1962,6 +2065,7 @@
 		"ukrainian": "Переклад InfraSpace",
 		"slovak": "Prekládať InfraSpace",
 		"portuguese": "Traduzir InfraSpace",
+		"hungarian": "Fordítsd az InfraSpace-t",
 	},
 	"roadmap_trafficTools_title": {
 		"english": "Traffic Signs and Traffic Lights",
@@ -1978,6 +2082,7 @@
 		"ukrainian": "Дорожні знаки та світлофори",
 		"slovak": "Dopravné značky a semafóry",
 		"portuguese": "Sinais de trânsito e semáforos",
+		"hungarian": "Forgalomirányító táblák és fények",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -1994,6 +2099,7 @@
 		"ukrainian": "Уникайте заторів на перехрестях і розставляйте пріоритети для машин, які повинні проїжджати в першу чергу.",
 		"slovak": "Nedovoľ, aby sa tvoje križovatky zapchaly a urči, ktoré autá budú mať prednosť",
 		"portuguese": "Mantenha suas intersenções fluindo e priorise qual carro pode ir primeiro",
+		"hungarian": "Ügyelj arra, hogy a kereszteződéseid ne teljenek meg és priorizáld mely autók mehetnek először.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -2010,6 +2116,7 @@
 		"ukrainian": "Потяги",
 		"slovak": "Vlaky",
 		"portuguese": "Trens",
+		"hungarian": "Vonatok",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -2026,6 +2133,7 @@
 		"ukrainian": "Автомагістралі - це класно, однак іноді потрібно перевозити тисячи тон матеріалів через пів міста.",
 		"slovak": "Dialnice sú fjan, ale niekedy potrebuješ prepraviť stovky ton materiálov cez polku mesta",
 		"portuguese": "As rodovias são legais, mas às vezes você precisa transportar milhares de toneladas de materiais por metade da cidade.",
+		"hungarian": "Az autópályák jók, de néha anyagok tonnáit kell végigszállítani a városon.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -2042,6 +2150,7 @@
 		"ukrainian": "Великий фінальний проєкт",
 		"slovak": "Veľké projekty na konci hry",
 		"portuguese": "Grande projeto de final de jogo",
+		"hungarian": "Hatalmas játék-végi projekt",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -2058,6 +2167,7 @@
 		"ukrainian": "Досягли максимуму у своєму місті та завершили дерево розвитку? У пошуках останнього визову?",
 		"slovak": "ˇVsetko v tvojom mieste je na najvyššej úrovni a všetky technológie vyskúmané? Hľadáš poriadnu poslednú výzvu?",
 		"portuguese": "Você maximizou sua cidade e terminou a árvore tecnológica? Você está procurando um desafio final?",
+		"hungarian": "Teljesen kimaxoltad a városodat és végeztél a kutatásokkal is? Kíváncsi vagy egy utolsó megmérettetésre?",
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -2074,6 +2184,7 @@
 		"ukrainian": "Гондоли для доступу в гори",
 		"slovak": "Lanovky pre vysoko položené miesta",
 		"portuguese": "Gôndolas para acesso às terras altas",
+		"hungarian": "Felvonók a hegyvidékekhez",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -2090,6 +2201,7 @@
 		"ukrainian": "Вантажні гондоли великої місткості можуть перевозити ваші вантажі в скелях і горах.",
 		"slovak": "Vysokokapacitné lanovky môžu prevážať náklad cez skaly aj kopce",
 		"portuguese": "Gôndolas de carga de alta capacidade podem transportar suas mercadorias por rochas e montanhas.",
+		"hungarian": "A magas tárolóképességű felvonók sziklákon és hegyeken keresztül szállítják az árudat.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -2106,6 +2218,7 @@
 		"ukrainian": "Система задоволенності",
 		"slovak": "Systém spokojnosti",
 		"portuguese": "Sistema de felicidade",
+		"hungarian": "Öröm rendszer",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -2122,6 +2235,7 @@
 		"ukrainian": "Покращена система прийняття рішень щодо поліпшення середи проживання. Бере до уваги найближчі службові приміщення, шум, правила та багато інше.",
 		"slovak": "Vylepší systém akými sa domy rozhodujú o vylepšeniach. Berte v úvahe blízkosti služieb, hluk, vyhlásenia a ďalšie",
 		"portuguese": "Sistema aprimorado para decidir quando as moradias são atualizadas. Leva em consideração edifícios de serviço próximos, barulho, portaria e muito mais.",
+		"hungarian": "Továbbfejlesztett rendszer ami meghatározza, mikor jön el az ideje fejleszteni a lakásokat.\nSzámításba veszi a környező szolgáltatási építményeket, zajt, előírásokat és további tényezőket.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -2138,6 +2252,7 @@
 		"ukrainian": "Підтримка модифікацій",
 		"slovak": "Podpora módov",
 		"portuguese": "Suporte para Mods",
+		"hungarian": "Mod támogatás",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -2154,6 +2269,7 @@
 		"ukrainian": "Підтримування балансувальних модифікацій, скриптів, будівельних і ресурсних модифікацій, а також тих, які змінюють інтерфейс чи інфраструктуру.",
 		"slovak": "Podpora pre balančné módy, nové budovy, infraštruktúru a suroviny, úpravu UI a módy so skriptami.",
 		"portuguese": "Suporte para mods de equilíbrio, mods de construção, mods de recursos, mods de interface do usuário, mods de infraestrutura e mods de script.",
+		"hungarian": "Támogatás egyensúly, építés, alapanyag, felhasználói felület, infrastruktúra és szkript modokhoz.",
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -2170,6 +2286,7 @@
 		"ukrainian": "Труби для рідин і газів",
 		"slovak": "Trubky pre plyny a kvapaliny",
 		"portuguese": "Dutos para líquidos e gases",
+		"hungarian": "Csövek folyadékokhoz és gázokhoz",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -2186,6 +2303,7 @@
 		"ukrainian": "Необхідно транспортувати великі розміри ресурсів під землею або трубопроводами? Необхідно виробляти воду для виживання?",
 		"slovak": "Čo kebysi mohol presúvať veľké množstvo surovín pod zemov alebo trubkami? Č kebysi potreboval vodu k prežitiu?",
 		"portuguese": "E se você pudesse transportar grandes quantidades de recursos abaixo do solo ou em dutos? E se você precisasse produzir água para sobreviver?",
+		"hungarian": "Mi lenne ha hatalmas mennyiségben tudnál szállítani anyagokat a föld alatt vagy csőrendszerbven? Mi lenne ha vizet kellene előállítani a túléléshez?",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -2202,6 +2320,7 @@
 		"ukrainian": "Система опалення",
 		"slovak": "Systém tepla",
 		"portuguese": "Sistema de aquecimento",
+		"hungarian": "Fűtési rendszer",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -2218,6 +2337,7 @@
 		"ukrainian": "Системи життєзабезпечення важливі в космосі — збереження тепла та прохолоди у вашому місте може бути вирішальним.",
 		"slovak": "Systém podpory života vo vesmiré je dôležitý - a zatepliť či ochladiť voje mesto dostatočne, môže byť kľúčové",
 		"portuguese": "Os sistemas de suporte de vida são importantes no espaço - manter sua cidade quente ou fria o suficiente pode ser crítico.",
+		"hungarian": "A létszükségleti rendszerek fontosak az űrben - melegen tartani vagy hűteni a városod létfontosságú lehet.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -2234,6 +2354,7 @@
 		"ukrainian": "Зміна дня й ночі",
 		"slovak": "Striedanie dňa a noci",
 		"portuguese": "Ciclo dia-noite",
+		"hungarian": "Nappal-éjjel ciklus",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -2250,6 +2371,7 @@
 		"ukrainian": "Виглядає класно, також вам потрібно буде готувати свою електромережу до ночі. Може добре працювати із системою опалення — піщані планети вночі швидко стають холодними.",
 		"slovak": "Vyzerá dobre a musíš pripraviť prenosovú sústavu na tmu. Taktiež môžeš zajímavo fungovat so Systémom tepla - piesočné planety v noci sa ochladzuju rýchlejšie",
 		"portuguese": "Parece legal e você precisa preparar sua rede de energia para a noite. Também pode funcionar bem com o sistema de calor - os planetas de areia esfriam rapidamente à noite.",
+		"hungarian": "Elég hidegnek ígérkezik és az elektromos hálózatot is fel kell készíteni az estére. Továbbá jól működhet a fűtési rendszerrel - homokbolygók hamar lehülnek éjjelente.",
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -2266,6 +2388,7 @@
 		"ukrainian": "Пожежі та злочинність",
 		"slovak": "Požiary a zločiny",
 		"portuguese": "Incêndios e criminalidade",
+		"hungarian": "Tüzek és bűnözés",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -2282,6 +2405,7 @@
 		"ukrainian": "Усяке трапляється, тож вашому місту потрібні служби екстреної допомоги, щоби впоратися з ними. Будьте готові!",
 		"slovak": "Nehody sa dejú a tvoje mesto potrebuje zásahové zložky, aby sa s nimi vyporiadalo - buď pripravený!",
 		"portuguese": "Acidentes acontecem e sua cidade precisa de serviços de emergência para lidar com eles - esteja preparado!",
+		"hungarian": "Balesetek történnek és a városodnak szüksége van vészhelyzeti szolgáltatásokra ilyen esetekre - légy felkészült!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -2298,6 +2422,7 @@
 		"ukrainian": "Летючі машини для робітників",
 		"slovak": "Lietajúce auta pre pracovníkov",
 		"portuguese": "Carros voadores para os trabalhadores",
+		"hungarian": "Repülő autók a munkásoknak",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -2314,6 +2439,7 @@
 		"ukrainian": "Додаймо транспорт для робітників, що прямують на роботу, але також представимо покращення для летючої машини, щоби ваша дорожня система не потонула в заторах.",
 		"slovak": "Pridáme dopravu pre pracujúcich, ale taktiež predstavme vylepšené lietajúce auta, aby tvoja dopravná sieť nezkolabovala",
 		"portuguese": "Vamos adicionar tráfego para os trabalhadores indo para o trabalho, mas também apresentar a atualização do carro voador para evitar que o sistema viário fique congestionado.",
+		"hungarian": "Adjunk közlekedést a munkába tartó munkásoknak, de vezessük be a 'repülő autók' fejlesztést hogy óvjuk az utainkat a dugótól.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -2330,6 +2456,7 @@
 		"ukrainian": "Стихійні лиха",
 		"slovak": "Prírodné katastrofy",
 		"portuguese": "Disastres naturais",
+		"hungarian": "Természeti katasztrófák",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -2346,6 +2473,7 @@
 		"ukrainian": "Наскільки добре ваші дороги будуть працювати після піщаної бурі? Чи будете ви готові?",
 		"slovak": "Ako dobre budú tvoje cesty fungovat v piestočnej búrke? Budeš na to pripravený?",
 		"portuguese": "Como suas estradas vão funcionar após uma tempestade de areia? Você estaria preparado?",
+		"hungarian": "Mennyire fognak működni az utaid egy homokvihar után? Te fel lennél rá készülve?",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -2362,6 +2490,7 @@
 		"ukrainian": "Складність гри",
 		"slovak": "Obtiažnosť hry",
 		"portuguese": "Dificuldade do jogo",
+		"hungarian": "Játék nehézsége",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -2378,6 +2507,7 @@
 		"ukrainian": "Відповідає за кількість необхідної жителям їжі.\nЩо вища складність, то краще ви повинні управляти своєю економікою.",
 		"slovak": "Určuje koľko produktov obyvatelia potrebujú.\nČím vyššia úroveň, tým lepšie budeš musieť riadiť svoju ekonomiku.",
 		"portuguese": "Controla quantos produtos os cidadãos precisam.\nQuanto maior a dificuldade, melhor você deve gerenciar sua economia.",
+		"hungarian": "Meghatározza, hogy mennyi termékre lesz a lakosoknak szüksége.\nMinél magasabb a nehézség, annál jobban kell figyelned a pénzügyeidre.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -2394,6 +2524,7 @@
 		"ukrainian": "Складність транспорту",
 		"slovak": "Náročnosť prevozu",
 		"portuguese": "Dificuldade de transporte",
+		"hungarian": "Szállítási nehézség",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -2410,6 +2541,7 @@
 		"ukrainian": "Відповідає за кількість предметів, що може перевезти машина.\nЩо вища складність, то менше предметів ви зможете перевезти за один раз.",
 		"slovak": "Určuje, koľko nákladu môžo vozidla previesť. \nČím vyššia úroveň, tým menej nákladu bude prepravované.",
 		"portuguese": "Controla quantos itens os veículos podem carregar.\nQuanto maior a dificuldade, menos itens podem ser carregados de uma vez.",
+		"hungarian":  "Meghatározza, hogy a járművek mennyi tárgyat szállíthatnak.\nMinél nagyobb a nehézség annál kevesebb tárgyat tudnak egyszerre szállítani.",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -2426,6 +2558,7 @@
 		"ukrainian": "Розпочати гру",
 		"slovak": "Začať hru",
 		"portuguese": "Iniciar a partida",
+		"hungarian": "Játék indítása",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -2442,6 +2575,7 @@
 		"ukrainian": "Легка",
 		"slovak": "Jednoduchá",
 		"portuguese": "Fácil",
+		"hungarian": "Könnyű",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -2458,6 +2592,7 @@
 		"ukrainian": "Середня",
 		"slovak": "Stredná",
 		"portuguese": "Normal",
+		"hungarian": "Közepes",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -2474,5 +2609,6 @@
 		"ukrainian": "Складна",
 		"slovak": "Ťažká",
 		"portuguese": "Difícil",
+		"hungarian": "Nehéz",
 	},
 }
