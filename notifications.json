@@ -13,6 +13,7 @@
 		"ukrainian": "Недостатньо енергії в мережі %networkId%",
 		"slovak": "Nedostatok energie v sieti %networkId%",
 		"portuguese": "Sem energia suficiente na rede %networkId%",
+		"hungarian": "Nincs elég áram itt: Hálózat %networkId%",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -28,6 +29,7 @@
 		"ukrainian": "Оберіть дослідження",
 		"slovak": "Vyberte výskum",
 		"portuguese": "Selecione uma pesquisa",
+		"hungarian": "Válassz kutatást",
 	},
 	"notEnoughWorkers_title": {
 		"english": "Not enough Workers",
@@ -43,6 +45,7 @@
 		"ukrainian": "Недостатньо робітників",
 		"slovak": "Nedostatok pracovníkov",
 		"portuguese": "Trabalhadores insuficientes",
+		"hungarian": "Nincs elég munkás",
 	},
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
@@ -58,6 +61,7 @@
 		"ukrainian": "Якщо у вас недостатньо робітників, ваші підприємства не зможуть працювати ефективно.\nВикористовуйте інструмент виставлення пріоритетів у лівому верхньому куті, щоб розподілити робочу силу.",
 		"slovak": "Pokiaľ nemáš dostatok pracovníkov, tvoje továrne nebudú tak efektívne.\nPouži Prioritný nástroj vľavo nahore k distribuci pracovnej sily.",
 		"portuguese": "Se você não tiver trabalhadores suficientes, suas fábricas não funcionarão com eficiência.\nUse a ferramenta de priorização no canto superior esquerdo para distribuir sua força de trabalho.",
+		"hungarian": "Ha nincs elég munkásod a gyárak nem működnek elég hatékonyan.\nPriorizáld a munkákat a bal felső sarokban.",
 	},
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
@@ -73,6 +77,7 @@
 		"ukrainian": "Турбулентність знижує ефективність вітряних турбін",
 		"slovak": "Turbolencie snižujú účinosť Veternej turbíny",
 		"portuguese": "Turbulências diminuem a eficiência da turbina eólica",
+		"hungarian": "A turbulencia csökkenti a szélerőmű hatékonyságát",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -88,5 +93,6 @@
 		"ukrainian": "Дві вітряні турбіни розташовані занадто близько одна до одної. Їхня ефективність знижена.",
 		"slovak": "Dve Veterné turbíny sú až príliš blízko k sebe. Ich efektivita je nižšia.",
 		"portuguese": "Duas turbinas eólicas estão muito próximas. Sua eficiência está reduzida.",
+		"hungarian": "Két szélerőmű túl közel van egymáshoz. A hatékonyságuk csökkentve lett.",
 	},
 }
