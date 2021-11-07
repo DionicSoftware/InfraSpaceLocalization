@@ -13,6 +13,7 @@
     "ukrainian": "Фермерство",
     "slovak": "Farmárenie",
     "portuguese": "Agricultura",
+    "japanese": "農業",
   },
   "tech_electronics": {
     "english": "Electronics",
@@ -28,6 +29,7 @@
     "ukrainian": "Електроніка",
     "slovak": "Elektronika",
     "portuguese": "Eletrônica",
+    "japanese": "エレクトロニクス",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -43,6 +45,7 @@
     "ukrainian": "Виробництво сталі",
     "slovak": "Výroba ocele",
     "portuguese": "Produção de aço",
+    "japanese": "鉄鋼生産",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -58,6 +61,7 @@
     "ukrainian": "Зелена наука",
     "slovak": "Zelená veda",
     "portuguese": "Ciência verde",
+    "japanese": "グリーンサイエンス",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -73,6 +77,7 @@
     "ukrainian": "Побутова техніка",
     "slovak": "Domáce spotrebiče",
     "portuguese": "Eletrodomésticos",
+    "japanese": "家電",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -88,6 +93,7 @@
     "ukrainian": "Сонячні панелі",
     "slovak": "Solárne panely",
     "portuguese": "Painéis solares",
+    "japanese": "太陽光発電",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -103,6 +109,7 @@
     "ukrainian": "Поліпшені лопаті вітряних турбін",
     "slovak": "Vylepšená veterná turbína",
     "portuguese": "Turbina eólica aprimoradas",
+    "japanese": "風力発電の改良",
   },
   "techDesc_improvedWindTurbineBlades": {
     "english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -118,6 +125,7 @@
     "ukrainian": "Підлаштовує форму лопатей вітряної турбіни до атмосфери. Це знижує рівень високих перешкод в повітрі, що дозволяє будувати вітряні турбіни ближче одна до одної.",
     "slovak": "Prispôsobuje tvar lopatiek veternej turbíny atmosfére. To vedie k menšiemu rušeniu vo vzduchu, čo vám umožní postaviť veterné turbíny bližšie k sebe.",
     "portuguese": "Adapta o formato das pás da turbina eólica à atmosfera. Isso leva à uma menor perturbação no ar, o que permite construir turbinas eólicas mais próximas umas das outras.",
+    "japanese": "風力発電の羽の形状をこの星の大気に適合させることで風力発電同士の距離を縮めることができます。",
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -133,6 +141,7 @@
     "ukrainian": "Бетонні дороги",
     "slovak": "Betónové cesty",
     "portuguese": "Estradas de concreto",
+    "japanese": "舗装道路",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -148,6 +157,7 @@
     "ukrainian": "Видуботок алюмінію",
     "slovak": "Ťažba hliníka",
     "portuguese": "Extração de alumínio",
+    "japanese": "アルミ採掘",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -163,6 +173,7 @@
     "ukrainian": "Електричні підстанції",
     "slovak": "Elektrické rozvody",
     "portuguese": "Subestações de energia",
+    "japanese": "変電所",
   },
   "techDesc_powerSubstation": {
     "english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -178,6 +189,7 @@
     "ukrainian": "Інтегруйте підстанції у свою електричну мережу, щоб вам не довелось постачати у кожне приміщення електричні стовпи.",
     "slovak": "Integrujte rozvodne do svojej elektrickej siete, aby ste nemuseli zásobovať každú budovu elektrickými stĺpmi.",
     "portuguese": "Integre subestações em sua rede de energia para que você não precise conectar todos os edifícios com postes de energia.",
+    "japanese": "変電所を電力ネットワーク網に統合することで無柱化による電力供給ができます。",
   },
   "tech_motors": {
     "english": "Motors",
@@ -193,6 +205,7 @@
     "ukrainian": "Мотори",
     "slovak": "Motory",
     "portuguese": "Motores",
+    "japanese": "モーター",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -208,6 +221,7 @@
     "ukrainian": "Чотирисмугові дороги",
     "slovak": "Čtvorprúdové diaľnice",
     "portuguese": "Estradas de quatro vias",
+    "japanese": "4車線道路",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -223,6 +237,7 @@
     "ukrainian": "Дороги з одностороннім рухом",
     "slovak": "Jednosmerné cesty",
     "portuguese": "Estradas de mão única",
+    "japanese": "一方通行",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -238,6 +253,7 @@
     "ukrainian": "Великі будівлі",
     "slovak": "Veľké stavby",
     "portuguese": "Grandes edifícios",
+    "japanese": "公園",
   },
   "tech_computers": {
     "english": "Computers",
@@ -253,6 +269,7 @@
     "ukrainian": "Комп'ютери",
     "slovak": "Počítače",
     "portuguese": "Computadores",
+    "japanese": "コンピューター",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -268,6 +285,7 @@
     "ukrainian": "Великі шахти",
     "slovak": "Veľké bane",
     "portuguese": "Grandes mineiradoras",
+    "japanese": "大型採掘機",
   },
   "techDesc_largeMines": {
     "english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -283,6 +301,7 @@
     "slovak": "Zrýchlite ťažbu surovín, aby ste nakŕmili hlad vášho rastúceho mesta",
     "dutch": "Versnel de grondstoffenextractie om de honger van uw stad te stillen.",
     "portuguese": "Acelere a extração de recursos para alimentar a fome de sua cidade em crescimento.",
+    "japanese": "増加する都市への物資供給のために大型採掘機を導入して採掘速度を上げます。",
   },
   "tech_foodProcessing": {
     "english": "Food Processing",
@@ -298,6 +317,7 @@
     "ukrainian": "Харчова промисловість",
     "slovak": "Spracovávanie jedla",
     "portuguese": "Alimentação",
+    "japanese": "食品加工",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -313,6 +333,7 @@
     "ukrainian": "Добрива",
     "slovak": "Hnojivo",
     "portuguese": "Fertilizante",
+    "japanese": "土壌改良",
   },
   "techDesc_fertilizer": {
     "english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -328,6 +349,7 @@
     "ukrainian": "Постачайте ґрунт із добривом на найближчі ферми та значно збільшуйте їхнє виробництво.",
     "slovak": "Distribuje hnojivo do blízkych fariem a výrazne zvyšuje ich produkciu",
     "portuguese": "Forneça solo fertilizado para fazendas próximas e aumente sua produção significativamente.",
+    "japanese": "土壌改良は農場の生産を大幅に増加させます。",
   },
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -343,6 +365,7 @@
     "ukrainian": "Вуглецеві нанотрубки",
     "slovak": "Hliníkové nanotrubice",
     "portuguese": "Nanotubos de carbono",
+    "japanese": "カーボンナノチューブ",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -358,6 +381,7 @@
     "ukrainian": "Самоочисні сонячні панелі",
     "slovak": "Samočistiace solárne panely",
     "portuguese": "Painéis solares autolimpantes",
+    "japanese": "ソーラーパネル自動洗浄",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -373,6 +397,7 @@
     "slovak": "Keď sa vaše solárne panely vyčistia, vaše solárne elektrárne budú generovať oveľa viac energie.",
     "dutch": "Zodra uw zonnepanelen zichzelf kunnen reinigen generen ze veel meer stroom.",
     "portuguese": "Depois que seus painéis solares se limparem, suas fazendas de energia solar irão gerar muito mais energia.",
+    "japanese": "ソーラーパネルを自動洗浄することで太陽光発電は更に多くの電力を生み出します。",
   },
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -388,6 +413,7 @@
     "ukrainian": "Шестисмугові дороги",
     "slovak": "Šesťprúhová diaľnica",
     "portuguese": "Estradas de seis vias",
+    "japanese": "6車線道路",
   },
   "tech_stadiums": {
     "english": "Stadiums",
@@ -403,6 +429,7 @@
     "ukrainian": "Стадіони",
     "slovak": "Štadióny",
     "portuguese": "Estádios",
+    "japanese": "スタジアム",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -418,6 +445,7 @@
     "ukrainian": "Нейронні процесори",
     "slovak": "Neuronové procesory",
     "portuguese": "Processadores neurais",
+    "japanese": "ニューラルプロセッサー",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -433,6 +461,7 @@
     "ukrainian": "Жовта наука",
     "slovak": "Žltá veda",
     "portuguese": "Ciência amarela",
+    "japanese": "イエローサイエンス",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -448,6 +477,7 @@
     "ukrainian": "Видобуток урану",
     "slovak": "Ťažba uránu",
     "portuguese": "Extração de urânio",
+    "japanese": "ウラン採掘",
   },
   "tech_highways": {
     "english": "Highways",
@@ -463,6 +493,7 @@
     "ukrainian": "Шосе",
     "slovak": "Diaľnica",
     "portuguese": "Rodovias",
+    "japanese": "高速道路",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -478,6 +509,7 @@
     "ukrainian": "Супермагістралі",
     "slovak": "Super-diaľnica",
     "portuguese": "Super-rodovias",
+    "japanese": "アウトバーン",
   },
   "tech_homeRobots": {
     "english": "Home Robots",
@@ -493,6 +525,7 @@
     "ukrainian": "Домашні роботи",
     "slovak": "Roboti do domácností",
     "portuguese": "Robôs domésticos",
+    "japanese": "家庭用ロボ",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -508,6 +541,7 @@
     "ukrainian": "Промислові роботи",
     "slovak": "Priemyselný roboti",
     "portuguese": "Robôs industriais",
+    "japanese": "工業用ロボ",
   },
   "techDesc_industrialRobots": {
     "english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -523,6 +557,7 @@
     "slovak": "Zásobuj továrne robotmi aby si znížil počet pracovníku",
     "dutch": "Voorzie uw fabrieken van industriële robots om de hoeveelheid werknemers te beperken.",
     "portuguese": "Abasteça suas fábricas com robôs industriais para reduzir a quantidade de trabalhadores necessária.",
+    "japanese": "工業用ロボを設置することで必要な労働者を減らすことができます。",
   },
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -538,6 +573,7 @@
     "ukrainian": "Фільтр твердих частинок",
     "slovak": "Časticový filter",
     "portuguese": "Filtro de partículas",
+    "japanese": "粒子フィルター",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -553,6 +589,7 @@
     "ukrainian": "Атомна енергія",
     "slovak": "Jadrová Energia",
     "portuguese": "Energia nuclear",
+    "japanese": "原子力",
   },
   "tech_schools": {
     "english": "Schools",
@@ -568,6 +605,7 @@
     "ukrainian": "Школи",
     "slovak": "Školy",
     "portuguese": "Escolas",
+    "japanese": "学校",
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -583,6 +621,7 @@
     "ukrainian": "Видобуток іридію",
     "slovak": "Ťažba iridia",
     "portuguese": "Extração de irídio",
+    "japanese": "イリジウム採掘",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -598,6 +637,7 @@
     "ukrainian": "Переробка відходів",
     "slovak": "Recyklácia",
     "portuguese": "Reciclagem",
+    "japanese": "リサイクル",
   },
   "techDesc_recycling": {
     "english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -613,6 +653,7 @@
     "slovak": "Znižuje spotrebu surovín recykláciou odpadu z okolitých továrňach",
     "dutch": "Verlaag uw grondstoffenverbruik door industrieafval in nabijgelegen fabrieken te verwerken.",
     "portuguese": "Reduza o consumo de recursos processando resíduos industriais em fábricas próximas.",
+    "japanese": "産業廃棄物をリサイクルすることで工場の物資を減少させます。",
   },
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
     "english": "Holo-Displays",
@@ -628,6 +669,7 @@
     "ukrainian": "Гологрофічні дисплеї",
     "slovak": "Holografické obrazovky",
     "portuguese": "Monitore holográficos",
+    "japanese": "ホロディスプレイ",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -643,6 +685,7 @@
     "ukrainian": "Майстерня високих технологій",
     "slovak": "Dielňa pre špičkové technológie",
     "portuguese": "Oficina de alta tecnologia",
+    "japanese": "ハイテクニカルツール",
   },
   "techDesc_highTechWorkshop": {
     "english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -658,6 +701,7 @@
     "slovak": "Zásobujte svoje továrne špičkovými technologickými nástrojmi s cieľom zvýšiť jej produktivitu.",
     "dutch": "Voorzie uw fabrieken van high tech gereedschap om hun productiviteit te verhogen.",	 
     "portuguese": "Abasteça suas fábricas com ferramentas de alta tecnologia para aumentar a produtividade.",
+    "japanese": "ハイテクニカルツールは工場の生産を上昇させます。",
   },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
@@ -673,6 +717,7 @@
     "ukrainian": "Блоки управління ШІ",
     "slovak": "Riadiace jednotky AI",
     "portuguese": "Unidades de contrôle de IA",
+    "japanese": "AI制御ユニット",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -688,6 +733,7 @@
     "ukrainian": "Іридієве паливо",
     "slovak": "Iridiové palivo",
     "portuguese": "Propelente de irídio",
+    "japanese": "イリジウム推進剤",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -703,6 +749,7 @@
     "ukrainian": "Реактор на швидких нейтронах",
     "slovak": "Reaktor na rýchle neutróny",
     "portuguese": "Reator rápido de nêutrons",
+    "japanese": "高速中性子炉",
   },
   "tech_science4": {
     "english": "Red Science",
@@ -718,6 +765,7 @@
     "ukrainian": "Червона наука",
     "slovak": "Červená veda",
     "portuguese": "Ciência vermelha",
+    "japanese": "レッドサイエンス",
   },
   "tech_adamantineMining": {
     "english": "Adamantine Mining",
@@ -733,5 +781,6 @@
     "ukrainian": "Видобуток адамантину",
     "slovak": "Ťažba adamantia",
     "portuguese": "Extração de adamantina",
+    "japanese": "アダマンタイト採掘",
   },
 }
