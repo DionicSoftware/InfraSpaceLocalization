@@ -15,6 +15,7 @@
 		"ukrainian": "Досягніть населення у %amount%% осіб",
 		"slovak": "Dosiahnite populáciu %amount% obyvateľov",
 		"portuguese": "Alcance uma população de %amount% pessoas",
+		"hungarian": "Érj el %amount% számú populációt",
 	},
 	"populationGoalText": {
 		"english": "%current% / %required% people",
@@ -31,6 +32,7 @@
 		"ukrainian": "%current% / %required% жителів",
 		"slovak": "%current% z %required% obyvateľov",
 		"portuguese": "%current% / %required% pessoas",
+		"hungarian": "%current% / %required% lakos",
 	},
 	"buildingGoalText": {
 		"english": "Build a %buildingName%",
@@ -47,6 +49,7 @@
 		"ukrainian": "Побудуйте %buildingName%",
 		"slovak": "Postavaj %buildingName%",
 		"portuguese": "Construa um %buildingName%",
+		"hungarian": "Építsd fel: %buildingName%",
 	},
 	"researchGoalText": {
 		"english": "Research %techName%",
@@ -63,6 +66,7 @@
 		"ukrainian": "Дослідіть %techName%",
 		"slovak": "Vyskúmaj %techName%",
 		"portuguese": "Pesquise %techName%",
+		"hungarian": "Kutasd ki: %techName%",
 	},
 	"researchGoalText2": {
 		"english": "Click on the science pack factory to see which resources are needed.",
@@ -79,6 +83,7 @@
 		"ukrainian": "Натисніть на завод наукових пакетів, щоби дізнатися про потрібні ресурси.",
 		"slovak": "Klikni na továrnu na vedecké balíky, aby si zistil, aké suroviny sú potrebné.",
 		"portuguese": "Clique na fábrica do pacote de ciências para ver quais recursos são necessários.",
+		"hungarian": "Kattints a tudományos csomag gyárra, hogy lásd milyen nyersanyagok kellenek.",
 	},
 	"tutorial_buildRoad": {
 		"english": "Build a road next to sulfur and iron.",
@@ -95,6 +100,7 @@
 		"ukrainian": "Побудуйте дорогу поруч із сіркою та залізом.",
 		"slovak": "Postav cestu vedľa síry a železa",
 		"portuguese": "Construa uma estrada próxima ao enxofre e ao ferro.",
+		"hungarian": "Építs utat kén és vas közelébe.",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads": {
 		"english": "You can place your buildings next to roads.",
@@ -111,6 +117,7 @@
 		"ukrainian": "Ви можете розміщувати свої споруди поруч із дорогами.",
 		"slovak": "Budovy môžeš postaviť pozdĺž ciest",
 		"portuguese": "Você pode colocar seus edifícios próximos a estradas.",
+		"hungarian": "Az épületeid utak mellé tudod építeni.",
 	},
 	"upgradeGoalText": {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -127,6 +134,7 @@
 		"ukrainian": "Задовольняйте потреби своїх мешканців, поки вони автоматично не перейдуть на новий рівень.",
 		"slovak": "Uspokojením potrieb vaších obyvateľov, výsledkom je automatické vylepšenie domu",
 		"portuguese": "Satisfaça as necessidades de suas moradias até que elas se atualizem automaticamente.",
+		"hungarian": "Tegyél elérhetővé elég szükséges nyersanyagot a lakóhelyeid számára, amíg azok automatikusan felfejlődnek.",
 	},
 	"tutorialFinishedTitle": {
 		"english": "You finished the tutorial!",
@@ -143,6 +151,7 @@
 		"ukrainian": "Ви завершили навчання!",
 		"slovak": "Dokončil si návod!",
 		"portuguese": "Você terminou o tutorial!",
+		"hungarian": "Végeztél az oktatóanyaggal!",
 	},
 	"tutorialFinishedText": {
 		"english": "Congrats! You're now ready to make your city great!",
@@ -159,6 +168,7 @@
 		"ukrainian": "Вітаємо! Тепер ви готові до того, щоб зробити найвеличніше місто!",
 		"slovak": "Gratulujeme! Teraz si pripravený postaviť si skvelé mesto!",
 		"portuguese": "Parabéns! Agora você está pronto para tornar sua cidade incrível!",
+		"hungarian": "Gratulálok! Készen állsz, hogy egy remek várost építs!",
 	},
 	"tutorial_concreteProduction": {
 		"english": "Concrete Production for Roads",
@@ -175,6 +185,7 @@
 		"ukrainian": "Виробництво бетону для доріг",
 		"slovak": "Produkcia betonu na cesty",
 		"portuguese": "Produção de concreto para estradas",
+		"hungarian": "Beton termelés az utakhoz",
 	},
 	"tutorial_roadConnections": {
 		"english": "Road Connections",
@@ -191,6 +202,7 @@
 		"ukrainian": "З'єднання доріг",
 		"slovak": "Dialničné spojenie",
 		"portuguese": "Conexões rodoviárias",
+		"hungarian": "Utak csatlakozása",
 	},
 	"tutorial_powerGeneration": {
 		"english": "Power Generation",
@@ -207,6 +219,7 @@
 		"ukrainian": "Генерація енергії",
 		"slovak": "Výroba elektriny",
 		"portuguese": "Geração de energia",
+		"hungarian": "Áram generálás",
 	},
 	"tutorial_storage": {
 		"english": "Storing the Concrete",
@@ -223,6 +236,7 @@
 		"ukrainian": "Зберігання бетону",
 		"slovak": "Skladovanie betónu",
 		"portuguese": "Armazenando o concreto",
+		"hungarian": "Beton tárolása",
 	},
 	"tutorial_lifeSupport": {
 		"english": "Life Support",
@@ -239,6 +253,7 @@
 		"ukrainian": "Життєзабезпечення",
 		"slovak": "Podpora života",
 		"portuguese": "Suporte à vida",
+		"hungarian": "Létszükségleti rendszer",
 	},
 	"tutorial_newcomers": {
 		"english": "Accepting Newcomers",
@@ -255,6 +270,7 @@
 		"ukrainian": "Прийом новачків",
 		"slovak": "Príjimanie nových obyvateľov",
 		"portuguese": "Aceitando recém-chegados",
+		"hungarian": "Újonnan érkezők",
 	},
 	"tutorial_growingTown": {
 		"english": "Growing the Town",
@@ -271,6 +287,7 @@
 		"ukrainian": "Зростання міста",
 		"slovak": "Rast mesta",
 		"portuguese": "Aumentando a cidade",
+		"hungarian": "Város fejlődése",
 	},
 	"tutorial_research": {
 		"english": "Research",
@@ -287,6 +304,7 @@
 		"ukrainian": "Дослідження",
 		"slovak": "Výskum",
 		"portuguese": "Pesquisa",
+		"hungarian": "Kutatás",
 	},
 	"tutorial_roads": {
 		"english": "Use roads to connect the mines with the concrete factory",
@@ -303,6 +321,7 @@
 		"ukrainian": "Використовуйте дороги для з'єднання шахти з бетонним заводом.",
 		"slovak": "Použite cesty na spojenie baní s továrňou na betón",
 		"portuguese": "Use estradas para conectar as mineradoes à fábrica de concreto",
+		"hungarian": "Használj utakat, hogy összekösd a bányát a beton gyárral",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
@@ -319,6 +338,7 @@
 		"ukrainian": "Використовуйте енергетичні стовпи для під’єднання всіх будівель до вітряної турбіни.",
 		"slovak": "Použi elektrické stĺpy pre prepojenie budov s veternou turbínou",
 		"portuguese": "Use postes de energia para conectar todos os edifícios à sua turbina eólica",
+		"hungarian": "Használj villanyoszlopokat, hogy az épületeid rákösd az áramtermelőre",
 	},
 	"tutorialNotification": {
 		"english": "Tutorial: %tutorialName%",
@@ -335,6 +355,7 @@
 		"ukrainian": "Посібник: %tutorialName%",
 		"slovak": "Návod: %tutorialName%",
 		"portuguese": "Tutorial: %tutorialName%",
+		"hungarian": "Oktatóanyag: %tutorialName%",
 	},
 	"tutorial_dashboardInfoPanel": {
 		"english": "Quick City Info",
@@ -351,6 +372,7 @@
 		"ukrainian": "Короткий огляд міста",
 		"slovak": "Informácie o meste",
 		"portuguese": "Informações rápidas sobre a cidade",
+		"hungarian": "Város információk",
 	},
 	"tutorialMessage_dashboardInfoPanel_title": {
 		"english": "Quick City Info",
@@ -367,6 +389,7 @@
 		"ukrainian": "Короткий огляд міста",
 		"slovak": "Informácie o meste",
 		"portuguese": "Informações rápidas sobre a cidade",
+		"hungarian": "Város információk",
 	},
 	"tutorialMessage_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
@@ -383,6 +406,7 @@
 		"ukrainian": "Ця панель надає вам швидкий огляд вашого міста.\n\nУ верхньому ряді показана кількість наявного у вас бетону й сталі. Для будівництва вам знадобляться обидва матеріали. Третя піктограма вказує, чи достатньо у вашому місті енергії.\n\nУ нижньому ряді вказана кількість мешканців вашого міста, кількість доступного житла й необхідна кількість робітників. Якщо у вас недостатньо робітників, щоби заповнити робочі місця, ваші заводи не працюватимуть ефективно. Також переконайтеся, щоб у вас було достатньо безкоштовного житла, щоби в нього могли в’їхати нові робітники.",
 		"slovak": "Tento panel ti dá rýchly prehľad o tvojom meste. \n\nHorný riadok ukazuje koľko betónu a ocele je k dispozícii. Oba materiály potrebuješ na stavbu budov. Tretia ikona ukazuje či máš v meste dosť elektriny.\n\nSpodní riadok ukazuje koľko ľudí žije v tvojom meste, koľko pracovníkov je potreba a koľko je maximálna kapacita všetkých domov. Ak nemáš dosť pracovníkov, potom výroba v továrňach nebude tak efektívna. Tiež si dávaj pozor na to, aby si mal v domoch dosť miesta pre novo prichádzajúcich pracovníkov.",
 		"portuguese": "Este painel oferece uma visão geral e rápida de sua cidade.\n\nA linha superior mostra quanto concreto e aço você tem disponível. Você precisa de ambos os materiais para construir edifícios. O terceiro ícone mostra se você tem energia suficiente em sua cidade.\n\nA linha inferior mostra quantas pessoas vivem em sua cidade, quantos trabalhadores são necessários e quantas moradias estão disponíveis. Se você não tiver trabalhadores suficientes para preencher a maioria dos empregos, suas fábricas não funcionarão de maneira eficiente. Além disso, certifique-se de ter moradias livres o suficiente para os novos trabalhadores se mudarem.",
+		"hungarian": "Ez az ablak egy gyors összefoglaló a városodról.\n\nA felső sor mutatja mennyi betonod és acélod van. Ezek a nyersanyagok szükségesek, hogy épületeket építs. A harmadik ikon mutatja, hogy elegendő-e az áramforrás a városodba.\n\nAz alsó sor azt mutatja mennyien laknak a városodba, mennyi munkásra van szükség, és mennyi lakóhely elérhető. Ha nincs elég munkásod, az épületek hatékonysága romlik. Arról se feledkezz meg, hogy legyen elegendő lakóhelyed új lakosok számára.",
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -399,6 +423,7 @@
 		"ukrainian": "Зрозуміло!",
 		"slovak": "Chápem!",
 		"portuguese": "Entendi!",
+		"hungarian": "Értettem!",
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
@@ -415,6 +440,7 @@
 		"ukrainian": "Пропустити наступні посібники",
 		"slovak": "Preskočiť návod",
 		"portuguese": "Pular os próximos tutoriais",
+		"hungarian": "Következő oktatóanyagok kihagyása",
 	},
 	"tutorialQuestion_title": { // shown at start of first game
 		"english": "Welcome to InfraSpace!",
@@ -431,6 +457,7 @@
 		"ukrainian": "Ласкаво просимо у InfraSpace!",
 		"slovak": "Vítaj v InfraSpace!",
 		"portuguese": "Bemvindo ao InfraSpace!",
+		"hungarian": "Üdvözöllek az InfraSpace játékban!",
 	},
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
@@ -447,6 +474,7 @@
 		"ukrainian": "Чи хочете ви отримувати підказки під час гри?\n\nВи також можете ввімкнути / вимкнути їх у налаштуваннях.",
 		"slovak": "Chceš v priebehu hry zobrazovať nápovedu?\n\nTúto možnosť môžeš vypnúť/zapnúť v nastaveniach",
 		"portuguese": "Deseja obter dicas do tutorial enquanto joga?\n\nVocê também pode ativá-las / desativá-las nas configurações.",
+		"hungarian": "Szeretnél oktatóanyagokat miközben játszol?\n\nKésőbb is ki/be kapcsolhatod a beállításokban.",
 	},
 	"tutorialMessage_goalPanel_title": {
 		"english": "Making your first city",
@@ -463,6 +491,7 @@
 		"ukrainian": "Створення вашого першого міста",
 		"slovak": "Postav svoje prvé mesto",
 		"portuguese": "Criando sua primeira cidade",
+		"hungarian": "Első város létrehozása",
 	},
 	"tutorialMessage_goalPanel_desc": {
 		"english": "This panel will guide you through the necessary steps to create your first stable city and research some tech.",
@@ -479,6 +508,7 @@
 		"ukrainian": "Ця панель проведе вас через необхідні кроки для створення вашого першого стабільного міста та дослідження деяких технологій.",
 		"slovak": "Tento panel ťa prevedie nutnými krokmi pre prvé samostatné mesto a vyskúmom prvých technológií.",
 		"portuguese": "Este painel o guiará pelas etapas necessárias para criar sua primeira cidade estável e pesquisar alguma tecnologia.",
+		"hungarian": "Ez az ablak segít pár lépésben, hogy elkészítsd első stabil városod és kikutass pár technológiát.",
 	},
 	"tutorialMessage_constructionMenu_title": {
 		"english": "Construction Menu",
@@ -495,6 +525,7 @@
 		"ukrainian": "Будівельне меню",
 		"slovak": "Stavebné menu",
 		"portuguese": "Menu de construção",
+		"hungarian": "Építési menü",
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
@@ -511,6 +542,7 @@
 		"ukrainian": "Ви можете клацнути тут, щоб будувати дороги та будівлі, переміщувати їх і руйнувати.",
 		"slovak": "Sem môžeš kliknúť pre stavbu ciest a budov, ich premiestnenie a demolíciu.",
 		"portuguese": "Você pode clicar aqui para construir estradas e edifícios, movê-los e destruí-los.",
+		"hungarian": "Ide kattinthatsz ha épületeket vagy utakat akarsz építeni, mozgatni vagy lerombolni.",
 	},
 	"tutorialMessage_cameraMovement_title": {
 		"english": "Camera Movement",
@@ -527,6 +559,7 @@
 		"ukrainian": "Пересування камери",
 		"slovak": "Pohyb kamerou",
 		"portuguese": "Movimento da câmera",
+		"hungarian": "Kamera mozgás",
 	},
 	"tutorialMessage_cameraMovement_desc": {
 		"english": "By default, you can move the camera with your arrow keys, WASD, or by moving your mouse to the edge of your screen.\n\nPress the middle mouse button and drag move your mouse to rotate your view.",
@@ -543,6 +576,7 @@
 		"ukrainian": "Стандартно ви можете рухати камеру за допомогою клавіш зі стрілками, WASD або переміщенням вказівника миші до краю екрана.\n\nНатисніть середню кнопку миші та перетягніть мишку, щоб обертати мапу.",
 		"slovak": "V základnom nastavený kamerou pohybuješ pomocí šípok, WASD alebo pohybom myšou na okraj obrazovky.\n\nStlačením kolieska myši a následným pohybom myši, môžeš otáčať kamerou.",
 		"portuguese": "Por padrão, você pode mover a câmera com as teclas de seta, WASD, ou movendo o mouse para a borda da tela.\n\nPressione o botão do meio do mouse e arraste o mouse para girar sua visualização.",
+		"hungarian": "Alap beállításokon, a kamerát mozgathatod nyilakkal, WASD, vagy ha az egeret a képernyő szélére viszed.\n\nElforgatáshoz tartsd lenyomva a középső egérgombot majd mozgasd az egeret.",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -559,6 +593,7 @@
 		"ukrainian": "Необхідні ресурси",
 		"slovak": "Potrebné suroviny",
 		"portuguese": "Recursos nécessários",
+		"hungarian": "Szükséges nyersanyagok",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_desc": {
 		"english": "You need to provide these things in order to get people to move in.",
@@ -575,6 +610,7 @@
 		"ukrainian": "Ви повинні надати ці ресурси, щоб люди змогли сюди переїхати.",
 		"slovak": "Potrebuješ zaistiť tieto veci, aby sa ľudia nasťahovali",
 		"portuguese": "Você precisa fornecer essas coisas para que as pessoas se mudem.",
+		"hungarian": "Biztosítanod kell ezeket a dolgokat ahhoz, hogy emberek beköltözzenek.",
 	},
 	"tutorialMessage_habitatInfoNextResources_title": {
 		"english": "Upgrade Resources",
@@ -591,6 +627,7 @@
 		"ukrainian": "Ресурси для поліпшення",
 		"slovak": "Vylepšovanie domu",
 		"portuguese": "Recursos de atualização",
+		"hungarian": "Fejlessz nyersanyagot",
 	},
 	"tutorialMessage_habitatInfoNextResources_desc": {
 		"english": "If you manage to provide these things, the habitat will upgrade to the next level.",
@@ -607,6 +644,7 @@
 		"ukrainian": "Коли ви надасте ці речі, середовище проживання перейде на наступний рівень.",
 		"slovak": "Pokiaľ dokážeš zaistiť tieto veci, dom sa vylepší na ďalšiu úroveň.",
 		"portuguese": "Se você conseguir fornecer essas coisas, a moradia será atualizada para o próximo nível.",
+		"hungarian": "Ha elérhetővé tudod tenni ezeket a dolgokat, a lakóhely a következő szintre fejlődik.",
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -623,6 +661,7 @@
 		"ukrainian": "Рівні міста",
 		"slovak": "Úrovne mesta",
 		"portuguese": "Níveis de cidade",
+		"hungarian": "Város szintek",
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -639,6 +678,7 @@
 		"ukrainian": "Рівні міста",
 		"slovak": "Úrovne mesta",
 		"portuguese": "Níveis de cidade",
+		"hungarian": "Város szintek",
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -655,6 +695,7 @@
 		"ukrainian": "На цій панелі показана кількість мешканців у кожному типі середовища проживання.\n\nВам необхідно поновити середовище проживання, щоби перейти на наступний рівень міста.",
 		"slovak": "Tento panel ti ukazuje, koľko ľudí žije v každom typu domu.\n\nPre zvýšenie úrovne mesta je nutné ich domy vylepšiť.",
 		"portuguese": "Este painel mostra quantas pessoas estão vivendo em cada tipo de moradia.\n\nVocê precisa atualizar suas moradias para chegar ao próximo nível de cidade.",
+		"hungarian": "Ez az ablak mutatja mennyien laknak a különböző szintű lakóhelyeken.\n\nFejleszd a lakóhelyeket, hogy következő városi szintre lépj.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -671,6 +712,7 @@
 		"ukrainian": "Рівні міста",
 		"slovak": "Úrovne mesta",
 		"portuguese": "Níveis de cidade",
+		"hungarian": "Város szintek",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -687,6 +729,7 @@
 		"ukrainian": "Перевірте смугу поступу, щоби дізнатися кількість мешканців, яким потрібно поліпшити житло, щоби перейти на наступний рівень.",
 		"slovak": "Sleduj ukazovateľ priebehu vylepšení, aby si vedel, koľko obyvateľov potrebuje lepší domov pre zvýšenie úrovne mesta.",
 		"portuguese": "Verifique a barra de progresso para ver quantos cidadãos precisam de uma moradia melhor para alcançar o próximo nível.",
+		"hungarian": "Nézd meg mennyi lakos szükséges a jelenlegi szinten, hogy elérd a következő városi szintet.",
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
@@ -703,6 +746,7 @@
 		"ukrainian": "Пріоритезація робіт",
 		"slovak": "Priorita produkcie",
 		"portuguese": "Priorização de empregos",
+		"hungarian": "Munka fontossági sorrend",
 	},
 	"tutorialMessage_productionPanel_title": {
 		"english": "Production Overview",
@@ -719,6 +763,7 @@
 		"ukrainian": "Огляд виробництва",
 		"slovak": "Prehľad produkcie",
 		"portuguese": "Visão geral da produção",
+		"hungarian": "Termelés összegzése",
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
@@ -735,6 +780,7 @@
 		"ukrainian": "Перевірте показники вирбництва та споживання у своєму місті, щоб дізнатись, чи достатньо ви виробляєте для задоволення попиту.\n\nЯкщо ви хочете поповнювати запаси, вам потрібно виробляти більше, ніж ви споживаєте!",
 		"slovak": "Sleduj velľkosť produkcie a dopytu, aby si vedel, či tvoje mesto produkuje dsotatok surovín.\n\nPokiaľ chceš zaplniť skladisko, musíš vyrábať viac než potrebuješ!",
 		"portuguese": "Verifique os números de produção e consumo de sua cidade para ver se você está produzindo o suficiente para atender à demanda.\n\nSe quiser encher os estoques, você precisa produzir mais do que consome!",
+		"hungarian": "Nézd meg a termelési és fogyasztási számokat a városodhoz, hogy lásd eleget termelsz-e és lépést tudj tartani a kereslettel.\n\nHa szeretnél felhalmozni készletet, akkor többet termelj, mint használj!",
 	},
 	"tutorialMessage_productionPanelPrioBars_title": {
 		"english": "Jobs Prioritization",
@@ -751,6 +797,7 @@
 		"ukrainian": "Пріоритизація робіт",
 		"slovak": "Priorita práce",
 		"portuguese": "Priorização de empregos",
+		"hungarian": "Munka fontossági sorrend",
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
 		"english": "If you don't have enough workers, use the sliders to move your workforce into the most important jobs.",
@@ -767,5 +814,6 @@
 		"ukrainian": "Якщо вам не вистачає робітників, використовуйте повзунки, щоб перемістити вашу робочу силу на найважливіші робочі місця.",
 		"slovak": "Pokiaľ nemáš dostatok pracovníkov, použi posuvníky pre presunutie pracovnikov na najdôležitejšiu prácu.",
 		"portuguese": "Se você não tiver trabalhadores suficientes, use os controles deslizantes para mover sua força de trabalho para as funções mais importantes.",
+		"hungarian": "Ha nincs elegendő munkásod, akkor használd a csúszkát, hogy a fontosabb munkákhoz oszd be őket.",
 	},
 }
