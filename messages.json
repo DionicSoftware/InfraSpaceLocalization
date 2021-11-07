@@ -29,7 +29,7 @@
 		"ukrainian": "Вітаємо, ваше місто тільки що досягло %cityLevel% рівня. Ви відкрили нові технології та дослідження.",
 		"slovak": "Gralujeme tvoje mesto dosiahlo úrovne %cotyLevel%. Odomkli sa vám nové budovy a technológie pre výzkum.",
 		"portuguese": "Parabéns, sua cidade acabou de atingir o nível %cityLevel%. Você desbloqueou novas tecnologias para pesquisar.",
-		"hungarian": "Gratulálunk, a városod elérte a %cityLevel%. szintet. Elérehtők lettek új technologiák és kutatások.",
+		"hungarian": "Gratulálunk, a városod elérte a %cityLevel%. szintet. Elérhetők lettek új technológiák és kutatások.",
 	},
 	"message_cityLevelDownTitle": {
 		"english": "City demoted!",
@@ -61,7 +61,7 @@
 		"ukrainian": "Ви не змогли забезпечити своїх громадян усім необхідним. Рівень вашого міста знижених доти, доки ви не виправите ситуацію",
 		"slovak": "Zlyhal si v zásobovaní tvojich obyvatelov. Tvoje mesto bude degradované pokiaľ sa situácia nezlepší.",
 		"portuguese": "Você falhou em prover para seus cidadãos. Sua cidade foi rebaixada até que você possa reverter a situação.",
-		"hungarian": "Nem tudtál eleget tenni a lakóid elvárásainak. A városod addig kissebb szintü lesz, amíg a feltételek el nem lesznek érve.",
+		"hungarian": "Nem tudtál eleget tenni a lakóid elvárásainak. A városod addig kisebb szintű lesz, amíg a feltételek nem teljesülnek.",
 	},
 	"attention": {
 		"english": "Attention!",
