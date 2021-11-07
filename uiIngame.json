@@ -232,7 +232,7 @@
 		"russian": "Выберите технологию для исследования",
 		"chinese": "选择技术研究",
 		"italian": "Seleziona la tecnologia da ricercare",
-		"japanese": "テクノロジー一覧",
+		"japanese": "テクノロジー",
 		"polish": "Wybierz technologię do zbadania",
 		"ukrainian": "Оберіть технологію для дослідження.",
 		"slovak": "Vyber technológiu na výskum",
@@ -893,6 +893,7 @@
 		"slovak": "Tiež zmení smer cesty, ak nemáte vybratú náhradnú cestu",
 		"portuguese": "Também inverte a direção da estrada se você não tiver uma estrada substituta selecionada",
 		"czech": "Změní směr cesty, pokud nemáte vybranou náhradní cestu",
+		"japanese": "選択されていない道路も進行方向が逆になります",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -905,6 +906,7 @@
 		"slovak": "Opačná cesta",
 		"portuguese": "inverter estrada",
 		"czech": "Zpáteční cesta",
+		"japanese": "反転",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
