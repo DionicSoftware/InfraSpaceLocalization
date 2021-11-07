@@ -109,7 +109,7 @@
     "ukrainian": "Поліпшені лопаті вітряних турбін",
     "slovak": "Vylepšená veterná turbína",
     "portuguese": "Turbina eólica aprimoradas",
-    "japanese": "風力発電の改良",
+    "japanese": "風力発電機の改良",
   },
   "techDesc_improvedWindTurbineBlades": {
     "english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -125,7 +125,7 @@
     "ukrainian": "Підлаштовує форму лопатей вітряної турбіни до атмосфери. Це знижує рівень високих перешкод в повітрі, що дозволяє будувати вітряні турбіни ближче одна до одної.",
     "slovak": "Prispôsobuje tvar lopatiek veternej turbíny atmosfére. To vedie k menšiemu rušeniu vo vzduchu, čo vám umožní postaviť veterné turbíny bližšie k sebe.",
     "portuguese": "Adapta o formato das pás da turbina eólica à atmosfera. Isso leva à uma menor perturbação no ar, o que permite construir turbinas eólicas mais próximas umas das outras.",
-    "japanese": "風力発電の羽の形状をこの星の大気に適合させることで風力発電同士の距離を縮めることができます。",
+    "japanese": "風力発電機の羽の形状をこの星の大気に適合させることで風力発電所の距離を縮めることができます。",
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -381,7 +381,7 @@
     "ukrainian": "Самоочисні сонячні панелі",
     "slovak": "Samočistiace solárne panely",
     "portuguese": "Painéis solares autolimpantes",
-    "japanese": "ソーラーパネル自動洗浄",
+    "japanese": "自動洗浄ソーラーパネル",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -397,7 +397,7 @@
     "slovak": "Keď sa vaše solárne panely vyčistia, vaše solárne elektrárne budú generovať oveľa viac energie.",
     "dutch": "Zodra uw zonnepanelen zichzelf kunnen reinigen generen ze veel meer stroom.",
     "portuguese": "Depois que seus painéis solares se limparem, suas fazendas de energia solar irão gerar muito mais energia.",
-    "japanese": "ソーラーパネルを自動洗浄することで太陽光発電は更に多くの電力を生み出します。",
+    "japanese": "自動洗浄機能を備えたソーラーパネルの太陽光発電機は更に多くの電力を生み出します。",
   },
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
