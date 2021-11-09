@@ -58,7 +58,7 @@ Infraspace je Sci-Fi Stavanie Mesta - ale každý zdroj, ktorý vyrába, musí p
 O InfraSpace é um construtor de cidades - mas cada recurso produzido precisa passar por uma infraestrutura de transporte. Para prosperar neste sistema solar, você não só terá que minerar e gerenciar a produção, mas também se certificar de que a infraestrutura está à altura da tarefa.
 
 ### Hungarian
-Az InfraSpace egy sci-fi város építő - de minden alapanyag amit előállítasz végig kell hogy menjen a szállítási infrastruktúrádon. Ahhoz, hogy gyarapodni tudj ebben a csillagrendszerben, nem csak bányászati műveleteket kell kezdeni, de még a gyártást és az utaidat is felügyelned kell.
+Az InfraSpace egy sci-fi város építő - de minden alapanyag amit előállítasz végig kell hogy menjen a szállítási infrastruktúrádon. Ahhoz, hogy gyarapodni tudj ebben a csillagrendszerben, nem csak bányászati műveleteket kell kezdeni, de még a termelésedet és az utaidat is felügyelned kell.
 
 # Long Description - Translation Disclaimer
 *******************************************
@@ -203,9 +203,9 @@ Depois de ter um pouco de ferro, carbono, areia e enxofre, é hora de montar sua
 ### Hungarian
 Termelj meg mindent amit felhasználsz
 
-Az emberek által felfedezett űr határain nem építhetsz egy várost kreditekből. Ehelyett neked az első asztronautáidat bányászni, nyersanyagot gyűjteni kell küldened.
+Az emberek által felfedezett űr határain nem építhetsz egy várost kreditekből. Ehelyett neked kell az első asztronautáidat elküldened bányászni, nyersanyagot gyűjteni.
 
-Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomítódat és betongyáradat megépíteni az infrastruktúra alapjainak lefektetése érdekében. Ám másszükségleteknek is eleget kell majd tenned, az étel és oxigén megbízható gyártósort igényel, ami nem állhat meg. 
+Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomítódat és betongyáradat megépíteni az infrastruktúra alapjainak lefektetése érdekében. Ám más szükségleteknek is eleget kell majd tenned, az étel és oxigén megbízható gyártósort igényel, ami nem állhat meg. 
 
 
 # Long Description - Transport Section
@@ -290,7 +290,7 @@ O InfraSpace simula carro individualmente. Cada recurso que você produz precisa
 
 Sua rede rodoviária pode lidar com muita coisa, mas sem sua supervisão ela irá parar e eventualmente se afogar no tráfego. Construa rodovias, rotatórias e estradas com várias faixas para garantir que o centro de produção da cidade continue funcionando.
 
-### Hungarian
+### Hungarian !
 
 A játék figyelemmel követ minden. egyes. autót. Minden anyagot amit csak előállítasz el kell szállítanod egy gyárba átdolgozáshozés ezután a terméknek egy lakásba felhasználásra.
 
@@ -379,9 +379,9 @@ Seus primeiros colonos serão astronautas, os melhores e mais corajosos que a hu
 ### Hungarian
 Népesedés
 
-Az első lakosaid asztronauták lesznek, a legjobbak, legbátrabbak amit az emberiség kínálhat. Szolgálj nekik élelemmel, lakhatással és ők cserébe aktívan tartják az előőrsöd bármi is történjen.
+Az első lakosaid az asztronauták lesznek, a legjobbak, legbátrabbak amiket az emberiség kínálhat. Szolgáltass nekik élelmet, lakhatást és ők cserébe aktívan tartják az előőrsöd bármi is történjen.
 
-Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hogy tudósokat és mérnököket alkalmazol, akiknek egy kicsit magasabb elvárásaik is lesznek. Bármely város megfelelő népességgel előbb utóbb több és több családnak fog helyet adni szóval érd el, hogy az iskoláid fel legyenek készülve és képesek legyenek a legújabb VR okatóanyagok átadására! 
+Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hogy tudósokat és mérnököket alkalmazol, akiknek egy kicsit magasabb elvárásaik is lesznek. Bármely város elegendő népességgel előbb utóbb több és több családnak fog helyet adni érd el, hogy az iskoláid fel legyenek készülve és képesek legyenek a legújabb VR okatóanyagok átadására! 
 
 
 # Long Description - End Goal Section
@@ -487,11 +487,11 @@ Você pode escolher ignorar o objetivo final e apenas construir livremente no mo
 ### Hungarian
 A végső cél
 
-Az emberiség felfedezte, hogyan készítsen mesterséges féreglyukakat, hogy hatalmas távolságokat tudjanak ugrani az űrben. Sajnos ezek méretes portálokat igényelnek - a megszokottnál sokkal több asztronautára lesz szükséged egy ilyenhez.
+Az emberiség feltalálta a mesterséges féreglyukakat, hogy hatalmas távolságokat tudjanak ugrani az űrben. Sajnos ezek méretes portálokat igényelnek - a megszokottnál sokkal több asztronautára lesz szükséged egy ilyenhez.
 
-Ahogy az emberiség űrbéli hódításai folytatódnak, rád hárul a felelősség, hogy építs egy Előőrsöt messze a városodtól, ami képes lesz nagyon nagy mennyiségű anyagokat és munkaerőt felhasználva építeni egy ilyen portált.
+Ahogy az emberiség űrbéli hódításai folytatódnak, rád hárul a felelősség, hogy építs egy előőrsöt messze a városodtól, ami képes lesz nagyon nagy mennyiségű anyagokat és munkaerőt felhasználva építeni egy ilyen portált.
 
-Ám természetesen választhatod azt is, hogy kihagyod ezt a célt, és szabadon építgetsz a végtelen módban ha jobban illik ez a városod stílusához.
+Ám természetesen választhatod azt is, hogy kihagyod ezt a célt, és szabadon építhetsz a végtelen módban ha jobban illik ez a városod stílusához.
 
 # Long Description - Difficulty Section
 ***************************************
@@ -554,4 +554,4 @@ O gerenciamento do tráfego pode ser inconstante e a sobrevivência pode ser dif
 ### Hungarian
 Nem kell túlterhelned magad
 
-A forgalomirányítás lehet ingatag, a túlélés lehet nehéz. Mindkettőn változtathatsz, hogy olyan könnyű - vagy éppen nehéz - legyen, amilyenre csak szeretnéd.
+A forgalomirányítás lehet ingatag, a túlélés lehet nehéz. Mindkettőn változtathatsz, hogy olyan könnyű - vagy éppen nehéz - legyen, amilyennek csak szeretnéd.
