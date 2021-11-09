@@ -14,6 +14,7 @@
 		"slovak": "Úroveň mesta sa zvýšila",
 		"portuguese": "Cidade subiu de nível!",
 		"hungarian": "Város szintlépés!",
+		"japanese": "都市レベルが上がりました！",
 	},
 	"message_cityLevelUpText": {
 		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
@@ -30,6 +31,7 @@
 		"slovak": "Gralujeme tvoje mesto dosiahlo úrovne %cotyLevel%. Odomkli sa vám nové budovy a technológie pre výzkum.",
 		"portuguese": "Parabéns, sua cidade acabou de atingir o nível %cityLevel%. Você desbloqueou novas tecnologias para pesquisar.",
 		"hungarian": "Gratulálunk, a városod elérte a %cityLevel%. szintet. Elérhetők lettek új technológiák és kutatások.",
+		"japanese": "おめでとうございます。都市は%cityLevel%になり新たなテクノロジーが解除されました。",
 	},
 	"message_cityLevelDownTitle": {
 		"english": "City demoted!",
@@ -46,6 +48,7 @@
 		"slovak": "Mesto sa degradovalo!",
 		"portuguese": "Cidade rebaixada!",
 		"hungarian": "Város szintesés!",
+		"japanese": "都市レベルが下がりました！",
 	},
 	"message_cityLevelDownText": {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
@@ -62,6 +65,7 @@
 		"slovak": "Zlyhal si v zásobovaní tvojich obyvatelov. Tvoje mesto bude degradované pokiaľ sa situácia nezlepší.",
 		"portuguese": "Você falhou em prover para seus cidadãos. Sua cidade foi rebaixada até que você possa reverter a situação.",
 		"hungarian": "Nem tudtál eleget tenni a lakóid elvárásainak. A városod addig kisebb szintű lesz, amíg a feltételek nem teljesülnek.",
+		"japanese": "都市運営の失敗により現状の都市レベルを維持できなくなりました。",
 	},
 	"attention": {
 		"english": "Attention!",
@@ -78,6 +82,7 @@
 		"slovak": "Pozor!",
 		"portuguese": "Atenção!",
 		"hungarian": "Figyelem!",
+		"japanese": "注意！",
 	},
 	"message_debugModeText": {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
@@ -94,5 +99,6 @@
 		"slovak": "Developerský režim sa používa pre vývoj. Jeho zapnutím môžeš naraziť na chyby.",
 		"portuguese": "O modo de depuração deve ser usado no desenvolvimento. Se você habilitar o modo de depuração, poderá obter erros.",
 		"hungarian": "A hibakeresési mód a játékfejlesztéshez van. Ha engedélyezed, lehet, hogy hibákkal fogsz találkozni.",
+		"japanese": "デバッグモードは開発で使用するためのものです。デバッグモードを有効にするとバグが発生する可能性があります。",
 	},
 }
