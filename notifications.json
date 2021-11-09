@@ -14,6 +14,7 @@
 		"slovak": "Nedostatok energie v sieti %networkId%",
 		"portuguese": "Sem energia suficiente na rede %networkId%",
 		"hungarian": "Nincs elég áram itt: Hálózat %networkId%",
+		"japanese": "電力ネットワーク網:No.%networkId%の電力が不足しています。",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -30,6 +31,7 @@
 		"slovak": "Vyberte výskum",
 		"portuguese": "Selecione uma pesquisa",
 		"hungarian": "Válassz kutatást",
+		"japanese": "研究が行われていません。",
 	},
 	"notEnoughWorkers_title": {
 		"english": "Not enough Workers",
@@ -46,6 +48,7 @@
 		"slovak": "Nedostatok pracovníkov",
 		"portuguese": "Trabalhadores insuficientes",
 		"hungarian": "Nincs elég munkás",
+		"japanese": "労働者が不足しています。",
 	},
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
@@ -62,6 +65,7 @@
 		"slovak": "Pokiaľ nemáš dostatok pracovníkov, tvoje továrne nebudú tak efektívne.\nPouži Prioritný nástroj vľavo nahore k distribuci pracovnej sily.",
 		"portuguese": "Se você não tiver trabalhadores suficientes, suas fábricas não funcionarão com eficiência.\nUse a ferramenta de priorização no canto superior esquerdo para distribuir sua força de trabalho.",
 		"hungarian": "Ha nincs elég munkásod a gyárak nem működnek elég hatékonyan.\nPriorizáld a munkákat a bal felső sarokban.",
+		"japanese": "労働者が不足している工場は稼働率が落ちます。\n左上の生産状況から必要な工場へ労働者を優先させてください。",
 	},
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
@@ -78,6 +82,7 @@
 		"slovak": "Turbolencie snižujú účinosť Veternej turbíny",
 		"portuguese": "Turbulências diminuem a eficiência da turbina eólica",
 		"hungarian": "A turbulencia csökkenti a szélerőmű hatékonyságát",
+		"japanese": "乱気流の発生で効率が低下します。",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -94,5 +99,6 @@
 		"slovak": "Dve Veterné turbíny sú až príliš blízko k sebe. Ich efektivita je nižšia.",
 		"portuguese": "Duas turbinas eólicas estão muito próximas. Sua eficiência está reduzida.",
 		"hungarian": "Két szélerőmű túl közel van egymáshoz. A hatékonyságuk csökkentve lett.",
+		"japanese": "風力発電所が近すぎるため発電量が低下します。",
 	},
 }
