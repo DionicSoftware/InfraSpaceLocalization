@@ -14,6 +14,7 @@
 		  "portuguese": "Lâminas de turbina eólica aprimoradas",
 		  "czech": "Vylepšené větrné turbíny",
 		  "japanese": "改良された風力発電機",
+		  "hungarian": "Fejlesztett szélerőmű lapátok",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
 		  "english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
@@ -30,6 +31,7 @@
 		  "portuguese": "As lâminas adaptadas criam menos perturbação no ar. As turbinas eólicas podem ser colocadas %amount%% mais próximas umas das outras.",
 		  "czech": "Přizpůsobené vzduchové lopatky vytvářejí menší rušení ve vzduchu. Větrné turbíny mohou být umístěné o %amount%% blíž k sobě.",
 		  "japanese": "改良された羽により気流の乱れを少なくします。以前より%amount%%近く風力発電所を建設できます。",
+		  "hungarian": "Ezen alkalmazkodott lapátok kissebb ellenszelet hagynak. Így közelebb lehet őket helyezni egymáshoz ennyivel: %amount%.",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
 		  "english": "Self Cleaning Solar Panels",
@@ -46,6 +48,7 @@
 		  "portuguese": "Painéis solares autolimpantes",
 		  "czech": "Samočistící solární panely",
 		  "japanese": "自動洗浄ソーラーパネル",
+		  "hungarian": "Öntisztító napelemek",
 	  },
 	  "upgradeDesc_selfCleaningSolarPanels":  {
 		  "english": "Self cleaning panels improve power output by %amount%%.",
@@ -62,6 +65,7 @@
 		  "portuguese": "Painéis autolimpantes aumentam a potência em %amount%%.",
 		  "czech": "Samočistící panely zlepšují výstupní výkon o %amount%%",
 		  "japanese": "自動洗浄ソーラーパネルは発電を%amount%%上昇させます。",
+		  "hungarian": "Az öntisztító napelemek megnövelik az energiaelőállítást ennyivel: %amount%.",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
 		  "english": "Industrial Waste Recycling",
@@ -78,6 +82,7 @@
 		  "portuguese": "Reciclagem de resíduos industriais",
 		  "czech": "Recyklace průmyslového odpadu",
 		  "japanese": "産業廃棄物のリサイクル",
+		  "hungarian": "Ipari újrahasznosítás",
 	  },
 	  "upgradeDesc_industrialWasteRecycling":  {
 		  "english": "Some of this building's industrial waste is recycled. Every %amount% rounds, it gets all used resources back.",
@@ -94,6 +99,7 @@
 		  "portuguese": "Alguns dos resíduos industriais deste edifício são reciclados. A cada %amount% ciclos, ele obtém todos os recursos usados de volta.",
 		  "czech": "Část průmyslového odpadu této budovy se recykluje. Každé kolo %amount% dostaneš nazpět všechny použité zdroje.",
 		  "japanese": "この建物の産業廃棄物はリサイクルされています。%amount%ラウンドごとに物資が回収されます",
+		  "hungarian": "Ezen épület némi hulladéka újra lesz hasznosítva. Minden %amount%. kör után minden használt anyagot visszakap.",
 	  },
 	  "upgrade_soilEnrichment":  {
 		  "english": "Soil Enrichment",
@@ -110,6 +116,7 @@
 		  "portuguese": "Enriquecimento do solo",
 		  "czech": "Obohacování půdy",
 		  "japanese": "土壌改良",
+		  "hungarian": "Talajdúsítás",
 	  },
 	  "upgradeDesc_soilEnrichment":  {
 		  "english": "The soil has been carefully prepared to yield %amount%% larger harvests.",
@@ -126,6 +133,7 @@
 		  "portuguese": "O solo foi cuidadosamente preparado para render %amount%% colheitas maiores.",
 		  "czech": "Půda byla pečlivě připravená k získání %amount%% většího sběru surovin.",
 		  "japanese": "改良された土壌により%amount%%収穫が増加します。",
+		  "hungarian": "A talaj óvatosan elő lett készítve hogy %amount%%-kal több termést hozzon.",
 	  },
 	  "upgrade_industrialRobots":  {
 		  "english": "Industrial Robot",
@@ -142,6 +150,7 @@
 		  "portuguese": "Robôs industriais",
 		  "czech": "Průmyslový robot",
 		  "japanese": "工業用ロボ",
+		  "hungarian": "Ipari robot",
 	  },
 	  "upgradeDesc_industrialRobots":  {
 		  "english": "Automation reduces your workforce requirements by %amount% worker(s).",
@@ -158,6 +167,7 @@
 		  "portuguese": "A automação reduz seus requisitos de força de trabalho em %amount% trabalhador(es).",
 		  "czech": "Automatizace snižuje požadavky na pracovní sílu o %amount% pracovníků.",
 		  "japanese": "自動化により必要な労働者が%amount%%減少します。",
+		  "hungarian": "Az automatizálás csökkenti a munkaerő szűkségletet ennyivel: %amount% munkás(ok).",
 	  },
 	  "upgrade_highTechTools":  {
 		  "english": "High Tech Tools",
@@ -174,6 +184,7 @@
 		  "portuguese": "Ferramentas de alta tecnologia",
 		  "czech": "Špičkové technické nástroje",
 		  "japanese": "ハイテクニカルツール",
+		  "hungarian": "Csúcstechnológiai eszközök",
 	  },
 	  "upgradeDesc_highTechTools":  {
 		  "english": "Better tools lead to increased production by %amount%%.",
@@ -190,6 +201,7 @@
 		  "portuguese": "Melhores ferramentas levam ao aumento da produção em %amount%%.",
 		  "czech": "Lepší nástroje vedou ke zvýšení výroby o %amount%%",
 		  "japanese": "より良いツールにより%amount%%生産量が増加します。",
+		  "hungarian": "A jobb eszközök megnövelik a termelést ennyivel: %amount%.",
 	  },
 	  "upgradeDurabilityTooltipTitle":  {
 		  "english": "Durability",
@@ -206,6 +218,7 @@
 		  "portuguese": "Durabilidade",
 		  "czech": "Trvanlivost",
 		  "japanese": "耐久",
+		  "hungarian": "Tartósság",
 	  },
 	  "upgradeDurabilityTooltipDesc":  {
 		  "english": "A 100% upgrade is brand new, a 0% upgrade is all used up. The upgrade effect is active as long as the percentage is above 0.",
@@ -222,6 +235,7 @@
 		  "portuguese": "Uma melhoria em 100% é totalmente nova, uma melhoria em 0% é completamente usada. O efeito da melhoria está ativo enquanto a porcentagem estiver acima de 0.",
 		  "czech": "100% upgrade je úplně nový, upgrade se z 0% používá. Efekt aktualizace je aktivní, pokud je procento nad 0.",
 		  "japanese": "パーセンテージが0を超えている限りアップグレード効果は有効です。",
+		  "hungarian": "A 100%-os fejlesztés vadonat új, a 0%-os teljesen elhasznált. A fejlesztés addig aktív amíg 0% felett van.",
 	  },
   }
   
