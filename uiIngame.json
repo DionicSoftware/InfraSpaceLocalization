@@ -14,6 +14,7 @@
 		"slovak": "Napájacia sieť %id%",
 		"portuguese": "Rede elétrica %id%",
 		"czech": "Napájecí síť %id%",
+		"hungarian": "%id%. elektromos hálózat",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -30,6 +31,7 @@
 		"slovak": "Požadované: %amount% MW",
 		"portuguese": "Necessário: %amount% MW",
 		"czech": "Požadované: %amount% MW",
+		"hungarian": "Szükséges: %amount% MW",
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -46,6 +48,7 @@
 		"slovak": "Elektrina spotrebovaná:",
 		"portuguese": "Energia consumida:",
 		"czech": "Elektřina byla spotřebována:",
+		"hungarian": "Energia használva:",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -62,6 +65,7 @@
 		"slovak": "Produkcia Elektriny:",
 		"portuguese": "Energia produzida:",
 		"czech": "Produkce elektřiny:",
+		"hungarian": "Energia előállítva:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -78,6 +82,7 @@
 		"slovak": "Prichádzajúci sklad je prázny",
 		"portuguese": "Armazenamento de entrada vazio",
 		"czech": "Příchozí sklad je prázdný",
+		"hungarian": "Beérkező tároló üres",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -94,6 +99,7 @@
 		"slovak": "Žiadny prístup k ceste",
 		"portuguese": "Sem acesso à estrada",
 		"czech": "Žádný přístup k cestě",
+		"hungarian": "Nincs hozzáférés az úthoz",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -110,6 +116,7 @@
 		"slovak": "Odchádzajúci sklad je plný",
 		"portuguese": "Armazenamento de saída cheio",
 		"czech": "Odchozí sklad je prázdný",
+		"hungarian": "Kimenő tároló tele",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -126,6 +133,7 @@
 		"slovak": "Žiadny pracovníci v budove",
 		"portuguese": "Sem trabalhadores no edifício",
 		"czech": "Žádní pracovníci v budově",
+		"hungarian": "Nincsenek munkások az épületben",
 	},
 	"noPower": {
 		"english": "No power",
@@ -142,6 +150,7 @@
 		"slovak": "Žiadna elektrina",
 		"portuguese": "Sem energia",
 		"czech": "Žádná elektřina",
+		"hungarian": "Nincs áram",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -158,6 +167,7 @@
 		"slovak": "%amount%% Efektivita",
 		"portuguese": "%amount%% de eficiência",
 		"czech": "%amount%% efektivita",
+		"hungarian": "%amount%% hatékonyság",
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -174,6 +184,7 @@
 		"slovak": "Tvoje mesto bude povýšené na úroveň \"%cityLevelName%\" až keď dosiahneš %amount% úrovne %nextLevel% občanov.",
 		"portuguese": "Sua cidade será promovida à \"%cityLevelName%\" assim que você tiver pelo menos %amount% cidadãos nível %nextLevel%.",
 		"czech": "Tvé město bude povýšeno na úroveň \"%cityLevelName%\" až dosáhneš %amount% úrovně %nextLevel% občanů.",
+		"hungarian": "A városod szintet fog lépni, (\"%cityLevelName%\") ha van %amount% lakosod, akik %nextLevel% szintűek.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -190,6 +201,7 @@
 		"slovak": "Dosiahol si maximálnu úroveň mesta. Gratulujeme!",
 		"portuguese": "Você atingiu o nível mais alto da cidade. Parabéns!",
 		"czech": "Dosaženo maximální úrovně města. Gratulujeme!",
+		"hungarian": "Elérted a legmagasabb város szintet. Gratulálunk!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -206,6 +218,7 @@
 		"slovak": "Tvoje mesto sa degradovalo na úroveň \"%cityLevelName%\" ak máte menej ako %amount% Úroveň %level% občanov",
 		"portuguese": "Sua cidade será rebaixada para \"%cityLevelName%\" se você tiver menos de %amount% cidadãos nível %level%.",
 		"czech": "Tvé město degradovalo na úroveň \"%cityLevelName%\", pokud máte méně jak %amount% úroveň %level% občanů.",
+		"hungarian": "A városod lel lesz fokozva (\"%cityLevelName%\") ha kevesebb mint %amount% %level% szintű lakosod van.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -222,6 +235,7 @@
 		"slovak": "Vyskúm %techName%... %progress%",
 		"portuguese": "Pesquisando %techName%...    %progress%",
 		"czech": "Výzkum %techName%... %progress%",
+		"hungarian": "Kutatás %techName%...    %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -238,6 +252,7 @@
 		"slovak": "Vyber technológiu na výskum",
 		"portuguese": "Selecione uma tecnologia para pesquisar",
 		"czech": "Vyber technologii pro výzkum",
+		"hungarian": "Válassz kutatást",
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -254,6 +269,7 @@
 		"slovak": "Nič",
 		"portuguese": "Nada",
 		"czech": "Nic",
+		"hungarian": "Semmi",
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -270,6 +286,7 @@
 		"slovak": "Odomkli sme %techName% a teraz to môžeme postaviť:",
 		"portuguese": "Mós desbloqueamos %techName% e agora podemos construir:",
 		"czech": "Odemkli jsme %techName% a nyní můžeme postavit:",
+		"hungarian": "Felfedeztük %techName%-t. Ennek köszönhetően építhetsz:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -286,6 +303,7 @@
 		"slovak": "Odomkli sme %techName%.",
 		"portuguese": "Nós desbloqueamos %techName% ",
 		"czech": "Odemkli jsme %techName%.",
+		"hungarian": "Felfedeztük a(z) %techName%-t."
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -302,6 +320,7 @@
 		"slovak": "Táto technológia odomkne:",
 		"portuguese": "Esta tecnologia desbloqueia:",
 		"czech": "Tato technologie odemkne:",
+		"hungarian": "Ez a technológia feloldja:",
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
@@ -318,6 +337,7 @@
 		"slovak": "Táto technológia vám odomkne nič.",
 		"portuguese": "Esta tecnologia não desbloqueia nada.",
 		"czech": "Tato technologie vám nic neodemkne.",
+		"hungarian": "Ez a technológia nem old fel semmit.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -334,6 +354,7 @@
 		"slovak": "Vyskúm dokončený",
 		"portuguese": "Pesquisa concluída!",
 		"czech": "Výzkum dokončen",
+		"hungarian": "A kutatás véget ért!",
 	},
 	"production": {
 		"english": "Production",
@@ -350,6 +371,7 @@
 		"slovak": "Produkcia",
 		"portuguese": "Produção",
 		"czech": "Produkce",
+		"hungarian": "Termelés",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -366,6 +388,7 @@
 		"slovak": "Spotreba",
 		"portuguese": "Consumo",
 		"czech": "Spotřeba",
+		"hungarian": "Fogyasztás",
 	},
 	"workers": {
 		"english": "Workers",
@@ -382,6 +405,7 @@
 		"slovak": "Pracovníci",
 		"portuguese": "Trabalhadores",
 		"czech": "Pracovníci",
+		"hungarian": "Munkások",
 	},
 	"storage": {
 		"english": "Storage",
@@ -398,6 +422,7 @@
 		"slovak": "Sklad",
 		"portuguese": "Armazenamento",
 		"czech": "Sklad",
+		"hungarian": "Raktár",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -414,6 +439,7 @@
 		"slovak": "Vylepšenia",
 		"portuguese": "Atualizações",
 		"czech": "Vylepšení",
+		"hungarian": "Fejlesztések",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -430,6 +456,7 @@
 		"slovak": "Priorita",
 		"portuguese": "Prioridades",
 		"czech": "Priorita",
+		"hungarian": "Priorizál",
 	},
 	"price": {
 		"english": "Price",
@@ -449,6 +476,7 @@
 		"japanese": "価格",
 		"slovak": "Cena",
 		"portuguese": "Custo",
+		"hungarian": "Költség",
 	},
 	// habitat info panel
 	"habitatUpgradingIn": {
@@ -466,6 +494,7 @@
 		"slovak": "Obydlenie sa vylepší za %seconds%s.",
 		"portuguese": "Moradia atualizando em %seconds%s",
 		"czech": "Obydlí se vylepší za %seconds%s.",
+		"hungarian": "Lakhely fejlesztve %seconds% mp múlva.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -482,6 +511,7 @@
 		"slovak": "Obydlenie sa zhorší za %seconds%s.",
 		"portuguese": "Moradia rebaixando em %seconds%s",
 		"czech": "Obydlí se zhorší za %seconds%s.",
+		"hungarian": "Lakhely visszafejlesztve %seconds% mp múlva.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -498,6 +528,7 @@
 		"slovak": "Obydlenie je plné. Splňte ďalšie potreby pre vylepšenie.",
 		"portuguese": "A moradia está cheia. Atenda às necessidades adicionais para atualizar.",
 		"czech": "Obydlí je plné. Splňte další potřeby pro vylepšení.",
+		"hungarian": "Lakhely megtelt. Tegyél eleget a további szükségleteknek a fejlesztéshez."
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -514,6 +545,7 @@
 		"slovak": "Ľudia sa sťahujú",
 		"portuguese": "As pessoas estão chegando.",
 		"czech": "Lidé se přistěhovávají.",
+		"hungarian": "Emberek érkeznek.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -530,6 +562,7 @@
 		"slovak": "Ľudia sa odchádzajú",
 		"portuguese": "As pessoas estão saindo.",
 		"czech": "Lidé se odstěhovávají.",
+		"hungarian": "Emberek távoznak.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -546,6 +579,7 @@
 		"slovak": "Potreby nie sú splnené.",
 		"portuguese": "As necessidades não foram atendidas.",
 		"czech": "Potřeby nejsou splněny.",
+		"hungarian": "A feltételek nincsenek meg.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -562,6 +596,7 @@
 		"slovak": "Obyvatelia sú v poriadku",
 		"portuguese": "Os habitantes estão bem.",
 		"czech": "Obyvatelé jsou v pořádku.",
+		"hungarian": "A lakók jól vannak.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -578,6 +613,7 @@
 		"slovak": "Žiadny výskum vybraný",
 		"portuguese": "nenhuma pesquisa selecionada",
 		"czech": "Není vybrán žádný výzkum.",
+		"hungarian": "Nics kutatás kiválasztva",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -594,6 +630,7 @@
 		"slovak": "Suroviny v sklade:",
 		"portuguese": "Recursos no armazém",
 		"czech": "Suroviny ve skladu:",
+		"hungarian": "Anyagok a raktárban:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -610,6 +647,7 @@
 		"slovak": "Úroveň %level% Obyvateľov",
 		"portuguese": "Cidadãos nível %level%",
 		"czech": "Úroveň %level% obyvatel",
+		"hungarian": "%level% szintü lakosok",
 	},
 	"population": {
 		"english": "Population",
@@ -626,6 +664,7 @@
 		"slovak": "Populácia",
 		"portuguese": "População",
 		"czech": "Populace",
+		"hungarian": "Népesség",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -642,6 +681,7 @@
 		"slovak": "Práce",
 		"portuguese": "Empregos",
 		"czech": "Práce",
+		"hungarian": "Munkák",
 	},
 	"housing": {
 		"english": "Housing",
@@ -658,6 +698,7 @@
 		"slovak": "Bývanie",
 		"portuguese": "Moradia",
 		"czech": "Obydlí",
+		"hungarian": "Lakhatások",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -673,6 +714,7 @@
 		"slovak": "Štatistiky Mesta",
 		"portuguese": "Estatísticas da cidade",
 		"czech": "Statistiky města",
+		"hungarian": "Statisztikák",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -689,6 +731,7 @@
 		"slovak": "Populácia",
 		"portuguese": "População",
 		"czech": "Populace",
+		"hungarian": "Népesség",
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -705,6 +748,7 @@
 		"slovak": "Práce",
 		"portuguese": "Empregos",
 		"czech": "Práce",
+		"hungarian": "Munkák",
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -721,6 +765,7 @@
 		"slovak": "Bývanie",
 		"portuguese": "Moradia",
 		"czech": "Obydlí",
+		"hungarian": "Lakhatások",
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -737,6 +782,7 @@
 		"slovak": "Miera prisťahovalectva",
 		"portuguese": "Taxa de imigração",
 		"czech": "Míra přistěhovalectví",
+		"hungarian": "Bevándorlási arány",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -753,6 +799,7 @@
 		"slovak": "Efektivita",
 		"portuguese": "Eficiência",
 		"czech": "Efektivita",
+		"hungarian": "Hatékonyság",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -769,6 +816,7 @@
 		"slovak": "Nedostatok pracovníkov",
 		"portuguese": "Sem trabalhadores suficientes:",
 		"czech": "Nedostatek pracovníků",
+		"hungarian": "Nincs elég munkás",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -785,6 +833,7 @@
 		"slovak": "Zvýšena efektivita susednou budovou",
 		"portuguese": "Impulsionado por edifícios vizinhos",
 		"czech": "Efektivita zvýšena sousední budovou.",
+		"hungarian": "Szomszédos épületek által jobb", //test
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -801,6 +850,7 @@
 		"slovak": "Nedostatok energie:",
 		"portuguese": "Sem energia suficiente:",
 		"czech": "Nedostatek energie:",
+		"hungarian": "Nincs elég energia",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -817,6 +867,7 @@
 		"slovak": "Narušené prúdenie vzduchu",
 		"portuguese": "Fluxo de ar perturbado",
 		"czech": "Narušené proudění vzduchu",
+		"hungarian": "Zavaros légjárás",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -833,6 +884,7 @@
 		"slovak": "Postaviť zakrivenú cestu",
 		"portuguese": "Construir estrada curva",
 		"czech": "Postavit zakřivenou cestu",
+		"hungarian": "Ívelt út építése",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -848,7 +900,8 @@
 		"ukrainian": "Довжина дороги",
 		"slovak": "Dĺžka cesty",
 		"portuguese": "Travar comprimento da estrada",
-		"czech": "Délka cesty"
+		"czech": "Délka cesty",
+		"hungarian": "Út hosszának igazítása",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -865,6 +918,7 @@
 		"slovak": "Uhol cesty",
 		"portuguese": "Travar angulo da estrada",
 		"czech": "Úhel cesty",
+		"hungarian": "Út szögének igazítása",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -881,6 +935,7 @@
 		"slovak": "Nahradiť cestu",
 		"portuguese": "Substituir estrada",
 		"czech": "Nahradit cestu",
+		"hungarian": "Út visszaállítása",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -894,6 +949,7 @@
 		"portuguese": "Também inverte a direção da estrada se você não tiver uma estrada substituta selecionada",
 		"czech": "Změní směr cesty, pokud nemáte vybranou náhradní cestu",
 		"japanese": "選択されていない道路も進行方向が逆になります",
+		"hungarian": "Visszaállítja az út irányát ha nincsen más út kijelölve.",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -907,6 +963,7 @@
 		"portuguese": "inverter estrada",
 		"czech": "Zpáteční cesta",
 		"japanese": "反転",
+		"hungarian": "Út visszafordítása",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -923,6 +980,7 @@
 		"slovak": "Zacvaknúť na cestu",
 		"portuguese": "Travar à estrada",
 		"czech": "Připojovat budovu cestou",
+		"hungarian": "Úthoz igazítás",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -939,6 +997,7 @@
 		"slovak": "Momentálne sa dodáva: %amount%",
 		"portuguese": "Atualmente sendo entregue: %amount%",
 		"czech": "Momentálně se dodává: %amount%",
+		"hungarian": "Jelenleg ennyi van szállítás alatt: %amount%",
 	},
 	// sign panel
 	"signPanelText": {
@@ -956,6 +1015,7 @@
 		"slovak": "Text",
 		"portuguese": "Texto",
 		"czech": "Text",
+		"hungarian": "Szöveg",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -972,6 +1032,7 @@
 		"slovak": "Veľkosť písma",
 		"portuguese": "Tamanho da fonte",
 		"czech": "Velikost písma",
+		"hungarian": "Betűméret",
 	},
 	"font": {
 		"english": "Font",
@@ -988,6 +1049,7 @@
 		"slovak": "Druh Písma",
 		"portuguese": "Fonte",
 		"czech": "Druh písma",
+		"hungarian": "Betűtípus",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -1004,6 +1066,7 @@
 		"slovak": "Nepripojené k zdroju energie",
 		"portuguese": "Não conectado à uma rede de energia",
 		"czech": "Nepřipojené ke zdroji energie",
+		"hungarian": "Nincs hálózathoz csatlakoztatva.",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1020,6 +1083,7 @@
 		"slovak": "Budova s niečím koliduje",
 		"portuguese": "O edifício está colidindo com algo",
 		"czech": "Budova s něčím koliduje",
+		"hungarian": "Épület ütközik valamivel.",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -1036,6 +1100,7 @@
 		"slovak": "Budova nie je umiestnená na zdroju surovín",
 		"portuguese": "O edifício não está sob um depósito de recursos",
 		"czech": "Budova není umístěná na zdroji surovin",
+		"hungarian": "Az építmény nem anyaglerakó helyen van",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -1052,6 +1117,7 @@
 		"slovak": "Cesta s niečím koliduje",
 		"portuguese": "A estrada está colidindo com algo",
 		"czech": "Cesta s něčím koliduje",
+		"hungarian": "Az út ütközik valamivel.",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -1068,6 +1134,7 @@
 		"slovak": "Príliš blízko k inej ceste",
 		"portuguese": "Muito perto da outra estrada",
 		"czech": "Příliš blízko k jiné cestě",
+		"hungarian": "Túl közeli szomszédos út",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1084,6 +1151,7 @@
 		"slovak": "Úsek cesty je príliš krátky",
 		"portuguese": "O segmento da estrada é curto demais",
 		"czech": "Úsek cesty je příliš krátký",
+		"hungarian": "Út túl rövid",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -1100,6 +1168,7 @@
 		"slovak": "Príliš strmá cesta",
 		"portuguese": "A estrada está muito íngrime",
 		"czech": "Příliš strmá cesta",
+		"hungarian": "Út túl "
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -1116,6 +1185,7 @@
 		"slovak": "Cesta je príliš ďaleko od zeme",
 		"portuguese": "A estrada está muito longe do solo",
 		"czech": "Cesta je příliš daleko od země",
+		"hungarian": "Út túl messze a földtől",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1132,6 +1202,7 @@
 		"slovak": "Vizualizácia",
 		"portuguese": "Visualizações",
 		"czech": "Vizualizace",
+		"hungarian": "Vizualizációk",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -1148,6 +1219,7 @@
 		"slovak": "Stavebná efektivita",
 		"portuguese": "Eficiência do edifício",
 		"czech": "Stavební efektivita",
+		"hungarian": "Építmény hatékonysága",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -1164,6 +1236,7 @@
 		"slovak": "Obsadenosť budovy (pracovníci a obyvatelia)",
 		"portuguese": "Ocupação do edifício (trabalhadores e habitantes)",
 		"czech": "Obsazenost budovy (pracovníci a obyvatelé)",
+		"hungarian": "Építmény lakottsága (munkások & lakók)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1180,6 +1253,7 @@
 		"slovak": "Energia",
 		"portuguese": "Energia",
 		"czech": "Energie",
+		"hungarian": "Áram",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1196,6 +1270,7 @@
 		"slovak": "Veterné turbíny",
 		"portuguese": "Turbinas éolicas",
 		"czech": "Větrné turbíny",
+		"hungarian": "Szélerőművek",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -1212,6 +1287,7 @@
 		"slovak": "Zariadenia na obohacovanie pôdy",
 		"portuguese": "Instalações de enriquecimento de solo",
 		"czech": "Zařízení na obohacování půdy",
+		"hungarian": "Talajdúsító létesítmények",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1228,6 +1304,7 @@
 		"slovak": "Recyklačné centrná",
 		"portuguese": "Centros de reciclagem",
 		"czech": "Recyklační centrum",
+		"hungarian": "Újrahasznosító központok",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -1244,6 +1321,7 @@
 		"slovak": "Budovanie so Špičkovými nástrojmi",
 		"portuguese": "Edifícios com ferramentas de alta tecnologia",
 		"czech": "Budování se špičkovými nástroji",
+		"hungarian": "Építmények csúcstechnológiás eszközökkel",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -1260,6 +1338,7 @@
 		"slovak": "Budovanie s Priemyslovými robotmi",
 		"portuguese": "Edifícios com robôs industriais",
 		"czech": "Budování s průmyslovými roboty",
+		"hungarian": "Építmények ipari robotokkal",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -1276,6 +1355,7 @@
 		"slovak": "Autá",
 		"portuguese": "Carros",
 		"czech": "Auta",
+		"hungarian": "Autók",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -1292,6 +1372,7 @@
 		"slovak": "Cesty",
 		"portuguese": "Estradas",
 		"czech": "Cesty",
+		"hungarian": "Útak",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -1308,6 +1389,7 @@
 		"slovak": "Potrebné suroviny:",
 		"portuguese": "Recursos necessários;",
 		"czech": "Potřebné suroviny:",
+		"hungarian": "Anyagok szükségesek:",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -1324,6 +1406,7 @@
 		"slovak": "Ťažba %amount% %resourceName% za minútu",
 		"portuguese": "Extraindo %amount% %resourceName% por minuto",
 		"czech": "Těžba %amount% %resourceName% za minutu",
+		"hungarian": "%amount%-nyi %resourceName% bányászása percenként",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1340,6 +1423,7 @@
 		"slovak": "Celkové množstvo doteraz naťažené: %amount%",
 		"portuguese": "Quantidade total extraída até o momento: %amount%",
 		"czech": "Celkové dosud natěžené množství: %amount%",
+		"hungarian": "Összes, eddig bányászott: %amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1356,6 +1440,7 @@
 		"slovak": "Oblasť",
 		"portuguese": "Distritos",
 		"czech": "Oblast",
+		"hungarian": "Kerületek",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -1372,6 +1457,7 @@
 		"slovak": "Ľavým tlačidlom kreslíte\nPravým tlačidlom zmazávate",
 		"portuguese": "Clique com o botão esquerdo para pintar\nClique com o botão direito para apagar",
 		"czech": "Levým tlačítkem kreslíte\nPravým tlačítkem mažete",
+		"hungarian": "Bal egérgomb festés\nJobb egérgomb törlés",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -1388,6 +1474,7 @@
 		"slovak": "Potiahnutím kurzora myši medzi oblasťami vytvoríte pravidlo exportu.\n\nOblasti bez pravidiel exportu môžu vyvážať tovar kamkoľvek.",
 		"portuguese": "Arraste o cursor do mouse entre os distritos para criar uma regra de exportação.\n\nDistritos sem regras de exportação podem exportar mercadorias para qualquer lugar.",
 		"czech": "Potažením kurzorem myši mezi oblastmi vytvoříte pravidlo exportu.\n\nOblasti bez pravidel exportu mohou vyvážet suroviny kamkoliv.",
+		"hungarian": "Húzd a kúrzorodat a kerületek között, hogy exportálási szabályt hozz létre.\n\nSzabályok nélküli kerületek exportálhatnak termékeket akármerre.",
 	},
 	"populationInfo": {
 		"english": "Population Info",
@@ -1404,6 +1491,7 @@
 		"slovak": "Informácie o populácii",
 		"portuguese": "Informação da população",
 		"czech": "Informace o populaci",
+		"hungarian": "Népesség információ",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -1420,6 +1508,7 @@
 		"slovak": "Imigranti pripravený sa prisťahovať:",
 		"portuguese": "Imigrantes prontos para se mudarem:",
 		"czech": "Imigranti připraveni se přistěhovat:",
+		"hungarian": "Migránsok készen, hogy beköltözzenek:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -1436,6 +1525,7 @@
 		"slovak": "Miera prisťahovalectva:",
 		"portuguese": "Taxa de imigração:",
 		"czech": "Míra přistěhovalectví:",
+		"hungarian": "Migrálási ráta",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -1452,6 +1542,7 @@
 		"slovak": "Vylepši si obydlia aby tvoje mesto príjimalo prisťahovalcov.",
 		"portuguese": "Atualize suas moradias para tornar sua cidade atraente para os recém-chegados.",
 		"czech": "Vylepši obydlí, aby tvé město mohlo příjímat přistěhovalce.",
+		"hungarian": "Fejleszd a lakhelyeidet hogy a városodat vonzóbbá tedd az érkezőknek.",
 	},
 	"low": {
 		"english": "Low",
@@ -1468,6 +1559,7 @@
 		"slovak": "Malá",
 		"portuguese": "Baixo",
 		"czech": "Malá",
+		"hungarian": "Alacsony",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -1484,6 +1576,7 @@
 		"slovak": "Mierna",
 		"portuguese": "Moderado",
 		"czech": "Mírná",
+		"hungarian": "Közepes",
 	},
 	"high": {
 		"english": "High",
@@ -1500,6 +1593,7 @@
 		"slovak": "Vysoká",
 		"portuguese": "Alto",
 		"czech": "Vysoká",
+		"hungarian": "Magas",
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -1516,6 +1610,7 @@
 		"slovak": "Obydlie vylepšené",
 		"portuguese": "Moradia atualizada",
 		"czech": "Obydlí bylo vylepšeno",
+		"hungarian": "Lakhely fejlesztve",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -1532,6 +1627,7 @@
 		"slovak": "Obydlie degradované",
 		"portuguese": "Moradia rebaixada",
 		"czech": "Obydlí bylo degradováno",
+		"hungarian": "Lakhely visszafejlesztve",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -1548,6 +1644,7 @@
 		"slovak": "MW",
 		"portuguese": "MW",
 		"czech": "MW",
+		"hungarian": "MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -1564,6 +1661,7 @@
 		"slovak": "%percentage%% Efektivita",
 		"portuguese": "%percentage%% Eficiência",
 		"czech": "%percentage%% efektivity",
+		"hungarian": "%percentage%%-os hatékonyság",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -1579,6 +1677,7 @@
 		"slovak": "Prehľad výroby",
 		"portuguese": "Visão geral da produção",
 		"czech": "Přehled výroby",
+		"hungarian": "Termelési nézet",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -1594,6 +1693,7 @@
 		"slovak": "Zásoby",
 		"portuguese": "Recurso",
 		"czech": "Zásoby",
+		"hungarian": "Anyagok",
 	},
 	"priority": {
 		"english": "Priority",
@@ -1609,6 +1709,7 @@
 		"slovak": "Priorita",
 		"portuguese": "Prioridade",
 		"czech": "Priorita",
+		"hungarian": "Prioritás",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -1624,5 +1725,6 @@
 		"slovak": "Úroveň Mesta",
 		"portuguese": "Nível da cidade",
 		"czech": "Úroveň města",
+		"hungarian": "Város szintje",
 	},
 }
