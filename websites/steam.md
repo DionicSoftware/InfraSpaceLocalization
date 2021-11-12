@@ -294,6 +294,8 @@ Sua rede rodoviária pode lidar com muita coisa, mas sem sua supervisão ela ir�
 
 A játék figyelemmel követ minden. egyes. autót. Minden anyagot amit csak előállítasz el kell szállítanod egy gyárba átdolgozáshozés ezután a terméknek egy lakásba felhasználásra.
 
+Az űtrendszered sokat bírhat, de a felügyeleted nélkül egy közlekedési rémálommá válhat. Építs autópályákat, körforgalmakat, és többsávos útakat hogy ez ne forduljon elő, és minden problémamentes maradjon.
+
 # Long Description - Population Section
 ***************************************
 
