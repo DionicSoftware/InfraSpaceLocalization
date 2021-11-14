@@ -636,7 +636,7 @@
 		"english": "Level %level% Citizens",
 		"german": "Stufe %level% Bürger",
 		"french": "Citoyens de niveau %level%",
-		"dutch": "Level $level% burgers",
+		"dutch": "Level %level% burgers",
 		"spanish": "Ciudadanos de nivel %level%",
 		"russian": "Жители %level% уровня",
 		"chinese": "%level%级居民",
