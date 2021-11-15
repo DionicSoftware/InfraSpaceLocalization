@@ -22,6 +22,7 @@ Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translati
 ###### - **[SK]** Vložte súbory do priečinka hry a premenujte ho na "**localization**". Nezabudnite na **vytvorenie súboru "custom.txt"** a napísať tam nasledovné:
 ###### - **[CZ]** Vložte soubory do adresáře hry a přejmenujte ho na "**localization**". Nezapomeňte na **vytvoření souboru "custom.txt"** a napsat do něj následovné:
 ###### - **[HU]** Tedd ezt a mappát a játék mappádba és nevezd át "**localization**"-ra. Ne felejets el **készíteni egy "custom.txt"** ami a következőt tartalmazza:
+###### - **[TH]** นำโฟลเดอร์นี้วางลงไปในโฟลเดอร์เกมของคุณและเปลี่ยนชื่อเป็น "**localization**" และอย่าลืมสร้าง **ไฟล์ "custom.txt"** ซึ่งข้างไฟล์ในประกอบด้วย:
 
 ## Custom.txt:
 ```

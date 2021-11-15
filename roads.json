@@ -15,6 +15,7 @@
 		"slovak": "Štrková cesta",
 		"portuguese": "Estrada de cascalho",
 		"hungarian": "Sóder út",
+		"thai": "ถนนลูกรัง",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -32,6 +33,7 @@
 		"slovak": "Betónová cesta",
 		"portuguese": "Estradada de concreto",
 		"hungarian": "Beton út",
+		"thai": "ถนนคอนกรีต",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -49,6 +51,7 @@
 		"slovak": "Diaľnica",
 		"portuguese": "Rodovia",
 		"hungarian": "Autópálya",
+		"thai": "ทางหลวง",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -66,5 +69,6 @@
 		"slovak": "Super-diaľnica",
 		"portuguese": "Super rodovia",
 		"hungarian": "Szuper autópálya",
+		"thai": "ทางด่วน",
 	},
 }
