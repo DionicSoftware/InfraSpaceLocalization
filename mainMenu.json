@@ -759,7 +759,7 @@
 		"japanese": "垂直同期",
 		"slovak": "Vsync",
 		"hungarian": "Vsync",
-		"th": "ลดการฉีกขาดของหน้าจอ",
+		"thai": "ลดการฉีกขาดของหน้าจอ",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -2627,6 +2627,7 @@
 		"slovak": "Určuje koľko produktov obyvatelia potrebujú.\nČím vyššia úroveň, tým lepšie budeš musieť riadiť svoju ekonomiku.",
 		"portuguese": "Controla quantos produtos os cidadãos precisam.\nQuanto maior a dificuldade, melhor você deve gerenciar sua economia.",
 		"hungarian": "Meghatározza, hogy mennyi termékre lesz a lakosoknak szüksége.\nMinél magasabb a nehézség, annál jobban kell figyelned a pénzügyeidre.",
+		"thai": "ควบคุมจำนวนผลิตภัณฑ์ที่พลเมืองต้องการ\nยิ่งความยากสูงเท่าไหร่ คุณก็ยิ่งต้องจัดการเศรษฐกิจได้ดีเท่านั้น",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -2662,6 +2663,7 @@
 		"slovak": "Určuje, koľko nákladu môžo vozidla previesť. \nČím vyššia úroveň, tým menej nákladu bude prepravované.",
 		"portuguese": "Controla quantos itens os veículos podem carregar.\nQuanto maior a dificuldade, menos itens podem ser carregados de uma vez.",
 		"hungarian":  "Meghatározza, hogy a járművek mennyi tárgyat szállíthatnak.\nMinél nagyobb a nehézség annál kevesebb tárgyat tudnak egyszerre szállítani.",
+		"thai": "ควบคุมจำนวนสิ่งของที่ยานพาหนะสามารถบรรทุกได้\nยิ่งความยากสูงเท่าไหร่ก็ยิ่งสามารถบรรทุกสิ่งของได้น้อยลงในคราวเดียว",
 	},
 	"startGame": {
 		"english": "Start Game",
