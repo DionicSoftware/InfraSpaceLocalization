@@ -20,6 +20,7 @@
 		"japanese": "はい",
 		"slovak": "Áno",
 		"hungarian": "Igen",
+		"thai": "ใช่",
 	},
 	"no": {
 		"english": "No",
@@ -42,6 +43,7 @@
 		"japanese": "いいえ",
 		"slovak": "Nie",
 		"hungarian": "Nem",
+		"thai": "ไม่",
 	},
 	"hours": {
 		"english": "hours",
@@ -60,6 +62,7 @@
 		"ukrainian": "годин",
 		"slovak": "hodiny",
 		"hungarian": "óra",
+		"thai": "ชั่วโมง",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -78,6 +81,7 @@
 		"ukrainian": "год",
 		"slovak": "h",
 		"hungarian": "ó",
+		"thai": "ชม",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -100,6 +104,7 @@
 		"japanese": "分",
 		"slovak": "minut",
 		"hungarian": "perc",
+		"thai": "นาที",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
@@ -118,6 +123,7 @@
 		"ukrainian": "хв",
 		"slovak": "min",
 		"hungarian": "perc",
+		"thai": "นาที",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
@@ -131,6 +137,7 @@
 		"spanish": "m",
 		"hungarian": "p",
 		"japanese": "分",
+		"thai": "น",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -153,6 +160,7 @@
 		"japanese": "秒",
 		"slovak": "sekund",
 		"hungarian": "másodperc",
+		"thai": "วินาที",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -175,6 +183,7 @@
 		"japanese": "秒",
 		"slovak": "s",
 		"hungarian": "mp",
+		"thai": "วิ",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -197,6 +206,7 @@
 		"japanese": "秒",
 		"slovak": "sek",
 		"hungarian": "mp",
+		"thai": "วินาที",
 	},
 	"days": { // used like "0.4 days"
 		"english": "days",
@@ -217,5 +227,6 @@
 		"ukrainian": "днів",
 		"slovak": "dní",
 		"hungarian": "nap",
+		"thai": "วัน",
 	},
 }

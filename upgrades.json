@@ -15,6 +15,7 @@
 		  "czech": "Vylepšené větrné turbíny",
 		  "japanese": "改良された風力発電機",
 		  "hungarian": "Fejlesztett szélerőmű lapátok",
+		  "thai": "ปรับปรุงใบพัดกังหันลม",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
 		  "english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
@@ -32,6 +33,7 @@
 		  "czech": "Přizpůsobené vzduchové lopatky vytvářejí menší rušení ve vzduchu. Větrné turbíny mohou být umístěné o %amount%% blíž k sobě.",
 		  "japanese": "改良された羽により気流の乱れを少なくします。以前より%amount%%近く風力発電所を建設できます。",
 		  "hungarian": "Ezen alkalmazkodott lapátok kissebb ellenszelet hagynak. Így közelebb lehet őket helyezni egymáshoz ennyivel: %amount%.",
+		  "thai": "ใบพัดดัดแปลงช่วยลดการรบกวนในอากาศ กังหันลมสามารถวางชิดกันได้ %amount%% เครื่อง",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
 		  "english": "Self Cleaning Solar Panels",
@@ -49,6 +51,7 @@
 		  "czech": "Samočistící solární panely",
 		  "japanese": "自動洗浄ソーラーパネル",
 		  "hungarian": "Öntisztító napelemek",
+		  "thai": "แผงโซลาร์เซลล์ทำความสะอาดตัวเอง",
 	  },
 	  "upgradeDesc_selfCleaningSolarPanels":  {
 		  "english": "Self cleaning panels improve power output by %amount%%.",
@@ -66,6 +69,7 @@
 		  "czech": "Samočistící panely zlepšují výstupní výkon o %amount%%",
 		  "japanese": "自動洗浄ソーラーパネルは発電を%amount%%上昇させます。",
 		  "hungarian": "Az öntisztító napelemek megnövelik az energiaelőállítást ennyivel: %amount%.",
+		  "thai": "แผงทำความสะอาดตัวเองช่วยเพิ่มกำลังไฟฟ้าส่งออกได้ %amount%% หน่วย",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
 		  "english": "Industrial Waste Recycling",
@@ -83,6 +87,7 @@
 		  "czech": "Recyklace průmyslového odpadu",
 		  "japanese": "産業廃棄物のリサイクル",
 		  "hungarian": "Ipari újrahasznosítás",
+		  "thai": "การรีไซเคิลขยะจากอุตสาหกรรม",
 	  },
 	  "upgradeDesc_industrialWasteRecycling":  {
 		  "english": "Some of this building's industrial waste is recycled. Every %amount% rounds, it gets all used resources back.",
@@ -100,6 +105,7 @@
 		  "czech": "Část průmyslového odpadu této budovy se recykluje. Každé kolo %amount% dostaneš nazpět všechny použité zdroje.",
 		  "japanese": "この建物の産業廃棄物はリサイクルされています。%amount%ラウンドごとに物資が回収されます",
 		  "hungarian": "Ezen épület némi hulladéka újra lesz hasznosítva. Minden %amount%. kör után minden használt anyagot visszakap.",
+		  "thai": "ขยะจากอุตสาหกรรมบางส่วนของอาคารหลังนี้ถูกนำไปรีไซเคิล ทุกๆ %amount% ชิ้น และจะได้รับทรัพยากรที่ใช้ไปคืนทั้งหมด",
 	  },
 	  "upgrade_soilEnrichment":  {
 		  "english": "Soil Enrichment",
@@ -117,6 +123,7 @@
 		  "czech": "Obohacování půdy",
 		  "japanese": "土壌改良",
 		  "hungarian": "Talajdúsítás",
+		  "thai": "บำรุงดิน",
 	  },
 	  "upgradeDesc_soilEnrichment":  {
 		  "english": "The soil has been carefully prepared to yield %amount%% larger harvests.",
@@ -134,6 +141,7 @@
 		  "czech": "Půda byla pečlivě připravená k získání %amount%% většího sběru surovin.",
 		  "japanese": "改良された土壌により%amount%%収穫が増加します。",
 		  "hungarian": "A talaj óvatosan elő lett készítve hogy %amount%%-kal több termést hozzon.",
+		  "thai": "หลังจากปุ๋ยหมักดินแล้วผลผลิตจะเพิ่มขึ้นอีก %amount%% จำนวน",
 	  },
 	  "upgrade_industrialRobots":  {
 		  "english": "Industrial Robot",
@@ -151,6 +159,7 @@
 		  "czech": "Průmyslový robot",
 		  "japanese": "工業用ロボ",
 		  "hungarian": "Ipari robot",
+		  "thai": "หุ่นยนต์อุตสาหกรรม",
 	  },
 	  "upgradeDesc_industrialRobots":  {
 		  "english": "Automation reduces your workforce requirements by %amount% worker(s).",
@@ -168,6 +177,7 @@
 		  "czech": "Automatizace snižuje požadavky na pracovní sílu o %amount% pracovníků.",
 		  "japanese": "自動化により必要な労働者が%amount%%減少します。",
 		  "hungarian": "Az automatizálás csökkenti a munkaerő szűkségletet ennyivel: %amount% munkás(ok).",
+		  "thai": "ระบบอัตโนมัติจะช่วยลดความต้องการแรงงานของคุณลงได้ %amount% คน",
 	  },
 	  "upgrade_highTechTools":  {
 		  "english": "High Tech Tools",
@@ -185,6 +195,7 @@
 		  "czech": "Špičkové technické nástroje",
 		  "japanese": "ハイテクニカルツール",
 		  "hungarian": "Csúcstechnológiai eszközök",
+		  "thai": "เครื่องมือเทคโนโลยีขั้นสูง",
 	  },
 	  "upgradeDesc_highTechTools":  {
 		  "english": "Better tools lead to increased production by %amount%%.",
@@ -202,6 +213,7 @@
 		  "czech": "Lepší nástroje vedou ke zvýšení výroby o %amount%%",
 		  "japanese": "より良いツールにより%amount%%生産量が増加します。",
 		  "hungarian": "A jobb eszközök megnövelik a termelést ennyivel: %amount%.",
+		  "thai": "เครื่องมือที่ดีกว่านำไปสู่การผลิตที่เพิ่มขึ้นโดยเพิ่มขึ้นจำนวน %amount%% หน่วย",
 	  },
 	  "upgradeDurabilityTooltipTitle":  {
 		  "english": "Durability",
@@ -219,6 +231,7 @@
 		  "czech": "Trvanlivost",
 		  "japanese": "耐久",
 		  "hungarian": "Tartósság",
+		  "thai": "ความทนทาน",
 	  },
 	  "upgradeDurabilityTooltipDesc":  {
 		  "english": "A 100% upgrade is brand new, a 0% upgrade is all used up. The upgrade effect is active as long as the percentage is above 0.",
@@ -236,6 +249,7 @@
 		  "czech": "100% upgrade je úplně nový, upgrade se z 0% používá. Efekt aktualizace je aktivní, pokud je procento nad 0.",
 		  "japanese": "パーセンテージが0を超えている限りアップグレード効果は有効です。",
 		  "hungarian": "A 100%-os fejlesztés vadonat új, a 0%-os teljesen elhasznált. A fejlesztés addig aktív amíg 0% felett van.",
+		  "thai": "อัปเกรด 100% คือเครื่องใหม่ อัปเกรด 0% คือใช้มันจนหมด เอฟเฟกต์การอัปเกรดจะใช้งานได้ตราบใดที่เปอร์เซ็นต์นั้นสูงกว่า 0",
 	  },
   }
   

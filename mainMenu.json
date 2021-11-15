@@ -371,7 +371,7 @@
 		"ukrainian": "Ви дійсно бажаєте видалити збереження \"%save%\"? Ця дія незворотна!",
 		"slovak": "Určite chcete prepísať hru \"%save%\"? Bude navždy odstránena!",
 		"hungarian": "Biztos hogy ki szeretnéd törölni a(z) \"%save%\" nevű mentést? Örökké el fog veszni.",
-		"thai": "คุณแน่ใจหรือว่าต้องการลบบันทึก \"%save%\"? จะหายไปตลอดกาลนะ",
+		"thai": "คุณแน่ใจหรือว่าต้องการลบบันทึก \"%save%\"? มันจะหายไปตลอดกาล",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -1691,7 +1691,7 @@
 		"slovak": "Otvoriť Snímky / Uložené hry",
 		"portuguese": "Abrir capturas de tela / gravações",
 		"hungarian": "Képernyőképek / Mentések",
-		"thai": "เปิดรูปหน้าจอ / บันทึก",
+		"thai": "เปิดที่เก็บรูปหน้าจอ / บันทึก",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -2193,6 +2193,7 @@
 		"slovak": "Dopravné značky a semafóry",
 		"portuguese": "Sinais de trânsito e semáforos",
 		"hungarian": "Forgalomirányító táblák és fények",
+		"thai": "แปลเกม InfraSpace",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -2210,6 +2211,7 @@
 		"slovak": "Nedovoľ, aby sa tvoje križovatky zapchaly a urči, ktoré autá budú mať prednosť",
 		"portuguese": "Mantenha suas intersenções fluindo e priorise qual carro pode ir primeiro",
 		"hungarian": "Ügyelj arra, hogy a kereszteződéseid ne teljenek meg és priorizáld mely autók mehetnek először.",
+		"thai": "ป้องกันไม่ให้เกิดทางแยกที่จะทำให้รถติดและจัดลำดับความสำคัญด้วยว่ารถคันใดต้องไปก่อนได้",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -2227,6 +2229,7 @@
 		"slovak": "Vlaky",
 		"portuguese": "Trens",
 		"hungarian": "Vonatok",
+		"thai": "รถไฟ",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -2244,6 +2247,7 @@
 		"slovak": "Dialnice sú fjan, ale niekedy potrebuješ prepraviť stovky ton materiálov cez polku mesta",
 		"portuguese": "As rodovias são legais, mas às vezes você precisa transportar milhares de toneladas de materiais por metade da cidade.",
 		"hungarian": "Az autópályák jók, de néha anyagok tonnáit kell végigszállítani a városon.",
+		"thai": "ทางหลวงเป็นสิ่งที่ดี แต่บางครั้งคุณต้องขนส่งวัสดุหลายพันตันไปทั่วครึ่งเมือง",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -2261,6 +2265,7 @@
 		"slovak": "Veľké projekty na konci hry",
 		"portuguese": "Grande projeto de final de jogo",
 		"hungarian": "Hatalmas játék-végi projekt",
+		"thai": "โครงการใหญ่ท้ายเกม",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -2278,6 +2283,7 @@
 		"slovak": "ˇVsetko v tvojom mieste je na najvyššej úrovni a všetky technológie vyskúmané? Hľadáš poriadnu poslednú výzvu?",
 		"portuguese": "Você maximizou sua cidade e terminou a árvore tecnológica? Você está procurando um desafio final?",
 		"hungarian": "Teljesen kimaxoltad a városodat és végeztél a kutatásokkal is? Kíváncsi vagy egy utolsó megmérettetésre?",
+		"thai": "คุณได้ขยายเมืองของคุณให้เต็มที่และจบสายวิจัยแล้วหรือยัง? คุณกำลังมองหาความท้าทายครั้งสุดท้ายหรือไม่?",
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -2295,6 +2301,7 @@
 		"slovak": "Lanovky pre vysoko položené miesta",
 		"portuguese": "Gôndolas para acesso às terras altas",
 		"hungarian": "Felvonók a hegyvidékekhez",
+		"thai": "กระเช้าลอยฟ้าสำหรับขึ้นที่สูง",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -2312,6 +2319,7 @@
 		"slovak": "Vysokokapacitné lanovky môžu prevážať náklad cez skaly aj kopce",
 		"portuguese": "Gôndolas de carga de alta capacidade podem transportar suas mercadorias por rochas e montanhas.",
 		"hungarian": "A magas tárolóképességű felvonók sziklákon és hegyeken keresztül szállítják az árudat.",
+		"thai": "กระเช้าบรรทุกสินค้าความจุขนาดใหญ่สามารถขนส่งสินค้าผ่านโขดหินและภูเขาได้",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -2329,6 +2337,7 @@
 		"slovak": "Systém spokojnosti",
 		"portuguese": "Sistema de felicidade",
 		"hungarian": "Öröm rendszer",
+		"thai": "ระบบความสุข",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -2346,6 +2355,7 @@
 		"slovak": "Vylepší systém akými sa domy rozhodujú o vylepšeniach. Berte v úvahe blízkosti služieb, hluk, vyhlásenia a ďalšie",
 		"portuguese": "Sistema aprimorado para decidir quando as moradias são atualizadas. Leva em consideração edifícios de serviço próximos, barulho, portaria e muito mais.",
 		"hungarian": "Továbbfejlesztett rendszer ami meghatározza, mikor jön el az ideje fejleszteni a lakásokat.\nSzámításba veszi a környező szolgáltatási építményeket, zajt, előírásokat és további tényezőket.",
+		"thai": "ปรับปรุงระบบการตัดสินใจเมื่อแหล่งที่อยู่อาศัยจะอัพเกรด โดยคำนึงถึงอาคารบริการ เสียงรบกวน คำสั่ง และอื่นๆ",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -2382,6 +2392,7 @@
 		"slovak": "Podpora pre balančné módy, nové budovy, infraštruktúru a suroviny, úpravu UI a módy so skriptami.",
 		"portuguese": "Suporte para mods de equilíbrio, mods de construção, mods de recursos, mods de interface do usuário, mods de infraestrutura e mods de script.",
 		"hungarian": "Támogatás egyensúly, építés, alapanyag, felhasználói felület, infrastruktúra és szkript modokhoz.",
+		"thai": "รองรับม็อดสมดุล ม็อดอาคาร ม็อดทรัพยากร ม็อด UI ม็อดโครงสร้างพื้นฐาน และม็อดสคริปต์",
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -2417,6 +2428,7 @@
 		"slovak": "Čo kebysi mohol presúvať veľké množstvo surovín pod zemov alebo trubkami? Č kebysi potreboval vodu k prežitiu?",
 		"portuguese": "E se você pudesse transportar grandes quantidades de recursos abaixo do solo ou em dutos? E se você precisasse produzir água para sobreviver?",
 		"hungarian": "Mi lenne ha hatalmas mennyiségben tudnál szállítani anyagokat a föld alatt vagy csőrendszerbven? Mi lenne ha vizet kellene előállítani a túléléshez?",
+		"thai": "จะเกิดอะไรขึ้นถ้าคุณสามารถขนส่งทรัพยากรปริมาณมากในใต้พื้นดินหรือในท่อได้ จะเป็นอย่างไร ถ้าคุณต้องการผลิตน้ำเพื่อความอยู่รอด",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -2452,6 +2464,7 @@
 		"slovak": "Systém podpory života vo vesmiré je dôležitý - a zatepliť či ochladiť voje mesto dostatočne, môže byť kľúčové",
 		"portuguese": "Os sistemas de suporte de vida são importantes no espaço - manter sua cidade quente ou fria o suficiente pode ser crítico.",
 		"hungarian": "A létszükségleti rendszerek fontosak az űrben - melegen tartani vagy hűteni a városod létfontosságú lehet.",
+		"thai": "ระบบช่วยชีวิตมีความสำคัญในอวกาศการทำให้เมืองของคุณอบอุ่นหรือเย็นพอดีนั่นเป็นเรื่องวิกฤต",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -2469,7 +2482,7 @@
 		"slovak": "Striedanie dňa a noci",
 		"portuguese": "Ciclo dia-noite",
 		"hungarian": "Nappal-éjjel ciklus",
-		"thai": "วัฏจักรกลางวัน-กลางคืน",
+		"thai": "สลับกลางวัน-กลางคืน",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -2487,6 +2500,7 @@
 		"slovak": "Vyzerá dobre a musíš pripraviť prenosovú sústavu na tmu. Taktiež môžeš zajímavo fungovat so Systémom tepla - piesočné planety v noci sa ochladzuju rýchlejšie",
 		"portuguese": "Parece legal e você precisa preparar sua rede de energia para a noite. Também pode funcionar bem com o sistema de calor - os planetas de areia esfriam rapidamente à noite.",
 		"hungarian": "Elég hidegnek ígérkezik és az elektromos hálózatot is fel kell készíteni az estére. Továbbá jól működhet a fűtési rendszerrel - homokbolygók hamar lehülnek éjjelente.",
+		"thai": "ดูเหมือนจะหนาวนะคุณต้องเตรียมพลังงานสำหรับค่ำคืนนี้ มันทำงานได้ดีกับระบบทำความร้อนเพื่อให้ความหนาวบนดาวเคราะห์นี้หายไปอย่างรวดเร็วในคืนนี้",
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -2522,6 +2536,7 @@
 		"slovak": "Nehody sa dejú a tvoje mesto potrebuje zásahové zložky, aby sa s nimi vyporiadalo - buď pripravený!",
 		"portuguese": "Acidentes acontecem e sua cidade precisa de serviços de emergência para lidar com eles - esteja preparado!",
 		"hungarian": "Balesetek történnek és a városodnak szüksége van vészhelyzeti szolgáltatásokra ilyen esetekre - légy felkészült!",
+		"thai": "หากมีอุบัติเหตุเกิดขึ้นเมืองของคุณต้องการบริการฉุกเฉินสำหรับกรณีดังกล่าว - จงเตรียมพร้อม!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -2557,6 +2572,7 @@
 		"slovak": "Pridáme dopravu pre pracujúcich, ale taktiež predstavme vylepšené lietajúce auta, aby tvoja dopravná sieť nezkolabovala",
 		"portuguese": "Vamos adicionar tráfego para os trabalhadores indo para o trabalho, mas também apresentar a atualização do carro voador para evitar que o sistema viário fique congestionado.",
 		"hungarian": "Adjunk közlekedést a munkába tartó munkásoknak, de vezessük be a 'repülő autók' fejlesztést hogy óvjuk az utainkat a dugótól.",
+		"thai": "มาเพิ่มการจราจรให้คนงานกันเถอะ แต่ก็ยังอยากแนะนำอัปเกรดรถบินได้เพื่อป้องกันไม่ให้ระบบถนนของคุณติดขัด",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -2592,6 +2608,7 @@
 		"slovak": "Ako dobre budú tvoje cesty fungovat v piestočnej búrke? Budeš na to pripravený?",
 		"portuguese": "Como suas estradas vão funcionar após uma tempestade de areia? Você estaria preparado?",
 		"hungarian": "Mennyire fognak működni az utaid egy homokvihar után? Te fel lennél rá készülve?",
+		"thai": "ถนนของคุณทำงานได้ดีแค่ไหนหลังจากเกิดพายุทราย? เตรียมพร้อมรับมือหรือยัง?",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",

@@ -15,6 +15,7 @@
 		"portuguese": "Sem energia suficiente na rede %networkId%",
 		"hungarian": "Nincs elég áram itt: Hálózat %networkId%",
 		"japanese": "電力ネットワーク網:No.%networkId%の電力が不足しています。",
+		"thai": "พลังงานในเครือข่าย %networkId% ไม่เพียงพอ",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -32,6 +33,7 @@
 		"portuguese": "Selecione uma pesquisa",
 		"hungarian": "Válassz kutatást",
 		"japanese": "研究が行われていません。",
+		"thai": "เลือกงานวิจัย",
 	},
 	"notEnoughWorkers_title": {
 		"english": "Not enough Workers",
@@ -49,6 +51,7 @@
 		"portuguese": "Trabalhadores insuficientes",
 		"hungarian": "Nincs elég munkás",
 		"japanese": "労働者が不足しています。",
+		"thai": "คนงานไม่เพียงพอ",
 	},
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
@@ -66,6 +69,7 @@
 		"portuguese": "Se você não tiver trabalhadores suficientes, suas fábricas não funcionarão com eficiência.\nUse a ferramenta de priorização no canto superior esquerdo para distribuir sua força de trabalho.",
 		"hungarian": "Ha nincs elég munkásod a gyárak nem működnek elég hatékonyan.\nPriorizáld a munkákat a bal felső sarokban.",
 		"japanese": "労働者が不足している工場は稼働率が落ちます。\n左上の生産状況から必要な工場へ労働者を優先させてください。",
+		"thai": "ถ้าคุณมีคนงานไม่เพียงพอ โรงงานของคุณจะทำงานอย่างไม่มีประสิทธิภาพ\nใช้เครื่องมือจัดลำดับความสำคัญที่ด้านซ้ายบนเพื่อจัดแจงคนงานของคุณ",
 	},
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
@@ -83,6 +87,7 @@
 		"portuguese": "Turbulências diminuem a eficiência da turbina eólica",
 		"hungarian": "A turbulencia csökkenti a szélerőmű hatékonyságát",
 		"japanese": "乱気流の発生で効率が低下します。",
+		"thai": "ความแปรปวนของอากาศลดประสิทธิภาพการทำงานของกังหันลม",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -100,5 +105,6 @@
 		"portuguese": "Duas turbinas eólicas estão muito próximas. Sua eficiência está reduzida.",
 		"hungarian": "Két szélerőmű túl közel van egymáshoz. A hatékonyságuk csökkentve lett.",
 		"japanese": "風力発電所が近すぎるため発電量が低下します。",
+		"thai": "กังหันลมสองตัวอยู่ใกล้กันเกินไปประสิทธิภาพจะลดลง",
 	},
 }
