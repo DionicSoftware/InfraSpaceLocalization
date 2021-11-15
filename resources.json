@@ -49,6 +49,7 @@
 		"slovak": "Betón",
 		"portuguese": "Concreto",
 		"hungarian": "Beton",
+		"thai": "คอนกรีต",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -185,6 +186,7 @@
 		"slovak": "Oceľ",
 		"portuguese": "Aço",
 		"hungarian": "Acél",
+		"thai": "เหล็ก",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -542,6 +544,8 @@
 		"slovak": "Kyslík",
 		"portuguese": "Oxigênio",
 		"hungarian": "Oxigén",
+		"thai": "ออกซิเจน",
+		
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -627,6 +631,7 @@
 		"slovak": "Jedlo pre prežitie",
 		"portuguese": "Comida de sobrevivência",
 		"hungarian": "Túlélési étel",
+		"thai": "อาหารเอาชีวิตรอด",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -746,5 +751,6 @@
 		"slovak": "Energia",
 		"portuguese": "Energia",
 		"hungarian": "Energia",
+		"thai": "พลังงาน",
 	},
 }

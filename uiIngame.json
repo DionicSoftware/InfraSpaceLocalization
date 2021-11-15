@@ -32,6 +32,7 @@
 		"portuguese": "Necessário: %amount% MW",
 		"czech": "Požadované: %amount% MW",
 		"hungarian": "Szükséges: %amount% MW",
+		"thai": "ต้องการพลังงาน: %amount% เมกะวัตต์",
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -49,6 +50,7 @@
 		"portuguese": "Energia consumida:",
 		"czech": "Elektřina byla spotřebována:",
 		"hungarian": "Energia használva:",
+		"thai": "พลังงานที่ใช้:",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -66,6 +68,7 @@
 		"portuguese": "Energia produzida:",
 		"czech": "Produkce elektřiny:",
 		"hungarian": "Energia előállítva:",
+		"thai": "พลังงานที่ผลิตได้:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -168,6 +171,7 @@
 		"portuguese": "%amount%% de eficiência",
 		"czech": "%amount%% efektivita",
 		"hungarian": "%amount%% hatékonyság",
+		"thai": "ประสิทธิภาพ %amount%%",
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -372,6 +376,7 @@
 		"portuguese": "Produção",
 		"czech": "Produkce",
 		"hungarian": "Termelés",
+		"thai": "การผลิต",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -423,6 +428,7 @@
 		"portuguese": "Armazenamento",
 		"czech": "Sklad",
 		"hungarian": "Raktár",
+		"thai": "พื้นที่เก็บ",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -598,6 +604,7 @@
 		"portuguese": "Os habitantes estão bem.",
 		"czech": "Obyvatelé jsou v pořádku.",
 		"hungarian": "A lakók jól vannak.",
+		"thai": "ผู้อยู่อาศัยสบายดี",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -666,6 +673,7 @@
 		"portuguese": "População",
 		"czech": "Populace",
 		"hungarian": "Népesség",
+		"thai": "ประชากร",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -683,6 +691,7 @@
 		"portuguese": "Empregos",
 		"czech": "Práce",
 		"hungarian": "Munkák",
+		"thai": "งาน",
 	},
 	"housing": {
 		"english": "Housing",
@@ -700,6 +709,7 @@
 		"portuguese": "Moradia",
 		"czech": "Obydlí",
 		"hungarian": "Lakhatások",
+		"thai": "ที่อยู่อาศัย",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -716,6 +726,7 @@
 		"portuguese": "Estatísticas da cidade",
 		"czech": "Statistiky města",
 		"hungarian": "Statisztikák",
+		"thai": "สถิติเมือง",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -733,6 +744,7 @@
 		"portuguese": "População",
 		"czech": "Populace",
 		"hungarian": "Népesség",
+		"thai": "ประชากร",
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -750,6 +762,7 @@
 		"portuguese": "Empregos",
 		"czech": "Práce",
 		"hungarian": "Munkák",
+		"thai": "งาน",
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -767,6 +780,7 @@
 		"portuguese": "Moradia",
 		"czech": "Obydlí",
 		"hungarian": "Lakhatások",
+		"thai": "ที่อยู่อาศัย",
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -886,6 +900,7 @@
 		"portuguese": "Construir estrada curva",
 		"czech": "Postavit zakřivenou cestu",
 		"hungarian": "Ívelt út építése",
+		"thai": "สร้างถนนโค้ง",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -903,6 +918,8 @@
 		"portuguese": "Travar comprimento da estrada",
 		"czech": "Délka cesty",
 		"hungarian": "Út hosszának igazítása",
+		"thai": "สแน็ปความยาวถนน",
+		
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -920,6 +937,7 @@
 		"portuguese": "Travar angulo da estrada",
 		"czech": "Úhel cesty",
 		"hungarian": "Út szögének igazítása",
+		"thai": "สแน็ปมุมถนน",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -937,6 +955,7 @@
 		"portuguese": "Substituir estrada",
 		"czech": "Nahradit cestu",
 		"hungarian": "Út visszaállítása",
+		"thai": "เปลี่ยนถนน",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -951,6 +970,7 @@
 		"czech": "Změní směr cesty, pokud nemáte vybranou náhradní cestu",
 		"japanese": "選択されていない道路も進行方向が逆になります",
 		"hungarian": "Visszaállítja az út irányát ha nincsen más út kijelölve.",
+		"thai": "กลับทิศทางถนนหากคุณไม่ได้เลือกถนนที่จะเปลี่ยน",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -965,6 +985,7 @@
 		"czech": "Zpáteční cesta",
 		"japanese": "反転",
 		"hungarian": "Út visszafordítása",
+		"thai": "กลับถนน",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -982,6 +1003,7 @@
 		"portuguese": "Travar à estrada",
 		"czech": "Připojovat budovu cestou",
 		"hungarian": "Úthoz igazítás",
+		"thai": "สแน๊ปไปหาถนน",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1255,6 +1277,7 @@
 		"portuguese": "Energia",
 		"czech": "Energie",
 		"hungarian": "Áram",
+		"thai": "พลังงาน",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1391,6 +1414,7 @@
 		"portuguese": "Recursos necessários;",
 		"czech": "Potřebné suroviny:",
 		"hungarian": "Anyagok szükségesek:",
+		
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -1646,6 +1670,7 @@
 		"portuguese": "MW",
 		"czech": "MW",
 		"hungarian": "MW",
+		"thai": "MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
