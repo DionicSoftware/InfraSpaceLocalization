@@ -37,3 +37,6 @@ Czech
 
 Thai
 - watchakorn-18k
+
+Hungarian
+- IrOn
