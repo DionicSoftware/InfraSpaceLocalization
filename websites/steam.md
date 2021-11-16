@@ -25,7 +25,7 @@ If it's too long, the text is going to be cut by Steam.
 If you can't make it short enough, talk to us.
 
 ### English
-InfraSpace is a sci-fi city builder - but every resource you produce has to go through your transport infrastructure. In order to thrive in this solar system, you'll not only have to start mining operations and manage production chains, but also make sure your road network is up to the task.
+A sci-fi city builder where the flow of resources goes through your city's transport infrastructure. Build an extrasolar efficiency utopia from nothing. Start mining operations, plan production, and lay down transportation routes to ensure a smooth supply chain.
 
 ### German
 InfraSpace ist ein sci-fi Städtebauspiel - aber jede Ressource und jedes Produkt muss durch dein Transportsystem. Damit du in diesem Sonnensystem überlebst, musst du nicht nur Rohstoffe abbauen und Produktion managen, sondern dich auch um dein Straßennetzwerk kümmern.
@@ -62,6 +62,10 @@ Az InfraSpace egy sci-fi város építő - de minden alapanyag amit előállíta
 
 ### Thai
 InfraSpace คือเกมสร้างเมืองแนวไซไฟ - ทรัพยากรทุกอย่างที่คุณผลิตต้องผ่านโครงสร้างพื้นฐานด้านการขนส่งของคุณ เพื่อที่จะได้เติบโตในระบบสุริยะนี้ คุณไม่ใช่แค่ต้องทำการขุดเหมืองและจัดการห่วงโซ่การผลิตเท่านั้น แต่ยังต้องแน่ใจว่าถนนหนทางของคุณต้องพร้อมสำหรับการทำภารกิจด้วย
+
+### Czech
+
+Infraspace je sci-fi budování města - kde každý zdroj musí projít svou dopravní infrastrukturou. Abyste mohli začít v tomto slunečním systému, musíte nejen zahájit těžební operace a spravovat výrobní řetězce, ale také se musíte ujistit, že vaše silniční síť je v pořádku.
 
 # Long Description - Translation Disclaimer
 *******************************************
@@ -108,11 +112,11 @@ Substitute "..." with your language
 （翻訳はコミュニティによって行われました。）
 
 ### Czech
-( Český překlad byl vytvořen komunitou )
+(Český překlad byl vytvořen komunitou)
 
 ### Slovak
 
-( Slovenský preklad bol vytvorený komunitou )
+(Slovenský preklad bol vytvorený komunitou)
 
 ### Hungarian
 
@@ -221,6 +225,13 @@ Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomít�
 
 เมื่อคุณมีเหล็ก คาร์บอน ทราย และกำมะถันแล้ว ก็ถึงเวลาที่จะตั้งโรงถลุงเหล็กและโรงงานคอนกรีตแห่งแรกของคุณเพื่อเริ่มวางโครงสร้างพื้นฐานบางส่วนก่อน แม้แต่สิ่งจำเป็นเช่นอาหารและออกซิเจนก็ต้องการห่วงโซ่การผลิตที่มั่นคงและพังไม่ได้
 
+### Czech
+
+Vyrábět vše, co spotřebujete
+
+Nemůžete vybudovat město bez využití zdrojů planety. Budete muset dát své první astronauty do dolů, za získáním surovin pro další rozvoj.
+
+Jakmile budete mít nějaké železo, uhlík, písek a síru, je čas postavit svou první ocelárnu a a betonárku, aby nastartovali začínající infrastrukturu. Dokonce i potřeby, jako je jídlo a kyslík vyžadují stabilní výrobní řetězec, který nesmí být narušen!
 
 # Long Description - Transport Section
 **************************************
@@ -303,6 +314,14 @@ Infraestrutura de transporte
 O InfraSpace simula carro individualmente. Cada recurso que você produz precisa ser transportado para uma fábrica para processamento e cada produto precisa ir para uma moradia para o consumo.
 
 Sua rede rodoviária pode lidar com muita coisa, mas sem sua supervisão ela irá parar e eventualmente se afogar no tráfego. Construa rodovias, rotatórias e estradas com várias faixas para garantir que o centro de produção da cidade continue funcionando.
+
+### Czech
+
+Dopravní infrastruktura
+
+InfraSpace ovládá každé jednotlivé auto. Každý zdroj, který jste někdy vytvořili, je potřeba přepravovat do továrny ke zpracování a každý výrobek se potřebuje dopravit k další spotřebě.
+
+Vaše silniční síť dokáže hodně zvládnout, ale bez vašeho dohledu to nepůjde. Budetet muset stavět dálnice, kruhové objezdy a větší silnice, aby bylo zajištěno, že "výrobní srdce" města stále bije.
 
 ### Hungarian !
 
@@ -414,124 +433,13 @@ Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hog
 
 เมื่อการตั้งถิ่นฐานของคุณเติบโตขึ้น คุณต้องครอบคลุมปริมาณงานที่เพิ่มขึ้นโดยการจ้างนักวิทยาศาสตร์และวิศวกร ซึ่งต้องการความสะดวกสบายเพิ่มขึ้นอีกสองสามอย่าง เมืองที่มีขนาดเพียงพอแล้วไม่ช้าก็เร็วจะมีบ้านของครอบครัวมากขึ้น ดังนั้นตรวจสอบให้แน่ใจว่าโรงเรียนของคุณสามารถจัดการกับมันได้ และคุณสามารถส่งมอบผลิตภัณฑ์ VR-edutainment ล่าสุดได้เหมือนกัน
 
+### Czech
 
-# Long Description - End Goal Section
-*************************************
+Růst populace
 
-### English
-The End Goal
+Vaši první kolonisté budou astronauté, ti nejlepší a nejodvážnější, které samotné lidstvo nabízí. Dejte jim jídlo a přístřeší a oni za to uchovají vaši základnu.
 
-Humanity has discovered the technology to make artificial wormholes in order to jump vast distances through space. Unfortunately, these wormholes require portals of enormous size - no small team of astronauts can build one on their own.
-
-As humanity's conquest of space continues, it's your job to build an outpost in a far off world capable to handle the huge amounts of resources and work necessary to build one of these portals.
-
-You can choose to ignore the end goal and just build freely in infinite mode if that's more your style of city building!
-
-### German
-Das Endziel
-
-Die Menschheit hat entdeckt wie man künstliche Wurmlöcher erstellt um weite Distanzen durch dein Weltraum zu reisen. Leider benötigen diese Wurmlöcher Portale einer riesigen Größe - kein kleines Team von Astronauten kann so etwas alleine bauen. Die Menschheit erobert den Weltraum und es ist deine Aufgabe einen Außenposten in einer fernen Welt zu errichten, der in der Lage ist gewaltige Mengen an Ressourcen und Arbeit bereitzustellen um eines dieser Portale zu bauen.
-
-Als Spieler kannst du auch dieses Endziel ignorieren und im unendlichen Spielmodus einfach frei bauen, falls das mehr dein Stil ist!
-
-### French
-L'objectif final
-
-L'humanité a découvert la technologie permettant de créer des trous de ver artificiels afin de sauter de vastes distances dans l'espace. Malheureusement, ces trous de ver nécessitent des portails de taille énorme - une simple petite équipe d'astronautes ne peut en construire un toute seule.
-
-Alors que la conquête de l'espace par l'humanité se poursuit, il vous appartient de construire un avant-poste dans un monde lointain, capable de gérer les énormes quantités de ressources et de travail nécessaires à la construction d'un de ces portails.
-
-Vous pouvez choisir d'ignorer l'objectif final et de construire librement en mode libre, si vous préférez !
-
-### Spanish
-La meta final
-
-La humanidad ha descubierto la tecnología para crear agujeros de gusano artificiales para saltar vastas distancias a través del espacio. Desafortunadamente, estos agujeros de gusano requieren de portales enormes - ningún pequeño equipo de astronautas puede contruir uno por su cuenta.
-
-A medida que la conquista del espacio por la humanidad continua, es tu trabajo construir un puesto avanzado en un mundo muy lejano capaz de manejar la enorme cantidad de recursos y trabajo necesarios para construir uno de estos portales.
-
-¡Puedes elegir ignorar la meta final y solo construir libremente en el modo infinito si ese es más tu estilo de construcción de ciudades!
-
-### Russian
-Конечная цель
-
-Человечество открыло технологию создания искусственных червоточин, позволяющих преодолевать огромные расстояния в космосе. К сожалению, для этих червоточин требуются порталы огромных размеров - ни одна небольшая группа астронавтов не сможет построить их самостоятельно.
-
-Пока человечество продолжает покорение космоса, ваша задача - построить аванпост в далеком мире, способный обрабатывать огромное количество ресурсов и работы, необходимой для строительства одного из этих порталов.
-
-Вы можете игнорировать конечную цель и просто свободно строить в бесконечном режиме, если это ваш стиль игры!
-
-### Chinese
-终极目标
-
-人类文明已经学会了如何建造人工虫洞来向远的太空进行探索。不幸的是，建造这些虫洞需要大型的传送门——仅靠最初的家园是远远不够的。
-
-随着人类进一步征服太空，现在轮到你在遥远的星球上建立前哨，为这项庞大的工程提供资源和人力。
-
-你也可以选择无视这个目标，自由的发展自己的殖民地。
-
-### Italian
-L'Obiettivo Finale
-
-L'umanità ha scoperto la tecnologia necessaria per creare condotti spazio-temporali artificiali che consentono di viaggiare per lunghe distanze nello spazio. Sfortunatamente, questi condotti richiedono enormi portali - nessuna piccola squadra di astronauti ne può costruire uno da sola.
-
-Mentre la conquista dello spazio da parte dell'umanità continua, il tuo compito è di costruire un avamposto in un mondo lontano che sia in grado di gestire l'enorme quantità di risorse necessarie per costruire uno di questi portali.
-
-Puoi scegliere di ignorare l'obiettivo finale e semplicemente costruire la tua città in libertà nella modalità infinita, se questo è il tuo stile di gioco!
-
-### Polish
-Cel ostateczny
-
-Ludzkość odkryła technologię tworzenia sztucznych tuneli czasoprzestrzennych pozwalających na pokonywanie kosmicznych odległości. Niestety, tunele te wymagają portali ogromnych rozmiarów, z których budową niewielki zespół astronautów sam sobie nie poradzi.
-
-Gdy ludzkość kontynuuje podbój kosmosu, Twoim zadaniem jest zbudowanie osady na obrzeżach kosmosu będącej w stanie zapewnić wystarczająco dużo surowców i pracowników, aby wybudować jeden z takich portali.
-
-Choć, jeśli wolisz, możesz zupełnie pominąć ten cel i grać w trybie nieskończonym.
-
-### Ukrainian
-Кінцева ціль
-
-Людство відкрило технологію створення штучних червоточин, щоб стрибати на величезні відстані у космосі. На жаль, для цих червоточин потрібні портали величезних розмірів — жодна невелика команда астронавтів не може побудувати їх самостійно.
-
-Оскільки людство продовжує завоювати космос, ваша робота полягає в тому, щоб побудувати форпост у далекому світі, здатний обробляти величезні ресурси та роботи, необхідних для створення одного з цих порталів.
-
-Ви можете ігнорувати кінцеву мету і просто будувати вільно в нескінченному режимі, якщо це  ваш стиль гри!
-
-### Slovak
-Konečný cieľ
-
-Ľudstvo objavilo technológiu, aby umelých červov, aby sa skočili obrovské vzdialenosti cez priestor. Bohužiaľ, tieto červy vyžadujú portály enormnej veľkosti - žiaden malý tím astronautov môže stavať jeden samostatne.
-
-Ako dobytie priestoru pre ľudstvo pokračuje, je tvoja práca vybudovať základňu na ďalekom svete schopný zvládnuť obrovské množstvo zdrojov a prácu potrebnú na vybudovanie jedného z týchto portálov.
-
-Môžete sa rozhodnúť ignorovať koncový cieľ a len ak vám stačí stavať voľne v nekonečnom režime, ak je to viac váš štýl mestskej budovy!
-
-### Portuguese
-O objetivo final
-
-A humanidade descobriu a tecnologia para fazer buracos de minhoca artificiais a fim de pular grandes distâncias no espaço. Infelizmente, esses buracos de minhoca requerem portais de tamanho gigantesco - nenhuma equipe pequena de astronautas pode construir um por conta própria.
-
-À medida que a conquista do espaço pela humanidade continua, o seu trabalho é construir um posto avançado em um mundo distante, capaz de lidar com a enorme quantidade de recursos e trabalho necessários para construir um desses portais.
-
-Você pode escolher ignorar o objetivo final e apenas construir livremente no modo infinito se esse for mais o seu estilo de construção de cidade!
-
-### Hungarian
-A végső cél
-
-Az emberiség feltalálta a mesterséges féreglyukakat, hogy hatalmas távolságokat tudjanak ugrani az űrben. Sajnos ezek méretes portálokat igényelnek - a megszokottnál sokkal több asztronautára lesz szükséged egy ilyenhez.
-
-Ahogy az emberiség űrbéli hódításai folytatódnak, rád hárul a felelősség, hogy építs egy előőrsöt messze a városodtól, ami képes lesz nagyon nagy mennyiségű anyagokat és munkaerőt felhasználva építeni egy ilyen portált.
-
-Ám természetesen választhatod azt is, hogy kihagyod ezt a célt, és szabadon építhetsz a végtelen módban ha jobban illik ez a városod stílusához.
-
-### Thai
-เป้าหมายสุดท้าย
-
-มนุษยชาติได้ค้นพบเทคโนโลยีในการสร้างรูหนอนเทียมเพื่อกระโดดข้ามอวกาศในระยะทางอันกว้างใหญ่ ได้ แต่น่าเสียดายที่รูหนอนเหล่านี้ต้องการพอร์ทัลขนาดใหญ่ - ไม่มีทีมนักบินอวกาศกลุ่มเล็กๆใดๆที่สามารถสร้างพอร์ทัลนั้นได้
-
-ในขณะที่พิชิตอวกาศของมนุษยชาติยังคงดำเนินต่อไป เป็นงานของคุณที่จะต้องสร้างด่านหน้าในโลกอันห่างไกลที่สามารถจัดการทรัพยากรจำนวนมหาศาลและงานที่จำเป็นในการสร้างพอร์ทัลเหล่านี้
-
-คุณสามารถเลือกที่จะเพิกเฉยต่อเป้าหมายสุดท้ายและเพียงแค่สร้างอย่างอิสระในโหมดไม่มีที่สิ้นสุด หากนั่นเป็นสไตล์การสร้างเมืองของคุณมากกว่า!
+Jelikož vaše město roste, musíte pokrýt rostoucí pracovní zatížení zaměstnáváním vědců a inženýrů, kteří vyžadují několik dalších věcí k získání jejich pohodlí. Jakékoli město dostatečné velikosti bude mít dříve nebo později dům pro více a více rodin, takže se ujistěte, že to vaše školy dokáží zvládnout a vy jste schopni dodat nejnovější produkty VR-zábavy.
 
 # Long Description - Difficulty Section
 ***************************************
@@ -600,3 +508,9 @@ A forgalomirányítás lehet ingatag, a túlélés lehet nehéz. Mindkettőn vá
 อย่าเล่นยากจนเกินไป
 
 การจัดการจราจรอาจไม่แน่นอนและการเอาตัวรอดอาจเป็นเรื่องยาก คุณสามารถปรับความยากของทั้งสองอย่างเพื่อให้ประสบการณ์การจัดการเมืองของคุณเป็นเรื่องง่าย - หรือยาก - ตามที่คุณต้องการ
+
+### Czech
+
+Nemusíte hrát tvrdě
+
+Řízení dopravy je někdy náročné a přežití může být obtížné. Můžete obě dvě věci zjednodušit tak, aby vaše zážitky z řízení města byly jen tak obtížné, jak sami chcete.
