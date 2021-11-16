@@ -40,3 +40,4 @@ Thai
 
 Hungarian
 - IrOn
+- Bucsek Attila (ElNutellino_)
