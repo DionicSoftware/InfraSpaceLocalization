@@ -63,6 +63,10 @@ Az InfraSpace egy sci-fi város építő - de minden alapanyag amit előállíta
 ### Thai
 InfraSpace คือเกมสร้างเมืองแนวไซไฟ - ทรัพยากรทุกอย่างที่คุณผลิตต้องผ่านโครงสร้างพื้นฐานด้านการขนส่งของคุณ เพื่อที่จะได้เติบโตในระบบสุริยะนี้ คุณไม่ใช่แค่ต้องทำการขุดเหมืองและจัดการห่วงโซ่การผลิตเท่านั้น แต่ยังต้องแน่ใจว่าถนนหนทางของคุณต้องพร้อมสำหรับการทำภารกิจด้วย
 
+### Czech
+
+Infraspace je sci-fi budování města - kde každý zdroj musí projít svou dopravní infrastrukturou. Abyste mohli začít v tomto slunečním systému, musíte nejen zahájit těžební operace a spravovat výrobní řetězce, ale také se musíte ujistit, že vaše silniční síť je v pořádku.
+
 # Long Description - Translation Disclaimer
 *******************************************
 Substitute "..." with your language
@@ -108,11 +112,11 @@ Substitute "..." with your language
 （翻訳はコミュニティによって行われました。）
 
 ### Czech
-( Český překlad byl vytvořen komunitou )
+(Český překlad byl vytvořen komunitou)
 
 ### Slovak
 
-( Slovenský preklad bol vytvorený komunitou )
+(Slovenský preklad bol vytvorený komunitou)
 
 ### Hungarian
 
@@ -221,6 +225,13 @@ Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomít�
 
 เมื่อคุณมีเหล็ก คาร์บอน ทราย และกำมะถันแล้ว ก็ถึงเวลาที่จะตั้งโรงถลุงเหล็กและโรงงานคอนกรีตแห่งแรกของคุณเพื่อเริ่มวางโครงสร้างพื้นฐานบางส่วนก่อน แม้แต่สิ่งจำเป็นเช่นอาหารและออกซิเจนก็ต้องการห่วงโซ่การผลิตที่มั่นคงและพังไม่ได้
 
+### Czech
+
+Vyrábět vše, co spotřebujete
+
+Nemůžete vybudovat město bez využití zdrojů planety. Budete muset dát své první astronauty do dolů, za získáním surovin pro další rozvoj.
+
+Jakmile budete mít nějaké železo, uhlík, písek a síru, je čas postavit svou první ocelárnu a a betonárku, aby nastartovali začínající infrastrukturu. Dokonce i potřeby, jako je jídlo a kyslík vyžadují stabilní výrobní řetězec, který nesmí být narušen!
 
 # Long Description - Transport Section
 **************************************
@@ -303,6 +314,14 @@ Infraestrutura de transporte
 O InfraSpace simula carro individualmente. Cada recurso que você produz precisa ser transportado para uma fábrica para processamento e cada produto precisa ir para uma moradia para o consumo.
 
 Sua rede rodoviária pode lidar com muita coisa, mas sem sua supervisão ela irá parar e eventualmente se afogar no tráfego. Construa rodovias, rotatórias e estradas com várias faixas para garantir que o centro de produção da cidade continue funcionando.
+
+### Czech
+
+Dopravní infrastruktura
+
+InfraSpace ovládá každé jednotlivé auto. Každý zdroj, který jste někdy vytvořili, je potřeba přepravovat do továrny ke zpracování a každý výrobek se potřebuje dopravit k další spotřebě.
+
+Vaše silniční síť dokáže hodně zvládnout, ale bez vašeho dohledu to nepůjde. Budetet muset stavět dálnice, kruhové objezdy a větší silnice, aby bylo zajištěno, že "výrobní srdce" města stále bije.
 
 ### Hungarian !
 
@@ -414,6 +433,13 @@ Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hog
 
 เมื่อการตั้งถิ่นฐานของคุณเติบโตขึ้น คุณต้องครอบคลุมปริมาณงานที่เพิ่มขึ้นโดยการจ้างนักวิทยาศาสตร์และวิศวกร ซึ่งต้องการความสะดวกสบายเพิ่มขึ้นอีกสองสามอย่าง เมืองที่มีขนาดเพียงพอแล้วไม่ช้าก็เร็วจะมีบ้านของครอบครัวมากขึ้น ดังนั้นตรวจสอบให้แน่ใจว่าโรงเรียนของคุณสามารถจัดการกับมันได้ และคุณสามารถส่งมอบผลิตภัณฑ์ VR-edutainment ล่าสุดได้เหมือนกัน
 
+### Czech
+
+Růst populace
+
+Vaši první kolonisté budou astronauté, ti nejlepší a nejodvážnější, které samotné lidstvo nabízí. Dejte jim jídlo a přístřeší a oni za to uchovají vaši základnu.
+
+Jelikož vaše město roste, musíte pokrýt rostoucí pracovní zatížení zaměstnáváním vědců a inženýrů, kteří vyžadují několik dalších věcí k získání jejich pohodlí. Jakékoli město dostatečné velikosti bude mít dříve nebo později dům pro více a více rodin, takže se ujistěte, že to vaše školy dokáží zvládnout a vy jste schopni dodat nejnovější produkty VR-zábavy.
 
 # Long Description - Difficulty Section
 ***************************************
@@ -482,3 +508,9 @@ A forgalomirányítás lehet ingatag, a túlélés lehet nehéz. Mindkettőn vá
 อย่าเล่นยากจนเกินไป
 
 การจัดการจราจรอาจไม่แน่นอนและการเอาตัวรอดอาจเป็นเรื่องยาก คุณสามารถปรับความยากของทั้งสองอย่างเพื่อให้ประสบการณ์การจัดการเมืองของคุณเป็นเรื่องง่าย - หรือยาก - ตามที่คุณต้องการ
+
+### Czech
+
+Nemusíte hrát tvrdě
+
+Řízení dopravy je někdy náročné a přežití může být obtížné. Můžete obě dvě věci zjednodušit tak, aby vaše zážitky z řízení města byly jen tak obtížné, jak sami chcete.
