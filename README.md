@@ -27,7 +27,7 @@ Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translati
 ## Custom.txt:
 ```
 Game Version:
-Alpha 7.3.133
+Alpha 7.5.145
 Forced Language:
 english
 ```

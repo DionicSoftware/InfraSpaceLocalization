@@ -15,6 +15,7 @@
     "portuguese": "Agricultura",
     "japanese": "農業",
     "hungarian": "Mezőgazdaság",
+    "thai": "เกษตรกรรม",
   },
   "tech_electronics": {
     "english": "Electronics",
@@ -32,6 +33,7 @@
     "portuguese": "Eletrônica",
     "japanese": "エレクトロニクス",
     "hungarian": "Elektronika",
+    "thai": "อิเล็กทรอนิกส์",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -48,7 +50,8 @@
     "slovak": "Výroba ocele",
     "portuguese": "Produção de aço",
     "japanese": "鉄鋼生産",
-    "hungarian": "Fémtermelés"
+    "hungarian": "Fémtermelés",
+    "thai": "การผลิตเหล็กกล้า",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -66,6 +69,7 @@
     "portuguese": "Ciência verde",
     "japanese": "グリーンサイエンス",
     "hungarian": "Zöld kutatás",
+    "thai": "วิทยาศาสตร์สีเขียว",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -83,6 +87,7 @@
     "portuguese": "Eletrodomésticos",
     "japanese": "家電",
     "hungarian": "Háztartási gépek",
+    "thai": "เครื่องใช้ในบ้าน",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -100,6 +105,7 @@
     "portuguese": "Painéis solares",
     "japanese": "太陽光発電",
     "hungarian": "Napelemek",
+    "thai": "แผงโซลาร์เซลล์",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -117,6 +123,7 @@
     "portuguese": "Turbina eólica aprimoradas",
     "japanese": "風力発電機の改良",
     "hungarian": "Fejlesztett szélerőmű lapátok",
+    "thai": "ปรับปรุงใบพัดกังหันลม",
   },
   "techDesc_improvedWindTurbineBlades": {
     "english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -134,6 +141,7 @@
     "portuguese": "Adapta o formato das pás da turbina eólica à atmosfera. Isso leva à uma menor perturbação no ar, o que permite construir turbinas eólicas mais próximas umas das outras.",
     "japanese": "風力発電機の羽の形状をこの星の大気に適合させることで風力発電所の距離を縮めることができます。",
     "hungarian": "Alkalmazkodóvá teszi a szélerőmű lapátjait az atmoszférához. Ezzel csökkenti az ellenszelet a levegőben aminek köszönhetően közelebb tudod építeni a szélerőműveket egymáshoz.",
+    "thai": "ปรับรูปทรงใบพัดกังหันลมให้เข้ากับบรรยากาศจะทำให้การอากาศที่รบกวนต่ำลง ซึ่งช่วยให้คุณสร้างกังหันลมให้ชิดกันได้มากขึ้น",
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -151,6 +159,7 @@
     "portuguese": "Estradas de concreto",
     "japanese": "舗装道路",
     "hungarian": "Beton utak",
+    "thai": "ถนนคอนกรีต",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -168,6 +177,7 @@
     "portuguese": "Extração de alumínio",
     "japanese": "アルミ採掘",
     "hungarian": "Alumínium bányászat",
+    "thai": "การขุดอลูมิเนียม",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -185,6 +195,7 @@
     "portuguese": "Subestações de energia",
     "japanese": "変電所",
     "hungarian": "Elektronikai alállomások",
+    "thai": "สถานีไฟฟ้าย่อย",
   },
   "techDesc_powerSubstation": {
     "english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -202,6 +213,7 @@
     "portuguese": "Integre subestações em sua rede de energia para que você não precise conectar todos os edifícios com postes de energia.",
     "japanese": "変電所を電力ネットワーク網に統合することで無柱化による電力供給ができます。",
     "hungarian": "Integrálj alállomásokat az elektronikai hálózatodba, így nem kell minden egyes építményhez külön villanypózna.",
+    "thai": "รวมสถานีไฟฟ้าย่อยเข้ากับเครือข่ายไฟฟ้าของคุณ คุณจึงไม่ต้องจัดหาเสาไฟฟ้าให้กับอาคารทุกอาคาร",
   },
   "tech_motors": {
     "english": "Motors",
@@ -219,6 +231,7 @@
     "portuguese": "Motores",
     "japanese": "モーター",
     "hungarian": "Motorok",
+    "thai": "มอเตอร์",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -236,6 +249,7 @@
     "portuguese": "Estradas de quatro vias",
     "japanese": "4車線道路",
     "hungarian": "Négysávos útak",
+    "thai": "ถนนสี่เลน",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -253,6 +267,7 @@
     "portuguese": "Estradas de mão única",
     "japanese": "一方通行",
     "hungarian": "Egyirányú útak",
+    "thai": "ถนนเลนเดียว",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -270,6 +285,7 @@
     "portuguese": "Grandes edifícios",
     "japanese": "公園",
     "hungarian": "Nagy építmények",
+    "thai": "อาคารขนาดใหญ่",
   },
   "tech_computers": {
     "english": "Computers",
@@ -287,6 +303,7 @@
     "portuguese": "Computadores",
     "japanese": "コンピューター",
     "hungarian": "Számítógépek",
+    "thai": "คอมพิวเตอร์",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -304,6 +321,7 @@
     "portuguese": "Grandes mineiradoras",
     "japanese": "大型採掘機",
     "hungarian": "Nagy bányák",
+    "thai": "เหมืองขนาดใหญ่",
   },
   "techDesc_largeMines": {
     "english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -321,6 +339,7 @@
     "portuguese": "Acelere a extração de recursos para alimentar a fome de sua cidade em crescimento.",
     "japanese": "増加する都市への物資供給のために大型採掘機を導入して採掘速度を上げます。",
     "hungarian": "Gyorsítsd fel a nyersanyagkinyerést hogy oltsd a növekvő városod éhségét.",
+    "thai": "เร่งการสกัดทรัพยากรเพื่อขจัดความหิวโหยในเมืองที่กำลังเติบโตของคุณ",
   },
   "tech_foodProcessing": {
     "english": "Food Processing",
@@ -338,6 +357,7 @@
     "portuguese": "Alimentação",
     "japanese": "食品加工",
     "hungarian": "Étel átdolgozás",
+    "thai": "การแปรรูปอาหาร",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -355,6 +375,7 @@
     "portuguese": "Fertilizante",
     "japanese": "土壌改良",
     "hungarian": "Műtrágya",
+    "thai": "ปุ๋ย",
   },
   "techDesc_fertilizer": {
     "english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -372,6 +393,7 @@
     "portuguese": "Forneça solo fertilizado para fazendas próximas e aumente sua produção significativamente.",
     "japanese": "土壌改良は農場の生産を大幅に増加させます。",
     "hungarian": "Adj trágyázott földet a közeli farmokra ezzel jelentősen növelve a termelésüket.",
+    "thai": "สนับสนุนดินปุ๋ยให้กับไร่ใกล้เคียงเพื่อเพิ่มผลผลิตที่ดีเยี่ยม",
   },
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -389,6 +411,7 @@
     "portuguese": "Nanotubos de carbono",
     "japanese": "カーボンナノチューブ",
     "hungarian": "Szén nanocsövek",
+    "thai": "ท่อนาโนคาร์บอน",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -406,6 +429,7 @@
     "portuguese": "Painéis solares autolimpantes",
     "japanese": "自動洗浄ソーラーパネル",
     "hungarian": "Öntisztító napelemek",
+    "thai": "แผงโซลาร์เซลล์ทำความสะอาดตัวเอง",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -423,6 +447,7 @@
     "portuguese": "Depois que seus painéis solares se limparem, suas fazendas de energia solar irão gerar muito mais energia.",
     "japanese": "自動洗浄機能を備えたソーラーパネルの太陽光発電機は更に多くの電力を生み出します。",
     "hungarian": "Amint a napelemeid letisztítják magukat, máris több energiát fognak termelni.",
+    "thai": "เมื่อแผงโซลาร์เซลล์ของคุณทำความสะอาดตัวเองแล้ว โรงไฟฟ้าพลังงานแสงอาทิตย์ของคุณจะผลิตพลังงานได้มากขึ้น",
   },
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -440,6 +465,7 @@
     "portuguese": "Estradas de seis vias",
     "japanese": "6車線道路",
     "hungarian": "Hatsávos útak.",
+    "thai": "ถนนหกเลน",
   },
   "tech_stadiums": {
     "english": "Stadiums",
@@ -457,6 +483,7 @@
     "portuguese": "Estádios",
     "japanese": "スタジアム",
     "hungarian": "Stadionok",
+    "thai": "สนามกีฬา",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -474,6 +501,7 @@
     "portuguese": "Processadores neurais",
     "japanese": "ニューラルプロセッサー",
     "hungarian": "Neurális processzorok",
+    "thai": "เครื่องประมวลประสาท",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -491,6 +519,7 @@
     "portuguese": "Ciência amarela",
     "japanese": "イエローサイエンス",
     "hungarian": "Sárga tudomány",
+    "thai": "วิทยาศาสตร์สีเหลือง",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -508,6 +537,7 @@
     "portuguese": "Extração de urânio",
     "japanese": "ウラン採掘",
     "hungarian": "Uránium bányászat",
+    "thai": "การขุดยูเรเนียม",
   },
   "tech_highways": {
     "english": "Highways",
@@ -525,6 +555,7 @@
     "portuguese": "Rodovias",
     "japanese": "高速道路",
     "hungarian": "Autópályák",
+    "thai": "ทางหลวง",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -542,6 +573,7 @@
     "portuguese": "Super-rodovias",
     "japanese": "アウトバーン",
     "hungarian": "Szuper autópályák",
+    "thai": "ทางด่วน",
   },
   "tech_homeRobots": {
     "english": "Home Robots",
@@ -559,6 +591,7 @@
     "portuguese": "Robôs domésticos",
     "japanese": "家庭用ロボ",
     "hungarian": "Házi robotok",
+    "thai": "หุ่นยนต์บ้าน",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -576,6 +609,7 @@
     "portuguese": "Robôs industriais",
     "japanese": "工業用ロボ",
     "hungarian": "Ipari robotok",
+    "thai": "หุ่นยนต์อุตสาหกรรม",
   },
   "techDesc_industrialRobots": {
     "english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -593,6 +627,7 @@
     "portuguese": "Abasteça suas fábricas com robôs industriais para reduzir a quantidade de trabalhadores necessária.",
     "japanese": "工業用ロボを設置することで必要な労働者を減らすことができます。",
     "hungarian": "Alklamazz ipari robotokat a gyárakban, hogy csökkentsd a szükséges munkások számát.",
+    "thai": "จัดหาหุ่นยนต์อุตสาหกรรมให้กับโรงงานของคุณเพื่อลดจำนวนคนงานลงได้",
   },
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -610,6 +645,7 @@
     "portuguese": "Filtro de partículas",
     "japanese": "粒子フィルター",
     "hungarian": "Részecske szűrő",
+    "thai": "ตัวกรองอนุภาค",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -627,6 +663,7 @@
     "portuguese": "Energia nuclear",
     "japanese": "原子力",
     "hungarian": "Nukleáris energia",
+    "thai": "พลังงานนิวเคลียร์",
   },
   "tech_schools": {
     "english": "Schools",
@@ -644,6 +681,7 @@
     "portuguese": "Escolas",
     "japanese": "学校",
     "hungarian": "Iskolák",
+    "thai": "โรงเรียน",
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -661,6 +699,7 @@
     "portuguese": "Extração de irídio",
     "japanese": "イリジウム採掘",
     "hungarian": "Iridium bányászat",
+    "thai": "การขุดอิริเดียม",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -678,6 +717,7 @@
     "portuguese": "Reciclagem",
     "japanese": "リサイクル",
     "hungarian": "Újrahasznosítás",
+    "thai": "การรีไซเคิล",
   },
   "techDesc_recycling": {
     "english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -695,6 +735,7 @@
     "portuguese": "Reduza o consumo de recursos processando resíduos industriais em fábricas próximas.",
     "japanese": "産業廃棄物をリサイクルすることで工場の物資を減少させます。",
     "hungarian": "Csökkentheted az anyagfelhasználásod, ha a közeli gyárakban újrahasznosítod az ipari hulladékot.",
+    "thai": "ลดการใช้ทรัพยากรของคุณด้วยการแปรรูปขยะอุตสาหกรรมในโรงงานที่ใกล้เคียง",
   },
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
     "english": "Holo-Displays",
@@ -712,6 +753,7 @@
     "portuguese": "Monitore holográficos",
     "japanese": "ホロディスプレイ",
     "hungarian": "Holo kijelzők",
+    "thai": "จอแสดงผลโฮโลแกรม",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -729,6 +771,7 @@
     "portuguese": "Oficina de alta tecnologia",
     "japanese": "ハイテクニカルツール",
     "hungarian": "Csúcstechnológia műhely",
+    "thai": "ห้องพัฒนาเทคโนโลยีขั้นสูง",
   },
   "techDesc_highTechWorkshop": {
     "english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -742,10 +785,11 @@
     "czech": "Továrnám zásobovaným High Tech nástroji se zvyšuje produkce.",
     "ukrainian": "Забезпечте свої підприємства високотехнологічними знаряддями, щоби підвищити продуктивність.",
     "slovak": "Zásobujte svoje továrne špičkovými technologickými nástrojmi s cieľom zvýšiť jej produktivitu.",
-    "dutch": "Voorzie uw fabrieken van high tech gereedschap om hun productiviteit te verhogen.",	 
+    "dutch": "Voorzie uw fabrieken van high tech gereedschap om hun productiviteit te verhogen.",
     "portuguese": "Abasteça suas fábricas com ferramentas de alta tecnologia para aumentar a produtividade.",
     "japanese": "ハイテクニカルツールは工場の生産を上昇させます。",
     "hungarian": "Készíts csúcstechnológiás eszközöket a gyáraidnak, hogy elősegítsd a gyártást.",
+    "thai": "สนับสนุนโรงงานของคุณด้วยเครื่องมือเทคโนโลยีขั้นสูงเพื่อเพิ่มผลผลิต",
   },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
@@ -763,6 +807,7 @@
     "portuguese": "Unidades de contrôle de IA",
     "japanese": "AI制御ユニット",
     "hungarian": "MI irányító egységek",
+    "thai": "ตัวควบคุมปัญญาประดิษฐ์",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -780,6 +825,7 @@
     "portuguese": "Propelente de irídio",
     "japanese": "イリジウム推進剤",
     "hungarian": "Iridium hajtóanyag",
+    "thai": "เชื้อเพลิงอิริเดียม",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -797,6 +843,7 @@
     "portuguese": "Reator rápido de nêutrons",
     "japanese": "高速中性子炉",
     "hungarian": "Gyors neutron reaktor",
+    "thai": "เครื่องปฏิกรณ์นิวตรอนเร็ว",
   },
   "tech_science4": {
     "english": "Red Science",
@@ -814,6 +861,7 @@
     "portuguese": "Ciência vermelha",
     "japanese": "レッドサイエンス",
     "hungarian": "Piros tudomány",
+    "thai": "วิทยาศาสตร์สีแดง",
   },
   "tech_adamantineMining": {
     "english": "Adamantine Mining",
@@ -831,5 +879,6 @@
     "portuguese": "Extração de adamantina",
     "japanese": "アダマンタイト採掘",
     "hungarian": "Adamantit bányászat",
+    "thai": "การขุดอาดามันเทียม",
   },
 }

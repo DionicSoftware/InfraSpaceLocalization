@@ -15,6 +15,7 @@
 		"dutch": "Kolonie",
 		"portuguese": "Posto avançado",
 		"hungarian": "Előőrs",
+		"thai": "ค่ายขนาดเล็ก",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -32,6 +33,7 @@
 		"dutch": "Nederzetting",
 		"portuguese": "Povoado",
 		"hungarian": "Település",
+		"thai": "นิคมขนาดเล็ก",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -49,6 +51,7 @@
 		"dutch": "Klein Dorp",
 		"portuguese": "Pequeno vilarejo",
 		"hungarian": "Kis város",
+		"thai": "หมู่บ้านขนาดเล็ก",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -66,6 +69,7 @@
 		"dutch": "Groot Dorp",
 		"portuguese": "Grande vilarejo",
 		"hungarian": "Nagy város",
+		"thai": "หมู่บ้านขนาดใหญ่",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -83,6 +87,7 @@
 		"dutch": "Stad",
 		"portuguese": "Cidade",
 		"hungarian": "Főváros",
+		"thai": "เมือง",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -100,5 +105,6 @@
 		"dutch": "Planetaire Hoofdstad",
 		"portuguese": "Capital planetária",
 		"hungarian": "Csillagközi főváros",
+		"thai": "เมืองหลวงแห่งดาวเคราะห์",
 	},
 }

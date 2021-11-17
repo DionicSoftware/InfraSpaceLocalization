@@ -15,6 +15,7 @@
 		"slovak": "Piesok",
 		"portuguese": "Areia",
 		"hungarian": "Homok",
+		"thai": "ทราย",
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
@@ -32,6 +33,7 @@
 		"slovak": "Síra",
 		"portuguese": "Enxofre",
 		"hungarian": "Kén",
+		"thai": "กำมะถัน",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -67,6 +69,7 @@
 		"slovak": "Železná ruda",
 		"portuguese": "Minério de ferro",
 		"hungarian": "Vas érc",
+		"thai": "แร่เหล็ก",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -84,6 +87,7 @@
 		"slovak": "Hliníková ruda",
 		"portuguese": "Minério de alumínio",
 		"hungarian": "Alumínium érc",
+		"thai": "แร่อะลูมิเนียม",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -101,6 +105,7 @@
 		"slovak": "Uránová ruda",
 		"portuguese": "Minério de urânio",
 		"hungarian": "Uránium érc",
+		"thai": "แร่ยูเรเนียม",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -118,6 +123,7 @@
 		"slovak": "Iridiová ruda",
 		"portuguese": "Monério de irídio",
 		"hungarian": "Iridium érc",
+		"thai": "แร่อิริเดียม",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -135,6 +141,7 @@
 		"slovak": "Adamantín",
 		"portuguese": "Adamantina",
 		"hungarian": "Adamantit",
+		"thai": "อาดามันเทียม",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -152,6 +159,7 @@
 		"slovak": "Uhlík",
 		"portuguese": "Carbono",
 		"hungarian": "Szén",
+		"thai": "คาร์บอน",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -169,6 +177,7 @@
 		"slovak": "Nanotrubice",
 		"portuguese": "Nanotubos",
 		"hungarian": "Nanocsövek",
+		"thai": "ท่อนาโน",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -186,7 +195,7 @@
 		"slovak": "Oceľ",
 		"portuguese": "Aço",
 		"hungarian": "Acél",
-		"thai": "เหล็ก",
+		"thai": "เหล็กกล้า",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -204,6 +213,7 @@
 		"slovak": "Medená ruda",
 		"portuguese": "Minério de cobre",
 		"hungarian": "Réz érc",
+		"thai": "แร่ทองแดง",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -221,6 +231,7 @@
 		"slovak": "Motor",
 		"portuguese": "Motor",
 		"hungarian": "Motor",
+		"thai": "มอเตอร์",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -238,6 +249,7 @@
 		"slovak": "Elektronika",
 		"portuguese": "Eletrônicos",
 		"hungarian": "Elektromos modulok",
+		"thai": "ชิ้นส่วนอิเล็กทรอนิกส์",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -255,6 +267,7 @@
 		"slovak": "Domáce spotrebiče",
 		"portuguese": "Eletrodomésticos",
 		"hungarian": "Háztartási gép",
+		"thai": "เครื่องใช้ภายในบ้าน",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -272,6 +285,7 @@
 		"slovak": "Mikročipy",
 		"portuguese": "Microchip",
 		"hungarian": "Mikrochip",
+		"thai": "ไมโครชิป",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -289,6 +303,7 @@
 		"slovak": "Neuronové procesory",
 		"portuguese": "Processador neural",
 		"hungarian": "Neurális processzor",
+		"thai": "เครื่องประมวลผลประสาท",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -306,6 +321,7 @@
 		"slovak": "Počítače",
 		"portuguese": "Computador",
 		"hungarian": "Számítógép",
+		"thai": "คอมพิวเตอร์",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -323,6 +339,7 @@
 		"slovak": "Roboty do domácnosti",
 		"portuguese": "Robô doméstico",
 		"hungarian": "Házi robot",
+		"thai": "หุ่นยนต์บ้าน",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -340,6 +357,7 @@
 		"slovak": "Priemysloví roboti",
 		"portuguese": "Robô industrial",
 		"hungarian": "Ipari robot",
+		"thai": "หุ่นยนต์อุตสาหกรรม",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -357,6 +375,7 @@
 		"slovak": "Špičkové Technológie nástroje",
 		"portuguese": "Ferramenta de alta tecnologia",
 		"hungarian": "Csúcstechnológiás eszköz",
+		"thai": "เครื่องมือเทคโนโลยีขั้นสูง",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -374,6 +393,7 @@
 		"slovak": "Hologramové obrazovky",
 		"portuguese": "Monitor holográfico",
 		"hungarian": "Holo kijelző",
+		"thai": "จอแสดงผลโฮโลแกรม",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -391,6 +411,7 @@
 		"slovak": "Zábavné VR",
 		"portuguese": "Realidade virtual educativa",
 		"hungarian": "Virtuális oktatóprogram",
+		"thai": "เครื่องจำลองโลกบันเทิงเสมือนจริง",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -408,6 +429,7 @@
 		"slovak": "Zliatina iridia",
 		"portuguese": "Liga de irídio",
 		"hungarian": "Iridium ötvözet",
+		"thai": "โลหะผสมอิริเดียม",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -425,6 +447,7 @@
 		"slovak": "Iridiové palivo",
 		"portuguese": "Propelente de irídio",
 		"hungarian": "Iridium hajtóanyag",
+		"thai": "เชื้อเพลิงอิริเดียม",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -442,6 +465,7 @@
 		"slovak": "Kontrolné jednotky umelej inteligencie",
 		"portuguese": "Unidade de contrôle de IA",
 		"hungarian": "MI irányító egység",
+		"thai": "ตัวควบคุมปัญญาประดิษฐ์",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -459,6 +483,7 @@
 		"slovak": "Radiačné jádro",
 		"portuguese": "Núcleo radioativo",
 		"hungarian": "Sugárzásmag",
+		"thai": "แกนรังสี",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -476,6 +501,7 @@
 		"slovak": "Modrý vedecký balík",
 		"portuguese": "Pacote de ciência azul",
 		"hungarian": "Kék tudományos csomag",
+		"thai": "ชุดวิทยาศาสตร์สีน้ำเงิน",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -493,6 +519,7 @@
 		"slovak": "Zelený vedecký balík",
 		"portuguese": "Pacote de ciência verde",
 		"hungarian": "Zöld tudományos csomag",
+		"thai": "ชุดวิทยาศาสตร์สีเขียว",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -510,6 +537,7 @@
 		"slovak": "Žltý vedecký balík",
 		"portuguese": "Pacote de ciência amarelo",
 		"hungarian": "Sárga tudományos csomag",
+		"thai": "ชุดวิทยาศาสตร์สีเหลือง",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -527,6 +555,7 @@
 		"slovak": "Červený vedecký balík",
 		"portuguese": "Pacote de ciência vermelho",
 		"hungarian": "Piros tudományos csomag",
+		"thai": "ชุดวิทยาศาสตร์สีแดง",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -545,7 +574,6 @@
 		"portuguese": "Oxigênio",
 		"hungarian": "Oxigén",
 		"thai": "ออกซิเจน",
-		
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -563,6 +591,7 @@
 		"slovak": "Hnojivo",
 		"portuguese": "Fertilizante",
 		"hungarian": "Műtrágya",
+		"thai": "ปุ๋ย",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -580,6 +609,7 @@
 		"slovak": "Zelenina",
 		"portuguese": "Vegetais",
 		"hungarian": "Zöldségek",
+		"thai": "ผัก",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -597,6 +627,7 @@
 		"slovak": "Mäso",
 		"portuguese": "Carne",
 		"hungarian": "Hús",
+		"thai": "เนื้อ",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -614,6 +645,7 @@
 		"slovak": "Kvalitné jedlo",
 		"portuguese": "Comida boa",
 		"hungarian": "Finom étel",
+		"thai": "อาหารที่ดี",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -631,7 +663,7 @@
 		"slovak": "Jedlo pre prežitie",
 		"portuguese": "Comida de sobrevivência",
 		"hungarian": "Túlélési étel",
-		"thai": "อาหารเอาชีวิตรอด",
+		"thai": "อาหารประทังชีวิต",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -649,6 +681,7 @@
 		"slovak": "Park",
 		"portuguese": "Parque",
 		"hungarian": "Park",
+		"thai": "สวน",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -666,6 +699,7 @@
 		"slovak": "Kultúra",
 		"portuguese": "Cultura",
 		"hungarian": "Kultúra",
+		"thai": "วัฒนธรรม",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -683,6 +717,7 @@
 		"slovak": "Škola",
 		"portuguese": "Escola",
 		"hungarian": "Iskola",
+		"thai": "โรงเรียน",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -700,6 +735,7 @@
 		"slovak": "Auto",
 		"portuguese": "Carro",
 		"hungarian": "Autó",
+		"thai": "รถ",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -717,6 +753,7 @@
 		"slovak": "Obyvateľ",
 		"portuguese": "Cidadão",
 		"hungarian": "Polgár",
+		"thai": "พลเมือง",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -734,6 +771,7 @@
 		"slovak": "Obyvateľ",
 		"portuguese": "Cidadão",
 		"hungarian": "Polgár",
+		"thai": "พลเมือง",
 	},
 	"resource_power": {
 		"english": "Power",

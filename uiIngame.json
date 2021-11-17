@@ -1486,7 +1486,7 @@
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
-		"german": "Ziehe deinen Mauszeiger von einem Viertel zum nächsten um eine Exportregel zu erstellen.\n\nStadtviertel ohne Exportregel dürfen ihre Güter überall hin liefern.",
+		"german": "Ziehe deine von einem Viertel zum nächsten um eine Exportregel zu erstellen.\n\nStadtviertel ohne Exportregel dürfen ihre Güter überall hin liefern.",
 		"french": "Faites glisser la souris entre les quartiers pour créer une règle d'exportation.\n\nLes quartiers sans règle d'exportation peuvent exporter des marchandises n'importe où.",
 		"dutch": "Sleep de muiscursor tussen districten om een exportregel te maken.\n\nDistricten zonder exportregels kunnen hun goederen overal heen exporteren.",
 		"chinese": "在地区之间拖动鼠标光标创建出口规则。\n\n没有出口规则的地区可以将货物出口到任何地方。",
@@ -1753,21 +1753,4 @@
 		"czech": "Úroveň města",
 		"hungarian": "Város szintje",
 	},
-	"averageHabitatLevel": {
-		"english": "Average habitat level",
-		"german": "Durchschnittliche Habitatstufe",
-	},
-	"requiredHabitatLevel": {
-		"english": "Required habitat level",
-		"german": "Benötigte Habitatstufe",
-	},
-	"globalStorage": {
-		"english": "Global Storage",
-		"german": "Globales Lager",
-	},
-	"constructionStorageDescription": {
-		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
-		"german": "Das Lager für Baumaterialien lagert Beton und Stahl, was du zum Bauen von Gebäuden und Infrastruktur benötigst.",
-	},
-	
 }
