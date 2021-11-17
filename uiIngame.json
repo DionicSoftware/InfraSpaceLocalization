@@ -613,7 +613,7 @@
 		"portuguese": "As necessidades não foram atendidas.",
 		"czech": "Potřeby nejsou splněny.",
 		"hungarian": "A feltételek nincsenek meg.",
-		"thai": "ขาดความต้องการ",
+		"thai": "ความต้องการไม่เป็นไปตามที่ขอ",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
