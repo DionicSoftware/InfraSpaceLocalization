@@ -15,7 +15,7 @@
     "dutch": "Zandmijn",
     "portuguese": "Mina de areia",
     "hungarian": "Homokbánya",
-    "thai": "",
+    "thai": "เหมืองทราย",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -33,7 +33,7 @@
     "dutch": "Zwavelmijn",
     "portuguese": "Mina de enxofre",
     "hungarian": "Kénbánya",
-    "thai": "",
+    "thai": "เหมืองกำมะถัน",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -51,7 +51,7 @@
     "dutch": "IJzermijn",
     "portuguese": "Mina de ferro",
     "hungarian": "Vasbánya",
-    "thai": "",
+    "thai": "เหมืองเหล็ก",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -69,7 +69,7 @@
     "dutch": "Kopermijn",
     "portuguese": "Mina de cobre",
     "hungarian": "Rézbánya",
-    "thai": "",
+    "thai": "เหมืองทองแดง",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -87,7 +87,7 @@
     "dutch": "Aluminiummijn",
     "portuguese": "Mina de alumínio",
     "hungarian": "Bauxitbánya",
-    "thai": "",
+    "thai": "เหมืองอลูมิเนียม",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -105,7 +105,7 @@
     "dutch": "Uraniummijn",
     "portuguese": "Mina de urânio",
     "hungarian": "Urániumbánya",
-    "thai": "",
+    "thai": "เหมืองยูเรเนียม",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -123,7 +123,7 @@
     "dutch": "Iridiummijn",
     "portuguese": "Mina de irídio",
     "hungarian": "Irídiumbánya",
-    "thai": "",
+    "thai": "เหมืองอิริเดียม",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -141,7 +141,7 @@
     "dutch": "Grote Zandmijn",
     "portuguese": "Grande mina de areia",
     "hungarian": "Nagy homokbánya",
-    "thai": "",
+    "thai": "เหมืองทรายขนาดใหญ่",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -159,7 +159,7 @@
     "dutch": "Grote Zwavelmijn",
     "portuguese": "Grande mina de enxofre",
     "hungarian": "Nagy kénbánya",
-    "thai": "",
+    "thai": "เหมืองกำมะถันขนาดใหญ่",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -177,7 +177,7 @@
     "dutch": "Grote IJzermijn",
     "portuguese": "Grande mina de ferro",
     "hungarian": "Nagy vasbánya",
-    "thai": "",
+    "thai": "เหมืองเหล็กขนาดใหญ่",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -195,7 +195,7 @@
     "dutch": "Grote Kopermijn",
     "portuguese": "Grande mina de cobre",
     "hungarian": "Nagy rézbánya",
-    "thai": "",
+    "thai": "เหมืองทองแดงขนาดใหญ่",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -213,7 +213,7 @@
     "dutch": "Grote Aluminiummijn",
     "portuguese": "Grande mina de alumínio",
     "hungarian": "Nagy alumíniumbánya",
-    "thai": "",
+    "thai": "เหมืองอลูมิเนียมขนาดใหญ่",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -231,7 +231,7 @@
     "dutch": "Grote Uraniummijn",
     "portuguese": "Grande mina de urânio",
     "hungarian": "Nagy urániumbánya",
-    "thai": "",
+    "thai": "เหมืองยูเรเนียมขนาดใหญ่",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -249,7 +249,7 @@
     "dutch": "Grote Iridiummijn",
     "portuguese": "Grande mina de irídio",
     "hungarian": "Nagy irídiumbánya",
-    "thai": "",
+    "thai": "เหมืองอิริเดียมขนาดใหญ่",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -267,7 +267,7 @@
     "dutch": "Electronicafabriek",
     "portuguese": "Fábrica de eletrônicos",
     "hungarian": "Elektromos modul gyár",
-    "thai": "",
+    "thai": "โรงงานชิ้นส่วนอิเล็กทรอนิกส์",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -285,7 +285,7 @@
     "dutch": "Microchipfabriek",
     "portuguese": "Fábrica de microchip",
     "hungarian": "Mikrochip gyár",
-    "thai": "",
+    "thai": "โรงงานไมโครชิป",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -303,7 +303,7 @@
     "dutch": "Neuraalprocessorfabriek",
     "portuguese": "Fábrica de processador neural",
     "hungarian": "Neurális processzor gyár",
-    "thai": "",
+    "thai": "โรงงานเครื่องประมวลผลประสาท",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -321,7 +321,7 @@
     "dutch": "Motorfabriek",
     "portuguese": "Fábrica de motor",
     "hungarian": "Motorgyár",
-    "thai": "",
+    "thai": "โรงงานมอเตอร์",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -339,7 +339,7 @@
     "dutch": "Nanobuizenfabriek",
     "portuguese": "Fábrida de nanotubos",
     "hungarian": "Nanocsőgyár",
-    "thai": "",
+    "thai": "โรงงานท่อนาโน",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -357,7 +357,7 @@
     "dutch": "Iridiumlegeringfabriek",
     "portuguese": "Fábrica de liga de irídio",
     "hungarian": "Irídium ötvözet gyár",
-    "thai": "",
+    "thai": "โรงงานโลหะผสมอิริเดียม",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -375,7 +375,7 @@
     "dutch": "Holobeeldschermfabriek",
     "portuguese": "Fábrica de monitore holográfico",
     "hungarian": "Holo kijelző gyár",
-    "thai": "",
+    "thai": "โรงงานจอแสดงผลโฮโลแกรม",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -393,7 +393,7 @@
     "dutch": "Radiatiekernfabriek",
     "portuguese": "fábrica de núcleo de radiação",
     "hungarian": "Sugárzásmag gyár",
-    "thai": "",
+    "thai": "โรงงานแกนรังสี",
   },
   "concreteFactory": {
     "english": "Concrete Factory",
@@ -411,7 +411,7 @@
     "dutch": "Betonfabriek",
     "portuguese": "Fábrica de concreto",
     "hungarian": "Betongyár",
-    "thai": "",
+    "thai": "โรงงานคอนกรีต",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -429,7 +429,7 @@
     "dutch": "Staalfabriek",
     "portuguese": "Siderúrgica",
     "hungarian": "Acélgyár",
-    "thai": "",
+    "thai": "โรงตีเหล็กกล้า",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -447,7 +447,7 @@
     "dutch": "Huishoudapparatuurfabriek",
     "portuguese": "Fábrica de eletrodomésticos",
     "hungarian": "Háztartási gép gyár",
-    "thai": "",
+    "thai": "โรงงานเครื่องใช้ในบ้าน",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -465,7 +465,7 @@
     "dutch": "Computerfabriek",
     "portuguese": "Fábrica de computadores",
     "hungarian": "Számítógép gyár",
-    "thai": "",
+    "thai": "โรงงานคอมพิวเตอร์",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -483,7 +483,7 @@
     "dutch": "Huishoudsrobotfabriek",
     "portuguese": "Fábrica de robôs domésticos",
     "hungarian": "Házi robot gyár",
-    "thai": "",
+    "thai": "โรงงานหุ่นยนต์บ้าน",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -501,7 +501,7 @@
     "dutch": "Industriële robotfabriek",
     "portuguese": "Fábrica de robôs industriais",
     "hungarian": "Ipari robot gyár",
-    "thai": "",
+    "thai": "โรงงานหุ่นยนต์อุตสาหกรรม",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -519,7 +519,7 @@
     "dutch": "High Tech Werkplaats",
     "portuguese": "Oficina de alta tecnologia",
     "hungarian": "Csúcstechnológia műhely",
-    "thai": "",
+    "thai": "ห้องพัฒนาเทคโนโลยีขั้นสูง",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -537,7 +537,7 @@
     "dutch": "VR Edutainmentfabriek",
     "portuguese": "Fábrica realidade virtual educativa",
     "hungarian": "Virtuális oktatóprogram gyár",
-    "thai": "",
+    "thai": "โรงงานเครื่องจำลองโลกบันเทิงเสมือนจริง",
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -555,7 +555,7 @@
     "dutch": "Iridium Drijfgasfabriek",
     "portuguese": "Fábrica de propelente de irídio",
     "hungarian": "Irídium hajtóanyag gyár",
-    "thai": "",
+    "thai": "โรงงานเชื้อเพลิงอิริเดียม",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -573,7 +573,7 @@
     "dutch": "AI Controleeenheidfabriek",
     "portuguese": "Fábrica de unidades de controle de IA",
     "hungarian": "MI irányító egység gyár",
-    "thai": "",
+    "thai": "โรงงานตัวควบคุมปัญญาประดิษฐ์",
   },
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
@@ -591,7 +591,7 @@
     "dutch": "Fabriek voor blauwe wetenschapspaketten",
     "portuguese": "Fábrica de pacotes de ciência azul",
     "hungarian": "Kék tudománycsomag gyár",
-    "thai": "",
+    "thai": "โรงงานชุดวิทยาศาสตร์สีน้ำเงิน",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -609,7 +609,7 @@
     "dutch": "Fabriek voor groene wetenschapspaketten",
     "portuguese": "Fábrica de pacotes de ciência verde",
     "hungarian": "Zöld tudománycsomag gyár",
-    "thai": "",
+    "thai": "โรงงานชุดวิทยาศาสตร์สีเขียว",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -627,7 +627,7 @@
     "dutch": "Fabriek voor gele wetenschapspaketten",
     "portuguese": "Fábrica de pacotes de ciência amarela",
     "hungarian": "Sárga tudománycsomag gyár",
-    "thai": "",
+    "thai": "โรงงานชุดวิทยาศาสตร์สีเหลือง",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -645,7 +645,7 @@
     "dutch": "Fabriek voor rode wetenschapspaketten",
     "portuguese": "Fábrica de pacotes de ciência vermelha",
     "hungarian": "Piros tudománycsomag gyár",
-    "thai": "",
+    "thai": "โรงงานชุดวิทยาศาสตร์สีแดง",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -663,7 +663,7 @@
     "dutch": "Onderzoekslaboratorium",
     "portuguese": "Laboratório de pesquisa",
     "hungarian": "Kutatási labor",
-    "thai": "",
+    "thai": "ห้องปฏิบัติการวิจัย",
   },
   "storehouse": {
     // TODO-chinese
@@ -683,7 +683,7 @@
     "dutch": "Bouwmateriaalopslag",
     "portuguese": "Armazém de material de contrução",
     "hungarian": "Építőanyag raktár",
-    "thai": "",
+    "thai": "โรงจัดเก็บวัสดุก่อสร้าง",
   },
   "spacePort": {
     "english": "Space Port",
@@ -701,7 +701,7 @@
     "dutch": "Ruimtehaven",
     "portuguese": "Porto espacial",
     "hungarian": "Űrrepülőtér",
-    "thai": "",
+    "thai": "ท่ายานอวกาศ",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -719,7 +719,7 @@
     "dutch": "Recyclingcentrum",
     "portuguese": "Centro de reciclagem",
     "hungarian": "Újrahasznosító központ",
-    "thai": "",
+    "thai": "ศูนย์รีไซเคิล",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -737,7 +737,7 @@
     "dutch": "Bodemverrijkingsfaciliteit",
     "portuguese": "Instalação de enriquecimento de solo",
     "hungarian": "Talajdúsító létesítmény",
-    "thai": "",
+    "thai": "โรงบำรุงดิน",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -755,7 +755,7 @@
     "dutch": "Atmosfeerverwerker",
     "portuguese": "processador atmosférico",
     "hungarian": "Légkörgenerátor",
-    "thai": "",
+    "thai": "โรงแปรรูปบรรยากาศ",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -773,7 +773,7 @@
     "dutch": "Zuurstofverwerker",
     "portuguese": "Processador de oxigênio",
     "hungarian": "Oxigéngenerátor",
-    "thai": "",
+    "thai": "โรงแปรรูปออกซิเจน",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -791,7 +791,7 @@
     "dutch": "Koolstofverwerker",
     "portuguese": "Processador de carbono",
     "hungarian": "Szénfeldolgozó",
-    "thai": "",
+    "thai": "โรงแปรรูปคาร์บอน",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -809,7 +809,7 @@
     "dutch": "Eenvoudige Boerderij",
     "portuguese": "Fazenda simples",
     "hungarian": "Egyszerű farm",
-    "thai": "",
+    "thai": "ไร่อย่างง่าย",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -827,7 +827,7 @@
     "dutch": "Kunstmestfabriek",
     "portuguese": "Fábrica de fertilisantes",
     "hungarian": "Műtrágyagyár",
-    "thai": "",
+    "thai": "โรงงานปุ๋ย",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -845,7 +845,7 @@
     "dutch": "Groenteteler",
     "portuguese": "Fazenda de vegetais",
     "hungarian": "Zöldségfarm",
-    "thai": "",
+    "thai": "ไร่ผัก",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -863,7 +863,7 @@
     "dutch": "Vleeslaboratorium",
     "portuguese": "Laboratório de carne",
     "hungarian": "Húslabor",
-    "thai": "",
+    "thai": "ห้องวิจัยเนื้อ",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -881,7 +881,7 @@
     "dutch": "Maaltijdfabriek",
     "portuguese": "Fábrica de alimento",
     "hungarian": "Ételgyár",
-    "thai": "",
+    "thai": "โรงงานเนื้อ",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -899,7 +899,7 @@
     "dutch": "Basishabitat",
     "portuguese": "Moradia básica",
     "hungarian": "Alap lakóhely",
-    "thai": "",
+    "thai": "ที่อยู่อาศัยทั่วไป",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -917,7 +917,7 @@
     "dutch": "Redelijke Habitat",
     "portuguese": "Moradia decente",
     "hungarian": "Tisztességes lakóhely",
-    "thai": "",
+    "thai": "ที่อยู่อาศัยอย่างดี",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -935,7 +935,7 @@
     "dutch": "Comforatbele Habitat",
     "portuguese": "Moradia confortável",
     "hungarian": "Kényelmes lakóhely",
-    "thai": "",
+    "thai": "ที่อยู่อาศัยที่สุดสบาย",
   },
   "habitatLevel4": {
     "english": "Residential building",
@@ -953,7 +953,7 @@
     "dutch": "Woongebouw",
     "portuguese": "Edifício residencial",
     "hungarian": "Lakóház",
-    "thai": "",
+    "thai": "อาคารสำหรับอยู่อาศัย",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -971,7 +971,7 @@
     "dutch": "Woonhoogbouw",
     "portuguese": "Torre residencial",
     "hungarian": "Társasház",
-    "thai": "",
+    "thai": "อาคารพักอาศัย",
   },
   "habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -989,7 +989,7 @@
     "dutch": "Luxe Woonhoogbouw",
     "portuguese": "Torre residencial luxuosa",
     "hungarian": "Luxus társasház",
-    "thai": "",
+    "thai": "อาคารพักอาศัยสุดหรู",
   },
   "park": {
     "english": "Park",
@@ -1007,7 +1007,7 @@
     "dutch": "Park",
     "portuguese": "Parque",
     "hungarian": "Park",
-    "thai": "",
+    "thai": "สวน",
   },
   "arena": {
     "english": "Stadium",
@@ -1025,7 +1025,7 @@
     "dutch": "Stadion",
     "portuguese": "Estádio",
     "hungarian": "Stadion",
-    "thai": "",
+    "thai": "สนามกีฬา",
   },
   "school": {
     "english": "School",
@@ -1043,7 +1043,7 @@
     "dutch": "School",
     "portuguese": "Escola",
     "hungarian": "Iskola",
-    "thai": "",
+    "thai": "โรงเรียน",
   },
   "powerPole": {
     "english": "Power Pole",
@@ -1061,7 +1061,7 @@
     "dutch": "Stroommast",
     "portuguese": "Poste elétrico",
     "hungarian": "Villanyoszlop",
-    "thai": "",
+    "thai": "เสาไฟฟ้า",
   },
   "powerSubstation": {
     "english": "Power Substation",
@@ -1079,7 +1079,7 @@
     "dutch": "Stroomonderstation",
     "portuguese": "Subestação de energia",
     "hungarian": "Elektronikai állomás",
-    "thai": "",
+    "thai": "สถานีไฟฟ้าย่อย",
   },
   "windTurbine": {
     "english": "Wind Turbine",
@@ -1097,7 +1097,7 @@
     "dutch": "Windturbine",
     "portuguese": "Turbina eólica",
     "hungarian": "Szélerőmű",
-    "thai": "",
+    "thai": "กังหันลม",
   },
   "solarPowerPlant": {
     "english": "Solar Power Plant",
@@ -1115,7 +1115,7 @@
     "dutch": "Zonne-energiecentrale",
     "portuguese": "Planta de energia solar",
     "hungarian": "Napelem",
-    "thai": "",
+    "thai": "โรงไฟฟ้าพลังงานแสงอาทิตย์",
   },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
@@ -1133,7 +1133,7 @@
     "dutch": "Kerncentrale",
     "portuguese": "Planta de energia nuclear",
     "hungarian": "Atomerőmű",
-    "thai": "",
+    "thai": "โรงไฟฟ้านิวเคลียร์",
   },
   "fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1151,7 +1151,7 @@
     "dutch": "Snelle Neutronenreactor",
     "portuguese": "Reator rápido de nêutrons",
     "hungarian": "Gyorsneutronos reaktor",
-    "thai": "",
+    "thai": "เครื่องปฏิกรณ์นิวตรอนเร็ว",
   },
   "signStanding": {
     "english": "Great Standing Sign",
@@ -1169,7 +1169,7 @@
     "dutch": "Grote Staande Belettering",
     "portuguese": "Grande placa vertical",
     "hungarian": "Nagy álló tábla",
-    "thai": "",
+    "thai": "ป้ายตั้งขนาดใหญ่",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -1187,7 +1187,7 @@
     "dutch": "Grote Liggende Belettering",
     "portuguese": "Grande placa horizontal",
     "hungarian": "Nagy fekvő tábla",
-    "thai": "",
+    "thai": "ป้ายขนาดใหญ่",
   },
   "monumentDrill": {
     "english": "Colossal Adamantine Drill",
@@ -1205,5 +1205,6 @@
     "dutch": "Kolossale Adamantboor",
     "portuguese": "Broca colossal de adamantina",
     "hungarian": "Kolosszális adamantit fúró",
+    "thai": "ดอกสว่านอาดามันเทียมขนาดมหึมา",
   }
 }
