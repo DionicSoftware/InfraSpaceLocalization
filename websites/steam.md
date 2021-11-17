@@ -215,7 +215,7 @@ Termelj meg mindent amit felhasználsz
 
 Az emberek által felfedezett űr határain nem építhetsz egy várost kreditekből. Ehelyett neked kell az első asztronautáidat elküldened bányászni, nyersanyagot gyűjteni.
 
-Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomítódat és betongyáradat megépíteni az infrastruktúra alapjainak lefektetése érdekében. Ám más szükségleteknek is eleget kell majd tenned, az étel és oxigén megbízható gyártósort igényel, ami nem állhat meg. 
+Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomítódat és betongyáradat megépíteni az infrastruktúra alapjainak lefektetése érdekében. Ám más szükségleteknek is eleget kell majd tenned, az étel és oxigén megbízható előállítást igényel, ami nem állhat meg. 
 
 ### Thai
 ผลิตทุกสิ่งที่คุณบริโภค
@@ -323,11 +323,12 @@ InfraSpace ovládá každé jednotlivé auto. Každý zdroj, který jste někdy 
 
 Vaše silniční síť dokáže hodně zvládnout, ale bez vašeho dohledu to nepůjde. Budetet muset stavět dálnice, kruhové objezdy a větší silnice, aby bylo zajištěno, že "výrobní srdce" města stále bije.
 
-### Hungarian !
+### Hungarian
+Szállítási infrastruktúra
 
-A játék figyelemmel követ minden. egyes. autót. Minden anyagot amit csak előállítasz el kell szállítanod egy gyárba átdolgozáshozés ezután a terméknek egy lakásba felhasználásra.
+A játék figyelemmel követ minden. egyes. autót. Minden anyagot amit előállítasz el kell szállítanod egy gyárba feldolgozáshoz és ezután a terméket egy lakásba felhasználásra.
 
-Az űtrendszered sokat bírhat, de a felügyeleted nélkül egy közlekedési rémálommá válhat. Építs autópályákat, körforgalmakat, és többsávos útakat hogy ez ne forduljon elő, és minden problémamentes maradjon.
+Az útrendszered sokat bírhat, de a felügyeleted nélkül egy közlekedési rémálommá válhat. Építs autópályákat, körforgalmakat, többsávos utakat hogy ez ne forduljon elő, és minden problémamentes maradjon.
 
 ### Thai
 โครงสร้างพื้นฐานด้านการขนส่ง
@@ -422,9 +423,9 @@ Seus primeiros colonos serão astronautas, os melhores e mais corajosos que a hu
 ### Hungarian
 Népesedés
 
-Az első lakosaid az asztronauták lesznek, a legjobbak, legbátrabbak amiket az emberiség kínálhat. Szolgáltass nekik élelmet, lakhatást és ők cserébe aktívan tartják az előőrsöd bármi is történjen.
+Az első lakosaid asztronauták lesznek, a legjobbak, legbátrabbak akiket az emberiség kínálhat. Lásd el őket élelemmel, lakhatással és ők cserébe aktívan tartják az előőrsöd bármi is történjen.
 
-Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hogy tudósokat és mérnököket alkalmazol, akiknek egy kicsit magasabb elvárásaik is lesznek. Bármely város elegendő népességgel előbb utóbb több és több családnak fog helyet adni érd el, hogy az iskoláid fel legyenek készülve és képesek legyenek a legújabb VR okatóanyagok átadására! 
+Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hogy tudósokat és mérnököket alkalmazol, akiknek magasabb elvárásaik is lesznek. Bármely város elegendő népességgel előbb utóbb több és több családnak fog helyet adni; érd el, hogy az iskoláid fel legyenek készülve és képesek legyenek a legújabb VR okatóanyagok átadására! 
 
 ### Thai
 การเติบโตของประชากร
