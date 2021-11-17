@@ -15,8 +15,8 @@
 		"dutch": "Kolonie",
 		"portuguese": "Posto avançado",
 		"hungarian": "Előőrs",
-	    "thai": "ค่ายขนาดเล็ก",
-},
+		"thai": "ค่ายขนาดเล็ก",
+	},
 	"cityLevel2": {
 		"english": "Settlement",
 		"german": "Siedlung",
@@ -33,8 +33,8 @@
 		"dutch": "Nederzetting",
 		"portuguese": "Povoado",
 		"hungarian": "Település",
-	    "thai": "นิคมขนาดเล็ก",
-},
+		"thai": "นิคมขนาดเล็ก",
+	},
 	"cityLevel3": {
 		"english": "Small Town",
 		"german": "Kleinstadt",
@@ -51,8 +51,8 @@
 		"dutch": "Klein Dorp",
 		"portuguese": "Pequeno vilarejo",
 		"hungarian": "Kis város",
-	    "thai": "หมู่บ้านขนาดเล็ก",
-},
+		"thai": "หมู่บ้านขนาดเล็ก",
+	},
 	"cityLevel4": {
 		"english": "Large Town",
 		"german": "Mittlere Stadt",
@@ -69,8 +69,8 @@
 		"dutch": "Groot Dorp",
 		"portuguese": "Grande vilarejo",
 		"hungarian": "Nagy város",
-	    "thai": "หมู่บ้านขนาดใหญ่",
-},
+		"thai": "หมู่บ้านขนาดใหญ่",
+	},
 	"cityLevel5": {
 		"english": "City",
 		"german": "Großstadt",
@@ -87,8 +87,8 @@
 		"dutch": "Stad",
 		"portuguese": "Cidade",
 		"hungarian": "Főváros",
-	    "thai": "เมือง",
-},
+		"thai": "เมือง",
+	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
 		"german": "Planetare Hauptstadt",
@@ -105,6 +105,6 @@
 		"dutch": "Planetaire Hoofdstad",
 		"portuguese": "Capital planetária",
 		"hungarian": "Csillagközi főváros",
-	    "thai": "เมืองหลวงแห่งดาวเคราะห์",
-},
+		"thai": "เมืองหลวงแห่งดาวเคราะห์",
+	},
 }
