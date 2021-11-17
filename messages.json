@@ -87,7 +87,7 @@
 		"portuguese": "Atenção!",
 		"hungarian": "Figyelem!",
 		"japanese": "注意！",
-		"thai": "ความสนใจ!",
+		"thai": "ควรสนใจ!",
 	},
 	"message_debugModeText": {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
