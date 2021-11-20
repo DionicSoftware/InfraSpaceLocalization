@@ -1833,17 +1833,21 @@
 	"averageHabitatLevel": {
 		"english": "Average habitat level",
 		"german": "Durchschnittliche Habitatstufe",
+		"thai": "ระดับที่อยู่อาศัยเฉลี่ย",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
 		"german": "Benötigte Habitatstufe",
+		"thai": "ระดับที่อยู่อาศัยต้องการ",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
 		"german": "Globales Lager",
+		"thai": "พื้นที่เก็บทุกอย่าง",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
 		"german": "Das Lager für Baumaterialien lagert Beton und Stahl, was du zum Bauen von Gebäuden und Infrastruktur benötigst.",
+		"thai": "คลังเก็บวัสดุก่อสร้างเป็นที่เก็บคอนกรีตและเหล็ก ซึ่งคุณจำเป็นต้องสร้างอาคารและโครงสร้างพื้นฐาน",
 	},
 }
