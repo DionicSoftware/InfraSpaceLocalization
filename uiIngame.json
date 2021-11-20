@@ -1829,4 +1829,21 @@
 		"hungarian": "Város szintje",
 		"thai": "ระดับเมือง",
 	},
+	
+	"averageHabitatLevel": {
+		"english": "Average habitat level",
+		"german": "Durchschnittliche Habitatstufe",
+	},
+	"requiredHabitatLevel": {
+		"english": "Required habitat level",
+		"german": "Benötigte Habitatstufe",
+	},
+	"globalStorage": {
+		"english": "Global Storage",
+		"german": "Globales Lager",
+	},
+	"constructionStorageDescription": {
+		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
+		"german": "Das Lager für Baumaterialien lagert Beton und Stahl, was du zum Bauen von Gebäuden und Infrastruktur benötigst.",
+	},
 }
