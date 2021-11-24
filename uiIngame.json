@@ -195,7 +195,7 @@
 		"portuguese": "Sua cidade será promovida à \"%cityLevelName%\" assim que você tiver pelo menos %amount% cidadãos nível %nextLevel%.",
 		"czech": "Tvé město bude povýšeno na úroveň \"%cityLevelName%\" až dosáhneš %amount% úrovně %nextLevel% občanů.",
 		"hungarian": "A városod szintet fog lépni, (\"%cityLevelName%\") ha van %amount% lakosod, akik %nextLevel% szintűek.",
-		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" เมื่อคุณต้องพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
+		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" ก็ต่อเมื่อคุณต้องมีพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -685,7 +685,7 @@
 		"portuguese": "Cidadãos nível %level%",
 		"czech": "Úroveň %level% obyvatel",
 		"hungarian": "%level% szintü lakosok",
-		"thai": "พลระดับ %level%",
+		"thai": "พลเมืองระดับ %level%",
 	},
 	"population": {
 		"english": "Population",
@@ -1020,7 +1020,7 @@
 		"czech": "Zpáteční cesta",
 		"japanese": "反転",
 		"hungarian": "Út visszafordítása",
-		"thai": "กลับถนน",
+		"thai": "ย้อนถนน",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1038,7 +1038,7 @@
 		"portuguese": "Travar à estrada",
 		"czech": "Připojovat budovu cestou",
 		"hungarian": "Úthoz igazítás",
-		"thai": "สแน็ปไปที่ถนน",
+		"thai": "ดึงไปหาถนน",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1273,7 +1273,7 @@
 		"portuguese": "Visualizações",
 		"czech": "Vizualizace",
 		"hungarian": "Vizualizációk",
-		"thai": "การแสดงภาพ",
+		"thai": "แผนผัง",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -1525,7 +1525,7 @@
 		"portuguese": "Distritos",
 		"czech": "Oblast",
 		"hungarian": "Kerületek",
-		"thai": "จัดการงานส่งออก",
+		"thai": "จัดการการจัดส่ง",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
