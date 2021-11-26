@@ -42,3 +42,6 @@ Thai
 Hungarian
 - IrOn
 - Bucsek Attila (ElNutellino_)
+
+Arabic
+- Ahmed Ashraf Khamis
