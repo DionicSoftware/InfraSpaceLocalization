@@ -16,6 +16,7 @@
 		"portuguese": "Posto avançado",
 		"hungarian": "Előőrs",
 		"thai": "ค่ายขนาดเล็ก",
+		"arabic": "قاعدة",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -34,6 +35,7 @@
 		"portuguese": "Povoado",
 		"hungarian": "Település",
 		"thai": "นิคมขนาดเล็ก",
+		"arabic": "مستعمرة",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -52,6 +54,7 @@
 		"portuguese": "Pequeno vilarejo",
 		"hungarian": "Kis város",
 		"thai": "หมู่บ้านขนาดเล็ก",
+		"arabic": "بلدة صغيرة",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -70,6 +73,7 @@
 		"portuguese": "Grande vilarejo",
 		"hungarian": "Nagy város",
 		"thai": "หมู่บ้านขนาดใหญ่",
+		"arabic": "بلدة كبيرة",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -88,6 +92,7 @@
 		"portuguese": "Cidade",
 		"hungarian": "Főváros",
 		"thai": "เมือง",
+		"arabic": "مدينة",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -106,5 +111,6 @@
 		"portuguese": "Capital planetária",
 		"hungarian": "Csillagközi főváros",
 		"thai": "เมืองหลวงแห่งดาวเคราะห์",
+		"arabic": "عاصمة كوكبية",
 	},
 }
