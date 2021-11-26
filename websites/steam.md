@@ -67,6 +67,12 @@ InfraSpace คือเกมสร้างเมืองแนวไซไฟ
 
 Infraspace je sci-fi budování města - kde každý zdroj musí projít svou dopravní infrastrukturou. Abyste mohli začít v tomto slunečním systému, musíte nejen zahájit těžební operace a spravovat výrobní řetězce, ale také se musíte ujistit, že vaše silniční síť je v pořádku.
 
+### Arabic//TODO-Devs
+
+منشئ مدن خيال علمي حيث تدفق الموارد يمر خلال بنية النقل التحتية لمدينتك. أنشئ يوتوبيا فضائية عالية الكفائة من لا شيئ. ابدأ عمليات التعدين، ضع خطط للإنتاج، وارسم شبكة نقل تضمن تدفق سلس للموارد.
+
+
+
 # Long Description - Translation Disclaimer
 *******************************************
 Substitute "..." with your language
@@ -125,6 +131,9 @@ Substitute "..." with your language
 ### Thai
 (แปลภาษาจนสำเร็จได้ด้วยชุมชนของเรา)
 
+### Arabic//TODO-Devs
+
+(الترجمة العربية تمت بواسطة الجمهور.)
 
 
 
@@ -233,6 +242,13 @@ Nemůžete vybudovat město bez využití zdrojů planety. Budete muset dát sv�
 
 Jakmile budete mít nějaké železo, uhlík, písek a síru, je čas postavit svou první ocelárnu a a betonárku, aby nastartovali začínající infrastrukturu. Dokonce i potřeby, jako je jídlo a kyslík vyžadují stabilní výrobní řetězec, který nesmí být narušen!
 
+### Arabic//TODO-Devs
+انتج كل شيئ تستهلكه
+
+خارجاً في حدود فضاء الإنسان، لا يمكنك بناء مدينة عن طريق المال. بل يجب عليك أن تضع رواد فضائك الأوائل للعمل في التعدين واستخراج بعض المواد الخام.
+
+بمجرد حصولك على بعض الحديد، الكاربون، الرمل، والكبريت، فإنه قد حان الوقت لتنشئ مصانع الصلب والخرسانة الأولى لك وتبدأ بوضع بعض البنية التحتية. حتى الاحتياجات الأساسية مثل الطعام والأوكسجين تتطلب سلسلة إنتاج مستقر لا يجب كسرها!
+
 # Long Description - Transport Section
 **************************************
 
@@ -338,6 +354,14 @@ InfraSpace จะจำลองรถทุกคันในเกม ทร�
 หากคุณไม่ได้วางแผนล่วงหน้าไว้ การจราจรจำนวนมากจะเต็มถนนของคุณในไม่ช้าก็เร็วและสายการผลิตของคุณจะหยุดลง
 สร้างทางหลวงความเร็วสูงรอบเกาะและหลายๆช่องทางเพื่อให้แน่ใจว่า ใจกลางอุตสาหกรรมของอาณานิคมจะยังคงทำงานต่อไปได้
 
+### Arabic//TODO-Devs
+البنية التحتية للنقل
+
+InfraSpace تحاكي. كل. سيارة. كل مورد تنتجه لابد من نقله لمصنع لتتم معالجته وكل منتج لابد من نقله لمسكن ليتم استهلاكه.
+
+شبكة الطرق الخاصة بك تستطيع تحمل الكثير، لكن بدون رقابة منك فإنها ستكتظ ببطئ إلى أن تغرق في النهاية في الازدحام المروري. أنشئ طرق سريعة، ميادين دوران، وطريق متعددة الحارات لتضمن بقاء قلب الإنتاج الخاص بمدينتك ينبض.
+
+
 # Long Description - Population Section
 ***************************************
 
@@ -442,6 +466,14 @@ Vaši první kolonisté budou astronauté, ti nejlepší a nejodvážnější, k
 
 Jelikož vaše město roste, musíte pokrýt rostoucí pracovní zatížení zaměstnáváním vědců a inženýrů, kteří vyžadují několik dalších věcí k získání jejich pohodlí. Jakékoli město dostatečné velikosti bude mít dříve nebo později dům pro více a více rodin, takže se ujistěte, že to vaše školy dokáží zvládnout a vy jste schopni dodat nejnovější produkty VR-zábavy.
 
+### Arabic//TODO-Devs
+النمو السكاني
+
+المستعمرون الأوائل سيكونون رواد فضاء، الأفضل والأشجع بين البشر. أعطهم طعام ومأوى وسيحافظون على بقاء القاعدة تعمل مهما كلفهم الأمر.
+
+بينما تنمو مستوطنتك، يجب عليك تغطية الاحتياج المتزايد للعمل عن طريق توظيف علماء ومهندسين، وهذا ما يتطلب مستويات زائدة من الراحة. أي مدينة بالحجم الكافي ستكون -عاجلا أو آجلا- وطنا لمزيد من العائلات أيضا، لذا تأكد من أن مدارسك تستطيع احتوائهم وأنك ستكون قادرا أيضا على تزويدهم بأحدث أجهزة التعليم بتقنية الواقع الافتراضي.
+
+
 # Long Description - Difficulty Section
 ***************************************
 
@@ -515,3 +547,9 @@ A forgalomirányítás lehet ingatag, a túlélés lehet nehéz. Mindkettőn vá
 Nemusíte hrát tvrdě
 
 Řízení dopravy je někdy náročné a přežití může být obtížné. Můžete obě dvě věci zjednodušit tak, aby vaše zážitky z řízení města byly jen tak obtížné, jak sami chcete.
+
+### Arabic//TODO-Devs
+لا يجب عليك اللعب على المستوى الصعب
+
+نظام المرور يكون متقلبا والنجاة تكون صعبة. يمكنك تعديل مستوى الصعوبة الخاص بهما لجعل تجربة إدارة مدينتك سهلة -أو صعبة- كما تريدها أنت.
+
