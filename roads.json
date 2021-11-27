@@ -16,6 +16,7 @@
 		"portuguese": "Estrada de cascalho",
 		"hungarian": "Sóder út",
 		"thai": "ถนนลูกรัง",
+		"arabic": "طريق غير معبد",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -34,6 +35,7 @@
 		"portuguese": "Estradada de concreto",
 		"hungarian": "Beton út",
 		"thai": "ถนนคอนกรีต",
+		"arabic": "طريق إسمنتي",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -52,6 +54,7 @@
 		"portuguese": "Rodovia",
 		"hungarian": "Autópálya",
 		"thai": "ทางหลวง",
+		"arabic": "طريق سريع",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -70,5 +73,6 @@
 		"portuguese": "Super rodovia",
 		"hungarian": "Szuper autópálya",
 		"thai": "ทางด่วน",
+		"arabic": "طريق فائق السرعة",
 	},
 }
