@@ -168,7 +168,7 @@
     "japanese": "舗装道路",
     "hungarian": "Beton utak",
     "thai": "ถนนคอนกรีต",
-		"arabic": "",
+    "arabic": "طرق إسمنتية",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -187,6 +187,7 @@
     "japanese": "アルミ採掘",
     "hungarian": "Alumínium bányászat",
     "thai": "การขุดอลูมิเนียม",
+    "arabic": "تنجيم عن الألومنيوم",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -205,6 +206,7 @@
     "japanese": "変電所",
     "hungarian": "Elektronikai alállomások",
     "thai": "สถานีไฟฟ้าย่อย",
+    "arabic": "محطات طاقة فرعية",
   },
   "techDesc_powerSubstation": {
     "english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -223,6 +225,7 @@
     "japanese": "変電所を電力ネットワーク網に統合することで無柱化による電力供給ができます。",
     "hungarian": "Integrálj alállomásokat az elektronikai hálózatodba, így nem kell minden egyes építményhez külön villanypózna.",
     "thai": "รวมสถานีไฟฟ้าย่อยเข้ากับเครือข่ายไฟฟ้าของคุณ คุณจึงไม่ต้องจัดหาเสาไฟฟ้าให้กับอาคารทุกอาคาร",
+    "arabic": "استخدم محطات الطاقة الفرعية في شبكة الطاقة الخاصة بك لكي لا تحتاج إلى تزويد كل مبنى بأعمدة طاقة.",
   },
   "tech_motors": {
     "english": "Motors",
@@ -241,6 +244,7 @@
     "japanese": "モーター",
     "hungarian": "Motorok",
     "thai": "มอเตอร์",
+    "arabic": "محركات",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -259,6 +263,7 @@
     "japanese": "4車線道路",
     "hungarian": "Négysávos útak",
     "thai": "ถนนสี่เลน",
+    "arabic": "طريق رباعي الحارات",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -277,6 +282,7 @@
     "japanese": "一方通行",
     "hungarian": "Egyirányú útak",
     "thai": "ถนนเลนเดียว",
+    "arabic": "طريق اتجاه واحد",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -295,6 +301,7 @@
     "japanese": "公園",
     "hungarian": "Nagy építmények",
     "thai": "อาคารขนาดใหญ่",
+    "arabic": "مباني كبيرة",
   },
   "tech_computers": {
     "english": "Computers",
@@ -313,6 +320,7 @@
     "japanese": "コンピューター",
     "hungarian": "Számítógépek",
     "thai": "คอมพิวเตอร์",
+    "arabic": "حواسيب",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -331,6 +339,7 @@
     "japanese": "大型採掘機",
     "hungarian": "Nagy bányák",
     "thai": "เหมืองขนาดใหญ่",
+    "arabic": "مناجم كبيرة",
   },
   "techDesc_largeMines": {
     "english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -349,6 +358,7 @@
     "japanese": "増加する都市への物資供給のために大型採掘機を導入して採掘速度を上げます。",
     "hungarian": "Gyorsítsd fel a nyersanyagkinyerést hogy oltsd a növekvő városod éhségét.",
     "thai": "เร่งการสกัดทรัพยากรเพื่อขจัดความหิวโหยในเมืองที่กำลังเติบโตของคุณ",
+    "arabic": "زد من سرعة استخراج الموارد لتشبع جوع مدينتك المتنامية.",
   },
   "tech_foodProcessing": {
     "english": "Food Processing",
@@ -367,6 +377,7 @@
     "japanese": "食品加工",
     "hungarian": "Étel átdolgozás",
     "thai": "การแปรรูปอาหาร",
+    "arabic": "تصنيع الطعام",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -385,6 +396,7 @@
     "japanese": "土壌改良",
     "hungarian": "Műtrágya",
     "thai": "ปุ๋ย",
+    "arabic": "سماد",
   },
   "techDesc_fertilizer": {
     "english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -403,6 +415,7 @@
     "japanese": "土壌改良は農場の生産を大幅に増加させます。",
     "hungarian": "Adj trágyázott földet a közeli farmokra ezzel jelentősen növelve a termelésüket.",
     "thai": "สนับสนุนดินปุ๋ยให้กับไร่ใกล้เคียงเพื่อเพิ่มผลผลิตที่ดีเยี่ยม",
+    "arabic": "زود المزارع المحيطة بتربة غنية بالأسمدة لتزيد من إنتاجيتها.",
   },
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -421,6 +434,7 @@
     "japanese": "カーボンナノチューブ",
     "hungarian": "Szén nanocsövek",
     "thai": "ท่อนาโนคาร์บอน",
+    "arabic": "أنابيب كاربونية متناهية الصغر",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -439,6 +453,7 @@
     "japanese": "自動洗浄ソーラーパネル",
     "hungarian": "Öntisztító napelemek",
     "thai": "แผงโซลาร์เซลล์ทำความสะอาดตัวเอง",
+    "arabic": "ألواح طاقة شمسية ذاتية التنظيف",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -457,6 +472,7 @@
     "japanese": "自動洗浄機能を備えたソーラーパネルの太陽光発電機は更に多くの電力を生み出します。",
     "hungarian": "Amint a napelemeid letisztítják magukat, máris több energiát fognak termelni.",
     "thai": "เมื่อแผงโซลาร์เซลล์ของคุณทำความสะอาดตัวเองแล้ว โรงไฟฟ้าพลังงานแสงอาทิตย์ของคุณจะผลิตพลังงานได้มากขึ้น",
+    "arabic": "إذا كانت ألواح الطاقة الشمسية تنظف نفسها بنفسها، فإن محطات توليد الطاقة الشمسية الخاصة بك ستنتج طاقة أكثر بكثير.",
   },
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -475,6 +491,7 @@
     "japanese": "6車線道路",
     "hungarian": "Hatsávos útak.",
     "thai": "ถนนหกเลน",
+    "arabic": "طريق سداسي الحارات",
   },
   "tech_stadiums": {
     "english": "Stadiums",
@@ -493,6 +510,7 @@
     "japanese": "スタジアム",
     "hungarian": "Stadionok",
     "thai": "สนามกีฬา",
+    "arabic": "ملاعب",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -511,6 +529,7 @@
     "japanese": "ニューラルプロセッサー",
     "hungarian": "Neurális processzorok",
     "thai": "เครื่องประมวลประสาท",
+    "arabic": "معالجات عصبية",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -529,6 +548,7 @@
     "japanese": "イエローサイエンス",
     "hungarian": "Sárga tudomány",
     "thai": "วิทยาศาสตร์สีเหลือง",
+    "arabic": "علم أصفر",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -547,6 +567,7 @@
     "japanese": "ウラン採掘",
     "hungarian": "Uránium bányászat",
     "thai": "การขุดยูเรเนียม",
+    "arabic": "تعدين اليورانيوم",
   },
   "tech_highways": {
     "english": "Highways",
@@ -565,6 +586,7 @@
     "japanese": "高速道路",
     "hungarian": "Autópályák",
     "thai": "ทางหลวง",
+    "arabic": "طرق سريعة",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -583,6 +605,7 @@
     "japanese": "アウトバーン",
     "hungarian": "Szuper autópályák",
     "thai": "ทางด่วน",
+    "arabic": "طرق فائقة السرعة",
   },
   "tech_homeRobots": {
     "english": "Home Robots",
@@ -601,6 +624,7 @@
     "japanese": "家庭用ロボ",
     "hungarian": "Házi robotok",
     "thai": "หุ่นยนต์บ้าน",
+    "arabic": "روبوتات منزلية",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -619,6 +643,7 @@
     "japanese": "工業用ロボ",
     "hungarian": "Ipari robotok",
     "thai": "หุ่นยนต์อุตสาหกรรม",
+    "arabic": "روبوتات صناعية",
   },
   "techDesc_industrialRobots": {
     "english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -637,6 +662,7 @@
     "japanese": "工業用ロボを設置することで必要な労働者を減らすことができます。",
     "hungarian": "Alklamazz ipari robotokat a gyárakban, hogy csökkentsd a szükséges munkások számát.",
     "thai": "จัดหาหุ่นยนต์อุตสาหกรรมให้กับโรงงานของคุณเพื่อลดจำนวนคนงานลงได้",
+    "arabic": "زود مصانعك بروبوتات صناعية لتقليل عدد العمال المطلوب.",
   },
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -655,6 +681,7 @@
     "japanese": "粒子フィルター",
     "hungarian": "Részecske szűrő",
     "thai": "ตัวกรองอนุภาค",
+    "arabic": "مصفي الجسيمات",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -673,6 +700,7 @@
     "japanese": "原子力",
     "hungarian": "Nukleáris energia",
     "thai": "พลังงานนิวเคลียร์",
+    "arabic": "طاقة نووية",
   },
   "tech_schools": {
     "english": "Schools",
@@ -691,6 +719,7 @@
     "japanese": "学校",
     "hungarian": "Iskolák",
     "thai": "โรงเรียน",
+    "arabic": "مدارس",
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -709,6 +738,7 @@
     "japanese": "イリジウム採掘",
     "hungarian": "Iridium bányászat",
     "thai": "การขุดอิริเดียม",
+    "arabic": "تعدين الإيريديوم",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -727,6 +757,7 @@
     "japanese": "リサイクル",
     "hungarian": "Újrahasznosítás",
     "thai": "การรีไซเคิล",
+    "arabic": "إعادة التدوير",
   },
   "techDesc_recycling": {
     "english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -745,6 +776,7 @@
     "japanese": "産業廃棄物をリサイクルすることで工場の物資を減少させます。",
     "hungarian": "Csökkentheted az anyagfelhasználásod, ha a közeli gyárakban újrahasznosítod az ipari hulladékot.",
     "thai": "ลดการใช้ทรัพยากรของคุณด้วยการแปรรูปขยะอุตสาหกรรมในโรงงานที่ใกล้เคียง",
+    "arabic": "قلل من استهلاكك للموارد عن طريق معالجة المخلفات الصناعية في المصانع المحيطة.",
   },
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
     "english": "Holo-Displays",
@@ -763,6 +795,7 @@
     "japanese": "ホロディスプレイ",
     "hungarian": "Holo kijelzők",
     "thai": "จอแสดงผลโฮโลแกรม",
+    "arabic": "شاشات عرض ثلاثية الأبعاد",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -781,6 +814,7 @@
     "japanese": "ハイテクニカルツール",
     "hungarian": "Csúcstechnológia műhely",
     "thai": "ห้องพัฒนาเทคโนโลยีขั้นสูง",
+    "arabic": "ورشة عالية التقنية",
   },
   "techDesc_highTechWorkshop": {
     "english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -799,6 +833,7 @@
     "japanese": "ハイテクニカルツールは工場の生産を上昇させます。",
     "hungarian": "Készíts csúcstechnológiás eszközöket a gyáraidnak, hogy elősegítsd a gyártást.",
     "thai": "สนับสนุนโรงงานของคุณด้วยเครื่องมือเทคโนโลยีขั้นสูงเพื่อเพิ่มผลผลิต",
+    "arabic": "زود مصانعك بأدوات عالية التقنية لتزيد من إنتاجيتك.",
   },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
@@ -817,6 +852,7 @@
     "japanese": "AI制御ユニット",
     "hungarian": "MI irányító egységek",
     "thai": "ตัวควบคุมปัญญาประดิษฐ์",
+    "arabic": "وحدات تحكم بالذكاء الاصطناعي",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -835,6 +871,7 @@
     "japanese": "イリジウム推進剤",
     "hungarian": "Iridium hajtóanyag",
     "thai": "เชื้อเพลิงอิริเดียม",
+    "arabic": "إيريديوم دافع",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -853,6 +890,7 @@
     "japanese": "高速中性子炉",
     "hungarian": "Gyors neutron reaktor",
     "thai": "เครื่องปฏิกรณ์นิวตรอนเร็ว",
+    "arabic": "مفاعل نيوتروني سريع",
   },
   "tech_science4": {
     "english": "Red Science",
@@ -871,6 +909,7 @@
     "japanese": "レッドサイエンス",
     "hungarian": "Piros tudomány",
     "thai": "วิทยาศาสตร์สีแดง",
+    "arabic": "علم أحمر",
   },
   "tech_adamantineMining": {
     "english": "Adamantine Mining",
@@ -889,5 +928,6 @@
     "japanese": "アダマンタイト採掘",
     "hungarian": "Adamantit bányászat",
     "thai": "การขุดอาดามันเทียม",
+    "arabic": "تعدين الأدامانتين",
   },
 }
