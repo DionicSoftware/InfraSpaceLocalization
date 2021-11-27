@@ -2228,7 +2228,7 @@
 		"portuguese": "Sinais de trânsito e semáforos",
 		"hungarian": "Forgalomirányító táblák és fények",
 		"thai": "แปลเกม InfraSpace",
-		//"arabic": "", TO BE DONE
+		"arabic": "إشارات المرور وعلامات المرور",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -2247,6 +2247,7 @@
 		"portuguese": "Mantenha suas intersenções fluindo e priorise qual carro pode ir primeiro",
 		"hungarian": "Ügyelj arra, hogy a kereszteződéseid ne teljenek meg és priorizáld mely autók mehetnek először.",
 		"thai": "ป้องกันไม่ให้เกิดทางแยกที่จะทำให้รถติดและจัดลำดับความสำคัญด้วยว่ารถคันใดต้องไปก่อนได้",
+		"arabic": "حافظ على تقاطعات الطرق الخاصة بك من الاختناق المروري وضع أولويات من يمشي أولا",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -2265,6 +2266,7 @@
 		"portuguese": "Trens",
 		"hungarian": "Vonatok",
 		"thai": "รถไฟ",
+		"arabic": "قطارات",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -2283,6 +2285,7 @@
 		"portuguese": "As rodovias são legais, mas às vezes você precisa transportar milhares de toneladas de materiais por metade da cidade.",
 		"hungarian": "Az autópályák jók, de néha anyagok tonnáit kell végigszállítani a városon.",
 		"thai": "ทางหลวงเป็นสิ่งที่ดี แต่บางครั้งคุณต้องขนส่งวัสดุหลายพันตันไปทั่วครึ่งเมือง",
+		"arabic": "الطرق السريعة لطيفة، لكن أحيانا تحتاج لنقل آلاف الأطنان من الموارد عبر المدينة.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -2301,6 +2304,7 @@
 		"portuguese": "Grande projeto de final de jogo",
 		"hungarian": "Hatalmas játék-végi projekt",
 		"thai": "โครงการใหญ่ท้ายเกม",
+		"arabic": "مشروع نهاية اللعبة الكبير",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -2319,6 +2323,7 @@
 		"portuguese": "Você maximizou sua cidade e terminou a árvore tecnológica? Você está procurando um desafio final?",
 		"hungarian": "Teljesen kimaxoltad a városodat és végeztél a kutatásokkal is? Kíváncsi vagy egy utolsó megmérettetésre?",
 		"thai": "คุณได้ขยายเมืองของคุณให้เต็มที่และจบสายวิจัยแล้วหรือยัง? คุณกำลังมองหาความท้าทายครั้งสุดท้ายหรือไม่?",
+		"arabic": "هل وصلت إلى أعلى مستوى في مدينتك وأنهيت الشجرة التقنية؟ هل تبحث عن تحدي أخير؟",
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -2337,6 +2342,7 @@
 		"portuguese": "Gôndolas para acesso às terras altas",
 		"hungarian": "Felvonók a hegyvidékekhez",
 		"thai": "กระเช้าลอยฟ้าสำหรับขึ้นที่สูง",
+		"arabic": "تلفريك للوصول إلى الأراضي المرتفعة",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -2355,6 +2361,7 @@
 		"portuguese": "Gôndolas de carga de alta capacidade podem transportar suas mercadorias por rochas e montanhas.",
 		"hungarian": "A magas tárolóképességű felvonók sziklákon és hegyeken keresztül szállítják az árudat.",
 		"thai": "กระเช้าบรรทุกสินค้าความจุขนาดใหญ่สามารถขนส่งสินค้าผ่านโขดหินและภูเขาได้",
+		"arabic": "عربات موارد تلفريك كبيرة السعة تستطيع حمل بضائعك فوق الصخور والجبال.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -2373,6 +2380,7 @@
 		"portuguese": "Sistema de felicidade",
 		"hungarian": "Öröm rendszer",
 		"thai": "ระบบความสุข",
+		"arabic": "نظام سعادة",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -2391,6 +2399,7 @@
 		"portuguese": "Sistema aprimorado para decidir quando as moradias são atualizadas. Leva em consideração edifícios de serviço próximos, barulho, portaria e muito mais.",
 		"hungarian": "Továbbfejlesztett rendszer ami meghatározza, mikor jön el az ideje fejleszteni a lakásokat.\nSzámításba veszi a környező szolgáltatási építményeket, zajt, előírásokat és további tényezőket.",
 		"thai": "แก้ไขระบบการตัดสินใจเมื่อจะปรับปรุงแหล่งที่อยู่อาศัย โดยคำนึงถึงอาคารที่บริการ เสียงรบกวน กฎหมาย และอื่นๆ",
+		"arabic": "نظام مطور ليقرر متى تتطور الوحدات السكنية. يأخذ في عين الاعتبار ما يجوارها من المباني الخدمية، الإزعاج، القوانين، والكثير.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -2409,6 +2418,7 @@
 		"portuguese": "Suporte para Mods",
 		"hungarian": "Mod támogatás",
 		"thai": "รองรับม็อด",
+		"arabic": "دعم التعديلات",
 		
 	},
 	"roadmap_modSupport_desc": {
@@ -2428,6 +2438,7 @@
 		"portuguese": "Suporte para mods de equilíbrio, mods de construção, mods de recursos, mods de interface do usuário, mods de infraestrutura e mods de script.",
 		"hungarian": "Támogatás egyensúly, építés, alapanyag, felhasználói felület, infrastruktúra és szkript modokhoz.",
 		"thai": "รองรับม็อดสมดุล ม็อดอาคาร ม็อดทรัพยากร ม็อด UI ม็อดโครงสร้างพื้นฐาน และม็อดสคริปต์",
+		"arabic": "دعم تعديلات التوازن، تعديلات المباني، تعديلات الموارد، تعديلات واجهة المستخدم، تعديلات البنية التحتية، وتعديلات النصوص.",
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -2446,6 +2457,7 @@
 		"portuguese": "Dutos para líquidos e gases",
 		"hungarian": "Csövek folyadékokhoz és gázokhoz",
 		"thai": "ท่อสำหรับของเหลวและก๊าซ",
+		"arabic": "أنابيب للسوائل والغازات",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -2464,6 +2476,7 @@
 		"portuguese": "E se você pudesse transportar grandes quantidades de recursos abaixo do solo ou em dutos? E se você precisasse produzir água para sobreviver?",
 		"hungarian": "Mi lenne ha hatalmas mennyiségben tudnál szállítani anyagokat a föld alatt vagy csőrendszerbven? Mi lenne ha vizet kellene előállítani a túléléshez?",
 		"thai": "จะเกิดอะไรขึ้นถ้าคุณสามารถขนส่งทรัพยากรปริมาณมากในใต้พื้นดินหรือในท่อได้ จะเป็นอย่างไร ถ้าคุณต้องการผลิตน้ำเพื่อความอยู่รอด",
+		"arabic": "ماذا لو كان بإمكانك نقل كميات كبيرة من الموارد تحت الأرض أو خلال خطوط أنابيب؟ ماذا لو احتجت أن تنتج الماء لتنجو؟",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -2482,6 +2495,7 @@
 		"portuguese": "Sistema de aquecimento",
 		"hungarian": "Fűtési rendszer",
 		"thai": "ระบบทำความร้อน",
+		"arabic": "نظام تدفئة",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -2500,6 +2514,7 @@
 		"portuguese": "Os sistemas de suporte de vida são importantes no espaço - manter sua cidade quente ou fria o suficiente pode ser crítico.",
 		"hungarian": "A létszükségleti rendszerek fontosak az űrben - melegen tartani vagy hűteni a városod létfontosságú lehet.",
 		"thai": "ระบบช่วยชีวิตมีความสำคัญในอวกาศการทำให้เมืองของคุณอบอุ่นหรือเย็นพอดีนั่นเป็นเรื่องวิกฤต",
+		"arabic": "نظم دعم الحياة مهمة في الفضاء - الحفاظ على مدينتك دافئة أو باردة بشكل كافي قد يكون حرجا.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -2518,6 +2533,7 @@
 		"portuguese": "Ciclo dia-noite",
 		"hungarian": "Nappal-éjjel ciklus",
 		"thai": "สลับกลางวัน-กลางคืน",
+		"arabic": "دورة الليل والنهار",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -2536,6 +2552,7 @@
 		"portuguese": "Parece legal e você precisa preparar sua rede de energia para a noite. Também pode funcionar bem com o sistema de calor - os planetas de areia esfriam rapidamente à noite.",
 		"hungarian": "Elég hidegnek ígérkezik és az elektromos hálózatot is fel kell készíteni az estére. Továbbá jól működhet a fűtési rendszerrel - homokbolygók hamar lehülnek éjjelente.",
 		"thai": "ดูเหมือนจะหนาวนะคุณต้องเตรียมพลังงานสำหรับค่ำคืนนี้ มันทำงานได้ดีกับระบบทำความร้อนเพื่อให้ความหนาวบนดาวเคราะห์นี้หายไปอย่างรวดเร็วในคืนนี้",
+		"arabic": "",
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
