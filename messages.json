@@ -16,6 +16,7 @@
 		"hungarian": "Város szintlépés!",
 		"japanese": "都市レベルが上がりました！",
 		"thai": "ยกระดับเมือง!",
+		"arabic": "مستوى المدينة ارتفع!",
 	},
 	"message_cityLevelUpText": {
 		"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
@@ -34,6 +35,7 @@
 		"hungarian": "Gratulálunk, a városod elérte a %cityLevel%. szintet. Elérhetők lettek új technológiák és kutatások.",
 		"japanese": "おめでとうございます。都市は%cityLevel%になり新たなテクノロジーが解除されました。",
 		"thai": "ยินดีด้วย เมืองของคุณถึงระดับ %cityLevel% แล้ว คุณได้ปลดล็อกเทคโนโลยีใหม่เพื่อทำการวิจัย",
+		"arabic": "هنيئا لك، مدينتك وصلت للمستوى %cityLevel%. لقد تم فتح تقنيات جديدة للبحث.",
 	},
 	"message_cityLevelDownTitle": {
 		"english": "City demoted!",
@@ -52,6 +54,7 @@
 		"hungarian": "Város szintesés!",
 		"japanese": "都市レベルが下がりました！",
 		"thai": "ลดระดับเมือง!",
+		"arabic": "مستوى المدينة انخفض!",
 	},
 	"message_cityLevelDownText": {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
@@ -70,6 +73,7 @@
 		"hungarian": "Nem tudtál eleget tenni a lakóid elvárásainak. A városod addig kisebb szintű lesz, amíg a feltételek nem teljesülnek.",
 		"japanese": "都市運営の失敗により現状の都市レベルを維持できなくなりました。",
 		"thai": "คุณล้มเหลวในการจัดหาพลเมืองของคุณ เมืองของคุณจะถูกลดระดับจนกว่าคุณจะสามารถพลิกสถานการณ์ได้",
+		"arabic": "لقد فشلت في توفير احتياجات سكانك. مدينتك انخفض مستواها إلى أن تعيد ضبط وضعها.",
 	},
 	"attention": {
 		"english": "Attention!",
@@ -88,6 +92,7 @@
 		"hungarian": "Figyelem!",
 		"japanese": "注意！",
 		"thai": "ควรสนใจ!",
+		"arabic": "انتباه!",
 	},
 	"message_debugModeText": {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
@@ -106,5 +111,6 @@
 		"hungarian": "A hibakeresési mód a játékfejlesztéshez van. Ha engedélyezed, lehet, hogy hibákkal fogsz találkozni.",
 		"japanese": "デバッグモードは開発で使用するためのものです。デバッグモードを有効にするとバグが発生する可能性があります。",
 		"thai": "โหมดแก้ไขข้อผิดพลาดมีไว้เพื่อใช้ในการพัฒนา หากคุณเปิดใช้งานโหมดแก้ไขข้อผิดพลาด คุณอาจได้รับข้อผิดพลาด",
+		"arabic": "وضع تحديد المشكلات وإصلاحها محدد للاستخدام في التطوير. إذا قمت بتفعيل الوضع، قد تقابل مشكلات.",
 	},
 }
