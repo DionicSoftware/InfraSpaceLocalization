@@ -17,6 +17,7 @@
 		"hungarian": "Előőrs",
 		"thai": "ค่ายขนาดเล็ก",
 		"arabic": "قاعدة",
+		"turkish": "Koloni",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -36,6 +37,7 @@
 		"hungarian": "Település",
 		"thai": "นิคมขนาดเล็ก",
 		"arabic": "مستعمرة",
+		"turkish": "Yerleşke",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -55,6 +57,7 @@
 		"hungarian": "Kis város",
 		"thai": "หมู่บ้านขนาดเล็ก",
 		"arabic": "بلدة صغيرة",
+		"turkish": "Küçük Kasaba",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -74,6 +77,7 @@
 		"hungarian": "Nagy város",
 		"thai": "หมู่บ้านขนาดใหญ่",
 		"arabic": "بلدة كبيرة",
+		"turkish": "Büyük Kasaba",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -93,6 +97,7 @@
 		"hungarian": "Főváros",
 		"thai": "เมือง",
 		"arabic": "مدينة",
+		"turkish": "Şehir",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -112,5 +117,6 @@
 		"hungarian": "Csillagközi főváros",
 		"thai": "เมืองหลวงแห่งดาวเคราะห์",
 		"arabic": "عاصمة كوكبية",
+		"turkish": "Gezegensel Başkent",
 	},
 }
