@@ -63,6 +63,7 @@
 		"slovak": "hodiny",
 		"hungarian": "óra",
 		"thai": "ชั่วโมง",
+		"turkish":"saat",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -82,6 +83,7 @@
 		"slovak": "h",
 		"hungarian": "ó",
 		"thai": "ชม",
+		"turkish":"s",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -124,6 +126,7 @@
 		"slovak": "min",
 		"hungarian": "perc",
 		"thai": "นาที",
+		"turkish":"dk",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
@@ -138,6 +141,7 @@
 		"hungarian": "p",
 		"japanese": "分",
 		"thai": "น",
+		"turkish":"d",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -217,7 +221,7 @@
 		"italian": "giorni",
 		"russian": "дня",
 		"portuguese": "dias",
-		"turkish": "günler",
+		"turkish": "gün",
 		"romanian": "zile",
 		"polish": "dni",
 		"japanese": "日",
