@@ -2294,6 +2294,7 @@
 		"hungarian": "Vonatok",
 		"thai": "รถไฟ",
 		"arabic": "قطارات",
+		"turkish":"Trenler",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -2313,6 +2314,7 @@
 		"hungarian": "Az autópályák jók, de néha anyagok tonnáit kell végigszállítani a városon.",
 		"thai": "ทางหลวงเป็นสิ่งที่ดี แต่บางครั้งคุณต้องขนส่งวัสดุหลายพันตันไปทั่วครึ่งเมือง",
 		"arabic": "الطرق السريعة لطيفة، لكن أحيانا تحتاج لنقل آلاف الأطنان من الموارد عبر المدينة.",
+		"turkish":"Otoyollar güzel bile olsa bazen tonlarca malzeme taşımak için trenler dahay iyidir.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -2332,6 +2334,7 @@
 		"hungarian": "Hatalmas játék-végi projekt",
 		"thai": "โครงการใหญ่ท้ายเกม",
 		"arabic": "مشروع نهاية اللعبة الكبير",
+		"turkish":"Büyük Oyun Sonu Projeleri",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -2351,6 +2354,7 @@
 		"hungarian": "Teljesen kimaxoltad a városodat és végeztél a kutatásokkal is? Kíváncsi vagy egy utolsó megmérettetésre?",
 		"thai": "คุณได้ขยายเมืองของคุณให้เต็มที่และจบสายวิจัยแล้วหรือยัง? คุณกำลังมองหาความท้าทายครั้งสุดท้ายหรือไม่?",
 		"arabic": "هل وصلت إلى أعلى مستوى في مدينتك وأنهيت الشجرة التقنية؟ هل تبحث عن تحدي أخير؟",
+		"turkish":"Oyunu bitirdin napcan bi hedef lazım al sana hedef",
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -2370,6 +2374,7 @@
 		"hungarian": "Felvonók a hegyvidékekhez",
 		"thai": "กระเช้าลอยฟ้าสำหรับขึ้นที่สูง",
 		"arabic": "تلفريك للوصول إلى الأراضي المرتفعة",
+		"turkish":"Yüksek eğimler için telefirik",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -2389,6 +2394,7 @@
 		"hungarian": "A magas tárolóképességű felvonók sziklákon és hegyeken keresztül szállítják az árudat.",
 		"thai": "กระเช้าบรรทุกสินค้าความจุขนาดใหญ่สามารถขนส่งสินค้าผ่านโขดหินและภูเขาได้",
 		"arabic": "عربات موارد تلفريك كبيرة السعة تستطيع حمل بضائعك فوق الصخور والجبال.",
+		"turkish":"Malzemelri dağlardan taşımak için 200km yok çekmeye gerek yok yay",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -2408,6 +2414,7 @@
 		"hungarian": "Öröm rendszer",
 		"thai": "ระบบความสุข",
 		"arabic": "نظام سعادة",
+		"turkish":"Mutluluk Sistemi",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -2427,6 +2434,7 @@
 		"hungarian": "Továbbfejlesztett rendszer ami meghatározza, mikor jön el az ideje fejleszteni a lakásokat.\nSzámításba veszi a környező szolgáltatási építményeket, zajt, előírásokat és további tényezőket.",
 		"thai": "แก้ไขระบบการตัดสินใจเมื่อจะปรับปรุงแหล่งที่อยู่อาศัย โดยคำนึงถึงอาคารที่บริการ เสียงรบกวน กฎหมาย และอื่นๆ",
 		"arabic": "نظام مطور ليقرر متى تتطور الوحدات السكنية. يأخذ في عين الاعتبار ما يجوارها من المباني الخدمية، الإزعاج، القوانين، والكثير.",
+		"turkish":"Habitatları yükseltmek için mutluluk sğlanmalı.servis binaları ses ve benzeri faktörler.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -2446,6 +2454,7 @@
 		"hungarian": "Mod támogatás",
 		"thai": "รองรับม็อด",
 		"arabic": "دعم التعديلات",
+		"turkish":"Modlama desteği",
 		
 	},
 	"roadmap_modSupport_desc": {
@@ -2466,6 +2475,7 @@
 		"hungarian": "Támogatás egyensúly, építés, alapanyag, felhasználói felület, infrastruktúra és szkript modokhoz.",
 		"thai": "รองรับม็อดสมดุล ม็อดอาคาร ม็อดทรัพยากร ม็อด UI ม็อดโครงสร้างพื้นฐาน และม็อดสคริปต์",
 		"arabic": "دعم تعديلات التوازن، تعديلات المباني، تعديلات الموارد، تعديلات واجهة المستخدم، تعديلات البنية التحتية، وتعديلات النصوص.",
+		"turkish":"Modlama desteği sarar",
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -2485,6 +2495,7 @@
 		"hungarian": "Csövek folyadékokhoz és gázokhoz",
 		"thai": "ท่อสำหรับของเหลวและก๊าซ",
 		"arabic": "أنابيب للسوائل والغازات",
+		"turkish":"Sıvılar Ve Gazlar İÇin Borular",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -2504,6 +2515,7 @@
 		"hungarian": "Mi lenne ha hatalmas mennyiségben tudnál szállítani anyagokat a föld alatt vagy csőrendszerbven? Mi lenne ha vizet kellene előállítani a túléléshez?",
 		"thai": "จะเกิดอะไรขึ้นถ้าคุณสามารถขนส่งทรัพยากรปริมาณมากในใต้พื้นดินหรือในท่อได้ จะเป็นอย่างไร ถ้าคุณต้องการผลิตน้ำเพื่อความอยู่รอด",
 		"arabic": "ماذا لو كان بإمكانك نقل كميات كبيرة من الموارد تحت الأرض أو خلال خطوط أنابيب؟ ماذا لو احتجت أن تنتج الماء لتنجو؟",
+		"turkish":"Yer altı kaynak taşıma, sıvılar falan. insanlara su sağlamak gibi fikirler.",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -2523,6 +2535,7 @@
 		"hungarian": "Fűtési rendszer",
 		"thai": "ระบบทำความร้อน",
 		"arabic": "نظام تدفئة",
+		"turkish":"Isı Sistemi",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -2542,6 +2555,7 @@
 		"hungarian": "A létszükségleti rendszerek fontosak az űrben - melegen tartani vagy hűteni a városod létfontosságú lehet.",
 		"thai": "ระบบช่วยชีวิตมีความสำคัญในอวกาศการทำให้เมืองของคุณอบอุ่นหรือเย็นพอดีนั่นเป็นเรื่องวิกฤต",
 		"arabic": "نظم دعم الحياة مهمة في الفضاء - الحفاظ على مدينتك دافئة أو باردة بشكل كافي قد يكون حرجا.",
+		"turkish":"Şehrin ısısını ayarlamak",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -2561,6 +2575,7 @@
 		"hungarian": "Nappal-éjjel ciklus",
 		"thai": "สลับกลางวัน-กลางคืน",
 		"arabic": "دورة الليل والنهار",
+		"turkish":"Gece-Gündüz",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -2580,6 +2595,7 @@
 		"hungarian": "Elég hidegnek ígérkezik és az elektromos hálózatot is fel kell készíteni az estére. Továbbá jól működhet a fűtési rendszerrel - homokbolygók hamar lehülnek éjjelente.",
 		"thai": "ดูเหมือนจะหนาวนะคุณต้องเตรียมพลังงานสำหรับค่ำคืนนี้ มันทำงานได้ดีกับระบบทำความร้อนเพื่อให้ความหนาวบนดาวเคราะห์นี้หายไปอย่างรวดเร็วในคืนนี้",
 		"arabic": "يبدو الجو باردا ويجب عليك تجهيز شبكة الطاقة الخاصة لقضاء الليلة. تكون جيدة أيضا للعمل مع وجود نظام تدفئة - رمال الكواكب تبرد سريعا خلال الليل.",
+		"turkish":"Hawli olur ve geceleri elektrik üretimi için solar olmaz.ısı sitemiyle de uyar",
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -2599,6 +2615,7 @@
 		"hungarian": "Tüzek és bűnözés",
 		"thai": "ไฟไหม้และอาชญากรรม",
 		"arabic": "الحرائق والجرائم",
+		"turkish":"YAngınlar ve Suçlar",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -2618,6 +2635,7 @@
 		"hungarian": "Balesetek történnek és a városodnak szüksége van vészhelyzeti szolgáltatásokra ilyen esetekre - légy felkészült!",
 		"thai": "หากมีอุบัติเหตุเกิดขึ้นเมืองของคุณต้องการบริการฉุกเฉินสำหรับกรณีดังกล่าว - จงเตรียมพร้อม!",
 		"arabic": "الحوادث تحصل ومدينتك تحتاج إلى خدمات طوارئ لتتعامل معها - كن مستعدا!",
+		"turkish":"İtfaiye Polis sistemi",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -2637,6 +2655,7 @@
 		"hungarian": "Repülő autók a munkásoknak",
 		"thai": "รถบินได้สำหรับคนงาน",
 		"arabic": "سيارات طائرة للعمال",
+		"turkish":"İşciler için uçan arabalar",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -2656,6 +2675,7 @@
 		"hungarian": "Adjunk közlekedést a munkába tartó munkásoknak, de vezessük be a 'repülő autók' fejlesztést hogy óvjuk az utainkat a dugótól.",
 		"thai": "มาเพิ่มการจราจรให้คนงานกันเถอะ แต่ก็ยังอยากแนะนำอัปเกรดรถบินได้เพื่อป้องกันไม่ให้ระบบถนนของคุณติดขัด",
 		"arabic": "هيا بنا نضيف حركة مرور للعمال الذاهبين للعمل، ولكن أيضا نقدم تحديث السيارة الطائرة للحفاظ على نظام الطرق الخاص بك من الاكتظاظ.",
+		"turkish":"çalışan insanlar için trafik ve uçan arabalar.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -2675,6 +2695,7 @@
 		"hungarian": "Természeti katasztrófák",
 		"thai": "ภัยพิบัติทางธรรมชาติ",
 		"arabic": "الكوارث الطبيعية",
+		"turkish":"Doal afetler",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -2694,6 +2715,7 @@
 		"hungarian": "Mennyire fognak működni az utaid egy homokvihar után? Te fel lennél rá készülve?",
 		"thai": "ถนนของคุณทำงานได้ดีแค่ไหนหลังจากเกิดพายุทราย? เตรียมพร้อมรับมือหรือยัง?",
 		"arabic": "ما مدى كفاءة عمل طرقك بعد أن ضربتها عاصفة رملية؟ هل ستكون مستعدا؟",
+		"turkish":"Kum fırtınası tarzı",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -2713,6 +2735,7 @@
 		"hungarian": "Játék nehézsége",
 		"thai": "ความยากของเกม",
 		"arabic": "صعوبة اللعبة",
+		"turkish":"Oyun Zorluğu",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -2732,6 +2755,7 @@
 		"hungarian": "Meghatározza, hogy mennyi termékre lesz a lakosoknak szüksége.\nMinél magasabb a nehézség, annál jobban kell figyelned a pénzügyeidre.",
 		"thai": "ควบคุมจำนวนผลิตภัณฑ์ที่พลเมืองต้องการ\nยิ่งความยากสูงเท่าไหร่ คุณก็ยิ่งต้องจัดการเศรษฐกิจได้ดีเท่านั้น",
 		"arabic": "تتحكم في عدد المنتجات التي يحتاج إليها سكانك.\nكلما زادت الصعوبة، زادت المهارة المطلوبة لإدارة الاقتصاد الخاص بك.",
+		"turkish":"Vatandaşların ihtiyaçlarını değiştirir.\n\nZorluk arttıkca ekonomiyi daha iyi ayarlamak gerekir.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -2751,6 +2775,7 @@
 		"hungarian": "Szállítási nehézség",
 		"thai": "ความยากในการขนส่ง",
 		"arabic": "صعوبة النقل",
+		"turkish":"Taşıma Zorluğu",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -2770,6 +2795,7 @@
 		"hungarian":  "Meghatározza, hogy a járművek mennyi tárgyat szállíthatnak.\nMinél nagyobb a nehézség annál kevesebb tárgyat tudnak egyszerre szállítani.",
 		"thai": "ควบคุมจำนวนสิ่งของที่ยานพาหนะสามารถบรรทุกได้\nยิ่งความยากสูงเท่าไหร่ก็ยิ่งสามารถบรรทุกสิ่งของได้น้อยลงในคราวเดียว",
 		"arabic": "تتحكم في كمية البضائع التي تحملها العربات.\nكلما ازدادت الصعوبة، قلت كمية البضائع المحمولة في المرة الواحدة.",
+		"turkish":"Araçların nekadar eşya taşıyabileceğini değiştirir.\n\nZorluk arttıkca araçlar aynı anda daha az eşya taşır.",
 	},
 	"startGame": {
 		"english": "Start Game",
