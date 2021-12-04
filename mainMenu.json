@@ -313,7 +313,7 @@
 		"hungarian": "Ez a játék még nincs készen. Lehetnek benne hibák \n\nEzeket a korai verziókat adjuk ki játékosoknak, hogy visszajelzést kapjunk a játékmenetről és mielőbb megtaláljuk a hibákat a hivatalos kiadás előtt.\n\nTudasd velünk, hogy neked hogy tetszik!",
 		"thai": "เกมนี้ยังไม่เสร็จอาจจะมีข้อผิดพลาด\n\nเรากำลังเผยแพร่เวอร์ชันแรกๆ พวกนี้ให้กับผู้เล่น เพื่อให้เราได้รับคำติชมจากการเล่นและค้นหาจุดบกพร่องก่อนการเปิดตัวอย่างเป็นทางการ\n\nแจ้งให้เราทราบว่าคุฯชอบมันหรือไม่!",
 		"arabic": "هذه اللعبة ليست مكتملة بعد.\n\nنحن نقوم بإطلاق تلك الإصدارات المبكرة للاعبين حتى نحصل على بعض التقييمات عن تجربة اللعب  واكتشاف المشاكل قبل إطلاق اللعبة الرسمي بكثير.\n\nأخبرنا كيف تحب اللعبة!",
-		"turkish":"Bu oyun daha tamamlanmamaışdır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\n\Oyun hakkındaki düşüncelerinizi duymak isteriz!",
+		"turkish":"Bu oyun daha tamamlanmamaışdır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
