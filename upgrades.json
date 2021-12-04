@@ -16,7 +16,7 @@
 		  "japanese": "改良された風力発電機",
 		  "hungarian": "Fejlesztett szélerőmű lapátok",
 		  "thai": "ปรับปรุงใบพัดกังหันลม",
-		"turkish":"Geliştirilmiş Rüzgar Türbini",
+		"turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
 		  "english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
