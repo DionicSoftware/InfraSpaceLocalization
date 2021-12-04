@@ -17,6 +17,7 @@
 		"japanese": "電力ネットワーク網:No.%networkId%の電力が不足しています。",
 		"thai": "พลังงานในเครือข่าย %networkId% ไม่เพียงพอ",
 		"arabic": "لا توجد طاقة كافية في الشبكة %networkId%",
+		"turkish":"Güç Ağında Yeterli Elektrik Yok %networkId%",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -36,6 +37,7 @@
 		"japanese": "研究が行われていません。",
 		"thai": "เลือกงานวิจัย",
 		"arabic": "اختر بحث",
+		"turkish":"Araştırma Seç",
 	},
 	"notEnoughWorkers_title": {
 		"english": "Not enough Workers",
@@ -55,6 +57,7 @@
 		"japanese": "労働者が不足しています。",
 		"thai": "คนงานไม่เพียงพอ",
 		"arabic": "عدد العمال غير كافي",
+		"turkish":"Yeterli Çalışan Yok",
 	},
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
@@ -74,6 +77,7 @@
 		"japanese": "労働者が不足している工場は稼働率が落ちます。\n左上の生産状況から必要な工場へ労働者を優先させてください。",
 		"thai": "ถ้าคุณมีคนงานไม่เพียงพอ โรงงานของคุณจะทำงานอย่างไม่มีประสิทธิภาพ\nใช้เครื่องมือจัดลำดับความสำคัญที่ด้านซ้ายบนเพื่อจัดแจงคนงานของคุณ",
 		"arabic": "إذا لم يكن عندك عدد عمال كافٍ، لن تعمل مصانعك بكفاءة.\nاستعمل أداة الأولويات في أعلى يسار الشاشة لتوزيع القوة العاملة لديك.",
+		"turkish":"Yeterli çalışanınız yoksa fabrikalarınız verimli çalışamaz.\nSol üstteki öncelik menüsünden iş gücünüzü dağıtabilirsiniz.",
 	},
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
@@ -93,6 +97,7 @@
 		"japanese": "乱気流の発生で効率が低下します。",
 		"thai": "ความแปรปวนของอากาศลดประสิทธิภาพการทำงานของกังหันลม",
 		"arabic": "الاضطرابات الهوائية تخفض من كفائة مولد طاقة الرياح",
+		"turkish":"Türbülanslar Rüzgar Türbinlerinin verimliliğini düşürür",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -112,5 +117,6 @@
 		"japanese": "風力発電所が近すぎるため発電量が低下します。",
 		"thai": "กังหันลมสองตัวอยู่ใกล้กันเกินไปประสิทธิภาพจะลดลง",
 		"arabic": "اثنان من مولدات طاقة الرياح قريبان من بعضهما جدا. كفائتهما قليلة.",
+		"turkish":"İki türbin birbirine çok yakın. Verimlilikeri düşük.",
 	},
 }
