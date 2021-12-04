@@ -16,6 +16,7 @@
 		"czech": "Napájecí síť %id%",
 		"hungarian": "%id%. elektromos hálózat",
 		"thai": "เครือข่ายพลังงาน %id%",
+		"turkish":"Güç Ağı %id%",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -34,6 +35,7 @@
 		"czech": "Požadované: %amount% MW",
 		"hungarian": "Szükséges: %amount% MW",
 		"thai": "จำเป็นต้องใช้ %amount% MW",
+		"turkish":"Gerekli: %amount% MW",
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -52,6 +54,7 @@
 		"czech": "Elektřina byla spotřebována:",
 		"hungarian": "Energia használva:",
 		"thai": "พลังงานที่ใช้:",
+		"turkish":"Kullanılan elektrik",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -70,6 +73,7 @@
 		"czech": "Produkce elektřiny:",
 		"hungarian": "Energia előállítva:",
 		"thai": "พลังงานที่ผลิตได้:",
+		"turkish":"Üretilen elektrik:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -88,6 +92,7 @@
 		"czech": "Příchozí sklad je prázdný",
 		"hungarian": "Beérkező tároló üres",
 		"thai": "พื้นที่เก็บขาเข้าว่าง",
+		"turkish":"Gelen depo boş",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -106,6 +111,7 @@
 		"czech": "Žádný přístup k cestě",
 		"hungarian": "Nincs hozzáférés az úthoz",
 		"thai": "ไม่มีทางเข้าออก",
+		"turkish":"Yola ulaşım yok",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -124,6 +130,7 @@
 		"czech": "Odchozí sklad je prázdný",
 		"hungarian": "Kimenő tároló tele",
 		"thai": "พื้นที่เก็บขาออกเต็ม",
+		"turkish":"Hedef depo dolu",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -142,6 +149,7 @@
 		"czech": "Žádní pracovníci v budově",
 		"hungarian": "Nincsenek munkások az épületben",
 		"thai": "ไม่มีคนงานในอาคาร",
+		"turkish":"Binada çalışan yok",
 	},
 	"noPower": {
 		"english": "No power",
@@ -160,6 +168,7 @@
 		"czech": "Žádná elektřina",
 		"hungarian": "Nincs áram",
 		"thai": "ไม่มีพลัง",
+		"turkish":"Elektrik yok",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -178,6 +187,7 @@
 		"czech": "%amount%% efektivita",
 		"hungarian": "%amount%% hatékonyság",
 		"thai": "ประสิทธิภาพ %amount%%",
+		"turkish":"%%amount% Verimlilik",
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -196,6 +206,7 @@
 		"czech": "Tvé město bude povýšeno na úroveň \"%cityLevelName%\" až dosáhneš %amount% úrovně %nextLevel% občanů.",
 		"hungarian": "A városod szintet fog lépni, (\"%cityLevelName%\") ha van %amount% lakosod, akik %nextLevel% szintűek.",
 		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" ก็ต่อเมื่อคุณต้องมีพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
+		"turkish":"En az %amount% tane %nextLevel% Seviye vatandaş olunca şehriniz \"%cityLevelName%\" e yükselicek.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -214,6 +225,7 @@
 		"czech": "Dosaženo maximální úrovně města. Gratulujeme!",
 		"hungarian": "Elérted a legmagasabb város szintet. Gratulálunk!",
 		"thai": "คุณมาถึงสูงสุดของระดับเมืองแล้ว ยินดีด้วย!",
+		"turkish":"En yüksek şehir seviyesine ulaştınız. Tebrikler!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -232,6 +244,7 @@
 		"czech": "Tvé město degradovalo na úroveň \"%cityLevelName%\", pokud máte méně jak %amount% úroveň %level% občanů.",
 		"hungarian": "A városod lel lesz fokozva (\"%cityLevelName%\") ha kevesebb mint %amount% %level% szintű lakosod van.",
 		"thai": "เมืองของคุณจะถูกลดระดับเป็น \"%cityLevelName%\" หากคุณยังมีพลเมืองน้อยกว่า %amount% ระดับ %level%",
+		"turkish":"Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -250,6 +263,7 @@
 		"czech": "Výzkum %techName%... %progress%",
 		"hungarian": "Kutatás %techName%...    %progress%",
 		"thai": "กำลังค้นคว้า %techName%...    %progress%",
+		"turkish":"%techName% araştırlıyor...    %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -268,6 +282,7 @@
 		"czech": "Vyber technologii pro výzkum",
 		"hungarian": "Válassz kutatást",
 		"thai": "เลือกเทคโนโลยีเพื่อจะวิจัย",
+		"turkish":"Yükseltmek için bir teknoloji seçin",
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -286,6 +301,7 @@
 		"czech": "Nic",
 		"hungarian": "Semmi",
 		"thai": "ไม่มีอะไร",
+		"turkish":"Hiçbirşey",
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -304,6 +320,7 @@
 		"czech": "Odemkli jsme %techName% a nyní můžeme postavit:",
 		"hungarian": "Felfedeztük %techName%-t. Ennek köszönhetően építhetsz:",
 		"thai": "เราปลดล็อค %techName% แล้วและตอนนี้สามารถสร้างได้:",
+		"turkish":"%techName% araştırması bitti ve artık inşa edilebilir:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -322,6 +339,7 @@
 		"czech": "Odemkli jsme %techName%.",
 		"hungarian": "Felfedeztük a(z) %techName%-t.",
 		"thai": "เราปลดล็อค %techName% แล้ว",
+		"turkish":"%techName% araştırması bitti.",
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -340,6 +358,7 @@
 		"czech": "Tato technologie odemkne:",
 		"hungarian": "Ez a technológia feloldja:",
 		"thai": "เทคโนโลยีนี้ปลดล็อก:",
+		"turkish":"Bu teknolojinin açtıkları:",
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
@@ -358,6 +377,7 @@
 		"czech": "Tato technologie vám nic neodemkne.",
 		"hungarian": "Ez a technológia nem old fel semmit.",
 		"thai": "เทคโนโลยีไม่ได้ปลดล็อคอะไรเลย",
+		"turkish":"BU teknoloji hiçbirşey açmıyor.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -376,6 +396,7 @@
 		"czech": "Výzkum dokončen",
 		"hungarian": "A kutatás véget ért!",
 		"thai": "วิจัยเสร็จแล้ว!",
+		"turkish":"Araştırma tamamlandı!",
 	},
 	"production": {
 		"english": "Production",
@@ -394,6 +415,7 @@
 		"czech": "Produkce",
 		"hungarian": "Termelés",
 		"thai": "การผลิต",
+		"turkish":"Üretim",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -412,6 +434,7 @@
 		"czech": "Spotřeba",
 		"hungarian": "Fogyasztás",
 		"thai": "การบริโภค",
+		"turkish":"Tüketim",
 	},
 	"workers": {
 		"english": "Workers",
@@ -430,6 +453,7 @@
 		"czech": "Pracovníci",
 		"hungarian": "Munkások",
 		"thai": "คนงาน",
+		"turkish":"Çalışanlar",
 	},
 	"storage": {
 		"english": "Storage",
@@ -448,6 +472,7 @@
 		"czech": "Sklad",
 		"hungarian": "Raktár",
 		"thai": "พื้นที่จัดเก็บ",
+		"turkish":"Depo",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -466,6 +491,7 @@
 		"czech": "Vylepšení",
 		"hungarian": "Fejlesztések",
 		"thai": "ปรับปรุง",
+		"turkish":"Yükseltmeler",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -484,6 +510,7 @@
 		"czech": "Priorita",
 		"hungarian": "Priorizál",
 		"thai": "จัดลำดับความสำคัญ",
+		"turkish":"Önceliğe Al",
 	},
 	"price": {
 		"english": "Price",
@@ -505,6 +532,7 @@
 		"portuguese": "Custo",
 		"hungarian": "Költség",
 		"thai": "ราคา",
+		"turkish":"Fiyat",
 	},
 	// habitat info panel
 	"habitatUpgradingIn": {
@@ -524,6 +552,7 @@
 		"czech": "Obydlí se vylepší za %seconds%s.",
 		"hungarian": "Lakhely fejlesztve %seconds% mp múlva.",
 		"thai": "กำลังปรับปรุงที่อยู่อาศัยใน %seconds% วิ",
+		"turkish":"Habitat %seconds%sn sonra yükeslicek.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -542,6 +571,7 @@
 		"czech": "Obydlí se zhorší za %seconds%s.",
 		"hungarian": "Lakhely visszafejlesztve %seconds% mp múlva.",
 		"thai": "การลดระดับที่อยู่อาศัยใน %seconds% วิ",
+		"turkish":"Habitat %seconds%sn sonra bir alt seviyeye inecek.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -560,6 +590,7 @@
 		"czech": "Obydlí je plné. Splňte další potřeby pro vylepšení.",
 		"hungarian": "Lakhely megtelt. Tegyél eleget a további szükségleteknek a fejlesztéshez.",
 		"thai": "ที่อยู่อาศัยเต็ม เติมเต็มความต้องการนี้ด้วยการปรับปรุง",
+		"turkish":"Habitat dolu. Yükseltmek için gereksinimleri tamamla.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -578,6 +609,7 @@
 		"czech": "Lidé se přistěhovávají.",
 		"hungarian": "Emberek érkeznek.",
 		"thai": "ผู้คนกำลังย้ายเข้ามา",
+		"turkish":"İnsanlar yerleşiyor.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -596,6 +628,7 @@
 		"czech": "Lidé se odstěhovávají.",
 		"hungarian": "Emberek távoznak.",
 		"thai": "ผู้คนกำลังย้ายออกไป",
+		"turkish":"İnsanlar taşnıyor.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -614,6 +647,7 @@
 		"czech": "Potřeby nejsou splněny.",
 		"hungarian": "A feltételek nincsenek meg.",
 		"thai": "ความต้องการไม่เป็นไปตามที่ร้องขอ",
+		"turkish":"Gereksinimler sağlanmadı.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -632,6 +666,7 @@
 		"czech": "Obyvatelé jsou v pořádku.",
 		"hungarian": "A lakók jól vannak.",
 		"thai": "ชาวบ้านสบายดี",
+		"turkish":"Oturanlar iyi.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -650,6 +685,7 @@
 		"czech": "Není vybrán žádný výzkum.",
 		"hungarian": "Nics kutatás kiválasztva",
 		"thai": "ไม่ได้เลือกงานวิจัย",
+		"turkish":"Yükseltme seçilmedi.",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -668,6 +704,7 @@
 		"czech": "Suroviny ve skladu:",
 		"hungarian": "Anyagok a raktárban:",
 		"thai": "ทรัพยากรในพื้นที่จัดเก็บ:",
+		"turkish":"Depodaki kaynaklar:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -686,6 +723,7 @@
 		"czech": "Úroveň %level% obyvatel",
 		"hungarian": "%level% szintü lakosok",
 		"thai": "พลเมืองระดับ %level%",
+		"turkish":"%level% Seviye vatandaşlar",
 	},
 	"population": {
 		"english": "Population",
@@ -704,6 +742,7 @@
 		"czech": "Populace",
 		"hungarian": "Népesség",
 		"thai": "ประชากร",
+		"turkish":"Nüfus",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -722,6 +761,7 @@
 		"czech": "Práce",
 		"hungarian": "Munkák",
 		"thai": "งาน",
+		"turkish":"İşler",
 	},
 	"housing": {
 		"english": "Housing",
@@ -740,6 +780,7 @@
 		"czech": "Obydlí",
 		"hungarian": "Lakhatások",
 		"thai": "ที่อยู่อาศัย",
+		"turkish":"Konutlar",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -757,6 +798,7 @@
 		"czech": "Statistiky města",
 		"hungarian": "Statisztikák",
 		"thai": "สถิติเมือง",
+		"turkish":"Şehir İstatistikleri",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -775,6 +817,7 @@
 		"czech": "Populace",
 		"hungarian": "Népesség",
 		"thai": "สถิติประชากร",
+		"turkish":"Nüfüs",
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -793,6 +836,7 @@
 		"czech": "Práce",
 		"hungarian": "Munkák",
 		"thai": "สถิติงาน",
+		"turkish":"İşler",
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -811,6 +855,7 @@
 		"czech": "Obydlí",
 		"hungarian": "Lakhatások",
 		"thai": "สถิติที่อยู่อาศัย",
+		"turkish":"Konutlar",
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -829,6 +874,7 @@
 		"czech": "Míra přistěhovalectví",
 		"hungarian": "Bevándorlási arány",
 		"thai": "อัตราคนเข้าเมือง",
+		"turkish":"Yerleşme Oranı",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -847,6 +893,7 @@
 		"czech": "Efektivita",
 		"hungarian": "Hatékonyság",
 		"thai": "ประสิทธิภาพ",
+		"turkish":"Verimlilik",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -865,6 +912,7 @@
 		"czech": "Nedostatek pracovníků",
 		"hungarian": "Nincs elég munkás",
 		"thai": "คนงานไม่เพียงพอ:",
+		"turkish":"Yetersiz Çalışan:",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -883,6 +931,7 @@
 		"czech": "Efektivita zvýšena sousední budovou.",
 		"hungarian": "Szomszédos épületek által jobb", //test
 		"thai": "แรงหนุนจากตึกข้างเคียง",
+		"turkish":"Komşu binalardan güçlendirilmiş",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -901,6 +950,7 @@
 		"czech": "Nedostatek energie:",
 		"hungarian": "Nincs elég energia",
 		"thai": "พลังงานไม่เพียงพอ:",
+		"turkish":"Yetersiz elektrik:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -919,6 +969,7 @@
 		"czech": "Narušené proudění vzduchu",
 		"hungarian": "Zavaros légjárás",
 		"thai": "รบกวนการไหลของอากาศ",
+		"turkish":"Bozuk hava akışı",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -937,6 +988,7 @@
 		"czech": "Postavit zakřivenou cestu",
 		"hungarian": "Ívelt út építése",
 		"thai": "สร้างถนนโค้ง",
+		"turkish":"Kavisli Yol",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -955,6 +1007,7 @@
 		"czech": "Délka cesty",
 		"hungarian": "Út hosszának igazítása",
 		"thai": "สแน็ปความยาวถนน",
+		"turkish":"Yol Uzunluğunu Daya",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -973,6 +1026,7 @@
 		"czech": "Úhel cesty",
 		"hungarian": "Út szögének igazítása",
 		"thai": "สแน็ปมุมถนน",
+		"turkish":"Yol Açısını Daya",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -991,6 +1045,7 @@
 		"czech": "Nahradit cestu",
 		"hungarian": "Út visszaállítása",
 		"thai": "แทนที่ถนน",
+		"turkish":"Yolu Değiştir",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -1006,6 +1061,7 @@
 		"japanese": "選択されていない道路も進行方向が逆になります",
 		"hungarian": "Visszaállítja az út irányát ha nincsen más út kijelölve.",
 		"thai": "สามารถย้อนทิศทางถนนหากคุณไม่ได้เลือกถนนที่จะแทนที่",
+		"turkish":"Eğer değiştirilecek yol seçili değilse yolun yönünü değiştirir.",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1021,6 +1077,7 @@
 		"japanese": "反転",
 		"hungarian": "Út visszafordítása",
 		"thai": "ย้อนถนน",
+		"turkish":"Yolun Yönünü Değiştir",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1039,6 +1096,7 @@
 		"czech": "Připojovat budovu cestou",
 		"hungarian": "Úthoz igazítás",
 		"thai": "ดึงไปหาถนน",
+		"turkish":"Yola Daya",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1057,6 +1115,7 @@
 		"czech": "Momentálně se dodává: %amount%",
 		"hungarian": "Jelenleg ennyi van szállítás alatt: %amount%",
 		"thai": "กำลังจัดส่ง: %amount%",
+		"turkish":"Şuanda iletiliyor: %amount%",
 	},
 	// sign panel
 	"signPanelText": {
@@ -1076,6 +1135,7 @@
 		"czech": "Text",
 		"hungarian": "Szöveg",
 		"thai": "ข้อความ",
+		"turkish":"Metin",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -1094,6 +1154,7 @@
 		"czech": "Velikost písma",
 		"hungarian": "Betűméret",
 		"thai": "ขนาดตัวอักษร",
+		"turkish":"Yazı Boyu",
 	},
 	"font": {
 		"english": "Font",
@@ -1112,6 +1173,7 @@
 		"czech": "Druh písma",
 		"hungarian": "Betűtípus",
 		"thai": "แบบอักษร",
+		"turkish":"Yazı Tipi",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -1130,6 +1192,7 @@
 		"czech": "Nepřipojené ke zdroji energie",
 		"hungarian": "Nincs hálózathoz csatlakoztatva.",
 		"thai": "ไม่ได้เชื่อมต่อกับเครือข่ายไฟฟ้า",
+		"turkish":"Güç ağına bağlı değil",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1148,6 +1211,7 @@
 		"czech": "Budova s něčím koliduje",
 		"hungarian": "Épület ütközik valamivel.",
 		"thai": "อาคารชนกับอะไรบางอย่าง",
+		"turkish":"Bina birşeyle çakışıyor",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -1166,6 +1230,7 @@
 		"czech": "Budova není umístěná na zdroji surovin",
 		"hungarian": "Az építmény nem anyaglerakó helyen van",
 		"thai": "อาคารไม่ได้วางบนแหล่งทรัพยากร",
+		"turkish":"Bina kaynağın üstünde değil",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -1184,6 +1249,7 @@
 		"czech": "Cesta s něčím koliduje",
 		"hungarian": "Az út ütközik valamivel.",
 		"thai": "ถนนชนกับอะไรบางอย่าง",
+		"turkish":"Yol birşeyle çakışıyor",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -1202,6 +1268,7 @@
 		"czech": "Příliš blízko k jiné cestě",
 		"hungarian": "Túl közeli szomszédos út",
 		"thai": "ติดกับถนนที่อยู่ใกล้เคียง",
+		"turkish":"Başka bir yola çok yakın",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1220,6 +1287,7 @@
 		"czech": "Úsek cesty je příliš krátký",
 		"hungarian": "Út túl rövid",
 		"thai": "ระยะถนนสั้นเกินไป",
+		"turkish":"Yol çok kısa",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -1238,6 +1306,7 @@
 		"czech": "Příliš strmá cesta",
 		"hungarian": "Út túl ",
 		"thai": "ถนนสูงชันเกินไป",
+		"turkish":"Yol çok dik",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -1256,6 +1325,7 @@
 		"czech": "Cesta je příliš daleko od země",
 		"hungarian": "Út túl messze a földtől",
 		"thai": "ถนนห่างจากพื้นดินมากเกินไป",
+		"turkish":"Yol zeminden çok uzak",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1274,6 +1344,7 @@
 		"czech": "Vizualizace",
 		"hungarian": "Vizualizációk",
 		"thai": "แผนผัง",
+		"turkish":"Görselleştirmeler",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -1292,6 +1363,7 @@
 		"czech": "Stavební efektivita",
 		"hungarian": "Építmény hatékonysága",
 		"thai": "ประสิทธิภาพอาคาร",
+		"turkish":"Bina Verimliliği",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -1310,6 +1382,7 @@
 		"czech": "Obsazenost budovy (pracovníci a obyvatelé)",
 		"hungarian": "Építmény lakottsága (munkások & lakók)",
 		"thai": "อาคารที่พัก (คนงานและผู้อยู่อาศัย)",
+		"turkish":"Bina Doluluğu (Çalışanlar & Oturanlar)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1328,6 +1401,7 @@
 		"czech": "Energie",
 		"hungarian": "Áram",
 		"thai": "พลังงาน",
+		"turkish":"Elektrik",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1346,6 +1420,7 @@
 		"czech": "Větrné turbíny",
 		"hungarian": "Szélerőművek",
 		"thai": "กังหันลม",
+		"turkish":"Rüzgar Türbinleri",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -1364,6 +1439,7 @@
 		"czech": "Zařízení na obohacování půdy",
 		"hungarian": "Talajdúsító létesítmények",
 		"thai": "โรงบำรุงดิน",
+		"turkish":"Toprak Zenginleştirme Tesisleri",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1382,6 +1458,7 @@
 		"czech": "Recyklační centrum",
 		"hungarian": "Újrahasznosító központok",
 		"thai": "ศูนย์กลางรีไซเคิล",
+		"turkish":"Geri Dönüşüm Merkezleri",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -1400,6 +1477,7 @@
 		"czech": "Budování se špičkovými nástroji",
 		"hungarian": "Építmények csúcstechnológiás eszközökkel",
 		"thai": "อาคารที่มีเครื่องมือเทคโนโลยีขั้นสูง",
+		"turkish":"Yüksek Teknoloji Ekipmanlı Binalar",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -1418,6 +1496,7 @@
 		"czech": "Budování s průmyslovými roboty",
 		"hungarian": "Építmények ipari robotokkal",
 		"thai": "อาคารที่มีหุ่นยนต์อุตสาหกรรม",
+		"turkish":"Endüstriyel Robotlu Binalar",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -1436,6 +1515,7 @@
 		"czech": "Auta",
 		"hungarian": "Autók",
 		"thai": "รถ",
+		"turkish":"Arabalar",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -1454,6 +1534,7 @@
 		"czech": "Cesty",
 		"hungarian": "Útak",
 		"thai": "ถนน",
+		"turkish":"Yollar",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -1472,6 +1553,7 @@
 		"czech": "Potřebné suroviny:",
 		"hungarian": "Anyagok szükségesek:",
 		"thai": "ทรัพยากรที่จำเป็น:",
+		"turkish":"Gerekli Malzemeler:",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -1490,6 +1572,7 @@
 		"czech": "Těžba %amount% %resourceName% za minutu",
 		"hungarian": "%amount%-nyi %resourceName% bányászása percenként",
 		"thai": "การขุด %resourceName% ได้ %amount% ต่อนาที",
+		"turkish":"Dakikada %amount% adet %resourceName% kazılıyor",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1508,6 +1591,7 @@
 		"czech": "Celkové dosud natěžené množství: %amount%",
 		"hungarian": "Összes, eddig bányászott: %amount%",
 		"thai": "จำนวนทั้งหมดที่ขุดได้จนถึงตอนนี้: %amount%",
+		"turkish":"Şimdiye kadar toplam kazılan: %amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1526,6 +1610,7 @@
 		"czech": "Oblast",
 		"hungarian": "Kerületek",
 		"thai": "จัดการการจัดส่ง",
+		"turkish":"Bölgeler",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -1544,6 +1629,7 @@
 		"czech": "Levým tlačítkem kreslíte\nPravým tlačítkem mažete",
 		"hungarian": "Bal egérgomb festés\nJobb egérgomb törlés",
 		"thai": "คลิกซ้ายเพื่อระบายสี\nคลิกขวาเพื่อลบ",
+		"turkish":"Sol tıkla çiz\nSağ tıkla sil",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -1562,6 +1648,7 @@
 		"czech": "Potažením kurzorem myši mezi oblastmi vytvoříte pravidlo exportu.\n\nOblasti bez pravidel exportu mohou vyvážet suroviny kamkoliv.",
 		"hungarian": "Húzd a kúrzorodat a kerületek között, hogy exportálási szabályt hozz létre.\n\nSzabályok nélküli kerületek exportálhatnak termékeket akármerre.",
 		"thai": "ลากเคอร์เซอร์ของเมาส์ระหว่างเขตเพื่อสร้างกฎการส่งออก\n\nเขตที่ไม่มีกฎการส่งออกสามารถส่งออกสินค้าได้ทุกที่",
+		"turkish":"Bir ihracat kuralı yaratmak için fare imlecini bölgeler arasında oynat.\n\nİhracat kuralı olmayan bölgeler heryere ihracat yapabilirler",
 	},
 	"populationInfo": {
 		"english": "Population Info",
@@ -1580,6 +1667,7 @@
 		"czech": "Informace o populaci",
 		"hungarian": "Népesség információ",
 		"thai": "ข้อมูลประชากร",
+		"turkish":"Nüfus Bilgisi",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -1598,6 +1686,7 @@
 		"czech": "Imigranti připraveni se přistěhovat:",
 		"hungarian": "Migránsok készen, hogy beköltözzenek:",
 		"thai": "",
+		"turkish":"Taşınmaya hazır göçmenler:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -1616,6 +1705,7 @@
 		"czech": "Míra přistěhovalectví:",
 		"hungarian": "Migrálási ráta",
 		"thai": "ผู้อพยพพร้อมเข้าอยู่:",
+		"turkish":"Göç oranı:",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -1634,6 +1724,7 @@
 		"czech": "Vylepši obydlí, aby tvé město mohlo příjímat přistěhovalce.",
 		"hungarian": "Fejleszd a lakhelyeidet hogy a városodat vonzóbbá tedd az érkezőknek.",
 		"thai": "ปรับปรุงแหล่งที่อยู่อาศัยของคุณเพื่อทำให้เมืองของคุณน่าสนใจสำหรับผู้มาใหม่",
+		"turkish":"Habitatları yüksleterek şehri yeni gelenler için daha çekici yap.",
 	},
 	"low": {
 		"english": "Low",
@@ -1652,6 +1743,7 @@
 		"czech": "Malá",
 		"hungarian": "Alacsony",
 		"thai": "ต่ำ",
+		"turkish":"Düşük",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -1670,6 +1762,7 @@
 		"czech": "Mírná",
 		"hungarian": "Közepes",
 		"thai": "ปานกลาง",
+		"turkish":"Orta",
 	},
 	"high": {
 		"english": "High",
@@ -1688,6 +1781,7 @@
 		"czech": "Vysoká",
 		"hungarian": "Magas",
 		"thai": "สูง",
+		"turkish":"Yüksek",
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -1706,6 +1800,7 @@
 		"czech": "Obydlí bylo vylepšeno",
 		"hungarian": "Lakhely fejlesztve",
 		"thai": "ปรับปรุงที่อยู่อาศัย",
+		"turkish":"Habitat Yükseltildi",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -1724,6 +1819,7 @@
 		"czech": "Obydlí bylo degradováno",
 		"hungarian": "Lakhely visszafejlesztve",
 		"thai": "ลดระดับที่อยู่อาศัย",
+		"turkish":"Habitat Düşürüldü",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -1742,6 +1838,7 @@
 		"czech": "MW",
 		"hungarian": "MW",
 		"thai": "MW",
+		"turkish":"MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -1760,6 +1857,7 @@
 		"czech": "%percentage%% efektivity",
 		"hungarian": "%percentage%%-os hatékonyság",
 		"thai": "ประสิทธิภาพ %percentage%%",
+		"turkish":"%%percentage% Verimlilik",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -1777,6 +1875,7 @@
 		"czech": "Přehled výroby",
 		"hungarian": "Termelési nézet",
 		"thai": "ภาพรวมการผลิต",
+		"turkish":"Üretim Özeti",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -1794,6 +1893,7 @@
 		"czech": "Zásoby",
 		"hungarian": "Anyagok",
 		"thai": "ทรัพยากร",
+		"turkish":"Ürün",
 	},
 	"priority": {
 		"english": "Priority",
@@ -1811,6 +1911,7 @@
 		"czech": "Priorita",
 		"hungarian": "Prioritás",
 		"thai": "ลำดับความสำคัญ",
+		"turkish":"Öncelik",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -1828,6 +1929,7 @@
 		"czech": "Úroveň města",
 		"hungarian": "Város szintje",
 		"thai": "ระดับเมือง",
+		"turkish":"Şehir Seviyesi",
 	},
 	
 	"averageHabitatLevel": {
@@ -1835,23 +1937,27 @@
 		"german": "Durchschnittliche Habitatstufe",
 		"french": "Niveau d'habitat moyen",
 		"thai": "ระดับที่อยู่อาศัยเฉลี่ย",
+		"turkish":"Ortalama habitat seviyesi",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
 		"german": "Benötigte Habitatstufe",
 		"french": "Niveau d'habitat requis",
 		"thai": "ระดับที่อยู่อาศัยต้องการ",
+		"turkish":"Gerekli habitat seviyesi",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
 		"german": "Globales Lager",
 		"french": "Stockage global",
 		"thai": "พื้นที่เก็บทุกอย่าง",
+		"turkish":"Evrensel Depo",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
 		"german": "Das Lager für Baumaterialien lagert Beton und Stahl, was du zum Bauen von Gebäuden und Infrastruktur benötigst.",
 		"french": "L'entrepôt des matériaux de construction stocke le béton et l'acier, dont vous avez besoin pour construire des bâtiments et des infrastructures.",
 		"thai": "คลังเก็บวัสดุก่อสร้างเป็นที่เก็บคอนกรีตและเหล็ก ซึ่งคุณจำเป็นต้องสร้างอาคารและโครงสร้างพื้นฐาน",
+		"turkish":"Yapı malzemeleri deposu bina inşa etmek için gerekli olan betonu ve çeliği saklar.",
 	},
 }
