@@ -121,6 +121,7 @@
 		"japanese": "ゲームに戻る",
 		"thai": "กลับไปยังเกม",
 		"arabic": "الرجوع إلى اللعبة",
+		"turkish":"Oyuna Dön",
 	},
 	"website": {
 		"english": "Website",
@@ -151,7 +152,7 @@
 		"russian": "Форум",
 		"spanish": "Foro",
 		"portuguese": "Fórum",
-		"turkish": "Fórum",
+		"turkish": "Forum",
 		"dutch": "Forum",
 		"ukrainian": "Форум",
 		"chinese": "论坛",
@@ -272,6 +273,7 @@
 		"hungarian": "Közösség",
 		"thai": "ชุมชน",
 		"arabic": "منتدى اللاعبين",
+		"turkish":"Topluluk",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -291,6 +293,7 @@
 		"hungarian": "Ez egy alpha verzió",
 		"thai": "นี่คือเวอร์ชันอัลฟ่า",
 		"arabic": "هذا إصدار اختباري",
+		"turkish":"Bu bir Alfa Sürümdür",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -310,6 +313,7 @@
 		"hungarian": "Ez a játék még nincs készen. Lehetnek benne hibák \n\nEzeket a korai verziókat adjuk ki játékosoknak, hogy visszajelzést kapjunk a játékmenetről és mielőbb megtaláljuk a hibákat a hivatalos kiadás előtt.\n\nTudasd velünk, hogy neked hogy tetszik!",
 		"thai": "เกมนี้ยังไม่เสร็จอาจจะมีข้อผิดพลาด\n\nเรากำลังเผยแพร่เวอร์ชันแรกๆ พวกนี้ให้กับผู้เล่น เพื่อให้เราได้รับคำติชมจากการเล่นและค้นหาจุดบกพร่องก่อนการเปิดตัวอย่างเป็นทางการ\n\nแจ้งให้เราทราบว่าคุฯชอบมันหรือไม่!",
 		"arabic": "هذه اللعبة ليست مكتملة بعد.\n\nنحن نقوم بإطلاق تلك الإصدارات المبكرة للاعبين حتى نحصل على بعض التقييمات عن تجربة اللعب  واكتشاف المشاكل قبل إطلاق اللعبة الرسمي بكثير.\n\nأخبرنا كيف تحب اللعبة!",
+		"turkish":"Bu oyun daha tamamlanmamaışdır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\n\Oyun hakkındaki düşüncelerinizi duymak isteriz!",
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -368,7 +372,7 @@
 		"portuguese": "Tem certeza de que deseja excluir a gravação \"%save%\"? Ela será excluída para sempre.",
 		"italian": "Vuoi davvero eliminare il salvataggio \"%save%\"? Andrà perso per sempre.",
 		"polish": "Na pewno chcesz usunąć zapis \"%save%\"? Uwaga! Nie będzie można go odzyskać.",
-		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
+		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşü yok.",
 		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
 		"romanian": "Sigur doriți să ștergeți salvarea \"%save%\"? O veți pierde pentru totdeauna.",
 		"japanese": "\"%save%\"を削除します。本当に削除してもよろしいですか?",
@@ -390,7 +394,7 @@
 		"portuguese": "O jogo não foi salvo por %minutes% minutos. Tem certeza de que deseja voltar ao menu principal sem salvar?",
 		"italian": "L'ultimo salvataggio risale a %minutes% minuti fa. Vuoi davvero tornare al menu principale senza salvare?",
 		"polish": "Ta gra nie była zapisywana przez %minutes% minut. Na pewno chcesz wyjść do menu głównego bez zapisywania?",
-		"turkish": "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinden emin misiniz?",
+		"turkish": "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinizden emin misiniz?",
 		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
 		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?",
 		"japanese": "このゲームは%minutes%分間保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか?",
@@ -418,6 +422,7 @@
 		"hungarian": "Theta-3-as Előőrs",
 		"thai": "ค่ายขนาดเล็ก Theta-3",
 		"arabic": "القاعدة Theta-3",
+		"turkish":"Koloni Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -425,7 +430,7 @@
 		"spanish": "Caracteres no permitidos en el nombre",
 		"french": "Caractères interdits dans le nom du fichier",
 		"portuguese": "Caractéres proibidos no nome do arquivo",
-		"turkish": "Dosya adında geçersiz karakter",
+		"turkish": "Dosya adında geçersiz karakterler mevcut",
 		"ukrainian": "Заборонені символи в назві файлу",
 		"dutch": "Verboden tekens in de bestandsnaam",
 		"russian": "Запрещенные символы в имени файла",
@@ -535,7 +540,7 @@
 		"german": "Grafik",
 		"french": "Vidéo",
 		"spanish": "Video",
-		"turkish": "Vidyo",
+		"turkish": "Video",
 		"portuguese": "Gráfico",
 		"dutch": "Video",
 		"ukrainian": "Відео",
@@ -689,7 +694,7 @@
 		"german": "Fenster",
 		"french": "Fenêtré",
 		"spanish": "Ventana",
-		"turkish": "Pencerede Aç",
+		"turkish": "Pencereli",
 		"portuguese": "Janela",
 		"dutch": "Venster",
 		"ukrainian": "У Вікні",
@@ -746,6 +751,7 @@
 		"hungarian": "Exklúzív teljesképernyős",
 		"thai": "เต็มจอพิเศษ",
 		"arabic": "ملء تام للشاشة",
+		"turkish":"Exclusive Tam Ekran",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -1095,6 +1101,7 @@
 		"hungarian": "Oktatóanyag megjelenítése",
 		"thai": "แสดงการสาธิต",
 		"arabic": "إظهار الإرشادات",
+		"turkish":"Öğreticileri Göster",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -1114,6 +1121,7 @@
 		"hungarian": "Oktatóanyagok visszaállítása",
 		"thai": "รีเซ็ตบทเรียนที่เรียนแล้ว",
 		"arabic": "تجاوز الإرشادات",
+		"turkish":"Öğreticileri Sıfırla",
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1265,6 +1273,7 @@
 		"hungarian": "Hurrá!",
 		"thai": "ไชโย!",
 		"arabic": "مرحى!",
+		"turkish":"Eyooo!",
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1483,6 +1492,7 @@
 		"hungarian": "Építkezés",
 		"thai": "งานก่อสร้าง",
 		"arabic": "بناء",
+		"turkish":"İnşaat",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1502,6 +1512,7 @@
 		"hungarian": "Út magasítása",
 		"thai": "ยกถนนขึ้น",
 		"arabic": "رفع الطريق",
+		"turkish":"Yolu Yükselt",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1521,6 +1532,7 @@
 		"hungarian": "",
 		"thai": "ลดถนนลง",
 		"arabic": "خفض الطريق",
+		"turkish":"Yolu Alçalt",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1672,13 +1684,14 @@
 		"hungarian": "Képernyőkép mód",
 		"thai": "โหมดถ่ายรูปหน้าจอ",
 		"arabic": "وضع التقاط صورة شاشة",
+		"turkish":"Ekran Görüntüsü Modu",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
 		"german": "Öffne Ordner mit Bildschirmfotos",
 		"french": "Ouvrir le dossier des captures d'écran",
 		"spanish": "Abrir carpeta de capturas de pantalla",
-		"turkish": "Ekran görüntüsü klasörü",
+		"turkish": "Ekran görüntüsü klasörünü aç",
 		"portuguese": "Abrir diretéorio de imagens",
 		"dutch": "Open Schermafdrukkenmap",
 		"ukrainian": "Відкрити теку знімків екрана",
@@ -1714,6 +1727,7 @@
 		"hungarian": "Képernyőképek / Mentések",
 		"thai": "เปิดที่เก็บรูปหน้าจอ / บันทึก",
 		"arabic": "افتح لقطات الشاشة / المحفوظات",
+		"turkish":"Ekran Görüntülerini / Dünyaları Aç",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1997,6 +2011,7 @@
 		"hungarian": "PageUp",
 		"thai": "PageUp",
 		"arabic": "Page Up",
+		"turkish":"Pg Up",
 	},
 	"key_PageDown": {
 		"english": "Page Down",
@@ -2016,6 +2031,7 @@
 		"hungarian": "PageDown",
 		"thai": "PageDown",
 		"arabic": "Page Down",
+		"turkish":"Pg Dn",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -2058,6 +2074,7 @@
 		"hungarian": "Útiterv",
 		"thai": "แผนงาน",
 		"arabic": "خارطة طريق",
+		"turkish":"Planlar",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -2077,6 +2094,7 @@
 		"hungarian": "Nem található útiterv.\n\nCsatlakozva vagy az internethez?",
 		"thai": "ไม่พบแผนงาน \n\nคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือยัง?",
 		"arabic": "لم يتم إيجاد خريطة طريق.\n\nهل أنت متصل بالإنترنت؟",
+		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısnız?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -2096,6 +2114,7 @@
 		"hungarian": "Garantált tartalmak a Korai Hozzáféréshez",
 		"thai": "คุณสมบัติที่รับประกันสำหรับการเล่นระหว่างการพัฒนา",
 		"arabic": "مميزات مضمونة في الإصدار الأولي",
+		"turkish":"Erken erişimede garantili",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -2115,6 +2134,7 @@
 		"hungarian": "Szavazz extra tartalmakra",
 		"thai": "โหวตคุณสมบัติพิเศษ",
 		"arabic": "صوت على مميزات زائدة",
+		"turkish":"Ek özelliklere oy verin",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -2134,6 +2154,7 @@
 		"hungarian": "Szavazz a kedvenc funkcióidra, hogy tudasd velünk melyikre figyeljünk jobban.\nEbből a listából választunk a közösség kívánságai és a játékba való illeszkedésük alapján.",
 		"thai": "โหวตคุณลักษณะที่คุณชื่นชอบเพื่อแจ้งให้เราทราบว่าเราควรเน้นเรื่องใด \nเราจะเลือกจากรายการนี้ตามความปรารถนาของชุมชนและความเหมาะสมกับเกม",
 		"arabic": "صوت على المميزات المفضلة لديك لتعلمنا بما يجب علينا التركيز عليه.\nسنختار من هذه القائمة بناء على رغبة الجمهور ومدى إمكانية تطبيقها في اللعبة.",
+		"turkish":"Favori özelliklerinize oyun verin.\nTopluluğun isteklerine ve oyuna uyuma bağlı olarak bu listedeki özellikleri oyuna ekliyeceğiz.",
 	},
 	"vote": {
 		"english": "Vote",
@@ -2153,6 +2174,7 @@
 		"hungarian": "Szavazás",
 		"thai": "โหวต",
 		"arabic": "صوت",
+		"turkish":"Oy Ver",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -2172,6 +2194,7 @@
 		"hungarian": "Fórum",
 		"thai": "พิจารณา",
 		"arabic": "ناقش",
+		"turkish":"Tartış",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -2191,6 +2214,7 @@
 		"hungarian": "Hiba bejelentése",
 		"thai": "รายงานข้อผิดพลาด",
 		"arabic": "أبلغ عن مشكلة",
+		"turkish":"Hata Bildir",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -2210,6 +2234,7 @@
 		"hungarian": "Fordítsd az InfraSpace-t",
 		"thai": "แปลเกม InfraSpace",
 		"arabic": "ترجم InfraSpace",
+		"turkish":"InfraSpace i çevir",
 	},
 	"roadmap_trafficTools_title": {
 		"english": "Traffic Signs and Traffic Lights",
@@ -2229,6 +2254,7 @@
 		"hungarian": "Forgalomirányító táblák és fények",
 		"thai": "แปลเกม InfraSpace",
 		"arabic": "إشارات المرور وعلامات المرور",
+		"turkish":"Trafik Işıkları ve Trafik Tabelaları",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -2248,6 +2274,7 @@
 		"hungarian": "Ügyelj arra, hogy a kereszteződéseid ne teljenek meg és priorizáld mely autók mehetnek először.",
 		"thai": "ป้องกันไม่ให้เกิดทางแยกที่จะทำให้รถติดและจัดลำดับความสำคัญด้วยว่ารถคันใดต้องไปก่อนได้",
 		"arabic": "حافظ على تقاطعات الطرق الخاصة بك من الاختناق المروري وضع أولويات من يمشي أولا",
+		"turkish":"Yolların tıkanmasını engelle ve araçlara öncelik ver.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -2762,6 +2789,7 @@
 		"hungarian": "Játék indítása",
 		"thai": "เริ่มเกม",
 		"arabic": "ابدأ اللعبة",
+		"turkish":"Oyunu Başlat",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -2781,6 +2809,7 @@
 		"hungarian": "Könnyű",
 		"thai": "ง่าย",
 		"arabic": "سهل",
+		"turkish":"Kolay",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -2800,6 +2829,7 @@
 		"hungarian": "Közepes",
 		"thai": "กลาง",
 		"arabic": "متوسط",
+		"turkish":"Orta",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -2819,5 +2849,6 @@
 		"hungarian": "Nehéz",
 		"thai": "ยาก",
 		"arabic": "صعب",
+		"turkish":"Zor",
 	},
 }
