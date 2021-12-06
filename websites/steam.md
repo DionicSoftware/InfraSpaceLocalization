@@ -71,6 +71,10 @@ Infraspace je sci-fi budování města - kde každý zdroj musí projít svou do
 
 منشئ مدن خيال علمي حيث تدفق الموارد يمر خلال بنية النقل التحتية لمدينتك. أنشئ يوتوبيا فضائية عالية الكفائة من لا شيئ. ابدأ عمليات التعدين، ضع خطط للإنتاج، وارسم شبكة نقل تضمن تدفق سلس للموارد.
 
+### Turkish//TODO-Devs
+
+Kaynak akışının şehrinizin ulaşım altyapısından geçtiği bir bilim kurgu şehir kurucusu. Yoktan bir yıldızlararası verimlilik ütopyası inşa edin. Sorunsuz bir tedarik zinciri sağlamak için madencilik operasyonları başlatın, üretimi planlayın ve nakliye rotaları belirleyin.
+
 
 
 # Long Description - Translation Disclaimer
@@ -94,7 +98,7 @@ Substitute "..." with your language
 (La traducción al español fue realizada por la comunidad.)
 
 ### Turkish
-(Çeviri topluluk tarafından yapıldı.)
+(Türkçe çeviri topluluk tarafından yapıldı.)
 
 ### Russian
 (Перевод на русский язык выполнен сообществом.)
@@ -249,6 +253,16 @@ Jakmile budete mít nějaké železo, uhlík, písek a síru, je čas postavit s
 
 بمجرد حصولك على بعض الحديد، الكاربون، الرمل، والكبريت، فإنه قد حان الوقت لتنشئ مصانع الصلب والخرسانة الأولى لك وتبدأ بوضع بعض البنية التحتية. حتى الاحتياجات الأساسية مثل الطعام والأوكسجين تتطلب سلسلة إنتاج مستقر لا يجب كسرها!
 
+### Turkish//TODO-Devs
+
+Tükettiğiniz Her Şeyi Üretin
+
+Uygarlıktan uzakta, şehrinizi inşaat etmek için gereken kaynakaları parayla alamazsınız. Bunun yerine, ilk astronotlarınızı madencilik işine koymanız ve kendi hammadenizi çıkarmalısınız.
+
+Biraz demir, karbon, kum ve kükürt elde ettiğinizde, ilk çelik ve beton fabriklarınız kurmanın ve altyapı oluşturmaya başlamanın zamanı geldi demekdir. Yiyecek ve oksijen gibi ihtiyaçlar bile sabit bir üretim zincirine ihtiyaç duyar!
+
+
+
 # Long Description - Transport Section
 **************************************
 
@@ -360,6 +374,15 @@ InfraSpace จะจำลองรถทุกคันในเกม ทร�
 InfraSpace تحاكي. كل. سيارة. كل مورد تنتجه لابد من نقله لمصنع لتتم معالجته وكل منتج لابد من نقله لمسكن ليتم استهلاكه.
 
 شبكة الطرق الخاصة بك تستطيع تحمل الكثير، لكن بدون رقابة منك فإنها ستكتظ ببطئ إلى أن تغرق في النهاية في الازدحام المروري. أنشئ طرق سريعة، ميادين دوران، وطريق متعددة الحارات لتضمن بقاء قلب الإنتاج الخاص بمدينتك ينبض.
+
+### Turkish//TODO-Devs
+
+Ulaşım Altyapısı
+
+InfraSpace her bir aracı simüle eder. Ürettiğiniz her kaynağın işlenmek üzere bir fabrikaya nakledilmesi ve her ürünün tüketim için bir habitata gitmesi gerekir.
+
+Yol ağınız pek çok şeyin üstesinden gelebilir, ancak sizin gözetiminiz olmadan durma noktasına gelir ve sonunda trafikte boğulur. Şehrin üretime devam etmesini sağlamak için otoyollar, dönel kavşaklar ve çok şeritli yollar inşa edin.
+
 
 
 # Long Description - Population Section
@@ -473,6 +496,15 @@ Jelikož vaše město roste, musíte pokrýt rostoucí pracovní zatížení zam
 
 بينما تنمو مستوطنتك، يجب عليك تغطية الاحتياج المتزايد للعمل عن طريق توظيف علماء ومهندسين، وهذا ما يتطلب مستويات زائدة من الراحة. أي مدينة بالحجم الكافي ستكون -عاجلا أو آجلا- وطنا لمزيد من العائلات أيضا، لذا تأكد من أن مدارسك تستطيع احتوائهم وأنك ستكون قادرا أيضا على تزويدهم بأحدث أجهزة التعليم بتقنية الواقع الافتراضي.
 
+### Turkish//TODO-Devs
+
+Nüfus artışı
+
+İlk kolonistleriniz, insanlığın sunabileceği en iyi ve en cesur astronotlar olacak. Onlara yiyecek ve barınak verinki yerleşkenizi çalışır durumda tutsunlar.
+
+Yerleşkeniz büyüdükce, kolonistlerinizin git gide artan konfor ihtiyaçlarını karşılamanız gerekir. Yeterli büyüklükteki herhangi bir şehir er ya da geç daha fazla aileye ev sahipliği yapacaktır, bu nedenle okullarınızın bununla başa çıkabildiğinden ve en yeni VR-eğlence ürünlerini de sunabildiğinizden emin olun.
+
+
 
 # Long Description - Difficulty Section
 ***************************************
@@ -552,4 +584,11 @@ Nemusíte hrát tvrdě
 لا يجب عليك اللعب على المستوى الصعب
 
 نظام المرور يكون متقلبا والنجاة تكون صعبة. يمكنك تعديل مستوى الصعوبة الخاص بهما لجعل تجربة إدارة مدينتك سهلة -أو صعبة- كما تريدها أنت.
+
+### Turkish//TODO-Devs
+
+Oynamak için uzman olmak zorunda değilsiniz
+
+Trafik yönetimi karışık ve hayatta kalmak zor olabilir. Şehir yönetimi deneyiminizi istediğiniz kadar kolay veya zor hale getirmek için her ikisinin de zorluklarını ayarlayabilirsiniz.
+
 
