@@ -97,7 +97,7 @@
 		"japanese": "乱気流の発生で効率が低下します。",
 		"thai": "ความแปรปวนของอากาศลดประสิทธิภาพการทำงานของกังหันลม",
 		"arabic": "الاضطرابات الهوائية تخفض من كفائة مولد طاقة الرياح",
-		"turkish":"Türbülanslar Rüzgar Türbinlerinin verimliliğini düşürür",
+		"turkish":"Türbülanslar rüzgar türbinlerinin verimliliğini düşürür",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -117,6 +117,6 @@
 		"japanese": "風力発電所が近すぎるため発電量が低下します。",
 		"thai": "กังหันลมสองตัวอยู่ใกล้กันเกินไปประสิทธิภาพจะลดลง",
 		"arabic": "اثنان من مولدات طاقة الرياح قريبان من بعضهما جدا. كفائتهما قليلة.",
-		"turkish":"İki türbin birbirine çok yakın. Verimlilikeri düşük.",
+		"turkish":"İki türbin birbirine çok yakın. Verimlilikeri düşdü.",
 	},
 }
