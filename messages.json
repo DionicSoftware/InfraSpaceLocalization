@@ -37,7 +37,7 @@
 		"japanese": "おめでとうございます。都市は%cityLevel%になり新たなテクノロジーが解除されました。",
 		"thai": "ยินดีด้วย เมืองของคุณถึงระดับ %cityLevel% แล้ว คุณได้ปลดล็อกเทคโนโลยีใหม่เพื่อทำการวิจัย",
 		"arabic": "هنيئا لك، مدينتك وصلت للمستوى %cityLevel%. لقد تم فتح تقنيات جديدة للبحث.",
-		"turkish":"Tebrikler, şehriniz %cityLevel1% seviyesine ulaştı. Araştırmak için yeni teknolojiler açıldı.",
+		"turkish":"Tebrikler, şehriniz %cityLevel% seviyesine ulaştı. Araştırmak için yeni teknolojiler açıldı.",
 	},
 	"message_cityLevelDownTitle": {
 		"english": "City demoted!",
