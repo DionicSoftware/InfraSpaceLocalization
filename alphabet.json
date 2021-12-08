@@ -1,0 +1,91 @@
+{ // used for something like "Train Station Alpha"
+	"alpha":  {
+		  "english": "Alpha",
+		  "german": "Alpha",
+	},
+	"beta":  {
+		  "english": "Beta",
+		  "german": "Beta",
+	},
+	"gamma":  {
+		  "english": "Gamma",
+		  "german": "Gamma",
+	},
+	"delta":  {
+		  "english": "Delta",
+		  "german": "Delta",
+	},
+	"epsilon":  {
+		  "english": "Epsilon",
+		  "german": "Epsilon",
+	},
+	"zeta":  {
+		  "english": "Zeta",
+		  "german": "Zeta",
+	},
+	"theta":  {
+		  "english": "Theta",
+		  "german": "Theta",
+	},
+	"iota":  {
+		  "english": "Iota",
+		  "german": "Iota",
+	},
+	"kappa":  {
+		  "english": "Kappa",
+		  "german": "Kappa",
+	},
+	"lambda":  {
+		  "english": "Lambda",
+		  "german": "Lambda",
+	},
+	"mu":  {
+		  "english": "Mu",
+		  "german": "Mu",
+	},
+	"xi":  {
+		  "english": "Xi",
+		  "german": "Xi",
+	},
+	"omicron":  {
+		  "english": "Omicron",
+		  "german": "Omicron",
+	},
+	"pi":  {
+		  "english": "Pi",
+		  "german": "Pi",
+	},
+	"rho":  {
+		  "english": "Rho",
+		  "german": "Rho",
+	},
+	"sigma":  {
+		  "english": "Sigma",
+		  "german": "Sigma",
+	},
+	"tau":  {
+		  "english": "Tau",
+		  "german": "Tau",
+	},
+	"upsilon":  {
+		  "english": "Upsilon",
+		  "german": "Upsilon",
+	},
+	"phi":  {
+		  "english": "Phi",
+		  "german": "Phi",
+	},
+	"chi":  {
+		  "english": "Chi",
+		  "german": "Chi",
+	},
+	"psi":  {
+		  "english": "Psi",
+		  "german": "Psi",
+	},
+	"omega":  {
+		  "english": "Omega",
+		  "german": "Omega",
+	},
+}
+  

@@ -1273,5 +1273,25 @@
     "hungarian": "Kolosszális adamantit fúró",
     "thai": "ดอกสว่านอาดามันเทียมขนาดมหึมา",
     "turkish":"Devasa Adamantin Matkabı",
-  }
+  },
+  "trainStationWithName": { // like "Train Station Alpha"
+    "english": "Train Station %name%",
+    "german": "Bahnhof %name%",
+  },
+  "trainstation_2R":  {
+    "english": "Small Train Station",
+    "german": "Kleiner Bahnhof",
+  },
+  "trainstation_4R":  {
+    "english": "Medium Train Station",
+    "german": "Mittlerer Bahnhof",
+  },
+  "trainstation_6R":  {
+    "english": "Large Train Station",
+    "german": "Großer Bahnhof",
+  },
+  "trainstation_8R":  {
+    "english": "Main Train Station",
+    "german": "Hauptbahnhof",
+  },
 }
