@@ -17,6 +17,7 @@
 		"portuguese": "Alcance uma população de %amount% pessoas",
 		"hungarian": "Érj el %amount% számú populációt",
 		"thai": "มีประชากรถึงจำนวน %amount% คน",
+		"turkish":"%amount% kişilik bir nüfusa ulaşın",
 	},
 	"populationGoalText": {
 		"english": "%current% / %required% people",
@@ -35,6 +36,7 @@
 		"portuguese": "%current% / %required% pessoas",
 		"hungarian": "%current% / %required% lakos",
 		"thai": "%current% / %required% คน",
+		"turkish":"%current% / %required% kişi",
 	},
 	"buildingGoalText": {
 		"english": "Build a %buildingName%",
@@ -53,6 +55,7 @@
 		"portuguese": "Construa um %buildingName%",
 		"hungarian": "Építsd fel: %buildingName%",
 		"thai": "สร้าง %buildingName%",
+		"turkish":"Bir %buildingName% inşa edin.",
 	},
 	"researchGoalText": {
 		"english": "Research %techName%",
@@ -71,6 +74,7 @@
 		"portuguese": "Pesquise %techName%",
 		"hungarian": "Kutasd ki: %techName%",
 		"thai": "วิจัย %techName%",
+		"turkish":"%techName% araştırın",
 	},
 	"researchGoalText2": {
 		"english": "Click on the science pack factory to see which resources are needed.",
@@ -89,6 +93,7 @@
 		"portuguese": "Clique na fábrica do pacote de ciências para ver quais recursos são necessários.",
 		"hungarian": "Kattints a tudományos csomag gyárra, hogy lásd milyen nyersanyagok kellenek.",
 		"thai": "คลิกที่โรงงานชุดวิทยาศาสตร์เพื่อดูว่าทรัพยากรใดที่จำเป็นบ้าง",
+		"turkish":"Bilim paketi fabrikasına tıklayarak hangi malzemelerin gerektiğini görün.",
 	},
 	"tutorial_buildRoad": {
 		"english": "Build a road next to sulfur and iron.",
@@ -107,6 +112,7 @@
 		"portuguese": "Construa uma estrada próxima ao enxofre e ao ferro.",
 		"hungarian": "Építs utat kén és vas közelébe.",
 		"thai": "สร้างถนนไปใกล้ๆกับกำมะถันและเหล็ก",
+		"turkish":"Sülfür ve demirin yanına bir yol inşa edin.",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads": {
 		"english": "You can place your buildings next to roads.",
@@ -125,6 +131,7 @@
 		"portuguese": "Você pode colocar seus edifícios próximos a estradas.",
 		"hungarian": "Az épületeid utak mellé tudod építeni.",
 		"thai": "คุณสามารถวางอาคารของคุณไว้ข้างกับถนนได้",
+		"turkish":"Binalarınızı yolların kenarına koyabilrsiniz.",
 	},
 	"upgradeGoalText": {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -143,6 +150,7 @@
 		"portuguese": "Satisfaça as necessidades de suas moradias até que elas se atualizem automaticamente.",
 		"hungarian": "Tegyél elérhetővé elég szükséges nyersanyagot a lakóhelyeid számára, amíg azok automatikusan felfejlődnek.",
 		"thai": "ตอบสนองความต้องการของที่อยู่อาศัยของคุณจนกว่าจะอัปเกรดโดยอัตโนมัติ",
+		"turkish":"Habitatlarınızın ihtiyaçlarını karşılarsanız otomatik olarak seviye atlıyacaklardır.",
 	},
 	"tutorialFinishedTitle": {
 		"english": "You finished the tutorial!",
@@ -161,6 +169,7 @@
 		"portuguese": "Você terminou o tutorial!",
 		"hungarian": "Végeztél az oktatóanyaggal!",
 		"thai": "คุณสำเร็จการบทเรียนแล้ว!",
+		"turkish":"Öğreticiyi tamamladınız!",
 	},
 	"tutorialFinishedText": {
 		"english": "Congrats! You're now ready to make your city great!",
@@ -179,6 +188,7 @@
 		"portuguese": "Parabéns! Agora você está pronto para tornar sua cidade incrível!",
 		"hungarian": "Gratulálok! Készen állsz, hogy egy remek várost építs!",
 		"thai": "ยินดีด้วย! ตอนนี้คุณพร้อมที่จะทำให้เมืองของคุณยิ่งใหญ่แล้ว!",
+		"turkish":"Tebrikler! Artık şehrinizi gelilştirmeye hazırsınız!",
 	},
 	"tutorial_concreteProduction": {
 		"english": "Concrete Production for Roads",
@@ -197,6 +207,7 @@
 		"portuguese": "Produção de concreto para estradas",
 		"hungarian": "Beton termelés az utakhoz",
 		"thai": "การผลิตคอนกรีตเพื่อสร้างถนน",
+		"turkish":"Yollar İçin Beton Üretimi",
 	},
 	"tutorial_roadConnections": {
 		"english": "Road Connections",
@@ -215,6 +226,7 @@
 		"portuguese": "Conexões rodoviárias",
 		"hungarian": "Utak csatlakozása",
 		"thai": "การเชื่อมต่อถนน",
+		"turkish":"Yol Bağlantıları",
 	},
 	"tutorial_powerGeneration": {
 		"english": "Power Generation",
@@ -233,6 +245,7 @@
 		"portuguese": "Geração de energia",
 		"hungarian": "Áram generálás",
 		"thai": "การผลิตไฟฟ้า",
+		"turkish":"Elektrik Üretimi",
 	},
 	"tutorial_storage": {
 		"english": "Storing the Concrete",
@@ -251,6 +264,7 @@
 		"portuguese": "Armazenando o concreto",
 		"hungarian": "Beton tárolása",
 		"thai": "จัดการเก็บคอนกรีต",
+		"turkish":"Betonu Saklamak",
 	},
 	"tutorial_lifeSupport": {
 		"english": "Life Support",
@@ -269,6 +283,7 @@
 		"portuguese": "Suporte à vida",
 		"hungarian": "Létszükségleti rendszer",
 		"thai": "ช่วยชีวิต",
+		"turkish":"Yaşam Desteği",
 	},
 	"tutorial_newcomers": {
 		"english": "Accepting Newcomers",
@@ -287,6 +302,7 @@
 		"portuguese": "Aceitando recém-chegados",
 		"hungarian": "Újonnan érkezők",
 		"thai": "รับน้องใหม่",
+		"turkish":"Yeni gelenleri kabul etmek",
 	},
 	"tutorial_growingTown": {
 		"english": "Growing the Town",
@@ -305,6 +321,7 @@
 		"portuguese": "Aumentando a cidade",
 		"hungarian": "Város fejlődése",
 		"thai": "การเติบโตของเมือง",
+		"turkish":"Şehri büyütmek",
 	},
 	"tutorial_research": {
 		"english": "Research",
@@ -323,6 +340,7 @@
 		"portuguese": "Pesquisa",
 		"hungarian": "Kutatás",
 		"thai": "การวิจัย",
+		"turkish":"Araştırma",
 	},
 	"tutorial_roads": {
 		"english": "Use roads to connect the mines with the concrete factory",
@@ -341,6 +359,7 @@
 		"portuguese": "Use estradas para conectar as mineradoes à fábrica de concreto",
 		"hungarian": "Használj utakat, hogy összekösd a bányát a beton gyárral",
 		"thai": "ใช้ถนนเชื่อมเหมืองกับโรงงานคอนกรีต",
+		"turkish":"Yolları kullanarak madenleri beton fabrikasına bağlayın.",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
@@ -359,6 +378,7 @@
 		"portuguese": "Use postes de energia para conectar todos os edifícios à sua turbina eólica",
 		"hungarian": "Használj villanyoszlopokat, hogy az épületeid rákösd az áramtermelőre",
 		"thai": "ใช้เสาไฟฟ้าเชื่อมต่อกับอาคารทั้งหมดเข้ากับกังหันลมของคุณ",
+		"turkish":"Elektrik direkleri kullanark tüm binaları rüzgar türbinlerine bağlayın",
 	},
 	"tutorialNotification": {
 		"english": "Tutorial: %tutorialName%",
@@ -377,6 +397,7 @@
 		"portuguese": "Tutorial: %tutorialName%",
 		"hungarian": "Oktatóanyag: %tutorialName%",
 		"thai": "บทเรียน: %tutorialName%",
+		"turkish":"Öğretici: %tutorialName%",
 	},
 	"tutorial_dashboardInfoPanel": {
 		"english": "Quick City Info",
@@ -395,6 +416,7 @@
 		"portuguese": "Informações rápidas sobre a cidade",
 		"hungarian": "Város információk",
 		"thai": "ข้อมูลเมืองแบบคร่าวๆ",
+		"turkish":"Şehir Bilgisi",
 	},
 	"tutorialMessage_dashboardInfoPanel_title": {
 		"english": "Quick City Info",
@@ -413,6 +435,7 @@
 		"portuguese": "Informações rápidas sobre a cidade",
 		"hungarian": "Város információk",
 		"thai": "ข้อมูลเมืองแบบคร่าวๆ",
+		"turkish":"Şehir Bilgisi",
 	},
 	"tutorialMessage_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
@@ -431,6 +454,7 @@
 		"portuguese": "Este painel oferece uma visão geral e rápida de sua cidade.\n\nA linha superior mostra quanto concreto e aço você tem disponível. Você precisa de ambos os materiais para construir edifícios. O terceiro ícone mostra se você tem energia suficiente em sua cidade.\n\nA linha inferior mostra quantas pessoas vivem em sua cidade, quantos trabalhadores são necessários e quantas moradias estão disponíveis. Se você não tiver trabalhadores suficientes para preencher a maioria dos empregos, suas fábricas não funcionarão de maneira eficiente. Além disso, certifique-se de ter moradias livres o suficiente para os novos trabalhadores se mudarem.",
 		"hungarian": "Ez az ablak egy gyors összefoglaló a városodról.\n\nA felső sor mutatja mennyi betonod és acélod van. Ezek a nyersanyagok szükségesek, hogy épületeket építs. A harmadik ikon mutatja, hogy elegendő-e az áramforrás a városodba.\n\nAz alsó sor azt mutatja mennyien laknak a városodba, mennyi munkásra van szükség, és mennyi lakóhely elérhető. Ha nincs elég munkásod, az épületek hatékonysága romlik. Arról se feledkezz meg, hogy legyen elegendő lakóhelyed új lakosok számára.",
 		"thai": "แผงนี้คือภาพรวมคร่าวๆของเมืองของคุณ\n\nแถวบนสุดแสดงจำนวนคอนกรีตและเหล็กที่คุณมี คุณต้องใช้วัสดุทั้งสองอย่างเพื่อสร้างอาคาร ไอคอนที่สามจะแสดงให้คุณเห็นว่าคุณมีพลังงานเพียงพอในเมืองของคุณหรือไม่\n\nแถวล่างสุดแสดงจำนวนคนที่อาศัยอยู่ในเมืองของคุณ จำนวนที่ต้องการของพนักงาน และจำนวนที่พักอาศัย ถ้าคุณมีคนงานไม่เพียงพอที่จะไปเติมในโรงงานของคุณให้เต็มมันจะไม่สามารถดำเนินการได้อย่างมีประสิทธิภาพ นอกจากนี้ ตรวจสอบให้แน่ใจว่าคุณมีที่พักว่างเพียงพอสำหรับคนงานใหม่ที่จะย้ายเข้ามาหรือไม่",
+		"turkish":"Bu panel size şehrin kısa bir özetini sunar.\n\nÜst satırda ne kadar beton ve çelik olduğu gözükür. Bu ikisi bina inşaat etmek için gereklidir. Üçüncü simge şehrinizde yeterli elektrik olup olmadığını gösterir.\n\nEn alt satır şehrinizde kaç tane insanın yaşadığını,kaç tane çalışana gerek duyulduğunu ve nekadar boş konut olduğunu gösterir. Eğer gerekli meslek boşlukları doldurulmazsa çoğu fabrikanız verimli çalışamaz. Aynı zamanda yeni çalışanların taşınması için yeterli konut alanlarının olduğuna emin olun.",
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -449,6 +473,7 @@
 		"portuguese": "Entendi!",
 		"hungarian": "Értettem!",
 		"thai": "เข้าใจแล้ว!",
+		"turkish":"Tamamdır!",
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
@@ -467,6 +492,7 @@
 		"portuguese": "Pular os próximos tutoriais",
 		"hungarian": "Következő oktatóanyagok kihagyása",
 		"thai": "ข้ามไปบทเรียนถัดไป",
+		"turkish":"Sonraki öğreticileri atla",
 	},
 	"tutorialQuestion_title": { // shown at start of first game
 		"english": "Welcome to InfraSpace!",
@@ -485,6 +511,7 @@
 		"portuguese": "Bemvindo ao InfraSpace!",
 		"hungarian": "Üdvözöllek az InfraSpace játékban!",
 		"thai": "ยินดีต้อนรับสู่อินฟราสเปซ!",
+		"turkish":"InfraSpace'e hoş geldiniz",
 	},
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
@@ -503,6 +530,7 @@
 		"portuguese": "Deseja obter dicas do tutorial enquanto joga?\n\nVocê também pode ativá-las / desativá-las nas configurações.",
 		"hungarian": "Szeretnél oktatóanyagokat miközben játszol?\n\nKésőbb is ki/be kapcsolhatod a beállításokban.",
 		"thai": "คุณต้องการรับคำแนะนำการสอนในขณะเล่นเกมหรือไม่?\n\nคุณยังสามารถ เปิด/ปิด ได้ในส่วนของการตั้งค่า",
+		"turkish":"Oyunu oynarken öğretici tavsiyeleri almak istermisniz?\n\nAynı zamanda bunları ayarlardan açabilir/kapatabilrsiniz.",
 	},
 	"tutorialMessage_goalPanel_title": {
 		"english": "Making your first city",
@@ -521,6 +549,7 @@
 		"portuguese": "Criando sua primeira cidade",
 		"hungarian": "Első város létrehozása",
 		"thai": "สร้างเมืองแรกของคุณ",
+		"turkish":"İlk şehrinizi yaratmak",
 	},
 	"tutorialMessage_goalPanel_desc": {
 		"english": "This panel will guide you through the necessary steps to create your first stable city and research some tech.",
@@ -539,6 +568,7 @@
 		"portuguese": "Este painel o guiará pelas etapas necessárias para criar sua primeira cidade estável e pesquisar alguma tecnologia.",
 		"hungarian": "Ez az ablak segít pár lépésben, hogy elkészítsd első stabil városod és kikutass pár technológiát.",
 		"thai": "แผงนี้จะแนะนำคุณตลอดรวมถึงขั้นตอนที่จำเป็นในการสร้างเมืองที่มั่นคงแห่งแรกของคุณและทำการวิจัยเกี่ยวกับเทคโนโลยี",
+		"turkish":"Bu panel sizi ilk stabil şehrinizi yaratmak için gereken aşamalardan geçirip yeni teknolojiler araştırmayı öğretir.",
 	},
 	"tutorialMessage_constructionMenu_title": {
 		"english": "Construction Menu",
@@ -557,6 +587,7 @@
 		"portuguese": "Menu de construção",
 		"hungarian": "Építési menü",
 		"thai": "เมนูก่อสร้าง",
+		"turkish":"İnşaat Menüsü",
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
@@ -575,6 +606,7 @@
 		"portuguese": "Você pode clicar aqui para construir estradas e edifícios, movê-los e destruí-los.",
 		"hungarian": "Ide kattinthatsz ha épületeket vagy utakat akarsz építeni, mozgatni vagy lerombolni.",
 		"thai": "คุณสามารถคลิกที่นี่เพื่อสร้างถนนและสิ่งปลูกสร้าง เคลื่อนย้าย และทำลายมัน",
+		"turkish":"Buraya tıklayarak yollar ve binalar inşa edebilir, oynatabilir yada yok edebilirsiniz.",
 	},
 	"tutorialMessage_cameraMovement_title": {
 		"english": "Camera Movement",
@@ -593,6 +625,7 @@
 		"portuguese": "Movimento da câmera",
 		"hungarian": "Kamera mozgás",
 		"thai": "การเคลื่อนย้ายกล้อง",
+		"turkish":"Kamera Hareketleri",
 	},
 	"tutorialMessage_cameraMovement_desc": {
 		"english": "By default, you can move the camera with your arrow keys, WASD, or by moving your mouse to the edge of your screen.\n\nPress the middle mouse button and drag move your mouse to rotate your view.",
@@ -611,6 +644,7 @@
 		"portuguese": "Por padrão, você pode mover a câmera com as teclas de seta, WASD, ou movendo o mouse para a borda da tela.\n\nPressione o botão do meio do mouse e arraste o mouse para girar sua visualização.",
 		"hungarian": "Alap beállításokon, a kamerát mozgathatod nyilakkal, WASD, vagy ha az egeret a képernyő szélére viszed.\n\nElforgatáshoz tartsd lenyomva a középső egérgombot majd mozgasd az egeret.",
 		"thai": "โดยค่าเริ่มต้น คุณสามารถย้ายกล้องด้วยปุ่มลูกศร WASD หรือใช้การเลื่อนเมาส์ไปที่ขอบของหน้าจอก็ได้\n\nกดปุ่มกลางของเมาส์แล้วลากเมาส์เพื่อหมุนมุมมองของคุณ",
+		"turkish":"Varsayılan olarak kamerayı oklar veya WASD ile yada farenizin imlecini ekranın kenarlarına götürerek oynatabilrsiniz.\n\nFarenin orta tuşuna basılı tutup fareyi kaydırarak da kamerayı döndürebilrsiniz.",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -629,6 +663,7 @@
 		"portuguese": "Recursos nécessários",
 		"hungarian": "Szükséges nyersanyagok",
 		"thai": "ทรัพยากรที่จำเป็น",
+		"turkish":"Gerekli Kaynaklar",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_desc": {
 		"english": "You need to provide these things in order to get people to move in.",
@@ -647,6 +682,7 @@
 		"portuguese": "Você precisa fornecer essas coisas para que as pessoas se mudem.",
 		"hungarian": "Biztosítanod kell ezeket a dolgokat ahhoz, hogy emberek beköltözzenek.",
 		"thai": "คุณต้องจัดหาสิ่งเหล่านี้เพื่อให้ผู้คนสามารถย้ายเข้ามาในเมืองได้",
+		"turkish":"İnsanların taşınması için bu kaynakları sağlamanız lazım.",
 	},
 	"tutorialMessage_habitatInfoNextResources_title": {
 		"english": "Upgrade Resources",
@@ -665,6 +701,7 @@
 		"portuguese": "Recursos de atualização",
 		"hungarian": "Fejlessz nyersanyagot",
 		"thai": "อัพเกรดทรัพยากร",
+		"turkish":"Yükseltme Kaynakları",
 	},
 	"tutorialMessage_habitatInfoNextResources_desc": {
 		"english": "If you manage to provide these things, the habitat will upgrade to the next level.",
@@ -683,6 +720,7 @@
 		"portuguese": "Se você conseguir fornecer essas coisas, a moradia será atualizada para o próximo nível.",
 		"hungarian": "Ha elérhetővé tudod tenni ezeket a dolgokat, a lakóhely a következő szintre fejlődik.",
 		"thai": "หากคุณจัดการและจัดหาสิ่งเหล่านี้ ที่อยู่อาศัยของคุณจะปรับปรุงเป็นระดับต่อไป",
+		"turkish":"Eğer bu eşyaları sağlayabilrseniz, habitatlar bir sonraki seviyeye yükselir.",
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -701,6 +739,7 @@
 		"portuguese": "Níveis de cidade",
 		"hungarian": "Város szintek",
 		"thai": "ระดับเมือง",
+		"turkish":"Şehir Seviyeleri",
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -719,6 +758,7 @@
 		"portuguese": "Níveis de cidade",
 		"hungarian": "Város szintek",
 		"thai": "ระดับเมือง",
+		"turkish":"Şehir Seviyeleri",
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -737,6 +777,7 @@
 		"portuguese": "Este painel mostra quantas pessoas estão vivendo em cada tipo de moradia.\n\nVocê precisa atualizar suas moradias para chegar ao próximo nível de cidade.",
 		"hungarian": "Ez az ablak mutatja mennyien laknak a különböző szintű lakóhelyeken.\n\nFejleszd a lakóhelyeket, hogy következő városi szintre lépj.",
 		"thai": "แผงส่วนนี้จะแสดงจำนวนผู้คนที่อาศัยอยู่ในที่อยู่อาศัยแต่ละประเภท\n\nคุณต้องปรับปรุงแหล่งที่อยู่อาศัยของคุณเพื่อที่จะไปถึงระดับเมืองต่อไป",
+		"turkish":"Bu panel size her habitat tipinde kaç insanın yaşadığını gösterir.\n\nYeni şehir seviyelerşne ulaşmak için habitatlarınızı yükseltin.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -755,6 +796,7 @@
 		"portuguese": "Níveis de cidade",
 		"hungarian": "Város szintek",
 		"thai": "ระดับเมือง",
+		"turkish":"Şehir Seviyeleri",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -773,6 +815,7 @@
 		"portuguese": "Verifique a barra de progresso para ver quantos cidadãos precisam de uma moradia melhor para alcançar o próximo nível.",
 		"hungarian": "Nézd meg mennyi lakos szükséges a jelenlegi szinten, hogy elérd a következő városi szintet.",
 		"thai": "ตรวจสอบแถบความคืบหน้าเพื่อดูว่าประชาชนมีจำนวนเท่าไหร่ที่จำเป็นต้องได้รับที่อยู่อาศัยที่ดีขึ้นเพื่อที่จะไปถึงระดับต่อไป",
+		"turkish":"Kaç tane vatandaşın daha iyi konutlara geçmesi gerektiğini görmek için ilerleme çubuğunu kontrol ediniz.",
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
@@ -791,6 +834,7 @@
 		"portuguese": "Priorização de empregos",
 		"hungarian": "Munka fontossági sorrend",
 		"thai": "การจัดลำดับความสำคัญของงาน",
+		"turkish":"İş Önceliği",
 	},
 	"tutorialMessage_productionPanel_title": {
 		"english": "Production Overview",
@@ -809,6 +853,7 @@
 		"portuguese": "Visão geral da produção",
 		"hungarian": "Termelés összegzése",
 		"thai": "ภาพรวมการผลิต",
+		"turkish":"Üretim Özeti",
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
@@ -827,6 +872,7 @@
 		"portuguese": "Verifique os números de produção e consumo de sua cidade para ver se você está produzindo o suficiente para atender à demanda.\n\nSe quiser encher os estoques, você precisa produzir mais do que consome!",
 		"hungarian": "Nézd meg a termelési és fogyasztási számokat a városodhoz, hogy lásd eleget termelsz-e és lépést tudj tartani a kereslettel.\n\nHa szeretnél felhalmozni készletet, akkor többet termelj, mint használj!",
 		"thai": "ตรวจสอบจำนวนการผลิตและการบริโภคสำหรับเมืองของคุณ เพื่อดูว่าคุณมีการผลิตเพียงพอหรือไม่ เพื่อให้ทันกับความต้องการ\n\nถ้าคุณต้องการเติมเข้าไปในคลังคุณต้องมีการผลิตมีมากกว่าการบริโภค!",
+		"turkish":"Şehrin gereksinimlerini karşılamaya yeticek kadar üretim yapıp yapmadığınızı kontrol etmek için şehrin üretim ve tüketim sayılarına bakın.\n\nEğer stok yapmak istiyorsanız tütteiğinizden daha fazla üretmelisiniz",
 	},
 	"tutorialMessage_productionPanelPrioBars_title": {
 		"english": "Jobs Prioritization",
@@ -845,6 +891,7 @@
 		"portuguese": "Priorização de empregos",
 		"hungarian": "Munka fontossági sorrend",
 		"thai": "การจัดลำดับความสำคัญของงาน",
+		"turkish":"İş Önceliği",
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
 		"english": "If you don't have enough workers, use the sliders to move your workforce into the most important jobs.",
@@ -863,5 +910,6 @@
 		"portuguese": "Se você não tiver trabalhadores suficientes, use os controles deslizantes para mover sua força de trabalho para as funções mais importantes.",
 		"hungarian": "Ha nincs elegendő munkásod, akkor használd a csúszkát, hogy a fontosabb munkákhoz oszd be őket.",
 		"thai": "หากคุณมีคนงานไม่เพียงพอ ให้ใช้แถบเลื่อนเพื่อย้ายคนงานของคุณไปยังงานที่สำคัญที่สุดก่อนได้",
+		"turkish":"Eğer yeterli iş gücünüz yoksa, kaydıraçları kullanarak iş gücünüzü öncelikli işlere odaklayın.",
 	},
 }

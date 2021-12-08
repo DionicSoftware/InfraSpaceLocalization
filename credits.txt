@@ -47,3 +47,6 @@ Hungarian
 
 Arabic
 - Ahmed Ashraf Khamis
+
+Turkish
+- Can Ozan Gürleyen

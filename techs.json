@@ -17,6 +17,7 @@
     "hungarian": "Mezőgazdaság",
     "thai": "เกษตรกรรม",
 		"arabic": "زراعة",
+	  "turkish":"Tarım",
   },
   "tech_electronics": {
     "english": "Electronics",
@@ -36,6 +37,7 @@
     "hungarian": "Elektronika",
     "thai": "อิเล็กทรอนิกส์",
 		"arabic": "إلكترونيات",
+	  "turkish":"Elektronik",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -55,6 +57,7 @@
     "hungarian": "Fémtermelés",
     "thai": "การผลิตเหล็กกล้า",
 		"arabic": "إنتاج الصلب",
+	  "turkish":"Çelik Üretimi",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -74,6 +77,7 @@
     "hungarian": "Zöld kutatás",
     "thai": "วิทยาศาสตร์สีเขียว",
 		"arabic": "علم أخضر",
+	  "turkish":"Yeşil Bilim",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -93,6 +97,7 @@
     "hungarian": "Háztartási gépek",
     "thai": "เครื่องใช้ในบ้าน",
 		"arabic": "أجهزة منزلية",
+	  "turkish":"Ev ALeti",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -112,6 +117,7 @@
     "hungarian": "Napelemek",
     "thai": "แผงโซลาร์เซลล์",
 		"arabic": "خلايا طاقة شمسية",
+	  "turkish":"Güneş Paneli",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -131,6 +137,7 @@
     "hungarian": "Fejlesztett szélerőmű lapátok",
     "thai": "ปรับปรุงใบพัดกังหันลม",
 		"arabic": "شفرات محسنة لمولد طاقة الرياح",
+	  "turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
   },
   "techDesc_improvedWindTurbineBlades": {
     "english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -150,6 +157,7 @@
     "hungarian": "Alkalmazkodóvá teszi a szélerőmű lapátjait az atmoszférához. Ezzel csökkenti az ellenszelet a levegőben aminek köszönhetően közelebb tudod építeni a szélerőműveket egymáshoz.",
     "thai": "ปรับรูปทรงใบพัดกังหันลมให้เข้ากับบรรยากาศจะทำให้การอากาศที่รบกวนต่ำลง ซึ่งช่วยให้คุณสร้างกังหันลมให้ชิดกันได้มากขึ้น",
 		"arabic": "ملائمة شكل شفرات مولد طاقة الرياح لحركة الهواء. ينتج عن هذا إضطرابات هواء أقل، ما يسمح لك ببناء مولدات طاقة رياح أقرب إلى بعضهم البعض.",
+	  "turkish":"Türbin kanatlarının atmosfere uyum sağlamasını sağlar. Bu havada daha az kargaşaya sebep olup türbinleri daha yakın koymayı mümkün kılar.",
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -169,6 +177,7 @@
     "hungarian": "Beton utak",
     "thai": "ถนนคอนกรีต",
     "arabic": "طرق إسمنتية",
+     "turkish":"Beton Yollar",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -188,6 +197,7 @@
     "hungarian": "Alumínium bányászat",
     "thai": "การขุดอลูมิเนียม",
     "arabic": "تنجيم عن الألومنيوم",
+    "turkish":"Alüminyum Kazısı",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -207,6 +217,7 @@
     "hungarian": "Elektronikai alállomások",
     "thai": "สถานีไฟฟ้าย่อย",
     "arabic": "محطات طاقة فرعية",
+	  "turkish":"Elektrik Trafo Merkezi",
   },
   "techDesc_powerSubstation": {
     "english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -226,6 +237,7 @@
     "hungarian": "Integrálj alállomásokat az elektronikai hálózatodba, így nem kell minden egyes építményhez külön villanypózna.",
     "thai": "รวมสถานีไฟฟ้าย่อยเข้ากับเครือข่ายไฟฟ้าของคุณ คุณจึงไม่ต้องจัดหาเสาไฟฟ้าให้กับอาคารทุกอาคาร",
     "arabic": "استخدم محطات الطاقة الفرعية في شبكة الطاقة الخاصة بك لكي لا تحتاج إلى تزويد كل مبنى بأعمدة طاقة.",
+        "turkish":"Güç ağınıza trafo merkezleri eklemek her binaya elektrik direği ile elektrik sağlama zorunluluğunu kaldırır. ",
   },
   "tech_motors": {
     "english": "Motors",
@@ -245,6 +257,7 @@
     "hungarian": "Motorok",
     "thai": "มอเตอร์",
     "arabic": "محركات",
+	      "turkish":"Motorlar",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -264,6 +277,7 @@
     "hungarian": "Négysávos útak",
     "thai": "ถนนสี่เลน",
     "arabic": "طريق رباعي الحارات",
+	      "turkish":"Dört Şeritli Yollar",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -283,6 +297,7 @@
     "hungarian": "Egyirányú útak",
     "thai": "ถนนเลนเดียว",
     "arabic": "طريق اتجاه واحد",
+	      "turkish":"Tek Yönlü Yollar",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -302,6 +317,7 @@
     "hungarian": "Nagy építmények",
     "thai": "อาคารขนาดใหญ่",
     "arabic": "مباني كبيرة",
+	      "turkish":"Büyük Binalar",
   },
   "tech_computers": {
     "english": "Computers",
@@ -321,6 +337,7 @@
     "hungarian": "Számítógépek",
     "thai": "คอมพิวเตอร์",
     "arabic": "حواسيب",
+	      "turkish":"Bilgisayarlar",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -340,6 +357,7 @@
     "hungarian": "Nagy bányák",
     "thai": "เหมืองขนาดใหญ่",
     "arabic": "مناجم كبيرة",
+	      "turkish":"Büyük Madenler",
   },
   "techDesc_largeMines": {
     "english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -359,6 +377,7 @@
     "hungarian": "Gyorsítsd fel a nyersanyagkinyerést hogy oltsd a növekvő városod éhségét.",
     "thai": "เร่งการสกัดทรัพยากรเพื่อขจัดความหิวโหยในเมืองที่กำลังเติบโตของคุณ",
     "arabic": "زد من سرعة استخراج الموارد لتشبع جوع مدينتك المتنامية.",
+     "turkish":"Maden üretimini arttırıp büyümekde olan şehrinizin ihtiyaçlarını karşılayın.",
   },
   "tech_foodProcessing": {
     "english": "Food Processing",
@@ -375,9 +394,11 @@
     "slovak": "Spracovávanie jedla",
     "portuguese": "Alimentação",
     "japanese": "食品加工",
+
     "hungarian": "Étel átdolgozás",
     "thai": "การแปรรูปอาหาร",
     "arabic": "تصنيع الطعام",
+     "turkish":"Besin İşleme",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -397,6 +418,7 @@
     "hungarian": "Műtrágya",
     "thai": "ปุ๋ย",
     "arabic": "سماد",
+	  "turkish":"Gübre",
   },
   "techDesc_fertilizer": {
     "english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -416,6 +438,7 @@
     "hungarian": "Adj trágyázott földet a közeli farmokra ezzel jelentősen növelve a termelésüket.",
     "thai": "สนับสนุนดินปุ๋ยให้กับไร่ใกล้เคียงเพื่อเพิ่มผลผลิตที่ดีเยี่ยม",
     "arabic": "زود المزارع المحيطة بتربة غنية بالأسمدة لتزيد من إنتاجيتها.",
+	  "turkish":"Yakındaki tarlalara gübrelenmiş toprak sağlayıp üretim oranlarını önemli miktarda arttırın.",
   },
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -435,6 +458,7 @@
     "hungarian": "Szén nanocsövek",
     "thai": "ท่อนาโนคาร์บอน",
     "arabic": "أنابيب كاربونية متناهية الصغر",
+	  "turkish":"Karbon Nanotüpler",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -454,6 +478,7 @@
     "hungarian": "Öntisztító napelemek",
     "thai": "แผงโซลาร์เซลล์ทำความสะอาดตัวเอง",
     "arabic": "ألواح طاقة شمسية ذاتية التنظيف",
+	  "turkish":"Kendini Temizleyen Güneş Panelleri",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -473,6 +498,7 @@
     "hungarian": "Amint a napelemeid letisztítják magukat, máris több energiát fognak termelni.",
     "thai": "เมื่อแผงโซลาร์เซลล์ของคุณทำความสะอาดตัวเองแล้ว โรงไฟฟ้าพลังงานแสงอาทิตย์ของคุณจะผลิตพลังงานได้มากขึ้น",
     "arabic": "إذا كانت ألواح الطاقة الشمسية تنظف نفسها بنفسها، فإن محطات توليد الطاقة الشمسية الخاصة بك ستنتج طاقة أكثر بكثير.",
+	  "turkish":"Güneş panelleri kendilerini temizleyince ürettikleri enerji miktarı çok daha artar.",
   },
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -492,6 +518,7 @@
     "hungarian": "Hatsávos útak.",
     "thai": "ถนนหกเลน",
     "arabic": "طريق سداسي الحارات",
+	  "turkish":"Altı Şeritli Yollar",
   },
   "tech_stadiums": {
     "english": "Stadiums",
@@ -511,6 +538,7 @@
     "hungarian": "Stadionok",
     "thai": "สนามกีฬา",
     "arabic": "ملاعب",
+	  "turkish":"Stadyumlar",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -530,6 +558,7 @@
     "hungarian": "Neurális processzorok",
     "thai": "เครื่องประมวลประสาท",
     "arabic": "معالجات عصبية",
+	  "turkish":"Nöral İşlemciler",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -549,6 +578,7 @@
     "hungarian": "Sárga tudomány",
     "thai": "วิทยาศาสตร์สีเหลือง",
     "arabic": "علم أصفر",
+	  "turkish":"Sarı Bilim",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -568,6 +598,7 @@
     "hungarian": "Uránium bányászat",
     "thai": "การขุดยูเรเนียม",
     "arabic": "تعدين اليورانيوم",
+	  "turkish":"Uranyum Kazısı",
   },
   "tech_highways": {
     "english": "Highways",
@@ -587,6 +618,7 @@
     "hungarian": "Autópályák",
     "thai": "ทางหลวง",
     "arabic": "طرق سريعة",
+	  "turkish":"Otoyollar",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -606,6 +638,7 @@
     "hungarian": "Szuper autópályák",
     "thai": "ทางด่วน",
     "arabic": "طرق فائقة السرعة",
+	  "turkish":"Süper Otoyollar",
   },
   "tech_homeRobots": {
     "english": "Home Robots",
@@ -625,6 +658,7 @@
     "hungarian": "Házi robotok",
     "thai": "หุ่นยนต์บ้าน",
     "arabic": "روبوتات منزلية",
+	  "turkish":"Evsel Robotlar",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -644,6 +678,7 @@
     "hungarian": "Ipari robotok",
     "thai": "หุ่นยนต์อุตสาหกรรม",
     "arabic": "روبوتات صناعية",
+	  "turkish":"Endüstriyel Robotlar",
   },
   "techDesc_industrialRobots": {
     "english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -663,6 +698,7 @@
     "hungarian": "Alklamazz ipari robotokat a gyárakban, hogy csökkentsd a szükséges munkások számát.",
     "thai": "จัดหาหุ่นยนต์อุตสาหกรรมให้กับโรงงานของคุณเพื่อลดจำนวนคนงานลงได้",
     "arabic": "زود مصانعك بروبوتات صناعية لتقليل عدد العمال المطلوب.",
+	  "turkish":"Fabrikalarınıza endüstriyel robotlar sağlayıp gerekli çalışan sayısını azaltın.",
   },
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -682,6 +718,7 @@
     "hungarian": "Részecske szűrő",
     "thai": "ตัวกรองอนุภาค",
     "arabic": "مصفي الجسيمات",
+	  "turkish":"Partikül Filtresi",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -701,6 +738,7 @@
     "hungarian": "Nukleáris energia",
     "thai": "พลังงานนิวเคลียร์",
     "arabic": "طاقة نووية",
+	  "turkish":"Nükleer Enerji",
   },
   "tech_schools": {
     "english": "Schools",
@@ -720,6 +758,7 @@
     "hungarian": "Iskolák",
     "thai": "โรงเรียน",
     "arabic": "مدارس",
+	  "turkish":"Okullar",
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -739,6 +778,7 @@
     "hungarian": "Iridium bányászat",
     "thai": "การขุดอิริเดียม",
     "arabic": "تعدين الإيريديوم",
+	  "turkish":"İridyum Kazısı",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -758,6 +798,7 @@
     "hungarian": "Újrahasznosítás",
     "thai": "การรีไซเคิล",
     "arabic": "إعادة التدوير",
+	  "turkish":"Geri Dönüşüm",
   },
   "techDesc_recycling": {
     "english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -777,6 +818,7 @@
     "hungarian": "Csökkentheted az anyagfelhasználásod, ha a közeli gyárakban újrahasznosítod az ipari hulladékot.",
     "thai": "ลดการใช้ทรัพยากรของคุณด้วยการแปรรูปขยะอุตสาหกรรมในโรงงานที่ใกล้เคียง",
     "arabic": "قلل من استهلاكك للموارد عن طريق معالجة المخلفات الصناعية في المصانع المحيطة.",
+	  "turkish":"Yakınlardaki fabrikaların atıklarını işleyerek materyal kullanımını azaltın.",
   },
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
     "english": "Holo-Displays",
@@ -796,6 +838,7 @@
     "hungarian": "Holo kijelzők",
     "thai": "จอแสดงผลโฮโลแกรม",
     "arabic": "شاشات عرض ثلاثية الأبعاد",
+	  "turkish":"Holo-Ekran",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -815,6 +858,7 @@
     "hungarian": "Csúcstechnológia műhely",
     "thai": "ห้องพัฒนาเทคโนโลยีขั้นสูง",
     "arabic": "ورشة عالية التقنية",
+	  "turkish":"Yüksek Teknoloji Atölye",
   },
   "techDesc_highTechWorkshop": {
     "english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -834,6 +878,7 @@
     "hungarian": "Készíts csúcstechnológiás eszközöket a gyáraidnak, hogy elősegítsd a gyártást.",
     "thai": "สนับสนุนโรงงานของคุณด้วยเครื่องมือเทคโนโลยีขั้นสูงเพื่อเพิ่มผลผลิต",
     "arabic": "زود مصانعك بأدوات عالية التقنية لتزيد من إنتاجيتك.",
+	  "turkish":"Fabrikalarınızı gelişmiş teknolji aletlerle donatıp verimliliklerini arttırın",
   },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
@@ -853,6 +898,7 @@
     "hungarian": "MI irányító egységek",
     "thai": "ตัวควบคุมปัญญาประดิษฐ์",
     "arabic": "وحدات تحكم بالذكاء الاصطناعي",
+	  "turkish":"Yapay Zeka Kontrol Üniteleri",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -872,6 +918,7 @@
     "hungarian": "Iridium hajtóanyag",
     "thai": "เชื้อเพลิงอิริเดียม",
     "arabic": "إيريديوم دافع",
+	  "turkish":"İridyum İtici",
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -891,6 +938,7 @@
     "hungarian": "Gyors neutron reaktor",
     "thai": "เครื่องปฏิกรณ์นิวตรอนเร็ว",
     "arabic": "مفاعل نيوتروني سريع",
+	  "turkish":"Hızlı Nötron Reaktörü",
   },
   "tech_science4": {
     "english": "Red Science",
@@ -910,6 +958,7 @@
     "hungarian": "Piros tudomány",
     "thai": "วิทยาศาสตร์สีแดง",
     "arabic": "علم أحمر",
+	  "turkish":"Kırmızı Bilim",
   },
   "tech_adamantineMining": {
     "english": "Adamantine Mining",
@@ -929,5 +978,6 @@
     "hungarian": "Adamantit bányászat",
     "thai": "การขุดอาดามันเทียม",
     "arabic": "تعدين الأدامانتين",
+	  "turkish":"Adamantium Kazısı",
   },
 }
