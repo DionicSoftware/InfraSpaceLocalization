@@ -1,112 +1,91 @@
 { // used for something like "Train Station Alpha"
-	"alpha": {
-		"english": "Alpha",
-		"german": "Alpha",
-		"thai": "อัลฟา",
+	"alpha":  {
+		  "english": "Alpha",
+		  "german": "Alpha",
 	},
-	"beta": {
-		"english": "Beta",
-		"german": "Beta",
-		"thai": "เบต้า",
+	"beta":  {
+		  "english": "Beta",
+		  "german": "Beta",
 	},
-	"gamma": {
-		"english": "Gamma",
-		"german": "Gamma",
-		"thai": "แกมม่า",
+	"gamma":  {
+		  "english": "Gamma",
+		  "german": "Gamma",
 	},
-	"delta": {
-		"english": "Delta",
-		"german": "Delta",
-		"thai": "เดลต้า",
+	"delta":  {
+		  "english": "Delta",
+		  "german": "Delta",
 	},
-	"epsilon": {
-		"english": "Epsilon",
-		"german": "Epsilon",
-		"thai": "เอปซิลอน",
+	"epsilon":  {
+		  "english": "Epsilon",
+		  "german": "Epsilon",
 	},
-	"zeta": {
-		"english": "Zeta",
-		"german": "Zeta",
-		"thai": "ซีตา",
+	"zeta":  {
+		  "english": "Zeta",
+		  "german": "Zeta",
 	},
-	"theta": {
-		"english": "Theta",
-		"german": "Theta",
-		"thai": "ทีตา",
+	"theta":  {
+		  "english": "Theta",
+		  "german": "Theta",
 	},
-	"iota": {
-		"english": "Iota",
-		"german": "Iota",
-		"thai": "ไอโอตา",
+	"iota":  {
+		  "english": "Iota",
+		  "german": "Iota",
 	},
-	"kappa": {
-		"english": "Kappa",
-		"german": "Kappa",
-		"thai": "แคปปา",
+	"kappa":  {
+		  "english": "Kappa",
+		  "german": "Kappa",
 	},
-	"lambda": {
-		"english": "Lambda",
-		"german": "Lambda",
-		"thai": "แลมบ์ดา",
+	"lambda":  {
+		  "english": "Lambda",
+		  "german": "Lambda",
 	},
-	"mu": {
-		"english": "Mu",
-		"german": "Mu",
-		"thai": "มิว",
+	"mu":  {
+		  "english": "Mu",
+		  "german": "Mu",
 	},
-	"xi": {
-		"english": "Xi",
-		"german": "Xi",
-		"thai": "ไซ",
+	"xi":  {
+		  "english": "Xi",
+		  "german": "Xi",
 	},
-	"omicron": {
-		"english": "Omicron",
-		"german": "Omicron",
-		"thai": "โอไมครอน",
+	"omicron":  {
+		  "english": "Omicron",
+		  "german": "Omicron",
 	},
-	"pi": {
-		"english": "Pi",
-		"german": "Pi",
-		"thai": "พาย",
+	"pi":  {
+		  "english": "Pi",
+		  "german": "Pi",
 	},
-	"rho": {
-		"english": "Rho",
-		"german": "Rho",
-		"thai": "โร",
+	"rho":  {
+		  "english": "Rho",
+		  "german": "Rho",
 	},
-	"sigma": {
-		"english": "Sigma",
-		"german": "Sigma",
-		"thai": "ซิกม่า",
+	"sigma":  {
+		  "english": "Sigma",
+		  "german": "Sigma",
 	},
-	"tau": {
-		"english": "Tau",
-		"german": "Tau",
-		"thai": "เทา",
+	"tau":  {
+		  "english": "Tau",
+		  "german": "Tau",
 	},
-	"upsilon": {
-		"english": "Upsilon",
-		"german": "Upsilon",
-		"thai": "อิปไซลอน",
+	"upsilon":  {
+		  "english": "Upsilon",
+		  "german": "Upsilon",
 	},
-	"phi": {
-		"english": "Phi",
-		"german": "Phi",
-		"thai": "ฟาย",
+	"phi":  {
+		  "english": "Phi",
+		  "german": "Phi",
 	},
-	"chi": {
-		"english": "Chi",
-		"german": "Chi",
-		"thai": "ไค",
+	"chi":  {
+		  "english": "Chi",
+		  "german": "Chi",
 	},
-	"psi": {
-		"english": "Psi",
-		"german": "Psi",
-		"thai": "พไซ",
+	"psi":  {
+		  "english": "Psi",
+		  "german": "Psi",
 	},
-	"omega": {
-		"english": "Omega",
-		"german": "Omega",
-		"thai": "โอเมกา",
+	"omega":  {
+		  "english": "Omega",
+		  "german": "Omega",
 	},
 }
+  
