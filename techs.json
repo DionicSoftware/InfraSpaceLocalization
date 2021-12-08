@@ -149,7 +149,7 @@
     "japanese": "風力発電機の羽の形状をこの星の大気に適合させることで風力発電所の距離を縮めることができます。",
     "hungarian": "Alkalmazkodóvá teszi a szélerőmű lapátjait az atmoszférához. Ezzel csökkenti az ellenszelet a levegőben aminek köszönhetően közelebb tudod építeni a szélerőműveket egymáshoz.",
     "thai": "ปรับรูปทรงใบพัดกังหันลมให้เข้ากับบรรยากาศจะทำให้การอากาศที่รบกวนต่ำลง ซึ่งช่วยให้คุณสร้างกังหันลมให้ชิดกันได้มากขึ้น",
-		"arabic": "ملائمة شكل شفرات مولد طاقة الرياح لحركة الهواء. ينتج عن هذا إضطرابات هواء أقل، ما يسمح لك ببناء مولدات طاقة رياح أقرب إلى بعضهم البعض.
+		"arabic": "ملائمة شكل شفرات مولد طاقة الرياح لحركة الهواء. ينتج عن هذا إضطرابات هواء أقل، ما يسمح لك ببناء مولدات طاقة رياح أقرب إلى بعضهم البعض.",
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
