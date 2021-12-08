@@ -1,0 +1,112 @@
+{ // used for something like "Train Station Alpha"
+	"alpha": {
+		"english": "Alpha",
+		"german": "Alpha",
+		"thai": "อัลฟา",
+	},
+	"beta": {
+		"english": "Beta",
+		"german": "Beta",
+		"thai": "เบต้า",
+	},
+	"gamma": {
+		"english": "Gamma",
+		"german": "Gamma",
+		"thai": "แกมม่า",
+	},
+	"delta": {
+		"english": "Delta",
+		"german": "Delta",
+		"thai": "เดลต้า",
+	},
+	"epsilon": {
+		"english": "Epsilon",
+		"german": "Epsilon",
+		"thai": "เอปซิลอน",
+	},
+	"zeta": {
+		"english": "Zeta",
+		"german": "Zeta",
+		"thai": "ซีตา",
+	},
+	"theta": {
+		"english": "Theta",
+		"german": "Theta",
+		"thai": "ทีตา",
+	},
+	"iota": {
+		"english": "Iota",
+		"german": "Iota",
+		"thai": "ไอโอตา",
+	},
+	"kappa": {
+		"english": "Kappa",
+		"german": "Kappa",
+		"thai": "แคปปา",
+	},
+	"lambda": {
+		"english": "Lambda",
+		"german": "Lambda",
+		"thai": "แลมบ์ดา",
+	},
+	"mu": {
+		"english": "Mu",
+		"german": "Mu",
+		"thai": "มิว",
+	},
+	"xi": {
+		"english": "Xi",
+		"german": "Xi",
+		"thai": "ไซ",
+	},
+	"omicron": {
+		"english": "Omicron",
+		"german": "Omicron",
+		"thai": "โอไมครอน",
+	},
+	"pi": {
+		"english": "Pi",
+		"german": "Pi",
+		"thai": "พาย",
+	},
+	"rho": {
+		"english": "Rho",
+		"german": "Rho",
+		"thai": "โร",
+	},
+	"sigma": {
+		"english": "Sigma",
+		"german": "Sigma",
+		"thai": "ซิกม่า",
+	},
+	"tau": {
+		"english": "Tau",
+		"german": "Tau",
+		"thai": "เทา",
+	},
+	"upsilon": {
+		"english": "Upsilon",
+		"german": "Upsilon",
+		"thai": "อิปไซลอน",
+	},
+	"phi": {
+		"english": "Phi",
+		"german": "Phi",
+		"thai": "ฟาย",
+	},
+	"chi": {
+		"english": "Chi",
+		"german": "Chi",
+		"thai": "ไค",
+	},
+	"psi": {
+		"english": "Psi",
+		"german": "Psi",
+		"thai": "พไซ",
+	},
+	"omega": {
+		"english": "Omega",
+		"german": "Omega",
+		"thai": "โอเมกา",
+	},
+}

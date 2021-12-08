@@ -1340,5 +1340,30 @@
     "thai": "ดอกสว่านอาดามันเทียมขนาดมหึมา",
     "turkish":"Devasa Adamantin Matkabı",
     "korean": "아다만타이트 채굴기",
-  }
+  },
+  "trainStationWithName": { // like "Train Station Alpha"
+    "english": "Train Station %name%",
+    "german": "Bahnhof %name%",
+    "thai": "สถานีรถไฟ %name%",
+  },
+  "trainstation_2R":  {
+    "english": "Small Train Station",
+    "german": "Kleiner Bahnhof",
+    "thai": "สถานีรถไฟขนาดเล็ก",
+  },
+  "trainstation_4R":  {
+    "english": "Medium Train Station",
+    "german": "Mittlerer Bahnhof",
+    "thai": "สถานีรถไฟขนาดกลาง",
+  },
+  "trainstation_6R":  {
+    "english": "Large Train Station",
+    "german": "Großer Bahnhof",
+    "thai": "สถานีรถไฟขนาดใหญ่",
+  },
+  "trainstation_8R":  {
+    "english": "Main Train Station",
+    "german": "Hauptbahnhof",
+    "thai": "สถานีรถไฟหลัก",
+  },
 }
