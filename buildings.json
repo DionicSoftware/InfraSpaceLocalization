@@ -1346,6 +1346,7 @@
     "german": "Bahnhof %name%",
     "french": "Gare %name%",
     "thai": "สถานีรถไฟ %name%",
+    "turkish":"Tren istasyonu %name%",
     "russian": "Станция %name%"
   },
   "trainstation_2R":  {
@@ -1353,6 +1354,7 @@
     "german": "Kleiner Bahnhof",
     "french": "Petite gare",
     "thai": "สถานีรถไฟขนาดเล็ก",
+    "turkish":"Küçük Tren İstasyonu",
     "russian": "Малый вокзал"
   },
   "trainstation_4R":  {
@@ -1360,6 +1362,7 @@
     "german": "Mittlerer Bahnhof",
     "french": "Gare moyenne",
     "thai": "สถานีรถไฟขนาดกลาง",
+    "turkish":"Orta Tren İstasyonu",
     "russian": "Средний вокзал"
   },
   "trainstation_6R":  {
@@ -1367,6 +1370,7 @@
     "german": "Großer Bahnhof",
     "french": "Grande gare",
     "thai": "สถานีรถไฟขนาดใหญ่",
+    "turkish":"Büyük Tren İstasyonu",
     "russian": "Большой вокзал"
   },
   "trainstation_8R":  {
@@ -1374,6 +1378,7 @@
     "german": "Hauptbahnhof",
     "french": "Gare principale",
     "thai": "สถานีรถไฟหลัก",
+    "turkish":"Anan Tren İstasyonu",
     "russian": "Главный вокзал"
   },
 }
