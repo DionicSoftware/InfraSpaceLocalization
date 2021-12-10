@@ -623,6 +623,7 @@
   "tech_trains": {
     "english": "Trains",
     "german": "Züge",
+		"french": "Trains",
   },
   "tech_superhighways": {
     "english": "Superhighways",
