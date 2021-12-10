@@ -3,111 +3,133 @@
 		  "english": "Alpha",
 		  "german": "Alpha",
 		  "french": "Alpha",
+		  "russian": "Альфа"
 	},
 	"beta":  {
 		  "english": "Beta",
 		  "german": "Beta",
 		  "french": "Bêta",
+		  "russian": "Бета"
 	},
 	"gamma":  {
 		  "english": "Gamma",
 		  "german": "Gamma",
 		  "french": "Gamma",
+		  "russian": "Гамма"
 	},
 	"delta":  {
 		  "english": "Delta",
 		  "german": "Delta",
 		  "french": "Delta",
+		  "russian": "Дельта"
 	},
 	"epsilon":  {
 		  "english": "Epsilon",
 		  "german": "Epsilon",
 		  "french": "Epsilon",
+		  "russian": "Эпсилон"
 	},
 	"zeta":  {
 		  "english": "Zeta",
 		  "german": "Zeta",
 		  "french": "Zêta",
+		  "russian": "Зета"
 	},
 	"theta":  {
 		  "english": "Theta",
 		  "german": "Theta",
 		  "french": "Thêta",
+		  "russian": "Тета"
 	},
 	"iota":  {
 		  "english": "Iota",
 		  "german": "Iota",
 		  "french": "Iota",
+		  "russian": "Йота"
 	},
 	"kappa":  {
 		  "english": "Kappa",
 		  "german": "Kappa",
 		  "french": "Kappa",
+		  "russian": "Каппа"
 	},
 	"lambda":  {
 		  "english": "Lambda",
 		  "german": "Lambda",
 		  "french": "Lambda",
+		  "russian": "Лямбда"
 	},
 	"mu":  {
 		  "english": "Mu",
 		  "german": "Mu",
 		  "french": "Mu",
+		  "russian": "Му"
 	},
 	"xi":  {
 		  "english": "Xi",
 		  "german": "Xi",
 		  "french": "Xi",
+		  "russian": "Кси"
 	},
 	"omicron":  {
 		  "english": "Omicron",
 		  "german": "Omicron",
 		  "french": "Omicron",
+		  "russian": "Омикрон"
 	},
 	"pi":  {
 		  "english": "Pi",
 		  "german": "Pi",
 		  "french": "Pi",
+		  "russian": "Пи"
 	},
 	"rho":  {
 		  "english": "Rho",
 		  "german": "Rho",
 		  "french": "Rhô",
+		  "russian": "Ро"
 	},
 	"sigma":  {
 		  "english": "Sigma",
 		  "german": "Sigma",
 		  "french": "Sigma",
+		  "russian": "Сигма"
 	},
 	"tau":  {
 		  "english": "Tau",
 		  "german": "Tau",
 		  "french": "Tau",
+		  "russian": "Тау"
 	},
 	"upsilon":  {
 		  "english": "Upsilon",
 		  "german": "Upsilon",
 		  "french": "Upsilon",
+		  "russian": "Ипсилон"
 	},
 	"phi":  {
 		  "english": "Phi",
 		  "german": "Phi",
 		  "french": "Phi",
+		  "russian": "Пхи"
 	},
 	"chi":  {
 		  "english": "Chi",
 		  "german": "Chi",
 		  "french": "Khi",
+		  "russian": "Чи"
 	},
 	"psi":  {
 		  "english": "Psi",
 		  "german": "Psi",
 		  "french": "Psi",
+		  "russian": "Пси"
 	},
 	"omega":  {
 		  "english": "Omega",
 		  "german": "Omega",
 		  "french": "Oméga",
+		  "russian": "Омега"
 	},
 }
   

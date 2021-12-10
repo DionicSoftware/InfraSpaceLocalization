@@ -1061,6 +1061,7 @@
 		"hungarian": "Visszaállítja az út irányát ha nincsen más út kijelölve.",
 		"thai": "สามารถย้อนทิศทางถนนหากคุณไม่ได้เลือกถนนที่จะแทนที่",
 		"turkish":"Eğer değiştirilecek yol seçili değilse yolun yönünü değiştirir.",
+		"russian": "Также меняет направление дороги, если у вас не выбрана дорога для замены",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1077,6 +1078,7 @@
 		"hungarian": "Út visszafordítása",
 		"thai": "ย้อนถนน",
 		"turkish":"Yolun Yönünü Değiştir",
+		"russian": "Обратная дорога",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1101,6 +1103,7 @@
 		"english": "Train Signals View",
 		"german": "Zugsignalanzeige",
 		"french": "Vue des signaux de trains",
+		"russian": "Просмотр сигналов поезда",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1335,6 +1338,7 @@
 		"english": "Dead End",
 		"german": "Sackgasse",
 		"french": "Impasse",
+		"russian": "Тупик",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1947,6 +1951,7 @@
 		"french": "Niveau d'habitat moyen",
 		"thai": "ระดับที่อยู่อาศัยเฉลี่ย",
 		"turkish":"Ortalama habitat seviyesi",
+		"russian": "Средний уровень среды обитания",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -1954,6 +1959,7 @@
 		"french": "Niveau d'habitat requis",
 		"thai": "ระดับที่อยู่อาศัยต้องการ",
 		"turkish":"Gerekli habitat seviyesi",
+		"russian": "Требуемый уровень среды обитания",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -1961,6 +1967,7 @@
 		"french": "Stockage global",
 		"thai": "พื้นที่เก็บทุกอย่าง",
 		"turkish":"Evrensel Depo",
+		"russian": "Глобальное хранилище",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
@@ -1968,6 +1975,7 @@
 		"french": "L'entrepôt des matériaux de construction stocke le béton et l'acier, dont vous avez besoin pour construire des bâtiments et des infrastructures.",
 		"thai": "คลังเก็บวัสดุก่อสร้างเป็นที่เก็บคอนกรีตและเหล็ก ซึ่งคุณจำเป็นต้องสร้างอาคารและโครงสร้างพื้นฐาน",
 		"turkish":"Yapı malzemeleri deposu bina inşa etmek için gerekli olan betonu ve çeliği saklar.",
+		"russian": "На складе строительных материалов хранится бетон и сталь, необходимые для строительства зданий и инфраструктуры.",
 	},
 
 	// train info panel
@@ -1975,16 +1983,19 @@
 		"english": "Train",
 		"german": "Zug",
 		"french": "Train",
+		"russian": "Поезд",
 	},
 	"transporting": {
 		"english": "Transporting",
 		"german": "Transportiert",
 		"french": "Transporte",
+		"russian": "Транспортировка",
 	},
 	"nextStation": {
 		"english": "Next station",
 		"german": "Nächste Station",
 		"french": "Prochain arrêt",
+		"russian": "Следующая станция",
 	},
 
 	// car info panel
@@ -1992,11 +2003,13 @@
 		"english": "Delivery Truck",
 		"german": "Lieferwagen",
 		"french": "Camion de livraison",
+		"russian": "Доставочный грузовик",
 	},
 	"carTarget": {
 		"english": "Target",
 		"german": "Ziel",
 		"french": "Cible",
+		"russian": "Цель",
 	},
 
 	// train line info panel
@@ -2004,21 +2017,25 @@
 		"english": "Train Lines",
 		"german": "Zuglinien",
 		"french": "Lignes de train",
+		"russian": "Линии поездов",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
 		"german": "Insgesamt transportierte Güter: %amount%",
 		"french": "Total de marchandises transportées : %amount%",
+		"russian": "Всего перевезено товаров: %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
 		"german": "Züge auf dieser Linie: %amount%",
 		"french": "Trains sur la ligne : %amount%",
+		"russian": "Поездов на линии: %amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
 		"german": "Zugfarbe",
 		"french": "Couleur du train",
+		"russian": "Цвет поезда",
 	},
 
 	// train signaling info panel
@@ -2026,36 +2043,43 @@
 		"english": "Train Signaling",
 		"german": "Zugsignale",
 		"french": "Signalisation des trains",
+		"russian": "Сигналы поезда",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
 		"german": "Rote Schienen zeigen Stellen wo Züge kollidieren können.",
 		"french": "Les rails rouges indiquent les segments où les trains pourraient entrer en collision.",
+		"russian": "Красные рельсы обозначают участки, где есть шанс столкновения поездов.",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
 		"german": "Orange Schienen zeigen Schienenkreuzungen. Diese werden um rote Segmente herum erstellt. In den meisten Fälllen kann nur ein Zug gleichzeitig eine Kreuzung befahren.",
 		"french": "Les rails orange montrent les intersections de rails. Celles-ci sont créées autour de segments rouges. Dans la plupart des cas, un seul train peut entrer dans une intersection à la fois.",
+		"russian": "Оранжевые рельсы обозначают пересечения железных дорог. Они создаются вокруг красных сегментов. В большинстве случаев на перекресток может одновременно заходить только один поезд.",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
 		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sein.",
 		"french": "Les rails verts sont des segments droits sans risque de collision.",
+		"russian": "Зеленые рельсы - это прямые участки без риска столкновения.",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
 		"german": "Das Signalsystem verhindert Kollisionen und gegenseitige Blockierungen.",
 		"french": "Le système de signalisation des trains empêche vos trains d'entrer en collision ou de se bloquer les uns les autres.",
+		"russian": "Система сигналов поездов предотвращает столкновение или блокировку ваших поездов друг с другом.",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
 		"german": "Für maximalen Zugdurchsatz brauchst du genügend Platz mit langen grünen Streckenabschnitten zwischen deinen Kreuzungen.",
 		"french": "Pour un débit maximal, assurez-vous d'avoir suffisamment d'espace avec de longs segments verts entre les intersections.",
+		"russian": "Для максимальной пропускной способности убедитесь, что у вас достаточно места с длинными зелеными сегментами между перекрестками.",
 	},
 
 	"rails": {
 		"english": "Rails",
 		"german": "Schienen",
 		"french": "Rails",
+		"russian": "Рельсы",
 	},
 }

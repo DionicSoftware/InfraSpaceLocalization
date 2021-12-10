@@ -1346,29 +1346,34 @@
     "german": "Bahnhof %name%",
     "french": "Gare %name%",
     "thai": "สถานีรถไฟ %name%",
+    "russian": "Станция %name%"
   },
   "trainstation_2R":  {
     "english": "Small Train Station",
     "german": "Kleiner Bahnhof",
     "french": "Petite gare",
     "thai": "สถานีรถไฟขนาดเล็ก",
+    "russian": "Малый вокзал"
   },
   "trainstation_4R":  {
     "english": "Medium Train Station",
     "german": "Mittlerer Bahnhof",
     "french": "Gare moyenne",
     "thai": "สถานีรถไฟขนาดกลาง",
+    "russian": "Средний вокзал"
   },
   "trainstation_6R":  {
     "english": "Large Train Station",
     "german": "Großer Bahnhof",
     "french": "Grande gare",
     "thai": "สถานีรถไฟขนาดใหญ่",
+    "russian": "Большой вокзал"
   },
   "trainstation_8R":  {
     "english": "Main Train Station",
     "german": "Hauptbahnhof",
     "french": "Gare principale",
     "thai": "สถานีรถไฟหลัก",
+    "russian": "Главный вокзал"
   },
 }
