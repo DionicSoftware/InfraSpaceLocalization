@@ -79,4 +79,8 @@
 		"arabic": "طريق فائق السرعة",
 		"turkish":"Süper Otoyol",
 	},
+	"rail_oneWay": {
+		"english": "Rail",
+		"german": "Schiene",
+	},
 }

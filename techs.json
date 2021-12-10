@@ -620,6 +620,10 @@
     "arabic": "طرق سريعة",
 	  "turkish":"Otoyollar",
   },
+  "tech_trains": {
+    "english": "Trains",
+    "german": "Züge",
+  },
   "tech_superhighways": {
     "english": "Superhighways",
     "german": "Superautobahn",

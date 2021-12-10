@@ -1097,6 +1097,10 @@
 		"thai": "ดึงไปหาถนน",
 		"turkish":"Yola Daya",
 	},
+	"trainSignalsView":  {
+		"english": "Train Signals View",
+		"german": "Zugsignalanzeige",
+	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
 		"german": "Momentan in der Anlieferung: %amount%",
@@ -1325,6 +1329,10 @@
 		"hungarian": "Út túl messze a földtől",
 		"thai": "ถนนห่างจากพื้นดินมากเกินไป",
 		"turkish":"Yol zeminden çok uzak",
+	},
+	"roadDeadEnd": {
+		"english": "Dead End",
+		"german": "Sackgasse",
 	},
 	"visualizations": {
 		"english": "Visualizations",
