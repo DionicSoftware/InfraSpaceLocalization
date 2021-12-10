@@ -1983,18 +1983,21 @@
 		"english": "Train",
 		"german": "Zug",
 		"french": "Train",
+		"turkish":"Tren",
 		"russian": "Поезд",
 	},
 	"transporting": {
 		"english": "Transporting",
 		"german": "Transportiert",
 		"french": "Transporte",
+		"turkish":"Taşıyor",
 		"russian": "Транспортировка",
 	},
 	"nextStation": {
 		"english": "Next station",
 		"german": "Nächste Station",
 		"french": "Prochain arrêt",
+		"turkish":"Sonraki istasyon",
 		"russian": "Следующая станция",
 	},
 
@@ -2004,12 +2007,14 @@
 		"german": "Lieferwagen",
 		"french": "Camion de livraison",
 		"russian": "Доставочный грузовик",
+		"turkish":"Teslimat Kamyonu",
 	},
 	"carTarget": {
 		"english": "Target",
 		"german": "Ziel",
 		"french": "Cible",
 		"russian": "Цель",
+		"turkish":"Hedef",
 	},
 
 	// train line info panel
@@ -2018,24 +2023,28 @@
 		"german": "Zuglinien",
 		"french": "Lignes de train",
 		"russian": "Линии поездов",
+		"turkish":"Tren Hatları",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
 		"german": "Insgesamt transportierte Güter: %amount%",
 		"french": "Total de marchandises transportées : %amount%",
 		"russian": "Всего перевезено товаров: %amount%",
+		"turkish":"Taşınan toplam malzeme miktarı: %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
 		"german": "Züge auf dieser Linie: %amount%",
 		"french": "Trains sur la ligne : %amount%",
 		"russian": "Поездов на линии: %amount%",
+		"turkish":"Hat üzerindeki tren sayısı: %amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
 		"german": "Zugfarbe",
 		"french": "Couleur du train",
 		"russian": "Цвет поезда",
+		"turkish":"Tren rengi",
 	},
 
 	// train signaling info panel
@@ -2044,36 +2053,42 @@
 		"german": "Zugsignale",
 		"french": "Signalisation des trains",
 		"russian": "Сигналы поезда",
+		"turkish":"Tren Snyalizasyonu",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
 		"german": "Rote Schienen zeigen Stellen wo Züge kollidieren können.",
 		"french": "Les rails rouges indiquent les segments où les trains pourraient entrer en collision.",
 		"russian": "Красные рельсы обозначают участки, где есть шанс столкновения поездов.",
+		"turkish":"Kırmızı raylar trenlerin çakışabileceği yerleri gösterir",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
 		"german": "Orange Schienen zeigen Schienenkreuzungen. Diese werden um rote Segmente herum erstellt. In den meisten Fälllen kann nur ein Zug gleichzeitig eine Kreuzung befahren.",
 		"french": "Les rails orange montrent les intersections de rails. Celles-ci sont créées autour de segments rouges. Dans la plupart des cas, un seul train peut entrer dans une intersection à la fois.",
 		"russian": "Оранжевые рельсы обозначают пересечения железных дорог. Они создаются вокруг красных сегментов. В большинстве случаев на перекресток может одновременно заходить только один поезд.",
+		"turkish":"Turuncu raylar, ray kesişimlerini gösterir. BUnlar kırmızı bölümlerin etrafında oluşur. Çoğu durumda bir kesişime aynı anda sadece bir tren girebilir.",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
 		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sein.",
 		"french": "Les rails verts sont des segments droits sans risque de collision.",
 		"russian": "Зеленые рельсы - это прямые участки без риска столкновения.",
+		"turkish":"Yeşil raylar çakışma riskinin olmadığı, düz bölümlerdir.",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
 		"german": "Das Signalsystem verhindert Kollisionen und gegenseitige Blockierungen.",
 		"french": "Le système de signalisation des trains empêche vos trains d'entrer en collision ou de se bloquer les uns les autres.",
 		"russian": "Система сигналов поездов предотвращает столкновение или блокировку ваших поездов друг с другом.",
+		"turkish":"Tren sinyalizasyon sistemi trenlerinizin birbiriyle çakışmasını engeller.",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
 		"german": "Für maximalen Zugdurchsatz brauchst du genügend Platz mit langen grünen Streckenabschnitten zwischen deinen Kreuzungen.",
 		"french": "Pour un débit maximal, assurez-vous d'avoir suffisamment d'espace avec de longs segments verts entre les intersections.",
 		"russian": "Для максимальной пропускной способности убедитесь, что у вас достаточно места с длинными зелеными сегментами между перекрестками.",
+		"turkish":"En yüksek verim için kesişimlerinizin arasında yeterli uzunlukta yeşil kısımlar bıraktığınızdan emin olun.",
 	},
 
 	"rails": {
@@ -2081,5 +2096,6 @@
 		"german": "Schienen",
 		"french": "Rails",
 		"russian": "Рельсы",
+		"turkish":"Raylar",
 	},
 }
