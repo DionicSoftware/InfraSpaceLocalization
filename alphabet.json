@@ -2,90 +2,112 @@
 	"alpha":  {
 		  "english": "Alpha",
 		  "german": "Alpha",
+		  "french": "Alpha",
 	},
 	"beta":  {
 		  "english": "Beta",
 		  "german": "Beta",
+		  "french": "Bêta",
 	},
 	"gamma":  {
 		  "english": "Gamma",
 		  "german": "Gamma",
+		  "french": "Gamma",
 	},
 	"delta":  {
 		  "english": "Delta",
 		  "german": "Delta",
+		  "french": "Delta",
 	},
 	"epsilon":  {
 		  "english": "Epsilon",
 		  "german": "Epsilon",
+		  "french": "Epsilon",
 	},
 	"zeta":  {
 		  "english": "Zeta",
 		  "german": "Zeta",
+		  "french": "Zêta",
 	},
 	"theta":  {
 		  "english": "Theta",
 		  "german": "Theta",
+		  "french": "Thêta",
 	},
 	"iota":  {
 		  "english": "Iota",
 		  "german": "Iota",
+		  "french": "Iota",
 	},
 	"kappa":  {
 		  "english": "Kappa",
 		  "german": "Kappa",
+		  "french": "Kappa",
 	},
 	"lambda":  {
 		  "english": "Lambda",
 		  "german": "Lambda",
+		  "french": "Lambda",
 	},
 	"mu":  {
 		  "english": "Mu",
 		  "german": "Mu",
+		  "french": "Mu",
 	},
 	"xi":  {
 		  "english": "Xi",
 		  "german": "Xi",
+		  "french": "Xi",
 	},
 	"omicron":  {
 		  "english": "Omicron",
 		  "german": "Omicron",
+		  "french": "Omicron",
 	},
 	"pi":  {
 		  "english": "Pi",
 		  "german": "Pi",
+		  "french": "Pi",
 	},
 	"rho":  {
 		  "english": "Rho",
 		  "german": "Rho",
+		  "french": "Rhô",
 	},
 	"sigma":  {
 		  "english": "Sigma",
 		  "german": "Sigma",
+		  "french": "Sigma",
 	},
 	"tau":  {
 		  "english": "Tau",
 		  "german": "Tau",
+		  "french": "Tau",
 	},
 	"upsilon":  {
 		  "english": "Upsilon",
 		  "german": "Upsilon",
+		  "french": "Upsilon",
 	},
 	"phi":  {
 		  "english": "Phi",
 		  "german": "Phi",
+		  "french": "Phi",
 	},
 	"chi":  {
 		  "english": "Chi",
 		  "german": "Chi",
+		  "french": "Khi",
 	},
 	"psi":  {
 		  "english": "Psi",
 		  "german": "Psi",
+		  "french": "Psi",
 	},
 	"omega":  {
 		  "english": "Omega",
 		  "german": "Omega",
+		  "french": "Oméga",
 	},
 }
   
