@@ -1967,4 +1967,77 @@
 		"thai": "คลังเก็บวัสดุก่อสร้างเป็นที่เก็บคอนกรีตและเหล็ก ซึ่งคุณจำเป็นต้องสร้างอาคารและโครงสร้างพื้นฐาน",
 		"turkish":"Yapı malzemeleri deposu bina inşa etmek için gerekli olan betonu ve çeliği saklar.",
 	},
+
+	// train info panel
+	"train": {
+		"english": "Train",
+		"german": "Zug",
+	},
+	"transporting": {
+		"english": "Transporting",
+		"german": "Transportiert",
+	},
+	"nextStation": {
+		"english": "Next station",
+		"german": "Nächste Station",
+	},
+
+	// car info panel
+	"deliveryTruck": {
+		"english": "Delivery Truck",
+		"german": "Lieferwagen",
+	},
+	"carTarget": {
+		"english": "Target",
+		"german": "Ziel",
+	},
+
+	// train line info panel
+	"trainLines": {
+		"english": "Train Lines",
+		"german": "Zuglinien",
+	},
+	"totalGoodsTransported": {
+		"english": "Total goods transported: %amount%",
+		"german": "Insgesamt transportierte Güter: %amount%",
+	},
+	"trainsOnLine": {
+		"english": "Trains on line: %amount%",
+		"german": "Züge auf dieser Linie: %amount%",
+	},
+	"trainColor": {
+		"english": "Train color",
+		"german": "Zugfarbe",
+	},
+
+	// train signaling info panel
+	"trainSignaling": {
+		"english": "Train Signaling",
+		"german": "Zugsignale",
+	},
+	"trainSignaling_red": {
+		"english": "Red rails indicate segments where trains could collide.",
+		"german": "Rote Schienen zeigen Stellen wo Züge kollidieren können.",
+	},
+	"trainSignaling_orange": {
+		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
+		"german": "Orange Schienen zeigen Schienenkreuzungen. Diese werden um rote Segmente herum erstellt. In den meisten Fälllen kann nur ein Zug gleichzeitig eine Kreuzung befahren.",
+	},
+	"trainSignaling_green": {
+		"english": "Green rails are straight segments with no risk of collision.",
+		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sein.",
+	},
+	"trainSignaling_other1": {
+		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
+		"german": "Das Signalsystem verhindert Kollisionen und gegenseitige Blockierungen.",
+	},
+	"trainSignaling_other2": {
+		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
+		"german": "Für maximalen Zugdurchsatz brauchst du genügend Platz mit langen grünen Streckenabschnitten zwischen deinen Kreuzungen.",
+	},
+
+	"rails": {
+		"english": "Rails",
+		"german": "Schienen",
+	},
 }
