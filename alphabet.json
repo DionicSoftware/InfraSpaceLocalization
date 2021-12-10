@@ -129,13 +129,14 @@
 		  "english": "Phi",
 		  "german": "Phi",
 		  "french": "Phi",
+		"turkish":"Fi",
 		  "russian": "Пхи"
 	},
 	"chi":  {
 		  "english": "Chi",
 		  "german": "Chi",
 		  "french": "Khi",
-		  "turkish":"Fi",
+		  "turkish":"Ksi",
 		  "russian": "Чи"
 	},
 	"psi":  {
