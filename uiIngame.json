@@ -1104,6 +1104,7 @@
 		"german": "Zugsignalanzeige",
 		"french": "Vue des signaux de trains",
 		"russian": "Просмотр сигналов поезда",
+		"turkish":"Tren Sinyalleri Görünümü",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -2053,14 +2054,14 @@
 		"german": "Zugsignale",
 		"french": "Signalisation des trains",
 		"russian": "Сигналы поезда",
-		"turkish":"Tren Snyalizasyonu",
+		"turkish":"Tren Sinyalizasyonu",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
 		"german": "Rote Schienen zeigen Stellen wo Züge kollidieren können.",
 		"french": "Les rails rouges indiquent les segments où les trains pourraient entrer en collision.",
 		"russian": "Красные рельсы обозначают участки, где есть шанс столкновения поездов.",
-		"turkish":"Kırmızı raylar trenlerin çakışabileceği yerleri gösterir",
+		"turkish":"Kırmızı raylar trenlerin çakışabileceği yerleri gösterir.",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
