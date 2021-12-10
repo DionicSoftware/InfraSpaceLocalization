@@ -1974,72 +1974,88 @@
 	"train": {
 		"english": "Train",
 		"german": "Zug",
+		"french": "Train",
 	},
 	"transporting": {
 		"english": "Transporting",
 		"german": "Transportiert",
+		"french": "Transporte",
 	},
 	"nextStation": {
 		"english": "Next station",
 		"german": "Nächste Station",
+		"french": "Prochain arrêt",
 	},
 
 	// car info panel
 	"deliveryTruck": {
 		"english": "Delivery Truck",
 		"german": "Lieferwagen",
+		"french": "Camion de livraison",
 	},
 	"carTarget": {
 		"english": "Target",
 		"german": "Ziel",
+		"french": "Cible",
 	},
 
 	// train line info panel
 	"trainLines": {
 		"english": "Train Lines",
 		"german": "Zuglinien",
+		"french": "Lignes de train",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
 		"german": "Insgesamt transportierte Güter: %amount%",
+		"french": "Total de marchandises transportées : %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
 		"german": "Züge auf dieser Linie: %amount%",
+		"french": "Trains sur la ligne : %amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
 		"german": "Zugfarbe",
+		"french": "Couleur du train",
 	},
 
 	// train signaling info panel
 	"trainSignaling": {
 		"english": "Train Signaling",
 		"german": "Zugsignale",
+		"french": "Signalisation des trains",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
 		"german": "Rote Schienen zeigen Stellen wo Züge kollidieren können.",
+		"french": "Les rails rouges indiquent les segments où les trains pourraient entrer en collision.",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
 		"german": "Orange Schienen zeigen Schienenkreuzungen. Diese werden um rote Segmente herum erstellt. In den meisten Fälllen kann nur ein Zug gleichzeitig eine Kreuzung befahren.",
+		"french": "Les rails orange montrent les intersections de rails. Celles-ci sont créées autour de segments rouges. Dans la plupart des cas, un seul train peut entrer dans une intersection à la fois.",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
 		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sein.",
+		"french": "Les rails verts sont des segments droits sans risque de collision.",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
 		"german": "Das Signalsystem verhindert Kollisionen und gegenseitige Blockierungen.",
+		"french": "Le système de signalisation des trains empêche vos trains d'entrer en collision ou de se bloquer les uns les autres.",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
 		"german": "Für maximalen Zugdurchsatz brauchst du genügend Platz mit langen grünen Streckenabschnitten zwischen deinen Kreuzungen.",
+		"french": "Pour un débit maximal, assurez-vous d'avoir suffisamment d'espace avec de longs segments verts entre les intersections.",
 	},
 
 	"rails": {
 		"english": "Rails",
 		"german": "Schienen",
+		"french": "Rails",
 	},
 }
