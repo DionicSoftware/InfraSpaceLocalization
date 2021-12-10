@@ -1100,6 +1100,7 @@
 	"trainSignalsView":  {
 		"english": "Train Signals View",
 		"german": "Zugsignalanzeige",
+		"french": "Vue des signaux de trains",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1333,6 +1334,7 @@
 	"roadDeadEnd": {
 		"english": "Dead End",
 		"german": "Sackgasse",
+		"french": "Impasse",
 	},
 	"visualizations": {
 		"english": "Visualizations",
