@@ -3,108 +3,126 @@
 		  "english": "Alpha",
 		  "german": "Alpha",
 		  "french": "Alpha",
+		  "turkish":"Alfa",
 		  "russian": "Альфа"
 	},
 	"beta":  {
 		  "english": "Beta",
 		  "german": "Beta",
 		  "french": "Bêta",
+		  "turkish":"Beta",
 		  "russian": "Бета"
 	},
 	"gamma":  {
 		  "english": "Gamma",
 		  "german": "Gamma",
 		  "french": "Gamma",
+		  "turkish":"Gama",
 		  "russian": "Гамма"
 	},
 	"delta":  {
 		  "english": "Delta",
 		  "german": "Delta",
 		  "french": "Delta",
+		  "turkish":"Delta",
 		  "russian": "Дельта"
 	},
 	"epsilon":  {
 		  "english": "Epsilon",
 		  "german": "Epsilon",
 		  "french": "Epsilon",
+		  "turkish":"Epsilon",
 		  "russian": "Эпсилон"
 	},
 	"zeta":  {
 		  "english": "Zeta",
 		  "german": "Zeta",
 		  "french": "Zêta",
+		  "turkish":"Zeta",
 		  "russian": "Зета"
 	},
 	"theta":  {
 		  "english": "Theta",
 		  "german": "Theta",
 		  "french": "Thêta",
+		  "turkish":"Teta",
 		  "russian": "Тета"
 	},
 	"iota":  {
 		  "english": "Iota",
 		  "german": "Iota",
 		  "french": "Iota",
+		  "turkish":"İota",
 		  "russian": "Йота"
 	},
 	"kappa":  {
 		  "english": "Kappa",
 		  "german": "Kappa",
 		  "french": "Kappa",
+		  "turkish":"Kapa",
 		  "russian": "Каппа"
 	},
 	"lambda":  {
 		  "english": "Lambda",
 		  "german": "Lambda",
 		  "french": "Lambda",
+		  "turkish":"Lamda",
 		  "russian": "Лямбда"
 	},
 	"mu":  {
 		  "english": "Mu",
 		  "german": "Mu",
 		  "french": "Mu",
+		  "turkish":"Mi",
 		  "russian": "Му"
 	},
 	"xi":  {
 		  "english": "Xi",
 		  "german": "Xi",
 		  "french": "Xi",
+		  "turkish":"Hi",
 		  "russian": "Кси"
 	},
 	"omicron":  {
 		  "english": "Omicron",
 		  "german": "Omicron",
 		  "french": "Omicron",
+		  "turkish":"Omicron",
 		  "russian": "Омикрон"
 	},
 	"pi":  {
 		  "english": "Pi",
 		  "german": "Pi",
 		  "french": "Pi",
+		  "turkish":"Pi",
 		  "russian": "Пи"
 	},
 	"rho":  {
 		  "english": "Rho",
 		  "german": "Rho",
 		  "french": "Rhô",
+		  "turkish":"Ro",
 		  "russian": "Ро"
 	},
 	"sigma":  {
 		  "english": "Sigma",
 		  "german": "Sigma",
 		  "french": "Sigma",
+		  "turkish":"Sigma",
 		  "russian": "Сигма"
 	},
 	"tau":  {
 		  "english": "Tau",
 		  "german": "Tau",
 		  "french": "Tau",
+		  "turkish":"Tav",
 		  "russian": "Тау"
 	},
 	"upsilon":  {
 		  "english": "Upsilon",
 		  "german": "Upsilon",
 		  "french": "Upsilon",
+		  "turkish":"Upsilon",
 		  "russian": "Ипсилон"
 	},
 	"phi":  {
@@ -117,18 +135,21 @@
 		  "english": "Chi",
 		  "german": "Chi",
 		  "french": "Khi",
+		  "turkish":"Fi",
 		  "russian": "Чи"
 	},
 	"psi":  {
 		  "english": "Psi",
 		  "german": "Psi",
 		  "french": "Psi",
+		  "turkish":"Psi",
 		  "russian": "Пси"
 	},
 	"omega":  {
 		  "english": "Omega",
 		  "german": "Omega",
 		  "french": "Oméga",
+		  "turkish":"Omega",
 		  "russian": "Омега"
 	},
 }
