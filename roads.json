@@ -17,7 +17,7 @@
 		"hungarian": "Sóder út",
 		"thai": "ถนนลูกรัง",
 		"arabic": "طريق غير معبد",
-		"turkish":"Çakıl Yol",
+		"turkish": "Çakıl Yol",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -37,7 +37,7 @@
 		"hungarian": "Beton út",
 		"thai": "ถนนคอนกรีต",
 		"arabic": "طريق إسمنتي",
-		"turkish":"Beton Yol",
+		"turkish": "Beton Yol",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -57,7 +57,7 @@
 		"hungarian": "Autópálya",
 		"thai": "ทางหลวง",
 		"arabic": "طريق سريع",
-		"turkish":"Otoyol",
+		"turkish": "Otoyol",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -77,13 +77,14 @@
 		"hungarian": "Szuper autópálya",
 		"thai": "ทางด่วน",
 		"arabic": "طريق فائق السرعة",
-		"turkish":"Süper Otoyol",
+		"turkish": "Süper Otoyol",
 	},
 	"rail_oneWay": {
 		"english": "Rail",
 		"german": "Schiene",
 		"french": "Rail",
 		"russian": "Рельс",
-		"turkish":"Ray",
+		"turkish": "Ray",
+		"polish": "Tor",
 	},
 }

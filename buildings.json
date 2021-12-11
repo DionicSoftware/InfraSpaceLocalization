@@ -96,7 +96,7 @@
     "portuguese": "Mina de alumínio",
     "hungarian": "Bauxitbánya",
     "thai": "เหมืองอลูมิเนียม",
-    "turkish":"Alüminyum Madeni",
+    "turkish": "Alüminyum Madeni",
     "korean": "알루미늄 채굴기",
   },
   "uraniumMine": {
@@ -116,7 +116,7 @@
     "portuguese": "Mina de urânio",
     "hungarian": "Urániumbánya",
     "thai": "เหมืองยูเรเนียม",
-    "turkish":"Uranyum Madeni",
+    "turkish": "Uranyum Madeni",
     "korean": "우라늄 채굴기",
   },
   "iridiumMine": {
@@ -136,7 +136,7 @@
     "portuguese": "Mina de irídio",
     "hungarian": "Irídiumbánya",
     "thai": "เหมืองอิริเดียม",
-    "turkish":"İridyum Madeni",
+    "turkish": "İridyum Madeni",
     "korean": "이리듐 채굴기",
   },
   "largeSandMine": {
@@ -156,7 +156,7 @@
     "portuguese": "Grande mina de areia",
     "hungarian": "Nagy homokbánya",
     "thai": "เหมืองทรายขนาดใหญ่",
-    "turkish":"Büyük Kum Madeni",
+    "turkish": "Büyük Kum Madeni",
     "korean": "대형 모래 채굴기",
   },
   "largeSulfurMine": {
@@ -176,7 +176,7 @@
     "portuguese": "Grande mina de enxofre",
     "hungarian": "Nagy kénbánya",
     "thai": "เหมืองกำมะถันขนาดใหญ่",
-    "turkish":"Büyük Sülfür Madeni",
+    "turkish": "Büyük Sülfür Madeni",
     "korean": "대형 유황 채굴기",
   },
   "largeIronMine": {
@@ -196,7 +196,7 @@
     "portuguese": "Grande mina de ferro",
     "hungarian": "Nagy vasbánya",
     "thai": "เหมืองเหล็กขนาดใหญ่",
-    "turkish":"Büyük Demir Madeni",
+    "turkish": "Büyük Demir Madeni",
     "korean": "대형 철 채굴기",
   },
   "largeCopperMine": {
@@ -216,7 +216,7 @@
     "portuguese": "Grande mina de cobre",
     "hungarian": "Nagy rézbánya",
     "thai": "เหมืองทองแดงขนาดใหญ่",
-    "turkish":"Büyük Bakır Madeni",
+    "turkish": "Büyük Bakır Madeni",
     "korean": "대형 구리 채굴기",
   },
   "largeAluminiumMine": {
@@ -236,7 +236,7 @@
     "portuguese": "Grande mina de alumínio",
     "hungarian": "Nagy alumíniumbánya",
     "thai": "เหมืองอลูมิเนียมขนาดใหญ่",
-    "turkish":"Büyük Alüminyum Madeni",
+    "turkish": "Büyük Alüminyum Madeni",
     "korean": "대형 알루미늄 채굴기",
   },
   "largeUraniumMine": {
@@ -256,7 +256,7 @@
     "portuguese": "Grande mina de urânio",
     "hungarian": "Nagy urániumbánya",
     "thai": "เหมืองยูเรเนียมขนาดใหญ่",
-    "turkish":"Büyük Uranyum Madeni",
+    "turkish": "Büyük Uranyum Madeni",
     "korean": "대형 우라늄 채굴기",
   },
   "largeIridiumMine": {
@@ -276,7 +276,7 @@
     "portuguese": "Grande mina de irídio",
     "hungarian": "Nagy irídiumbánya",
     "thai": "เหมืองอิริเดียมขนาดใหญ่",
-    "turkish":"Büyük İridyum Madeni",
+    "turkish": "Büyük İridyum Madeni",
     "korean": "대형 이리듐 채굴기",
   },
   "electronicsFactory": {
@@ -336,7 +336,7 @@
     "portuguese": "Fábrica de processador neural",
     "hungarian": "Neurális processzor gyár",
     "thai": "โรงงานเครื่องประมวลผลประสาท",
-    "turkish":"Nöral İşlemci Fabrikası",
+    "turkish": "Nöral İşlemci Fabrikası",
     "korean": "신경칩 공장",
   },
   "motorFactory": {
@@ -376,7 +376,7 @@
     "portuguese": "Fábrida de nanotubos",
     "hungarian": "Nanocsőgyár",
     "thai": "โรงงานท่อนาโน",
-    "turkish":"Nanotüp Fabrikası",
+    "turkish": "Nanotüp Fabrikası",
     "korean": "나노튜브 공장",
   },
   "iridiumAlloyFactory": {
@@ -476,7 +476,7 @@
     "portuguese": "Siderúrgica",
     "hungarian": "Acélgyár",
     "thai": "โรงตีเหล็กกล้า",
-    "turkish":"Çelik Fabriaksı",
+    "turkish": "Çelik Fabriaksı",
     "korean": "제철소 ",
   },
   "homeAppliancesFactory": {
@@ -596,7 +596,7 @@
     "portuguese": "Fábrica realidade virtual educativa",
     "hungarian": "Virtuális oktatóprogram gyár",
     "thai": "โรงงานเครื่องจำลองโลกบันเทิงเสมือนจริง",
-    "turkish":"VR Eğitim-Eğlence Fabrikası",
+    "turkish": "VR Eğitim-Eğlence Fabrikası",
     "korean": "교육용VR 공장",
   },
   "iridiumPropellantFactory": {
@@ -656,7 +656,7 @@
     "portuguese": "Fábrica de pacotes de ciência azul",
     "hungarian": "Kék tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีน้ำเงิน",
-    "turkish":"Mavi Bilim Paketi Fabrikası",
+    "turkish": "Mavi Bilim Paketi Fabrikası",
     "korean": "파랑 과학팩 공장",
   },
   "sciencePack2Factory": {
@@ -676,7 +676,7 @@
     "portuguese": "Fábrica de pacotes de ciência verde",
     "hungarian": "Zöld tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีเขียว",
-    "turkish":"Yeşil Bilim Paketi Fabrikası",
+    "turkish": "Yeşil Bilim Paketi Fabrikası",
     "korean": "초록 과학팩 공장",
   },
   "sciencePack3Factory": {
@@ -696,7 +696,7 @@
     "portuguese": "Fábrica de pacotes de ciência amarela",
     "hungarian": "Sárga tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีเหลือง",
-    "turkish":"Sarı Bilim Paketi Fabrikası",
+    "turkish": "Sarı Bilim Paketi Fabrikası",
     "korean": "노랑 과학팩 공장",
   },
   "sciencePack4Factory": {
@@ -716,7 +716,7 @@
     "portuguese": "Fábrica de pacotes de ciência vermelha",
     "hungarian": "Piros tudománycsomag gyár",
     "thai": "โรงงานชุดวิทยาศาสตร์สีแดง",
-    "turkish":"Kırmızı Bilim Paketi Fabrikası",
+    "turkish": "Kırmızı Bilim Paketi Fabrikası",
     "korean": "빨강 과학팩 공장",
   },
   "researchLab": {
@@ -736,7 +736,7 @@
     "portuguese": "Laboratório de pesquisa",
     "hungarian": "Kutatási labor",
     "thai": "ห้องปฏิบัติการวิจัย",
-    "turkish":"Araştırma Labaratuvarı",
+    "turkish": "Araştırma Labaratuvarı",
     "korean": "연구소",
   },
   "storehouse": {
@@ -758,7 +758,7 @@
     "portuguese": "Armazém de material de contrução",
     "hungarian": "Építőanyag raktár",
     "thai": "โรงจัดเก็บวัสดุก่อสร้าง",
-    "turkish":"Depo",
+    "turkish": "Depo",
     "korean": "창고",
   },
   "spacePort": {
@@ -778,7 +778,7 @@
     "portuguese": "Porto espacial",
     "hungarian": "Űrrepülőtér",
     "thai": "ท่ายานอวกาศ",
-    "turkish":"Uzay Limanı",
+    "turkish": "Uzay Limanı",
     "korean": "우주항",
   },
   "recyclingCenter": {
@@ -798,7 +798,7 @@
     "portuguese": "Centro de reciclagem",
     "hungarian": "Újrahasznosító központ",
     "thai": "ศูนย์กลางรีไซเคิล",
-    "turkish":"Geri Dönüşüm Merkezi",
+    "turkish": "Geri Dönüşüm Merkezi",
     "korean": "재활용센터",
   },
   "soilEnrichmentFacility": {
@@ -818,7 +818,7 @@
     "portuguese": "Instalação de enriquecimento de solo",
     "hungarian": "Talajdúsító létesítmény",
     "thai": "โรงบำรุงดิน",
-    "turkish":"Toprak Zenginleştirme Tesisi",
+    "turkish": "Toprak Zenginleştirme Tesisi",
     "korean": "토질개선시설",
   },
   "airProcessor": {
@@ -838,7 +838,7 @@
     "portuguese": "processador atmosférico",
     "hungarian": "Légkörgenerátor",
     "thai": "โรงแปรรูปบรรยากาศ",
-    "turkish":"Hava İşleyici",
+    "turkish": "Hava İşleyici",
     "korean": "대기생산시설",
   },
   "oxygenProcessor": {
@@ -858,7 +858,7 @@
     "portuguese": "Processador de oxigênio",
     "hungarian": "Oxigéngenerátor",
     "thai": "โรงแปรรูปออกซิเจน",
-    "turkish":"Oksijen İşleyici",
+    "turkish": "Oksijen İşleyici",
     "korean": "산소생산시설",
   },
   "carbonProcessor": {
@@ -878,7 +878,7 @@
     "portuguese": "Processador de carbono",
     "hungarian": "Szénfeldolgozó",
     "thai": "โรงแปรรูปคาร์บอน",
-    "turkish":"Karbon İşleyici",
+    "turkish": "Karbon İşleyici",
     "korean": "탄소생산시설",
   },
   "basicFarm": {
@@ -898,7 +898,7 @@
     "portuguese": "Fazenda simples",
     "hungarian": "Egyszerű farm",
     "thai": "ไร่อย่างง่าย",
-    "turkish":"Basit Tarla",
+    "turkish": "Basit Tarla",
     "korean": "간이 농장",
   },
   "fertilizerFactory": {
@@ -918,7 +918,7 @@
     "portuguese": "Fábrica de fertilisantes",
     "hungarian": "Műtrágyagyár",
     "thai": "โรงงานปุ๋ย",
-    "turkish":"Gübre Fabrikası",
+    "turkish": "Gübre Fabrikası",
     "korean": "비료 공장",
   },
   "vegetableFarm": {
@@ -938,7 +938,7 @@
     "portuguese": "Fazenda de vegetais",
     "hungarian": "Zöldségfarm",
     "thai": "ไร่ผัก",
-    "turkish":"Sebze Tarlası",
+    "turkish": "Sebze Tarlası",
     "korean": "야채 농장",
   },
   "meatLab": {
@@ -958,7 +958,7 @@
     "portuguese": "Laboratório de carne",
     "hungarian": "Húslabor",
     "thai": "ห้องวิจัยเนื้อ",
-    "turkish":"Et Labaratuvar",
+    "turkish": "Et Labaratuvar",
     "korean": "고기 연구소",
   },
   "foodFactory": {
@@ -978,7 +978,7 @@
     "portuguese": "Fábrica de alimento",
     "hungarian": "Ételgyár",
     "thai": "โรงงานเนื้อ",
-    "turkish":"Yemek Fabrikası",
+    "turkish": "Yemek Fabrikası",
     "korean": "고기 공장",
   },
   "habitatLevel1": {
@@ -998,7 +998,7 @@
     "portuguese": "Moradia básica",
     "hungarian": "Alap lakóhely",
     "thai": "ที่อยู่อาศัยทั่วไป",
-    "turkish":"Basit Habitat",
+    "turkish": "Basit Habitat",
     "korean": "기초 거주시설(LV1)",
   },
   "habitatLevel2": {
@@ -1018,7 +1018,7 @@
     "portuguese": "Moradia decente",
     "hungarian": "Tisztességes lakóhely",
     "thai": "ที่อยู่อาศัยอย่างดี",
-    "turkish":"İyi Habitat",
+    "turkish": "İyi Habitat",
     "korean": "일반 거주시설(LV2)",
   },
   "habitatLevel3": { // "nice" or "comfortable"
@@ -1038,7 +1038,7 @@
     "portuguese": "Moradia confortável",
     "hungarian": "Kényelmes lakóhely",
     "thai": "ที่อยู่อาศัยที่สุดสบาย",
-    "turkish":"Güzel Habitat",
+    "turkish": "Güzel Habitat",
     "korean": "나은 거주시설(LV3)",
   },
   "habitatLevel4": {
@@ -1118,7 +1118,7 @@
     "portuguese": "Parque",
     "hungarian": "Park",
     "thai": "สวน",
-    "turkish":"Park",
+    "turkish": "Park",
     "korean": "공원",
   },
   "arena": {
@@ -1138,7 +1138,7 @@
     "portuguese": "Estádio",
     "hungarian": "Stadion",
     "thai": "สนามกีฬา",
-    "turkish":"Arena",
+    "turkish": "Arena",
     "korean": "경기장",
   },
   "school": {
@@ -1158,7 +1158,7 @@
     "portuguese": "Escola",
     "hungarian": "Iskola",
     "thai": "โรงเรียน",
-    "turkish":"Okul",
+    "turkish": "Okul",
     "korean": "학교",
   },
   "powerPole": {
@@ -1178,7 +1178,7 @@
     "portuguese": "Poste elétrico",
     "hungarian": "Villanyoszlop",
     "thai": "เสาไฟฟ้า",
-    "turkish":"Elektrik Direği",
+    "turkish": "Elektrik Direği",
     "korean": "전봇대",
   },
   "powerSubstation": {
@@ -1198,7 +1198,7 @@
     "portuguese": "Subestação de energia",
     "hungarian": "Elektronikai állomás",
     "thai": "สถานีไฟฟ้าย่อย",
-    "turkish":"Elektrik Trafosu",
+    "turkish": "Elektrik Trafosu",
     "korean": "변전소",
   },
   "windTurbine": {
@@ -1218,7 +1218,7 @@
     "portuguese": "Turbina eólica",
     "hungarian": "Szélerőmű",
     "thai": "กังหันลม",
-    "turkish":"Rüzgar Türbini",
+    "turkish": "Rüzgar Türbini",
     "korean": "풍력발전소",
   },
   "solarPowerPlant": {
@@ -1238,7 +1238,7 @@
     "portuguese": "Planta de energia solar",
     "hungarian": "Napelem",
     "thai": "โรงไฟฟ้าพลังงานแสงอาทิตย์",
-    "turkish":"Güneş Enerjisi Santrali",
+    "turkish": "Güneş Enerjisi Santrali",
     "korean": "태양광 발전소",
   },
   "nuclearPowerPlant": {
@@ -1258,7 +1258,7 @@
     "portuguese": "Planta de energia nuclear",
     "hungarian": "Atomerőmű",
     "thai": "โรงไฟฟ้านิวเคลียร์",
-    "turkish":"Nükleer Santral",
+    "turkish": "Nükleer Santral",
     "korean": "원자력 발전소",
   },
   "fastNeutronReactor": {
@@ -1278,7 +1278,7 @@
     "portuguese": "Reator rápido de nêutrons",
     "hungarian": "Gyorsneutronos reaktor",
     "thai": "เครื่องปฏิกรณ์นิวตรอนเร็ว",
-    "turkish":"Hızlı Nötrön Reaktörü",
+    "turkish": "Hızlı Nötrön Reaktörü",
     "korean": "핵융합 발전소",
   },
   "signStanding": {
@@ -1298,7 +1298,7 @@
     "portuguese": "Grande placa vertical",
     "hungarian": "Nagy álló tábla",
     "thai": "ป้ายตั้งขนาดใหญ่",
-    "turkish":"Büyük Dikey Tabela",
+    "turkish": "Büyük Dikey Tabela",
     "korean": "거대 입식 간판",
   },
   "signLaying": {
@@ -1318,7 +1318,7 @@
     "portuguese": "Grande placa horizontal",
     "hungarian": "Nagy fekvő tábla",
     "thai": "ป้ายขนาดใหญ่",
-    "turkish":"Büyük Yatay Tabela",
+    "turkish": "Büyük Yatay Tabela",
     "korean": "거대 좌식 간판",
   },
   "monumentDrill": {
@@ -1338,7 +1338,7 @@
     "portuguese": "Broca colossal de adamantina",
     "hungarian": "Kolosszális adamantit fúró",
     "thai": "ดอกสว่านอาดามันเทียมขนาดมหึมา",
-    "turkish":"Devasa Adamantin Matkabı",
+    "turkish": "Devasa Adamantin Matkabı",
     "korean": "아다만타이트 채굴기",
   },
   "trainStationWithName": { // like "Train Station Alpha"
@@ -1346,39 +1346,44 @@
     "german": "Bahnhof %name%",
     "french": "Gare %name%",
     "thai": "สถานีรถไฟ %name%",
-    "turkish":"Tren istasyonu %name%",
-    "russian": "Станция %name%"
+    "turkish": "Tren istasyonu %name%",
+    "russian": "Станция %name%",
+    "polish": "Stacja kolejowa %name%",
   },
-  "trainstation_2R":  {
+  "trainstation_2R": {
     "english": "Small Train Station",
     "german": "Kleiner Bahnhof",
     "french": "Petite gare",
     "thai": "สถานีรถไฟขนาดเล็ก",
-    "turkish":"Küçük Tren İstasyonu",
-    "russian": "Малый вокзал"
+    "turkish": "Küçük Tren İstasyonu",
+    "russian": "Малый вокзал",
+    "polish": "Mała stacja kolejowa",
   },
-  "trainstation_4R":  {
+  "trainstation_4R": {
     "english": "Medium Train Station",
     "german": "Mittlerer Bahnhof",
     "french": "Gare moyenne",
     "thai": "สถานีรถไฟขนาดกลาง",
-    "turkish":"Orta Tren İstasyonu",
-    "russian": "Средний вокзал"
+    "turkish": "Orta Tren İstasyonu",
+    "russian": "Средний вокзал",
+    "polish": "Średnia stacja kolejowa",
   },
-  "trainstation_6R":  {
+  "trainstation_6R": {
     "english": "Large Train Station",
     "german": "Großer Bahnhof",
     "french": "Grande gare",
     "thai": "สถานีรถไฟขนาดใหญ่",
-    "turkish":"Büyük Tren İstasyonu",
-    "russian": "Большой вокзал"
+    "turkish": "Büyük Tren İstasyonu",
+    "russian": "Большой вокзал",
+    "polish": "Duża stacja kolejowa",
   },
-  "trainstation_8R":  {
+  "trainstation_8R": {
     "english": "Main Train Station",
     "german": "Hauptbahnhof",
     "french": "Gare principale",
     "thai": "สถานีรถไฟหลัก",
-    "turkish":"Anan Tren İstasyonu",
-    "russian": "Главный вокзал"
+    "turkish": "Anan Tren İstasyonu",
+    "russian": "Главный вокзал",
+    "polish": "Dworzec główny",
   },
 }

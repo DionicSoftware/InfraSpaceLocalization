@@ -1,157 +1,178 @@
 { // used for something like "Train Station Alpha"
-	"alpha":  {
-		  "english": "Alpha",
-		  "german": "Alpha",
-		  "french": "Alpha",
-		  "turkish":"Alfa",
-		  "russian": "Альфа"
+	"alpha": {
+		"english": "Alpha",
+		"german": "Alpha",
+		"french": "Alpha",
+		"turkish": "Alfa",
+		"russian": "Альфа",
+		"polish": "Alfa",
 	},
-	"beta":  {
-		  "english": "Beta",
-		  "german": "Beta",
-		  "french": "Bêta",
-		  "turkish":"Beta",
-		  "russian": "Бета"
+	"beta": {
+		"english": "Beta",
+		"german": "Beta",
+		"french": "Bêta",
+		"turkish": "Beta",
+		"russian": "Бета",
+		"polish": "Beta",
 	},
-	"gamma":  {
-		  "english": "Gamma",
-		  "german": "Gamma",
-		  "french": "Gamma",
-		  "turkish":"Gama",
-		  "russian": "Гамма"
+	"gamma": {
+		"english": "Gamma",
+		"german": "Gamma",
+		"french": "Gamma",
+		"turkish": "Gama",
+		"russian": "Гамма",
+		"polish": "Gamma",
 	},
-	"delta":  {
-		  "english": "Delta",
-		  "german": "Delta",
-		  "french": "Delta",
-		  "turkish":"Delta",
-		  "russian": "Дельта"
+	"delta": {
+		"english": "Delta",
+		"german": "Delta",
+		"french": "Delta",
+		"turkish": "Delta",
+		"russian": "Дельта",
+		"polish": "Delta",
 	},
-	"epsilon":  {
-		  "english": "Epsilon",
-		  "german": "Epsilon",
-		  "french": "Epsilon",
-		  "turkish":"Epsilon",
-		  "russian": "Эпсилон"
+	"epsilon": {
+		"english": "Epsilon",
+		"german": "Epsilon",
+		"french": "Epsilon",
+		"turkish": "Epsilon",
+		"russian": "Эпсилон",
+		"polish": "Epsilon",
 	},
-	"zeta":  {
-		  "english": "Zeta",
-		  "german": "Zeta",
-		  "french": "Zêta",
-		  "turkish":"Zeta",
-		  "russian": "Зета"
+	"zeta": {
+		"english": "Zeta",
+		"german": "Zeta",
+		"french": "Zêta",
+		"turkish": "Zeta",
+		"russian": "Зета",
+		"polish": "Dzeta",
 	},
-	"theta":  {
-		  "english": "Theta",
-		  "german": "Theta",
-		  "french": "Thêta",
-		  "turkish":"Teta",
-		  "russian": "Тета"
+	"theta": {
+		"english": "Theta",
+		"german": "Theta",
+		"french": "Thêta",
+		"turkish": "Teta",
+		"russian": "Тета",
+		"polish": "Theta",
 	},
-	"iota":  {
-		  "english": "Iota",
-		  "german": "Iota",
-		  "french": "Iota",
-		  "turkish":"İota",
-		  "russian": "Йота"
+	"iota": {
+		"english": "Iota",
+		"german": "Iota",
+		"french": "Iota",
+		"turkish": "İota",
+		"russian": "Йота",
+		"polish": "Jota",
 	},
-	"kappa":  {
-		  "english": "Kappa",
-		  "german": "Kappa",
-		  "french": "Kappa",
-		  "turkish":"Kapa",
-		  "russian": "Каппа"
+	"kappa": {
+		"english": "Kappa",
+		"german": "Kappa",
+		"french": "Kappa",
+		"turkish": "Kapa",
+		"russian": "Каппа",
+		"polish": "Kappa",
 	},
-	"lambda":  {
-		  "english": "Lambda",
-		  "german": "Lambda",
-		  "french": "Lambda",
-		  "turkish":"Lamda",
-		  "russian": "Лямбда"
+	"lambda": {
+		"english": "Lambda",
+		"german": "Lambda",
+		"french": "Lambda",
+		"turkish": "Lamda",
+		"russian": "Лямбда",
+		"polish": "Lambda",
 	},
-	"mu":  {
-		  "english": "Mu",
-		  "german": "Mu",
-		  "french": "Mu",
-		  "turkish":"Mi",
-		  "russian": "Му"
+	"mu": {
+		"english": "Mu",
+		"german": "Mu",
+		"french": "Mu",
+		"turkish": "Mi",
+		"russian": "Му",
+		"polish": "My",
 	},
-	"xi":  {
-		  "english": "Xi",
-		  "german": "Xi",
-		  "french": "Xi",
-		  "turkish":"Hi",
-		  "russian": "Кси"
+	"xi": {
+		"english": "Xi",
+		"german": "Xi",
+		"french": "Xi",
+		"turkish": "Hi",
+		"russian": "Кси",
+		"polish": "Ksi",
 	},
-	"omicron":  {
-		  "english": "Omicron",
-		  "german": "Omicron",
-		  "french": "Omicron",
-		  "turkish":"Omicron",
-		  "russian": "Омикрон"
+	"omicron": {
+		"english": "Omicron",
+		"german": "Omicron",
+		"french": "Omicron",
+		"turkish": "Omicron",
+		"russian": "Омикрон",
+		"polish": "Omikron",
 	},
-	"pi":  {
-		  "english": "Pi",
-		  "german": "Pi",
-		  "french": "Pi",
-		  "turkish":"Pi",
-		  "russian": "Пи"
+	"pi": {
+		"english": "Pi",
+		"german": "Pi",
+		"french": "Pi",
+		"turkish": "Pi",
+		"russian": "Пи",
+		"polish": "Pi",
 	},
-	"rho":  {
-		  "english": "Rho",
-		  "german": "Rho",
-		  "french": "Rhô",
-		  "turkish":"Ro",
-		  "russian": "Ро"
+	"rho": {
+		"english": "Rho",
+		"german": "Rho",
+		"french": "Rhô",
+		"turkish": "Ro",
+		"russian": "Ро",
+		"polish": "Ro",
 	},
-	"sigma":  {
-		  "english": "Sigma",
-		  "german": "Sigma",
-		  "french": "Sigma",
-		  "turkish":"Sigma",
-		  "russian": "Сигма"
+	"sigma": {
+		"english": "Sigma",
+		"german": "Sigma",
+		"french": "Sigma",
+		"turkish": "Sigma",
+		"russian": "Сигма",
+		"polish": "Sigma",
 	},
-	"tau":  {
-		  "english": "Tau",
-		  "german": "Tau",
-		  "french": "Tau",
-		  "turkish":"Tav",
-		  "russian": "Тау"
+	"tau": {
+		"english": "Tau",
+		"german": "Tau",
+		"french": "Tau",
+		"turkish": "Tav",
+		"russian": "Тау",
+		"polish": "Tau",
 	},
-	"upsilon":  {
-		  "english": "Upsilon",
-		  "german": "Upsilon",
-		  "french": "Upsilon",
-		  "turkish":"Upsilon",
-		  "russian": "Ипсилон"
+	"upsilon": {
+		"english": "Upsilon",
+		"german": "Upsilon",
+		"french": "Upsilon",
+		"turkish": "Upsilon",
+		"russian": "Ипсилон",
+		"polish": "Ipsilon",
 	},
-	"phi":  {
-		  "english": "Phi",
-		  "german": "Phi",
-		  "french": "Phi",
-		"turkish":"Fi",
-		  "russian": "Пхи"
+	"phi": {
+		"english": "Phi",
+		"german": "Phi",
+		"french": "Phi",
+		"turkish": "Fi",
+		"russian": "Пхи",
+		"polish": "Phi",
 	},
-	"chi":  {
-		  "english": "Chi",
-		  "german": "Chi",
-		  "french": "Khi",
-		  "turkish":"Ksi",
-		  "russian": "Чи"
+	"chi": {
+		"english": "Chi",
+		"german": "Chi",
+		"french": "Khi",
+		"turkish": "Ksi",
+		"russian": "Чи",
+		"polish": "Ki",
 	},
-	"psi":  {
-		  "english": "Psi",
-		  "german": "Psi",
-		  "french": "Psi",
-		  "turkish":"Psi",
-		  "russian": "Пси"
+	"psi": {
+		"english": "Psi",
+		"german": "Psi",
+		"french": "Psi",
+		"turkish": "Psi",
+		"russian": "Пси",
+		"polish": "Psi",
 	},
-	"omega":  {
-		  "english": "Omega",
-		  "german": "Omega",
-		  "french": "Oméga",
-		  "turkish":"Omega",
-		  "russian": "Омега"
+	"omega": {
+		"english": "Omega",
+		"german": "Omega",
+		"french": "Oméga",
+		"turkish": "Omega",
+		"russian": "Омега",
+		"polish": "Omega",
 	},
 }
-  
