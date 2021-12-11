@@ -15,7 +15,7 @@
 		"portuguese": "Rede elétrica %id%",
 		"czech": "Napájecí síť %id%",
 		"hungarian": "%id%. elektromos hálózat",
-		"thai": "เครือข่ายพลังงาน %id%",
+		"thai": "เครือข่ายแหล่งพลังงานที่ %id%",
 		"turkish": "Güç Ağı %id%",
 	},
 	"powerRequired": {
@@ -1990,6 +1990,7 @@
 		"turkish": "Tren",
 		"russian": "Поезд",
 		"polish": "Pociąg",
+		"thai":"รถไฟ"
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -1998,6 +1999,7 @@
 		"turkish": "Taşıyor",
 		"russian": "Транспортировка",
 		"polish": "Transportowanie",
+		"thai":"การขนส่ง"
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2006,6 +2008,7 @@
 		"turkish": "Sonraki istasyon",
 		"russian": "Следующая станция",
 		"polish": "Następna stacja",
+		"thai":"สถานีต่อไป"
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2015,6 +2018,7 @@
 		"russian": "Доставочный грузовик",
 		"turkish": "Teslimat Kamyonu",
 		"polish": "Samochód dostawczy",
+		"thai":"บรรทุกส่งของ"
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2023,6 +2027,7 @@
 		"russian": "Цель",
 		"turkish": "Hedef",
 		"polish": "Cel",
+		"thai":"เป้าหมาย"
 	},
 	// train line info panel
 	"trainLines": {
@@ -2032,6 +2037,7 @@
 		"russian": "Линии поездов",
 		"turkish": "Tren Hatları",
 		"polish": "Linie pociągów",
+		"thai":"เส้นทางรถไฟ"
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2040,6 +2046,7 @@
 		"russian": "Всего перевезено товаров: %amount%",
 		"turkish": "Taşınan toplam malzeme miktarı: %amount%",
 		"polish": "Suma przetransportowanych towarów: %amount%",
+		"thai":"ยอดรวมสินค้าที่ขนส่ง: %amount%"
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
@@ -2048,6 +2055,7 @@
 		"russian": "Поездов на линии: %amount%",
 		"turkish": "Hat üzerindeki tren sayısı: %amount%",
 		"polish": "Pociągów na wybranej linii: %amount%",
+		"thai":"รถไฟอยู่ในเส้นทาง: %amount%"
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2056,6 +2064,7 @@
 		"russian": "Цвет поезда",
 		"turkish": "Tren rengi",
 		"polish": "Kolor pociągu",
+		"thai":"สีรถไฟ"
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2065,6 +2074,7 @@
 		"russian": "Сигналы поезда",
 		"turkish": "Tren Sinyalizasyonu",
 		"polish": "Sygnalizacja pociągu",
+		"thai":"สัญญาณรถไฟ"
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2073,6 +2083,7 @@
 		"russian": "Красные рельсы обозначают участки, где есть шанс столкновения поездов.",
 		"turkish": "Kırmızı raylar trenlerin çakışabileceği yerleri gösterir.",
 		"polish": "Czerwone tory oznaczają odcinki, na których może dojść do kolizji pociągów.",
+		"thai":"รางสีแดงระบุส่วนที่รถไฟสามารถชนกันได้"
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2081,6 +2092,7 @@
 		"russian": "Оранжевые рельсы обозначают пересечения железных дорог. Они создаются вокруг красных сегментов. В большинстве случаев на перекресток может одновременно заходить только один поезд.",
 		"turkish": "Turuncu raylar, ray kesişimlerini gösterir. BUnlar kırmızı bölümlerin etrafında oluşur. Çoğu durumda bir kesişime aynı anda sadece bir tren girebilir.",
 		"polish": "Pomarańczowe tory wskazują skrzyżowania torów. Otaczają one czerwone odcinki. W większości przypadków tylko jeden pociąg może przejeżdżać przez skrzyżowanie na raz.",
+		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น"
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2089,6 +2101,7 @@
 		"russian": "Зеленые рельсы - это прямые участки без риска столкновения.",
 		"turkish": "Yeşil raylar çakışma riskinin olmadığı, düz bölümlerdir.",
 		"polish": "Zielone tory to proste odcinki, na których nie ma ryzyka kolizji.",
+		"thai":"รางสีเขียวเป็นทางตรงไม่เสี่ยงต่อการชน"
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2097,6 +2110,7 @@
 		"russian": "Система сигналов поездов предотвращает столкновение или блокировку ваших поездов друг с другом.",
 		"turkish": "Tren sinyalizasyon sistemi trenlerinizin birbiriyle çakışmasını engeller.",
 		"polish": "System sygnalizacji pociągów zapobiega kolizjom oraz wzajemnemu blokowaniu się pociągów.",
+		"thai":"ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง"
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2105,6 +2119,7 @@
 		"russian": "Для максимальной пропускной способности убедитесь, что у вас достаточно места с длинными зелеными сегментами между перекрестками.",
 		"turkish": "En yüksek verim için kesişimlerinizin arasında yeterli uzunlukta yeşil kısımlar bıraktığınızdan emin olun.",
 		"polish": "Aby osiągnąć najwyższą przepustowość upewnij się, że pomiędzy skrzyżowaniami jest wystarczająco dużo zielonych odcinków.",
+		"thai":"สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก"
 	},
 	"rails": {
 		"english": "Rails",
@@ -2113,5 +2128,6 @@
 		"russian": "Рельсы",
 		"turkish": "Raylar",
 		"polish": "Tory",
+		"thai":"รางรถไฟ"
 	},
 }
