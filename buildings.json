@@ -1349,6 +1349,7 @@
     "turkish": "Tren istasyonu %name%",
     "russian": "Станция %name%",
     "polish": "Stacja kolejowa %name%",
+    "italian": "Stazione ferroviaria %name%",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1358,6 +1359,7 @@
     "turkish": "Küçük Tren İstasyonu",
     "russian": "Малый вокзал",
     "polish": "Mała stacja kolejowa",
+    "italian": "Stazione Ferroviaria Piccola",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1367,6 +1369,7 @@
     "turkish": "Orta Tren İstasyonu",
     "russian": "Средний вокзал",
     "polish": "Średnia stacja kolejowa",
+    "italian": "Stazione Ferroviaria Media",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1376,6 +1379,7 @@
     "turkish": "Büyük Tren İstasyonu",
     "russian": "Большой вокзал",
     "polish": "Duża stacja kolejowa",
+    "italian": "Stazione Ferroviaria Grande",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -1385,5 +1389,6 @@
     "turkish": "Anan Tren İstasyonu",
     "russian": "Главный вокзал",
     "polish": "Dworzec główny",
+    "italian": "Stazione Ferroviaria Principale",
   },
 }
