@@ -7,6 +7,7 @@
 		"russian": "Альфа",
 		"polish": "Alfa",
 		"thai": "อัลฟา",
+		"italian": "Alfa",
 	},
 	"beta": {
 		"english": "Beta",
@@ -16,6 +17,7 @@
 		"russian": "Бета",
 		"polish": "Beta",
 		"thai": "เบต้า",
+		"italian": "Beta",
 	},
 	"gamma": {
 		"english": "Gamma",
@@ -25,6 +27,7 @@
 		"russian": "Гамма",
 		"polish": "Gamma",
 		"thai": "แกมม่า",
+		"italian": "Gamma",
 	},
 	"delta": {
 		"english": "Delta",
@@ -34,6 +37,7 @@
 		"russian": "Дельта",
 		"polish": "Delta",
 		"thai": "เดลต้า",
+		"italian": "Delta",
 	},
 	"epsilon": {
 		"english": "Epsilon",
@@ -43,6 +47,7 @@
 		"russian": "Эпсилон",
 		"polish": "Epsilon",
 		"thai": "เอปซิลอน",
+		"italian": "Epsilon",
 	},
 	"zeta": {
 		"english": "Zeta",
@@ -52,6 +57,7 @@
 		"russian": "Зета",
 		"polish": "Dzeta",
 		"thai": "ซีตา",
+		"italian": "Zeta",
 	},
 	"theta": {
 		"english": "Theta",
@@ -61,6 +67,7 @@
 		"russian": "Тета",
 		"polish": "Theta",
 		"thai": "ทีตา",
+		"italian": "Teta",
 	},
 	"iota": {
 		"english": "Iota",
@@ -70,6 +77,7 @@
 		"russian": "Йота",
 		"polish": "Jota",
 		"thai": "ไอโอตา",
+		"italian": "Iota",
 	},
 	"kappa": {
 		"english": "Kappa",
@@ -79,6 +87,7 @@
 		"russian": "Каппа",
 		"polish": "Kappa",
 		"thai": "แคปปา",
+		"italian": "Kappa",
 	},
 	"lambda": {
 		"english": "Lambda",
@@ -88,6 +97,7 @@
 		"russian": "Лямбда",
 		"polish": "Lambda",
 		"thai": "แลมบ์ดา",
+		"italian": "Lambda",
 	},
 	"mu": {
 		"english": "Mu",
@@ -97,6 +107,7 @@
 		"russian": "Му",
 		"polish": "My",
 		"thai": "มิว",
+		"italian": "Mu",
 	},
 	"xi": {
 		"english": "Xi",
@@ -106,6 +117,7 @@
 		"russian": "Кси",
 		"polish": "Ksi",
 		"thai": "ไซ",
+		"italian": "Xi",
 	},
 	"omicron": {
 		"english": "Omicron",
@@ -115,6 +127,7 @@
 		"russian": "Омикрон",
 		"polish": "Omikron",
 		"thai": "โอไมครอน",
+		"italian": "Omicron",
 	},
 	"pi": {
 		"english": "Pi",
@@ -124,6 +137,7 @@
 		"russian": "Пи",
 		"polish": "Pi",
 		"thai": "พาย",
+		"italian": "Pi",
 	},
 	"rho": {
 		"english": "Rho",
@@ -133,6 +147,7 @@
 		"russian": "Ро",
 		"polish": "Ro",
 		"thai": "โร",
+		"italian": "Ro",
 	},
 	"sigma": {
 		"english": "Sigma",
@@ -142,6 +157,7 @@
 		"russian": "Сигма",
 		"polish": "Sigma",
 		"thai": "ซิกม่า",
+		"italian": "Sigma",
 	},
 	"tau": {
 		"english": "Tau",
@@ -151,6 +167,7 @@
 		"russian": "Тау",
 		"polish": "Tau",
 		"thai": "เทา",
+		"italian": "Tau",
 	},
 	"upsilon": {
 		"english": "Upsilon",
@@ -160,6 +177,7 @@
 		"russian": "Ипсилон",
 		"polish": "Ipsilon",
 		"thai": "อิปไซลอน",
+		"italian": "Ipsilon",
 	},
 	"phi": {
 		"english": "Phi",
@@ -169,6 +187,7 @@
 		"russian": "Пхи",
 		"polish": "Phi",
 		"thai": "ฟาย",
+		"italian": "Fi",
 	},
 	"chi": {
 		"english": "Chi",
@@ -178,6 +197,7 @@
 		"russian": "Чи",
 		"polish": "Chi",
 		"thai": "ไค",
+		"italian": "Chi",
 	},
 	"psi": {
 		"english": "Psi",
@@ -187,6 +207,7 @@
 		"russian": "Пси",
 		"polish": "Psi",
 		"thai": "พไซ",
+		"italian": "Psi",
 	},
 	"omega": {
 		"english": "Omega",
@@ -196,5 +217,6 @@
 		"russian": "Омега",
 		"polish": "Omega",
 		"thai": "โอเมกา",
+		"italian": "Omega",
 	},
 }
