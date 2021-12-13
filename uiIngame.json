@@ -798,6 +798,7 @@
 		"hungarian": "Statisztikák",
 		"thai": "สถิติเมือง",
 		"turkish": "Şehir İstatistikleri",
+		"italian": "Statistiche della città",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -919,7 +920,7 @@
 		"french": "Boosté par les bâtiments voisins",
 		"dutch": "Versterkt door naburige gebouwen.",
 		"chinese": "受到邻近建筑物的挤压",
-		"italian": "Migliorato dagli edifici vicini",
+		"italian": "Aiutato dagli edifici vicini",
 		"spanish": "Impulsado por los edificios vecinos",
 		"russian": "Усиливается соседними зданиями",
 		"japanese": "近隣建築による稼働率アップ",
@@ -1062,6 +1063,7 @@
 		"thai": "สามารถย้อนทิศทางถนนหากคุณไม่ได้เลือกถนนที่จะแทนที่",
 		"turkish": "Eğer değiştirilecek yol seçili değilse yolun yönünü değiştirir.",
 		"russian": "Также меняет направление дороги, если у вас не выбрана дорога для замены",
+		"italian": "Inverte anche la direzione della strada se non hai selezionato una strada alternativa",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1079,6 +1081,7 @@
 		"thai": "ย้อนถนน",
 		"turkish": "Yolun Yönünü Değiştir",
 		"russian": "Обратная дорога",
+		"italian": "Inverti strada",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1105,6 +1108,7 @@
 		"french": "Vue des signaux de trains",
 		"russian": "Просмотр сигналов поезда",
 		"turkish": "Tren Sinyalleri Görünümü",
+		"italian": "Vista dei segnali ferroviari",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1209,7 +1213,7 @@
 		"dutch": "Gebouw botst met iets",
 		"chinese": "建筑物与物体发生冲突",
 		"russian": "Зданию что-то мешает",
-		"italian": "L'edificio è in collisione con qualcosa",
+		"italian": "L'edificio è sovrapposto a qualcosa",
 		"spanish": "El edificio está en colisión con algo",
 		"japanese": "他の建物などに接触",
 		"polish": "Budynek koliduje",
@@ -1228,7 +1232,7 @@
 		"dutch": "Gebrouw niet op de bron geplaatst",
 		"chinese": "建筑物未放置在资源储藏上",
 		"russian": "Здание не размещено на залежи ресурсов",
-		"italian": "Edificio non si trova su un deposito di risorse",
+		"italian": "L'edificio non si trova su un deposito di risorse",
 		"spanish": "Edificio no colocado sobre un depósito de recursos",
 		"japanese": "資源採取地外に設置",
 		"polish": "Budynek nie jest umieszczony na odpowiednim złożu",
@@ -1247,7 +1251,7 @@
 		"dutch": "Weg botst met iets.",
 		"chinese": "道路与物体发生冲突",
 		"russian": "Дороге что-то мешает",
-		"italian": "La strada è in collisione con qualcosa",
+		"italian": "La strada è sovrapposta a qualcosa",
 		"spanish": "La carretera está en colisión con algo",
 		"japanese": "他の道路などに接触",
 		"polish": "Droga koliduje",
@@ -1341,6 +1345,7 @@
 		"french": "Impasse",
 		"russian": "Тупик",
 		"turkish": "Çıkmaz Yol",
+		"italian": "Strada chiusa",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1387,7 +1392,7 @@
 		"dutch": "Gebwoubezetting (Werknemers & Inwoners)",
 		"chinese": "建筑入住率(工人和居民)",
 		"russian": "Заселенность здания (рабочие и жители)",
-		"italian": "Occupazioni dell'edificio (Lavoratori & Abitanti)",
+		"italian": "Occupazione dell'edificio (Lavoratori & Abitanti)",
 		"spanish": "Ocupación del edificio (Obreros & Habitantes)",
 		"japanese": "住民･労働者入居率",
 		"polish": "Obłożenie budynku (pracownicy i mieszkańcy)",
@@ -1891,6 +1896,7 @@
 		"hungarian": "Termelési nézet",
 		"thai": "ภาพรวมการผลิต",
 		"turkish": "Üretim Özeti",
+		"italian": "Panoramica della Produzione",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -1909,6 +1915,7 @@
 		"hungarian": "Anyagok",
 		"thai": "ทรัพยากร",
 		"turkish": "Ürün",
+		"italian": "Risorsa",
 	},
 	"priority": {
 		"english": "Priority",
@@ -1927,6 +1934,7 @@
 		"hungarian": "Prioritás",
 		"thai": "ลำดับความสำคัญ",
 		"turkish": "Öncelik",
+		"italian": "Priorità",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -1945,6 +1953,7 @@
 		"hungarian": "Város szintje",
 		"thai": "ระดับเมือง",
 		"turkish": "Şehir Seviyesi",
+		"italian": "Livello della Città",
 	},
 	"averageHabitatLevel": {
 		"english": "Average habitat level",
@@ -1954,6 +1963,7 @@
 		"turkish": "Ortalama habitat seviyesi",
 		"russian": "Средний уровень среды обитания",
 		"polish": "Średni poziom budynków mieszkalnych",
+		"italian": "Livello Medio Habitat",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -1963,6 +1973,7 @@
 		"turkish": "Gerekli habitat seviyesi",
 		"russian": "Требуемый уровень среды обитания",
 		"polish": "Wymagany poziom budynków mieszkalnych",
+		"italian": "Livello Habitat richiesto",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -1972,6 +1983,7 @@
 		"turkish": "Evrensel Depo",
 		"russian": "Глобальное хранилище",
 		"polish": "Magazyn globalny",
+		"italian": "Immagazzinamento globale",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
@@ -1981,6 +1993,7 @@
 		"turkish": "Yapı malzemeleri deposu bina inşa etmek için gerekli olan betonu ve çeliği saklar.",
 		"russian": "На складе строительных материалов хранится бетон и сталь, необходимые для строительства зданий и инфраструктуры.",
 		"polish": "W magazynie materiałów budowlanych przechowywany jest beton oraz stal, które są niezbędne do budowy budynków i infrastruktury.",
+		"italian": "I magazzini per i materiali da costruzione contengono cemento ed acciaio, di cui hai bisogno per construire edifici ed infrastrutture.",
 	},
 	// train info panel
 	"train": {
@@ -1990,7 +2003,8 @@
 		"turkish": "Tren",
 		"russian": "Поезд",
 		"polish": "Pociąg",
-		"thai":"รถไฟ"
+		"thai":"รถไฟ",
+		"italian": "Treno",
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -1999,7 +2013,8 @@
 		"turkish": "Taşıyor",
 		"russian": "Транспортировка",
 		"polish": "Transportowanie",
-		"thai":"การขนส่ง"
+		"thai":"การขนส่ง",
+		"italian": "Trasporto",
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2008,7 +2023,8 @@
 		"turkish": "Sonraki istasyon",
 		"russian": "Следующая станция",
 		"polish": "Następna stacja",
-		"thai":"สถานีต่อไป"
+		"thai":"สถานีต่อไป",
+		"italian": "Prossima Stazione",
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2018,7 +2034,8 @@
 		"russian": "Доставочный грузовик",
 		"turkish": "Teslimat Kamyonu",
 		"polish": "Samochód dostawczy",
-		"thai":"บรรทุกส่งของ"
+		"thai":"บรรทุกส่งของ",
+		"italian": "Camion delle consegne",
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2027,7 +2044,8 @@
 		"russian": "Цель",
 		"turkish": "Hedef",
 		"polish": "Cel",
-		"thai":"เป้าหมาย"
+		"thai":"เป้าหมาย",
+		"italian": "Obiettivo",
 	},
 	// train line info panel
 	"trainLines": {
@@ -2037,7 +2055,8 @@
 		"russian": "Линии поездов",
 		"turkish": "Tren Hatları",
 		"polish": "Linie pociągów",
-		"thai":"เส้นทางรถไฟ"
+		"thai":"เส้นทางรถไฟ",
+		"italian": "Binari",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2046,7 +2065,8 @@
 		"russian": "Всего перевезено товаров: %amount%",
 		"turkish": "Taşınan toplam malzeme miktarı: %amount%",
 		"polish": "Suma przetransportowanych towarów: %amount%",
-		"thai":"ยอดรวมสินค้าที่ขนส่ง: %amount%"
+		"thai":"ยอดรวมสินค้าที่ขนส่ง: %amount%",
+		"italian": "Beni trasportati totali: %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
@@ -2055,7 +2075,8 @@
 		"russian": "Поездов на линии: %amount%",
 		"turkish": "Hat üzerindeki tren sayısı: %amount%",
 		"polish": "Pociągów na wybranej linii: %amount%",
-		"thai":"รถไฟอยู่ในเส้นทาง: %amount%"
+		"thai":"รถไฟอยู่ในเส้นทาง: %amount%",
+		"italian": "Treni sulla linea: %amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2064,7 +2085,8 @@
 		"russian": "Цвет поезда",
 		"turkish": "Tren rengi",
 		"polish": "Kolor pociągu",
-		"thai":"สีรถไฟ"
+		"thai":"สีรถไฟ",
+		"italian": "Colore del treno",
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2074,7 +2096,8 @@
 		"russian": "Сигналы поезда",
 		"turkish": "Tren Sinyalizasyonu",
 		"polish": "Sygnalizacja pociągu",
-		"thai":"สัญญาณรถไฟ"
+		"thai":"สัญญาณรถไฟ",
+		"italian": "Segnali dei treni",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2083,7 +2106,8 @@
 		"russian": "Красные рельсы обозначают участки, где есть шанс столкновения поездов.",
 		"turkish": "Kırmızı raylar trenlerin çakışabileceği yerleri gösterir.",
 		"polish": "Czerwone tory oznaczają odcinki, na których może dojść do kolizji pociągów.",
-		"thai":"รางสีแดงระบุส่วนที่รถไฟสามารถชนกันได้"
+		"thai":"รางสีแดงระบุส่วนที่รถไฟสามารถชนกันได้",
+		"italian": "I binari rossi indicano i segmenti in cui i treni possono entrare in collisione",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2092,7 +2116,8 @@
 		"russian": "Оранжевые рельсы обозначают пересечения железных дорог. Они создаются вокруг красных сегментов. В большинстве случаев на перекресток может одновременно заходить только один поезд.",
 		"turkish": "Turuncu raylar, ray kesişimlerini gösterir. BUnlar kırmızı bölümlerin etrafında oluşur. Çoğu durumda bir kesişime aynı anda sadece bir tren girebilir.",
 		"polish": "Pomarańczowe tory wskazują skrzyżowania torów. Otaczają one czerwone odcinki. W większości przypadków tylko jeden pociąg może przejeżdżać przez skrzyżowanie na raz.",
-		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น"
+		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น",	 
+		"italian": "I binari arancioni mostrano gli incroci fra i binari. Sono create attorno ai segmenti rossi. In molti casi solo un treno alla volta può occupare l'incrocio." 
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2101,7 +2126,8 @@
 		"russian": "Зеленые рельсы - это прямые участки без риска столкновения.",
 		"turkish": "Yeşil raylar çakışma riskinin olmadığı, düz bölümlerdir.",
 		"polish": "Zielone tory to proste odcinki, na których nie ma ryzyka kolizji.",
-		"thai":"รางสีเขียวเป็นทางตรงไม่เสี่ยงต่อการชน"
+		"thai":"รางสีเขียวเป็นทางตรงไม่เสี่ยงต่อการชน",
+		"italian": "I binari verdi sono segmenti rettilinei senza rischio di collisione.",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2110,7 +2136,8 @@
 		"russian": "Система сигналов поездов предотвращает столкновение или блокировку ваших поездов друг с другом.",
 		"turkish": "Tren sinyalizasyon sistemi trenlerinizin birbiriyle çakışmasını engeller.",
 		"polish": "System sygnalizacji pociągów zapobiega kolizjom oraz wzajemnemu blokowaniu się pociągów.",
-		"thai":"ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง"
+		"thai":"ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง",
+		"italian": "Il sistema di segnali per i treni impedisce ai tuoi treni di entrare in collisione o di bloccarsi.",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2119,7 +2146,8 @@
 		"russian": "Для максимальной пропускной способности убедитесь, что у вас достаточно места с длинными зелеными сегментами между перекрестками.",
 		"turkish": "En yüksek verim için kesişimlerinizin arasında yeterli uzunlukta yeşil kısımlar bıraktığınızdan emin olun.",
 		"polish": "Aby osiągnąć najwyższą przepustowość upewnij się, że pomiędzy skrzyżowaniami jest wystarczająco dużo zielonych odcinków.",
-		"thai":"สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก"
+		"thai":"สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก",
+		"italian": "Per avere un flusso ottimale, accertati di avere abbastanza spazio con lunghi segmenti verdi fra gli incroci.",
 	},
 	"rails": {
 		"english": "Rails",
@@ -2128,6 +2156,7 @@
 		"russian": "Рельсы",
 		"turkish": "Raylar",
 		"polish": "Tory",
-		"thai":"รางรถไฟ"
+		"thai":"รางรถไฟ",
+		"italian": "Binari",
 	},
 }
