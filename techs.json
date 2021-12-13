@@ -625,7 +625,8 @@
     "german": "Züge",
 		"french": "Trains",
     "russian": "Поезда",
-	"turkish":"Trenler",  
+	"turkish":"Trenler", 
+	"italian": "Treni",
   },
   "tech_superhighways": {
     "english": "Superhighways",
