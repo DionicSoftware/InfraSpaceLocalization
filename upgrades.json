@@ -277,7 +277,7 @@
 		  "hungarian": "A 100%-os fejlesztés vadonat új, a 0%-os teljesen elhasznált. A fejlesztés addig aktív amíg 0% felett van.",
 		  "thai": "อัปเกรด 100% คือเครื่องใหม่ อัปเกรด 0% คือใช้มันจนหมด ผลกระทบของอัปเกรดจะใช้งานได้ตราบใดที่เปอร์เซ็นต์นั้นสูงกว่า 0",
 		  "turkish":"%100 olan bir yükseltme yeni, %0 olan ise bitikdir. Yükseltmenin etkisi yüzde 0 dan yüksek oldukca geçerlidir.",
-		  "danish":"En 100% opgradering er spritny, en 0% opgradering er opbrugt. Effekten af opgraderingen er aktiv så længe procentsatsen er over 0.",
+		  "danish":"En 100% opgradering er sprit-ny, en 0% opgradering er opbrugt. Effekten af opgraderingen er aktiv så længe procentsatsen er over 0.",
 	  },
   }
   
