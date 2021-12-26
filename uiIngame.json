@@ -1346,6 +1346,7 @@
 		"russian": "Тупик",
 		"turkish": "Çıkmaz Yol",
 		"italian": "Strada chiusa",
+		"hungarian": "Zsákutca",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1964,6 +1965,7 @@
 		"russian": "Средний уровень среды обитания",
 		"polish": "Średni poziom budynków mieszkalnych",
 		"italian": "Livello Medio Habitat",
+		"hungarian": "Átlagos lakhely szint",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -1974,6 +1976,7 @@
 		"russian": "Требуемый уровень среды обитания",
 		"polish": "Wymagany poziom budynków mieszkalnych",
 		"italian": "Livello Habitat richiesto",
+		"hungarian": "Szükséges lakhely szint",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -1984,6 +1987,7 @@
 		"russian": "Глобальное хранилище",
 		"polish": "Magazyn globalny",
 		"italian": "Immagazzinamento globale",
+		"hungarian": "Globális raktár",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
@@ -1994,6 +1998,7 @@
 		"russian": "На складе строительных материалов хранится бетон и сталь, необходимые для строительства зданий и инфраструктуры.",
 		"polish": "W magazynie materiałów budowlanych przechowywany jest beton oraz stal, które są niezbędne do budowy budynków i infrastruktury.",
 		"italian": "I magazzini per i materiali da costruzione contengono cemento ed acciaio, di cui hai bisogno per construire edifici ed infrastrutture.",
+		"hungarian": "Az építőanyag raktár betont és acélt tárol, amik kellenek az épületek és az infrastruktúra megépítéséhez."
 	},
 	// train info panel
 	"train": {
@@ -2005,6 +2010,7 @@
 		"polish": "Pociąg",
 		"thai":"รถไฟ",
 		"italian": "Treno",
+		"hungarian": "Vonat",
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -2015,6 +2021,7 @@
 		"polish": "Transportowanie",
 		"thai":"การขนส่ง",
 		"italian": "Trasporto",
+		"hungarian": "Szállít",
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2025,6 +2032,7 @@
 		"polish": "Następna stacja",
 		"thai":"สถานีต่อไป",
 		"italian": "Prossima Stazione",
+		"hungarian": "Következő megálló",
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2036,6 +2044,7 @@
 		"polish": "Samochód dostawczy",
 		"thai":"บรรทุกส่งของ",
 		"italian": "Camion delle consegne",
+		"hungarian": "", //check in-game
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2046,6 +2055,7 @@
 		"polish": "Cel",
 		"thai":"เป้าหมาย",
 		"italian": "Obiettivo",
+		"hungarian": "Cél",
 	},
 	// train line info panel
 	"trainLines": {
@@ -2057,6 +2067,7 @@
 		"polish": "Linie pociągów",
 		"thai":"เส้นทางรถไฟ",
 		"italian": "Binari",
+		"hungarian": "Vasutak",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2067,6 +2078,7 @@
 		"polish": "Suma przetransportowanych towarów: %amount%",
 		"thai":"ยอดรวมสินค้าที่ขนส่ง: %amount%",
 		"italian": "Beni trasportati totali: %amount%",
+		"hungarian": "Összes szállított termék: %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
@@ -2077,6 +2089,7 @@
 		"polish": "Pociągów na wybranej linii: %amount%",
 		"thai":"รถไฟอยู่ในเส้นทาง: %amount%",
 		"italian": "Treni sulla linea: %amount%",
+		"hungarian": "Aktív vonatok",
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2087,6 +2100,7 @@
 		"polish": "Kolor pociągu",
 		"thai":"สีรถไฟ",
 		"italian": "Colore del treno",
+		"hungarian": "Vonat színe",
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2098,6 +2112,7 @@
 		"polish": "Sygnalizacja pociągu",
 		"thai":"สัญญาณรถไฟ",
 		"italian": "Segnali dei treni",
+		"hungarian": "Vonat jelzés",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2108,6 +2123,7 @@
 		"polish": "Czerwone tory oznaczają odcinki, na których może dojść do kolizji pociągów.",
 		"thai":"รางสีแดงระบุส่วนที่รถไฟสามารถชนกันได้",
 		"italian": "I binari rossi indicano i segmenti in cui i treni possono entrare in collisione",
+		"hungarian": "A piros sínek vonatok lehetséges ütközését jelzik.",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2117,7 +2133,8 @@
 		"turkish": "Turuncu raylar, ray kesişimlerini gösterir. BUnlar kırmızı bölümlerin etrafında oluşur. Çoğu durumda bir kesişime aynı anda sadece bir tren girebilir.",
 		"polish": "Pomarańczowe tory wskazują skrzyżowania torów. Otaczają one czerwone odcinki. W większości przypadków tylko jeden pociąg może przejeżdżać przez skrzyżowanie na raz.",
 		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น",	 
-		"italian": "I binari arancioni mostrano gli incroci fra i binari. Sono create attorno ai segmenti rossi. In molti casi solo un treno alla volta può occupare l'incrocio." 
+		"italian": "I binari arancioni mostrano gli incroci fra i binari. Sono create attorno ai segmenti rossi. In molti casi solo un treno alla volta può occupare l'incrocio.",
+		"hungarian": "A narancssárga sínek kereszteződéseket jeleznek. Ezek a piros részek körül jönnek létre. A legtöbb esetben csak egy vonat egyszerre kereszteződést használni",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2128,6 +2145,7 @@
 		"polish": "Zielone tory to proste odcinki, na których nie ma ryzyka kolizji.",
 		"thai":"รางสีเขียวเป็นทางตรงไม่เสี่ยงต่อการชน",
 		"italian": "I binari verdi sono segmenti rettilinei senza rischio di collisione.",
+		"hungarian": "A zöld sínek egyenes részek ahol nincs esély ütközésre.",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2138,6 +2156,7 @@
 		"polish": "System sygnalizacji pociągów zapobiega kolizjom oraz wzajemnemu blokowaniu się pociągów.",
 		"thai":"ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง",
 		"italian": "Il sistema di segnali per i treni impedisce ai tuoi treni di entrare in collisione o di bloccarsi.",
+		"hungarian": "A vonat jelző rendszer megakadályozza hogy a vonatok ütközzenek, vagy rossz vágányra kerüljenek.",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2148,6 +2167,7 @@
 		"polish": "Aby osiągnąć najwyższą przepustowość upewnij się, że pomiędzy skrzyżowaniami jest wystarczająco dużo zielonych odcinków.",
 		"thai":"สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก",
 		"italian": "Per avere un flusso ottimale, accertati di avere abbastanza spazio con lunghi segmenti verdi fra gli incroci.",
+		"hungarian": "Az elakadásokat el lehet kerülni a kereszteződések között hagyott elegendő hosszúságú egyenes rész.",
 	},
 	"rails": {
 		"english": "Rails",
@@ -2158,5 +2178,6 @@
 		"polish": "Tory",
 		"thai":"รางรถไฟ",
 		"italian": "Binari",
+		"hungarian": "Sínek",
 	},
 }

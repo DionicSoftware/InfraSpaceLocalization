@@ -1350,6 +1350,7 @@
     "russian": "Станция %name%",
     "polish": "Stacja kolejowa %name%",
     "italian": "Stazione ferroviaria %name%",
+    "hungarian": "%name% vasúti megálló",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1360,6 +1361,7 @@
     "russian": "Малый вокзал",
     "polish": "Mała stacja kolejowa",
     "italian": "Stazione Ferroviaria Piccola",
+    "hungarian": "Kis vasútállomás",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1370,6 +1372,7 @@
     "russian": "Средний вокзал",
     "polish": "Średnia stacja kolejowa",
     "italian": "Stazione Ferroviaria Media",
+    "hungarian": "Közepes vasútállomás",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1380,6 +1383,7 @@
     "russian": "Большой вокзал",
     "polish": "Duża stacja kolejowa",
     "italian": "Stazione Ferroviaria Grande",
+    "hungarian": "Nagy vasútállomás",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -1390,5 +1394,6 @@
     "russian": "Главный вокзал",
     "polish": "Dworzec główny",
     "italian": "Stazione Ferroviaria Principale",
+    "hungarian": "Fő vasútállomás",
   },
 }
