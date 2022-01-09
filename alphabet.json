@@ -9,6 +9,7 @@
 		"thai": "อัลฟา",
 		"italian": "Alfa",
 		"hungarian": "Alfa",
+		"romanian": "Alfa",
 	},
 	"beta": {
 		"english": "Beta",
@@ -20,6 +21,7 @@
 		"thai": "เบต้า",
 		"italian": "Beta",
 		"hungarian": "Béta",
+		"romanian": "Beta",
 	},
 	"gamma": {
 		"english": "Gamma",
@@ -31,6 +33,7 @@
 		"thai": "แกมม่า",
 		"italian": "Gamma",
 		"hungarian": "Gamma",
+		"romanian": "Gamma",
 	},
 	"delta": {
 		"english": "Delta",
@@ -42,6 +45,7 @@
 		"thai": "เดลต้า",
 		"italian": "Delta",
 		"hungarian": "Delta",
+		"romanian": "Delta",
 	},
 	"epsilon": {
 		"english": "Epsilon",
@@ -53,6 +57,7 @@
 		"thai": "เอปซิลอน",
 		"italian": "Epsilon",
 		"hungarian": "Epszilon",
+		"romanian": "Epsilon",
 	},
 	"zeta": {
 		"english": "Zeta",
@@ -64,6 +69,7 @@
 		"thai": "ซีตา",
 		"italian": "Zeta",
 		"hungarian": "Zéta",
+		"romanian": "Zeta",
 	},
 	"theta": {
 		"english": "Theta",
@@ -75,6 +81,7 @@
 		"thai": "ทีตา",
 		"italian": "Teta",
 		"hungarian": "Théta",
+		"romanian": "Theta",
 	},
 	"iota": {
 		"english": "Iota",
@@ -86,6 +93,7 @@
 		"thai": "ไอโอตา",
 		"italian": "Iota",
 		"hungarian": "Iota",
+		"romanian": "Iota",
 	},
 	"kappa": {
 		"english": "Kappa",
@@ -97,6 +105,7 @@
 		"thai": "แคปปา",
 		"italian": "Kappa",
 		"hungarian": "Kappa",
+		"romanian": "Kappa",
 	},
 	"lambda": {
 		"english": "Lambda",
@@ -108,6 +117,7 @@
 		"thai": "แลมบ์ดา",
 		"italian": "Lambda",
 		"hungarian": "Lambda",
+		"romanian": "Lambda",
 	},
 	"mu": {
 		"english": "Mu",
@@ -119,6 +129,7 @@
 		"thai": "มิว",
 		"italian": "Mu",
 		"hungarian": "Mu",
+		"romanian": "Mu",
 	},
 	"xi": {
 		"english": "Xi",
@@ -130,6 +141,7 @@
 		"thai": "ไซ",
 		"italian": "Xi",
 		"hungarian": "Xi",
+		"romanian": "Xi",
 	},
 	"omicron": {
 		"english": "Omicron",
@@ -141,6 +153,7 @@
 		"thai": "โอไมครอน",
 		"italian": "Omicron",
 		"hungarian": "Omikron",
+		"romanian": "Omicron",
 	},
 	"pi": {
 		"english": "Pi",
@@ -152,6 +165,7 @@
 		"thai": "พาย",
 		"italian": "Pi",
 		"hungarian": "Pi",
+		"romanian": "Pi",
 	},
 	"rho": {
 		"english": "Rho",
@@ -163,6 +177,7 @@
 		"thai": "โร",
 		"italian": "Ro",
 		"hungarian": "Ró",
+		"romanian": "Rho",
 	},
 	"sigma": {
 		"english": "Sigma",
@@ -174,6 +189,7 @@
 		"thai": "ซิกม่า",
 		"italian": "Sigma",
 		"hungarian": "Szigma",
+		"romanian": "Sigma",
 	},
 	"tau": {
 		"english": "Tau",
@@ -185,6 +201,7 @@
 		"thai": "เทา",
 		"italian": "Tau",
 		"hungarian": "Tau",
+		"romanian": "Tau",
 	},
 	"upsilon": {
 		"english": "Upsilon",
@@ -196,6 +213,7 @@
 		"thai": "อิปไซลอน",
 		"italian": "Ipsilon",
 		"hungarian": "Upszilon",
+		"romanian": "Upsilon",
 	},
 	"phi": {
 		"english": "Phi",
@@ -207,6 +225,7 @@
 		"thai": "ฟาย",
 		"italian": "Fi",
 		"hungarian": "Fí",
+		"romanian": "Phi",
 	},
 	"chi": {
 		"english": "Chi",
@@ -218,6 +237,7 @@
 		"thai": "ไค",
 		"italian": "Chi",
 		"hungarian": "Csí",
+		"romanian": "Csi",
 	},
 	"psi": {
 		"english": "Psi",
@@ -229,6 +249,7 @@
 		"thai": "พไซ",
 		"italian": "Psi",
 		"hungarian": "Pszi",
+		"romanian": "Psi",
 	},
 	"omega": {
 		"english": "Omega",
@@ -240,5 +261,6 @@
 		"thai": "โอเมกา",
 		"italian": "Omega",
 		"hungarian": "Omega",
+		"romanian": "Omega",
 	},
 }
