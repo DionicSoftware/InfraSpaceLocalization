@@ -18,6 +18,7 @@
 		"thai": "ทราย",
 		"arabic": "رمل",
 		"turkish":"Kum",
+		"romanian": "Nisip",
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
@@ -38,6 +39,7 @@
 		"thai": "กำมะถัน",
 		"arabic": "كبريت",
 		"turkish":"Sülfür",
+		"romanian": "Sulf",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -58,6 +60,7 @@
 		"thai": "คอนกรีต",
 		"arabic": "خرسانة",
 		"turkish":"Beton",
+		"romanian": "Beton",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -78,6 +81,7 @@
 		"thai": "แร่เหล็ก",
 		"arabic": "بؤرة حديد",
 		"turkish":"Demir Cehveri",
+		"romanian": "Minereu de fier",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -98,6 +102,7 @@
 		"thai": "แร่อะลูมิเนียม",
 		"arabic": "بؤرة ألومنيوم",
 		"turkish":"Alüminyum Cehveri",
+		"romanian": "Minereu de aluminiu",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -118,6 +123,7 @@
 		"thai": "แร่ยูเรเนียม",
 		"arabic": "بؤرة يورانيوم",
 		"turkish":"",
+		"romanian": "Minereu de uraniu",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -138,6 +144,7 @@
 		"thai": "แร่อิริเดียม",
 		"arabic": "بؤرة إيريديوم",
 		"turkish":"İridyum Cehveri",
+		"romanian": "Minereu de iridiu",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -158,6 +165,7 @@
 		"thai": "อาดามันเทียม",
 		"arabic": "أدامانتين",
 		"turkish":"Adamantin Cehveri",
+		"romanian": "Adamantin",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -178,6 +186,7 @@
 		"thai": "คาร์บอน",
 		"arabic": "كاربون",
 		"turkish":"Karbon",
+		"romanian": "Carbon",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -198,6 +207,7 @@
 		"thai": "ท่อนาโน",
 		"arabic": "أنابيب فائقة الصغر",
 		"turkish":"Nanotüpler",
+		"romanian": "Nanotuburi",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -218,6 +228,7 @@
 		"thai": "เหล็กกล้า",
 		"arabic": "صلب",
 		"turkish":"Çelik",
+		"romanian": "Oţel",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -238,6 +249,7 @@
 		"thai": "แร่ทองแดง",
 		"arabic": "بؤرة نحاس",
 		"turkish":"Bakır Cehveri",
+		"romanian": "Minereu de cupru",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -258,6 +270,7 @@
 		"thai": "มอเตอร์",
 		"arabic": "محرك",
 		"turkish":"Motor",
+		"romanian": "Motor",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -278,6 +291,7 @@
 		"thai": "ชิ้นส่วนอิเล็กทรอนิกส์",
 		"arabic": "شريحة إلكترونية",
 		"turkish":"Elektronik",
+		"romanian": "Electronică",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -298,6 +312,7 @@
 		"thai": "เครื่องใช้ภายในบ้าน",
 		"arabic": "أجهزة منزلية",
 		"turkish":"Ev Aletleri",
+		"romanian": "Electrocasnice",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -318,6 +333,7 @@
 		"thai": "ไมโครชิป",
 		"arabic": "شريحة دقيقة",
 		"turkish":"Mikroçip",
+		"romanian": "Microcip",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -338,6 +354,7 @@
 		"thai": "เครื่องประมวลผลประสาท",
 		"arabic": "معالج عصبي",
 		"turkish":"Nöronsal İşlemci",
+		"romanian": "Procesor neuronal",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -358,6 +375,7 @@
 		"thai": "คอมพิวเตอร์",
 		"arabic": "حاسوب",
 		"turkish":"Bilgisayar",
+		"romanian": "Calculator",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -378,6 +396,7 @@
 		"thai": "หุ่นยนต์บ้าน",
 		"arabic": "روبوت منزلي",
 		"turkish":"Ev Robotu",
+		"romanian": "Robot de casă",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -398,6 +417,7 @@
 		"thai": "หุ่นยนต์อุตสาหกรรม",
 		"arabic": "روبوت صناعي",
 		"turkish":"Endistriyel Robot",
+		"romanian": "Robot industrial",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -418,6 +438,7 @@
 		"thai": "เครื่องมือเทคโนโลยีขั้นสูง",
 		"arabic": "أدوات عالية التقنية",
 		"turkish":"Yüksek Teknoloji Robot",
+		"romanian": "Instrument de înaltă tehnologie",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -438,6 +459,7 @@
 		"thai": "จอแสดงผลโฮโลแกรม",
 		"arabic": "شاشات عرض ثلاثية الأبعاد",
 		"turkish":"Holo-Ekran",
+		"romanian": "Afișare Holografică",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -458,6 +480,7 @@
 		"thai": "เครื่องจำลองโลกบันเทิงเสมือนจริง",
 		"arabic": "وسيلة تعليم بالواقع الافتراضي",
 		"turkish":"VR Eğitim-Eğlence",
+		"romanian": "Educație în Realitatea-Virtuală",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -478,6 +501,7 @@
 		"thai": "โลหะผสมอิริเดียม",
 		"arabic": "سبيكة إيريديوم",
 		"turkish":"İridyum Alaşımı",
+		"romanian": "Aliaj de iridiu",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -498,6 +522,7 @@
 		"thai": "เชื้อเพลิงอิริเดียม",
 		"arabic": "إيريديوم دافع",
 		"turkish":"İridyum İtici",
+		"romanian": "Propulsor de iridiu",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -518,6 +543,7 @@
 		"thai": "ตัวควบคุมปัญญาประดิษฐ์",
 		"arabic": "وحدة تحكم بالذكاء الاصطناعي",
 		"turkish":"AI Kontrol Ünitesi",
+		"romanian": "Unitate de control în inteligență artificială",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -538,6 +564,7 @@
 		"thai": "แกนรังสี",
 		"arabic": "قلب الإشعاع",
 		"turkish":"Radyasyon Çekirdeği",
+		"romanian": "Miez de radiație",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -558,6 +585,7 @@
 		"thai": "ชุดวิทยาศาสตร์สีน้ำเงิน",
 		"arabic": "حزمة علم زرقاء",
 		"turkish":"Mavi Bilim Paketi",
+		"romanian": "Pachet albastru de știină",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -578,6 +606,7 @@
 		"thai": "ชุดวิทยาศาสตร์สีเขียว",
 		"arabic": "حزمة علم خضراء",
 		"turkish":"Yeşil Bilim Paketi",
+		"romanian": "Pachet verde de știină",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -598,6 +627,7 @@
 		"thai": "ชุดวิทยาศาสตร์สีเหลือง",
 		"arabic": "حزمة علم صفراء",
 		"turkish":"Sarı Bilim Paketi",
+		"romanian": "Pachet galben de știină",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -618,6 +648,7 @@
 		"thai": "ชุดวิทยาศาสตร์สีแดง",
 		"arabic": "حزمة علم حمراء",
 		"turkish":"Kırmızı Bilim Paketi",
+		"romanian": "Pachet roșu de știină",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -638,6 +669,7 @@
 		"thai": "ออกซิเจน",
 		"arabic": "أوكسجين",
 		"turkish":"Oksijen",
+		"romanian": "Oxigen",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -658,6 +690,7 @@
 		"thai": "ปุ๋ย",
 		"arabic": "سماد",
 		"turkish":"Gübre",
+		"romanian": "Îngrăşământ",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -678,6 +711,7 @@
 		"thai": "ผัก",
 		"arabic": "خضروات",
 		"turkish":"Sebzeler",
+		"romanian": "Legume",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -698,6 +732,7 @@
 		"thai": "เนื้อ",
 		"arabic": "لحوم",
 		"turkish":"Et",
+		"romanian": "Carne",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -718,6 +753,7 @@
 		"thai": "อาหารที่ดี",
 		"arabic": "وجبة جيدة",
 		"turkish":"İyi Öğün",
+		"romanian": "Mâncare decentă",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -738,6 +774,7 @@
 		"thai": "อาหารประทังชีวิต",
 		"arabic": "طعام نجاة",
 		"turkish":"Hayatta Kalma Öğünü",
+		"romanian": "Mâncare de supraviețuire",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -758,6 +795,7 @@
 		"thai": "สวน",
 		"arabic": "حديقة",
 		"turkish":"Park",
+		"romanian": "Parc",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -778,6 +816,7 @@
 		"thai": "วัฒนธรรม",
 		"arabic": "ثقافة",
 		"turkish":"Kültür",
+		"romanian": "Cultură",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -798,6 +837,7 @@
 		"thai": "โรงเรียน",
 		"arabic": "مدرسة",
 		"turkish":"Okul",
+		"romanian": "Școală",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -818,6 +858,7 @@
 		"thai": "รถ",
 		"arabic": "سيارة",
 		"turkish":"Araba",
+		"romanian": "Mașină",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -838,6 +879,7 @@
 		"thai": "พลเมือง",
 		"arabic": "مواطن",
 		"turkish":"Vatandaş",
+		"romanian": "Cetăţean",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -858,6 +900,7 @@
 		"thai": "พลเมือง",
 		"arabic": "مواطن",
 		"turkish":"Vatandaş",
+		"romanian": "Cetăţean",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -878,5 +921,6 @@
 		"thai": "พลังงาน",
 		"arabic": "طاقة",
 		"turkish":"Elektrik",
+		"romanian": "Energie",
 	},
 }
