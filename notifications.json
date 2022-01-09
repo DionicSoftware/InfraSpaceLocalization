@@ -18,6 +18,7 @@
 		"thai": "พลังงานในเครือข่าย %networkId% ไม่เพียงพอ",
 		"arabic": "لا توجد طاقة كافية في الشبكة %networkId%",
 		"turkish":"Güç Ağında Yeterli Elektrik Yok %networkId%",
+		"romanian": "Nu este suficientă energie în rețeaua %networkId%",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -38,6 +39,7 @@
 		"thai": "เลือกงานวิจัย",
 		"arabic": "اختر بحث",
 		"turkish":"Araştırma Seç",
+		"romanian": "Alege o cercetare",
 	},
 	"notEnoughWorkers_title": {
 		"english": "Not enough Workers",
@@ -58,6 +60,7 @@
 		"thai": "คนงานไม่เพียงพอ",
 		"arabic": "عدد العمال غير كافي",
 		"turkish":"Yeterli Çalışan Yok",
+		"romanian": "Nu sunt destui muncitori",
 	},
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
@@ -78,6 +81,7 @@
 		"thai": "ถ้าคุณมีคนงานไม่เพียงพอ โรงงานของคุณจะทำงานอย่างไม่มีประสิทธิภาพ\nใช้เครื่องมือจัดลำดับความสำคัญที่ด้านซ้ายบนเพื่อจัดแจงคนงานของคุณ",
 		"arabic": "إذا لم يكن عندك عدد عمال كافٍ، لن تعمل مصانعك بكفاءة.\nاستعمل أداة الأولويات في أعلى يسار الشاشة لتوزيع القوة العاملة لديك.",
 		"turkish":"Yeterli çalışanınız yoksa fabrikalarınız verimli çalışamaz.\nSol üstteki öncelik menüsünden iş gücünüzü dağıtabilirsiniz.",
+		"romanian": "Dacă nu ai suficienți lucrători, fabricile tale nu pot funcționa eficient.\nUtilizează instrumentul de prioritizare din stânga sus pentru a-ți distribui forța de muncă.",
 	},
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
@@ -98,6 +102,7 @@
 		"thai": "ความแปรปวนของอากาศลดประสิทธิภาพการทำงานของกังหันลม",
 		"arabic": "الاضطرابات الهوائية تخفض من كفائة مولد طاقة الرياح",
 		"turkish":"Türbülanslar rüzgar türbinlerinin verimliliğini düşürür",
+		"romanian": "Turbulențele scad eficiența turbinei eoliene",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -118,5 +123,6 @@
 		"thai": "กังหันลมสองตัวอยู่ใกล้กันเกินไปประสิทธิภาพจะลดลง",
 		"arabic": "اثنان من مولدات طاقة الرياح قريبان من بعضهما جدا. كفائتهما قليلة.",
 		"turkish":"İki türbin birbirine çok yakın. Verimlilikeri düşdü.",
+		"romanian": "Două turbine eoliene sunt prea apropiate. Eficiența lor este scăzută.",
 	},
 }
