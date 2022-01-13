@@ -1,4 +1,4 @@
-﻿# InfraSpace Community Localization
+# InfraSpace Community Localization
 
 This project is the official community translation for the city building game InfraSpace.
 
@@ -24,6 +24,7 @@ Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translati
 ###### - **[HU]** Tedd ezt a mappát a játék mappádba és nevezd át "**localization**"-ra. Ne felejets el **készíteni egy "custom.txt"** ami a következőt tartalmazza:
 ###### - **[TH]** นำโฟลเดอร์นี้วางลงไปในโฟลเดอร์เกมของคุณและเปลี่ยนชื่อเป็น "**localization**" และอย่าลืมสร้าง **ไฟล์ "custom.txt"** ซึ่งข้างไฟล์ในประกอบด้วย:
 ###### - **[AR]** ضع هذا المجلد داخل مجلد اللعبة الخاصة بك وقم بتغيير اسمه إلى "**localization**". لا تنس أن **تنشئ ملف "custom.txt"** بداخله ما يلي:
+###### - **[RO]** Pune acest folder în folderul jocului tău și redenumește-l "**localization**". Nu uita să **creezi un "custom.txt"** conţinând următoarele:
 
 ## Custom.txt:
 ```

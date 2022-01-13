@@ -17,6 +17,7 @@
 		"hungarian": "%id%. elektromos hálózat",
 		"thai": "เครือข่ายแหล่งพลังงานที่ %id%",
 		"turkish": "Güç Ağı %id%",
+		"romanian": "Rețea de alimentare %id%",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -36,6 +37,7 @@
 		"hungarian": "Szükséges: %amount% MW",
 		"thai": "จำเป็นต้องใช้ %amount% MW",
 		"turkish": "Gerekli: %amount% MW",
+		"romanian": "Necesar: %amount% MW",
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -55,6 +57,7 @@
 		"hungarian": "Energia használva:",
 		"thai": "พลังงานที่ใช้:",
 		"turkish": "Kullanılan elektrik",
+		"romanian": "Curent consumat:",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -74,6 +77,7 @@
 		"hungarian": "Energia előállítva:",
 		"thai": "พลังงานที่ผลิตได้:",
 		"turkish": "Üretilen elektrik:",
+		"romanian": "Curent produs:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -93,6 +97,7 @@
 		"hungarian": "Beérkező tároló üres",
 		"thai": "พื้นที่เก็บขาเข้าว่าง",
 		"turkish": "Gelen depo boş",
+		"romanian": "Depozit de intrare gol",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -112,6 +117,7 @@
 		"hungarian": "Nincs hozzáférés az úthoz",
 		"thai": "ไม่มีทางเข้าออก",
 		"turkish": "Yola ulaşım yok",
+		"romanian": "Fără acces la drum",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -131,6 +137,7 @@
 		"hungarian": "Kimenő tároló tele",
 		"thai": "พื้นที่เก็บขาออกเต็ม",
 		"turkish": "Hedef depo dolu",
+		"romanian": "Depozit de ieșire plin",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -150,6 +157,7 @@
 		"hungarian": "Nincsenek munkások az épületben",
 		"thai": "ไม่มีคนงานในอาคาร",
 		"turkish": "Binada çalışan yok",
+		"romanian": "Fără muncitori",
 	},
 	"noPower": {
 		"english": "No power",
@@ -169,6 +177,7 @@
 		"hungarian": "Nincs áram",
 		"thai": "ไม่มีพลัง",
 		"turkish": "Elektrik yok",
+		"romanian": "Nu este curent",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -188,6 +197,7 @@
 		"hungarian": "%amount%% hatékonyság",
 		"thai": "ประสิทธิภาพ %amount%%",
 		"turkish": "%%amount% Verimlilik",
+		"romanian": "Eficienţă: %amount%%",
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -207,6 +217,7 @@
 		"hungarian": "A városod szintet fog lépni, (\"%cityLevelName%\") ha van %amount% lakosod, akik %nextLevel% szintűek.",
 		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" ก็ต่อเมื่อคุณต้องมีพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
 		"turkish": "En az %amount% tane %nextLevel% Seviye vatandaş olunca şehriniz \"%cityLevelName%\" e yükselicek.",
+		"romanian": "Orașul tău va fi promovat la \"%cityLevelName%\" după ce vei avea cel puțin %amount% cetățeni de nivel %nextLevel%.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -226,6 +237,7 @@
 		"hungarian": "Elérted a legmagasabb város szintet. Gratulálunk!",
 		"thai": "คุณมาถึงสูงสุดของระดับเมืองแล้ว ยินดีด้วย!",
 		"turkish": "En yüksek şehir seviyesine ulaştınız. Tebrikler!",
+		"romanian": "Ai atins cel mai înalt nivel de oraș. Felicitări!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -245,6 +257,7 @@
 		"hungarian": "A városod lel lesz fokozva (\"%cityLevelName%\") ha kevesebb mint %amount% %level% szintű lakosod van.",
 		"thai": "เมืองของคุณจะถูกลดระดับเป็น \"%cityLevelName%\" หากคุณยังมีพลเมืองน้อยกว่า %amount% ระดับ %level%",
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
+		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -264,6 +277,7 @@
 		"hungarian": "Kutatás %techName%...    %progress%",
 		"thai": "กำลังค้นคว้า %techName%...    %progress%",
 		"turkish": "%techName% araştırlıyor...    %progress%",
+		"romanian": "Cercetând %techName%...    %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -283,6 +297,7 @@
 		"hungarian": "Válassz kutatást",
 		"thai": "เลือกเทคโนโลยีเพื่อจะวิจัย",
 		"turkish": "Yükseltmek için bir teknoloji seçin",
+		"romanian": "Alege tehnologia de cercetare",
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -302,6 +317,7 @@
 		"hungarian": "Semmi",
 		"thai": "ไม่มีอะไร",
 		"turkish": "Hiçbirşey",
+		"romanian": "Nimic",
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -321,6 +337,7 @@
 		"hungarian": "Felfedeztük %techName%-t. Ennek köszönhetően építhetsz:",
 		"thai": "เราปลดล็อค %techName% แล้วและตอนนี้สามารถสร้างได้:",
 		"turkish": "%techName% araştırması bitti ve artık inşa edilebilir:",
+		"romanian": "Am deblocat %techName% și acum putem construi:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -340,6 +357,7 @@
 		"hungarian": "Felfedeztük a(z) %techName%-t.",
 		"thai": "เราปลดล็อค %techName% แล้ว",
 		"turkish": "%techName% araştırması bitti.",
+		"romanian": "Am deblocat %techName%.",
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -359,6 +377,7 @@
 		"hungarian": "Ez a technológia feloldja:",
 		"thai": "เทคโนโลยีนี้ปลดล็อก:",
 		"turkish": "Bu teknolojinin açtıkları:",
+		"romanian": "Această tehnologie deblochează:",
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
@@ -378,6 +397,7 @@
 		"hungarian": "Ez a technológia nem old fel semmit.",
 		"thai": "เทคโนโลยีไม่ได้ปลดล็อคอะไรเลย",
 		"turkish": "BU teknoloji hiçbirşey açmıyor.",
+		"romanian": "Această tehnologie nu deblochează nimic.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -397,6 +417,7 @@
 		"hungarian": "A kutatás véget ért!",
 		"thai": "วิจัยเสร็จแล้ว!",
 		"turkish": "Araştırma tamamlandı!",
+		"romanian": "Cercetare finalizată!",
 	},
 	"production": {
 		"english": "Production",
@@ -416,6 +437,7 @@
 		"hungarian": "Termelés",
 		"thai": "การผลิต",
 		"turkish": "Üretim",
+		"romanian": "Producție",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -435,6 +457,7 @@
 		"hungarian": "Fogyasztás",
 		"thai": "การบริโภค",
 		"turkish": "Tüketim",
+		"romanian": "Consum",
 	},
 	"workers": {
 		"english": "Workers",
@@ -454,6 +477,7 @@
 		"hungarian": "Munkások",
 		"thai": "คนงาน",
 		"turkish": "Çalışanlar",
+		"romanian": "Muncitori",
 	},
 	"storage": {
 		"english": "Storage",
@@ -473,6 +497,7 @@
 		"hungarian": "Raktár",
 		"thai": "พื้นที่จัดเก็บ",
 		"turkish": "Depo",
+		"romanian": "Depozit",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -492,6 +517,7 @@
 		"hungarian": "Fejlesztések",
 		"thai": "ปรับปรุง",
 		"turkish": "Yükseltmeler",
+		"romanian": "Upgrade-uri",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -511,6 +537,7 @@
 		"hungarian": "Priorizál",
 		"thai": "จัดลำดับความสำคัญ",
 		"turkish": "Önceliğe Al",
+		"romanian": "Prioritizează",
 	},
 	"price": {
 		"english": "Price",
@@ -552,6 +579,7 @@
 		"hungarian": "Lakhely fejlesztve %seconds% mp múlva.",
 		"thai": "กำลังปรับปรุงที่อยู่อาศัยใน %seconds% วิ",
 		"turkish": "Habitat %seconds%sn sonra yükeslicek.",
+		"romanian": "Habitatul modernizează în %seconds%s.",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -571,6 +599,7 @@
 		"hungarian": "Lakhely visszafejlesztve %seconds% mp múlva.",
 		"thai": "การลดระดับที่อยู่อาศัยใน %seconds% วิ",
 		"turkish": "Habitat %seconds%sn sonra bir alt seviyeye inecek.",
+		"romanian": "Habitatul degradează în %seconds%s.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -590,6 +619,7 @@
 		"hungarian": "Lakhely megtelt. Tegyél eleget a további szükségleteknek a fejlesztéshez.",
 		"thai": "ที่อยู่อาศัยเต็ม เติมเต็มความต้องการนี้ด้วยการปรับปรุง",
 		"turkish": "Habitat dolu. Yükseltmek için gereksinimleri tamamla.",
+		"romanian": "Habitatul este plin. Îndepliniți nevoile suplimentare pentru upgrade.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -609,6 +639,7 @@
 		"hungarian": "Emberek érkeznek.",
 		"thai": "ผู้คนกำลังย้ายเข้ามา",
 		"turkish": "İnsanlar yerleşiyor.",
+		"romanian": "Oamenii se mută înăuntru.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -628,6 +659,7 @@
 		"hungarian": "Emberek távoznak.",
 		"thai": "ผู้คนกำลังย้ายออกไป",
 		"turkish": "İnsanlar taşnıyor.",
+		"romanian": "Locuitorii pleacă.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -647,6 +679,7 @@
 		"hungarian": "A feltételek nincsenek meg.",
 		"thai": "ความต้องการไม่เป็นไปตามที่ร้องขอ",
 		"turkish": "Gereksinimler sağlanmadı.",
+		"romanian": "Nevoile nu sunt satisfăcute.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -666,6 +699,7 @@
 		"hungarian": "A lakók jól vannak.",
 		"thai": "ชาวบ้านสบายดี",
 		"turkish": "Oturanlar iyi.",
+		"romanian": "Locuitorii sunt ok.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -685,6 +719,7 @@
 		"hungarian": "Nics kutatás kiválasztva",
 		"thai": "ไม่ได้เลือกงานวิจัย",
 		"turkish": "Yükseltme seçilmedi.",
+		"romanian": "Nicio cercetare selectată",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -704,6 +739,7 @@
 		"hungarian": "Anyagok a raktárban:",
 		"thai": "ทรัพยากรในพื้นที่จัดเก็บ:",
 		"turkish": "Depodaki kaynaklar:",
+		"romanian": "Resurse în depozit:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -723,6 +759,7 @@
 		"hungarian": "%level% szintü lakosok",
 		"thai": "พลเมืองระดับ %level%",
 		"turkish": "%level% Seviye vatandaşlar",
+		"romanian": "Cetăţeni de nivel %level%",
 	},
 	"population": {
 		"english": "Population",
@@ -742,6 +779,7 @@
 		"hungarian": "Népesség",
 		"thai": "ประชากร",
 		"turkish": "Nüfus",
+		"romanian": "Populație",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -761,6 +799,7 @@
 		"hungarian": "Munkák",
 		"thai": "งาน",
 		"turkish": "İşler",
+		"romanian": "Locuri de muncă",
 	},
 	"housing": {
 		"english": "Housing",
@@ -780,6 +819,7 @@
 		"hungarian": "Lakhatások",
 		"thai": "ที่อยู่อาศัย",
 		"turkish": "Konutlar",
+		"romanian": "Locuințe",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -799,6 +839,7 @@
 		"thai": "สถิติเมือง",
 		"turkish": "Şehir İstatistikleri",
 		"italian": "Statistiche della città",
+		"romanian": "Statistica orașului",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -818,6 +859,7 @@
 		"hungarian": "Népesség",
 		"thai": "สถิติประชากร",
 		"turkish": "Nüfüs",
+		"romanian": "Populație",
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -837,6 +879,7 @@
 		"hungarian": "Munkák",
 		"thai": "สถิติงาน",
 		"turkish": "İşler",
+		"romanian": "Locuri de muncă",
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -856,6 +899,7 @@
 		"hungarian": "Lakhatások",
 		"thai": "สถิติที่อยู่อาศัย",
 		"turkish": "Konutlar",
+		"romanian": "Locuințe",
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -875,6 +919,7 @@
 		"hungarian": "Bevándorlási arány",
 		"thai": "อัตราคนเข้าเมือง",
 		"turkish": "Yerleşme Oranı",
+		"romanian": "Rata de imigrare",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -894,6 +939,7 @@
 		"hungarian": "Hatékonyság",
 		"thai": "ประสิทธิภาพ",
 		"turkish": "Verimlilik",
+		"romanian": "Eficienţă",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -913,6 +959,7 @@
 		"hungarian": "Nincs elég munkás",
 		"thai": "คนงานไม่เพียงพอ:",
 		"turkish": "Yetersiz Çalışan:",
+		"romanian": "Nu sunt destui muncitori:",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -932,6 +979,7 @@
 		"hungarian": "Szomszédos épületek által jobb", //test
 		"thai": "แรงหนุนจากตึกข้างเคียง",
 		"turkish": "Komşu binalardan güçlendirilmiş",
+		"romanian": "Amplificat de clădirile vecine",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -951,6 +999,7 @@
 		"hungarian": "Nincs elég energia",
 		"thai": "พลังงานไม่เพียงพอ:",
 		"turkish": "Yetersiz elektrik:",
+		"romanian": "Energie insuficientă:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -970,6 +1019,7 @@
 		"hungarian": "Zavaros légjárás",
 		"thai": "รบกวนการไหลของอากาศ",
 		"turkish": "Bozuk hava akışı",
+		"romanian": "Flux de aer perturbat",
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -989,6 +1039,7 @@
 		"hungarian": "Ívelt út építése",
 		"thai": "สร้างถนนโค้ง",
 		"turkish": "Kavisli Yol",
+		"romanian": "Construiește un drum curbat",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -1008,6 +1059,7 @@
 		"hungarian": "Út hosszának igazítása",
 		"thai": "สแน็ปความยาวถนน",
 		"turkish": "Yol Uzunluğunu Daya",
+		"romanian": "Lungimea drumului",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -1027,6 +1079,7 @@
 		"hungarian": "Út szögének igazítása",
 		"thai": "สแน็ปมุมถนน",
 		"turkish": "Yol Açısını Daya",
+		"romanian": "Unghiul drumului",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -1046,6 +1099,7 @@
 		"hungarian": "Út visszaállítása",
 		"thai": "แทนที่ถนน",
 		"turkish": "Yolu Değiştir",
+		"romanian": "Înlocuiește drumul",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -1064,6 +1118,7 @@
 		"turkish": "Eğer değiştirilecek yol seçili değilse yolun yönünü değiştirir.",
 		"russian": "Также меняет направление дороги, если у вас не выбрана дорога для замены",
 		"italian": "Inverte anche la direzione della strada se non hai selezionato una strada alternativa",
+		"romanian": "Inversează direcția drumului dacă nu ai selectat un drum de înlocuire",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1082,6 +1137,7 @@
 		"turkish": "Yolun Yönünü Değiştir",
 		"russian": "Обратная дорога",
 		"italian": "Inverti strada",
+		"romanian": "Drum invers",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1101,6 +1157,7 @@
 		"hungarian": "Úthoz igazítás",
 		"thai": "ดึงไปหาถนน",
 		"turkish": "Yola Daya",
+		"romanian": "Lipește lângă drum",
 	},
 	"trainSignalsView": {
 		"english": "Train Signals View",
@@ -1109,6 +1166,7 @@
 		"russian": "Просмотр сигналов поезда",
 		"turkish": "Tren Sinyalleri Görünümü",
 		"italian": "Vista dei segnali ferroviari",
+		"romanian": "Vizualizarea semnalelor de tren",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1128,6 +1186,7 @@
 		"hungarian": "Jelenleg ennyi van szállítás alatt: %amount%",
 		"thai": "กำลังจัดส่ง: %amount%",
 		"turkish": "Şuanda iletiliyor: %amount%",
+		"romanian": "În curs de livrare: %amount%",
 	},
 	// sign panel
 	"signPanelText": {
@@ -1148,6 +1207,7 @@
 		"hungarian": "Szöveg",
 		"thai": "ข้อความ",
 		"turkish": "Metin",
+		"romanian": "Text",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -1167,6 +1227,7 @@
 		"hungarian": "Betűméret",
 		"thai": "ขนาดตัวอักษร",
 		"turkish": "Yazı Boyu",
+		"romanian": "Mărimea fontului",
 	},
 	"font": {
 		"english": "Font",
@@ -1186,6 +1247,7 @@
 		"hungarian": "Betűtípus",
 		"thai": "แบบอักษร",
 		"turkish": "Yazı Tipi",
+		"romanian": "Font",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -1205,6 +1267,7 @@
 		"hungarian": "Nincs hálózathoz csatlakoztatva.",
 		"thai": "ไม่ได้เชื่อมต่อกับเครือข่ายไฟฟ้า",
 		"turkish": "Güç ağına bağlı değil",
+		"romanian": "Nu este conectat la rețeaua de alimentare",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1224,6 +1287,7 @@
 		"hungarian": "Épület ütközik valamivel.",
 		"thai": "อาคารชนกับอะไรบางอย่าง",
 		"turkish": "Bina birşeyle çakışıyor",
+		"romanian": "Clădirea se ciocnește de ceva",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -1243,6 +1307,7 @@
 		"hungarian": "Az építmény nem anyaglerakó helyen van",
 		"thai": "อาคารไม่ได้วางบนแหล่งทรัพยากร",
 		"turkish": "Bina kaynağın üstünde değil",
+		"romanian": "Clădirea nu este plasată pe depozitul de resurse",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -1262,6 +1327,7 @@
 		"hungarian": "Az út ütközik valamivel.",
 		"thai": "ถนนชนกับอะไรบางอย่าง",
 		"turkish": "Yol birşeyle çakışıyor",
+		"romanian": "Drumul se ciocnește de ceva",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -1281,6 +1347,7 @@
 		"hungarian": "Túl közeli szomszédos út",
 		"thai": "ติดกับถนนที่อยู่ใกล้เคียง",
 		"turkish": "Başka bir yola çok yakın",
+		"romanian": "Prea aproape de drumul vecin",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1300,6 +1367,7 @@
 		"hungarian": "Út túl rövid",
 		"thai": "ระยะถนนสั้นเกินไป",
 		"turkish": "Yol çok kısa",
+		"romanian": "Segment de drum prea scurt",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -1319,6 +1387,7 @@
 		"hungarian": "Út túl ",
 		"thai": "ถนนสูงชันเกินไป",
 		"turkish": "Yol çok dik",
+		"romanian": "Drum prea abrupt",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -1338,6 +1407,7 @@
 		"hungarian": "Út túl messze a földtől",
 		"thai": "ถนนห่างจากพื้นดินมากเกินไป",
 		"turkish": "Yol zeminden çok uzak",
+		"romanian": "Drum prea departe de sol",
 	},
 	"roadDeadEnd": {
 		"english": "Dead End",
@@ -1347,6 +1417,7 @@
 		"turkish": "Çıkmaz Yol",
 		"italian": "Strada chiusa",
 		"hungarian": "Zsákutca",
+		"romanian": "Capăt de drum",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1366,6 +1437,7 @@
 		"hungarian": "Vizualizációk",
 		"thai": "แผนผัง",
 		"turkish": "Görselleştirmeler",
+		"romanian": "Vizualizări",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -1385,6 +1457,7 @@
 		"hungarian": "Építmény hatékonysága",
 		"thai": "ประสิทธิภาพอาคาร",
 		"turkish": "Bina Verimliliği",
+		"romanian": "Eficiența construcției",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -1404,6 +1477,7 @@
 		"hungarian": "Építmény lakottsága (munkások & lakók)",
 		"thai": "อาคารที่พัก (คนงานและผู้อยู่อาศัย)",
 		"turkish": "Bina Doluluğu (Çalışanlar & Oturanlar)",
+		"romanian": "Ocuparea clădirilor (muncitori și locuitori)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1423,6 +1497,7 @@
 		"hungarian": "Áram",
 		"thai": "พลังงาน",
 		"turkish": "Elektrik",
+		"romanian": "Energie",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1442,6 +1517,7 @@
 		"hungarian": "Szélerőművek",
 		"thai": "กังหันลม",
 		"turkish": "Rüzgar Türbinleri",
+		"romanian": "Turbine eoliene",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -1461,6 +1537,7 @@
 		"hungarian": "Talajdúsító létesítmények",
 		"thai": "โรงบำรุงดิน",
 		"turkish": "Toprak Zenginleştirme Tesisleri",
+		"romanian": "Facilități de îmbogățire a solului",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1480,6 +1557,7 @@
 		"hungarian": "Újrahasznosító központok",
 		"thai": "ศูนย์กลางรีไซเคิล",
 		"turkish": "Geri Dönüşüm Merkezleri",
+		"romanian": "Centre de reciclare",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -1499,6 +1577,7 @@
 		"hungarian": "Építmények csúcstechnológiás eszközökkel",
 		"thai": "อาคารที่มีเครื่องมือเทคโนโลยีขั้นสูง",
 		"turkish": "Yüksek Teknoloji Ekipmanlı Binalar",
+		"romanian": "Clădiri cu instrumente de înaltă tehnologie",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -1518,6 +1597,7 @@
 		"hungarian": "Építmények ipari robotokkal",
 		"thai": "อาคารที่มีหุ่นยนต์อุตสาหกรรม",
 		"turkish": "Endüstriyel Robotlu Binalar",
+		"romanian": "Clădiri cu roboți industriali",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -1537,6 +1617,7 @@
 		"hungarian": "Autók",
 		"thai": "รถ",
 		"turkish": "Arabalar",
+		"romanian": "Mașini",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -1556,6 +1637,7 @@
 		"hungarian": "Útak",
 		"thai": "ถนน",
 		"turkish": "Yollar",
+		"romanian": "Drumuri",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -1575,6 +1657,7 @@
 		"hungarian": "Anyagok szükségesek:",
 		"thai": "ทรัพยากรที่จำเป็น:",
 		"turkish": "Gerekli Malzemeler:",
+		"romanian": "Resurse necesare:",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -1594,6 +1677,7 @@
 		"hungarian": "%amount%-nyi %resourceName% bányászása percenként",
 		"thai": "การขุด %resourceName% ได้ %amount% ต่อนาที",
 		"turkish": "Dakikada %amount% adet %resourceName% kazılıyor",
+		"romanian": "Extrage %amount% %resourceName% pe minut",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1613,6 +1697,7 @@
 		"hungarian": "Összes, eddig bányászott: %amount%",
 		"thai": "จำนวนทั้งหมดที่ขุดได้จนถึงตอนนี้: %amount%",
 		"turkish": "Şimdiye kadar toplam kazılan: %amount%",
+		"romanian": "Suma totală extrasă până acum: %amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1632,6 +1717,7 @@
 		"hungarian": "Kerületek",
 		"thai": "จัดการการจัดส่ง",
 		"turkish": "Bölgeler",
+		"romanian": "Districte",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -1651,6 +1737,7 @@
 		"hungarian": "Bal egérgomb festés\nJobb egérgomb törlés",
 		"thai": "คลิกซ้ายเพื่อระบายสี\nคลิกขวาเพื่อลบ",
 		"turkish": "Sol tıkla çiz\nSağ tıkla sil",
+		"romanian": "Clic stânga pentru a picta\nClic dreapta pentru a șterge",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -1670,6 +1757,7 @@
 		"hungarian": "Húzd a kúrzorodat a kerületek között, hogy exportálási szabályt hozz létre.\n\nSzabályok nélküli kerületek exportálhatnak termékeket akármerre.",
 		"thai": "ลากเคอร์เซอร์ของเมาส์ระหว่างเขตเพื่อสร้างกฎการส่งออก\n\nเขตที่ไม่มีกฎการส่งออกสามารถส่งออกสินค้าได้ทุกที่",
 		"turkish": "Bir ihracat kuralı yaratmak için fare imlecini bölgeler arasında oynat.\n\nİhracat kuralı olmayan bölgeler heryere ihracat yapabilirler",
+		"romanian": "Trage cursorul mouse-ului între districte pentru a crea o regulă de export.\n\nDistrictele fără reguli de export pot exporta mărfuri oriunde.",
 	},
 	"populationInfo": {
 		"english": "Population Info",
@@ -1689,6 +1777,7 @@
 		"hungarian": "Népesség információ",
 		"thai": "ข้อมูลประชากร",
 		"turkish": "Nüfus Bilgisi",
+		"romanian": "Informații despre populație",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -1708,6 +1797,7 @@
 		"hungarian": "Migránsok készen, hogy beköltözzenek:",
 		"thai": "",
 		"turkish": "Taşınmaya hazır göçmenler:",
+		"romanian": "Imigranți gata să se mute în:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -1727,6 +1817,7 @@
 		"hungarian": "Migrálási ráta",
 		"thai": "ผู้อพยพพร้อมเข้าอยู่:",
 		"turkish": "Göç oranı:",
+		"romanian": "Rata de imigrare:",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -1746,6 +1837,7 @@
 		"hungarian": "Fejleszd a lakhelyeidet hogy a városodat vonzóbbá tedd az érkezőknek.",
 		"thai": "ปรับปรุงแหล่งที่อยู่อาศัยของคุณเพื่อทำให้เมืองของคุณน่าสนใจสำหรับผู้มาใหม่",
 		"turkish": "Habitatları yüksleterek şehri yeni gelenler için daha çekici yap.",
+		"romanian": "Îmbunătățind habitatele vei face orașul atractiv pentru noii veniți.",
 	},
 	"low": {
 		"english": "Low",
@@ -1765,6 +1857,7 @@
 		"hungarian": "Alacsony",
 		"thai": "ต่ำ",
 		"turkish": "Düşük",
+		"romanian": "Scăzut",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -1784,6 +1877,7 @@
 		"hungarian": "Közepes",
 		"thai": "ปานกลาง",
 		"turkish": "Orta",
+		"romanian": "Moderat",
 	},
 	"high": {
 		"english": "High",
@@ -1803,6 +1897,7 @@
 		"hungarian": "Magas",
 		"thai": "สูง",
 		"turkish": "Yüksek",
+		"romanian": "Înalt",
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -1822,6 +1917,7 @@
 		"hungarian": "Lakhely fejlesztve",
 		"thai": "ปรับปรุงที่อยู่อาศัย",
 		"turkish": "Habitat Yükseltildi",
+		"romanian": "Habitat modernizat",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -1841,6 +1937,7 @@
 		"hungarian": "Lakhely visszafejlesztve",
 		"thai": "ลดระดับที่อยู่อาศัย",
 		"turkish": "Habitat Düşürüldü",
+		"romanian": "Habitat degradat",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -1860,6 +1957,7 @@
 		"hungarian": "MW",
 		"thai": "MW",
 		"turkish": "MW",
+		"romanian": "MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -1879,6 +1977,7 @@
 		"hungarian": "%percentage%%-os hatékonyság",
 		"thai": "ประสิทธิภาพ %percentage%%",
 		"turkish": "%%percentage% Verimlilik",
+		"romanian": "Eficienţă %percentage%%",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -1898,6 +1997,7 @@
 		"thai": "ภาพรวมการผลิต",
 		"turkish": "Üretim Özeti",
 		"italian": "Panoramica della Produzione",
+		"romanian": "Prezentare generală a producției",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -1917,6 +2017,7 @@
 		"thai": "ทรัพยากร",
 		"turkish": "Ürün",
 		"italian": "Risorsa",
+		"romanian": "Resursă",
 	},
 	"priority": {
 		"english": "Priority",
@@ -1936,6 +2037,7 @@
 		"thai": "ลำดับความสำคัญ",
 		"turkish": "Öncelik",
 		"italian": "Priorità",
+		"romanian": "Prioritate",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -1955,6 +2057,7 @@
 		"thai": "ระดับเมือง",
 		"turkish": "Şehir Seviyesi",
 		"italian": "Livello della Città",
+		"romanian": "Nivel de oraș",
 	},
 	"averageHabitatLevel": {
 		"english": "Average habitat level",
@@ -1966,6 +2069,7 @@
 		"polish": "Średni poziom budynków mieszkalnych",
 		"italian": "Livello Medio Habitat",
 		"hungarian": "Átlagos lakhely szint",
+		"romanian": "Nivel mediu de habitat",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -1977,6 +2081,7 @@
 		"polish": "Wymagany poziom budynków mieszkalnych",
 		"italian": "Livello Habitat richiesto",
 		"hungarian": "Szükséges lakhely szint",
+		"romanian": "Nivelul de habitat necesar",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -1988,6 +2093,7 @@
 		"polish": "Magazyn globalny",
 		"italian": "Immagazzinamento globale",
 		"hungarian": "Globális raktár",
+		"romanian": "Stocare globală",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
@@ -1998,7 +2104,8 @@
 		"russian": "На складе строительных материалов хранится бетон и сталь, необходимые для строительства зданий и инфраструктуры.",
 		"polish": "W magazynie materiałów budowlanych przechowywany jest beton oraz stal, które są niezbędne do budowy budynków i infrastruktury.",
 		"italian": "I magazzini per i materiali da costruzione contengono cemento ed acciaio, di cui hai bisogno per construire edifici ed infrastrutture.",
-		"hungarian": "Az építőanyag raktár betont és acélt tárol, amik kellenek az épületek és az infrastruktúra megépítéséhez."
+		"hungarian": "Az építőanyag raktár betont és acélt tárol, amik kellenek az épületek és az infrastruktúra megépítéséhez.",
+		"romanian": "Depozitul pentru materiale de construcție stochează beton și oțel, necesare pentru a construi clădiri și infrastructură.",
 	},
 	// train info panel
 	"train": {
@@ -2011,6 +2118,7 @@
 		"thai":"รถไฟ",
 		"italian": "Treno",
 		"hungarian": "Vonat",
+		"romanian": "Tren",
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -2022,6 +2130,7 @@
 		"thai":"การขนส่ง",
 		"italian": "Trasporto",
 		"hungarian": "Szállít",
+		"romanian": "Transportând",
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2033,6 +2142,7 @@
 		"thai":"สถานีต่อไป",
 		"italian": "Prossima Stazione",
 		"hungarian": "Következő megálló",
+		"romanian": "Urmatoarea stație",
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2045,6 +2155,7 @@
 		"thai":"บรรทุกส่งของ",
 		"italian": "Camion delle consegne",
 		"hungarian": "", //check in-game
+		"romanian": "Camion de livrare",
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2056,6 +2167,7 @@
 		"thai":"เป้าหมาย",
 		"italian": "Obiettivo",
 		"hungarian": "Cél",
+		"romanian": "Ţintă",
 	},
 	// train line info panel
 	"trainLines": {
@@ -2068,6 +2180,7 @@
 		"thai":"เส้นทางรถไฟ",
 		"italian": "Binari",
 		"hungarian": "Vasutak",
+		"romanian": "Linii de tren",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2079,6 +2192,7 @@
 		"thai":"ยอดรวมสินค้าที่ขนส่ง: %amount%",
 		"italian": "Beni trasportati totali: %amount%",
 		"hungarian": "Összes szállított termék: %amount%",
+		"romanian": "Mărfuri transportate în total: %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
@@ -2090,6 +2204,7 @@
 		"thai":"รถไฟอยู่ในเส้นทาง: %amount%",
 		"italian": "Treni sulla linea: %amount%",
 		"hungarian": "Aktív vonatok",
+		"romanian": "Trenuri pe linie: %amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2101,6 +2216,7 @@
 		"thai":"สีรถไฟ",
 		"italian": "Colore del treno",
 		"hungarian": "Vonat színe",
+		"romanian": "Culoarea trenului",
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2113,6 +2229,7 @@
 		"thai":"สัญญาณรถไฟ",
 		"italian": "Segnali dei treni",
 		"hungarian": "Vonat jelzés",
+		"romanian": "Semnalizări de tren",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2124,6 +2241,7 @@
 		"thai":"รางสีแดงระบุส่วนที่รถไฟสามารถชนกันได้",
 		"italian": "I binari rossi indicano i segmenti in cui i treni possono entrare in collisione",
 		"hungarian": "A piros sínek vonatok lehetséges ütközését jelzik.",
+		"romanian": "Șinele roșii indică segmente în care trenurile s-ar putea ciocni.",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2135,6 +2253,7 @@
 		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น",	 
 		"italian": "I binari arancioni mostrano gli incroci fra i binari. Sono create attorno ai segmenti rossi. In molti casi solo un treno alla volta può occupare l'incrocio.",
 		"hungarian": "A narancssárga sínek kereszteződéseket jeleznek. Ezek a piros részek körül jönnek létre. A legtöbb esetben csak egy vonat egyszerre kereszteződést használni",
+		"romanian": "Șinele portocalii arată intersecțiile feroviare. Acestea sunt create în jurul segmentelor roșii. În cele mai multe cazuri, doar un tren poate intra într-o intersecție la un moment dat.",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2146,6 +2265,7 @@
 		"thai":"รางสีเขียวเป็นทางตรงไม่เสี่ยงต่อการชน",
 		"italian": "I binari verdi sono segmenti rettilinei senza rischio di collisione.",
 		"hungarian": "A zöld sínek egyenes részek ahol nincs esély ütközésre.",
+		"romanian": "Șinele verzi sunt segmente fără risc de coliziune.",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2157,6 +2277,7 @@
 		"thai":"ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง",
 		"italian": "Il sistema di segnali per i treni impedisce ai tuoi treni di entrare in collisione o di bloccarsi.",
 		"hungarian": "A vonat jelző rendszer megakadályozza hogy a vonatok ütközzenek, vagy rossz vágányra kerüljenek.",
+		"romanian": "Sistemul de semnalizare a trenurilor împiedică trenurile tale să se ciocnească sau să se blocheze reciproc.",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2168,6 +2289,7 @@
 		"thai":"สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก",
 		"italian": "Per avere un flusso ottimale, accertati di avere abbastanza spazio con lunghi segmenti verdi fra gli incroci.",
 		"hungarian": "Az elakadásokat el lehet kerülni a kereszteződések között hagyott elegendő hosszúságú egyenes rész.",
+		"romanian": "Pentru un debit maxim, asigură-te că ai suficient spațiu cu segmente lungi verzi între intersecții.",
 	},
 	"rails": {
 		"english": "Rails",
@@ -2179,5 +2301,6 @@
 		"thai":"รางรถไฟ",
 		"italian": "Binari",
 		"hungarian": "Sínek",
+		"romanian": "Șine",
 	},
 }
