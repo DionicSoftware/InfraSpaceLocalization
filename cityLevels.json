@@ -18,6 +18,7 @@
 		"thai": "ค่ายขนาดเล็ก",
 		"arabic": "قاعدة",
 		"turkish": "Koloni",
+		"romanian": "Avanpost",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -38,6 +39,7 @@
 		"thai": "นิคมขนาดเล็ก",
 		"arabic": "مستعمرة",
 		"turkish": "Yerleşke",
+		"romanian": "Așezare",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -58,6 +60,7 @@
 		"thai": "หมู่บ้านขนาดเล็ก",
 		"arabic": "بلدة صغيرة",
 		"turkish": "Küçük Kasaba",
+		"romanian": "Oraș mic",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -78,6 +81,7 @@
 		"thai": "หมู่บ้านขนาดใหญ่",
 		"arabic": "بلدة كبيرة",
 		"turkish": "Büyük Kasaba",
+		"romanian": "Oraș mare",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -98,6 +102,7 @@
 		"thai": "เมือง",
 		"arabic": "مدينة",
 		"turkish": "Şehir",
+		"romanian": "Metropolă",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -118,5 +123,6 @@
 		"thai": "เมืองหลวงแห่งดาวเคราะห์",
 		"arabic": "عاصمة كوكبية",
 		"turkish": "Gezegensel Başkent",
+		"romanian": "Capitală planetară",
 	},
 }
