@@ -64,6 +64,7 @@
 		"hungarian": "óra",
 		"thai": "ชั่วโมง",
 		"turkish":"saat",
+		"romanian": "ore",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -84,6 +85,7 @@
 		"hungarian": "ó",
 		"thai": "ชม",
 		"turkish":"s",
+		"romanian": "h",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -127,6 +129,7 @@
 		"hungarian": "perc",
 		"thai": "นาที",
 		"turkish":"dk",
+		"romanian": "min",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
@@ -144,6 +147,7 @@
 		"turkish":"d",
 		"russian": "м.",
 		"italian": "m",
+		"romanian": "m",
 	},
 	"seconds": {
 		"english": "seconds",
