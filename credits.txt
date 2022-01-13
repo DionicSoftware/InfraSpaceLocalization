@@ -1,4 +1,4 @@
-﻿
+
 English + German
 - Daniel
 
@@ -50,3 +50,6 @@ Arabic
 
 Turkish
 - Can Ozan Gürleyen
+
+Romanian
+- Marcel Buian
