@@ -16,8 +16,9 @@
 		  "japanese": "改良された風力発電機",
 		  "hungarian": "Fejlesztett szélerőmű lapátok",
 		  "thai": "ปรับปรุงใบพัดกังหันลม",
-		"turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
-		"danish":"Forbedret Vindmølle Vinger",
+		  "turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
+		  "danish":"Forbedret Vindmølle Vinger",
+	  	  "romanian": "Palete îmbunătățite ale turbinei eoliene",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
 		  "english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
@@ -38,6 +39,7 @@
 		  "thai": "ใบพัดดัดแปลงช่วยลดการรบกวนในอากาศ กังหันลมสามารถวางชิดกันได้ %amount%% เครื่อง",
 		  "turkish":"Uyum sağlamış türbin kanatları hava akımını daha az etkiler. Türbinler %%amount% daha yakın konulabilir.",
 		  "danish":"Tilpassede vinger forårsager mindre forstyrrelser i luften. Vindmøller kan placeres %amount%% tættere på hinanden.",
+	  	  "romanian": "Lamele adaptate creează mai puține perturbări în aer. Turbinele eoliene pot fi plasate cu %amount%% mai aproape una de alta.",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
 		  "english": "Self Cleaning Solar Panels",
@@ -58,6 +60,7 @@
 		  "thai": "แผงโซลาร์เซลล์ทำความสะอาดตัวเอง",
 		  "turkish":"Kendini Temizleyen Güneş Panelleri",
 		  "danish":"Selv-rengørende Solcellepaneler",
+	  	  "romanian": "Panouri solare cu autocurățare",
 	  },
 	  "upgradeDesc_selfCleaningSolarPanels":  {
 		  "english": "Self cleaning panels improve power output by %amount%%.",
@@ -78,6 +81,7 @@
 		  "thai": "แผงทำความสะอาดตัวเองช่วยเพิ่มกำลังไฟฟ้าส่งออกได้ %amount%% หน่วย",
 		  "turkish":"Kendini temizleyen paneller %%amount% daha fazla enerji üretirler.",
 		  "danish":"Selv-rengørende paneler forbedre genereret strøm med %amount%%.",
+	  	  "romanian": "Panourile cu autocurățare îmbunătățesc puterea de ieșire cu %amount%%.",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
 		  "english": "Industrial Waste Recycling",
@@ -98,6 +102,7 @@
 		  "thai": "การรีไซเคิลขยะจากอุตสาหกรรม",
 		  "turkish":"Endüstriyel Atık Geri Dönüşümü",
 		  "danish":"Genanvendelse af industriaffald",
+	  	  "romanian": "Reciclarea deșeurilor industriale",
 	  },
 	  "upgradeDesc_industrialWasteRecycling":  {
 		  "english": "Some of this building's industrial waste is recycled. Every %amount% rounds, it gets all used resources back.",
@@ -118,6 +123,7 @@
 		  "thai": "ขยะจากอุตสาหกรรมบางส่วนของอาคารหลังนี้ถูกนำไปรีไซเคิล ทุกๆ %amount% ชิ้น และจะได้รับทรัพยากรที่ใช้ไปคืนทั้งหมด",
 		  "turkish":"Bu binaın bazı atıkları geri dönüştürülür.Her %amount% seferde kullandığı tüm kaynakları geri alır.",
 		  "danish":"Noget af denne bygnings industrielle affald bliver genanvendt. For hver %amount% produktionsrunder, får bygningen alle de brugte ressourcer tilbage.",
+	  	  "romanian": "O parte din deșeurile industriale ale acestei clădiri sunt reciclate. La fiecare %amount% runde, acesta primește înapoi toate resursele utilizate.",
 	  },
 	  "upgrade_soilEnrichment":  {
 		  "english": "Soil Enrichment",
@@ -138,6 +144,7 @@
 		  "thai": "บำรุงดิน",
 		  "turkish":"Toprak Zenginleştirme",
 		  "danish":"Jord berigelse",
+	  	  "romanian": "Îmbogățirea solului",
 	  },
 	  "upgradeDesc_soilEnrichment":  {
 		  "english": "The soil has been carefully prepared to yield %amount%% larger harvests.",
@@ -158,6 +165,7 @@
 		  "thai": "หลังจากปุ๋ยหมักดินแล้วผลผลิตจะเพิ่มขึ้นอีก %amount%% จำนวน",
 		  "turkish":"Özenle hazırlanan toprak %%amount% daha fazla hasat verir.",
 		  "danish":"Jorden er blevet forsigtigt forberedt til at yde %amount% større høste.",
+	  	  "romanian": "Solul a fost pregătit cu grijă pentru a produce %amount%% recolte mai mari.",
 	  },
 	  "upgrade_industrialRobots":  {
 		  "english": "Industrial Robot",
@@ -178,6 +186,7 @@
 		  "thai": "หุ่นยนต์อุตสาหกรรม",
 		  "turkish":"Endüstriyel Robot",
 		  "danish":"Industriel Robot",
+	  	  "romanian": "Robot industrial",
 	  },
 	  "upgradeDesc_industrialRobots":  {
 		  "english": "Automation reduces your workforce requirements by %amount% worker(s).",
@@ -198,6 +207,7 @@
 		  "thai": "ระบบอัตโนมัติจะช่วยลดความต้องการแรงงานของคุณลงได้ %amount% คน",
 		  "turkish":"Otomasyon sayesinde gerekli iş gücü %%amount% daha azalır.",
 		  "danish":"Automatisering reducerer antallet af nødvendig arbejdskraft med %amount% ansat(te).",
+	  	  "romanian": "Automatizarea reduce cerințele de forță de muncă cu %amount% lucrători.",
 	  },
 	  "upgrade_highTechTools":  {
 		  "english": "High Tech Tools",
@@ -218,6 +228,7 @@
 		  "thai": "เครื่องมือเทคโนโลยีขั้นสูง",
 		  "turkish":"Yüksek Teknoloji Aletler",
 		  "danish":"Højteknologisk Værktøj",
+	  	  "romanian": "Instrumente de înaltă tehnologie",
 	  },
 	  "upgradeDesc_highTechTools":  {
 		  "english": "Better tools lead to increased production by %amount%%.",
@@ -238,6 +249,7 @@
 		  "thai": "เครื่องมือที่ดีกว่านำไปสู่การผลิตที่เพิ่มขึ้นโดยเพิ่มขึ้นจำนวน %amount%% หน่วย",
 		  "turkish":"Geliştirilmiş aletler üretimi %%amount% arttırır.",
 		  "danish":"Bedre værktøj leder til øget produktion med %amount%%.",
+	  	  "romanian": "Uneltele mai bune duc la creșterea producției cu %amount%%.",
 	  },
 	  "upgradeDurabilityTooltipTitle":  {
 		  "english": "Durability",
@@ -258,6 +270,7 @@
 		  "thai": "ความทนทาน",
 		  "turkish":"Dayanıklılık",
 		  "danish":"Holdbarhed",
+	  	  "romanian": "Durabilitate",
 	  },
 	  "upgradeDurabilityTooltipDesc":  {
 		  "english": "A 100% upgrade is brand new, a 0% upgrade is all used up. The upgrade effect is active as long as the percentage is above 0.",
@@ -278,6 +291,7 @@
 		  "thai": "อัปเกรด 100% คือเครื่องใหม่ อัปเกรด 0% คือใช้มันจนหมด ผลกระทบของอัปเกรดจะใช้งานได้ตราบใดที่เปอร์เซ็นต์นั้นสูงกว่า 0",
 		  "turkish":"%100 olan bir yükseltme yeni, %0 olan ise bitikdir. Yükseltmenin etkisi yüzde 0 dan yüksek oldukca geçerlidir.",
 		  "danish":"En 100% opgradering er sprit-ny, en 0% opgradering er opbrugt. Effekten af opgraderingen er aktiv så længe procentsatsen er over 0.",
+	  	  "romanian": "Un upgrade 100% este nou-nouț, un upgrade 0% este tot epuizat. Efectul de upgrade este activ atâta timp cât procentul este peste 0.",
 	  },
   }
   
