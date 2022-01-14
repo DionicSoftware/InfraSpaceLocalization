@@ -112,6 +112,10 @@
 		"thai": "ออก",
 	},
 	"back": {
+		"english": "Back",
+		"german": "Zurück"
+	},
+	"backToGame": {
 		"english": "Back to Game",
 		"german": "Zurück zum Spiel",
 		"french": "Retour au jeu",
