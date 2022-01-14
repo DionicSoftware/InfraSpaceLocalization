@@ -18,6 +18,7 @@
     "thai": "เหมืองทราย",
     "turkish": "Kum Madeni",
     "korean": "모래 채굴기",
+    "romanian": "Mină de nisip",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -38,6 +39,7 @@
     "thai": "เหมืองกำมะถัน",
     "turkish": "Sülfür Madeni",
     "korean": "유황 채굴기",
+    "romanian": "Mină de sulf",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -58,6 +60,7 @@
     "thai": "เหมืองเหล็ก",
     "turkish": "Demir Madeni",
     "korean": "철 채굴기",
+    "romanian": "Mină de fier",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -78,6 +81,7 @@
     "thai": "เหมืองทองแดง",
     "turkish": "Bakır Madeni",
     "korean": "구리 채굴기",
+    "romanian": "Mină de cupru",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -98,6 +102,7 @@
     "thai": "เหมืองอลูมิเนียม",
     "turkish": "Alüminyum Madeni",
     "korean": "알루미늄 채굴기",
+    "romanian": "Mină de aluminiu",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -118,6 +123,7 @@
     "thai": "เหมืองยูเรเนียม",
     "turkish": "Uranyum Madeni",
     "korean": "우라늄 채굴기",
+    "romanian": "Mină de uraniu",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -138,6 +144,7 @@
     "thai": "เหมืองอิริเดียม",
     "turkish": "İridyum Madeni",
     "korean": "이리듐 채굴기",
+    "romanian": "Mină de iridiu",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -158,6 +165,7 @@
     "thai": "เหมืองทรายขนาดใหญ่",
     "turkish": "Büyük Kum Madeni",
     "korean": "대형 모래 채굴기",
+    "romanian": "Mină mare de nisip",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -178,6 +186,7 @@
     "thai": "เหมืองกำมะถันขนาดใหญ่",
     "turkish": "Büyük Sülfür Madeni",
     "korean": "대형 유황 채굴기",
+    "romanian": "Mină mare de sulf",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -198,6 +207,7 @@
     "thai": "เหมืองเหล็กขนาดใหญ่",
     "turkish": "Büyük Demir Madeni",
     "korean": "대형 철 채굴기",
+    "romanian": "Mină mare de fier",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -218,6 +228,7 @@
     "thai": "เหมืองทองแดงขนาดใหญ่",
     "turkish": "Büyük Bakır Madeni",
     "korean": "대형 구리 채굴기",
+    "romanian": "Mină mare de cupru",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -238,6 +249,7 @@
     "thai": "เหมืองอลูมิเนียมขนาดใหญ่",
     "turkish": "Büyük Alüminyum Madeni",
     "korean": "대형 알루미늄 채굴기",
+    "romanian": "Mină mare de aluminiu",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -258,6 +270,7 @@
     "thai": "เหมืองยูเรเนียมขนาดใหญ่",
     "turkish": "Büyük Uranyum Madeni",
     "korean": "대형 우라늄 채굴기",
+    "romanian": "Mină mare de uraniu",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -278,6 +291,7 @@
     "thai": "เหมืองอิริเดียมขนาดใหญ่",
     "turkish": "Büyük İridyum Madeni",
     "korean": "대형 이리듐 채굴기",
+    "romanian": "Mină mare de iridiu",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -298,6 +312,7 @@
     "thai": "โรงงานชิ้นส่วนอิเล็กทรอนิกส์",
     "turkish": "Elektronik Fabrikası",
     "korean": "전자부품 공장",
+    "romanian": "Fabrică de electronice",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -318,6 +333,7 @@
     "thai": "โรงงานไมโครชิป",
     "turkish": "Mikroçip Fabrikası",
     "korean": "마이크로칩 공장",
+    "romanian": "Fabrică de microcipuri",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -338,6 +354,7 @@
     "thai": "โรงงานเครื่องประมวลผลประสาท",
     "turkish": "Nöral İşlemci Fabrikası",
     "korean": "신경칩 공장",
+    "romanian": "Fabrică de procesoare neuronale",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -358,6 +375,7 @@
     "thai": "โรงงานมอเตอร์",
     "turkish": "Motor Fabrikası",
     "korean": "모터 공장",
+    "romanian": "Fabrică de motoare",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -378,6 +396,7 @@
     "thai": "โรงงานท่อนาโน",
     "turkish": "Nanotüp Fabrikası",
     "korean": "나노튜브 공장",
+    "romanian": "Fabrică de nanotuburi",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -398,6 +417,7 @@
     "thai": "โรงงานโลหะผสมอิริเดียม",
     "turkish": "İridyum Alaşımı Fabrikası",
     "korean": "이리듐합금 공장",
+    "romanian": "Fabrică de aliaje de iridiu",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -418,6 +438,7 @@
     "thai": "โรงงานจอแสดงผลโฮโลแกรม",
     "turkish": "Holo-Ekran Fabrikası",
     "korean": "입체화면 공장",
+    "romanian": "Fabrică de Holo-Afișaje",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -438,6 +459,7 @@
     "thai": "โรงงานแกนรังสี",
     "turkish": "Radyasyon Çekirdeği Fabrikası",
     "korean": "전자파코어 공장",
+    "romanian": "Fabrică de miez de radiații",
   },
   "concreteFactory": {
     "english": "Concrete Factory",
@@ -458,6 +480,7 @@
     "thai": "โรงงานคอนกรีต",
     "turkish": "Beton Fabrikası",
     "korean": "콘크리트 공장",
+    "romanian": "Fabrică de beton",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -478,6 +501,7 @@
     "thai": "โรงตีเหล็กกล้า",
     "turkish": "Çelik Fabriaksı",
     "korean": "제철소 ",
+    "romanian": "Combinat siderurgic",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -498,6 +522,7 @@
     "thai": "โรงงานเครื่องใช้ในบ้าน",
     "turkish": "Ev Aletleri Fabrikası",
     "korean": "생활가전 공장",
+    "romanian": "Fabrică de electrocasnice",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -518,6 +543,7 @@
     "thai": "โรงงานคอมพิวเตอร์",
     "turkish": "Bilgisayar Fabrikası",
     "korean": "컴퓨터 공장",
+    "romanian": "Fabrică de calculatoare",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -538,6 +564,7 @@
     "thai": "โรงงานหุ่นยนต์บ้าน",
     "turkish": "Ev Robotu Fabrikası",
     "korean": "가정로봇 공장",
+    "romanian": "Fabrică de roboți de casă",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -558,6 +585,7 @@
     "thai": "โรงงานหุ่นยนต์อุตสาหกรรม",
     "turkish": "Endüstriyel Robot Fabrikası",
     "korean": "공업로봇 공장",
+    "romanian": "Fabrică de roboți industriali",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -578,6 +606,7 @@
     "thai": "ห้องพัฒนาเทคโนโลยีขั้นสูง",
     "turkish": "Yüksek Teknoloji Atölyesi",
     "korean": "첨단과학 공작소",
+    "romanian": "Atelier de înaltă tehnologie",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -598,6 +627,7 @@
     "thai": "โรงงานเครื่องจำลองโลกบันเทิงเสมือนจริง",
     "turkish": "VR Eğitim-Eğlence Fabrikası",
     "korean": "교육용VR 공장",
+    "romanian": "Fabrică de divertisment în Realitatea-Virtuală",
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -618,6 +648,7 @@
     "thai": "โรงงานเชื้อเพลิงอิริเดียม",
     "turkish": "İridyum İtici Fabrikası",
     "korean": "이리듐 추진체 공장",
+    "romanian": "Fabrică de combustibil de iridiu",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -638,6 +669,7 @@
     "thai": "โรงงานตัวควบคุมปัญญาประดิษฐ์",
     "turkish": "AI Kontrol Unitesi Fabrikası",
     "korean": "AI제어유닛 공장",
+    "romanian": "Fabrică de unități în inteligență artificială",
   },
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
@@ -658,6 +690,7 @@
     "thai": "โรงงานชุดวิทยาศาสตร์สีน้ำเงิน",
     "turkish": "Mavi Bilim Paketi Fabrikası",
     "korean": "파랑 과학팩 공장",
+    "romanian": "Fabrică de pachete albastre de știină",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -678,6 +711,7 @@
     "thai": "โรงงานชุดวิทยาศาสตร์สีเขียว",
     "turkish": "Yeşil Bilim Paketi Fabrikası",
     "korean": "초록 과학팩 공장",
+    "romanian": "Fabrică de pachete verzi de știină",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -698,6 +732,7 @@
     "thai": "โรงงานชุดวิทยาศาสตร์สีเหลือง",
     "turkish": "Sarı Bilim Paketi Fabrikası",
     "korean": "노랑 과학팩 공장",
+    "romanian": "Fabrică de pachete galbene de știină",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -718,6 +753,7 @@
     "thai": "โรงงานชุดวิทยาศาสตร์สีแดง",
     "turkish": "Kırmızı Bilim Paketi Fabrikası",
     "korean": "빨강 과학팩 공장",
+    "romanian": "Fabrică de pachete roșii de știină",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -738,6 +774,7 @@
     "thai": "ห้องปฏิบัติการวิจัย",
     "turkish": "Araştırma Labaratuvarı",
     "korean": "연구소",
+    "romanian": "Laborator de cercetare",
   },
   "storehouse": {
     // TODO-chinese
@@ -760,6 +797,7 @@
     "thai": "โรงจัดเก็บวัสดุก่อสร้าง",
     "turkish": "Depo",
     "korean": "창고",
+    "romanian": "Depozitare materiale de construcții",
   },
   "spacePort": {
     "english": "Space Port",
@@ -780,6 +818,7 @@
     "thai": "ท่ายานอวกาศ",
     "turkish": "Uzay Limanı",
     "korean": "우주항",
+    "romanian": "Port spațial",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -800,6 +839,7 @@
     "thai": "ศูนย์กลางรีไซเคิล",
     "turkish": "Geri Dönüşüm Merkezi",
     "korean": "재활용센터",
+    "romanian": "Centru de reciclare",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -820,6 +860,7 @@
     "thai": "โรงบำรุงดิน",
     "turkish": "Toprak Zenginleştirme Tesisi",
     "korean": "토질개선시설",
+    "romanian": "Instalație de îmbogățire a solului",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -840,6 +881,7 @@
     "thai": "โรงแปรรูปบรรยากาศ",
     "turkish": "Hava İşleyici",
     "korean": "대기생산시설",
+    "romanian": "Procesor de atmosferă",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -860,6 +902,7 @@
     "thai": "โรงแปรรูปออกซิเจน",
     "turkish": "Oksijen İşleyici",
     "korean": "산소생산시설",
+    "romanian": "Procesor de oxigen",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -880,6 +923,7 @@
     "thai": "โรงแปรรูปคาร์บอน",
     "turkish": "Karbon İşleyici",
     "korean": "탄소생산시설",
+    "romanian": "Procesor de carbon",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -900,6 +944,7 @@
     "thai": "ไร่อย่างง่าย",
     "turkish": "Basit Tarla",
     "korean": "간이 농장",
+    "romanian": "Fermă simplă",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -920,6 +965,7 @@
     "thai": "โรงงานปุ๋ย",
     "turkish": "Gübre Fabrikası",
     "korean": "비료 공장",
+    "romanian": "Fabrică de îngrășăminte",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -940,6 +986,7 @@
     "thai": "ไร่ผัก",
     "turkish": "Sebze Tarlası",
     "korean": "야채 농장",
+    "romanian": "Fermă de legume",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -960,6 +1007,7 @@
     "thai": "ห้องวิจัยเนื้อ",
     "turkish": "Et Labaratuvar",
     "korean": "고기 연구소",
+    "romanian": "Laborator de carne",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -980,6 +1028,7 @@
     "thai": "โรงงานเนื้อ",
     "turkish": "Yemek Fabrikası",
     "korean": "고기 공장",
+    "romanian": "Fabrică de mâncare",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -1000,6 +1049,7 @@
     "thai": "ที่อยู่อาศัยทั่วไป",
     "turkish": "Basit Habitat",
     "korean": "기초 거주시설(LV1)",
+    "romanian": "Habitat de bază",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -1020,6 +1070,7 @@
     "thai": "ที่อยู่อาศัยอย่างดี",
     "turkish": "İyi Habitat",
     "korean": "일반 거주시설(LV2)",
+    "romanian": "Habitat decent",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -1040,6 +1091,7 @@
     "thai": "ที่อยู่อาศัยที่สุดสบาย",
     "turkish": "Güzel Habitat",
     "korean": "나은 거주시설(LV3)",
+    "romanian": "Habitat frumos",
   },
   "habitatLevel4": {
     "english": "Residential building",
@@ -1060,6 +1112,7 @@
     "thai": "อาคารสำหรับอยู่อาศัย",
     "turkish": "Konut",
     "korean": "좋은 거주시설(LV4)",
+    "romanian": "Clădire rezidențială",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -1080,6 +1133,7 @@
     "thai": "อาคารพักอาศัย",
     "turkish": "Gökdelen",
     "korean": "고급 거주시설(LV5)",
+    "romanian": "Zgârie-nori rezidențial",
   },
   "habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -1100,6 +1154,7 @@
     "thai": "อาคารพักอาศัยสุดหรู",
     "turkish": "Lüks Gökdelen",
     "korean": "최고 거주시설(LV6)",
+    "romanian": "Rezidențial de lux",
   },
   "park": {
     "english": "Park",
@@ -1120,6 +1175,7 @@
     "thai": "สวน",
     "turkish": "Park",
     "korean": "공원",
+    "romanian": "Parc",
   },
   "arena": {
     "english": "Stadium",
@@ -1140,6 +1196,7 @@
     "thai": "สนามกีฬา",
     "turkish": "Arena",
     "korean": "경기장",
+    "romanian": "Stadion",
   },
   "school": {
     "english": "School",
@@ -1160,6 +1217,7 @@
     "thai": "โรงเรียน",
     "turkish": "Okul",
     "korean": "학교",
+    "romanian": "Școală",
   },
   "powerPole": {
     "english": "Power Pole",
@@ -1180,6 +1238,7 @@
     "thai": "เสาไฟฟ้า",
     "turkish": "Elektrik Direği",
     "korean": "전봇대",
+    "romanian": "Stâlp de electricitate",
   },
   "powerSubstation": {
     "english": "Power Substation",
@@ -1200,6 +1259,7 @@
     "thai": "สถานีไฟฟ้าย่อย",
     "turkish": "Elektrik Trafosu",
     "korean": "변전소",
+    "romanian": "Substație electrică",
   },
   "windTurbine": {
     "english": "Wind Turbine",
@@ -1220,6 +1280,7 @@
     "thai": "กังหันลม",
     "turkish": "Rüzgar Türbini",
     "korean": "풍력발전소",
+    "romanian": "Turbină eoliană",
   },
   "solarPowerPlant": {
     "english": "Solar Power Plant",
@@ -1240,6 +1301,7 @@
     "thai": "โรงไฟฟ้าพลังงานแสงอาทิตย์",
     "turkish": "Güneş Enerjisi Santrali",
     "korean": "태양광 발전소",
+    "romanian": "Centrală solară",
   },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
@@ -1260,6 +1322,7 @@
     "thai": "โรงไฟฟ้านิวเคลียร์",
     "turkish": "Nükleer Santral",
     "korean": "원자력 발전소",
+    "romanian": "Centrală nucleară",
   },
   "fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1280,6 +1343,7 @@
     "thai": "เครื่องปฏิกรณ์นิวตรอนเร็ว",
     "turkish": "Hızlı Nötrön Reaktörü",
     "korean": "핵융합 발전소",
+    "romanian": "Reactor rapid cu neutroni",
   },
   "signStanding": {
     "english": "Great Standing Sign",
@@ -1300,6 +1364,7 @@
     "thai": "ป้ายตั้งขนาดใหญ่",
     "turkish": "Büyük Dikey Tabela",
     "korean": "거대 입식 간판",
+    "romanian": "Semn mare pe picioare",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -1320,6 +1385,7 @@
     "thai": "ป้ายขนาดใหญ่",
     "turkish": "Büyük Yatay Tabela",
     "korean": "거대 좌식 간판",
+    "romanian": "Semn mare așezat",
   },
   "monumentDrill": {
     "english": "Colossal Adamantine Drill",
@@ -1340,6 +1406,7 @@
     "thai": "ดอกสว่านอาดามันเทียมขนาดมหึมา",
     "turkish": "Devasa Adamantin Matkabı",
     "korean": "아다만타이트 채굴기",
+    "romanian": "Burghiu uriaș de adamantin",
   },
   "trainStationWithName": { // like "Train Station Alpha"
     "english": "Train Station %name%",
@@ -1351,6 +1418,7 @@
     "polish": "Stacja kolejowa %name%",
     "italian": "Stazione ferroviaria %name%",
     "hungarian": "%name% vasúti megálló",
+    "romanian": "Gara %name%",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1362,6 +1430,7 @@
     "polish": "Mała stacja kolejowa",
     "italian": "Stazione Ferroviaria Piccola",
     "hungarian": "Kis vasútállomás",
+    "romanian": "Gară mică",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1373,6 +1442,7 @@
     "polish": "Średnia stacja kolejowa",
     "italian": "Stazione Ferroviaria Media",
     "hungarian": "Közepes vasútállomás",
+    "romanian": "Gară medie",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1384,6 +1454,7 @@
     "polish": "Duża stacja kolejowa",
     "italian": "Stazione Ferroviaria Grande",
     "hungarian": "Nagy vasútállomás",
+    "romanian": "Gară mare",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -1395,5 +1466,6 @@
     "polish": "Dworzec główny",
     "italian": "Stazione Ferroviaria Principale",
     "hungarian": "Fő vasútállomás",
+    "romanian": "Gara principală",
   },
 }

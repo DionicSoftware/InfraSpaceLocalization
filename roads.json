@@ -18,6 +18,7 @@
 		"thai": "ถนนลูกรัง",
 		"arabic": "طريق غير معبد",
 		"turkish": "Çakıl Yol",
+		"romanian": "Drum de pietriș",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -38,6 +39,7 @@
 		"thai": "ถนนคอนกรีต",
 		"arabic": "طريق إسمنتي",
 		"turkish": "Beton Yol",
+		"romanian": "Drum de beton",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -58,6 +60,7 @@
 		"thai": "ทางหลวง",
 		"arabic": "طريق سريع",
 		"turkish": "Otoyol",
+		"romanian": "Autostradă",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -78,6 +81,7 @@
 		"thai": "ทางด่วน",
 		"arabic": "طريق فائق السرعة",
 		"turkish": "Süper Otoyol",
+		"romanian": "Super-autostradă",
 	},
 	"rail_oneWay": {
 		"english": "Rail",
@@ -88,5 +92,7 @@
 		"polish": "Tor",
 		"italian": "Ferrovia",
 		"hungarian": "Sín",
+		"romanian": "Șină",
+		"ukrainian": "Залізнична колія",
 	},
 }

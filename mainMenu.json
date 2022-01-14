@@ -21,8 +21,7 @@
 		"slovak": "Nová hra",
 		"hungarian": "Új játék",
 		"thai": "เริ่มเกมใหม่",
-	}
-	,
+	},
 	"saveGame": {
 		"english": "Save Game",
 		"german": "Spiel Speichern",
@@ -61,7 +60,7 @@
 		"polish": "Wczytaj grę",
 		"italian": "Carica partita",
 		"czech": "Načíst hru",
-		"romanian": "Încarcă jocul",
+		"romanian": "Încarcă un joc salvat",
 		"japanese": "ゲームを読み込みする",
 		"slovak": "Načítať hru",
 		"hungarian": "Betöltés",
@@ -128,6 +127,7 @@
 		"turkish":"Oyuna Dön",
 		"russian": "Вернуться в игру",
 		"italian": "Ritorna al Gioco",
+		"romanian": "Înapoi la joc",
 	},
 	"website": {
 		"english": "Website",
@@ -280,6 +280,7 @@
 		"thai": "ชุมชน",
 		"arabic": "منتدى اللاعبين",
 		"turkish":"Topluluk",
+		"romanian": "Comunitate",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -300,6 +301,7 @@
 		"thai": "นี่คือเวอร์ชันอัลฟ่า",
 		"arabic": "هذا إصدار اختباري",
 		"turkish":"Bu bir Alfa Sürümdür",
+		"romanian": "Aceasta este o versiune alfa",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -320,6 +322,7 @@
 		"thai": "เกมนี้ยังไม่เสร็จอาจจะมีข้อผิดพลาด\n\nเรากำลังเผยแพร่เวอร์ชันแรกๆ พวกนี้ให้กับผู้เล่น เพื่อให้เราได้รับคำติชมจากการเล่นและค้นหาจุดบกพร่องก่อนการเปิดตัวอย่างเป็นทางการ\n\nแจ้งให้เราทราบว่าคุฯชอบมันหรือไม่!",
 		"arabic": "هذه اللعبة ليست مكتملة بعد.\n\nنحن نقوم بإطلاق تلك الإصدارات المبكرة للاعبين حتى نحصل على بعض التقييمات عن تجربة اللعب  واكتشاف المشاكل قبل إطلاق اللعبة الرسمي بكثير.\n\nأخبرنا كيف تحب اللعبة!",
 		"turkish":"Bu oyun daha tamamlanmamaışdır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
+		"romanian": "Acest joc nu este încă terminat. Poate conține bug-uri.\n\nLansăm jucătorilor aceste versiuni timpurii, astfel încât să putem obține feedback despre joc și să găsim erori cu mult înainte de lansarea oficială.\n\nSpune-ne cum îți place!",
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -429,6 +432,7 @@
 		"thai": "ค่ายขนาดเล็ก Theta-3",
 		"arabic": "القاعدة Theta-3",
 		"turkish":"Koloni Theta-3",
+		"romanian": "Avanpost Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -758,6 +762,7 @@
 		"thai": "เต็มจอพิเศษ",
 		"arabic": "ملء تام للشاشة",
 		"turkish":"Exclusive Tam Ekran",
+		"romanian": "Ecran complet exclusiv",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -1108,6 +1113,7 @@
 		"thai": "แสดงการสาธิต",
 		"arabic": "إظهار الإرشادات",
 		"turkish":"Öğreticileri Göster",
+		"romanian": "Afișați tutoriale",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -1128,6 +1134,7 @@
 		"thai": "รีเซ็ตบทเรียนที่เรียนแล้ว",
 		"arabic": "تجاوز الإرشادات",
 		"turkish":"Öğreticileri Sıfırla",
+		"romanian": "Resetați tutorialele cunoscute",
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1280,6 +1287,7 @@
 		"thai": "ไชโย!",
 		"arabic": "مرحى!",
 		"turkish":"Eyooo!",
+		"romanian": "Ura!",
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1499,6 +1507,7 @@
 		"thai": "งานก่อสร้าง",
 		"arabic": "بناء",
 		"turkish":"İnşaat",
+		"romanian": "Construcție",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1519,6 +1528,7 @@
 		"thai": "ยกถนนขึ้น",
 		"arabic": "رفع الطريق",
 		"turkish":"Yolu Yükselt",
+		"romanian": "Ridică drumul",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1539,6 +1549,7 @@
 		"thai": "ลดถนนลง",
 		"arabic": "خفض الطريق",
 		"turkish":"Yolu Alçalt",
+		"romanian": "Coboară drumul",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1691,6 +1702,7 @@
 		"thai": "โหมดถ่ายรูปหน้าจอ",
 		"arabic": "وضع التقاط صورة شاشة",
 		"turkish":"Ekran Görüntüsü Modu",
+		"romanian": "Mod captură de ecran",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1713,7 +1725,6 @@
 		"slovak": "Otvoriť adresár snímok",
 		"hungarian": "Képernyőképek mappa megnyitása",
 		"thai": "เปิดโฟลเดอร์รูปหน้าจอ",
-		
 	},
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
@@ -1734,6 +1745,7 @@
 		"thai": "เปิดที่เก็บรูปหน้าจอ / บันทึก",
 		"arabic": "افتح لقطات الشاشة / المحفوظات",
 		"turkish":"Ekran Görüntülerini / Dünyaları Aç",
+		"romanian": "Deschideți dosarul cu capturile de ecran / Salvări",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1817,7 +1829,7 @@
 		"italian": "Tasto centrale del mouse",
 		"polish": "ŚPM",
 		"czech": "Prostřední tlačítko myši",
-		"romanian": "Butonul din mijloc al mausului",
+		"romanian": "Mouse: buton-mijloc",
 		"japanese": "中央マウスボタン[ホイールボタン]",
 		"slovak": "Prostredné tlačídko myši",
 		"hungarian": "Középső egérgomb",
@@ -2018,6 +2030,7 @@
 		"thai": "PageUp",
 		"arabic": "Page Up",
 		"turkish":"Pg Up",
+		"romanian": "PageUp",
 	},
 	"key_PageDown": {
 		"english": "Page Down",
@@ -2038,6 +2051,7 @@
 		"thai": "PageDown",
 		"arabic": "Page Down",
 		"turkish":"Pg Dn",
+		"romanian": "PageDown",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -2081,6 +2095,7 @@
 		"thai": "แผนงาน",
 		"arabic": "خارطة طريق",
 		"turkish":"Planlar",
+		"romanian": "Planuri de viitor",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -2101,6 +2116,7 @@
 		"thai": "ไม่พบแผนงาน \n\nคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือยัง?",
 		"arabic": "لم يتم إيجاد خريطة طريق.\n\nهل أنت متصل بالإنترنت؟",
 		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısnız?",
+		"romanian": "Nu s-au găsit planurile de viitor.\n\nEști conectat la internet?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -2121,6 +2137,7 @@
 		"thai": "คุณสมบัติที่รับประกันสำหรับการเล่นระหว่างการพัฒนา",
 		"arabic": "مميزات مضمونة في الإصدار الأولي",
 		"turkish":"Erken erişimede garantili",
+		"romanian": "Caracteristici garantate pentru access anticipat",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -2141,6 +2158,7 @@
 		"thai": "โหวตคุณสมบัติพิเศษ",
 		"arabic": "صوت على مميزات زائدة",
 		"turkish":"Ek özelliklere oy verin",
+		"romanian": "Votează pentru funcțiile suplimentare",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -2161,6 +2179,7 @@
 		"thai": "โหวตคุณลักษณะที่คุณชื่นชอบเพื่อแจ้งให้เราทราบว่าเราควรเน้นเรื่องใด \nเราจะเลือกจากรายการนี้ตามความปรารถนาของชุมชนและความเหมาะสมกับเกม",
 		"arabic": "صوت على المميزات المفضلة لديك لتعلمنا بما يجب علينا التركيز عليه.\nسنختار من هذه القائمة بناء على رغبة الجمهور ومدى إمكانية تطبيقها في اللعبة.",
 		"turkish":"Favori özelliklerinize oyun verin.\nTopluluğun isteklerine ve oyuna uyumuna bağlı olarak bu listedeki özellikleri oyuna ekliyeceğiz.",
+		"romanian": "Votează funcțiile tale preferate pentru a ne spune pe ce ar trebui să ne concentrăm.\nVom alege din această listă în funcție de dorințele comunității și de cât de bine se potrivesc în joc.",
 	},
 	"vote": {
 		"english": "Vote",
@@ -2181,6 +2200,7 @@
 		"thai": "โหวต",
 		"arabic": "صوت",
 		"turkish":"Oy Ver",
+		"romanian": "Votează",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -2201,6 +2221,7 @@
 		"thai": "พิจารณา",
 		"arabic": "ناقش",
 		"turkish":"Tartış",
+		"romanian": "Discută în forum",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -2221,6 +2242,7 @@
 		"thai": "รายงานข้อผิดพลาด",
 		"arabic": "أبلغ عن مشكلة",
 		"turkish":"Hata Bildir",
+		"romanian": "Raportează o eroare",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -2241,6 +2263,7 @@
 		"thai": "แปลเกม InfraSpace",
 		"arabic": "ترجم InfraSpace",
 		"turkish":"InfraSpace i çevir",
+		"romanian": "Traducere InfraSpace",
 	},
 	"roadmap_trafficTools_title": {
 		"english": "Traffic Signs and Traffic Lights",
@@ -2261,6 +2284,7 @@
 		"thai": "แปลเกม InfraSpace",
 		"arabic": "إشارات المرور وعلامات المرور",
 		"turkish":"Trafik Işıkları ve Trafik Tabelaları",
+		"romanian": "Semne de circulație și semafoare",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -2281,6 +2305,7 @@
 		"thai": "ป้องกันไม่ให้เกิดทางแยกที่จะทำให้รถติดและจัดลำดับความสำคัญด้วยว่ารถคันใดต้องไปก่อนได้",
 		"arabic": "حافظ على تقاطعات الطرق الخاصة بك من الاختناق المروري وضع أولويات من يمشي أولا",
 		"turkish":"Yolların tıkanmasını engelle ve araçlara öncelik ver.",
+		"romanian": "Evită înfundarea intersecțiilor și acordă prioritate mașinilor care pot merge primele.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -2301,6 +2326,7 @@
 		"thai": "รถไฟ",
 		"arabic": "قطارات",
 		"turkish":"Trenler",
+		"romanian": "Trenuri",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -2321,6 +2347,7 @@
 		"thai": "ทางหลวงเป็นสิ่งที่ดี แต่บางครั้งคุณต้องขนส่งวัสดุหลายพันตันไปทั่วครึ่งเมือง",
 		"arabic": "الطرق السريعة لطيفة، لكن أحيانا تحتاج لنقل آلاف الأطنان من الموارد عبر المدينة.",
 		"turkish":"Otoyollar güzel bile olsa bazen şehirlerin içinden tonlarca malzeme taşımak için trenler dahay iyidir.",
+		"romanian": "Autostrăzile sunt frumoase, dar uneori trebuie să transporți mii de tone de materiale prin jumătate de oraș.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -2341,6 +2368,7 @@
 		"thai": "โครงการใหญ่ท้ายเกม",
 		"arabic": "مشروع نهاية اللعبة الكبير",
 		"turkish":"Büyük Oyun Sonu Projeleri",
+		"romanian": "Proiect mare de final de joc",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -2361,6 +2389,7 @@
 		"thai": "คุณได้ขยายเมืองของคุณให้เต็มที่และจบสายวิจัยแล้วหรือยัง? คุณกำลังมองหาความท้าทายครั้งสุดท้ายหรือไม่?",
 		"arabic": "هل وصلت إلى أعلى مستوى في مدينتك وأنهيت الشجرة التقنية؟ هل تبحث عن تحدي أخير؟",
 		"turkish":"Herşeyin üretimini en verimli hale getirdikden ve tüm araştırmaları tamaladıkdan sonra bile bir meydan okumaya hazırmısın?",
+		"romanian": "Ți-ai depășit orașul și ai terminat arborele tehnologic? Cauți o ultimă provocare?",
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -2381,6 +2410,7 @@
 		"thai": "กระเช้าลอยฟ้าสำหรับขึ้นที่สูง",
 		"arabic": "تلفريك للوصول إلى الأراضي المرتفعة",
 		"turkish":"Yüksek eğimler için telefirik",
+		"romanian": "Gondole pentru a face legătura cu platoul",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -2401,6 +2431,7 @@
 		"thai": "กระเช้าบรรทุกสินค้าความจุขนาดใหญ่สามารถขนส่งสินค้าผ่านโขดหินและภูเขาได้",
 		"arabic": "عربات موارد تلفريك كبيرة السعة تستطيع حمل بضائعك فوق الصخور والجبال.",
 		"turkish":"Yüksek kapasiteli kargo telefirikleri dik yollardan kargo çıkarmayı mümkün kılıyor",
+		"romanian": "Gondolele de marfă de mare capacitate care transportă mărfurile peste stânci și munți.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -2421,6 +2452,7 @@
 		"thai": "ระบบความสุข",
 		"arabic": "نظام سعادة",
 		"turkish":"Mutluluk Sistemi",
+		"romanian": "Sistem de fericire",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -2441,6 +2473,7 @@
 		"thai": "แก้ไขระบบการตัดสินใจเมื่อจะปรับปรุงแหล่งที่อยู่อาศัย โดยคำนึงถึงอาคารที่บริการ เสียงรบกวน กฎหมาย และอื่นๆ",
 		"arabic": "نظام مطور ليقرر متى تتطور الوحدات السكنية. يأخذ في عين الاعتبار ما يجوارها من المباني الخدمية، الإزعاج، القوانين، والكثير.",
 		"turkish":"Habitatları yükseltmek için mutluluk sağlanmalı. Servis binaları, ses ve yönetim gibi faktörleri göz önüne alır.",
+		"romanian": "Sistem îmbunătățit pentru a decide când se modernizează habitatele. Ia în considerare clădirile de servicii din apropiere, zgomotul, ordonanțele și multe altele.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -2461,7 +2494,7 @@
 		"thai": "รองรับม็อด",
 		"arabic": "دعم التعديلات",
 		"turkish":"Modlama desteği",
-		
+		"romanian": "Suport pentru mod-uri",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -2482,6 +2515,7 @@
 		"thai": "รองรับม็อดสมดุล ม็อดอาคาร ม็อดทรัพยากร ม็อด UI ม็อดโครงสร้างพื้นฐาน และม็อดสคริปต์",
 		"arabic": "دعم تعديلات التوازن، تعديلات المباني، تعديلات الموارد، تعديلات واجهة المستخدم، تعديلات البنية التحتية، وتعديلات النصوص.",
 		"turkish":"Dengeleme, inşaat, kaynak, arayüz, altyapı ve script modları için destek.",
+		"romanian": "Suport pentru mod-uri de echilibru, mod-uri de construcție, mod-uri de resurse, mod-uri de UI, mod-uri de infrastructură și mod-uri de script.",
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -2502,6 +2536,7 @@
 		"thai": "ท่อสำหรับของเหลวและก๊าซ",
 		"arabic": "أنابيب للسوائل والغازات",
 		"turkish":"Sıvılar Ve Gazlar İÇin Borular",
+		"romanian": "Conducte pentru lichide si gaze",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -2522,6 +2557,7 @@
 		"thai": "จะเกิดอะไรขึ้นถ้าคุณสามารถขนส่งทรัพยากรปริมาณมากในใต้พื้นดินหรือในท่อได้ จะเป็นอย่างไร ถ้าคุณต้องการผลิตน้ำเพื่อความอยู่รอด",
 		"arabic": "ماذا لو كان بإمكانك نقل كميات كبيرة من الموارد تحت الأرض أو خلال خطوط أنابيب؟ ماذا لو احتجت أن تنتج الماء لتنجو؟",
 		"turkish":"Ya yer altından veya borulardan yüksek miktarfa kaynak taşınabilseydi? Veya kolonistlerinize su sağlamak gerekseydi?",
+		"romanian": "Ce ai zice dacă ai putea transporta cantități mari de resurse sub pământ sau în conducte? Ce ai zice dacă ai avea nevoie să produci apă pentru a supraviețui?",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -2542,6 +2578,7 @@
 		"thai": "ระบบทำความร้อน",
 		"arabic": "نظام تدفئة",
 		"turkish":"Isı Sistemi",
+		"romanian": "Sistem de încălzire",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -2562,6 +2599,7 @@
 		"thai": "ระบบช่วยชีวิตมีความสำคัญในอวกาศการทำให้เมืองของคุณอบอุ่นหรือเย็นพอดีนั่นเป็นเรื่องวิกฤต",
 		"arabic": "نظم دعم الحياة مهمة في الفضاء - الحفاظ على مدينتك دافئة أو باردة بشكل كافي قد يكون حرجا.",
 		"turkish":"Yaşam destek üniteleri uzayda yaşam için şart - şehrinizin ısısını doğru ayarlamak ölümle yaşam arasında inci bir çizgi olabilir",
+		"romanian": "Sistemele de susținere a vieții sunt importante în spațiu - menținerea orașului suficient de cald sau de răcoare ar putea fi esențială.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -2582,6 +2620,7 @@
 		"thai": "สลับกลางวัน-กลางคืน",
 		"arabic": "دورة الليل والنهار",
 		"turkish":"Gece-Gündüz",
+		"romanian": "Ciclu zi-noapte",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -2602,6 +2641,7 @@
 		"thai": "ดูเหมือนจะหนาวนะคุณต้องเตรียมพลังงานสำหรับค่ำคืนนี้ มันทำงานได้ดีกับระบบทำความร้อนเพื่อให้ความหนาวบนดาวเคราะห์นี้หายไปอย่างรวดเร็วในคืนนี้",
 		"arabic": "يبدو الجو باردا ويجب عليك تجهيز شبكة الطاقة الخاصة لقضاء الليلة. تكون جيدة أيضا للعمل مع وجود نظام تدفئة - رمال الكواكب تبرد سريعا خلال الليل.",
 		"turkish":"Havalı duruyor ve geceleri elektrik üretimi için elektrik üretimini gözden geçirmek gerekebilir.Aynı zamanda ısı sistemiyle uyum sağlayabilir.",
+		"romanian": "Arată bine și trebuie să pregatești rețeaua de alimentare pentru noapte. Ar putea funcționa bine și cu sistemul de căldură - planetele de nisip se răcesc rapid noaptea.",
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -2622,6 +2662,7 @@
 		"thai": "ไฟไหม้และอาชญากรรม",
 		"arabic": "الحرائق والجرائم",
 		"turkish":"Yangınlar ve Suçlar",
+		"romanian": "Incendii și crimă",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -2642,6 +2683,7 @@
 		"thai": "หากมีอุบัติเหตุเกิดขึ้นเมืองของคุณต้องการบริการฉุกเฉินสำหรับกรณีดังกล่าว - จงเตรียมพร้อม!",
 		"arabic": "الحوادث تحصل ومدينتك تحتاج إلى خدمات طوارئ لتتعامل معها - كن مستعدا!",
 		"turkish":"Kazaların nezaman yaşabileceği ön görlemez ve şehrinizin bunlarla başa çıkmak için sürekli tetikde olması gerekir - hazırlıklı olun!",
+		"romanian": "Se întâmplă accidente și orașul tău are nevoie de servicii de urgență pentru a le face față - fii pregătit!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -2662,6 +2704,7 @@
 		"thai": "รถบินได้สำหรับคนงาน",
 		"arabic": "سيارات طائرة للعمال",
 		"turkish":"İşciler için Uçan Arabalar",
+		"romanian": "Mașini zburătoare pentru muncitori",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -2682,6 +2725,7 @@
 		"thai": "มาเพิ่มการจราจรให้คนงานกันเถอะ แต่ก็ยังอยากแนะนำอัปเกรดรถบินได้เพื่อป้องกันไม่ให้ระบบถนนของคุณติดขัด",
 		"arabic": "هيا بنا نضيف حركة مرور للعمال الذاهبين للعمل، ولكن أيضا نقدم تحديث السيارة الطائرة للحفاظ على نظام الطرق الخاص بك من الاكتظاظ.",
 		"turkish":"İşe giden kolonistler için trafik sistemi. Aynı zamanda yolları temiz tutmak için uçan araba yükseltmesi.",
+		"romanian": "Să adăugăm trafic pentru lucrătorii care merg la muncă, dar să introducem și upgrade-ul mașinii zburătoare pentru a preveni blocarea sistemului rutier.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -2702,6 +2746,7 @@
 		"thai": "ภัยพิบัติทางธรรมชาติ",
 		"arabic": "الكوارث الطبيعية",
 		"turkish":"Doğal afetler",
+		"romanian": "Dezastre naturale",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -2722,6 +2767,7 @@
 		"thai": "ถนนของคุณทำงานได้ดีแค่ไหนหลังจากเกิดพายุทราย? เตรียมพร้อมรับมือหรือยัง?",
 		"arabic": "ما مدى كفاءة عمل طرقك بعد أن ضربتها عاصفة رملية؟ هل ستكون مستعدا؟",
 		"turkish":"Bir kum fırtınasının ardından şehriniz hala çalışabilirmi? Hazırlıklı olurmusunuz?",
+		"romanian": "Cât de bine vor funcționa drumurile tale după o furtună de nisip? Ai fi pregătit?",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -2742,6 +2788,7 @@
 		"thai": "ความยากของเกม",
 		"arabic": "صعوبة اللعبة",
 		"turkish":"Oyun Zorluğu",
+		"romanian": "Dificultatea jocului",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -2762,6 +2809,7 @@
 		"thai": "ควบคุมจำนวนผลิตภัณฑ์ที่พลเมืองต้องการ\nยิ่งความยากสูงเท่าไหร่ คุณก็ยิ่งต้องจัดการเศรษฐกิจได้ดีเท่านั้น",
 		"arabic": "تتحكم في عدد المنتجات التي يحتاج إليها سكانك.\nكلما زادت الصعوبة، زادت المهارة المطلوبة لإدارة الاقتصاد الخاص بك.",
 		"turkish":"Vatandaşların ihtiyaçlarını değiştirir.\n\nZorluk arttıkça ekonomiyi daha iyi ayarlamak gerekir.",
+		"romanian": "Controlează cât de multe produse au nevoie cetățenii.\nCu cât dificultatea este mai mare, cu atât mai bine trebuie de gestionat economia.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -2782,6 +2830,7 @@
 		"thai": "ความยากในการขนส่ง",
 		"arabic": "صعوبة النقل",
 		"turkish":"Taşıma Zorluğu",
+		"romanian": "Dificultate de transport",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -2802,6 +2851,7 @@
 		"thai": "ควบคุมจำนวนสิ่งของที่ยานพาหนะสามารถบรรทุกได้\nยิ่งความยากสูงเท่าไหร่ก็ยิ่งสามารถบรรทุกสิ่งของได้น้อยลงในคราวเดียว",
 		"arabic": "تتحكم في كمية البضائع التي تحملها العربات.\nكلما ازدادت الصعوبة، قلت كمية البضائع المحمولة في المرة الواحدة.",
 		"turkish":"Araçların ne kadar eşya taşıyabileceğini değiştirir.\n\nZorluk arttıkça araçlar aynı anda daha az eşya taşır.",
+		"romanian": "Controlează câte articole pot transporta vehiculele.\nCu cât este mai mare dificultatea, cu atât mai puține articole pot fi transportate simultan.",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -2822,6 +2872,7 @@
 		"thai": "เริ่มเกม",
 		"arabic": "ابدأ اللعبة",
 		"turkish":"Oyunu Başlat",
+		"romanian": "Începe jocul",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -2842,6 +2893,7 @@
 		"thai": "ง่าย",
 		"arabic": "سهل",
 		"turkish":"Kolay",
+		"romanian": "Ușor",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -2862,6 +2914,7 @@
 		"thai": "กลาง",
 		"arabic": "متوسط",
 		"turkish":"Orta",
+		"romanian": "Mediu",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -2882,5 +2935,6 @@
 		"thai": "ยาก",
 		"arabic": "صعب",
 		"turkish":"Zor",
+		"romanian": "Greu",
 	},
 }
