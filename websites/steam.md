@@ -64,8 +64,10 @@ Az InfraSpace egy sci-fi város építő - de minden alapanyag amit előállíta
 InfraSpace คือเกมสร้างเมืองแนวไซไฟ - ทรัพยากรทุกอย่างที่คุณผลิตต้องผ่านโครงสร้างพื้นฐานด้านการขนส่งของคุณ เพื่อที่จะได้เติบโตในระบบสุริยะนี้ คุณไม่ใช่แค่ต้องทำการขุดเหมืองและจัดการห่วงโซ่การผลิตเท่านั้น แต่ยังต้องแน่ใจว่าถนนหนทางของคุณต้องพร้อมสำหรับการทำภารกิจด้วย
 
 ### Czech
-
 Infraspace je sci-fi budování města - kde každý zdroj musí projít svou dopravní infrastrukturou. Abyste mohli začít v tomto slunečním systému, musíte nejen zahájit těžební operace a spravovat výrobní řetězce, ale také se musíte ujistit, že vaše silniční síť je v pořádku.
+
+### Romanian
+Un constructor de orașe SF în care fluxul de resurse trece prin infrastructura transportului a orașului tău. Construiește o utopie de eficiență extrasolară din nimic. Începe operațiunile miniere, planifică producția și stabilește rute de transport pentru a asigura un lanț de aprovizionare bun.
 
 ### Arabic//TODO-Devs
 
@@ -134,6 +136,9 @@ Substitute "..." with your language
 
 ### Thai
 (แปลภาษาจนสำเร็จได้ด้วยชุมชนของเรา)
+
+### Romanian
+(Traducerea în română a fost făcută de comunitate)
 
 ### Arabic//TODO-Devs
 
@@ -245,6 +250,13 @@ Vyrábět vše, co spotřebujete
 Nemůžete vybudovat město bez využití zdrojů planety. Budete muset dát své první astronauty do dolů, za získáním surovin pro další rozvoj.
 
 Jakmile budete mít nějaké železo, uhlík, písek a síru, je čas postavit svou první ocelárnu a a betonárku, aby nastartovali začínající infrastrukturu. Dokonce i potřeby, jako je jídlo a kyslík vyžadují stabilní výrobní řetězec, který nesmí být narušen!
+
+### Romanian
+Produce tot ceea ce consumi
+
+La marginile spațiului uman, nu poți construi un oraș cheltuind credite. În schimb, va trebui să-ți pui primii astronauți în minerit și să obții niște materii prime.
+
+Odată ce ai puțin fier, carbon, nisip și sulf, este timpul să creezi prima fabrică de oțel și beton pentru a începe să construiești o infrastructură. Chiar și nevoile precum hrana și oxigenul necesită un lanț de producție constant care nu trebuie întrerupt!
 
 ### Arabic//TODO-Devs
 انتج كل شيئ تستهلكه
@@ -368,6 +380,13 @@ InfraSpace จะจำลองรถทุกคันในเกม ทร�
 หากคุณไม่ได้วางแผนล่วงหน้าไว้ การจราจรจำนวนมากจะเต็มถนนของคุณในไม่ช้าก็เร็วและสายการผลิตของคุณจะหยุดลง
 สร้างทางหลวงความเร็วสูงรอบเกาะและหลายๆช่องทางเพื่อให้แน่ใจว่า ใจกลางอุตสาหกรรมของอาณานิคมจะยังคงทำงานต่อไปได้
 
+### Romanian
+Infrastructura de transport
+
+InfraSpace simulează fiecare singură mașină. Fiecare resursă pe care o produci vreodată trebuie să fie transportată la o fabrică pentru procesare și fiecare produs trebuie să meargă într-un habitat pentru consum.
+
+Rețeaua ta de drumuri poate face față, dar fără supravegherea ta se va opri și, în cele din urmă, se va îneca în trafic. Construiește autostrăzi, sensuri giratorii și drumuri cu mai multe benzi pentru a te asigura că inima de producție a orașului continuă să bată.
+
 ### Arabic//TODO-Devs
 البنية التحتية للنقل
 
@@ -489,6 +508,13 @@ Vaši první kolonisté budou astronauté, ti nejlepší a nejodvážnější, k
 
 Jelikož vaše město roste, musíte pokrýt rostoucí pracovní zatížení zaměstnáváním vědců a inženýrů, kteří vyžadují několik dalších věcí k získání jejich pohodlí. Jakékoli město dostatečné velikosti bude mít dříve nebo později dům pro více a více rodin, takže se ujistěte, že to vaše školy dokáží zvládnout a vy jste schopni dodat nejnovější produkty VR-zábavy.
 
+### Romanian
+Creșterea populației
+
+Primii tăi coloniști vor fi astronauți, cei mai buni și mai curajosi pe care omenirea îi are de oferit. Dă-le mâncare și adăpost și îți vor menține avanpostul în funcțiune, indiferent de situație.
+
+Pe măsură ce așezarea ta crește, trebuie să acoperi volumul de muncă în creștere angajând oameni de știință și ingineri, care necesită mai mult confort. Orice oraș de dimensiune suficientă va fi mai devreme sau mai târziu loc de casă pentru tot mai multe familii, așa că asigură-te că școlile tale se pot descurca și că ești capabil(ă) să livrezi și cele mai recente produse de divertisment în lumea virtuală.
+
 ### Arabic//TODO-Devs
 النمو السكاني
 
@@ -579,6 +605,9 @@ A forgalomirányítás lehet ingatag, a túlélés lehet nehéz. Mindkettőn vá
 Nemusíte hrát tvrdě
 
 Řízení dopravy je někdy náročné a přežití může být obtížné. Můžete obě dvě věci zjednodušit tak, aby vaše zážitky z řízení města byly jen tak obtížné, jak sami chcete.
+
+### Romanian
+Nu trebuie să joci greu
 
 ### Arabic//TODO-Devs
 لا يجب عليك اللعب على المستوى الصعب
