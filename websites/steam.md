@@ -609,6 +609,8 @@ Nemusíte hrát tvrdě
 ### Romanian
 Nu trebuie să joci greu
 
+Gestionarea traficului poate fi inconstantă și supraviețuirea ar putea fi grea. Poți ajusta aceste dificultăți pentru a face experiența de gestionare a orașului la fel de ușoară, sau la fel de grea, pe cât dorești să fie.
+
 ### Arabic//TODO-Devs
 لا يجب عليك اللعب على المستوى الصعب
 
