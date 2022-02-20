@@ -25,6 +25,8 @@ Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translati
 ###### - **[TH]** นำโฟลเดอร์นี้วางลงไปในโฟลเดอร์เกมของคุณและเปลี่ยนชื่อเป็น "**localization**" และอย่าลืมสร้าง **ไฟล์ "custom.txt"** ซึ่งข้างไฟล์ในประกอบด้วย:
 ###### - **[AR]** ضع هذا المجلد داخل مجلد اللعبة الخاصة بك وقم بتغيير اسمه إلى "**localization**". لا تنس أن **تنشئ ملف "custom.txt"** بداخله ما يلي:
 ###### - **[RO]** Pune acest folder în folderul jocului tău și redenumește-l "**localization**". Nu uita să **creezi un "custom.txt"** conţinând următoarele:
+###### - **[GD]** Cuir am pasgan seo sa phasgan geama agad agus ath-ainmich e "**localization**". Na dì-chuimhnich a chruthachadh **a "custom.txt"** anns a bheil na leanas:
+
 
 ## Custom.txt:
 ```
