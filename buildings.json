@@ -19,6 +19,7 @@
     "turkish": "Kum Madeni",
     "korean": "모래 채굴기",
     "romanian": "Mină de nisip",
+    "scotsgaelic": "Mèinn Gainmheach",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -40,6 +41,7 @@
     "turkish": "Sülfür Madeni",
     "korean": "유황 채굴기",
     "romanian": "Mină de sulf",
+    "scotsgaelic": "Mèinn Sulfair",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -61,6 +63,7 @@
     "turkish": "Demir Madeni",
     "korean": "철 채굴기",
     "romanian": "Mină de fier",
+    "scotsgaelic": "Mèinn Iarainn",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -82,6 +85,7 @@
     "turkish": "Bakır Madeni",
     "korean": "구리 채굴기",
     "romanian": "Mină de cupru",
+    "scotsgaelic": "Mhèinn Copar",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -103,6 +107,7 @@
     "turkish": "Alüminyum Madeni",
     "korean": "알루미늄 채굴기",
     "romanian": "Mină de aluminiu",
+    "scotsgaelic": "Mèinnean Aluminium",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -124,6 +129,7 @@
     "turkish": "Uranyum Madeni",
     "korean": "우라늄 채굴기",
     "romanian": "Mină de uraniu",
+    "scotsgaelic": "Mèinnean Uranium",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -145,6 +151,7 @@
     "turkish": "İridyum Madeni",
     "korean": "이리듐 채굴기",
     "romanian": "Mină de iridiu",
+    "scotsgaelic": "Mèinnean Iridium",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -166,6 +173,7 @@
     "turkish": "Büyük Kum Madeni",
     "korean": "대형 모래 채굴기",
     "romanian": "Mină mare de nisip",
+    "scotsgaelic": "Mèinn Mhòr Gainmhich",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -187,6 +195,7 @@
     "turkish": "Büyük Sülfür Madeni",
     "korean": "대형 유황 채굴기",
     "romanian": "Mină mare de sulf",
+    "scotsgaelic": "Mèinn Mhòr Shulfair",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -208,6 +217,7 @@
     "turkish": "Büyük Demir Madeni",
     "korean": "대형 철 채굴기",
     "romanian": "Mină mare de fier",
+    "scotsgaelic": "Mèinn Mòr Iarainn",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -229,6 +239,7 @@
     "turkish": "Büyük Bakır Madeni",
     "korean": "대형 구리 채굴기",
     "romanian": "Mină mare de cupru",
+    "scotsgaelic": "Mèinn Copair Mòr",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -250,6 +261,7 @@
     "turkish": "Büyük Alüminyum Madeni",
     "korean": "대형 알루미늄 채굴기",
     "romanian": "Mină mare de aluminiu",
+    "scotsgaelic": "Mèinn Mòr Aluminium",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -271,6 +283,7 @@
     "turkish": "Büyük Uranyum Madeni",
     "korean": "대형 우라늄 채굴기",
     "romanian": "Mină mare de uraniu",
+    "scotsgaelic": "Mèinnean Mòr Uranium",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -292,6 +305,7 @@
     "turkish": "Büyük İridyum Madeni",
     "korean": "대형 이리듐 채굴기",
     "romanian": "Mină mare de iridiu",
+    "scotsgaelic": "Mèinnean Iridium Mòr",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -313,6 +327,7 @@
     "turkish": "Elektronik Fabrikası",
     "korean": "전자부품 공장",
     "romanian": "Fabrică de electronice",
+    "scotsgaelic": "Factaraidh Leictreonaic",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -334,6 +349,7 @@
     "turkish": "Mikroçip Fabrikası",
     "korean": "마이크로칩 공장",
     "romanian": "Fabrică de microcipuri",
+    "scotsgaelic": "Factaraidh microchip",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -355,6 +371,7 @@
     "turkish": "Nöral İşlemci Fabrikası",
     "korean": "신경칩 공장",
     "romanian": "Fabrică de procesoare neuronale",
+    "scotsgaelic": "Factaraidh Pròiseasaiche Neural",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -376,6 +393,7 @@
     "turkish": "Motor Fabrikası",
     "korean": "모터 공장",
     "romanian": "Fabrică de motoare",
+    "scotsgaelic": "Factaraidh Motair",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -397,6 +415,7 @@
     "turkish": "Nanotüp Fabrikası",
     "korean": "나노튜브 공장",
     "romanian": "Fabrică de nanotuburi",
+    "scotsgaelic": "Factaraidh Nanotubes",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -418,6 +437,7 @@
     "turkish": "İridyum Alaşımı Fabrikası",
     "korean": "이리듐합금 공장",
     "romanian": "Fabrică de aliaje de iridiu",
+    "scotsgaelic": "Factaraidh Measgachadh Iridium",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -439,6 +459,7 @@
     "turkish": "Holo-Ekran Fabrikası",
     "korean": "입체화면 공장",
     "romanian": "Fabrică de Holo-Afișaje",
+    "scotsgaelic": "Factaraidh Holo-Taisbeanadh",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -460,6 +481,7 @@
     "turkish": "Radyasyon Çekirdeği Fabrikası",
     "korean": "전자파코어 공장",
     "romanian": "Fabrică de miez de radiații",
+    "scotsgaelic": "Factaraidh bunaiteach Rèididheachd",
   },
   "concreteFactory": {
     "english": "Concrete Factory",
@@ -481,6 +503,7 @@
     "turkish": "Beton Fabrikası",
     "korean": "콘크리트 공장",
     "romanian": "Fabrică de beton",
+    "scotsgaelic": "Factaraidh Concrait",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -502,6 +525,7 @@
     "turkish": "Çelik Fabriaksı",
     "korean": "제철소 ",
     "romanian": "Combinat siderurgic",
+    "scotsgaelic": "Muileann Stàilinn",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -523,6 +547,7 @@
     "turkish": "Ev Aletleri Fabrikası",
     "korean": "생활가전 공장",
     "romanian": "Fabrică de electrocasnice",
+    "scotsgaelic": "Factaraidh Innealan Dachaigh",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -544,6 +569,7 @@
     "turkish": "Bilgisayar Fabrikası",
     "korean": "컴퓨터 공장",
     "romanian": "Fabrică de calculatoare",
+    "scotsgaelic": "Factaraidh Coimpiutair",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -565,6 +591,7 @@
     "turkish": "Ev Robotu Fabrikası",
     "korean": "가정로봇 공장",
     "romanian": "Fabrică de roboți de casă",
+    "scotsgaelic": "Factaraidh Robot Dachaigh",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -586,6 +613,7 @@
     "turkish": "Endüstriyel Robot Fabrikası",
     "korean": "공업로봇 공장",
     "romanian": "Fabrică de roboți industriali",
+    "scotsgaelic": "Factaraidh Robot Gnìomhachais",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -607,6 +635,7 @@
     "turkish": "Yüksek Teknoloji Atölyesi",
     "korean": "첨단과학 공작소",
     "romanian": "Atelier de înaltă tehnologie",
+    "scotsgaelic": "Bùth-obrach Àrd-theicneòlas",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -628,6 +657,7 @@
     "turkish": "VR Eğitim-Eğlence Fabrikası",
     "korean": "교육용VR 공장",
     "romanian": "Fabrică de divertisment în Realitatea-Virtuală",
+    "scotsgaelic": "Factaraidh Edutainment VR",
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -649,6 +679,7 @@
     "turkish": "İridyum İtici Fabrikası",
     "korean": "이리듐 추진체 공장",
     "romanian": "Fabrică de combustibil de iridiu",
+    "scotsgaelic": "Factaraidh Iridium Propellant",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -670,6 +701,7 @@
     "turkish": "AI Kontrol Unitesi Fabrikası",
     "korean": "AI제어유닛 공장",
     "romanian": "Fabrică de unități în inteligență artificială",
+    "scotsgaelic": "Factaraidh Aonad Smachd AI",
   },
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
@@ -691,6 +723,7 @@
     "turkish": "Mavi Bilim Paketi Fabrikası",
     "korean": "파랑 과학팩 공장",
     "romanian": "Fabrică de pachete albastre de știină",
+    "scotsgaelic": "Factaraidh Pasgan Saidheans Gorm",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -712,6 +745,7 @@
     "turkish": "Yeşil Bilim Paketi Fabrikası",
     "korean": "초록 과학팩 공장",
     "romanian": "Fabrică de pachete verzi de știină",
+    "scotsgaelic": "Factaraidh Pacaid Saidheans Uaine",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -733,6 +767,7 @@
     "turkish": "Sarı Bilim Paketi Fabrikası",
     "korean": "노랑 과학팩 공장",
     "romanian": "Fabrică de pachete galbene de știină",
+    "scotsgaelic": "Factaraidh Pacaid Saidheans Buidhe",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -754,6 +789,7 @@
     "turkish": "Kırmızı Bilim Paketi Fabrikası",
     "korean": "빨강 과학팩 공장",
     "romanian": "Fabrică de pachete roșii de știină",
+    "scotsgaelic": "Factaraidh Pacaid Saidheans Dearg",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -775,6 +811,7 @@
     "turkish": "Araştırma Labaratuvarı",
     "korean": "연구소",
     "romanian": "Laborator de cercetare",
+    "scotsgaelic": "Obair-lann Rannsachaidh",
   },
   "storehouse": {
     // TODO-chinese
@@ -798,6 +835,7 @@
     "turkish": "Depo",
     "korean": "창고",
     "romanian": "Depozitare materiale de construcții",
+    "scotsgaelic": "Stòradh togail",
   },
   "spacePort": {
     "english": "Space Port",
@@ -819,6 +857,7 @@
     "turkish": "Uzay Limanı",
     "korean": "우주항",
     "romanian": "Port spațial",
+    "scotsgaelic": "Port Fànais",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -840,6 +879,7 @@
     "turkish": "Geri Dönüşüm Merkezi",
     "korean": "재활용센터",
     "romanian": "Centru de reciclare",
+    "scotsgaelic": "Ionad Ath-chuairteachaidh",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -861,6 +901,7 @@
     "turkish": "Toprak Zenginleştirme Tesisi",
     "korean": "토질개선시설",
     "romanian": "Instalație de îmbogățire a solului",
+    "scotsgaelic": "Goireas beairteachadh talmhainn",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -882,6 +923,7 @@
     "turkish": "Hava İşleyici",
     "korean": "대기생산시설",
     "romanian": "Procesor de atmosferă",
+    "scotsgaelic": "Pròiseasar Àile",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -903,6 +945,7 @@
     "turkish": "Oksijen İşleyici",
     "korean": "산소생산시설",
     "romanian": "Procesor de oxigen",
+    "scotsgaelic": "Pròiseasar Ocsaidean",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -924,6 +967,7 @@
     "turkish": "Karbon İşleyici",
     "korean": "탄소생산시설",
     "romanian": "Procesor de carbon",
+    "scotsgaelic": "Pròiseasar Gualain",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -945,6 +989,7 @@
     "turkish": "Basit Tarla",
     "korean": "간이 농장",
     "romanian": "Fermă simplă",
+    "scotsgaelic": "Tuathanas Sìmplidh",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -966,6 +1011,7 @@
     "turkish": "Gübre Fabrikası",
     "korean": "비료 공장",
     "romanian": "Fabrică de îngrășăminte",
+    "scotsgaelic": "Factaraidh Todhar",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -987,6 +1033,7 @@
     "turkish": "Sebze Tarlası",
     "korean": "야채 농장",
     "romanian": "Fermă de legume",
+    "scotsgaelic": "Tuathanas Glasraich",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -1008,6 +1055,7 @@
     "turkish": "Et Labaratuvar",
     "korean": "고기 연구소",
     "romanian": "Laborator de carne",
+    "scotsgaelic": "Lab Feòil",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -1029,6 +1077,7 @@
     "turkish": "Yemek Fabrikası",
     "korean": "고기 공장",
     "romanian": "Fabrică de mâncare",
+    "scotsgaelic": "Factaraidh Bìdh",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -1050,6 +1099,7 @@
     "turkish": "Basit Habitat",
     "korean": "기초 거주시설(LV1)",
     "romanian": "Habitat de bază",
+    "scotsgaelic": "Taigh Bunaiteach",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -1071,6 +1121,7 @@
     "turkish": "İyi Habitat",
     "korean": "일반 거주시설(LV2)",
     "romanian": "Habitat decent",
+    "scotsgaelic": "Taigh Math",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -1092,6 +1143,7 @@
     "turkish": "Güzel Habitat",
     "korean": "나은 거주시설(LV3)",
     "romanian": "Habitat frumos",
+    "scotsgaelic": "Taigh Comhfhurtail",
   },
   "habitatLevel4": {
     "english": "Residential building",
@@ -1113,6 +1165,7 @@
     "turkish": "Konut",
     "korean": "좋은 거주시설(LV4)",
     "romanian": "Clădire rezidențială",
+    "scotsgaelic": "Togalach Còmhnaidh",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -1134,6 +1187,7 @@
     "turkish": "Gökdelen",
     "korean": "고급 거주시설(LV5)",
     "romanian": "Zgârie-nori rezidențial",
+    "scotsgaelic": "Caisteal Còmhnaidh",
   },
   "habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -1155,6 +1209,7 @@
     "turkish": "Lüks Gökdelen",
     "korean": "최고 거주시설(LV6)",
     "romanian": "Rezidențial de lux",
+    "scotsgaelic": "Caisteal Còmhnaidh Sòghail",
   },
   "park": {
     "english": "Park",
@@ -1176,6 +1231,7 @@
     "turkish": "Park",
     "korean": "공원",
     "romanian": "Parc",
+    "scotsgaelic": "Pàirce",
   },
   "arena": {
     "english": "Stadium",
@@ -1197,6 +1253,7 @@
     "turkish": "Arena",
     "korean": "경기장",
     "romanian": "Stadion",
+    "scotsgaelic": "Stèideam",
   },
   "school": {
     "english": "School",
@@ -1218,6 +1275,7 @@
     "turkish": "Okul",
     "korean": "학교",
     "romanian": "Școală",
+    "scotsgaelic": "Sgoil",
   },
   "powerPole": {
     "english": "Power Pole",
@@ -1239,6 +1297,7 @@
     "turkish": "Elektrik Direği",
     "korean": "전봇대",
     "romanian": "Stâlp de electricitate",
+    "scotsgaelic": "Pòla Cumhachd",
   },
   "powerSubstation": {
     "english": "Power Substation",
@@ -1260,6 +1319,7 @@
     "turkish": "Elektrik Trafosu",
     "korean": "변전소",
     "romanian": "Substație electrică",
+    "scotsgaelic": "Fo-stèisean Cumhachd",
   },
   "windTurbine": {
     "english": "Wind Turbine",
@@ -1281,6 +1341,7 @@
     "turkish": "Rüzgar Türbini",
     "korean": "풍력발전소",
     "romanian": "Turbină eoliană",
+    "scotsgaelic": "Turbainn-Gaoithe",
   },
   "solarPowerPlant": {
     "english": "Solar Power Plant",
@@ -1302,6 +1363,7 @@
     "turkish": "Güneş Enerjisi Santrali",
     "korean": "태양광 발전소",
     "romanian": "Centrală solară",
+    "scotsgaelic": "Ionad Cumhachd Solar",
   },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
@@ -1323,6 +1385,7 @@
     "turkish": "Nükleer Santral",
     "korean": "원자력 발전소",
     "romanian": "Centrală nucleară",
+    "scotsgaelic": "Ionad Cumhachd Niùclasach",
   },
   "fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1344,6 +1407,7 @@
     "turkish": "Hızlı Nötrön Reaktörü",
     "korean": "핵융합 발전소",
     "romanian": "Reactor rapid cu neutroni",
+    "scotsgaelic": "Luath Neutron Reactor",
   },
   "signStanding": {
     "english": "Great Standing Sign",
@@ -1365,6 +1429,7 @@
     "turkish": "Büyük Dikey Tabela",
     "korean": "거대 입식 간판",
     "romanian": "Semn mare pe picioare",
+    "scotsgaelic": "Mòrdha standing ròn",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -1386,6 +1451,7 @@
     "turkish": "Büyük Yatay Tabela",
     "korean": "거대 좌식 간판",
     "romanian": "Semn mare așezat",
+    "scotsgaelic": "Mòrdha càradh ròn",
   },
   "monumentDrill": {
     "english": "Colossal Adamantine Drill",
@@ -1407,6 +1473,7 @@
     "turkish": "Devasa Adamantin Matkabı",
     "korean": "아다만타이트 채굴기",
     "romanian": "Burghiu uriaș de adamantin",
+    "scotsgaelic": "Drile Adamantine mhòr",
   },
   "trainStationWithName": { // like "Train Station Alpha"
     "english": "Train Station %name%",
@@ -1420,6 +1487,7 @@
     "czech": "%Zelezniční stanice %name%",
     "hungarian": "%name% vasúti megálló",
     "romanian": "Gara %name%",
+    "scotsgaelic": "Stèisean-Trèana %name%",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1433,6 +1501,7 @@
     "czech": "Malá železniční stanice",
     "hungarian": "Kis vasútállomás",
     "romanian": "Gară mică",
+    "scotsgaelic": "Stèisean-Trèana Beag",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1446,6 +1515,7 @@
     "czech": "Střední železniční stanice",
     "hungarian": "Közepes vasútállomás",
     "romanian": "Gară medie",
+    "scotsgaelic": "Meánmhéide Stèisean-Trèana",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1459,6 +1529,7 @@
     "czech": "Velká železniční stanice",
     "hungarian": "Nagy vasútállomás",
     "romanian": "Gară mare",
+    "scotsgaelic": "Stèisean Trèana Mòr",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -1472,5 +1543,6 @@
     "czech": "Železniční uzel",
     "hungarian": "Fő vasútállomás",
     "romanian": "Gara principală",
+    "scotsgaelic": "Prìomh Stèisean nan Trèanaichean",
   },
 }
