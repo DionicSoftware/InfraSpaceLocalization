@@ -77,6 +77,9 @@ Un constructor de orașe SF în care fluxul de resurse trece prin infrastructura
 
 Kaynak akışının şehrinizin ulaşım altyapısından geçtiği bir bilim kurgu şehir kurucusu. Yoktan bir yıldızlararası verimlilik ütopyası inşa edin. Sorunsuz bir tedarik zinciri sağlamak için madencilik operasyonları başlatın, üretimi planlayın ve nakliye rotaları belirleyin.
 
+### Scottish Gaelic//TODO-Devs
+
+A neach-togail baile ficsean-saidheans, far am bi sruth ghoireasan a’ dol tro bhun-structar còmhdhail a’ bhaile-mhòir agad. Tog utopia èifeachdas extrasolar bho rud sam bith. Tòisich obair mhèinnearachd, dealbhadh cinneasachadh, agus cuir sìos slighean còmhdhail gus dèanamh cinnteach à sèine solair rèidh.
 
 
 # Long Description - Translation Disclaimer
@@ -143,7 +146,8 @@ Substitute "..." with your language
 ### Arabic//TODO-Devs
 
 (الترجمة العربية تمت بواسطة الجمهور.)
-
+### Scottish Gaelic
+(Chaidh an eadar-theangachadh gu Gàidhlig na h-Alba a dhèanamh leis a’ choimhearsnachd.)
 
 
 # Long Description - Production Section
@@ -273,6 +277,12 @@ Uygarlıktan uzakta, şehrinizi inşaat etmek için gereken kaynakaları parayla
 
 Biraz demir, karbon, kum ve kükürt elde ettiğinizde, ilk çelik ve beton fabriklarınız kurmanın ve altyapı oluşturmaya başlamanın zamanı geldi demekdir. Yiyecek ve oksijen gibi ihtiyaçlar bile sabit bir üretim zincirine ihtiyaç duyar!
 
+### Scottish Gaelic//TODO-Devs
+Cruthaich a h-uile dad a chruinnicheas tu
+
+Air iomall an fhànais, chan urrainn dhut baile-mòr a thogail le bhith a’ cosg airgead. An àite sin, feumaidh tu na ciad speuradairean agad a chuir gu obair mhèinnearachd agus cuid de stuthan amh fhaighinn.
+
+Aon uair ‘s gu bheil beagan iarann, gualain, gainmheach agus pronnasg agad, tha an t-àm ann a’ chiad mhuileann stàilinn agus factaraidh cruadhtan agad a stèidheachadh gus tòiseachadh air bun-structar a chuir sìos. Feumaidh eadhon feumalachdan leithid biadh agus ocsaidean sèine cinneasachaidh seasmhach nach fhaodar a bhriseadh!
 
 
 # Long Description - Transport Section
@@ -402,6 +412,12 @@ InfraSpace her bir aracı simüle eder. Ürettiğiniz her kaynağın işlenmek �
 
 Yol ağınız pek çok şeyin üstesinden gelebilir, ancak sizin gözetiminiz olmadan durma noktasına gelir ve sonunda trafikte boğulur. Şehrin üretime devam etmesini sağlamak için otoyollar, dönel kavşaklar ve çok şeritli yollar inşa edin.
 
+### Scottish Gaelic//TODO-Devs
+Bun-structair Còmhdhail
+
+Bidh InfraSpace a’ dèanamh atharrais air a h-uile carbad. Feumaidh gach goireas a chruinnicheas tu a ghiùlan gu factaraidh airson measgachadh agus feumaidh gach toradh a bhith air a ghiùlan gu taigh airson a chaitheamh.
+
+Faodaidh an lìonra rathaidean agad tòrr a làimhseachadh, ach às aonais do stiùireadh thig e gu stad. Tog mòr-rathaidean, cearcallan-rathaid, agus rathaidean ioma-shligheach gus dèanamh cinnteach gum bi cridhe cinneasachaidh a’ bhaile a’ cumail a’ dol.
 
 
 # Long Description - Population Section
@@ -530,6 +546,7 @@ Nüfus artışı
 
 Yerleşkeniz büyüdükce, kolonistlerinizin git gide artan konfor ihtiyaçlarını karşılamanız gerekir. Yeterli büyüklükteki herhangi bir şehir er ya da geç daha fazla aileye ev sahipliği yapacaktır, bu nedenle okullarınızın bununla başa çıkabildiğinden ve en yeni VR-eğlence ürünlerini de sunabildiğinizden emin olun.
 
+### [WIP] Scottish Gaelic//TODO-Devs 
 
 
 # Long Description - Difficulty Section
@@ -621,5 +638,7 @@ Gestionarea traficului poate fi inconstantă și supraviețuirea ar putea fi gre
 Oynamak için uzman olmak zorunda değilsiniz
 
 Trafik yönetimi karışık ve hayatta kalmak zor olabilir. Şehir yönetimi deneyiminizi istediğiniz kadar kolay veya zor hale getirmek için her ikisinin de zorluklarını ayarlayabilirsiniz.
+
+### [WIP] Scottish Gaelic//TODO-Devs 
 
 
