@@ -963,13 +963,16 @@
 	"tutorial_grid": {
 		"english": "Building Grid",
 		"german": "Baugitter",
+		"french": "Grille de construction",
 	},
 	"tutorialMessage_grid_title": {
 		"english": "Building with and without grid",
 		"german": "Mit und ohne Gitter bauen",
+		"french": "Construire avec et sans grille"
 	},
 	"tutorialMessage_grid_desc": {
 		"english": "Use these buttons to select your grid. You can use grids to align your roads and buildings or turn them off and build freely.",
 		"german": "Wähle mit diesen Buttons dein Gitter aus. Du kannst Gitter verwenden um deine Straßen und Gebäude ordentlich zu platzieren oder du kannst sie ausschalten und frei bauen.",
+		"french": "Utilisez ces boutons pour sélectionner une grille. Vous pouvez utiliser des grilles pour aligner vos routes et vos bâtiments ou les désactiver et construire librement.",
 	},
 }

@@ -855,6 +855,7 @@
 	"uiScale": {
 		"english": "UI Scale",
 		"german": "UI Skalierung",
+		"french": "Échelle de l'interface",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1558,6 +1559,7 @@
 	"toggleGrid": {
 		"english": "Toggle Grid",
 		"german": "Gitter umschalten",
+		"french": "Afficher la grille",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -2064,22 +2066,27 @@
 	"saveBarelyCompatibleWithGameVersion": {
 		"english": "This save is only partially compatible with your game version.",
 		"german": "Dieser Speicherstand ist nur zum Teil kompatibel mit deiner Spielversion.",
+		"french": "Cette sauvegarde n'est que partiellement compatible avec votre version du jeu.",
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
 		"german": "Wie man inkompatible Speicherstände spielt",
+		"french": "Comment jouer avec des sauvegardes incompatibles ?",
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
 		"german": "Wenn wir ein großes Update veröffentlichen sind Speicherstände manchmal nicht vollständig kompatibl.\nDu hast 2 Möglichkeiten:\n\n1. Spiele deinen Speicherstand auf der vorherigen Version weiter. Wir haben eine Anleitung für dich erstellt.\nVersuche deinen Speicherstand zur neuen Version zu konvertieren.\n\nKonvertierungen sind nicht perfekt. Du musst vermutlich das Spiel pausieren und eine Zeit lang Probleme in deiner Stadt beheben.",
+		"french": "Lorsque nous publions une mise à jour importante, il arrive que les sauvegardes ne soient pas entièrement compatibles.\nVous avez deux options :\n\n1. Continuer à jouer avec votre sauvegarde sur la version précédente. Nous avons fait un tutoriel pour vous.\n2. Essayer de convertir votre jeu de sauvegarde dans la nouvelle version.\n\nLes conversions de sauvegarde ne sont pas parfaites. Vous devrez probablement mettre le jeu en pause et passer quelques minutes à résoudre les différents problèmes.",
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
 		"german": "Spielversion ändern ",
+		"french": "Changer la version du jeu",
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
 		"german": "Konvertierung versuchen",
+		"french": "Essayer de convertir",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",

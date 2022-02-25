@@ -664,10 +664,12 @@
   "tech_highSpeedRail": {
     "english": "High Speed Rail",
     "german": "Hochgeschwindigkeitsschienen",
+    "french": "Trains à grande vitesse",
   },
   "tech_lightningRail": {
     "english": "Lighting Rails",
     "german": "Blitz-Schienen",
+    "french": "Trains supersoniques",
   },
   "tech_superhighways": {
     "english": "Superhighways",

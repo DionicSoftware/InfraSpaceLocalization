@@ -1025,14 +1025,17 @@
 	"gridOff": {
 		"english": "No Grid",
 		"german": "Kein Gitter",
+		"french": "Pas de grille",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
 		"german": "0° Gitter",
+		"french": "Grille 0°",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
 		"german": "45° Gitter",
+		"french": "Grille 45°",
 	},
 
 	"buildCurvedRoad": {
@@ -1658,14 +1661,17 @@
 	"visualization_Parks": {
 		"english": "Parks",
 		"german": "Parks",
+		"french": "Parcs",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
 		"german": "Kultur",
+		"french": "Culture",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
 		"german": "Schulen",
+		"french": "Écoles",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2355,30 +2361,37 @@
 	"trafficLightSettings" : {
 		"english": "Traffic Light Settings",
 		"german": "Ampeleinstellungen",
+		"french": "Réglages des feux tricolores",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
 		"german": "Bearbeitet",
+		"french": "Personnalisé",
 	},
 	"phaseNumber" : {
 		"english": "Phase %number%",
 		"german": "Phase %number%",
+		"french": "Phase %number%",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
 		"english": "Skip to next phase when roads are empty",
 		"german": "Zur nächsten Phase springen wenn Straßen leer sind",
+		"french": "Passer à la phase suivante si les routes sont vides",
 	},
 
 	"providing": { // like a school provides schooling
 		"english": "Providing",
 		"german": "Liefert",
+		"french": "Fournit",
 	},
 	"radius": {
 		"english": "Radius",
 		"german": "Radius",
+		"french": "Rayon",
 	},
 	"speed": {
 		"english": "Speed",
 		"german": "Geschwindigkeit",
+		"french": "Vitesse",
 	},
 }
