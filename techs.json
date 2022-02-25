@@ -657,9 +657,17 @@
     "russian": "Поезда",
 	  "turkish":"Trenler", 
 	  "italian": "Treni",
-	"czech": "Vlaky",
+	  "czech": "Vlaky",
     "hungarian": "Vonatok",
     "romanian": "Trenuri",
+  },
+  "tech_highSpeedRail": {
+    "english": "High Speed Rail",
+    "german": "Hochgeschwindigkeitsschienen",
+  },
+  "tech_lightningRail": {
+    "english": "Lighting Rails",
+    "german": "Blitz-Schienen",
   },
   "tech_superhighways": {
     "english": "Superhighways",

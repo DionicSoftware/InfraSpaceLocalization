@@ -1021,6 +1021,20 @@
 		"turkish": "Bozuk hava akışı",
 		"romanian": "Flux de aer perturbat",
 	},
+
+	"gridOff": {
+		"english": "No Grid",
+		"german": "Kein Gitter",
+	},
+	"gridStraight": {
+		"english": "0° Grid",
+		"german": "0° Gitter",
+	},
+	"gridDiagonal": {
+		"english": "45° Grid",
+		"german": "45° Gitter",
+	},
+
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
 		"german": "Runde Straße bauen",
@@ -1640,6 +1654,18 @@
 		"thai": "ถนน",
 		"turkish": "Yollar",
 		"romanian": "Drumuri",
+	},
+	"visualization_Parks": {
+		"english": "Parks",
+		"german": "Parks",
+	},
+	"visualization_Culture": {
+		"english": "Culture",
+		"german": "Kultur",
+	},
+	"visualization_Schools": {
+		"english": "Schools",
+		"german": "Schulen",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2323,5 +2349,36 @@
 		"italian": "Binari",
 		"hungarian": "Sínek",
 		"romanian": "Șine",
+	},
+
+
+	"trafficLightSettings" : {
+		"english": "Traffic Light Settings",
+		"german": "Ampeleinstellungen",
+	},
+	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
+		"english": "Custom",
+		"german": "Bearbeitet",
+	},
+	"phaseNumber" : {
+		"english": "Phase %number%",
+		"german": "Phase %number%",
+	},
+	"skipToNextPhaseWhenRoadsAreEmpty" : {
+		"english": "Skip to next phase when roads are empty",
+		"german": "Zur nächsten Phase springen wenn Straßen leer sind",
+	},
+
+	"providing": { // like a school provides schooling
+		"english": "Providing",
+		"german": "Liefert",
+	},
+	"radius": {
+		"english": "Radius",
+		"german": "Radius",
+	},
+	"speed": {
+		"english": "Speed",
+		"german": "Geschwindigkeit",
 	},
 }

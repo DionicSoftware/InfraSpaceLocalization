@@ -960,4 +960,16 @@
 		"turkish":"Eğer yeterli iş gücünüz yoksa, kaydıraçları kullanarak iş gücünüzü öncelikli işlere odaklayın.",
 		"romanian": "Dacă nu ai suficienți angajați, utilizează glisoarele pentru a muta forța de muncă în cele mai importante locuri de muncă.",
 	},
+	"tutorial_grid": {
+		"english": "Building Grid",
+		"german": "Baugitter",
+	},
+	"tutorialMessage_grid_title": {
+		"english": "Building with and without grid",
+		"german": "Mit und ohne Gitter bauen",
+	},
+	"tutorialMessage_grid_desc": {
+		"english": "Use these buttons to select your grid. You can use grids to align your roads and buildings or turn them off and build freely.",
+		"german": "Wähle mit diesen Buttons dein Gitter aus. Du kannst Gitter verwenden um deine Straßen und Gebäude ordentlich zu platzieren oder du kannst sie ausschalten und frei bauen.",
+	},
 }

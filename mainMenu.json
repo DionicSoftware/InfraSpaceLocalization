@@ -852,6 +852,10 @@
 		"hungarian": "Ki",
 		"thai": "ปิด",
 	},
+	"uiScale": {
+		"english": "UI Scale",
+		"german": "UI Skalierung",
+	},
 	"brightness": {
 		"english": "Brightness",
 		"german": "Helligkeit",
@@ -1551,6 +1555,10 @@
 		"turkish":"Yolu Alçalt",
 		"romanian": "Coboară drumul",
 	},
+	"toggleGrid": {
+		"english": "Toggle Grid",
+		"german": "Gitter umschalten",
+	},
 	"timeControl": {
 		"english": "Time Control",
 		"german": "Zeitkontrolle",
@@ -1946,8 +1954,8 @@
 		"thai": "Alt (ขวา)",
 	},
 	"key_LeftControl": {
-		"english": "Control (left)",
-		"german": "Control (links)",
+		"english": "Ctrl (left)",
+		"german": "Strg (links)",
 		"french": "Ctrl (gauche)",
 		"spanish": "Control (izquierda)",
 		"turkish": "Ctrl (sol)",
@@ -1968,8 +1976,8 @@
 		"thai": "Ctrl (ซ้าย)",
 	},
 	"key_RightControl": {
-		"english": "Control (right)",
-		"german": "Control (rechts)",
+		"english": "Ctrl (right)",
+		"german": "Strg (rechts)",
 		"french": "Ctrl (droite)",
 		"spanish": "Control (derecha)",
 		"turkish": "Ctrl (sağ)",
@@ -2052,6 +2060,26 @@
 		"arabic": "Page Down",
 		"turkish":"Pg Dn",
 		"romanian": "PageDown",
+	},
+	"saveBarelyCompatibleWithGameVersion": {
+		"english": "This save is only partially compatible with your game version.",
+		"german": "Dieser Speicherstand ist nur zum Teil kompatibel mit deiner Spielversion.",
+	},
+	"saveBarelyCompatibleTitle": {
+		"english": "How to play incompatible saves",
+		"german": "Wie man inkompatible Speicherstände spielt",
+	},
+	"saveBarelyCompatibleDesc": {
+		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
+		"german": "Wenn wir ein großes Update veröffentlichen sind Speicherstände manchmal nicht vollständig kompatibl.\nDu hast 2 Möglichkeiten:\n\n1. Spiele deinen Speicherstand auf der vorherigen Version weiter. Wir haben eine Anleitung für dich erstellt.\nVersuche deinen Speicherstand zur neuen Version zu konvertieren.\n\nKonvertierungen sind nicht perfekt. Du musst vermutlich das Spiel pausieren und eine Zeit lang Probleme in deiner Stadt beheben.",
+	},
+	"changeGameVersion": {
+		"english": "Change Game Version",
+		"german": "Spielversion ändern ",
+	},
+	"tryConversion": {
+		"english": "Try Conversion",
+		"german": "Konvertierung versuchen",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",

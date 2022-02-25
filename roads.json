@@ -85,7 +85,7 @@
 	},
 	"rail_oneWay": {
 		"english": "Rail",
-		"german": "Schiene",
+		"german": "Schienen",
 		"french": "Rail",
 		"russian": "Рельс",
 		"turkish": "Ray",
@@ -95,5 +95,13 @@
 		"hungarian": "Sín",
 		"romanian": "Șină",
 		"ukrainian": "Залізнична колія",
+	},
+	"rail_oneWay_highspeed": {
+		"english": "High Speed Rail",
+		"german": "Hochgeschwindigkeitsschienen",
+	},
+	"rail_oneWay_superhighspeed": {
+		"english": "Lightning Rail",
+		"german": "Blitz-Schienen",
 	},
 }
