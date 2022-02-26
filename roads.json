@@ -95,15 +95,18 @@
 		"hungarian": "Sín",
 		"romanian": "Șină",
 		"ukrainian": "Залізнична колія",
+		"spanish": "Linea Ferroviaria",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
 		"german": "Hochgeschwindigkeitsschienen",
 		"french": "Rail à grande vitesse",
+		"spanish": "Linea Ferroviaria de alta velocidad"
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
 		"german": "Blitz-Schienen",
 		"french": "Rail à vitesse supersonique",
+		"spanish": "Linea Ferroviaria de máxima velocidad"
 	},
 }
