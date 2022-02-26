@@ -1488,6 +1488,7 @@
     "hungarian": "%name% vasúti megálló",
     "romanian": "Gara %name%",
     "scotsgaelic": "Stèisean-Trèana %name%",
+    "spanish": "Estación Ferroviaria %name%",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1502,6 +1503,7 @@
     "hungarian": "Kis vasútállomás",
     "romanian": "Gară mică",
     "scotsgaelic": "Stèisean-Trèana Beag",
+    "spanish": "Estación Ferroviaria Pequeña %name%",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1516,6 +1518,7 @@
     "hungarian": "Közepes vasútállomás",
     "romanian": "Gară medie",
     "scotsgaelic": "Meánmhéide Stèisean-Trèana",
+    "spanish": "Estación Ferroviaria Mediana %name%",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1530,6 +1533,7 @@
     "hungarian": "Nagy vasútállomás",
     "romanian": "Gară mare",
     "scotsgaelic": "Stèisean Trèana Mòr",
+    "spanish": "Estación Ferroviaria Grande %name%",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -1544,5 +1548,6 @@
     "hungarian": "Fő vasútállomás",
     "romanian": "Gara principală",
     "scotsgaelic": "Prìomh Stèisean nan Trèanaichean",
+    "spanish": "Estación Ferroviaria Principal %name%",
   },
 }
