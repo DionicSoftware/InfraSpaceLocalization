@@ -1026,16 +1026,19 @@
 		"english": "No Grid",
 		"german": "Kein Gitter",
 		"french": "Pas de grille",
+		"italian": "Nessuna griglia",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
 		"german": "0° Gitter",
 		"french": "Grille 0°",
+		"italian": "Griglia 0°",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
 		"german": "45° Gitter",
 		"french": "Grille 45°",
+		"italian": "Griglia 45°",
 	},
 
 	"buildCurvedRoad": {
@@ -1662,16 +1665,19 @@
 		"english": "Parks",
 		"german": "Parks",
 		"french": "Parcs",
+		"italian": "Parchi",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
 		"german": "Kultur",
 		"french": "Culture",
+		"italian": "Cultura",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
 		"german": "Schulen",
 		"french": "Écoles",
+		"italian": "Scuole",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2374,7 +2380,7 @@
 		"italian": "Binari",
 		"hungarian": "Sínek",
 		"romanian": "Șine",
-		"spanish": "Raíles."
+		"spanish": "Raíles.",
 	},
 
 
@@ -2382,43 +2388,50 @@
 		"english": "Traffic Light Settings",
 		"german": "Ampeleinstellungen",
 		"french": "Réglages des feux tricolores",
-		"spanish": "Configuración de luces de tráfico"
+		"spanish": "Configuración de luces de tráfico",
+		"italian": "Settaggi dei Semafori",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
 		"german": "Bearbeitet",
 		"french": "Personnalisé",
-		"spanish": "Personalizar"
+		"spanish": "Personalizar",
+		"italian": "Personalizzati",
 	},
 	"phaseNumber" : {
 		"english": "Phase %number%",
 		"german": "Phase %number%",
 		"french": "Phase %number%",
-		"spanish": "Fase %number%"
+		"spanish": "Fase %number%",
+		"italian": "Fase %number%",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
 		"english": "Skip to next phase when roads are empty",
 		"german": "Zur nächsten Phase springen wenn Straßen leer sind",
 		"french": "Passer à la phase suivante si les routes sont vides",
-		"spanish": "Pasar a la siguiente fase cuándo las carreteas estén vacías"
+		"spanish": "Pasar a la siguiente fase cuándo las carreteas estén vacías",
+		"italian": "Passa alla fase seguente quando le strade sono vuote",
 	},
 
 	"providing": { // like a school provides schooling
 		"english": "Providing",
 		"german": "Liefert",
 		"french": "Fournit",
-		"spanish": "Ofreciendo"
+		"spanish": "Ofreciendo",
+		"italian": "Fornisce",
 	},
 	"radius": {
 		"english": "Radius",
 		"german": "Radius",
 		"french": "Rayon",
-		"spanish": "Radio"
+		"spanish": "Radio",
+		"italian": "Raggio",
 	},
 	"speed": {
 		"english": "Speed",
 		"german": "Geschwindigkeit",
 		"french": "Vitesse",
-		"spanish": "Velocidad"
+		"spanish": "Velocidad",
+		"italian": "Velocità",
 	},
 }
