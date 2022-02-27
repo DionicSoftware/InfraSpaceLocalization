@@ -665,11 +665,13 @@
     "english": "High Speed Rail",
     "german": "Hochgeschwindigkeitsschienen",
     "french": "Trains à grande vitesse",
+    "italian": "Ferrovia ad alta velocità",
   },
   "tech_lightningRail": {
     "english": "Lightning Rails",
     "german": "Blitz-Schienen",
     "french": "Trains supersoniques",
+    "italian": "Ferrovia Supersonica",
   },
   "tech_superhighways": {
     "english": "Superhighways",
