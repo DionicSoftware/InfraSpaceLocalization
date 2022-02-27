@@ -1666,18 +1666,21 @@
 		"german": "Parks",
 		"french": "Parcs",
 		"italian": "Parchi",
+		"spanish": "Parques",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
 		"german": "Kultur",
 		"french": "Culture",
 		"italian": "Cultura",
+		"spanish": "Cultura",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
 		"german": "Schulen",
 		"french": "Écoles",
 		"italian": "Scuole",
+		"spanish": "Escuelas",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2125,7 +2128,7 @@
 		"hungarian": "Szükséges lakhely szint",
 		"czech": "Požadovaná úroveň obydlí",
 		"romanian": "Nivelul de habitat necesar",
-		"spanish": "Nivel de habitat necesario"
+		"spanish": "Nivel de habitat necesario",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -2139,7 +2142,7 @@
 		"italian": "Immagazzinamento globale",
 		"hungarian": "Globális raktár",
 		"romanian": "Stocare globală",
-		"spanish": "Almacenamiento Global"
+		"spanish": "Almacenamiento Global",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
@@ -2153,7 +2156,7 @@
 		"czech": "Sklad stavebních materiálů ukládá beton a ocel, které jsou potřeba pro stavbu budov a infrastruktury.",
 		"hungarian": "Az építőanyag raktár betont és acélt tárol, amik kellenek az épületek és az infrastruktúra megépítéséhez.",
 		"romanian": "Depozitul pentru materiale de construcție stochează beton și oțel, necesare pentru a construi clădiri și infrastructură.",
-		"spanish": "El almacén de construcción guarda Cemento y Acero, los cuales necesitas para construir edificios e infraestructuras."
+		"spanish": "El almacén de construcción guarda Cemento y Acero, los cuales necesitas para construir edificios e infraestructuras.",
 	},
 	// train info panel
 	"train": {
@@ -2168,7 +2171,7 @@
 		"czech": "Vlak",
 		"hungarian": "Vonat",
 		"romanian": "Tren",
-		"spanish": "Tren"
+		"spanish": "Tren",
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -2181,7 +2184,7 @@
 		"italian": "Trasporto",
 		"hungarian": "Szállít",
 		"romanian": "Transportând",
-		"spanish": "Transportando"
+		"spanish": "Transportando",
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2195,7 +2198,7 @@
 		"czech": "Další stanice",
 		"hungarian": "Következő megálló",
 		"romanian": "Urmatoarea stație",
-		"spanish": "Siguiente estación"
+		"spanish": "Siguiente estación",
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2210,7 +2213,7 @@
 		"czech": "Kamion",
 		"hungarian": "", //check in-game
 		"romanian": "Camion de livrare",
-		"spanish": "Camión de reparto"
+		"spanish": "Camión de reparto",
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2224,7 +2227,7 @@
 		"czech": "Cíl",
 		"hungarian": "Cél",
 		"romanian": "Ţintă",
-		"spanish": "Objetivo"
+		"spanish": "Objetivo",
 	},
 	// train line info panel
 	"trainLines": {
@@ -2239,7 +2242,7 @@
 		"czech": "Vlakové linky",
 		"hungarian": "Vasutak",
 		"romanian": "Linii de tren",
-		"spanish": "Lineas ferroviarias"
+		"spanish": "Lineas ferroviarias",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2253,7 +2256,7 @@
 		"czech": "Objem přepraveného nákladu: %amount%",
 		"hungarian": "Összes szállított termék: %amount%",
 		"romanian": "Mărfuri transportate în total: %amount%",
-		"spanish": "Total de material transportado %amount%"
+		"spanish": "Total de material transportado %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
@@ -2267,7 +2270,7 @@
 		"czech": "Vlaků na trati",
 		"hungarian": "Aktív vonatok",
 		"romanian": "Trenuri pe linie: %amount%",
-		"spanish": "Trenes en la linea %amount%"
+		"spanish": "Trenes en la linea %amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2281,7 +2284,7 @@
 		"czech": "Barva vlaku",
 		"hungarian": "Vonat színe",
 		"romanian": "Culoarea trenului",
-		"spanish": "Color de tren"
+		"spanish": "Color de tren",
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2296,7 +2299,7 @@
 		"czech": "Traťová návěstidla",
 		"hungarian": "Vonat jelzés",
 		"romanian": "Semnalizări de tren",
-		"spanish": "Señalización de tren"
+		"spanish": "Señalización de tren",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2310,7 +2313,7 @@
 		"czech": "Červená kolej označuje úseky, kde mohou vlaky kolidovat.",
 		"hungarian": "A piros sínek vonatok lehetséges ütközését jelzik.",
 		"romanian": "Șinele roșii indică segmente în care trenurile s-ar putea ciocni.",
-		"spanish": "Los raíles rojos indican segmentos donde los trenes podrían colisionar."
+		"spanish": "Los raíles rojos indican segmentos donde los trenes podrían colisionar.",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2324,7 +2327,7 @@
 		"hungarian": "A narancssárga sínek kereszteződéseket jeleznek. Ezek a piros részek körül jönnek létre. A legtöbb esetben csak egy vonat egyszerre kereszteződést használni",
 		"romanian": "Șinele portocalii arată intersecțiile feroviare. Acestea sunt create în jurul segmentelor roșii. În cele mai multe cazuri, doar un tren poate intra într-o intersecție la un moment dat.",
 		"czech": "Oranžová barva označuje železniční křížení. Tyto úseky jsou vytvořeny okolo červených úseků. Ve většině případů smí být v takovém úseku pouze jeden vlak.",
-		"spanish": "Los raíles naranjas muestran intersecciones. Estas se crean alrededor de segmentos rojos. En la mayoría de los casos solamente un tren entrará a la intersección cada vez."
+		"spanish": "Los raíles naranjas muestran intersecciones. Estas se crean alrededor de segmentos rojos. En la mayoría de los casos solamente un tren entrará a la intersección cada vez.",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2338,7 +2341,7 @@
 		"hungarian": "A zöld sínek egyenes részek ahol nincs esély ütközésre.",
 		"romanian": "Șinele verzi sunt segmente fără risc de coliziune.",
 		"czech": "Zelené úseky jsou přímé bez rizika srážky.",
-		"spanish": "Los raíles verdes son segmentos directos sin riesgo de colisión."
+		"spanish": "Los raíles verdes son segmentos directos sin riesgo de colisión.",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2352,7 +2355,7 @@
 		"hungarian": "A vonat jelző rendszer megakadályozza hogy a vonatok ütközzenek, vagy rossz vágányra kerüljenek.",
 		"romanian": "Sistemul de semnalizare a trenurilor împiedică trenurile tale să se ciocnească sau să se blocheze reciproc.",
 		"czech": "Železniční signalizace slouží k tomu, aby zabránila srážkám vlaků nebo vzájemnému zablokování.",
-		"spanish": "El sistema de señalización previene que tus trenes colisionen o se bloqueen entre ellos."
+		"spanish": "El sistema de señalización previene que tus trenes colisionen o se bloqueen entre ellos.",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2366,7 +2369,7 @@
 		"hungarian": "Az elakadásokat el lehet kerülni a kereszteződések között hagyott elegendő hosszúságú egyenes rész.",
 		"romanian": "Pentru un debit maxim, asigură-te că ai suficient spațiu cu segmente lungi verzi între intersecții.",
 		"czech": "Snažte se mít mezi kříženími co nejdelší úseky zelené, zvýšíte tím propustnost trati.",
-		"spanish": "Para mayor eficacia, asegurate de que tienes suficiente espacio de segmentos largos verdes y las intersecciones."
+		"spanish": "Para mayor eficacia, asegurate de que tienes suficiente espacio de segmentos largos verdes y las intersecciones.",
 	},
 	"rails": {
 		"english": "Rails",
