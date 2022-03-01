@@ -661,6 +661,7 @@
     "hungarian": "Vonatok",
     "romanian": "Trenuri",
     "thai": "รถไฟ",
+    "polish": "Kolej",
   },
   "tech_highSpeedRail": {
     "english": "High Speed Rail",
@@ -668,6 +669,7 @@
     "french": "Trains à grande vitesse",
     "italian": "Ferrovia ad alta velocità",
     "thai": "รถไฟความเร็วสูง",
+    "polish": "Szybka kolej",
   },
   "tech_lightningRail": {
     "english": "Lightning Rails",
@@ -675,6 +677,7 @@
     "french": "Trains supersoniques",
     "italian": "Ferrovia Supersonica",
     "thai": "รถไฟสายฟ้า",
+    "polish": "Ultraszybka kolej"
   },
   "tech_superhighways": {
     "english": "Superhighways",
