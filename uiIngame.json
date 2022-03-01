@@ -1027,18 +1027,21 @@
 		"german": "Kein Gitter",
 		"french": "Pas de grille",
 		"italian": "Nessuna griglia",
+		"thai": "ไม่มีตาราง",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
 		"german": "0° Gitter",
 		"french": "Grille 0°",
 		"italian": "Griglia 0°",
+		"thai": "ตาราง 0°",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
 		"german": "45° Gitter",
 		"french": "Grille 45°",
 		"italian": "Griglia 45°",
+		"thai": "ตาราง 45°",
 	},
 
 	"buildCurvedRoad": {
@@ -1667,6 +1670,7 @@
 		"french": "Parcs",
 		"italian": "Parchi",
 		"spanish": "Parques",
+		"thai": "สวนสาธารณะ",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
@@ -1674,6 +1678,7 @@
 		"french": "Culture",
 		"italian": "Cultura",
 		"spanish": "Cultura",
+		"thai": "วัฒนธรรม",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -1681,6 +1686,7 @@
 		"french": "Écoles",
 		"italian": "Scuole",
 		"spanish": "Escuelas",
+		"thai": "โรงเรียน",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2393,6 +2399,7 @@
 		"french": "Réglages des feux tricolores",
 		"spanish": "Configuración de luces de tráfico",
 		"italian": "Settaggi dei Semafori",
+		"thai":"ตั้งค่าสัญญาณไฟจราจร",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
@@ -2400,6 +2407,7 @@
 		"french": "Personnalisé",
 		"spanish": "Personalizar",
 		"italian": "Personalizzati",
+		"thai":"กำหนดเอง",
 	},
 	"phaseNumber" : {
 		"english": "Phase %number%",
@@ -2407,6 +2415,7 @@
 		"french": "Phase %number%",
 		"spanish": "Fase %number%",
 		"italian": "Fase %number%",
+		"thai":"ระยะ %number%",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
 		"english": "Skip to next phase when roads are empty",
@@ -2414,6 +2423,7 @@
 		"french": "Passer à la phase suivante si les routes sont vides",
 		"spanish": "Pasar a la siguiente fase cuándo las carreteas estén vacías",
 		"italian": "Passa alla fase seguente quando le strade sono vuote",
+		"thai":"ข้ามไปยังระยะถัดไปหากถนนว่างเปล่า",
 	},
 
 	"providing": { // like a school provides schooling
@@ -2422,6 +2432,7 @@
 		"french": "Fournit",
 		"spanish": "Ofreciendo",
 		"italian": "Fornisce",
+		"thai": "การมอบ",
 	},
 	"radius": {
 		"english": "Radius",
@@ -2429,6 +2440,7 @@
 		"french": "Rayon",
 		"spanish": "Radio",
 		"italian": "Raggio",
+		"thai":"รัศมี",
 	},
 	"speed": {
 		"english": "Speed",
@@ -2436,5 +2448,6 @@
 		"french": "Vitesse",
 		"spanish": "Velocidad",
 		"italian": "Velocità",
+		"thai":"ความเร็ว",
 	},
 }
