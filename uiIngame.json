@@ -1028,6 +1028,7 @@
 		"french": "Pas de grille",
 		"italian": "Nessuna griglia",
 		"thai": "ไม่มีตาราง",
+		"polish": "wyłącz siatkę",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
@@ -1035,6 +1036,7 @@
 		"french": "Grille 0°",
 		"italian": "Griglia 0°",
 		"thai": "ตาราง 0°",
+		"polish": "Siatka 0°",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
@@ -1042,6 +1044,7 @@
 		"french": "Grille 45°",
 		"italian": "Griglia 45°",
 		"thai": "ตาราง 45°",
+		"polish": "Siatka 45°",
 	},
 
 	"buildCurvedRoad": {
@@ -1191,6 +1194,7 @@
 		"italian": "Vista dei segnali ferroviari",
 		"czech": "Ukázat železniční signalizaci",
 		"romanian": "Vizualizarea semnalelor de tren",
+		"polish": "Widok sygnalizacji kolejowej",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1443,6 +1447,7 @@
 		"hungarian": "Zsákutca",
 		"czech": "Slepá silnice",
 		"romanian": "Capăt de drum",
+		"polish": "Ślepa ulica",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1671,6 +1676,7 @@
 		"italian": "Parchi",
 		"spanish": "Parques",
 		"thai": "สวนสาธารณะ",
+		"polish": "Parki",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
@@ -1679,6 +1685,7 @@
 		"italian": "Cultura",
 		"spanish": "Cultura",
 		"thai": "วัฒนธรรม",
+		"polish": "Kultura",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -1687,6 +1694,7 @@
 		"italian": "Scuole",
 		"spanish": "Escuelas",
 		"thai": "โรงเรียน",
+		"polish": "Szkoły",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2400,6 +2408,7 @@
 		"spanish": "Configuración de luces de tráfico",
 		"italian": "Settaggi dei Semafori",
 		"thai":"ตั้งค่าสัญญาณไฟจราจร",
+		"polish": "Ustawienia świateł drogowych",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
@@ -2408,6 +2417,7 @@
 		"spanish": "Personalizar",
 		"italian": "Personalizzati",
 		"thai":"กำหนดเอง",
+		"polish": "zmodyfikowano",
 	},
 	"phaseNumber" : {
 		"english": "Phase %number%",
@@ -2416,6 +2426,7 @@
 		"spanish": "Fase %number%",
 		"italian": "Fase %number%",
 		"thai":"ระยะ %number%",
+		"polish": "Faza %number",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
 		"english": "Skip to next phase when roads are empty",
@@ -2424,6 +2435,7 @@
 		"spanish": "Pasar a la siguiente fase cuándo las carreteas estén vacías",
 		"italian": "Passa alla fase seguente quando le strade sono vuote",
 		"thai":"ข้ามไปยังระยะถัดไปหากถนนว่างเปล่า",
+		"polish": "Przeskocz do następnej fazy gdy drogi opustoszeją",
 	},
 
 	"providing": { // like a school provides schooling
@@ -2433,6 +2445,7 @@
 		"spanish": "Ofreciendo",
 		"italian": "Fornisce",
 		"thai": "การมอบ",
+		"polish": "Zapewnia",
 	},
 	"radius": {
 		"english": "Radius",
@@ -2441,6 +2454,7 @@
 		"spanish": "Radio",
 		"italian": "Raggio",
 		"thai":"รัศมี",
+		"polish": "Promień",
 	},
 	"speed": {
 		"english": "Speed",
@@ -2449,5 +2463,6 @@
 		"spanish": "Velocidad",
 		"italian": "Velocità",
 		"thai":"ความเร็ว",
+		"polish": "Prędkość"
 	},
 }
