@@ -89,7 +89,7 @@
 		"french": "Rail",
 		"russian": "Рельс",
 		"turkish": "Ray",
-		"polish": "Tor",
+		"polish": "Tor kolejowy",
 		"italian": "Ferrovia",
 		"czech": "Jednosměrná kolej",
 		"hungarian": "Sín",
@@ -105,6 +105,7 @@
 		"spanish": "Linea Ferroviaria de alta velocidad",
 		"italian": "Ferrovia ad alta velocità",
 		"thai":"รถไฟความเร็วสูง",
+		"polish": "Szybki tor kolejowy",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -113,5 +114,6 @@
 		"spanish": "Linea Ferroviaria de máxima velocidad",
 		"italian": "Ferrovia a velocità supersonica",
 		"thai":"รถไฟสายฟ้า",
+		"polish": "Ultraszybki tor kolejowy",
 	},
 }
