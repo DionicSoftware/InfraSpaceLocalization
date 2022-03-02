@@ -2406,7 +2406,7 @@
 		"italian": "Binari",
 		"hungarian": "Sínek",
 		"romanian": "Șine",
-		"spanish": "Raíles.",
+		"spanish": "Raíles",
 	},
 
 
@@ -2418,6 +2418,7 @@
 		"italian": "Settaggi dei Semafori",
 		"thai":"ตั้งค่าสัญญาณไฟจราจร",
 		"polish": "Ustawienia świateł drogowych",
+		"czech": "Nastavení semaforu",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
@@ -2427,6 +2428,7 @@
 		"italian": "Personalizzati",
 		"thai":"กำหนดเอง",
 		"polish": "zmodyfikowano",
+		"czech": "Vlastní",
 	},
 	"phaseNumber" : {
 		"english": "Phase %number%",
@@ -2435,7 +2437,8 @@
 		"spanish": "Fase %number%",
 		"italian": "Fase %number%",
 		"thai":"ระยะ %number%",
-		"polish": "Faza %number",
+		"polish": "Faza %number%",
+		"czech": "Fáze %number%",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
 		"english": "Skip to next phase when roads are empty",
@@ -2445,6 +2448,7 @@
 		"italian": "Passa alla fase seguente quando le strade sono vuote",
 		"thai":"ข้ามไปยังระยะถัดไปหากถนนว่างเปล่า",
 		"polish": "Przeskocz do następnej fazy gdy drogi opustoszeją",
+		"czech": "Přeskočit na další fázi, když jsou silnice prázdné",
 	},
 
 	"providing": { // like a school provides schooling
@@ -2455,6 +2459,7 @@
 		"italian": "Fornisce",
 		"thai": "การมอบ",
 		"polish": "Zapewnia",
+		"czech": "Poskytování",
 	},
 	"radius": {
 		"english": "Radius",
@@ -2464,6 +2469,7 @@
 		"italian": "Raggio",
 		"thai":"รัศมี",
 		"polish": "Promień",
+		"czech": "Radius",
 	},
 	"speed": {
 		"english": "Speed",
@@ -2473,5 +2479,6 @@
 		"italian": "Velocità",
 		"thai":"ความเร็ว",
 		"polish": "Prędkość"
+		"czech": "Rychlost",
 	},
 }
