@@ -2220,8 +2220,7 @@
 		"hungarian": "Következő megálló",
 		"romanian": "Urmatoarea stație",
 		"spanish": "Siguiente estación",
-		"czech": "Další stanice",
-	},
+			},
 	// car info panel
 	"deliveryTruck": {
 		"english": "Delivery Truck",
@@ -2236,7 +2235,6 @@
 		"hungarian": "", //check in-game
 		"romanian": "Camion de livrare",
 		"spanish": "Camión de reparto",
-		"czech": "Dodávkový vůz",
 	},
 	"carTarget": {
 		"english": "Target",
