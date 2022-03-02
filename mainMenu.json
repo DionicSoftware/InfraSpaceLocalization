@@ -116,6 +116,8 @@
 		"italian": "Indietro",
 		"thai":"กลับ",
 		"polish": "Wróć",
+		"czech": "Zpět",
+		
 	},
 	"backToGame": {
 		"english": "Back to Game",
@@ -132,6 +134,7 @@
 		"italian": "Ritorna al Gioco",
 		"romanian": "Înapoi la joc",
 		"polish": "Wróć do gry",
+		"czech": "Zpět do hry",
 	},
 	"website": {
 		"english": "Website",
@@ -863,6 +866,8 @@
 		"italian": "Scala dell'interfaccia",
 		"thai":"ขนาด UI",
 		"polish": "Skalowanie interfejsu",
+		"czech": "Uživatelské rozhraní",
+		
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1569,6 +1574,7 @@
 		"french": "Afficher la grille",
 		"italian": "Scambia la griglia",
 		"polish": "Przełącz siatkę",
+		"czech": "Přepnout mřížku",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -2079,6 +2085,7 @@
 		"italian": "Questo salvataggio è solo parzialmente compatibile con la tua versione del gioco",
 		"thai":"บันทึกนี้ใช้ได้กับเวอร์ชั่นเกมของคุณเพียงบางเวอร์ชั่นเท่านั้น",
 		"polish": "Ten zapis jest tylko częściowo kompatybilny z twoją wersją gry.",
+		"czech": "Toto uložení je pouze částečně kompatibilní s vaší verzí hry.",
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
@@ -2087,6 +2094,7 @@
 		"italian": "Come giocare con salvataggi incompatibili",
 		"thai":"วิธีเล่นบันทึกที่เข้ากันกับเกมไม่ได้",
 		"polish": "Jak uruchomić niekompatybilne zapisy gry",
+		"czech": "Jak hrát nekompatibilně uloženou hru",
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
@@ -2095,6 +2103,7 @@
 		"italian": "Quando rilasciamo un aggiornamento importante del gioco, a volte i salvataggi non sono pienamente compatibili.\nHai due opzioni:\n\n1. Continuare a giocare con la versione precedente. Abbiamo fatto un tutorial per te.\n2. Provare a convertire il tuo salvataggio nella nuova versione.\n\nLe conversioni dei salvataggi non sono perfette. Dovrai mettere in pausa il gioco e spendere un poco di tempo per correggere eventuali problemi.",
 		"thai":"เมื่อเราปล่อยอัปเดตเกมครั้งใหญ่ บางครั้งบันทึกเกมอาจทำงานได้ไม่เต็มที่\nคุณมีสองตัวเลือก:\n\n1.เล่นบันทึกเกมของคุณในเวอร์ชันก่อนหน้าต่อไป เราได้จัดทำบทแนะนำให้คุณ\n2.ลองแปลงเกมบันทึกเป็นเวอร์ชันใหม่\n\nการแปลงบันทึกยังไม่สมบูรณ์ คุณอาจต้องหยุดเกมชั่วคราวเพื่อใช้เวลาแก้ไขปัญหาต่างๆ",
 		"polish": "Gdy wypuszczamy duże aktualizacje gry może się zdarzyć, że stare zapisy gry nie są w pełni kompatybilne.\nIstnieją dwa rozwiązania:\n\n1. Możesz grać dalej używając starszej wersji gry. Przygotowaliśmy poradnik opisujący jak to zrobić.\n\n2. Możesz też przekonwertować swój zapis do nowej wersji.\n\nPamiętaj, że konwersje nie są idealne. Oznacza to, że konieczne może być zapauzowanie gry i poświęcenie chwili na ręczną naprawę znalezionych problemów.",
+		"czech": "Když vydáváme velkou aktualizaci hry, někdy uložené hry nejsou plně kompatibilní.\nMáte dvě možnosti:\n\n1. Pokračujte ve hře z předchozí verze. Vytvořili jsme pro vás tutoriál.\n2. Zkuste převést uloženou hru do nové verze.\n\nPřevody uložení nejsou dokonalé. Pravděpodobně budete muset hru pozastavit a strávit nějaký čas řešením případných problémů.",
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
@@ -2103,6 +2112,7 @@
 		"italian": "Cambia la versione del gioco",
 		"thai":"เปลี่ยนเวอร์ชั่นเกม",
 		"polish": "Zmień wersję gry"
+		"czech": "Změnit verzi hry",
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
@@ -2111,6 +2121,7 @@
 		"italian": "Prova a convertire",
 		"thai":"ลองแปลง",
 		"polish": "Podejmij próbę konwersji"
+		"czech": "Zkuste konverzi",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
