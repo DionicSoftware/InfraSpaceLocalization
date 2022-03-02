@@ -647,7 +647,7 @@
     "hungarian": "Autópályák",
     "thai": "ทางหลวง",
     "arabic": "طرق سريعة",
-	  "turkish":"Otoyollar",
+    "turkish":"Otoyollar",
     "romanian": "Autostrăzi",
   },
   "tech_trains": {
@@ -657,7 +657,7 @@
     "russian": "Поезда",
 	  "turkish":"Trenler", 
 	  "italian": "Treni",
-	  "czech": "Vlaky",
+    "czech": "Vlaky",
     "hungarian": "Vonatok",
     "romanian": "Trenuri",
     "thai": "รถไฟ",
@@ -670,6 +670,7 @@
     "italian": "Ferrovia ad alta velocità",
     "thai": "รถไฟความเร็วสูง",
     "polish": "Szybka kolej",
+    "czech": "Vysokorychlostní trať",
   },
   "tech_lightningRail": {
     "english": "Lightning Rails",
@@ -677,7 +678,8 @@
     "french": "Trains supersoniques",
     "italian": "Ferrovia Supersonica",
     "thai": "รถไฟสายฟ้า",
-    "polish": "Ultraszybka kolej"
+    "polish": "Ultraszybka kolej",
+    "czech": "Ultra-rychlá trať",
   },
   "tech_superhighways": {
     "english": "Superhighways",
