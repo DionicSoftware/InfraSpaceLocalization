@@ -1029,6 +1029,7 @@
 		"italian": "Nessuna griglia",
 		"thai": "ไม่มีตาราง",
 		"polish": "wyłącz siatkę",
+		"czech": "Bez mřížky",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
@@ -1037,6 +1038,7 @@
 		"italian": "Griglia 0°",
 		"thai": "ตาราง 0°",
 		"polish": "Siatka 0°",
+		"czech": "0° mřížka",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
@@ -1045,6 +1047,7 @@
 		"italian": "Griglia 45°",
 		"thai": "ตาราง 45°",
 		"polish": "Siatka 45°",
+		"czech": "45° mřížka",
 	},
 
 	"buildCurvedRoad": {
@@ -1677,6 +1680,7 @@
 		"spanish": "Parques",
 		"thai": "สวนสาธารณะ",
 		"polish": "Parki",
+		"czech": "Parky",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
@@ -1686,6 +1690,7 @@
 		"spanish": "Cultura",
 		"thai": "วัฒนธรรม",
 		"polish": "Kultura",
+		"czech": "Kultura",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -1695,6 +1700,7 @@
 		"spanish": "Escuelas",
 		"thai": "โรงเรียน",
 		"polish": "Szkoły",
+		"czech": "Školy",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2199,6 +2205,7 @@
 		"hungarian": "Szállít",
 		"romanian": "Transportând",
 		"spanish": "Transportando",
+		"czech": "Doprava",
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2213,6 +2220,7 @@
 		"hungarian": "Következő megálló",
 		"romanian": "Urmatoarea stație",
 		"spanish": "Siguiente estación",
+		"czech": "Další stanice",
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2228,6 +2236,7 @@
 		"hungarian": "", //check in-game
 		"romanian": "Camion de livrare",
 		"spanish": "Camión de reparto",
+		"czech": "Dodávkový vůz",
 	},
 	"carTarget": {
 		"english": "Target",
