@@ -106,6 +106,7 @@
 		"italian": "Ferrovia ad alta velocità",
 		"thai":"รถไฟความเร็วสูง",
 		"polish": "Szybki tor kolejowy",
+		"czech": "Vysokorychlostní trať",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -115,5 +116,6 @@
 		"italian": "Ferrovia a velocità supersonica",
 		"thai":"รถไฟสายฟ้า",
 		"polish": "Ultraszybki tor kolejowy",
+		"czech": "Ultrarychlá železniční trať",
 	},
 }
