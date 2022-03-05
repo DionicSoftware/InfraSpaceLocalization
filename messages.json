@@ -36,7 +36,7 @@
 		"portuguese": "Parabéns, sua cidade acabou de atingir o nível %cityLevel%.",
 		"hungarian": "Gratulálunk, a városod elérte a %cityLevel%. szintet.",
 		"japanese": "おめでとうございます。都市は%cityLevel%になり新たなテクノロジーが解除されました。", //TODO-japanese
-		"thai": "ยินดีด้วย เมืองของคุณถึงระดับ %cityLevel% แล้ว คุณได้ปลดล็อกเทคโนโลยีใหม่เพื่อทำการวิจัย", //TODO-thai
+		"thai": "ยินดีด้วย เมืองของคุณถึงระดับ %cityLevel% แล้ว",
 		"arabic": "هنيئا لك، مدينتك وصلت للمستوى %cityLevel%.",
 		"turkish":"Tebrikler, şehriniz %cityLevel% seviyesine ulaştı.",
 		"romanian": "Felicitări, orașul tău tocmai a atins nivelul %cityLevel%.",
