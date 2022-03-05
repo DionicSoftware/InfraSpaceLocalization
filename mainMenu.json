@@ -118,6 +118,7 @@
 		"thai":"กลับ",
 		"polish": "Wróć",
 		"czech": "Zpět",
+		"spanish": "Atrás",
 		
 	},
 	"backToGame": {
@@ -136,6 +137,7 @@
 		"romanian": "Înapoi la joc",
 		"polish": "Wróć do gry",
 		"czech": "Zpět do hry",
+		"spanish": "Volver al juego",
 	},
 	"website": {
 		"english": "Website",
