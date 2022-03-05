@@ -12,6 +12,7 @@
 		"romanian": "Alfa",
 		"scotsgaelic": "Alfa",
 		"czech": "Alfa",
+		"spanish": "Alfa",
 	},
 	"beta": {
 		"english": "Beta",
@@ -26,6 +27,7 @@
 		"romanian": "Beta",
 		"scotsgaelic": "Beta",
 		"czech": "Beta",
+		"spanish": "Beta",
 	},
 	"gamma": {
 		"english": "Gamma",
@@ -40,6 +42,7 @@
 		"romanian": "Gamma",
 		"scotsgaelic": "Gama",
 		"czech": "Gama",
+		"spanish": "Gamma",
 	},
 	"delta": {
 		"english": "Delta",
@@ -54,6 +57,7 @@
 		"romanian": "Delta",
 		"scotsgaelic": "Delta",
 		"czech": "Delta",
+		"spanish": "Delta",
 	},
 	"epsilon": {
 		"english": "Epsilon",
@@ -68,6 +72,7 @@
 		"romanian": "Epsilon",
 		"scotsgaelic": "Epsilon",
 		"czech": "Epsilon",
+		"spanish": "Epsilon",
 	},
 	"zeta": {
 		"english": "Zeta",
@@ -82,6 +87,7 @@
 		"romanian": "Zeta",
 		"scotsgaelic": "Zeta",
 		"czech": "Zeta",
+		"spanish": "Zeta",
 	},
 	"theta": {
 		"english": "Theta",
@@ -96,6 +102,7 @@
 		"romanian": "Theta",
 		"scotsgaelic": "Theta",
 		"czech": "Theta",
+		"spanish": "Theta",
 	},
 	"iota": {
 		"english": "Iota",
@@ -110,6 +117,7 @@
 		"romanian": "Iota",
 		"scotsgaelic": "Iota",
 		"czech": "Iota",
+		"spanish": "Iota",
 	},
 	"kappa": {
 		"english": "Kappa",
@@ -124,6 +132,7 @@
 		"romanian": "Kappa",
 		"scotsgaelic": "Kappa",
 		"czech": "Kappa",
+		"spanish": "Kappa",
 	},
 	"lambda": {
 		"english": "Lambda",
@@ -138,6 +147,7 @@
 		"romanian": "Lambda",
 		"scotsgaelic": "Lambda",
 		"czech": "Lambda",
+		"spanish": "Lambda",
 	},
 	"mu": {
 		"english": "Mu",
@@ -152,6 +162,7 @@
 		"romanian": "Mu",
 		"scotsgaelic": "Mu",
 		"czech": "Mu",
+		"spanish": "Mu",
 	},
 	"xi": {
 		"english": "Xi",
@@ -166,6 +177,7 @@
 		"romanian": "Xi",
 		"scotsgaelic": "Xi",
 		"czech": "Xi",
+		"spanish": "Xi",
 	},
 	"omicron": {
 		"english": "Omicron",
@@ -180,6 +192,7 @@
 		"romanian": "Omicron",
 		"scotsgaelic": "Omicron",
 		"czech": "Omicron",
+		"spanish": "Ómicron",
 	},
 	"pi": {
 		"english": "Pi",
@@ -194,6 +207,7 @@
 		"romanian": "Pi",
 		"scotsgaelic": "Pi",
 		"czech": "Pi",
+		"spanish": "Pi",
 	},
 	"rho": {
 		"english": "Rho",
@@ -208,6 +222,7 @@
 		"romanian": "Rho",
 		"scotsgaelic": "Ro",
 		"czech": "Ro",
+		"spanish": "Ro",
 	},
 	"sigma": {
 		"english": "Sigma",
@@ -222,6 +237,7 @@
 		"romanian": "Sigma",
 		"scotsgaelic": "Sigma",
 		"czech": "Sigma",
+		"spanish": "Sigma",
 	},
 	"tau": {
 		"english": "Tau",
@@ -236,6 +252,7 @@
 		"romanian": "Tau",
 		"scotsgaelic": "Tau",
 		"czech": "Tau",
+		"spanish": "Tau",
 	},
 	"upsilon": {
 		"english": "Upsilon",
@@ -250,6 +267,7 @@
 		"romanian": "Upsilon",
 		"scotsgaelic": "Upsilon",
 		"czech": "Upsilon",
+		"spanish": "Upsilon",
 	},
 	"phi": {
 		"english": "Phi",
@@ -264,6 +282,7 @@
 		"romanian": "Phi",
 		"scotsgaelic": "Phi",
 		"czech": "Fi",
+		"spanish": "Fi",
 	},
 	"chi": {
 		"english": "Chi",
@@ -278,6 +297,7 @@
 		"romanian": "Csi",
 		"scotsgaelic": "Chi",
 		"czech": "Chi",
+		"spanish": "Chi",
 	},
 	"psi": {
 		"english": "Psi",
@@ -292,6 +312,7 @@
 		"romanian": "Psi",
 		"scotsgaelic": "Psi",
 		"czech": "Psi",
+		"spanish": "Psi",
 	},
 	"omega": {
 		"english": "Omega",
@@ -306,5 +327,6 @@
 		"romanian": "Omega",
 		"scotsgaelic": "Omega",
 		"czech": "Omega",
+		"spanish": "Omega",
 	},
 }
