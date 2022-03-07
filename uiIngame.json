@@ -18,6 +18,7 @@
 		"thai": "เครือข่ายแหล่งพลังงานที่ %id%",
 		"turkish": "Güç Ağı %id%",
 		"romanian": "Rețea de alimentare %id%",
+		"danish": "Strøm Netværk%id%",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -38,6 +39,7 @@
 		"thai": "จำเป็นต้องใช้ %amount% MW",
 		"turkish": "Gerekli: %amount% MW",
 		"romanian": "Necesar: %amount% MW",
+		"danish": "Krævet: %amount% MW",
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -58,6 +60,7 @@
 		"thai": "พลังงานที่ใช้:",
 		"turkish": "Kullanılan elektrik",
 		"romanian": "Curent consumat:",
+		"danish": "Strøm brugt",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -78,6 +81,7 @@
 		"thai": "พลังงานที่ผลิตได้:",
 		"turkish": "Üretilen elektrik:",
 		"romanian": "Curent produs:",
+		"danish": "Strøm brugt",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -98,6 +102,7 @@
 		"thai": "พื้นที่เก็บขาเข้าว่าง",
 		"turkish": "Gelen depo boş",
 		"romanian": "Depozit de intrare gol",
+		"danish": "Indgående lager er tomt",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -118,6 +123,7 @@
 		"thai": "ไม่มีทางเข้าออก",
 		"turkish": "Yola ulaşım yok",
 		"romanian": "Fără acces la drum",
+		"danish": "Ingen adgang til vej",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -138,6 +144,7 @@
 		"thai": "พื้นที่เก็บขาออกเต็ม",
 		"turkish": "Hedef depo dolu",
 		"romanian": "Depozit de ieșire plin",
+		"danish": "Udgående lager er fyldt",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -158,6 +165,7 @@
 		"thai": "ไม่มีคนงานในอาคาร",
 		"turkish": "Binada çalışan yok",
 		"romanian": "Fără muncitori",
+		"danish": "Ingen arbejdere i bygningen",
 	},
 	"noPower": {
 		"english": "No power",
@@ -178,6 +186,7 @@
 		"thai": "ไม่มีพลัง",
 		"turkish": "Elektrik yok",
 		"romanian": "Nu este curent",
+		"danish": "Ingen strøm",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -198,6 +207,7 @@
 		"thai": "ประสิทธิภาพ %amount%%",
 		"turkish": "%%amount% Verimlilik",
 		"romanian": "Eficienţă: %amount%%",
+		"danish": "%amount%% Effektivitet",
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -218,6 +228,7 @@
 		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" ก็ต่อเมื่อคุณต้องมีพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
 		"turkish": "En az %amount% tane %nextLevel% Seviye vatandaş olunca şehriniz \"%cityLevelName%\" e yükselicek.",
 		"romanian": "Orașul tău va fi promovat la \"%cityLevelName%\" după ce vei avea cel puțin %amount% cetățeni de nivel %nextLevel%.",
+		"danish": "Din by vil blive opgraderet til \"cityLevelName%\" når du har mindst %amount% level %nextLevel% beboere.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -238,6 +249,7 @@
 		"thai": "คุณมาถึงสูงสุดของระดับเมืองแล้ว ยินดีด้วย!",
 		"turkish": "En yüksek şehir seviyesine ulaştınız. Tebrikler!",
 		"romanian": "Ai atins cel mai înalt nivel de oraș. Felicitări!",
+		"danish": "Du har nået det højeste by level. Tilykke!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -258,6 +270,7 @@
 		"thai": "เมืองของคุณจะถูกลดระดับเป็น \"%cityLevelName%\" หากคุณยังมีพลเมืองน้อยกว่า %amount% ระดับ %level%",
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
+		"danish": "din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% level %level% beboere.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -278,6 +291,7 @@
 		"thai": "กำลังค้นคว้า %techName%...    %progress%",
 		"turkish": "%techName% araştırlıyor...    %progress%",
 		"romanian": "Cercetând %techName%...    %progress%",
+		"danish": "Forsker %techName%...    %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -298,6 +312,7 @@
 		"thai": "เลือกเทคโนโลยีเพื่อจะวิจัย",
 		"turkish": "Yükseltmek için bir teknoloji seçin",
 		"romanian": "Alege tehnologia de cercetare",
+		"danish": "Vælg en teknologi at forske",
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -318,6 +333,7 @@
 		"thai": "ไม่มีอะไร",
 		"turkish": "Hiçbirşey",
 		"romanian": "Nimic",
+		"danish": "Intet",
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -338,6 +354,7 @@
 		"thai": "เราปลดล็อค %techName% แล้วและตอนนี้สามารถสร้างได้:",
 		"turkish": "%techName% araştırması bitti ve artık inşa edilebilir:",
 		"romanian": "Am deblocat %techName% și acum putem construi:",
+		"danish": "Vi har åbnet for %techName% og kan nu bygge:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -358,6 +375,7 @@
 		"thai": "เราปลดล็อค %techName% แล้ว",
 		"turkish": "%techName% araştırması bitti.",
 		"romanian": "Am deblocat %techName%.",
+		"danish": "Vi har åbnet for %techName%.",
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -378,6 +396,7 @@
 		"thai": "เทคโนโลยีนี้ปลดล็อก:",
 		"turkish": "Bu teknolojinin açtıkları:",
 		"romanian": "Această tehnologie deblochează:",
+		"danish": "Denne teknologi åbner for:",
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
@@ -398,6 +417,7 @@
 		"thai": "เทคโนโลยีไม่ได้ปลดล็อคอะไรเลย",
 		"turkish": "BU teknoloji hiçbirşey açmıyor.",
 		"romanian": "Această tehnologie nu deblochează nimic.",
+		"danish": "Denne teknologi åbner ikke for noget",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -418,6 +438,7 @@
 		"thai": "วิจัยเสร็จแล้ว!",
 		"turkish": "Araştırma tamamlandı!",
 		"romanian": "Cercetare finalizată!",
+		"danish": "Forskning udført!",
 	},
 	"production": {
 		"english": "Production",
@@ -438,6 +459,7 @@
 		"thai": "การผลิต",
 		"turkish": "Üretim",
 		"romanian": "Producție",
+		"danish": "Produktion",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -458,6 +480,7 @@
 		"thai": "การบริโภค",
 		"turkish": "Tüketim",
 		"romanian": "Consum",
+		"danish": "Forbrug",
 	},
 	"workers": {
 		"english": "Workers",
@@ -478,6 +501,7 @@
 		"thai": "คนงาน",
 		"turkish": "Çalışanlar",
 		"romanian": "Muncitori",
+		"danish": "Arbejdere",
 	},
 	"storage": {
 		"english": "Storage",
@@ -498,6 +522,7 @@
 		"thai": "พื้นที่จัดเก็บ",
 		"turkish": "Depo",
 		"romanian": "Depozit",
+		"danish": "Lager",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -518,6 +543,7 @@
 		"thai": "ปรับปรุง",
 		"turkish": "Yükseltmeler",
 		"romanian": "Upgrade-uri",
+		"danish": "Opgraderinger",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -538,6 +564,7 @@
 		"thai": "จัดลำดับความสำคัญ",
 		"turkish": "Önceliğe Al",
 		"romanian": "Prioritizează",
+		"danish": "Prioritering",
 	},
 	"price": {
 		"english": "Price",
@@ -559,6 +586,7 @@
 		"hungarian": "Költség",
 		"thai": "ราคา",
 		"turkish": "Fiyat",
+		"danish": "Pris",
 	},
 	// habitat info panel
 	"habitatUpgradingIn": {
@@ -580,6 +608,7 @@
 		"thai": "กำลังปรับปรุงที่อยู่อาศัยใน %seconds% วิ",
 		"turkish": "Habitat %seconds%sn sonra yükeslicek.",
 		"romanian": "Habitatul modernizează în %seconds%s.",
+		"Habitat udvides om %seconds%s",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -600,6 +629,7 @@
 		"thai": "การลดระดับที่อยู่อาศัยใน %seconds% วิ",
 		"turkish": "Habitat %seconds%sn sonra bir alt seviyeye inecek.",
 		"romanian": "Habitatul degradează în %seconds%s.",
+		"danish": "Habitat nedgraderes om %seconds%s",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
