@@ -19,7 +19,7 @@
 		"arabic": "قاعدة",
 		"turkish": "Koloni",
 		"romanian": "Avanpost",
-		"danish": "Forpost",
+		"danish": "Koloni",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -63,7 +63,7 @@
 		"arabic": "بلدة صغيرة",
 		"turkish": "Küçük Kasaba",
 		"romanian": "Oraș mic",
-		"danish": "Lille Landsby",
+		"danish": "Landsby",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -85,7 +85,7 @@
 		"arabic": "بلدة كبيرة",
 		"turkish": "Büyük Kasaba",
 		"romanian": "Oraș mare",
-		"danish": "Stor Landsby",
+		"danish": "Forstad",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -107,7 +107,7 @@
 		"arabic": "مدينة",
 		"turkish": "Şehir",
 		"romanian": "Metropolă",
-		"danish": "By",
+		"danish": "Storby",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
