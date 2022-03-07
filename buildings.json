@@ -20,7 +20,7 @@
     "korean": "모래 채굴기",
     "romanian": "Mină de nisip",
     "scotsgaelic": "Mèinn Gainmheach",
-    "danich": "Sandmine",
+    "danich": "Sand Mine",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -66,7 +66,7 @@
     "korean": "철 채굴기",
     "romanian": "Mină de fier",
     "scotsgaelic": "Mèinn Iarainn",
-    "danish": "Jernmine",
+    "danish": "Jern Mine",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -89,7 +89,7 @@
     "korean": "구리 채굴기",
     "romanian": "Mină de cupru",
     "scotsgaelic": "Mhèinn Copar",
-    "danish": "Kobbermine",
+    "danish": "Kobber Mine",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -112,7 +112,7 @@
     "korean": "알루미늄 채굴기",
     "romanian": "Mină de aluminiu",
     "scotsgaelic": "Mèinnean Aluminium",
-    "danish": "Aluminiumsmine",
+    "danish": "Aluminiums Mine",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -135,7 +135,7 @@
     "korean": "우라늄 채굴기",
     "romanian": "Mină de uraniu",
     "scotsgaelic": "Mèinnean Uranium",
-    "danish": "Uranmine",
+    "danish": "Uran Mine",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -158,7 +158,7 @@
     "korean": "이리듐 채굴기",
     "romanian": "Mină de iridiu",
     "scotsgaelic": "Mèinnean Iridium",
-    "danish": "Iridiummine",
+    "danish": "Iridium Mine",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -181,7 +181,7 @@
     "korean": "대형 모래 채굴기",
     "romanian": "Mină mare de nisip",
     "scotsgaelic": "Mèinn Mhòr Gainmhich",
-    "danish": "Stor Sandmine",
+    "danish": "Stor Sand Mine",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -204,7 +204,7 @@
     "korean": "대형 유황 채굴기",
     "romanian": "Mină mare de sulf",
     "scotsgaelic": "Mèinn Mhòr Shulfair",
-    "danish": "Stor Svovlmine";
+    "danish": "Stor Svovl Mine";
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -227,7 +227,7 @@
     "korean": "대형 철 채굴기",
     "romanian": "Mină mare de fier",
     "scotsgaelic": "Mèinn Mòr Iarainn",
-    "danish": "Stor Jernmine",
+    "danish": "Stor Jern Mine",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -250,7 +250,7 @@
     "korean": "대형 구리 채굴기",
     "romanian": "Mină mare de cupru",
     "scotsgaelic": "Mèinn Copair Mòr",
-    "danish": "Stor Kobbermine",
+    "danish": "Stor Kobber Mine",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -273,7 +273,7 @@
     "korean": "대형 알루미늄 채굴기",
     "romanian": "Mină mare de aluminiu",
     "scotsgaelic": "Mèinn Mòr Aluminium",
-    "danish": "Stor Aluminiumsmine",
+    "danish": "Stor Aluminiums Mine",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -296,7 +296,7 @@
     "korean": "대형 우라늄 채굴기",
     "romanian": "Mină mare de uraniu",
     "scotsgaelic": "Mèinnean Mòr Uranium",
-    "danish": "Stor Uranmine",
+    "danish": "Stor Uran Mine",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -319,7 +319,7 @@
     "korean": "대형 이리듐 채굴기",
     "romanian": "Mină mare de iridiu",
     "scotsgaelic": "Mèinnean Iridium Mòr",
-    "danish": "Stor Iridiummine",
+    "danish": "Stor Iridium Mine",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -342,7 +342,7 @@
     "korean": "전자부품 공장",
     "romanian": "Fabrică de electronice",
     "scotsgaelic": "Factaraidh Leictreonaic",
-    "danish": "Elektronikfabrik",
+    "danish": "Elektronik Fabrik",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -365,7 +365,7 @@
     "korean": "마이크로칩 공장",
     "romanian": "Fabrică de microcipuri",
     "scotsgaelic": "Factaraidh microchip",
-    "danish": "Microchip Fabrik",
+    "danish": "Mikrochip Fabrik",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -411,7 +411,7 @@
     "korean": "모터 공장",
     "romanian": "Fabrică de motoare",
     "scotsgaelic": "Factaraidh Motair",
-    "danish": "Motorfabrik",
+    "danish": "Motor Fabrik",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -457,7 +457,7 @@
     "korean": "이리듐합금 공장",
     "romanian": "Fabrică de aliaje de iridiu",
     "scotsgaelic": "Factaraidh Measgachadh Iridium",
-    "danish": "Iridium Legeringsfabrik",
+    "danish": "Iridium Legerings Fabrik",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -526,7 +526,7 @@
     "korean": "콘크리트 공장",
     "romanian": "Fabrică de beton",
     "scotsgaelic": "Factaraidh Concrait",
-    "danish": "Betonfabrik",
+    "danish": "Beton Fabrik",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -595,7 +595,7 @@
     "korean": "컴퓨터 공장",
     "romanian": "Fabrică de calculatoare",
     "scotsgaelic": "Factaraidh Coimpiutair",
-    "danish": "Computerfabrik",
+    "danish": "Computer Fabrik",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -618,7 +618,7 @@
     "korean": "가정로봇 공장",
     "romanian": "Fabrică de roboți de casă",
     "scotsgaelic": "Factaraidh Robot Dachaigh",
-    "danish": "Hjemmerobotfabrik",
+    "danish": "Hjemmerobot Fabrik",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -641,7 +641,7 @@
     "korean": "공업로봇 공장",
     "romanian": "Fabrică de roboți industriali",
     "scotsgaelic": "Factaraidh Robot Gnìomhachais",
-    "danish": "Industriuel robotfabrik",
+    "danish": "Industrirobot Fabrik",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -710,7 +710,7 @@
     "korean": "이리듐 추진체 공장",
     "romanian": "Fabrică de combustibil de iridiu",
     "scotsgaelic": "Factaraidh Iridium Propellant",
-    "danish": "Iridium Drivmiddelfabrik",
+    "danish": "Iridium Drivmiddel Fabrik",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -848,7 +848,7 @@
     "korean": "연구소",
     "romanian": "Laborator de cercetare",
     "scotsgaelic": "Obair-lann Rannsachaidh",
-    "danish": "Forskningslaboratorium",
+    "danish": "Forsknings Center",
   },
   "storehouse": {
     // TODO-chinese
@@ -942,7 +942,7 @@
     "korean": "토질개선시설",
     "romanian": "Instalație de îmbogățire a solului",
     "scotsgaelic": "Goireas beairteachadh talmhainn",
-    "danish": "Jordberigelsesanlæg",
+    "danish": "Jordberigelses Anlæg",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -1034,7 +1034,7 @@
     "korean": "간이 농장",
     "romanian": "Fermă simplă",
     "scotsgaelic": "Tuathanas Sìmplidh",
-    "danish": "Enkel Gård"
+    "danish": "Simpel Farm"
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -1080,7 +1080,7 @@
     "korean": "야채 농장",
     "romanian": "Fermă de legume",
     "scotsgaelic": "Tuathanas Glasraich",
-    "danish": "Grøntsagsgård",
+    "danish": "Grøntsags Farm",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -1103,7 +1103,7 @@
     "korean": "고기 연구소",
     "romanian": "Laborator de carne",
     "scotsgaelic": "Lab Feòil",
-    "danish": "Kødlaboratorie",
+    "danish": "Kød Laboratorium",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -1126,7 +1126,7 @@
     "korean": "고기 공장",
     "romanian": "Fabrică de mâncare",
     "scotsgaelic": "Factaraidh Bìdh",
-    "danish": "Fødevarefabrik",
+    "danish": "Kød Fabrik",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -1149,7 +1149,7 @@
     "korean": "기초 거주시설(LV1)",
     "romanian": "Habitat de bază",
     "scotsgaelic": "Taigh Bunaiteach",
-    "danish": "Grundlæggende habitat",
+    "danish": "Simpelt Habitat",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -1218,7 +1218,7 @@
     "korean": "좋은 거주시설(LV4)",
     "romanian": "Clădire rezidențială",
     "scotsgaelic": "Togalach Còmhnaidh",
-    "danish": "Beboelsesbygning",
+    "danish": "Beboelses Bygning",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -1241,7 +1241,7 @@
     "korean": "고급 거주시설(LV5)",
     "romanian": "Zgârie-nori rezidențial",
     "scotsgaelic": "Caisteal Còmhnaidh",
-    "danish": "Beboelseshøjhus",
+    "danish": "Beboelses Højhus",
   },
   "habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -1264,7 +1264,7 @@
     "korean": "최고 거주시설(LV6)",
     "romanian": "Rezidențial de lux",
     "scotsgaelic": "Caisteal Còmhnaidh Sòghail",
-    "danish": "Luksus Beboelseshøjhus",
+    "danish": "Luksus Beboelses Højhus",
   },
   "park": {
     "english": "Park",
