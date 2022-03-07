@@ -20,7 +20,7 @@
     "korean": "모래 채굴기",
     "romanian": "Mină de nisip",
     "scotsgaelic": "Mèinn Gainmheach",
-    "danich": "Sand Mine",
+    "danich": "Sandmine",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -43,7 +43,7 @@
     "korean": "유황 채굴기",
     "romanian": "Mină de sulf",
     "scotsgaelic": "Mèinn Sulfair",
-    "danish": "Svovl Mine",
+    "danish": "Svovlmine",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -66,7 +66,7 @@
     "korean": "철 채굴기",
     "romanian": "Mină de fier",
     "scotsgaelic": "Mèinn Iarainn",
-    "danish": "Jern Mine",
+    "danish": "Jernmine",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -89,7 +89,7 @@
     "korean": "구리 채굴기",
     "romanian": "Mină de cupru",
     "scotsgaelic": "Mhèinn Copar",
-    "danish": "Kobber Mine",
+    "danish": "Kobbermine",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -112,7 +112,7 @@
     "korean": "알루미늄 채굴기",
     "romanian": "Mină de aluminiu",
     "scotsgaelic": "Mèinnean Aluminium",
-    "danish": "Aluminiums Mine",
+    "danish": "Aluminiumsmine",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -135,7 +135,7 @@
     "korean": "우라늄 채굴기",
     "romanian": "Mină de uraniu",
     "scotsgaelic": "Mèinnean Uranium",
-    "danish": "Uran Mine",
+    "danish": "Uranmine",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -181,7 +181,7 @@
     "korean": "대형 모래 채굴기",
     "romanian": "Mină mare de nisip",
     "scotsgaelic": "Mèinn Mhòr Gainmhich",
-    "danish": "Stor Sand Mine",
+    "danish": "Stor Sandmine",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -204,7 +204,7 @@
     "korean": "대형 유황 채굴기",
     "romanian": "Mină mare de sulf",
     "scotsgaelic": "Mèinn Mhòr Shulfair",
-    "danish": "Stor Svovl Mine";
+    "danish": "Stor Svovlmine";
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -227,7 +227,7 @@
     "korean": "대형 철 채굴기",
     "romanian": "Mină mare de fier",
     "scotsgaelic": "Mèinn Mòr Iarainn",
-    "danish": "Stor Jern Mine",
+    "danish": "Stor Jernmine",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -250,7 +250,7 @@
     "korean": "대형 구리 채굴기",
     "romanian": "Mină mare de cupru",
     "scotsgaelic": "Mèinn Copair Mòr",
-    "danish": "Stor Kobber Mine",
+    "danish": "Stor Kobbermine",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -273,7 +273,7 @@
     "korean": "대형 알루미늄 채굴기",
     "romanian": "Mină mare de aluminiu",
     "scotsgaelic": "Mèinn Mòr Aluminium",
-    "danish": "Stor Aluminiums Mine",
+    "danish": "Stor Aluminiumsmine",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -296,7 +296,7 @@
     "korean": "대형 우라늄 채굴기",
     "romanian": "Mină mare de uraniu",
     "scotsgaelic": "Mèinnean Mòr Uranium",
-    "danish": "Stor Uran Mine",
+    "danish": "Stor Uranmine",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -457,7 +457,7 @@
     "korean": "이리듐합금 공장",
     "romanian": "Fabrică de aliaje de iridiu",
     "scotsgaelic": "Factaraidh Measgachadh Iridium",
-    "danish": "Iridium Legerings Fabrik",
+    "danish": "Iridium Legeringsfabrik",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -1034,7 +1034,7 @@
     "korean": "간이 농장",
     "romanian": "Fermă simplă",
     "scotsgaelic": "Tuathanas Sìmplidh",
-    "danish": "Simpel Farm"
+    "danish": "Simpel Gård"
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -1080,7 +1080,7 @@
     "korean": "야채 농장",
     "romanian": "Fermă de legume",
     "scotsgaelic": "Tuathanas Glasraich",
-    "danish": "Grøntsags Farm",
+    "danish": "Grøntsags Gård",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -1126,7 +1126,7 @@
     "korean": "고기 공장",
     "romanian": "Fabrică de mâncare",
     "scotsgaelic": "Factaraidh Bìdh",
-    "danish": "Kød Fabrik",
+    "danish": "Fødevare Fabrik",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
