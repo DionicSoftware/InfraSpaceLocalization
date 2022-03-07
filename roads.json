@@ -19,6 +19,7 @@
 		"arabic": "طريق غير معبد",
 		"turkish": "Çakıl Yol",
 		"romanian": "Drum de pietriș",
+		"danish": "Grusvej",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -40,6 +41,7 @@
 		"arabic": "طريق إسمنتي",
 		"turkish": "Beton Yol",
 		"romanian": "Drum de beton",
+		"danish": "Betonvej",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -61,6 +63,7 @@
 		"arabic": "طريق سريع",
 		"turkish": "Otoyol",
 		"romanian": "Autostradă",
+		"danish": "Motorvej",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -82,6 +85,7 @@
 		"arabic": "طريق فائق السرعة",
 		"turkish": "Süper Otoyol",
 		"romanian": "Super-autostradă",
+		"danish": "Lyn Motorvej",
 	},
 	"rail_oneWay": {
 		"english": "Rail",
@@ -97,6 +101,7 @@
 		"ukrainian": "Залізнична колія",
 		"spanish": "Linea Ferroviaria",
 		"thai":"รถไฟ",
+		"danish": "Spor",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
@@ -107,6 +112,7 @@
 		"thai":"รถไฟความเร็วสูง",
 		"polish": "Szybki tor kolejowy",
 		"czech": "Vysokorychlostní trať",
+		"danish": "Højhastigheds Spor",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -117,5 +123,6 @@
 		"thai":"รถไฟสายฟ้า",
 		"polish": "Ultraszybki tor kolejowy",
 		"czech": "Ultra-rychlá trať",
+		"danish": "Lynhastigheds Spor",
 	},
 }
