@@ -19,6 +19,7 @@
 		"arabic": "قاعدة",
 		"turkish": "Koloni",
 		"romanian": "Avanpost",
+		"danish": "Forpost",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -40,6 +41,7 @@
 		"arabic": "مستعمرة",
 		"turkish": "Yerleşke",
 		"romanian": "Așezare",
+		"danish": "Bosætter",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -61,6 +63,7 @@
 		"arabic": "بلدة صغيرة",
 		"turkish": "Küçük Kasaba",
 		"romanian": "Oraș mic",
+		"danish": "Lille Landsby",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -82,6 +85,7 @@
 		"arabic": "بلدة كبيرة",
 		"turkish": "Büyük Kasaba",
 		"romanian": "Oraș mare",
+		"danish": "Stor Landsby",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -103,6 +107,7 @@
 		"arabic": "مدينة",
 		"turkish": "Şehir",
 		"romanian": "Metropolă",
+		"danish": "By",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -124,5 +129,6 @@
 		"arabic": "عاصمة كوكبية",
 		"turkish": "Gezegensel Başkent",
 		"romanian": "Capitală planetară",
+		"danish": "Planetarisk Hovedstad"
 	},
 }
