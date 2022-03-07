@@ -18,7 +18,7 @@
 		"thai": "เครือข่ายแหล่งพลังงานที่ %id%",
 		"turkish": "Güç Ağı %id%",
 		"romanian": "Rețea de alimentare %id%",
-		"danish": "Strøm Netværk%id%",
+		"danish": "Strøm Netværk %id%",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
