@@ -855,6 +855,7 @@
 	  "turkish":"Nükleer Enerji",
     "romanian": "Energie nucleară",
 	  "danish": "Atomkraft",
+	  
   },
   "tech_schools": {
     "english": "Schools",
@@ -876,6 +877,8 @@
     "arabic": "مدارس",
 	  "turkish":"Okullar",
     "romanian": "Școli",
+	   "danish": "Skole",
+	  
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -897,6 +900,7 @@
     "arabic": "تعدين الإيريديوم",
 	  "turkish":"İridyum Kazısı",
     "romanian": "Exploatarea Iridiului",
+	   "danish": "Iridium minedrift",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -918,6 +922,8 @@
     "arabic": "إعادة التدوير",
 	  "turkish":"Geri Dönüşüm",
     "romanian": "Reciclare",
+	  "danish": "Genbrug",
+	  
   },
   "techDesc_recycling": {
     "english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -939,6 +945,7 @@
     "arabic": "قلل من استهلاكك للموارد عن طريق معالجة المخلفات الصناعية في المصانع المحيطة.",
 	  "turkish":"Yakınlardaki fabrikaların atıklarını işleyerek materyal kullanımını azaltın.",
     "romanian": "Reduce consumul de resurse prin procesarea deșeurilor industriale în fabricile din apropiere.",
+	  "danish": "Sænk dit ressourceforbrug ved at behandle industriaffald på nærliggende fabrikker.",
   },
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
     "english": "Holo-Displays",
@@ -960,6 +967,7 @@
     "arabic": "شاشات عرض ثلاثية الأبعاد",
 	  "turkish":"Holo-Ekran",
     "romanian": "Afișări holografice",
+	   "danish": "Holo-skærme",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -981,6 +989,8 @@
     "arabic": "ورشة عالية التقنية",
 	  "turkish":"Yüksek Teknoloji Atölye",
     "romanian": "Atelier de înaltă tehnologie",
+	   "danish": "Højteknologisk værksted",
+	  
   },
   "techDesc_highTechWorkshop": {
     "english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -1002,6 +1012,7 @@
     "arabic": "زود مصانعك بأدوات عالية التقنية لتزيد من إنتاجيتك.",
 	  "turkish":"Fabrikalarınızı gelişmiş teknolji aletlerle donatıp verimliliklerini arttırın",
     "romanian": "Furnizează fabricile cu instrumente de înaltă tehnologie pentru a crește productivitatea.",
+	     "danish": "Forsyn dine fabrikker med højteknologiske værktøjer for at øge produktiviteten.",
   },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
@@ -1023,6 +1034,7 @@
     "arabic": "وحدات تحكم بالذكاء الاصطناعي",
 	  "turkish":"Yapay Zeka Kontrol Üniteleri",
     "romanian": "Unități de control în inteligență artificială",
+	   "danish": "AI kontrolenheder",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -1044,6 +1056,8 @@
     "arabic": "إيريديوم دافع",
 	  "turkish":"İridyum İtici",
     "romanian": "Propulsor de iridiu",
+	     "danish": "Iridium drivmiddel",
+	  
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1065,6 +1079,8 @@
     "arabic": "مفاعل نيوتروني سريع",
 	  "turkish":"Hızlı Nötron Reaktörü",
     "romanian": "Reactor rapid cu neutroni",
+	     "danish": "Hurtig neutronreaktor",
+	  
   },
   "tech_science4": {
     "english": "Red Science",
@@ -1086,6 +1102,8 @@
     "arabic": "علم أحمر",
 	  "turkish":"Kırmızı Bilim",
     "romanian": "Știință roșie",
+	   "danish": "Rød Viden",
+	  
   },
   "tech_adamantineMining": {
     "english": "Adamantine Mining",
@@ -1107,5 +1125,7 @@
     "arabic": "تعدين الأدامانتين",
 	  "turkish":"Adamantium Kazısı",
     "romanian": "Exploatarea de adamantin",
+	    "danish": "Adamantine minedrift",
+	  
   },
 }
