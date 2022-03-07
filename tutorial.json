@@ -880,6 +880,7 @@
 		"thai": "ระดับเมือง",
 		"turkish":"Şehir Seviyeleri",
 		"romanian": "Niveluri de oraș",
+		"danish":"By Level",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -900,6 +901,7 @@
 		"thai": "ตรวจสอบแถบความคืบหน้าเพื่อดูว่าประชาชนมีจำนวนเท่าไหร่ที่จำเป็นต้องได้รับที่อยู่อาศัยที่ดีขึ้นเพื่อที่จะไปถึงระดับต่อไป",
 		"turkish":"Kaç tane vatandaşın daha iyi konutlara geçmesi gerektiğini görmek için ilerleme çubuğunu kontrol ediniz.",
 		"romanian": "Verifică bara de progres pentru a vedea câți cetățeni trebuie să obțină locuințe mai bune pentru a ajunge la nivelul următor.",
+		"danish":"Tjek statuslinjen for at se, hvor mange borgere der skal have en bedre bolig for at nå det næste niveau.",
 		
 	},
 	"tutorial_productionPanel": {
@@ -921,6 +923,7 @@
 		"thai": "การจัดลำดับความสำคัญของงาน",
 		"turkish":"İş Önceliği",
 		"romanian": "Prioritizarea locurilor de muncă",
+		"danish":"Jobprioritering",
 	},
 	"tutorialMessage_productionPanel_title": {
 		"english": "Production Overview",
@@ -941,6 +944,7 @@
 		"thai": "ภาพรวมการผลิต",
 		"turkish":"Üretim Özeti",
 		"romanian": "Prezentare generală a producției",
+		"danish":"Produktionsoversigt",
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
@@ -961,6 +965,7 @@
 		"thai": "ตรวจสอบจำนวนการผลิตและการบริโภคสำหรับเมืองของคุณ เพื่อดูว่าคุณมีการผลิตเพียงพอหรือไม่ เพื่อให้ทันกับความต้องการ\n\nถ้าคุณต้องการเติมเข้าไปในคลังคุณต้องมีการผลิตมีมากกว่าการบริโภค!",
 		"turkish":"Şehrin gereksinimlerini karşılamaya yeticek kadar üretim yapıp yapmadığınızı kontrol etmek için şehrin üretim ve tüketim sayılarına bakın.\n\nEğer stok yapmak istiyorsanız tütteiğinizden daha fazla üretmelisiniz",
 		"romanian": "Verifică numerele de producție și consum al orașului tău și vezi dacă produci suficient pentru a ține pasul cu cererea.\n\nPentru a umple stocurile, trebuie să produci mai mult decât consumi!",
+		"danish":"Tjek produktions- og forbrugstallene for din by for at se, om du producerer nok til at følge med efterspørgslen.\n\nHvis du vil fylde lagrene op, skal du producere mere, end du forbruger!",
 	},
 	"tutorialMessage_productionPanelPrioBars_title": {
 		"english": "Jobs Prioritization",
@@ -981,6 +986,7 @@
 		"thai": "การจัดลำดับความสำคัญของงาน",
 		"turkish":"İş Önceliği",
 		"romanian": "Prioritizarea locurilor de muncă",
+		"danish":"Jobpriortering",
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
 		"english": "If you don't have enough workers, use the sliders to move your workforce into the most important jobs.",
@@ -1001,6 +1007,7 @@
 		"thai": "หากคุณมีคนงานไม่เพียงพอ ให้ใช้แถบเลื่อนเพื่อย้ายคนงานของคุณไปยังงานที่สำคัญที่สุดก่อนได้",
 		"turkish":"Eğer yeterli iş gücünüz yoksa, kaydıraçları kullanarak iş gücünüzü öncelikli işlere odaklayın.",
 		"romanian": "Dacă nu ai suficienți angajați, utilizează glisoarele pentru a muta forța de muncă în cele mai importante locuri de muncă.",
+		"danish":"Hvis du ikke har nok arbejdere, kan du bruge skyderne til at flytte din arbejdsstyrke til de vigtigste job.",
 	},
 	"tutorial_grid": {
 		"english": "Building Grid",
@@ -1011,6 +1018,8 @@
 		"thai": "สร้างตาราง",
 		"polish": "Siatka budowy",
 		"czech": "Mřížka",
+		"danish":"Bygningsgitter",
+		
 	},
 	"tutorialMessage_grid_title": {
 		"english": "Building with and without grid",
@@ -1021,6 +1030,7 @@
 		"thai": "สร้างและไม่มีตาราง",
 		"polish": "Budowanie z pomocą i bez siatki",
 		"czech": "Budova s mřížkou a bez mřížky",
+		"danish":"Bygning med og uden gitter",
 		
 	},
 	"tutorialMessage_grid_desc": {
@@ -1032,5 +1042,6 @@
 		"thai": "ใช้ปุ่มเหล่านี้เพื่อเลือกตารางของคุณ คุณสามารถใช้ตารางเพื่อจัดแนวถนนและอาคารของคุณ หรือปิดและสร้างได้อย่างอิสระ",
 		"polish": "Użyj tych przycisków aby przełączać siatkę. Siatka pomaga budować proste drogi i stawiać budynki w uporządkowany sposób. Możesz też wyłączyć siatkę i swobodnie kształtować swoje miasto.",
 		"czech": "Pomocí těchto tlačítek vyberte mřížku. Pomocí mřížek můžete zarovnat silnice a budovy nebo mřížku vypnout a volně stavět.",
+		"danish":"Brug disse knapper til at vælge dit gitter. Du kan bruge gitter til at justere dine veje og bygninger eller slå dem fra og bygge frit.",
 	},
 }
