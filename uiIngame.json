@@ -1411,7 +1411,7 @@
 		"thai": "อาคารไม่ได้วางบนแหล่งทรัพยากร",
 		"turkish": "Bina kaynağın üstünde değil",
 		"romanian": "Clădirea nu este plasată pe depozitul de resurse",
-		"Bygningen er ikke placeret på et resource område",
+		"danish": "Bygningen er ikke placeret på et resource område",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
