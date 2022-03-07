@@ -144,7 +144,7 @@
 		"polish": "Wróć do gry",
 		"czech": "Zpět do hry",
 		"spanish": "Volver al juego",
-		"danish": "Tilbage til Spillet",
+		"danish": "Tilbage til spillet",
 	},
 	"website": {
 		"english": "Website",
@@ -213,7 +213,7 @@
 		"slovak": "Je dostupná aktualizácia!",
 		"hungarian": "Frissítés elérhető!",
 		"thai": "อัพเดทพร้อมใช้งาน!",
-		"danish": "Ny Opdatering Tilgængelig",
+		"danish": "Opdatering Tilgængelig",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -579,6 +579,7 @@
 		"slovak": "Nastavenia",
 		"hungarian": "Beállítások",
 		"thai": "การตั้งค่า",
+		"danish": "Indstillinger",
 	},
 	"graphics": {
 		"english": "Video",
@@ -601,6 +602,7 @@
 		"slovak": "Video",
 		"hungarian": "Videó",
 		"thai": "วิดีโอ",
+		"danish": "Video",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -623,6 +625,7 @@
 		"slovak": "Kvalita grafiky",
 		"hungarian": "Grafika minősége",
 		"thai": "คุณภาพกราฟิก",
+		"danish": "Grafik Kvalitet",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -645,6 +648,7 @@
 		"slovak": "Nízka",
 		"hungarian": "Alacsony",
 		"thai": "ต่ำ",
+		"danish": "Lav",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -667,6 +671,7 @@
 		"slovak": "Stredná",
 		"hungarian": "Közepes",
 		"thai": "กลาง",
+		"danish": "Middel",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -689,6 +694,7 @@
 		"slovak": "Vysoká",
 		"hungarian": "Magas",
 		"thai": "สูง",
+		"danish": "Høj",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -711,6 +717,7 @@
 		"slovak": "Rozlíšenie",
 		"hungarian": "Felbontás",
 		"thai": "ความละเอียด",
+		"danish": "Opløsning",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -733,6 +740,7 @@
 		"slovak": "Režim rozbrazenia",
 		"hungarian": "Megjelenítési mód",
 		"thai": "โหมดแสดงผล",
+		"danish": "Visningstilstand",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -755,6 +763,7 @@
 		"slovak": "V okne",
 		"hungarian": "Ablakos",
 		"thai": "หน้าต่าง",
+		"danish": "Vindue",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -777,6 +786,7 @@
 		"slovak": "Celá obrazovka",
 		"hungarian": "Teljesképernyős",
 		"thai": "เต็มจอ",
+		"danish": "Fuldskærm",
 	},
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
@@ -798,6 +808,7 @@
 		"arabic": "ملء تام للشاشة",
 		"turkish":"Exclusive Tam Ekran",
 		"romanian": "Ecran complet exclusiv",
+		"danish": "Eksklusiv fuldskærm",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -820,6 +831,7 @@
 		"slovak": "Vsync",
 		"hungarian": "Vsync",
 		"thai": "ลดการฉีกขาดของหน้าจอ",
+		"danish": "Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -842,6 +854,7 @@
 		"hungarian": "Lassú",
 		"thai": "ช้า",
 		"arabic": "بطيئ",
+		"danish": "Langsom",
 	},
 	"on": {
 		"english": "On",
@@ -864,6 +877,7 @@
 		"slovak": "Zapnuté",
 		"hungarian": "Be",
 		"thai": "เปิด",
+		"danish": "Tændt",
 	},
 	"off": {
 		"english": "Off",
@@ -886,6 +900,7 @@
 		"slovak": "Vypnuté",
 		"hungarian": "Ki",
 		"thai": "ปิด",
+		"danish": "Slukket",
 	},
 	"uiScale": {
 		"english": "UI Scale",
@@ -896,6 +911,7 @@
 		"thai":"ขนาด UI",
 		"polish": "Skalowanie interfejsu",
 		"czech": "Uživatelské rozhraní",
+		"danish": "UI Skala",
 		
 	},
 	"brightness": {
@@ -919,6 +935,7 @@
 		"slovak": "Jas",
 		"hungarian": "Fényerő",
 		"thai": "ความสว่าง",
+		"danish": "Lysstyrke",
 	},
 	"audio": {
 		"english": "Audio",
@@ -941,6 +958,7 @@
 		"slovak": "Zvuk",
 		"hungarian": "Hang",
 		"thai": "เสียง",
+		"danish": "Lyd",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -963,6 +981,7 @@
 		"slovak": "Celková hlasitosť",
 		"hungarian": "Teljes hangerő",
 		"thai": "ระดับเสียงทั้งหมด",
+		"danish": "Total Lydstyrke",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -985,6 +1004,7 @@
 		"slovak": "Zvukové efekty",
 		"hungarian": "Hanghatások",
 		"thai": "เสียงเอฟเฟค",
+		"danish": "Lydeffekter",
 	},
 	"music": {
 		"english": "Music",
@@ -1007,6 +1027,7 @@
 		"slovak": "Hudba",
 		"hungarian": "Zene",
 		"thai": "เสียงเพลง",
+		"danish": "Musik",
 	},
 	"other": {
 		"english": "Other",
@@ -1029,6 +1050,7 @@
 		"slovak": "Ostatné",
 		"hungarian": "Egyéb",
 		"thai": "อื่นๆ",
+		"danish": "Andet",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1051,6 +1073,7 @@
 		"hungarian": "Kamera gyorsasága",
 		"thai": "ความเร็วกล้อง",
 		"arabic": "سرعة الكاميرا",
+		"danish": "Kamera Hastighed",
 	},
 	"language": {
 		"english": "Language",
@@ -1073,6 +1096,7 @@
 		"slovak": "Jazyk",
 		"hungarian": "Nyelv",
 		"thai": "ภาษา",
+		"danish": "Sprog",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1095,6 +1119,7 @@
 		"slovak": "Posúvanie myši na okrajoch",
 		"hungarian": "Kamerairányítás egérrel",
 		"thai": "ปุ่มบนเลื่อนเมาส์",
+		"danish": "musekantsrulning",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1117,6 +1142,7 @@
 		"hungarian": "Fejlesztő mód",
 		"thai": "โหมดนักพัฒนา",
 		"arabic": "وضع المبرمج",
+		"danish": "Udviklertilstand",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1139,6 +1165,7 @@
 		"slovak": "Hra je zapnutá na pozadí",
 		"hungarian": "Játék háttérben fut",
 		"thai": "เกมทำงานเบื้องหลัง",
+		"danish": "Spil aktivt i baggrunden",
 	},
 	"showTutorials": {
 		"english": "Show Tutorials",
@@ -1160,6 +1187,7 @@
 		"arabic": "إظهار الإرشادات",
 		"turkish":"Öğreticileri Göster",
 		"romanian": "Afișați tutoriale",
+		"danish": "Vis tutorial",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -1181,6 +1209,7 @@
 		"arabic": "تجاوز الإرشادات",
 		"turkish":"Öğreticileri Sıfırla",
 		"romanian": "Resetați tutorialele cunoscute",
+		"danish": "Nulstil Tutorial",
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1204,6 +1233,7 @@
 		"slovak": "Načítanie sveta...",
 		"hungarian": "Világ betöltése...",
 		"thai": "กำลังโหลดโลก...",
+		"danish": "Indlæser Verden...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1226,6 +1256,7 @@
 		"slovak": "Obnoviť",
 		"hungarian": "Alaphelyzet",
 		"thai": "รีเซ็ต",
+		"danish": "Nulstil",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1247,6 +1278,7 @@
 		"hungarian": "Ok",
 		"thai": "ตกลง",
 		"arabic": "تم",
+		"danish": "Ok",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1269,6 +1301,7 @@
 		"slovak": "Potvrdiť",
 		"hungarian": "Megerősít",
 		"thai": "ยืนยัน",
+		"danish": "Bekræft",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1291,6 +1324,7 @@
 		"slovak": "Zrušiť",
 		"hungarian": "Mégse",
 		"thai": "ยกเลิก",
+		"danish": "Annuller",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1313,6 +1347,7 @@
 		"slovak": "Použiť",
 		"hungarian": "Alkalmaz",
 		"thai": "นำไปใช้",
+		"danish": "Tilføj",
 	},
 	"hooray": {
 		"english": "Hooray!",
@@ -1334,6 +1369,7 @@
 		"arabic": "مرحى!",
 		"turkish":"Eyooo!",
 		"romanian": "Ura!",
+		"danish": "Hurra!",
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1357,6 +1393,7 @@
 		"slovak": "Ovládanie kamery",
 		"hungarian": "Kamera irányításai",
 		"thai": "ควบคุมกล้อง",
+		"danish": "Kamera Kontrol",
 	},
 	"keybindings": {
 		"english": "Key Bindings",
@@ -1379,6 +1416,7 @@
 		"slovak": "Klávesové skratky",
 		"hungarian": "Billenytűkiosztás",
 		"thai": "ปุ่มที่กำหนดไว้",
+		"danish": "Tast bindinger",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
