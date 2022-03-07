@@ -372,7 +372,7 @@
 		"slovak": "Načítať",
 		"hungarian": "Betöltés",
 		"thai": "โหลด",
-		"danish": "Indlæser",
+		"danish": "Indlæs",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -1347,7 +1347,7 @@
 		"slovak": "Použiť",
 		"hungarian": "Alkalmaz",
 		"thai": "นำไปใช้",
-		"danish": "Tilføj",
+		"danish": "Gem Ændring",
 	},
 	"hooray": {
 		"english": "Hooray!",
@@ -1416,7 +1416,7 @@
 		"slovak": "Klávesové skratky",
 		"hungarian": "Billenytűkiosztás",
 		"thai": "ปุ่มที่กำหนดไว้",
-		"danish": "tastatur",
+		"danish": "Tastatur",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -2278,7 +2278,7 @@
 		"arabic": "خارطة طريق",
 		"turkish":"Planlar",
 		"romanian": "Planuri de viitor",
-		"danish": "Køreplan",
+		"danish": "Udviklingsplan",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -2300,7 +2300,7 @@
 		"arabic": "لم يتم إيجاد خريطة طريق.\n\nهل أنت متصل بالإنترنت؟",
 		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısnız?",
 		"romanian": "Nu s-au găsit planurile de viitor.\n\nEști conectat la internet?",
-		"danish": "Ingen køreplan fundet.\n\nHar du forbindelse til internettet?",
+		"danish": "Ingen udviklings fundet.\n\nHar du forbindelse til internettet?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -3114,7 +3114,7 @@
 		"arabic": "سهل",
 		"turkish":"Kolay",
 		"romanian": "Ușor",
-		"danish": "Nem",
+		"danish": "Let",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
