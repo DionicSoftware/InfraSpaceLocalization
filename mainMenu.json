@@ -3114,7 +3114,7 @@
 		"arabic": "سهل",
 		"turkish":"Kolay",
 		"romanian": "Ușor",
-		"danish": "Let",
+		"danish": "Begynder",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -3136,7 +3136,7 @@
 		"arabic": "متوسط",
 		"turkish":"Orta",
 		"romanian": "Mediu",
-		"danish": "Middel",
+		"danish": "Øvet",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -3158,6 +3158,6 @@
 		"arabic": "صعب",
 		"turkish":"Zor",
 		"romanian": "Greu",
-		"danish": "Svær",
+		"danish": "Expert",
 	},
 }
