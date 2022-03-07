@@ -859,6 +859,7 @@
 		"thai": "แผงส่วนนี้จะแสดงจำนวนผู้คนที่อาศัยอยู่ในที่อยู่อาศัยแต่ละประเภท\n\nคุณต้องปรับปรุงแหล่งที่อยู่อาศัยของคุณเพื่อที่จะไปถึงระดับเมืองต่อไป",
 		"turkish":"Bu panel size her habitat tipinde kaç insanın yaşadığını gösterir.\n\nYeni şehir seviyelerşne ulaşmak için habitatlarınızı yükseltin.",
 		"romanian": "Acest panou indică câți oameni trăiesc în fiecare tip de habitat.\n\nTrebuie să actualizezi habitatele pentru a ajunge la următorul nivel de oraș.",
+		"danish":"Denne meny viser dig hvor mange personer der lever i hver tyoe af hapitat.\n\nDu er nød til at upgradere dine habitater for at komme til næste niveau.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -899,6 +900,7 @@
 		"thai": "ตรวจสอบแถบความคืบหน้าเพื่อดูว่าประชาชนมีจำนวนเท่าไหร่ที่จำเป็นต้องได้รับที่อยู่อาศัยที่ดีขึ้นเพื่อที่จะไปถึงระดับต่อไป",
 		"turkish":"Kaç tane vatandaşın daha iyi konutlara geçmesi gerektiğini görmek için ilerleme çubuğunu kontrol ediniz.",
 		"romanian": "Verifică bara de progres pentru a vedea câți cetățeni trebuie să obțină locuințe mai bune pentru a ajunge la nivelul următor.",
+		
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
