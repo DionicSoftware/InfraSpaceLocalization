@@ -122,7 +122,7 @@
 		  "hungarian": "Ezen épület némi hulladéka újra lesz hasznosítva. Minden %amount%. kör után minden használt anyagot visszakap.",
 		  "thai": "ขยะจากอุตสาหกรรมบางส่วนของอาคารหลังนี้ถูกนำไปรีไซเคิล ทุกๆ %amount% ชิ้น และจะได้รับทรัพยากรที่ใช้ไปคืนทั้งหมด",
 		  "turkish":"Bu binaın bazı atıkları geri dönüştürülür.Her %amount% seferde kullandığı tüm kaynakları geri alır.",
-		  "danish":"Noget af denne bygnings industrielle affald bliver genanvendt. For hver %amount% produktionsrunder, får bygningen alle de brugte ressourcer tilbage.",
+		  "danish":"Noget af denne bygnings industrielle affald bliver genanvendt. For hver %amount% produktionsrunde, får bygningen alle de brugte ressourcer tilbage.",
 	  	  "romanian": "O parte din deșeurile industriale ale acestei clădiri sunt reciclate. La fiecare %amount% runde, acesta primește înapoi toate resursele utilizate.",
 	  },
 	  "upgrade_soilEnrichment":  {
@@ -164,7 +164,7 @@
 		  "hungarian": "A talaj óvatosan elő lett készítve hogy %amount%%-kal több termést hozzon.",
 		  "thai": "หลังจากปุ๋ยหมักดินแล้วผลผลิตจะเพิ่มขึ้นอีก %amount%% จำนวน",
 		  "turkish":"Özenle hazırlanan toprak %%amount% daha fazla hasat verir.",
-		  "danish":"Jorden er blevet forsigtigt forberedt til at yde %amount% bedre høst.",
+		  "danish":"Jorden er nænsomt forberedt til at yde %amount% bedre høst.",
 	  	  "romanian": "Solul a fost pregătit cu grijă pentru a produce %amount%% recolte mai mari.",
 	  },
 	  "upgrade_industrialRobots":  {
@@ -185,7 +185,7 @@
 		  "hungarian": "Ipari robot",
 		  "thai": "หุ่นยนต์อุตสาหกรรม",
 		  "turkish":"Endüstriyel Robot",
-		  "danish":"Industriel Robot",
+		  "danish":"Industri Robot",
 	  	  "romanian": "Robot industrial",
 	  },
 	  "upgradeDesc_industrialRobots":  {
