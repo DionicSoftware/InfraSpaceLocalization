@@ -21,6 +21,7 @@
 		"slovak": "Nová hra",
 		"hungarian": "Új játék",
 		"thai": "เริ่มเกมใหม่",
+		"danish": "Nyt Spil",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -43,6 +44,7 @@
 		"slovak": "Uložiť hru",
 		"hungarian": "Mentés",
 		"thai": "บันทึกเกม",
+		"danish": "Gem Spil",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -65,6 +67,7 @@
 		"slovak": "Načítať hru",
 		"hungarian": "Betöltés",
 		"thai": "โหลดเกม",
+		"danish": "Indlæs Spil",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -87,6 +90,7 @@
 		"slovak": "Hlavné menu",
 		"hungarian": "Főmenü",
 		"thai": "เมนูหลัก",
+		"danish": "Hovedmenu",
 	},
 	"quit": {
 		"english": "Quit",
@@ -109,6 +113,7 @@
 		"slovak": "Odísť na plochu",
 		"hungarian": "Kilépés",
 		"thai": "ออก",
+		"danish": "Afslut",
 	},
 	"back": {
 		"english": "Back",
@@ -119,6 +124,7 @@
 		"polish": "Wróć",
 		"czech": "Zpět",
 		"spanish": "Atrás",
+		"danish": "Tilbage",
 		
 	},
 	"backToGame": {
@@ -138,6 +144,7 @@
 		"polish": "Wróć do gry",
 		"czech": "Zpět do hry",
 		"spanish": "Volver al juego",
+		"danish": "Tilbage til Spillet",
 	},
 	"website": {
 		"english": "Website",
@@ -160,6 +167,7 @@
 		"slovak": "Webstránka",
 		"hungarian": "Weboldal",
 		"thai": "เว็บไซต์",
+		"danish": "Hjemmeside",
 	},
 	"forum": {
 		"english": "Forum",
@@ -182,6 +190,7 @@
 		"slovak": "Fórum",
 		"hungarian": "Fórum",
 		"thai": "ฟอรั่ม",
+		"danish": "Forum",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -204,6 +213,7 @@
 		"slovak": "Je dostupná aktualizácia!",
 		"hungarian": "Frissítés elérhető!",
 		"thai": "อัพเดทพร้อมใช้งาน!",
+		"danish": "Ny Opdatering Tilgængelig",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -226,6 +236,7 @@
 		"slovak": "Získat najnovšiu verziu",
 		"hungarian": "Legújabb verzió letöltése",
 		"thai": "รับเวอร์ชันใหม่ล่าสุด",
+		"danish": "Hent Seneste Version",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -248,6 +259,7 @@
 		"slovak": "Vaša verzia",
 		"hungarian": "A te verziód",
 		"thai": "เวอร์ชันของคุณ",
+		"danish": "Din Version",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -270,6 +282,7 @@
 		"slovak": "Aktuálna verzia",
 		"hungarian": "Jelenlegi verzió",
 		"thai": "เวอร์ชันปัจจุบัน",
+		"danish": "Nuværende Version",
 	},
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
@@ -291,6 +304,7 @@
 		"arabic": "منتدى اللاعبين",
 		"turkish":"Topluluk",
 		"romanian": "Comunitate",
+		"danish": "Fællesskab",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -312,6 +326,7 @@
 		"arabic": "هذا إصدار اختباري",
 		"turkish":"Bu bir Alfa Sürümdür",
 		"romanian": "Aceasta este o versiune alfa",
+		"danish": "Dette er en Alpha Version",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -333,6 +348,7 @@
 		"arabic": "هذه اللعبة ليست مكتملة بعد.\n\nنحن نقوم بإطلاق تلك الإصدارات المبكرة للاعبين حتى نحصل على بعض التقييمات عن تجربة اللعب  واكتشاف المشاكل قبل إطلاق اللعبة الرسمي بكثير.\n\nأخبرنا كيف تحب اللعبة!",
 		"turkish":"Bu oyun daha tamamlanmamaışdır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
 		"romanian": "Acest joc nu este încă terminat. Poate conține bug-uri.\n\nLansăm jucătorilor aceste versiuni timpurii, astfel încât să putem obține feedback despre joc și să găsim erori cu mult înainte de lansarea oficială.\n\nSpune-ne cum îți place!",
+		"danish": "Dette spil er ikke færdigt endnu. Det kan indeholde fejl.\n\nVi udsender disse tidlige versioner til spillere så vi kan få feedback på spiloplevelsen og finde fejlene lang tid før den endelige release.\n\nFortæl os endelig hvad du synes!",
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -356,6 +372,7 @@
 		"slovak": "Načítať",
 		"hungarian": "Betöltés",
 		"thai": "โหลด",
+		"danish": "Indlæser",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -378,6 +395,7 @@
 		"slovak": "Prepísať",
 		"hungarian": "Felülírás",
 		"thai": "เขียนทับ",
+		"danish": "Overskriv",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -400,6 +418,7 @@
 		"hungarian": "Biztos hogy ki szeretnéd törölni a(z) \"%save%\" nevű mentést? Örökké el fog veszni.",
 		"thai": "คุณแน่ใจหรือว่าต้องการลบบันทึก \"%save%\"? มันจะหายไปตลอดกาล",
 		"arabic": "هل أنت متأكد من رغبتك في مسح \"%save%\"؟ سيتم التخلص منها نهائيا.",
+		"danish": "Er du sikker på du vil slette spillet  \"%save%\"? Det vil forsvinde for altid!",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -422,6 +441,7 @@
 		"hungarian": "A játékállás %minutes% perce nem volt mentve. Biztos hogy visszatérnél a főmenübe mentés nélkül?",
 		"thai": "ยังไม่ได้บันทึกเกมในช่วงเวลา %minutes% นาที คุณแน่ใจหรือไม่ว่าต้องการกลับไปที่เมนูหลักโดยไม่บันทึก",
 		"arabic": "اللعبة لم يتم حفظها منذ %minutes% دقائق. هل أنت متأكد من رغبتك في الرجوع للقائمة الرئيسية بدون الحفظ؟",
+		"danish": "Spillet har ikke været gemt i %minutes% minutter. Er du sikker på du vil gå til hovedmenuen uden at gemme?",
 	},
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
