@@ -16,9 +16,11 @@
     "japanese": "農業",
     "hungarian": "Mezőgazdaság",
     "thai": "เกษตรกรรม",
-		"arabic": "زراعة",
+	  "arabic": "زراعة",
 	  "turkish":"Tarım",
-    "romanian": "Agricultură",
+	  "romanian": "Agricultură",
+	  "czech": "Farmaření",
+	  "danish": "Landbrug",
   },
   "tech_electronics": {
     "english": "Electronics",
@@ -40,6 +42,7 @@
 		"arabic": "إلكترونيات",
 	  "turkish":"Elektronik",
     "romanian": "Electronică",
+	   "danish": "Elektronik",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -61,6 +64,8 @@
 		"arabic": "إنتاج الصلب",
 	  "turkish":"Çelik Üretimi",
     "romanian": "Producție de oțel",
+	   "danish": "Stålproduktion",
+	  
   },
   "tech_science2": {
     "english": "Green Science",
@@ -82,6 +87,7 @@
 		"arabic": "علم أخضر",
 	  "turkish":"Yeşil Bilim",
     "romanian": "Știință verde",
+	   "danish": "Grøn Viden",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -103,6 +109,7 @@
 		"arabic": "أجهزة منزلية",
 	  "turkish":"Ev ALeti",
     "romanian": "Electrocasnice",
+	   "danish": "Hvidevarer",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -124,6 +131,7 @@
 		"arabic": "خلايا طاقة شمسية",
 	  "turkish":"Güneş Paneli",
     "romanian": "Panouri solare",
+	  "danish": "Solpaneler",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -145,6 +153,7 @@
 		"arabic": "شفرات محسنة لمولد طاقة الرياح",
 	  "turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
     "romanian": "Palete îmbunătățite ale turbinei eoliene",
+	  "danish": "Forbedrede vindmøllevinger",
   },
   "techDesc_improvedWindTurbineBlades": {
     "english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -166,6 +175,8 @@
 		"arabic": "ملائمة شكل شفرات مولد طاقة الرياح لحركة الهواء. ينتج عن هذا إضطرابات هواء أقل، ما يسمح لك ببناء مولدات طاقة رياح أقرب إلى بعضهم البعض.",
 	  "turkish":"Türbin kanatlarının atmosfere uyum sağlamasını sağlar. Bu havada daha az kargaşaya sebep olup türbinleri daha yakın koymayı mümkün kılar.",
     "romanian": "Adaptează forma palelor turbinei eoliene la atmosferă. Acest lucru duce la o perturbare mai mică în aer, ceea ce îți permite să construiești turbine eoliene mai aproape una de cealaltă.",
+	    "danish": "Tilpasser vindmøllevingernes form til atmosfæren. Dette fører til lavere forstyrrelser i luften, som lader dig bygge vindmøller tættere på hinanden.",
+	  
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -187,6 +198,7 @@
     "arabic": "طرق إسمنتية",
      "turkish":"Beton Yollar",
     "romanian": "Drumuri de beton",
+	   "danish": "Betonveje",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -208,6 +220,7 @@
     "arabic": "تنجيم عن الألومنيوم",
     "turkish":"Alüminyum Kazısı",
     "romanian": "Exploatarea aluminiului",
+	   "danish": "Udvinding af aluminium",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -229,6 +242,7 @@
     "arabic": "محطات طاقة فرعية",
 	  "turkish":"Elektrik Trafo Merkezi",
     "romanian": "Substații electrice",
+	   "danish": "Strømforsyningsstationer",
   },
   "techDesc_powerSubstation": {
     "english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -250,6 +264,8 @@
     "arabic": "استخدم محطات الطاقة الفرعية في شبكة الطاقة الخاصة بك لكي لا تحتاج إلى تزويد كل مبنى بأعمدة طاقة.",
     "turkish": "Güç ağınıza trafo merkezleri eklemek her binaya elektrik direği ile elektrik sağlama zorunluluğunu kaldırır.",
     "romanian": "Integrează substații în rețeaua ta de energie, astfel încât să nu fie nevoie să alimentezi fiecare clădire cu stâlpi de curent.",
+	  "danish": "Integrer understationer i dit strømnetværk, så du ikke behøver at forsyne enhver bygning med strømstænger.",
+	  
   },
   "tech_motors": {
     "english": "Motors",
@@ -271,6 +287,7 @@
     "arabic": "محركات",
     "turkish": "Motorlar",
     "romanian": "Motoare",
+	  "danish": "Motorer",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -292,6 +309,7 @@
     "arabic": "طريق رباعي الحارات",
     "turkish": "Dört Şeritli Yollar",
     "romanian": "Drumuri cu patru benzi",
+	  "danish": "Firesporet vej",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -313,6 +331,7 @@
     "arabic": "طريق اتجاه واحد",
     "turkish":"Tek Yönlü Yollar",
     "romanian": "Drumuri cu sens unic",
+	  "danish": "Ensrettet vej",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -334,6 +353,8 @@
     "arabic": "مباني كبيرة",
     "turkish":"Büyük Binalar",
     "romanian": "Clădiri mari",
+	  "danish": "Store bygninger",
+	  
   },
   "tech_computers": {
     "english": "Computers",
@@ -355,6 +376,8 @@
     "arabic": "حواسيب",
     "turkish":"Bilgisayarlar",
     "romanian": "Calculatoare",
+	  "danish": "Computer",
+	  
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -376,6 +399,7 @@
     "arabic": "مناجم كبيرة",
     "turkish":"Büyük Madenler",
     "romanian": "Mine mari",
+	  "danish": "Store miner",
   },
   "techDesc_largeMines": {
     "english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -397,6 +421,8 @@
     "arabic": "زد من سرعة استخراج الموارد لتشبع جوع مدينتك المتنامية.",
     "turkish":"Maden üretimini arttırıp büyümekde olan şehrinizin ihtiyaçlarını karşılayın.",
     "romanian": "Accelerează extracția resurselor pentru a hrăni foamea orașului tău în creștere.",
+	  "danish": "Fremskynd ressourceudvindingen for at mætte sulten i din voksende by.",
+	  
   },
   "tech_foodProcessing": {
     "english": "Food Processing",
