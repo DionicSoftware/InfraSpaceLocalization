@@ -1572,7 +1572,7 @@
 		"thai": "ประสิทธิภาพอาคาร",
 		"turkish": "Bina Verimliliği",
 		"romanian": "Eficiența construcției",
-		"Danish": "Bygning Effektivitet",
+		"danish": "Bygning Effektivitet",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -2280,7 +2280,7 @@
 		"hungarian": "Globális raktár",
 		"romanian": "Stocare globală",
 		"spanish": "Almacenamiento Global",
-		"danisg": "Global Opbevaring",
+		"danish": "Global Opbevaring",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
