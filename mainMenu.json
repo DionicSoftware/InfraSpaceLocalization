@@ -1416,7 +1416,7 @@
 		"slovak": "Klávesové skratky",
 		"hungarian": "Billenytűkiosztás",
 		"thai": "ปุ่มที่กำหนดไว้",
-		"danish": "Tast bindinger",
+		"danish": "tastatur",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1439,6 +1439,7 @@
 		"slovak": "Dopredu",
 		"hungarian": "Előre",
 		"thai": "ไปข้างหน้า",
+		"danish": "Frem",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1461,6 +1462,7 @@
 		"slovak": "Dozadu",
 		"hungarian": "Hátra",
 		"thai": "ไปข้างหลัง",
+		"danish": "Tilbage",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1483,6 +1485,7 @@
 		"slovak": "Vľavo",
 		"hungarian": "Balra",
 		"thai": "ไปทางซ้าย",
+		"danish": "Venstre",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1505,6 +1508,7 @@
 		"slovak": "Vpravo",
 		"hungarian": "Jobbra",
 		"thai": "ไปทางขวา",
+		"danish": "Højre",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1527,6 +1531,7 @@
 		"slovak": "Otočiť",
 		"hungarian": "Forgatás",
 		"thai": "หมุน",
+		"danish": "Roter",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1549,6 +1554,7 @@
 		"hungarian": "Nagyítás",
 		"thai": "ขยายเข้า",
 		"arabic": "تكبير",
+		"danish": "Zoom Ind",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1571,6 +1577,7 @@
 		"hungarian": "Kicsinyítés",
 		"thai": "ขยายออก",
 		"arabic": "تصغير",
+		"danish": "Zoom Ud",
 	},
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -1592,6 +1599,7 @@
 		"arabic": "بناء",
 		"turkish":"İnşaat",
 		"romanian": "Construcție",
+		"danish": "Konstruer",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1613,6 +1621,7 @@
 		"arabic": "رفع الطريق",
 		"turkish":"Yolu Yükselt",
 		"romanian": "Ridică drumul",
+		"danish": "Løft vej",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1634,6 +1643,7 @@
 		"arabic": "خفض الطريق",
 		"turkish":"Yolu Alçalt",
 		"romanian": "Coboară drumul",
+		"danish": "Sænk vej",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1642,6 +1652,7 @@
 		"italian": "Scambia la griglia",
 		"polish": "Przełącz siatkę",
 		"czech": "Přepnout mřížku",
+		"danish": "Skift Gitter",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1664,6 +1675,7 @@
 		"slovak": "Ovládanie času",
 		"hungarian": "Idő irányítás",
 		"thai": "ควบคุมเวลา",
+		"danish": "Tids Control",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1686,6 +1698,7 @@
 		"slovak": "Pauza",
 		"hungarian": "Szünet",
 		"thai": "หยุดชั่วคราว",
+		"danish": "Pause",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1708,6 +1721,7 @@
 		"slovak": "Otočiť vľavo",
 		"hungarian": "Forgatás balra",
 		"thai": "หมุนซ้าย",
+		"danish": "Roter til Venstre",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1730,6 +1744,7 @@
 		"slovak": "Otočiť vpravo",
 		"hungarian": "Forgatás jobbra",
 		"thai": "หมุนขวา",
+		"danish": "Roter til højre",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1752,6 +1767,7 @@
 		"slovak": "Ostatné",
 		"hungarian": "Vegyes",
 		"thai": "เบ็ดเตล็ด",
+		"danish": "Diverse",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1774,6 +1790,7 @@
 		"slovak": "Snímka obrazovky",
 		"hungarian": "Képernyőkép",
 		"thai": "ถ่ายรูปหน้าจอ",
+		"danish": "Skærmprint",
 	},
 	"screenshotMode": {
 		"english": "Screenshot Mode",
@@ -1795,6 +1812,7 @@
 		"arabic": "وضع التقاط صورة شاشة",
 		"turkish":"Ekran Görüntüsü Modu",
 		"romanian": "Mod captură de ecran",
+		"danish": "Skærmprint Tilstand",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1817,6 +1835,7 @@
 		"slovak": "Otvoriť adresár snímok",
 		"hungarian": "Képernyőképek mappa megnyitása",
 		"thai": "เปิดโฟลเดอร์รูปหน้าจอ",
+		"danish": "Åben Skærmprints Mappe",
 	},
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
@@ -1838,6 +1857,7 @@
 		"arabic": "افتح لقطات الشاشة / المحفوظات",
 		"turkish":"Ekran Görüntülerini / Dünyaları Aç",
 		"romanian": "Deschideți dosarul cu capturile de ecran / Salvări",
+		"danish": "Åben Skærmprints / Gemte",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1860,6 +1880,7 @@
 		"slovak": "Zobraziť FPS",
 		"hungarian": "FPS mutatása",
 		"thai": "แสดง FPS",
+		"danish": "Vis Frames per Sekund",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -1882,6 +1903,7 @@
 		"slovak": "Ľavé tlačidlo myši",
 		"hungarian": "Bal egérgomb",
 		"thai": "ปุ่มเมาส์ซ้าย",
+		"danish": "Venstre Muse Knap",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -1904,6 +1926,7 @@
 		"slovak": "Pravé tlačídlo myši",
 		"hungarian": "Jobb egérgomb",
 		"thai": "ปุ่มเมาส์ขวา",
+		"danish": "Højre Muse Knap",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -1926,6 +1949,7 @@
 		"slovak": "Prostredné tlačídko myši",
 		"hungarian": "Középső egérgomb",
 		"thai": "ปุ่มเมาส์กลาง",
+		"danish": "Miderste Muse Knap",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1948,6 +1972,7 @@
 		"slovak": "Medzerník",
 		"hungarian": "Szóköz",
 		"thai": "สเปซบาร์",
+		"danish": "Mellemrum",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -1970,6 +1995,7 @@
 		"slovak": "Shift (ľavý)",
 		"hungarian": "Shift (bal)",
 		"thai": "Shift (ซ้าย)",
+		"danish": "Shift (Venstre)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -1992,6 +2018,7 @@
 		"slovak": "Shift (pravý)",
 		"hungarian": "Shift (jobb)",
 		"thai": "Shift (ขวา)",
+		"danish": "Shift (Højre)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -2014,6 +2041,7 @@
 		"slovak": "Alt (ľavý)",
 		"hungarian": "Alt (bal)",
 		"thai": "Alt (ซ้าย)",
+		"danish": "Alt (Venstre)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -2036,6 +2064,7 @@
 		"slovak": "Alt (pravý)",
 		"hungarian": "Alt (jobb)",
 		"thai": "Alt (ขวา)",
+		"danish": "Alt (Højre)",
 	},
 	"key_LeftControl": {
 		"english": "Ctrl (left)",
@@ -2058,6 +2087,7 @@
 		"slovak": "Ctrl (ľavý)",
 		"hungarian": "Ctrl (bal)",
 		"thai": "Ctrl (ซ้าย)",
+		"danish": "Ctrl (Venstre)",
 	},
 	"key_RightControl": {
 		"english": "Ctrl (right)",
@@ -2080,6 +2110,7 @@
 		"slovak": "Ctrl (pravý)",
 		"hungarian": "Ctrl (jobb)",
 		"thai": "Ctrl (ขวา)",
+		"danish": "Ctrl (Højre)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -2102,6 +2133,7 @@
 		"slovak": "CapsLock",
 		"hungarian": "Caps lock",
 		"thai": "แคปล็อค",
+		"danish": "Caps Lock",
 	},
 	"key_PageUp": {
 		"english": "Page Up",
@@ -2123,6 +2155,7 @@
 		"arabic": "Page Up",
 		"turkish":"Pg Up",
 		"romanian": "PageUp",
+		"danish": "PageUp",
 	},
 	"key_PageDown": {
 		"english": "Page Down",
@@ -2144,6 +2177,7 @@
 		"arabic": "Page Down",
 		"turkish":"Pg Dn",
 		"romanian": "PageDown",
+		"danish": "PageDown",
 	},
 	"saveBarelyCompatibleWithGameVersion": {
 		"english": "This save is only partially compatible with your game version.",
@@ -2154,6 +2188,7 @@
 		"thai":"บันทึกนี้ใช้ได้กับเวอร์ชั่นเกมของคุณเพียงบางเวอร์ชั่นเท่านั้น",
 		"polish": "Ten zapis jest tylko częściowo kompatybilny z twoją wersją gry.",
 		"czech": "Toto uložení je pouze částečně kompatibilní s vaší verzí hry.",
+		"danish": "Dette gemte spil er kun delvist kompatibel med din spilversion.",
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
@@ -2164,6 +2199,7 @@
 		"thai":"วิธีเล่นบันทึกที่เข้ากันกับเกมไม่ได้",
 		"polish": "Jak uruchomić niekompatybilne zapisy gry",
 		"czech": "Jak hrát nekompatibilně uloženou hru",
+		"danish": "Sådan spille du et inkompatibelt gemt spil",
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
@@ -2174,6 +2210,7 @@
 		"thai":"เมื่อเราปล่อยอัปเดตเกมครั้งใหญ่ บางครั้งบันทึกเกมอาจทำงานได้ไม่เต็มที่\nคุณมีสองตัวเลือก:\n\n1.เล่นบันทึกเกมของคุณในเวอร์ชันก่อนหน้าต่อไป เราได้จัดทำบทแนะนำให้คุณ\n2.ลองแปลงเกมบันทึกเป็นเวอร์ชันใหม่\n\nการแปลงบันทึกยังไม่สมบูรณ์ คุณอาจต้องหยุดเกมชั่วคราวเพื่อใช้เวลาแก้ไขปัญหาต่างๆ",
 		"polish": "Gdy wypuszczamy duże aktualizacje gry może się zdarzyć, że stare zapisy gry nie są w pełni kompatybilne.\nIstnieją dwa rozwiązania:\n\n1. Możesz grać dalej używając starszej wersji gry. Przygotowaliśmy poradnik opisujący jak to zrobić.\n\n2. Możesz też przekonwertować swój zapis do nowej wersji.\n\nPamiętaj, że konwersje nie są idealne. Oznacza to, że konieczne może być zapauzowanie gry i poświęcenie chwili na ręczną naprawę znalezionych problemów.",
 		"czech": "Když vydáváme velkou aktualizaci hry, někdy uložené hry nejsou plně kompatibilní.\nMáte dvě možnosti:\n\n1. Pokračujte ve hře z předchozí verze. Vytvořili jsme pro vás tutoriál.\n2. Zkuste převést uloženou hru do nové verze.\n\nPřevody uložení nejsou dokonalé. Pravděpodobně budete muset hru pozastavit a strávit nějaký čas řešením případných problémů.",
+		"danish": "Når vi udgiver en stor spilopdatering, kan det ske at et gemt spil ikke er helt kompatibelt.\nDu har to muligheder:\n\n1Fortsæt dit gemte spil på den tidligere version. Vi har lavet en tutorial til dig.\n2Prøv at konvertere dit gemte spil til en ny version.\n\nKonvertering er ikke fejlfri. Du bliver sikkert nød til at pause spillet, og løse nogle problemer.",
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
@@ -2184,6 +2221,7 @@
 		"thai":"เปลี่ยนเวอร์ชั่นเกม",
 		"polish": "Zmień wersję gry",
 		"czech": "Změnit verzi hry",
+		"danish": "Ændre Spil Version",
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
@@ -2194,6 +2232,7 @@
 		"thai":"ลองแปลง",
 		"polish": "Podejmij próbę konwersji",
 		"czech": "Zkuste konverzi",
+		"danish": "Prøv at konvertere",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -2216,6 +2255,7 @@
 		"hungarian": "Ez a mentés nem kompatibilis a játék verziójával.\nRégebbi verziókat a Steam 'Béták' funkciója segítségével játszhatod.",
 		"thai": "บันทึกนี้เข้ากันไม่ได้กับเวอร์ชันเกมของคุณ \nคุณสามารถเล่นเวอร์ชันเก่าได้โดยใช้คุณสมบัติ 'เบต้า' บน Steam",
 		"arabic": "هذا الحفظ غير متوافق مع إصدار اللعبة الخاص بك.\nيمكنك لعب الإصدارات القديمة باستخدام خاصية 'Betas' بمتجر Steam.",
+		"danish": "Dette gemte spil er ikke kompatibelt med din aktuelle version.\nDu kan spille ældre versioner ved at bruge 'Betas' funktionen gennem steam",
 	},
 	// ROADMAP
 	"roadmap": {
@@ -2238,6 +2278,7 @@
 		"arabic": "خارطة طريق",
 		"turkish":"Planlar",
 		"romanian": "Planuri de viitor",
+		"danish": "Køreplan",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -2259,6 +2300,7 @@
 		"arabic": "لم يتم إيجاد خريطة طريق.\n\nهل أنت متصل بالإنترنت؟",
 		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısnız?",
 		"romanian": "Nu s-au găsit planurile de viitor.\n\nEști conectat la internet?",
+		"danish": "Ingen køreplan fundet.\n\nHar du forbindelse til internettet?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -2280,6 +2322,7 @@
 		"arabic": "مميزات مضمونة في الإصدار الأولي",
 		"turkish":"Erken erişimede garantili",
 		"romanian": "Caracteristici garantate pentru access anticipat",
+		"danish": "Garanteret funktioner for Early Access",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -2301,6 +2344,7 @@
 		"arabic": "صوت على مميزات زائدة",
 		"turkish":"Ek özelliklere oy verin",
 		"romanian": "Votează pentru funcțiile suplimentare",
+		"danish": "Stem på Ekstra Funktioner",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
