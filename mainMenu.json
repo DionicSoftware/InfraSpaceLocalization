@@ -463,6 +463,7 @@
 		"arabic": "القاعدة Theta-3",
 		"turkish":"Koloni Theta-3",
 		"romanian": "Avanpost Theta-3",
+		"danish":"Koloni Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -485,6 +486,7 @@
 		"slovak": "Zakázané znaky v názve súboru",
 		"hungarian": "Nem engedélyezett karakterek a fájlnévben",
 		"thai": "ไม่อนุญาตให้ใส่อักขระนี้ในชื่อไฟล์",
+		"danish": "Ugyldigt teg i fil navnet!",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -507,6 +509,7 @@
 		"slovak": "Názov súboru je príliš dlhý",
 		"hungarian": "Fájl neve túl hosszú",
 		"thai": "ชื่อไฟล์ยาวเกินไป",
+		"danish": "Filnavnet er for langt!",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -529,6 +532,7 @@
 		"slovak": "Názov súboru je príliš krátky",
 		"hungarian": "Fájl neve túl rövid",
 		"thai": "ชื่อไฟล์สั้นเกินไป",
+		"danish": "Filnavnet er for kort!",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -551,6 +555,7 @@
 		"slovak": "Tento názov súboru už ide použiť",
 		"hungarian": "Fájl név már használatban",
 		"thai": "ชื่อไฟล์นี้มีอยู่แล้ว",
+		"danish": "Filnavnet er allerede i brug!",
 	},
 	// SETTINGS
 	"settings": {
