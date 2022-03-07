@@ -531,7 +531,7 @@
     "arabic": "ألواح طاقة شمسية ذاتية التنظيف",
 	  "turkish":"Kendini Temizleyen Güneş Panelleri",
     "romanian": "Panouri solare cu autocurățare",
-	  "Danish": "Selvrensende Solceller",
+	  "danish": "Selvrensende Solceller",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
