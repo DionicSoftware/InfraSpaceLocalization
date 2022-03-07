@@ -650,6 +650,7 @@
 		"thai": "ที่อยู่อาศัยเต็ม เติมเต็มความต้องการนี้ด้วยการปรับปรุง",
 		"turkish": "Habitat dolu. Yükseltmek için gereksinimleri tamamla.",
 		"romanian": "Habitatul este plin. Îndepliniți nevoile suplimentare pentru upgrade.",
+		"danish": "Habitatet er fuldt. Opfyld de yderligere behov for at udvide.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -670,6 +671,7 @@
 		"thai": "ผู้คนกำลังย้ายเข้ามา",
 		"turkish": "İnsanlar yerleşiyor.",
 		"romanian": "Oamenii se mută înăuntru.",
+		"danish": "Beboere flytter ind.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -690,6 +692,7 @@
 		"thai": "ผู้คนกำลังย้ายออกไป",
 		"turkish": "İnsanlar taşnıyor.",
 		"romanian": "Locuitorii pleacă.",
+		"danish": "Beboere flytter ud.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -710,6 +713,7 @@
 		"thai": "ความต้องการไม่เป็นไปตามที่ร้องขอ",
 		"turkish": "Gereksinimler sağlanmadı.",
 		"romanian": "Nevoile nu sunt satisfăcute.",
+		"danish"; "Behov er ikke opfyldt.",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -730,6 +734,7 @@
 		"thai": "ชาวบ้านสบายดี",
 		"turkish": "Oturanlar iyi.",
 		"romanian": "Locuitorii sunt ok.",
+		"danish": "Beboere har det okay.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -750,6 +755,7 @@
 		"thai": "ไม่ได้เลือกงานวิจัย",
 		"turkish": "Yükseltme seçilmedi.",
 		"romanian": "Nicio cercetare selectată",
+		"danish": "Ingen forskning valgt",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -770,6 +776,7 @@
 		"thai": "ทรัพยากรในพื้นที่จัดเก็บ:",
 		"turkish": "Depodaki kaynaklar:",
 		"romanian": "Resurse în depozit:",
+		"danish": "Resourcer på lager:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -790,6 +797,7 @@
 		"thai": "พลเมืองระดับ %level%",
 		"turkish": "%level% Seviye vatandaşlar",
 		"romanian": "Cetăţeni de nivel %level%",
+		"danish": "Level %level% Beboere",
 	},
 	"population": {
 		"english": "Population",
@@ -810,6 +818,7 @@
 		"thai": "ประชากร",
 		"turkish": "Nüfus",
 		"romanian": "Populație",
+		"danish": "Befolkning",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -830,6 +839,7 @@
 		"thai": "งาน",
 		"turkish": "İşler",
 		"romanian": "Locuri de muncă",
+		"danish": "Job",
 	},
 	"housing": {
 		"english": "Housing",
@@ -850,6 +860,7 @@
 		"thai": "ที่อยู่อาศัย",
 		"turkish": "Konutlar",
 		"romanian": "Locuințe",
+		"danish": "Bolig",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -870,6 +881,7 @@
 		"turkish": "Şehir İstatistikleri",
 		"italian": "Statistiche della città",
 		"romanian": "Statistica orașului",
+		"danish": "By Statistik",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -890,6 +902,7 @@
 		"thai": "สถิติประชากร",
 		"turkish": "Nüfüs",
 		"romanian": "Populație",
+		"danish": "Befolkning",
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -910,6 +923,7 @@
 		"thai": "สถิติงาน",
 		"turkish": "İşler",
 		"romanian": "Locuri de muncă",
+		"danish": "Job",
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -930,6 +944,7 @@
 		"thai": "สถิติที่อยู่อาศัย",
 		"turkish": "Konutlar",
 		"romanian": "Locuințe",
+		"danish": "Bolig",
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -950,6 +965,7 @@
 		"thai": "อัตราคนเข้าเมือง",
 		"turkish": "Yerleşme Oranı",
 		"romanian": "Rata de imigrare",
+		"danish": "Indvandringsrate",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -970,6 +986,7 @@
 		"thai": "ประสิทธิภาพ",
 		"turkish": "Verimlilik",
 		"romanian": "Eficienţă",
+		"danish": "Effektivitet",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -990,6 +1007,7 @@
 		"thai": "คนงานไม่เพียงพอ:",
 		"turkish": "Yetersiz Çalışan:",
 		"romanian": "Nu sunt destui muncitori:",
+		"danish": "Ikke nok arbejdere:",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -1010,6 +1028,7 @@
 		"thai": "แรงหนุนจากตึกข้างเคียง",
 		"turkish": "Komşu binalardan güçlendirilmiş",
 		"romanian": "Amplificat de clădirile vecine",
+		"danish": "Boostet af nærliggende bygninger",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -1030,6 +1049,7 @@
 		"thai": "พลังงานไม่เพียงพอ:",
 		"turkish": "Yetersiz elektrik:",
 		"romanian": "Energie insuficientă:",
+		"danish": "Ikke nok strøm:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -1050,6 +1070,7 @@
 		"thai": "รบกวนการไหลของอากาศ",
 		"turkish": "Bozuk hava akışı",
 		"romanian": "Flux de aer perturbat",
+		"danish": "Forstyrret luftstrøm",
 	},
 
 	"gridOff": {
@@ -1061,6 +1082,7 @@
 		"thai": "ไม่มีตาราง",
 		"polish": "wyłącz siatkę",
 		"czech": "Bez mřížky",
+		"danish": "Intet Gitter",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
@@ -1071,6 +1093,7 @@
 		"thai": "ตาราง 0°",
 		"polish": "Siatka 0°",
 		"czech": "0° mřížka",
+		"danish": "0° Gitter",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
@@ -1081,6 +1104,7 @@
 		"thai": "ตาราง 45°",
 		"polish": "Siatka 45°",
 		"czech": "45° mřížka",
+		"danish": "45° Gitter",
 	},
 
 	"buildCurvedRoad": {
@@ -1102,6 +1126,7 @@
 		"thai": "สร้างถนนโค้ง",
 		"turkish": "Kavisli Yol",
 		"romanian": "Construiește un drum curbat",
+		"danish": "Byg buet vej",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -1122,6 +1147,7 @@
 		"thai": "สแน็ปความยาวถนน",
 		"turkish": "Yol Uzunluğunu Daya",
 		"romanian": "Lungimea drumului",
+		"danish": "Snap Vejlængde",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -1142,6 +1168,7 @@
 		"thai": "สแน็ปมุมถนน",
 		"turkish": "Yol Açısını Daya",
 		"romanian": "Unghiul drumului",
+		"danish": "Snap Vejvinkel",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -1162,6 +1189,7 @@
 		"thai": "แทนที่ถนน",
 		"turkish": "Yolu Değiştir",
 		"romanian": "Înlocuiește drumul",
+		"danish": "Erstat Vej",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -1181,6 +1209,7 @@
 		"russian": "Также меняет направление дороги, если у вас не выбрана дорога для замены",
 		"italian": "Inverte anche la direzione della strada se non hai selezionato una strada alternativa",
 		"romanian": "Inversează direcția drumului dacă nu ai selectat un drum de înlocuire",
+		"danish": "Vendter også vejretningen, hvis du ikke har valgt en erstatningsvej",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1200,6 +1229,7 @@
 		"russian": "Обратная дорога",
 		"italian": "Inverti strada",
 		"romanian": "Drum invers",
+		"danish": "Omvend Vej",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1220,6 +1250,7 @@
 		"thai": "ดึงไปหาถนน",
 		"turkish": "Yola Daya",
 		"romanian": "Lipește lângă drum",
+		"danish": "Fikser til vej",
 	},
 	"trainSignalsView": {
 		"english": "Train Signals View",
@@ -1232,6 +1263,7 @@
 		"czech": "Ukázat železniční signalizaci",
 		"romanian": "Vizualizarea semnalelor de tren",
 		"polish": "Widok sygnalizacji kolejowej",
+		"danish": "Togsignalvisning",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
