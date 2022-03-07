@@ -81,6 +81,9 @@ Kaynak akışının şehrinizin ulaşım altyapısından geçtiği bir bilim kur
 
 A neach-togail baile ficsean-saidheans, far am bi sruth ghoireasan a’ dol tro bhun-structar còmhdhail a’ bhaile-mhòir agad. Tog utopia èifeachdas extrasolar bho rud sam bith. Tòisich obair mhèinnearachd, dealbhadh cinneasachadh, agus cuir sìos slighean còmhdhail gus dèanamh cinnteach à sèine solair rèidh.
 
+### Danish//TODO-Devs
+En sci-fi bybygger, hvor strømmen af ressourcer går gennem din bys transportinfrastruktur. Byg en ekstrasolar effektivitet utopi fra ingenting. Start minedrift, planlæg produktion og fastlæg transportruter for at sikre en jævn forsyningskæde.
+
 
 # Long Description - Translation Disclaimer
 *******************************************
@@ -283,6 +286,13 @@ Cruthaich a h-uile dad a chruinnicheas tu
 Air iomall an fhànais, chan urrainn dhut baile-mòr a thogail le bhith a’ cosg airgead. An àite sin, feumaidh tu na ciad speuradairean agad a chuir gu obair mhèinnearachd agus cuid de stuthan amh fhaighinn.
 
 Aon uair ‘s gu bheil beagan iarann, gualain, gainmheach agus pronnasg agad, tha an t-àm ann a’ chiad mhuileann stàilinn agus factaraidh cruadhtan agad a stèidheachadh gus tòiseachadh air bun-structar a chuir sìos. Feumaidh eadhon feumalachdan leithid biadh agus ocsaidean sèine cinneasachaidh seasmhach nach fhaodar a bhriseadh!
+
+### Danish//TODO-Devs
+Producer alt, hvad du forbruger
+
+Ude på kanten af det menneskelige rum kan du ikke bygge en by ved at bruge kreditter. I stedet bliver du nødt til at sætte dine første astronauter til minearbejde og få nogle råmaterialer.
+
+Når du har noget jern, kulstof, sand og svovl, er det tid til at oprette din første stålmølle og betonfabrik for at begynde at nedlægge noget infrastruktur. Selv fornødenheder som mad og ilt kræver en stabil produktionskæde, der ikke må brydes!
 
 
 # Long Description - Transport Section
@@ -638,6 +648,13 @@ Gestionarea traficului poate fi inconstantă și supraviețuirea ar putea fi gre
 Oynamak için uzman olmak zorunda değilsiniz
 
 Trafik yönetimi karışık ve hayatta kalmak zor olabilir. Şehir yönetimi deneyiminizi istediğiniz kadar kolay veya zor hale getirmek için her ikisinin de zorluklarını ayarlayabilirsiniz.
+
+
+### Danish//TODO-Devs
+Du behøver ikke spille hårdt
+
+Trafikstyring kan være omskiftelig, og overlevelse kan være svær. Du kan justere vanskelighederne for begge for at gøre din oplevelse med byadministration lige så nem - eller så svær - som du vil have den.
+
 
 ### [WIP] Scottish Gaelic//TODO-Devs 
 
