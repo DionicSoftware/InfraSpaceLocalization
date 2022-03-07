@@ -228,7 +228,7 @@
 		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" ก็ต่อเมื่อคุณต้องมีพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
 		"turkish": "En az %amount% tane %nextLevel% Seviye vatandaş olunca şehriniz \"%cityLevelName%\" e yükselicek.",
 		"romanian": "Orașul tău va fi promovat la \"%cityLevelName%\" după ce vei avea cel puțin %amount% cetățeni de nivel %nextLevel%.",
-		"danish": "Din by vil blive opgraderet til \"cityLevelName%\" når du har mindst %amount% level %nextLevel% beboere.",
+		"danish": "Din by vil blive opgraderet til \"%cityLevelName%\" når du har mindst %amount% level %nextLevel% beboere.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -291,7 +291,7 @@
 		"thai": "กำลังค้นคว้า %techName%...    %progress%",
 		"turkish": "%techName% araştırlıyor...    %progress%",
 		"romanian": "Cercetând %techName%...    %progress%",
-		"danish": "Forsker %techName%...    %progress%",
+		"danish": "Udforsker %techName%...    %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -608,7 +608,7 @@
 		"thai": "กำลังปรับปรุงที่อยู่อาศัยใน %seconds% วิ",
 		"turkish": "Habitat %seconds%sn sonra yükeslicek.",
 		"romanian": "Habitatul modernizează în %seconds%s.",
-		"Danish": "Habitat udvides om %seconds%s",
+		"danish": "Habitat udvides om %seconds%s",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -797,7 +797,7 @@
 		"thai": "พลเมืองระดับ %level%",
 		"turkish": "%level% Seviye vatandaşlar",
 		"romanian": "Cetăţeni de nivel %level%",
-		"danish": "Level %level% Beboere",
+		"danish": "Level %level% beboere",
 	},
 	"population": {
 		"english": "Population",
@@ -1369,7 +1369,7 @@
 		"thai": "ไม่ได้เชื่อมต่อกับเครือข่ายไฟฟ้า",
 		"turkish": "Güç ağına bağlı değil",
 		"romanian": "Nu este conectat la rețeaua de alimentare",
-		"danish": "Ikke forbindet til strøm netwærk",
+		"danish": "Ikke forbindet til strøm netværk",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1453,7 +1453,7 @@
 		"thai": "ติดกับถนนที่อยู่ใกล้เคียง",
 		"turkish": "Başka bir yola çok yakın",
 		"romanian": "Prea aproape de drumul vecin",
-		"danish": "For tæt på nærliggende vej",
+		"danish": "For tæt på nærtliggende vej",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1530,7 +1530,7 @@
 		"czech": "Slepá silnice",
 		"romanian": "Capăt de drum",
 		"polish": "Ślepa ulica",
-		"danish": "Blindgylde",
+		"danish": "Blindgyde",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1551,7 +1551,7 @@
 		"thai": "แผนผัง",
 		"turkish": "Görselleştirmeler",
 		"romanian": "Vizualizări",
-		"danish": "Visualisering",
+		"danish": "Visualiseringer",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -2151,7 +2151,7 @@
 		"thai": "ประสิทธิภาพ %percentage%%",
 		"turkish": "%%percentage% Verimlilik",
 		"romanian": "Eficienţă %percentage%%",
-		"english": "%percentage%% Effektivitet",
+		"danish": "%percentage%% Effektivitet",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
