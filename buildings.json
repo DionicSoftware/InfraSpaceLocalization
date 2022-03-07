@@ -342,7 +342,7 @@
     "korean": "전자부품 공장",
     "romanian": "Fabrică de electronice",
     "scotsgaelic": "Factaraidh Leictreonaic",
-    "danish": "Elektronik Fabrik",
+    "danish": "Elektronikfabrik",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -411,7 +411,7 @@
     "korean": "모터 공장",
     "romanian": "Fabrică de motoare",
     "scotsgaelic": "Factaraidh Motair",
-    "danish": "Motor Fabrik",
+    "danish": "Motorfabrik",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -457,7 +457,7 @@
     "korean": "이리듐합금 공장",
     "romanian": "Fabrică de aliaje de iridiu",
     "scotsgaelic": "Factaraidh Measgachadh Iridium",
-    "danish": "Iridiumlegering Fabrik",
+    "danish": "Iridium Legeringsfabrik",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -480,7 +480,7 @@
     "korean": "입체화면 공장",
     "romanian": "Fabrică de Holo-Afișaje",
     "scotsgaelic": "Factaraidh Holo-Taisbeanadh",
-    "danish": "Holo-Skærm Fabrik",
+    "danish": "Holo-Skærms Fabrik",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -526,7 +526,7 @@
     "korean": "콘크리트 공장",
     "romanian": "Fabrică de beton",
     "scotsgaelic": "Factaraidh Concrait",
-    "danish": "Beton Fabrik",
+    "danish": "Betonfabrik",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -595,7 +595,7 @@
     "korean": "컴퓨터 공장",
     "romanian": "Fabrică de calculatoare",
     "scotsgaelic": "Factaraidh Coimpiutair",
-    "danish": "Computer Fabrik",
+    "danish": "Computerfabrik",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -618,7 +618,7 @@
     "korean": "가정로봇 공장",
     "romanian": "Fabrică de roboți de casă",
     "scotsgaelic": "Factaraidh Robot Dachaigh",
-    "danish": "Hjemmerobot Fabrik",
+    "danish": "Hjemmerobotfabrik",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -641,7 +641,7 @@
     "korean": "공업로봇 공장",
     "romanian": "Fabrică de roboți industriali",
     "scotsgaelic": "Factaraidh Robot Gnìomhachais",
-    "danish": "Industrirobot Fabrik",
+    "danish": "Industriuel robotfabrik",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -710,7 +710,7 @@
     "korean": "이리듐 추진체 공장",
     "romanian": "Fabrică de combustibil de iridiu",
     "scotsgaelic": "Factaraidh Iridium Propellant",
-    "danish": "Iridium Drivmiddel Fabrik",
+    "danish": "Iridium Drivmiddelfabrik",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -848,7 +848,7 @@
     "korean": "연구소",
     "romanian": "Laborator de cercetare",
     "scotsgaelic": "Obair-lann Rannsachaidh",
-    "danish": "Udforskningscenter",
+    "danish": "Forskningslaboratorium",
   },
   "storehouse": {
     // TODO-chinese
@@ -919,7 +919,7 @@
     "korean": "재활용센터",
     "romanian": "Centru de reciclare",
     "scotsgaelic": "Ionad Ath-chuairteachaidh",
-    "danish": "Genbrugscenter",
+    "danish": "Genbrugsstation",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -1034,7 +1034,7 @@
     "korean": "간이 농장",
     "romanian": "Fermă simplă",
     "scotsgaelic": "Tuathanas Sìmplidh",
-    "danish": "Simpel Farm"
+    "danish": "Enkel Gård"
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -1057,7 +1057,7 @@
     "korean": "비료 공장",
     "romanian": "Fabrică de îngrășăminte",
     "scotsgaelic": "Factaraidh Todhar",
-    "danish": "Gødning Anlæg",
+    "danish": "Gødningsanlæg",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -1080,7 +1080,7 @@
     "korean": "야채 농장",
     "romanian": "Fermă de legume",
     "scotsgaelic": "Tuathanas Glasraich",
-    "Grøntsags Farm",
+    "danish": "Grøntsagsgård",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -1103,7 +1103,7 @@
     "korean": "고기 연구소",
     "romanian": "Laborator de carne",
     "scotsgaelic": "Lab Feòil",
-    "danish": "Kød Laboratorium",
+    "danish": "Kødlaboratorie",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -1126,7 +1126,7 @@
     "korean": "고기 공장",
     "romanian": "Fabrică de mâncare",
     "scotsgaelic": "Factaraidh Bìdh",
-    "danish": "Mad Fabrik",
+    "danish": "Fødevarefabrik",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -1149,7 +1149,7 @@
     "korean": "기초 거주시설(LV1)",
     "romanian": "Habitat de bază",
     "scotsgaelic": "Taigh Bunaiteach",
-    "danish": "Simpelt Habitat",
+    "danish": "Grundlæggende habitat",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -1379,7 +1379,7 @@
     "korean": "변전소",
     "romanian": "Substație electrică",
     "scotsgaelic": "Fo-stèisean Cumhachd",
-    "danish": "Strøm Station",
+    "danish": "Transformerstation",
   },
   "windTurbine": {
     "english": "Wind Turbine",
@@ -1556,7 +1556,7 @@
     "romanian": "Gara %name%",
     "scotsgaelic": "Stèisean-Trèana %name%",
     "spanish": "Estación Ferroviaria %name%",
-    "danish": "Tog Station %name%",
+    "danish": "Togstation %name%",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1572,7 +1572,7 @@
     "romanian": "Gară mică",
     "scotsgaelic": "Stèisean-Trèana Beag",
     "spanish": "Estación Ferroviaria Pequeña",
-    "danish": "Lille Tog Station",
+    "danish": "Lille Togstation",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1588,7 +1588,7 @@
     "romanian": "Gară medie",
     "scotsgaelic": "Meánmhéide Stèisean-Trèana",
     "spanish": "Estación Ferroviaria Mediana",
-    "danish": "Mellem Tog Station",
+    "danish": "Mellem Togstation",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1604,7 +1604,7 @@
     "romanian": "Gară mare",
     "scotsgaelic": "Stèisean Trèana Mòr",
     "spanish": "Estación Ferroviaria Grande",
-    "danish": "Stor Tog Station",
+    "danish": "Stor Togstation",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
