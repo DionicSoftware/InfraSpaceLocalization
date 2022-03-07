@@ -1284,6 +1284,7 @@
 		"thai": "กำลังจัดส่ง: %amount%",
 		"turkish": "Şuanda iletiliyor: %amount%",
 		"romanian": "În curs de livrare: %amount%",
+		"danish": "Ved at blive leveret: %amount%",
 	},
 	// sign panel
 	"signPanelText": {
@@ -1305,6 +1306,7 @@
 		"thai": "ข้อความ",
 		"turkish": "Metin",
 		"romanian": "Text",
+		"danisg": "Tekst",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -1325,6 +1327,7 @@
 		"thai": "ขนาดตัวอักษร",
 		"turkish": "Yazı Boyu",
 		"romanian": "Mărimea fontului",
+		"danish": "Skriftstørrelse",
 	},
 	"font": {
 		"english": "Font",
@@ -1345,6 +1348,7 @@
 		"thai": "แบบอักษร",
 		"turkish": "Yazı Tipi",
 		"romanian": "Font",
+		"danish": "Skrifttype",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -1365,6 +1369,7 @@
 		"thai": "ไม่ได้เชื่อมต่อกับเครือข่ายไฟฟ้า",
 		"turkish": "Güç ağına bağlı değil",
 		"romanian": "Nu este conectat la rețeaua de alimentare",
+		"danish": "Ikke forbindet til strøm netwærk",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1385,6 +1390,7 @@
 		"thai": "อาคารชนกับอะไรบางอย่าง",
 		"turkish": "Bina birşeyle çakışıyor",
 		"romanian": "Clădirea se ciocnește de ceva",
+		"danish": "Bygningen kolidere med noget",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -1405,6 +1411,7 @@
 		"thai": "อาคารไม่ได้วางบนแหล่งทรัพยากร",
 		"turkish": "Bina kaynağın üstünde değil",
 		"romanian": "Clădirea nu este plasată pe depozitul de resurse",
+		"Bygningen er ikke placeret på et resource område",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -1425,6 +1432,7 @@
 		"thai": "ถนนชนกับอะไรบางอย่าง",
 		"turkish": "Yol birşeyle çakışıyor",
 		"romanian": "Drumul se ciocnește de ceva",
+		"danish": "Vej kolidere med noget",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -1445,6 +1453,7 @@
 		"thai": "ติดกับถนนที่อยู่ใกล้เคียง",
 		"turkish": "Başka bir yola çok yakın",
 		"romanian": "Prea aproape de drumul vecin",
+		"danish": "For tæt på nærliggende vej",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1465,6 +1474,7 @@
 		"thai": "ระยะถนนสั้นเกินไป",
 		"turkish": "Yol çok kısa",
 		"romanian": "Segment de drum prea scurt",
+		"danish": "Vej stykke er for kort",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -1485,6 +1495,7 @@
 		"thai": "ถนนสูงชันเกินไป",
 		"turkish": "Yol çok dik",
 		"romanian": "Drum prea abrupt",
+		"danish": "Vej er for stejl",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -1505,6 +1516,7 @@
 		"thai": "ถนนห่างจากพื้นดินมากเกินไป",
 		"turkish": "Yol zeminden çok uzak",
 		"romanian": "Drum prea departe de sol",
+		"danish": "Vej er for langt fra jorden",
 	},
 	"roadDeadEnd": {
 		"english": "Dead End",
@@ -1518,6 +1530,7 @@
 		"czech": "Slepá silnice",
 		"romanian": "Capăt de drum",
 		"polish": "Ślepa ulica",
+		"danish": "Blindgylde",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1538,6 +1551,7 @@
 		"thai": "แผนผัง",
 		"turkish": "Görselleştirmeler",
 		"romanian": "Vizualizări",
+		"danish": "Visualisering",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -1558,6 +1572,7 @@
 		"thai": "ประสิทธิภาพอาคาร",
 		"turkish": "Bina Verimliliği",
 		"romanian": "Eficiența construcției",
+		"Danish": "Bygning Effektivitet",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -1578,6 +1593,7 @@
 		"thai": "อาคารที่พัก (คนงานและผู้อยู่อาศัย)",
 		"turkish": "Bina Doluluğu (Çalışanlar & Oturanlar)",
 		"romanian": "Ocuparea clădirilor (muncitori și locuitori)",
+		"danish": "Bygningsbelægning (arbejdere og beboere)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1598,6 +1614,7 @@
 		"thai": "พลังงาน",
 		"turkish": "Elektrik",
 		"romanian": "Energie",
+		"danish": "Strøm",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1618,6 +1635,7 @@
 		"thai": "กังหันลม",
 		"turkish": "Rüzgar Türbinleri",
 		"romanian": "Turbine eoliene",
+		"danish": "Vindmølle",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -1638,6 +1656,7 @@
 		"thai": "โรงบำรุงดิน",
 		"turkish": "Toprak Zenginleştirme Tesisleri",
 		"romanian": "Facilități de îmbogățire a solului",
+		"danish": "Jordberigelsesfaciliteter",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1658,6 +1677,7 @@
 		"thai": "ศูนย์กลางรีไซเคิล",
 		"turkish": "Geri Dönüşüm Merkezleri",
 		"romanian": "Centre de reciclare",
+		"danish": "Genbrugsstationer",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -1678,6 +1698,7 @@
 		"thai": "อาคารที่มีเครื่องมือเทคโนโลยีขั้นสูง",
 		"turkish": "Yüksek Teknoloji Ekipmanlı Binalar",
 		"romanian": "Clădiri cu instrumente de înaltă tehnologie",
+		"danish": "Bygninger med højteknologiske værktøjer",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -1698,6 +1719,7 @@
 		"thai": "อาคารที่มีหุ่นยนต์อุตสาหกรรม",
 		"turkish": "Endüstriyel Robotlu Binalar",
 		"romanian": "Clădiri cu roboți industriali",
+		"danish": "Bygninger med Industriroboter",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -1718,6 +1740,7 @@
 		"thai": "รถ",
 		"turkish": "Arabalar",
 		"romanian": "Mașini",
+		"danish": "Biler",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -1738,6 +1761,7 @@
 		"thai": "ถนน",
 		"turkish": "Yollar",
 		"romanian": "Drumuri",
+		"danish": "Veje",
 	},
 	"visualization_Parks": {
 		"english": "Parks",
@@ -1748,6 +1772,7 @@
 		"thai": "สวนสาธารณะ",
 		"polish": "Parki",
 		"czech": "Parky",
+		"danish": "Parker",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
@@ -1758,6 +1783,7 @@
 		"thai": "วัฒนธรรม",
 		"polish": "Kultura",
 		"czech": "Kultura",
+		"danish": "Kultur",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -1768,6 +1794,7 @@
 		"thai": "โรงเรียน",
 		"polish": "Szkoły",
 		"czech": "Školy",
+		"danish": "Skoler",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -1788,6 +1815,7 @@
 		"thai": "ทรัพยากรที่จำเป็น:",
 		"turkish": "Gerekli Malzemeler:",
 		"romanian": "Resurse necesare:",
+		"danish": "Manglende Resourcer:",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -1808,6 +1836,7 @@
 		"thai": "การขุด %resourceName% ได้ %amount% ต่อนาที",
 		"turkish": "Dakikada %amount% adet %resourceName% kazılıyor",
 		"romanian": "Extrage %amount% %resourceName% pe minut",
+		"danish": "Udvinder %amount% %resourceName% per minut",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1828,6 +1857,7 @@
 		"thai": "จำนวนทั้งหมดที่ขุดได้จนถึงตอนนี้: %amount%",
 		"turkish": "Şimdiye kadar toplam kazılan: %amount%",
 		"romanian": "Suma totală extrasă până acum: %amount%",
+		"danish": "Total mængde udvindet indtil nu: %amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1848,6 +1878,7 @@
 		"thai": "จัดการการจัดส่ง",
 		"turkish": "Bölgeler",
 		"romanian": "Districte",
+		"danish": "Distrikter",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -1868,6 +1899,7 @@
 		"thai": "คลิกซ้ายเพื่อระบายสี\nคลิกขวาเพื่อลบ",
 		"turkish": "Sol tıkla çiz\nSağ tıkla sil",
 		"romanian": "Clic stânga pentru a picta\nClic dreapta pentru a șterge",
+		"danish": "Venstre-klik for at male\nHøjre-klik for at slette",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -1888,6 +1920,7 @@
 		"thai": "ลากเคอร์เซอร์ของเมาส์ระหว่างเขตเพื่อสร้างกฎการส่งออก\n\nเขตที่ไม่มีกฎการส่งออกสามารถส่งออกสินค้าได้ทุกที่",
 		"turkish": "Bir ihracat kuralı yaratmak için fare imlecini bölgeler arasında oynat.\n\nİhracat kuralı olmayan bölgeler heryere ihracat yapabilirler",
 		"romanian": "Trage cursorul mouse-ului între districte pentru a crea o regulă de export.\n\nDistrictele fără reguli de export pot exporta mărfuri oriunde.",
+		"danish": "Træk musemarkøren mellem distrikter for at oprette en eksportregel.\n\nDistrikter uden exportregler, kan exportere varer overalt.",
 	},
 	"populationInfo": {
 		"english": "Population Info",
@@ -1908,6 +1941,7 @@
 		"thai": "ข้อมูลประชากร",
 		"turkish": "Nüfus Bilgisi",
 		"romanian": "Informații despre populație",
+		"danish": "Befolkningsoplysninger",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
