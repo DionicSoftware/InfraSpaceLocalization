@@ -113,7 +113,7 @@
 		"slovak": "minut",
 		"hungarian": "perc",
 		"thai": "นาที",
-		"danish":"minut",
+		"danish":"minutter",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
