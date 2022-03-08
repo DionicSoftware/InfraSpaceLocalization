@@ -101,7 +101,7 @@
 		"ukrainian": "Залізнична колія",
 		"spanish": "Linea Ferroviaria",
 		"thai":"รถไฟ",
-		"danish": "Spor",
+		"danish": "Skinne",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
@@ -112,7 +112,7 @@
 		"thai":"รถไฟความเร็วสูง",
 		"polish": "Szybki tor kolejowy",
 		"czech": "Vysokorychlostní trať",
-		"danish": "Højhastigheds Spor",
+		"danish": "Højhastigheds Skinne",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -123,6 +123,6 @@
 		"thai":"รถไฟสายฟ้า",
 		"polish": "Ultraszybki tor kolejowy",
 		"czech": "Ultra-rychlá trať",
-		"danish": "Lynhastigheds Spor",
+		"danish": "Lynhastigheds Skinne",
 	},
 }
