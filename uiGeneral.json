@@ -21,7 +21,7 @@
 		"slovak": "Áno",
 		"hungarian": "Igen",
 		"thai": "ใช่",
-		"danish":"Ja",
+		"danish": "Ja",
 	},
 	"no": {
 		"english": "No",
@@ -45,7 +45,7 @@
 		"slovak": "Nie",
 		"hungarian": "Nem",
 		"thai": "ไม่",
-		"danish":"Nej",
+		"danish": "Nej",
 	},
 	"hours": {
 		"english": "hours",
@@ -67,7 +67,7 @@
 		"thai": "ชั่วโมง",
 		"turkish":"saat",
 		"romanian": "ore",
-		"danish":"Timer",
+		"danish": "timer",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -89,7 +89,7 @@
 		"thai": "ชม",
 		"turkish":"s",
 		"romanian": "h",
-		"danish":"t",
+		"danish": "t",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -113,7 +113,7 @@
 		"slovak": "minut",
 		"hungarian": "perc",
 		"thai": "นาที",
-		"danish":"minutter",
+		"danish": "minutter",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
@@ -135,7 +135,7 @@
 		"thai": "นาที",
 		"turkish":"dk",
 		"romanian": "min",
-		"danish":"min",
+		"danish": "min",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
@@ -154,7 +154,7 @@
 		"russian": "м.",
 		"italian": "m",
 		"romanian": "m",
-		"danish":"m",
+		"danish": "m",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -178,7 +178,7 @@
 		"slovak": "sekund",
 		"hungarian": "másodperc",
 		"thai": "วินาที",
-		"danish":"sekunder",
+		"danish": "sekunder",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -202,7 +202,7 @@
 		"slovak": "s",
 		"hungarian": "mp",
 		"thai": "วิ",
-		"danish":"s",
+		"danish": "s",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -226,7 +226,7 @@
 		"slovak": "sek",
 		"hungarian": "mp",
 		"thai": "วินาที",
-		"danish":"sek",
+		"danish": "sek",
 	},
 	"days": { // used like "0.4 days"
 		"english": "days",
@@ -248,6 +248,6 @@
 		"slovak": "dní",
 		"hungarian": "nap",
 		"thai": "วัน",
-		"danish":"dage",
+		"danish": "dage",
 	},
 }
