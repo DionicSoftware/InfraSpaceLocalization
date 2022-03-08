@@ -19,7 +19,7 @@
 		"thai": "มีประชากรถึงจำนวน %amount% คน",
 		"turkish":"%amount% kişilik bir nüfusa ulaşın",
 		"romanian": "Atinge o populație de %amount% rezidenți.",
-		"danish":"Nå en befolkning på %amount% beboere",
+		"danish":"Nå en befolkning på %amount% indbyggere",
 	},
 	"populationGoalText": {
 		"english": "%current% / %required% people",
@@ -40,7 +40,7 @@
 		"thai": "%current% / %required% คน",
 		"turkish":"%current% / %required% kişi",
 		"romanian": "%current% / %required% rezidenți",
-		"danish":"%current% / %required% beboere",
+		"danish":"%current% / %required% indbyggere",
 	},
 	"buildingGoalText": {
 		"english": "Build a %buildingName%",
@@ -61,7 +61,7 @@
 		"thai": "สร้าง %buildingName%",
 		"turkish":"Bir %buildingName% inşa edin.",
 		"romanian": "Construiește un(o) %buildingName%",
-		"danish":"Byg %buildingName%",
+		"danish":"Du kan nu bygge %buildingName%",
 	},
 	"researchGoalText": {
 		"english": "Research %techName%",
@@ -124,7 +124,7 @@
 		"thai": "สร้างถนนไปใกล้ๆกับกำมะถันและเหล็ก",
 		"turkish":"Sülfür ve demirin yanına bir yol inşa edin.",
 		"romanian": "Construiește un drum lângă sulf și fier.",
-		"danish":"byg en vej ved siden af svovl og jern",
+		"danish":"Byg en vej ved siden af svovl og jern",
 	},
 	"tutorial_youCanPlaceYourBuildingsNextToRoads": {
 		"english": "You can place your buildings next to roads.",
@@ -166,7 +166,7 @@
 		"thai": "ตอบสนองความต้องการของที่อยู่อาศัยของคุณจนกว่าจะอัปเกรดโดยอัตโนมัติ",
 		"turkish":"Habitatlarınızın ihtiyaçlarını karşılarsanız otomatik olarak seviye atlıyacaklardır.",
 		"romanian": "Satisface nevoile habitatelor tale până când acestea se actualizează automat.",
-		"danish":"Tilfredsstil dine beboere, og habitaterne vil udvikle sig automatisk",
+		"danish":"Tilfredsstil dine beboere, og habitaterne vil opgradere sig automatisk",
 	},
 	"tutorialFinishedTitle": {
 		"english": "You finished the tutorial!",
@@ -271,7 +271,7 @@
 		"thai": "การผลิตไฟฟ้า",
 		"turkish":"Elektrik Üretimi",
 		"romanian": "Generare de energie",
-		"danish":"Strømproduktion",
+		"danish":"Elektricitet produktion",
 	},
 	"tutorial_storage": {
 		"english": "Storing the Concrete",
@@ -439,7 +439,7 @@
 		"thai": "บทเรียน: %tutorialName%",
 		"turkish":"Öğretici: %tutorialName%",
 		"romanian": "Tutorial: %tutorialName%",
-		"danish":"Turorial: %tutorialName%",
+		"danish":"Tutorial: %tutorialName%",
 	},
 	"tutorial_dashboardInfoPanel": {
 		"english": "Quick City Info",
@@ -712,7 +712,7 @@
 		"thai": "โดยค่าเริ่มต้น คุณสามารถย้ายกล้องด้วยปุ่มลูกศร WASD หรือใช้การเลื่อนเมาส์ไปที่ขอบของหน้าจอก็ได้\n\nกดปุ่มกลางของเมาส์แล้วลากเมาส์เพื่อหมุนมุมมองของคุณ",
 		"turkish":"Varsayılan olarak kamerayı oklar veya WASD ile yada farenizin imlecini ekranın kenarlarına götürerek oynatabilrsiniz.\n\nFarenin orta tuşuna basılı tutup fareyi kaydırarak da kamerayı döndürebilrsiniz.",
 		"romanian": "În mod implicit, poți muta camera cu tastele săgeți, WASD sau mutând mouse-ul la marginea ecranului.\n\nApasă butonul din mijloc al mouse-ului și trage, mișcând mouse-ul pentru a roti vizualizarea.",
-		"danish":"Som standard, kan du flytte kameraet med piltasterne, WASD, eller ved at bruge musen. \n\nTryk på den midderste musetast, og træk musen, for at rotere vinkelen",
+		"danish":"Som standard, kan du flytte kameraet med piltasterne eller ved at bruge musen. \n\nTryk på den midderste musetast, og træk musen, for at rotere vinkelen",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -796,7 +796,7 @@
 		"thai": "หากคุณจัดการและจัดหาสิ่งเหล่านี้ ที่อยู่อาศัยของคุณจะปรับปรุงเป็นระดับต่อไป",
 		"turkish":"Eğer bu eşyaları sağlayabilrseniz, habitatlar bir sonraki seviyeye yükselir.",
 		"romanian": "Dacă reușești să oferi aceste lucruri, habitatul va trece la nivelul următor.",
-		"danish":"Hvis du formår levere disse ting, vil habitate opgradere til næste level",
+		"danish":"Hvis du formår at levere disse ting, vil habitatet blive opgraderet til næste niveau",
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -817,7 +817,7 @@
 		"thai": "ระดับเมือง",
 		"turkish":"Şehir Seviyeleri",
 		"romanian": "Niveluri de oraș",
-		"danish":"By Levels",
+		"danish":"By Niveauer",
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -838,7 +838,7 @@
 		"thai": "ระดับเมือง",
 		"turkish":"Şehir Seviyeleri",
 		"romanian": "Niveluri de oraș",
-		"danish":"By Levels",
+		"danish":"By Niveauer",
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -880,7 +880,7 @@
 		"thai": "ระดับเมือง",
 		"turkish":"Şehir Seviyeleri",
 		"romanian": "Niveluri de oraș",
-		"danish":"By Levels",
+		"danish":"By Niveauer",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
