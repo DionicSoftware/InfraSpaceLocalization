@@ -40,7 +40,7 @@
 		"thai": "%current% / %required% คน",
 		"turkish":"%current% / %required% kişi",
 		"romanian": "%current% / %required% rezidenți",
-		"danish":"%current% / %required% befolkning",
+		"danish":"%current% / %required% beboere",
 	},
 	"buildingGoalText": {
 		"english": "Build a %buildingName%",
@@ -61,7 +61,7 @@
 		"thai": "สร้าง %buildingName%",
 		"turkish":"Bir %buildingName% inşa edin.",
 		"romanian": "Construiește un(o) %buildingName%",
-		"danish":"Opfør %buildingName%",
+		"danish":"Byg %buildingName%",
 	},
 	"researchGoalText": {
 		"english": "Research %techName%",
@@ -103,7 +103,7 @@
 		"thai": "คลิกที่โรงงานชุดวิทยาศาสตร์เพื่อดูว่าทรัพยากรใดที่จำเป็นบ้าง",
 		"turkish":"Bilim paketi fabrikasına tıklayarak hangi malzemelerin gerektiğini görün.",
 		"romanian": "Clic pe fabrica de pachete științifice pentru a vedea ce resurse sunt necesare.",
-		"danish":"Klik på forskningscentert for at se hvilke ressourcer der skal bruges.",
+		"danish":"Klik på forskningscenteret for at se hvilke ressourcer der skal bruges.",
 	},
 	"tutorial_buildRoad": {
 		"english": "Build a road next to sulfur and iron.",
@@ -145,7 +145,7 @@
 		"thai": "คุณสามารถวางอาคารของคุณไว้ข้างกับถนนได้",
 		"turkish":"Binalarınızı yolların kenarına koyabilrsiniz.",
 		"romanian": "Pune clădirile lângă drumuri.",
-		"danish":"Du kan placere dine bygninger ved siden af veje",
+		"danish":"Du kan placere dine bygninger ved siden af veje.",
 	},
 	"upgradeGoalText": {
 		"english": "Satisfy the needs of your habitats until they upgrade automatically.",
@@ -166,7 +166,7 @@
 		"thai": "ตอบสนองความต้องการของที่อยู่อาศัยของคุณจนกว่าจะอัปเกรดโดยอัตโนมัติ",
 		"turkish":"Habitatlarınızın ihtiyaçlarını karşılarsanız otomatik olarak seviye atlıyacaklardır.",
 		"romanian": "Satisface nevoile habitatelor tale până când acestea se actualizează automat.",
-		"danish":"Tilfredsstil dine indbyggere, og habitaterne vil udvikle sig automatisk",
+		"danish":"Tilfredsstil dine beboere, og habitaterne vil udvikle sig automatisk",
 	},
 	"tutorialFinishedTitle": {
 		"english": "You finished the tutorial!",
@@ -187,7 +187,7 @@
 		"thai": "คุณสำเร็จการบทเรียนแล้ว!",
 		"turkish":"Öğreticiyi tamamladınız!",
 		"romanian": "Ai terminat tutorialul!",
-		"danish":"Du har gennemført tutorialen",
+		"danish":"Du har færdiggjort tutorialen!",
 	},
 	"tutorialFinishedText": {
 		"english": "Congrats! You're now ready to make your city great!",
@@ -208,7 +208,7 @@
 		"thai": "ยินดีด้วย! ตอนนี้คุณพร้อมที่จะทำให้เมืองของคุณยิ่งใหญ่แล้ว!",
 		"turkish":"Tebrikler! Artık şehrinizi gelilştirmeye hazırsınız!",
 		"romanian": "Felicitări! Acum ești gata să-ți faci orașul grozav!",
-		"danish":"Tillykke! Du er nu klar til at gøre din fantastisk",
+		"danish":"Tillykke! Du er nu klar til at gøre din by fantastisk",
 	},
 	"tutorial_concreteProduction": {
 		"english": "Concrete Production for Roads",
@@ -271,7 +271,7 @@
 		"thai": "การผลิตไฟฟ้า",
 		"turkish":"Elektrik Üretimi",
 		"romanian": "Generare de energie",
-		"danish":"Elproduktion",
+		"danish":"Strømproduktion",
 	},
 	"tutorial_storage": {
 		"english": "Storing the Concrete",
@@ -292,7 +292,7 @@
 		"thai": "จัดการเก็บคอนกรีต",
 		"turkish":"Betonu Saklamak",
 		"romanian": "Depozitarea betonului",
-		"danish":"Opbevaring af beton",
+		"danish":"Opbevarer beton",
 	},
 	"tutorial_lifeSupport": {
 		"english": "Life Support",
@@ -397,7 +397,7 @@
 		"thai": "ใช้ถนนเชื่อมเหมืองกับโรงงานคอนกรีต",
 		"turkish":"Yolları kullanarak madenleri beton fabrikasına bağlayın.",
 		"romanian": "Folosește drumurile pentru a conecta minele cu fabrica de beton",
-		"danish":"Brug veje til at forbinde minerne med batonfabrikken",
+		"danish":"Brug veje til at forbinde minerne med betonfabrikken",
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
@@ -418,7 +418,7 @@
 		"thai": "ใช้เสาไฟฟ้าเชื่อมต่อกับอาคารทั้งหมดเข้ากับกังหันลมของคุณ",
 		"turkish":"Elektrik direkleri kullanark tüm binaları rüzgar türbinlerine bağlayın",
 		"romanian": "Utilizează stâlpii de curent pentru a conecta toate clădirile la turbina eoliană",
-		"danish":"Brug elmaster til at forbinde alle bygninger til dine vindmøller",
+		"danish":"Brug elmaster til at forbinde alle bygninger til din vindmølle",
 	},
 	"tutorialNotification": {
 		"english": "Tutorial: %tutorialName%",
@@ -502,7 +502,7 @@
 		"thai": "แผงนี้คือภาพรวมคร่าวๆของเมืองของคุณ\n\nแถวบนสุดแสดงจำนวนคอนกรีตและเหล็กที่คุณมี คุณต้องใช้วัสดุทั้งสองอย่างเพื่อสร้างอาคาร ไอคอนที่สามจะแสดงให้คุณเห็นว่าคุณมีพลังงานเพียงพอในเมืองของคุณหรือไม่\n\nแถวล่างสุดแสดงจำนวนคนที่อาศัยอยู่ในเมืองของคุณ จำนวนที่ต้องการของพนักงาน และจำนวนที่พักอาศัย ถ้าคุณมีคนงานไม่เพียงพอที่จะไปเติมในโรงงานของคุณให้เต็มมันจะไม่สามารถดำเนินการได้อย่างมีประสิทธิภาพ นอกจากนี้ ตรวจสอบให้แน่ใจว่าคุณมีที่พักว่างเพียงพอสำหรับคนงานใหม่ที่จะย้ายเข้ามาหรือไม่",
 		"turkish":"Bu panel size şehrin kısa bir özetini sunar.\n\nÜst satırda ne kadar beton ve çelik olduğu gözükür. Bu ikisi bina inşaat etmek için gereklidir. Üçüncü simge şehrinizde yeterli elektrik olup olmadığını gösterir.\n\nEn alt satır şehrinizde kaç tane insanın yaşadığını,kaç tane çalışana gerek duyulduğunu ve nekadar boş konut olduğunu gösterir. Eğer gerekli meslek boşlukları doldurulmazsa çoğu fabrikanız verimli çalışamaz. Aynı zamanda yeni çalışanların taşınması için yeterli konut alanlarının olduğuna emin olun.",
 		"romanian": "Acest panou îți oferă o privire de ansamblu rapidă asupra orașului tău.\n\nRândul de sus îți arată cât beton și oțel ai la dispoziție. Sunt necesare ambele materiale pentru a construi clădiri. A treia pictogramă îți arată dacă ai suficientă energie în orașul tău.\n\nRândul de jos indică câți oameni locuiesc în oraș, câți lucrători sunt necesari și câte locuințe sunt disponibile. Dacă nu ai suficienți muncitori pentru a ocupa majoritatea locurilor de muncă, fabricile tale nu vor funcționa eficient. De asemenea, asigură-te că ai suficiente locuri libere în locuințe pentru a se muta noii lucrători.",
-		"danish":"Dette panel giver dig et hurtigt overblik over din by.\n\n Den øverste række viser hvor meget beton og stål du har til rådighed, du har brug for begge materialer for at kunne bygge. Det tredie ikon viser dig hvor meget strøm der er i byen. \n\n en nederste rkke vier dig hvor personer der bor i din by, hvor mage arbejder der er krævet, og hvor mange boliger der er til rådighed. Hvis du ikke har noget arbejdere til at besætte jobsne, vil roduktionen ikke køre effektivt. Husk også at have ledige boliger, således at nye arbejdere kan flytte ind.",
+		"danish":"Dette panel giver dig et hurtigt overblik over din by.\n\n Den øverste række viser hvor meget beton og stål du har til rådighed. Du har brug for begge materialer for at kunne bygge. Det tredje ikon viser dig om du har nog strøm i din by. \n\n Den nederste række viser dig hvor mange beboere du har, hvor mange arbejdere der er brug for, og hvor mange boliger der er til rådighed. Hvis du ikke har nok arbejdere til at besætte de fleste job, vil dine fabrikker ikke køre effektivt. Husk også at have ledige boliger, således at nye arbejdere kan flytte ind.",
 	},
 	"gotIt": {
 		"english": "Got it!",
@@ -523,7 +523,7 @@
 		"thai": "เข้าใจแล้ว!",
 		"turkish":"Tamamdır!",
 		"romanian": "Am înțeles!",
-		"danish":"Ok",
+		"danish":"Forstået!",
 	},
 	"skipNextTutorials": {
 		"english": "Skip next tutorials",
@@ -565,7 +565,7 @@
 		"thai": "ยินดีต้อนรับสู่อินฟราสเปซ!",
 		"turkish":"InfraSpace'e hoş geldiniz",
 		"romanian": "Bun venit la InfraSpace!",
-		"danish":"Velkommmen til InfaSpace",
+		"danish":"Velkommmen til InfraSpace!",
 	},
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
@@ -586,7 +586,7 @@
 		"thai": "คุณต้องการรับคำแนะนำการสอนในขณะเล่นเกมหรือไม่?\n\nคุณยังสามารถ เปิด/ปิด ได้ในส่วนของการตั้งค่า",
 		"turkish":"Oyunu oynarken öğretici tavsiyeleri almak istermisniz?\n\nAynı zamanda bunları ayarlardan açabilir/kapatabilrsiniz.",
 		"romanian": "Dorești să obții sugestii pentru tutorial în timp ce te joci?\n\nLe poți activa/dezactiva și în setări.",
-		"danish":"Vil du modtage tutorial tips, imens du spiller? \n\nDu kan også slå dem til og fra i indstillinger.",
+		"danish":"Vil du modtage tutorial tips, imens du spiller? \n\nDu kan også slå dem til/fra i indstillinger.",
 	},
 	"tutorialMessage_goalPanel_title": {
 		"english": "Making your first city",
@@ -628,7 +628,7 @@
 		"thai": "แผงนี้จะแนะนำคุณตลอดรวมถึงขั้นตอนที่จำเป็นในการสร้างเมืองที่มั่นคงแห่งแรกของคุณและทำการวิจัยเกี่ยวกับเทคโนโลยี",
 		"turkish":"Bu panel sizi ilk stabil şehrinizi yaratmak için gereken aşamalardan geçirip yeni teknolojiler araştırmayı öğretir.",
 		"romanian": "Acest panou te va ghida prin pașii necesari pentru a-ți crea primul oraș stabil și a cerceta tehnologiile.",
-		"danish":"Dette panel vil guide dig igennem de nødvendige skridt, for at du kan skabe din første by, og forske de første ting",
+		"danish":"Dette panel vil guide dig igennem de nødvendige skridt, for at du kan skabe din første by, og forske teknologier",
 	},
 	"tutorialMessage_constructionMenu_title": {
 		"english": "Construction Menu",
@@ -649,7 +649,7 @@
 		"thai": "เมนูก่อสร้าง",
 		"turkish":"İnşaat Menüsü",
 		"romanian": "Meniul de construcție",
-		"danish":"Byggemenu",
+		"danish":"Bygge Menu",
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
@@ -691,7 +691,7 @@
 		"thai": "การเคลื่อนย้ายกล้อง",
 		"turkish":"Kamera Hareketleri",
 		"romanian": "Mișcarea camerei",
-		"danish":"Flyt Kamera",
+		"danish":"Kamera Styring",
 	},
 	"tutorialMessage_cameraMovement_desc": {
 		"english": "By default, you can move the camera with your arrow keys, WASD, or by moving your mouse to the edge of your screen.\n\nPress the middle mouse button and drag move your mouse to rotate your view.",
@@ -712,7 +712,7 @@
 		"thai": "โดยค่าเริ่มต้น คุณสามารถย้ายกล้องด้วยปุ่มลูกศร WASD หรือใช้การเลื่อนเมาส์ไปที่ขอบของหน้าจอก็ได้\n\nกดปุ่มกลางของเมาส์แล้วลากเมาส์เพื่อหมุนมุมมองของคุณ",
 		"turkish":"Varsayılan olarak kamerayı oklar veya WASD ile yada farenizin imlecini ekranın kenarlarına götürerek oynatabilrsiniz.\n\nFarenin orta tuşuna basılı tutup fareyi kaydırarak da kamerayı döndürebilrsiniz.",
 		"romanian": "În mod implicit, poți muta camera cu tastele săgeți, WASD sau mutând mouse-ul la marginea ecranului.\n\nApasă butonul din mijloc al mouse-ului și trage, mișcând mouse-ul pentru a roti vizualizarea.",
-		"danish":"Som standard, kan du flytte kamerate med piletasterne, WASD, eller ved at bruge musen. \n\nTryk på den midderste musse tast, og træk musen, for at rotere vinkelen",
+		"danish":"Som standard, kan du flytte kameraet med piltasterne, WASD, eller ved at bruge musen. \n\nTryk på den midderste musetast, og træk musen, for at rotere vinkelen",
 	},
 	"tutorialMessage_habitatInfoRequiredResources_title": {
 		"english": "Required Resources",
@@ -754,7 +754,7 @@
 		"thai": "คุณต้องจัดหาสิ่งเหล่านี้เพื่อให้ผู้คนสามารถย้ายเข้ามาในเมืองได้",
 		"turkish":"İnsanların taşınması için bu kaynakları sağlamanız lazım.",
 		"romanian": "Trebuie să oferi aceste lucruri pentru a determina oamenii să se mute.",
-		"danish":"Du skal sørge for disse ting, for at folk kan flytte ind",
+		"danish":"Du skal sørge for at levere disse ting, for at folk kan flytte ind",
 	},
 	"tutorialMessage_habitatInfoNextResources_title": {
 		"english": "Upgrade Resources",
@@ -796,7 +796,7 @@
 		"thai": "หากคุณจัดการและจัดหาสิ่งเหล่านี้ ที่อยู่อาศัยของคุณจะปรับปรุงเป็นระดับต่อไป",
 		"turkish":"Eğer bu eşyaları sağlayabilrseniz, habitatlar bir sonraki seviyeye yükselir.",
 		"romanian": "Dacă reușești să oferi aceste lucruri, habitatul va trece la nivelul următor.",
-		"danish":"Hvis du formår at klare disse ting, vil habitate opgradere til næste level",
+		"danish":"Hvis du formår levere disse ting, vil habitate opgradere til næste level",
 	},
 	"tutorial_cityLevels": {
 		"english": "City Levels",
@@ -817,7 +817,7 @@
 		"thai": "ระดับเมือง",
 		"turkish":"Şehir Seviyeleri",
 		"romanian": "Niveluri de oraș",
-		"danish":"By Level",
+		"danish":"By Levels",
 	},
 	"tutorialMessage_cityLevelPanel_title": {
 		"english": "City Levels",
@@ -838,7 +838,7 @@
 		"thai": "ระดับเมือง",
 		"turkish":"Şehir Seviyeleri",
 		"romanian": "Niveluri de oraș",
-		"danish":"By Level",
+		"danish":"By Levels",
 	},
 	"tutorialMessage_cityLevelPanel_desc": {
 		"english": "This panel shows you how many people are living in each type of habitat.\n\nYou need to upgrade your habitats in order to reach the next city level.",
@@ -859,7 +859,7 @@
 		"thai": "แผงส่วนนี้จะแสดงจำนวนผู้คนที่อาศัยอยู่ในที่อยู่อาศัยแต่ละประเภท\n\nคุณต้องปรับปรุงแหล่งที่อยู่อาศัยของคุณเพื่อที่จะไปถึงระดับเมืองต่อไป",
 		"turkish":"Bu panel size her habitat tipinde kaç insanın yaşadığını gösterir.\n\nYeni şehir seviyelerşne ulaşmak için habitatlarınızı yükseltin.",
 		"romanian": "Acest panou indică câți oameni trăiesc în fiecare tip de habitat.\n\nTrebuie să actualizezi habitatele pentru a ajunge la următorul nivel de oraș.",
-		"danish":"Denne meny viser dig hvor mange personer der lever i hver tyoe af hapitat.\n\nDu er nød til at upgradere dine habitater for at komme til næste niveau.",
+		"danish":"Dette panel viser dig hvor mange beboere der lever i hver type af habitater.\n\nDu er nød til at opgradere dine habitater for at komme til næste level.",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_title": {
 		"english": "City Levels",
@@ -880,7 +880,7 @@
 		"thai": "ระดับเมือง",
 		"turkish":"Şehir Seviyeleri",
 		"romanian": "Niveluri de oraș",
-		"danish":"By Level",
+		"danish":"By Levels",
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
@@ -901,7 +901,7 @@
 		"thai": "ตรวจสอบแถบความคืบหน้าเพื่อดูว่าประชาชนมีจำนวนเท่าไหร่ที่จำเป็นต้องได้รับที่อยู่อาศัยที่ดีขึ้นเพื่อที่จะไปถึงระดับต่อไป",
 		"turkish":"Kaç tane vatandaşın daha iyi konutlara geçmesi gerektiğini görmek için ilerleme çubuğunu kontrol ediniz.",
 		"romanian": "Verifică bara de progres pentru a vedea câți cetățeni trebuie să obțină locuințe mai bune pentru a ajunge la nivelul următor.",
-		"danish":"Tjek statuslinjen for at se, hvor mange borgere der skal have en bedre bolig for at nå det næste niveau.",
+		"danish":"Tjek statuslinjen for at se, hvor mange beboere der skal have en bedre bolig for at nå det næste niveau.",
 		
 	},
 	"tutorial_productionPanel": {
@@ -1007,7 +1007,7 @@
 		"thai": "หากคุณมีคนงานไม่เพียงพอ ให้ใช้แถบเลื่อนเพื่อย้ายคนงานของคุณไปยังงานที่สำคัญที่สุดก่อนได้",
 		"turkish":"Eğer yeterli iş gücünüz yoksa, kaydıraçları kullanarak iş gücünüzü öncelikli işlere odaklayın.",
 		"romanian": "Dacă nu ai suficienți angajați, utilizează glisoarele pentru a muta forța de muncă în cele mai importante locuri de muncă.",
-		"danish":"Hvis du ikke har nok arbejdere, kan du bruge skyderne til at flytte din arbejdsstyrke til de vigtigste job.",
+		"danish":"Hvis du ikke har nok arbejdere, kan du bruge slideren til at flytte din arbejdsstyrke til de vigtigste job.",
 	},
 	"tutorial_grid": {
 		"english": "Building Grid",
@@ -1030,7 +1030,7 @@
 		"thai": "สร้างและไม่มีตาราง",
 		"polish": "Budowanie z pomocą i bez siatki",
 		"czech": "Budova s mřížkou a bez mřížky",
-		"danish":"Bygning med og uden gitter",
+		"danish":"Byg med og uden gitter",
 		
 	},
 	"tutorialMessage_grid_desc": {
