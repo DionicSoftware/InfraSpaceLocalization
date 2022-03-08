@@ -158,7 +158,7 @@
     "korean": "이리듐 채굴기",
     "romanian": "Mină de iridiu",
     "scotsgaelic": "Mèinnean Iridium",
-    "danish": "Iridium Mine",
+    "danish": "Iridiummine",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -319,7 +319,7 @@
     "korean": "대형 이리듐 채굴기",
     "romanian": "Mină mare de iridiu",
     "scotsgaelic": "Mèinnean Iridium Mòr",
-    "danish": "Stor Iridium Mine",
+    "danish": "Stor Iridiummine",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -342,7 +342,7 @@
     "korean": "전자부품 공장",
     "romanian": "Fabrică de electronice",
     "scotsgaelic": "Factaraidh Leictreonaic",
-    "danish": "Elektronik Fabrik",
+    "danish": "Elektronikmodul Fabrik",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -457,7 +457,7 @@
     "korean": "이리듐합금 공장",
     "romanian": "Fabrică de aliaje de iridiu",
     "scotsgaelic": "Factaraidh Measgachadh Iridium",
-    "danish": "Iridium Legeringsfabrik",
+    "danish": "Iridium Legering Fabrik",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -756,7 +756,7 @@
     "korean": "파랑 과학팩 공장",
     "romanian": "Fabrică de pachete albastre de știină",
     "scotsgaelic": "Factaraidh Pasgan Saidheans Gorm",
-    "danish": "Blå Videnskabspakke Fabrik",
+    "danish": "Blå Videnskrystal Fabrik",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -779,7 +779,7 @@
     "korean": "초록 과학팩 공장",
     "romanian": "Fabrică de pachete verzi de știină",
     "scotsgaelic": "Factaraidh Pacaid Saidheans Uaine",
-    "danish": "Grøn Videnskabspakke Fabrik",
+    "danish": "Grøn Videnskrystal Fabrik",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -802,7 +802,7 @@
     "korean": "노랑 과학팩 공장",
     "romanian": "Fabrică de pachete galbene de știină",
     "scotsgaelic": "Factaraidh Pacaid Saidheans Buidhe",
-    "danish": "Gul Videnskabspakke Fabrik",
+    "danish": "Gul Videnskrystal Fabrik",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -825,7 +825,7 @@
     "korean": "빨강 과학팩 공장",
     "romanian": "Fabrică de pachete roșii de știină",
     "scotsgaelic": "Factaraidh Pacaid Saidheans Dearg",
-    "danish": "Rød Videnskabspakke Fabrik",
+    "danish": "Rød Videnskrystal Fabrik",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -848,7 +848,7 @@
     "korean": "연구소",
     "romanian": "Laborator de cercetare",
     "scotsgaelic": "Obair-lann Rannsachaidh",
-    "danish": "Forsknings Center",
+    "danish": "Forskningscenter",
   },
   "storehouse": {
     // TODO-chinese
