@@ -19,7 +19,7 @@
 		"thai": "มีประชากรถึงจำนวน %amount% คน",
 		"turkish":"%amount% kişilik bir nüfusa ulaşın",
 		"romanian": "Atinge o populație de %amount% rezidenți.",
-		"danish":"Nå en befolkning på %amount% mennesker",
+		"danish":"Nå en befolkning på %amount% beboere",
 	},
 	"populationGoalText": {
 		"english": "%current% / %required% people",
@@ -40,7 +40,7 @@
 		"thai": "%current% / %required% คน",
 		"turkish":"%current% / %required% kişi",
 		"romanian": "%current% / %required% rezidenți",
-		"danish":"%aktuel% / %nødvendig% befolkning",
+		"danish":"%current% / %required% befolkning",
 	},
 	"buildingGoalText": {
 		"english": "Build a %buildingName%",
