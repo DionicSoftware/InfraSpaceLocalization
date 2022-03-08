@@ -19,7 +19,7 @@
 		"arabic": "لا توجد طاقة كافية في الشبكة %networkId%",
 		"turkish":"Güç Ağında Yeterli Elektrik Yok %networkId%",
 		"romanian": "Nu este suficientă energie în rețeaua %networkId%",
-		"danish": "Ikke not strømt tilgængeligt i netværk %networkId%",
+		"danish": "Ikke not elektricitet tilgængeligt i netværk %networkId%",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -129,6 +129,6 @@
 		"arabic": "اثنان من مولدات طاقة الرياح قريبان من بعضهما جدا. كفائتهما قليلة.",
 		"turkish":"İki türbin birbirine çok yakın. Verimlilikeri düşdü.",
 		"romanian": "Două turbine eoliene sunt prea apropiate. Eficiența lor este scăzută.",
-		"danish": "To vindtubiner er for tæt på hinanden. Deres effektivitet er faldet.",
+		"danish": "To vindmøller er for tæt på hinanden. Deres effektivitet er faldet.",
 	},
 }
