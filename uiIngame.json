@@ -18,7 +18,7 @@
 		"thai": "เครือข่ายแหล่งพลังงานที่ %id%",
 		"turkish": "Güç Ağı %id%",
 		"romanian": "Rețea de alimentare %id%",
-		"danish": "Strøm Netværk %id%",
+		"danish": "Elektricitet Netværk %id%",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -60,7 +60,7 @@
 		"thai": "พลังงานที่ใช้:",
 		"turkish": "Kullanılan elektrik",
 		"romanian": "Curent consumat:",
-		"danish": "Strøm Brugt:",
+		"danish": "Elektricitet Brugt:",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -81,7 +81,7 @@
 		"thai": "พลังงานที่ผลิตได้:",
 		"turkish": "Üretilen elektrik:",
 		"romanian": "Curent produs:",
-		"danish": "Strøm Produceret:",
+		"danish": "Elektricitet Produceret:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -186,7 +186,7 @@
 		"thai": "ไม่มีพลัง",
 		"turkish": "Elektrik yok",
 		"romanian": "Nu este curent",
-		"danish": "Ingen strøm",
+		"danish": "Ingen elektricitet",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -228,7 +228,7 @@
 		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" ก็ต่อเมื่อคุณต้องมีพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
 		"turkish": "En az %amount% tane %nextLevel% Seviye vatandaş olunca şehriniz \"%cityLevelName%\" e yükselicek.",
 		"romanian": "Orașul tău va fi promovat la \"%cityLevelName%\" după ce vei avea cel puțin %amount% cetățeni de nivel %nextLevel%.",
-		"danish": "Din by vil blive opgraderet til \"%cityLevelName%\" når du har mindst %amount% level %nextLevel% beboere.",
+		"danish": "Din by vil blive opgraderet til \"%cityLevelName%\" når du har mindst %amount% niveau %nextLevel% indbyggere.",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -249,7 +249,7 @@
 		"thai": "คุณมาถึงสูงสุดของระดับเมืองแล้ว ยินดีด้วย!",
 		"turkish": "En yüksek şehir seviyesine ulaştınız. Tebrikler!",
 		"romanian": "Ai atins cel mai înalt nivel de oraș. Felicitări!",
-		"danish": "Du har nået det højeste by level. Stærkt Gået!",
+		"danish": "Du har nået det højeste by niveau. Stærkt Gået!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -270,7 +270,7 @@
 		"thai": "เมืองของคุณจะถูกลดระดับเป็น \"%cityLevelName%\" หากคุณยังมีพลเมืองน้อยกว่า %amount% ระดับ %level%",
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
-		"danish": "Din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% level %level% beboere.",
+		"danish": "Din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% nivau %level% indbyggere.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -608,7 +608,7 @@
 		"thai": "กำลังปรับปรุงที่อยู่อาศัยใน %seconds% วิ",
 		"turkish": "Habitat %seconds%sn sonra yükeslicek.",
 		"romanian": "Habitatul modernizează în %seconds%s.",
-		"danish": "Habitat udvides om %seconds%s",
+		"danish": "Habitat opgraderes om %seconds%s",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -650,7 +650,7 @@
 		"thai": "ที่อยู่อาศัยเต็ม เติมเต็มความต้องการนี้ด้วยการปรับปรุง",
 		"turkish": "Habitat dolu. Yükseltmek için gereksinimleri tamamla.",
 		"romanian": "Habitatul este plin. Îndepliniți nevoile suplimentare pentru upgrade.",
-		"danish": "Habitatet er fuldt. Opfyld de yderligere behov for at udvide.",
+		"danish": "Habitatet er fuldt. Opfyld de yderligere behov for at opgradere.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -671,7 +671,7 @@
 		"thai": "ผู้คนกำลังย้ายเข้ามา",
 		"turkish": "İnsanlar yerleşiyor.",
 		"romanian": "Oamenii se mută înăuntru.",
-		"danish": "Beboere flytter ind.",
+		"danish": "indbyggere flytter ind.",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -692,7 +692,7 @@
 		"thai": "ผู้คนกำลังย้ายออกไป",
 		"turkish": "İnsanlar taşnıyor.",
 		"romanian": "Locuitorii pleacă.",
-		"danish": "Beboere flytter ud.",
+		"danish": "Indbyggere flytter ud.",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -734,7 +734,7 @@
 		"thai": "ชาวบ้านสบายดี",
 		"turkish": "Oturanlar iyi.",
 		"romanian": "Locuitorii sunt ok.",
-		"danish": "Beboere har det okay.",
+		"danish": "Indbyggere har det okay.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -797,7 +797,7 @@
 		"thai": "พลเมืองระดับ %level%",
 		"turkish": "%level% Seviye vatandaşlar",
 		"romanian": "Cetăţeni de nivel %level%",
-		"danish": "Level %level% beboere",
+		"danish": "Niveau %level% indbyggere",
 	},
 	"population": {
 		"english": "Population",
@@ -1049,7 +1049,7 @@
 		"thai": "พลังงานไม่เพียงพอ:",
 		"turkish": "Yetersiz elektrik:",
 		"romanian": "Energie insuficientă:",
-		"danish": "Ikke nok Strøm:",
+		"danish": "Ikke nok elektricitet:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -1209,7 +1209,7 @@
 		"russian": "Также меняет направление дороги, если у вас не выбрана дорога для замены",
 		"italian": "Inverte anche la direzione della strada se non hai selezionato una strada alternativa",
 		"romanian": "Inversează direcția drumului dacă nu ai selectat un drum de înlocuire",
-		"danish": "Vendter også vejretningen, hvis du ikke har valgt en erstatningsvej",
+		"danish": "Vender også vejretningen, hvis du ikke har valgt en erstatningsvej",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1369,7 +1369,7 @@
 		"thai": "ไม่ได้เชื่อมต่อกับเครือข่ายไฟฟ้า",
 		"turkish": "Güç ağına bağlı değil",
 		"romanian": "Nu este conectat la rețeaua de alimentare",
-		"danish": "Ikke forbindet til strøm netværk",
+		"danish": "Ikke forbundet til elektricitet netværk",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1593,7 +1593,7 @@
 		"thai": "อาคารที่พัก (คนงานและผู้อยู่อาศัย)",
 		"turkish": "Bina Doluluğu (Çalışanlar & Oturanlar)",
 		"romanian": "Ocuparea clădirilor (muncitori și locuitori)",
-		"danish": "Bygningsbelægning (arbejdere og beboere)",
+		"danish": "Bygningsbelægning (arbejdere og indbyggere)",
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1614,7 +1614,7 @@
 		"thai": "พลังงาน",
 		"turkish": "Elektrik",
 		"romanian": "Energie",
-		"danish": "Strøm",
+		"danish": "Elektricitet",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1836,7 +1836,7 @@
 		"thai": "การขุด %resourceName% ได้ %amount% ต่อนาที",
 		"turkish": "Dakikada %amount% adet %resourceName% kazılıyor",
 		"romanian": "Extrage %amount% %resourceName% pe minut",
-		"danish": "Udvinder %amount% %resourceName% per minut",
+		"danish": "Udvinder %amount% %resourceName% i minutet",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1857,7 +1857,7 @@
 		"thai": "จำนวนทั้งหมดที่ขุดได้จนถึงตอนนี้: %amount%",
 		"turkish": "Şimdiye kadar toplam kazılan: %amount%",
 		"romanian": "Suma totală extrasă până acum: %amount%",
-		"danish": "Total mængde udvindet indtil nu: %amount%",
+		"danish": "Total mængde udvundet indtil videre: %amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1962,7 +1962,7 @@
 		"thai": "",
 		"turkish": "Taşınmaya hazır göçmenler:",
 		"romanian": "Imigranți gata să se mute în:",
-		"danish": "Beboere klar til at flytte ind:",
+		"danish": "Indbyggere klar til at flytte ind:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -2004,7 +2004,7 @@
 		"thai": "ปรับปรุงแหล่งที่อยู่อาศัยของคุณเพื่อทำให้เมืองของคุณน่าสนใจสำหรับผู้มาใหม่",
 		"turkish": "Habitatları yüksleterek şehri yeni gelenler için daha çekici yap.",
 		"romanian": "Îmbunătățind habitatele vei face orașul atractiv pentru noii veniți.",
-		"danish": "Opgrader dine habitater, for at tiltrække nye beboere.",
+		"danish": "Opgrader dine habitater, for at tiltrække nye indbyggere.",
 	},
 	"low": {
 		"english": "Low",
@@ -2193,7 +2193,7 @@
 		"turkish": "Ürün",
 		"italian": "Risorsa",
 		"romanian": "Resursă",
-		"danish": "Produkt"
+		"danish": "Ressource"
 	},
 	"priority": {
 		"english": "Priority",
@@ -2235,7 +2235,7 @@
 		"turkish": "Şehir Seviyesi",
 		"italian": "Livello della Città",
 		"romanian": "Nivel de oraș",
-		"danish": "By Level",
+		"danish": "By Niveau",
 	},
 	"averageHabitatLevel": {
 		"english": "Average habitat level",
@@ -2250,7 +2250,7 @@
 		"hungarian": "Átlagos lakhely szint",
 		"romanian": "Nivel mediu de habitat",
 		"spanish": "Nivel de habitat Medio",
-		"danish": "Gennemsnitlig habitat level",
+		"danish": "Gennemsnitlig habitat niveau",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -2265,7 +2265,7 @@
 		"czech": "Požadovaná úroveň obydlí",
 		"romanian": "Nivelul de habitat necesar",
 		"spanish": "Nivel de habitat necesario",
-		"danish": "Krævet habitat level",
+		"danish": "Krævet habitat niveau",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -2403,7 +2403,7 @@
 		"hungarian": "Összes szállított termék: %amount%",
 		"romanian": "Mărfuri transportate în total: %amount%",
 		"spanish": "Total de material transportado %amount%",
-		"danish": "Total antal varer transporteret: %amount%",
+		"danish": "Total antal ressourcer transporteret: %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
