@@ -85,7 +85,7 @@
 		"arabic": "بؤرة حديد",
 		"turkish":"Demir Cehveri",
 		"romanian": "Minereu de fier",
-		"danish": "Jern Område",
+		"danish": "Jern Åre",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -107,7 +107,7 @@
 		"arabic": "بؤرة ألومنيوم",
 		"turkish":"Alüminyum Cehveri",
 		"romanian": "Minereu de aluminiu",
-		"danish": "Aluminium Område",
+		"danish": "Aluminium Åre",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -129,7 +129,7 @@
 		"arabic": "بؤرة يورانيوم",
 		"turkish":"",
 		"romanian": "Minereu de uraniu",
-		"danish": "Uran Område",
+		"danish": "Uran Åre",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -151,7 +151,7 @@
 		"arabic": "بؤرة إيريديوم",
 		"turkish":"İridyum Cehveri",
 		"romanian": "Minereu de iridiu",
-		"danish": "Iridium Område",
+		"danish": "Iridium Åre",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -261,7 +261,7 @@
 		"arabic": "بؤرة نحاس",
 		"turkish":"Bakır Cehveri",
 		"romanian": "Minereu de cupru",
-		"danish": "Kobber Område",
+		"danish": "Kobber Åre",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -305,7 +305,7 @@
 		"arabic": "شريحة إلكترونية",
 		"turkish":"Elektronik",
 		"romanian": "Electronică",
-		"danish": "Elektronik moduler",
+		"danish": "Elektronikmoduler",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -613,7 +613,7 @@
 		"arabic": "حزمة علم زرقاء",
 		"turkish":"Mavi Bilim Paketi",
 		"romanian": "Pachet albastru de știină",
-		"danish": "Blå Forskningspakke",
+		"danish": "Blå Videnskrystaller",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -635,7 +635,7 @@
 		"arabic": "حزمة علم خضراء",
 		"turkish":"Yeşil Bilim Paketi",
 		"romanian": "Pachet verde de știină",
-		"danish": "Grøn Forskningspakke",
+		"danish": "Grøn Videnskrystaller",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -657,7 +657,7 @@
 		"arabic": "حزمة علم صفراء",
 		"turkish":"Sarı Bilim Paketi",
 		"romanian": "Pachet galben de știină",
-		"danish": "Gul Forskningspakke",
+		"danish": "Gul Videnskrystaller",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -679,7 +679,7 @@
 		"arabic": "حزمة علم حمراء",
 		"turkish":"Kırmızı Bilim Paketi",
 		"romanian": "Pachet roșu de știină",
-		"danish": "Rød Forskningspakke",
+		"danish": "Rød Videnskrystaller",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -965,6 +965,6 @@
 		"arabic": "طاقة",
 		"turkish":"Elektrik",
 		"romanian": "Energie",
-		"danish": "Strøm",
+		"danish": "Elektricitet",
 	},
 }
