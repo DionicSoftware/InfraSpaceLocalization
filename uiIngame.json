@@ -39,7 +39,7 @@
 		"thai": "จำเป็นต้องใช้ %amount% MW",
 		"turkish": "Gerekli: %amount% MW",
 		"romanian": "Necesar: %amount% MW",
-		"danish": "Krævet: %amount% MW",
+		"danish": "Påkrævet: %amount% MW",
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -60,7 +60,7 @@
 		"thai": "พลังงานที่ใช้:",
 		"turkish": "Kullanılan elektrik",
 		"romanian": "Curent consumat:",
-		"danish": "Strøm brugt",
+		"danish": "Strøm Brugt:",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -81,7 +81,7 @@
 		"thai": "พลังงานที่ผลิตได้:",
 		"turkish": "Üretilen elektrik:",
 		"romanian": "Curent produs:",
-		"danish": "Strøm brugt",
+		"danish": "Strøm Produceret:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -102,7 +102,7 @@
 		"thai": "พื้นที่เก็บขาเข้าว่าง",
 		"turkish": "Gelen depo boş",
 		"romanian": "Depozit de intrare gol",
-		"danish": "Indgående lager er tomt",
+		"danish": "Indgående opbevaring tom",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -144,7 +144,7 @@
 		"thai": "พื้นที่เก็บขาออกเต็ม",
 		"turkish": "Hedef depo dolu",
 		"romanian": "Depozit de ieșire plin",
-		"danish": "Udgående lager er fyldt",
+		"danish": "Udgående opbevaring fyldt",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -249,7 +249,7 @@
 		"thai": "คุณมาถึงสูงสุดของระดับเมืองแล้ว ยินดีด้วย!",
 		"turkish": "En yüksek şehir seviyesine ulaştınız. Tebrikler!",
 		"romanian": "Ai atins cel mai înalt nivel de oraș. Felicitări!",
-		"danish": "Du har nået det højeste by level. Tilykke!",
+		"danish": "Du har nået det højeste by level. Stærkt Gået!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -270,7 +270,7 @@
 		"thai": "เมืองของคุณจะถูกลดระดับเป็น \"%cityLevelName%\" หากคุณยังมีพลเมืองน้อยกว่า %amount% ระดับ %level%",
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
-		"danish": "din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% level %level% beboere.",
+		"danish": "Din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% level %level% beboere.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -438,7 +438,7 @@
 		"thai": "วิจัยเสร็จแล้ว!",
 		"turkish": "Araştırma tamamlandı!",
 		"romanian": "Cercetare finalizată!",
-		"danish": "Forskning udført!",
+		"danish": "Forskning Færdig!",
 	},
 	"production": {
 		"english": "Production",
@@ -564,7 +564,7 @@
 		"thai": "จัดลำดับความสำคัญ",
 		"turkish": "Önceliğe Al",
 		"romanian": "Prioritizează",
-		"danish": "Prioritering",
+		"danish": "Prioriter",
 	},
 	"price": {
 		"english": "Price",
@@ -1049,7 +1049,7 @@
 		"thai": "พลังงานไม่เพียงพอ:",
 		"turkish": "Yetersiz elektrik:",
 		"romanian": "Energie insuficientă:",
-		"danish": "Ikke nok strøm:",
+		"danish": "Ikke nok Strøm:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
