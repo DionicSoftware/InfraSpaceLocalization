@@ -38,7 +38,7 @@
 		  "hungarian": "Ezen alkalmazkodott lapátok kissebb ellenszelet hagynak. Így közelebb lehet őket helyezni egymáshoz ennyivel: %amount%.",
 		  "thai": "ใบพัดดัดแปลงช่วยลดการรบกวนในอากาศ กังหันลมสามารถวางชิดกันได้ %amount%% เครื่อง",
 		  "turkish":"Uyum sağlamış türbin kanatları hava akımını daha az etkiler. Türbinler %%amount% daha yakın konulabilir.",
-		  "danish":"Tilpassede vinger forårsager mindre forstyrrelser i luften. Vindmøller kan placeres %amount%% tættere på hinanden.",
+		  "danish":"Forbedret vinger giver mindre forstyrrelser i luften. Vindmøller kan placeres %amount%% tættere på hinanden.",
 	  	  "romanian": "Lamele adaptate creează mai puține perturbări în aer. Turbinele eoliene pot fi plasate cu %amount%% mai aproape una de alta.",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
@@ -59,7 +59,7 @@
 		  "hungarian": "Öntisztító napelemek",
 		  "thai": "แผงโซลาร์เซลล์ทำความสะอาดตัวเอง",
 		  "turkish":"Kendini Temizleyen Güneş Panelleri",
-		  "danish":"Selv-rengørende Solcellepaneler",
+		  "danish":"Selv-rensende Solcellepaneler",
 	  	  "romanian": "Panouri solare cu autocurățare",
 	  },
 	  "upgradeDesc_selfCleaningSolarPanels":  {
@@ -80,7 +80,7 @@
 		  "hungarian": "Az öntisztító napelemek megnövelik az energiaelőállítást ennyivel: %amount%.",
 		  "thai": "แผงทำความสะอาดตัวเองช่วยเพิ่มกำลังไฟฟ้าส่งออกได้ %amount%% หน่วย",
 		  "turkish":"Kendini temizleyen paneller %%amount% daha fazla enerji üretirler.",
-		  "danish":"Selv-rengørende paneler forbedre genereret strøm med %amount%%.",
+		  "danish":"Selv-rensende paneler forbedre strømmængden med %amount%%.",
 	  	  "romanian": "Panourile cu autocurățare îmbunătățesc puterea de ieșire cu %amount%%.",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
@@ -248,7 +248,7 @@
 		  "hungarian": "A jobb eszközök megnövelik a termelést ennyivel: %amount%.",
 		  "thai": "เครื่องมือที่ดีกว่านำไปสู่การผลิตที่เพิ่มขึ้นโดยเพิ่มขึ้นจำนวน %amount%% หน่วย",
 		  "turkish":"Geliştirilmiş aletler üretimi %%amount% arttırır.",
-		  "danish":"Bedre værktøj leder til øget produktion med %amount%%.",
+		  "danish":"Bedre værktøj øger produktionen med %amount%%.",
 	  	  "romanian": "Uneltele mai bune duc la creșterea producției cu %amount%%.",
 	  },
 	  "upgradeDurabilityTooltipTitle":  {
