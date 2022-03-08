@@ -17,7 +17,7 @@
 		  "hungarian": "Fejlesztett szélerőmű lapátok",
 		  "thai": "ปรับปรุงใบพัดกังหันลม",
 		  "turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
-		  "danish":"Forbedret Vindmølle Vinger",
+		  "danish":"Forbedret Vindmøllevinger",
 	  	  "romanian": "Palete îmbunătățite ale turbinei eoliene",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
@@ -80,7 +80,7 @@
 		  "hungarian": "Az öntisztító napelemek megnövelik az energiaelőállítást ennyivel: %amount%.",
 		  "thai": "แผงทำความสะอาดตัวเองช่วยเพิ่มกำลังไฟฟ้าส่งออกได้ %amount%% หน่วย",
 		  "turkish":"Kendini temizleyen paneller %%amount% daha fazla enerji üretirler.",
-		  "danish":"Selv-rensende paneler forbedre strømmængden med %amount%%.",
+		  "danish":"Selv-rensende paneler forbedre elektricitets mængden med %amount%%.",
 	  	  "romanian": "Panourile cu autocurățare îmbunătățesc puterea de ieșire cu %amount%%.",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
