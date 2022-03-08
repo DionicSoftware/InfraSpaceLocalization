@@ -53,3 +53,7 @@ Turkish
 
 Romanian
 - Marcel Buian
+
+Danish
+- Søren Pedersen (LordFitter)
+- Chris Corfitsen (Corfitsen)

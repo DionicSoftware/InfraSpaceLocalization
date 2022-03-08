@@ -19,6 +19,7 @@
 		"arabic": "رمل",
 		"turkish":"Kum",
 		"romanian": "Nisip",
+		"danish": "Sand",
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
@@ -40,6 +41,7 @@
 		"arabic": "كبريت",
 		"turkish":"Sülfür",
 		"romanian": "Sulf",
+		"danish": "Svovl",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -61,6 +63,7 @@
 		"arabic": "خرسانة",
 		"turkish":"Beton",
 		"romanian": "Beton",
+		"danish": "Beton",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -82,6 +85,7 @@
 		"arabic": "بؤرة حديد",
 		"turkish":"Demir Cehveri",
 		"romanian": "Minereu de fier",
+		"danish": "Jern Område",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -103,6 +107,7 @@
 		"arabic": "بؤرة ألومنيوم",
 		"turkish":"Alüminyum Cehveri",
 		"romanian": "Minereu de aluminiu",
+		"danish": "Aluminium Område",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -124,6 +129,7 @@
 		"arabic": "بؤرة يورانيوم",
 		"turkish":"",
 		"romanian": "Minereu de uraniu",
+		"danish": "Uran Område",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -145,6 +151,7 @@
 		"arabic": "بؤرة إيريديوم",
 		"turkish":"İridyum Cehveri",
 		"romanian": "Minereu de iridiu",
+		"danish": "Iridium Område",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -166,6 +173,7 @@
 		"arabic": "أدامانتين",
 		"turkish":"Adamantin Cehveri",
 		"romanian": "Adamantin",
+		"danish": "Adamantine",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -187,6 +195,7 @@
 		"arabic": "كاربون",
 		"turkish":"Karbon",
 		"romanian": "Carbon",
+		"danish": "Kulstof",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -208,6 +217,7 @@
 		"arabic": "أنابيب فائقة الصغر",
 		"turkish":"Nanotüpler",
 		"romanian": "Nanotuburi",
+		"danish": "Nanorør",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -229,6 +239,7 @@
 		"arabic": "صلب",
 		"turkish":"Çelik",
 		"romanian": "Oţel",
+		"danish": "Stål",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -250,6 +261,7 @@
 		"arabic": "بؤرة نحاس",
 		"turkish":"Bakır Cehveri",
 		"romanian": "Minereu de cupru",
+		"danish": "Kobber Område",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -271,6 +283,7 @@
 		"arabic": "محرك",
 		"turkish":"Motor",
 		"romanian": "Motor",
+		"danish": "Motor",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -292,6 +305,7 @@
 		"arabic": "شريحة إلكترونية",
 		"turkish":"Elektronik",
 		"romanian": "Electronică",
+		"danish": "Elektronik moduler",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -313,6 +327,7 @@
 		"arabic": "أجهزة منزلية",
 		"turkish":"Ev Aletleri",
 		"romanian": "Electrocasnice",
+		"danish": "Hvidevarer",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -334,6 +349,7 @@
 		"arabic": "شريحة دقيقة",
 		"turkish":"Mikroçip",
 		"romanian": "Microcip",
+		"danish": "Mikrochip",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -355,6 +371,7 @@
 		"arabic": "معالج عصبي",
 		"turkish":"Nöronsal İşlemci",
 		"romanian": "Procesor neuronal",
+		"danish": "Neural Processor",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -376,6 +393,7 @@
 		"arabic": "حاسوب",
 		"turkish":"Bilgisayar",
 		"romanian": "Calculator",
+		"danish": "Computer",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -397,6 +415,7 @@
 		"arabic": "روبوت منزلي",
 		"turkish":"Ev Robotu",
 		"romanian": "Robot de casă",
+		"danish": "Hjemmerobot",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -418,6 +437,7 @@
 		"arabic": "روبوت صناعي",
 		"turkish":"Endistriyel Robot",
 		"romanian": "Robot industrial",
+		"danish": "Industrirobot",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -439,6 +459,7 @@
 		"arabic": "أدوات عالية التقنية",
 		"turkish":"Yüksek Teknoloji Robot",
 		"romanian": "Instrument de înaltă tehnologie",
+		"danish": "Højteknologisk Værktøj",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -460,6 +481,7 @@
 		"arabic": "شاشات عرض ثلاثية الأبعاد",
 		"turkish":"Holo-Ekran",
 		"romanian": "Afișare Holografică",
+		"danish": "Holo-Skærm",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -481,6 +503,7 @@
 		"arabic": "وسيلة تعليم بالواقع الافتراضي",
 		"turkish":"VR Eğitim-Eğlence",
 		"romanian": "Educație în Realitatea-Virtuală",
+		"danish": "VR-Edutainment",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -502,6 +525,7 @@
 		"arabic": "سبيكة إيريديوم",
 		"turkish":"İridyum Alaşımı",
 		"romanian": "Aliaj de iridiu",
+		"danish": "Iridiumlegering",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -523,6 +547,7 @@
 		"arabic": "إيريديوم دافع",
 		"turkish":"İridyum İtici",
 		"romanian": "Propulsor de iridiu",
+		"danish": "Iridium Drivmiddel",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -544,6 +569,7 @@
 		"arabic": "وحدة تحكم بالذكاء الاصطناعي",
 		"turkish":"AI Kontrol Ünitesi",
 		"romanian": "Unitate de control în inteligență artificială",
+		"danish": "AI Styreendhed",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -565,6 +591,7 @@
 		"arabic": "قلب الإشعاع",
 		"turkish":"Radyasyon Çekirdeği",
 		"romanian": "Miez de radiație",
+		"danish": "Kernekraft",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -586,6 +613,7 @@
 		"arabic": "حزمة علم زرقاء",
 		"turkish":"Mavi Bilim Paketi",
 		"romanian": "Pachet albastru de știină",
+		"danish": "Blå Forskningspakke",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -607,6 +635,7 @@
 		"arabic": "حزمة علم خضراء",
 		"turkish":"Yeşil Bilim Paketi",
 		"romanian": "Pachet verde de știină",
+		"danish": "Grøn Forskningspakke",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -628,6 +657,7 @@
 		"arabic": "حزمة علم صفراء",
 		"turkish":"Sarı Bilim Paketi",
 		"romanian": "Pachet galben de știină",
+		"danish": "Gul Forskningspakke",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -649,6 +679,7 @@
 		"arabic": "حزمة علم حمراء",
 		"turkish":"Kırmızı Bilim Paketi",
 		"romanian": "Pachet roșu de știină",
+		"danish": "Rød Forskningspakke",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -670,6 +701,7 @@
 		"arabic": "أوكسجين",
 		"turkish":"Oksijen",
 		"romanian": "Oxigen",
+		"danish": "Ilt",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -691,6 +723,7 @@
 		"arabic": "سماد",
 		"turkish":"Gübre",
 		"romanian": "Îngrăşământ",
+		"danish": "Gødning",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -712,6 +745,7 @@
 		"arabic": "خضروات",
 		"turkish":"Sebzeler",
 		"romanian": "Legume",
+		"danish": "Grøntsager",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -733,6 +767,7 @@
 		"arabic": "لحوم",
 		"turkish":"Et",
 		"romanian": "Carne",
+		"danish": "Kød",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -754,6 +789,7 @@
 		"arabic": "وجبة جيدة",
 		"turkish":"İyi Öğün",
 		"romanian": "Mâncare decentă",
+		"danish": "Gourmet Mad",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -775,6 +811,7 @@
 		"arabic": "طعام نجاة",
 		"turkish":"Hayatta Kalma Öğünü",
 		"romanian": "Mâncare de supraviețuire",
+		"danish": "Hverdags Mad",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -796,6 +833,7 @@
 		"arabic": "حديقة",
 		"turkish":"Park",
 		"romanian": "Parc",
+		"danish": "Park",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -817,6 +855,7 @@
 		"arabic": "ثقافة",
 		"turkish":"Kültür",
 		"romanian": "Cultură",
+		"danish": "Kultur",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -838,6 +877,7 @@
 		"arabic": "مدرسة",
 		"turkish":"Okul",
 		"romanian": "Școală",
+		"danish": "Skole",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -859,6 +899,7 @@
 		"arabic": "سيارة",
 		"turkish":"Araba",
 		"romanian": "Mașină",
+		"danish": "Bil",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -880,6 +921,7 @@
 		"arabic": "مواطن",
 		"turkish":"Vatandaş",
 		"romanian": "Cetăţean",
+		"danish": "Beboer",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -901,6 +943,7 @@
 		"arabic": "مواطن",
 		"turkish":"Vatandaş",
 		"romanian": "Cetăţean",
+		"danish": "Beboer",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -922,5 +965,6 @@
 		"arabic": "طاقة",
 		"turkish":"Elektrik",
 		"romanian": "Energie",
+		"danish": "Strøm",
 	},
 }

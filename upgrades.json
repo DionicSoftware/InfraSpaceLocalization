@@ -38,7 +38,7 @@
 		  "hungarian": "Ezen alkalmazkodott lapátok kissebb ellenszelet hagynak. Így közelebb lehet őket helyezni egymáshoz ennyivel: %amount%.",
 		  "thai": "ใบพัดดัดแปลงช่วยลดการรบกวนในอากาศ กังหันลมสามารถวางชิดกันได้ %amount%% เครื่อง",
 		  "turkish":"Uyum sağlamış türbin kanatları hava akımını daha az etkiler. Türbinler %%amount% daha yakın konulabilir.",
-		  "danish":"Tilpassede vinger forårsager mindre forstyrrelser i luften. Vindmøller kan placeres %amount%% tættere på hinanden.",
+		  "danish":"Forbedret vinger giver mindre forstyrrelser i luften. Vindmøller kan placeres %amount%% tættere på hinanden.",
 	  	  "romanian": "Lamele adaptate creează mai puține perturbări în aer. Turbinele eoliene pot fi plasate cu %amount%% mai aproape una de alta.",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
@@ -59,7 +59,7 @@
 		  "hungarian": "Öntisztító napelemek",
 		  "thai": "แผงโซลาร์เซลล์ทำความสะอาดตัวเอง",
 		  "turkish":"Kendini Temizleyen Güneş Panelleri",
-		  "danish":"Selv-rengørende Solcellepaneler",
+		  "danish":"Selv-rensende Solcellepaneler",
 	  	  "romanian": "Panouri solare cu autocurățare",
 	  },
 	  "upgradeDesc_selfCleaningSolarPanels":  {
@@ -80,7 +80,7 @@
 		  "hungarian": "Az öntisztító napelemek megnövelik az energiaelőállítást ennyivel: %amount%.",
 		  "thai": "แผงทำความสะอาดตัวเองช่วยเพิ่มกำลังไฟฟ้าส่งออกได้ %amount%% หน่วย",
 		  "turkish":"Kendini temizleyen paneller %%amount% daha fazla enerji üretirler.",
-		  "danish":"Selv-rengørende paneler forbedre genereret strøm med %amount%%.",
+		  "danish":"Selv-rensende paneler forbedre strømmængden med %amount%%.",
 	  	  "romanian": "Panourile cu autocurățare îmbunătățesc puterea de ieșire cu %amount%%.",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
@@ -101,7 +101,7 @@
 		  "hungarian": "Ipari újrahasznosítás",
 		  "thai": "การรีไซเคิลขยะจากอุตสาหกรรม",
 		  "turkish":"Endüstriyel Atık Geri Dönüşümü",
-		  "danish":"Genanvendelse af industriaffald",
+		  "danish":"Genanvendelse af industri affald",
 	  	  "romanian": "Reciclarea deșeurilor industriale",
 	  },
 	  "upgradeDesc_industrialWasteRecycling":  {
@@ -122,7 +122,7 @@
 		  "hungarian": "Ezen épület némi hulladéka újra lesz hasznosítva. Minden %amount%. kör után minden használt anyagot visszakap.",
 		  "thai": "ขยะจากอุตสาหกรรมบางส่วนของอาคารหลังนี้ถูกนำไปรีไซเคิล ทุกๆ %amount% ชิ้น และจะได้รับทรัพยากรที่ใช้ไปคืนทั้งหมด",
 		  "turkish":"Bu binaın bazı atıkları geri dönüştürülür.Her %amount% seferde kullandığı tüm kaynakları geri alır.",
-		  "danish":"Noget af denne bygnings industrielle affald bliver genanvendt. For hver %amount% produktionsrunder, får bygningen alle de brugte ressourcer tilbage.",
+		  "danish":"Noget af denne bygnings industrielle affald bliver genanvendt. For hver %amount% produktionsrunde, får bygningen alle de brugte ressourcer tilbage.",
 	  	  "romanian": "O parte din deșeurile industriale ale acestei clădiri sunt reciclate. La fiecare %amount% runde, acesta primește înapoi toate resursele utilizate.",
 	  },
 	  "upgrade_soilEnrichment":  {
@@ -164,7 +164,7 @@
 		  "hungarian": "A talaj óvatosan elő lett készítve hogy %amount%%-kal több termést hozzon.",
 		  "thai": "หลังจากปุ๋ยหมักดินแล้วผลผลิตจะเพิ่มขึ้นอีก %amount%% จำนวน",
 		  "turkish":"Özenle hazırlanan toprak %%amount% daha fazla hasat verir.",
-		  "danish":"Jorden er blevet forsigtigt forberedt til at yde %amount% større høste.",
+		  "danish":"Jorden er nænsomt forberedt til at yde %amount% bedre høst.",
 	  	  "romanian": "Solul a fost pregătit cu grijă pentru a produce %amount%% recolte mai mari.",
 	  },
 	  "upgrade_industrialRobots":  {
@@ -185,7 +185,7 @@
 		  "hungarian": "Ipari robot",
 		  "thai": "หุ่นยนต์อุตสาหกรรม",
 		  "turkish":"Endüstriyel Robot",
-		  "danish":"Industriel Robot",
+		  "danish":"Industri Robot",
 	  	  "romanian": "Robot industrial",
 	  },
 	  "upgradeDesc_industrialRobots":  {
@@ -206,7 +206,7 @@
 		  "hungarian": "Az automatizálás csökkenti a munkaerő szűkségletet ennyivel: %amount% munkás(ok).",
 		  "thai": "ระบบอัตโนมัติจะช่วยลดความต้องการแรงงานของคุณลงได้ %amount% คน",
 		  "turkish":"Otomasyon sayesinde gerekli iş gücü %%amount% daha azalır.",
-		  "danish":"Automatisering reducerer antallet af nødvendig arbejdskraft med %amount% ansat(te).",
+		  "danish":"Automatisering reducerer antallet af nødvendig arbejdskraft med %amount% arbejder(e).",
 	  	  "romanian": "Automatizarea reduce cerințele de forță de muncă cu %amount% lucrători.",
 	  },
 	  "upgrade_highTechTools":  {
@@ -248,7 +248,7 @@
 		  "hungarian": "A jobb eszközök megnövelik a termelést ennyivel: %amount%.",
 		  "thai": "เครื่องมือที่ดีกว่านำไปสู่การผลิตที่เพิ่มขึ้นโดยเพิ่มขึ้นจำนวน %amount%% หน่วย",
 		  "turkish":"Geliştirilmiş aletler üretimi %%amount% arttırır.",
-		  "danish":"Bedre værktøj leder til øget produktion med %amount%%.",
+		  "danish":"Bedre værktøj øger produktionen med %amount%%.",
 	  	  "romanian": "Uneltele mai bune duc la creșterea producției cu %amount%%.",
 	  },
 	  "upgradeDurabilityTooltipTitle":  {
@@ -290,7 +290,7 @@
 		  "hungarian": "A 100%-os fejlesztés vadonat új, a 0%-os teljesen elhasznált. A fejlesztés addig aktív amíg 0% felett van.",
 		  "thai": "อัปเกรด 100% คือเครื่องใหม่ อัปเกรด 0% คือใช้มันจนหมด ผลกระทบของอัปเกรดจะใช้งานได้ตราบใดที่เปอร์เซ็นต์นั้นสูงกว่า 0",
 		  "turkish":"%100 olan bir yükseltme yeni, %0 olan ise bitikdir. Yükseltmenin etkisi yüzde 0 dan yüksek oldukca geçerlidir.",
-		  "danish":"En 100% opgradering er sprit-ny, en 0% opgradering er opbrugt. Effekten af opgraderingen er aktiv så længe procentsatsen er over 0.",
+		  "danish":"En 100% opgradering er sprit ny, en 0% opgradering er opbrugt. Effekten af opgraderingen er aktiv så længe procentsatsen er over 0.",
 	  	  "romanian": "Un upgrade 100% este nou-nouț, un upgrade 0% este tot epuizat. Efectul de upgrade este activ atâta timp cât procentul este peste 0.",
 	  },
   }
