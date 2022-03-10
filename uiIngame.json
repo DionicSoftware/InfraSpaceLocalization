@@ -354,7 +354,7 @@
 		"thai": "เราปลดล็อค %techName% แล้วและตอนนี้สามารถสร้างได้:",
 		"turkish": "%techName% araştırması bitti ve artık inşa edilebilir:",
 		"romanian": "Am deblocat %techName% și acum putem construi:",
-		"danish": "Vi har åbnet for %techName% og kan nu bygge:",
+		"danish": "Vi har åbnet for %techName% og du kan nu bygge:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
