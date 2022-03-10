@@ -85,7 +85,7 @@
 		"arabic": "بؤرة حديد",
 		"turkish":"Demir Cehveri",
 		"romanian": "Minereu de fier",
-		"danish": "Jern Åre",
+		"danish": "Jern",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -107,7 +107,7 @@
 		"arabic": "بؤرة ألومنيوم",
 		"turkish":"Alüminyum Cehveri",
 		"romanian": "Minereu de aluminiu",
-		"danish": "Aluminium Åre",
+		"danish": "Aluminium",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -129,7 +129,7 @@
 		"arabic": "بؤرة يورانيوم",
 		"turkish":"",
 		"romanian": "Minereu de uraniu",
-		"danish": "Uran Åre",
+		"danish": "Uran",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -151,7 +151,7 @@
 		"arabic": "بؤرة إيريديوم",
 		"turkish":"İridyum Cehveri",
 		"romanian": "Minereu de iridiu",
-		"danish": "Iridium Åre",
+		"danish": "Iridium",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -261,7 +261,7 @@
 		"arabic": "بؤرة نحاس",
 		"turkish":"Bakır Cehveri",
 		"romanian": "Minereu de cupru",
-		"danish": "Kobber Åre",
+		"danish": "Kobber",
 	},
 	"resource_motor": {
 		"english": "Motor",
