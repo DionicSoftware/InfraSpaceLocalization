@@ -16,9 +16,10 @@
     "japanese": "農業",
     "hungarian": "Mezőgazdaság",
     "thai": "เกษตรกรรม",
-		"arabic": "زراعة",
+	  "arabic": "زراعة",
 	  "turkish":"Tarım",
-    "romanian": "Agricultură",
+	  "romanian": "Agricultură",
+	  "danish": "Landbrug",
   },
   "tech_electronics": {
     "english": "Electronics",
@@ -40,6 +41,7 @@
 		"arabic": "إلكترونيات",
 	  "turkish":"Elektronik",
     "romanian": "Electronică",
+	   "danish": "Elektronikmoduler",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -51,16 +53,19 @@
     "chinese": "钢铁冶炼",
     "italian": "Produzione di Acciaio",
     "polish": "Produkcja stali",
-    "czech": "Produkce oceli",
-    "ukrainian": "Виробництво сталі",
-    "slovak": "Výroba ocele",
-    "portuguese": "Produção de aço",
-    "japanese": "鉄鋼生産",
-    "hungarian": "Fémtermelés",
-    "thai": "การผลิตเหล็กกล้า",
-		"arabic": "إنتاج الصلب",
+    	"czech": "Produkce oceli",
+    	"ukrainian": "Виробництво сталі",
+    	"slovak": "Výroba ocele",
+    	"portuguese": "Produção de aço",
+    	"japanese": "鉄鋼生産",
+    	"hungarian": "Fémtermelés",
+    	"thai": "การผลิตเหล็กกล้า",
+	"arabic": "إنتاج الصلب",
 	  "turkish":"Çelik Üretimi",
-    "romanian": "Producție de oțel",
+    	"romanian": "Producție de oțel",
+	"danish": "Stålproduktion",
+	  
+	  
   },
   "tech_science2": {
     "english": "Green Science",
@@ -82,6 +87,7 @@
 		"arabic": "علم أخضر",
 	  "turkish":"Yeşil Bilim",
     "romanian": "Știință verde",
+	   "danish": "Grøn Videnskrystal",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -103,6 +109,7 @@
 		"arabic": "أجهزة منزلية",
 	  "turkish":"Ev ALeti",
     "romanian": "Electrocasnice",
+	   "danish": "Hvidevarer",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -124,6 +131,7 @@
 		"arabic": "خلايا طاقة شمسية",
 	  "turkish":"Güneş Paneli",
     "romanian": "Panouri solare",
+	  "danish": "Solceller",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -145,6 +153,7 @@
 		"arabic": "شفرات محسنة لمولد طاقة الرياح",
 	  "turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
     "romanian": "Palete îmbunătățite ale turbinei eoliene",
+	  "danish": "Forbedret vindmøllevinger",
   },
   "techDesc_improvedWindTurbineBlades": {
     "english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -166,6 +175,8 @@
 		"arabic": "ملائمة شكل شفرات مولد طاقة الرياح لحركة الهواء. ينتج عن هذا إضطرابات هواء أقل، ما يسمح لك ببناء مولدات طاقة رياح أقرب إلى بعضهم البعض.",
 	  "turkish":"Türbin kanatlarının atmosfere uyum sağlamasını sağlar. Bu havada daha az kargaşaya sebep olup türbinleri daha yakın koymayı mümkün kılar.",
     "romanian": "Adaptează forma palelor turbinei eoliene la atmosferă. Acest lucru duce la o perturbare mai mică în aer, ceea ce îți permite să construiești turbine eoliene mai aproape una de cealaltă.",
+	    "danish": "Tilpasser vindmøllevingernes form til atmosfæren. Dette fører til lavere forstyrrelser i luften, som lader dig bygge vindmøller tættere på hinanden.",
+	  
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -187,6 +198,7 @@
     "arabic": "طرق إسمنتية",
      "turkish":"Beton Yollar",
     "romanian": "Drumuri de beton",
+	   "danish": "Betonveje",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -208,6 +220,7 @@
     "arabic": "تنجيم عن الألومنيوم",
     "turkish":"Alüminyum Kazısı",
     "romanian": "Exploatarea aluminiului",
+	   "danish": "Udvinding af aluminium",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -229,6 +242,7 @@
     "arabic": "محطات طاقة فرعية",
 	  "turkish":"Elektrik Trafo Merkezi",
     "romanian": "Substații electrice",
+	   "danish": "Strømforsyningsstationer",
   },
   "techDesc_powerSubstation": {
     "english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -250,6 +264,8 @@
     "arabic": "استخدم محطات الطاقة الفرعية في شبكة الطاقة الخاصة بك لكي لا تحتاج إلى تزويد كل مبنى بأعمدة طاقة.",
     "turkish": "Güç ağınıza trafo merkezleri eklemek her binaya elektrik direği ile elektrik sağlama zorunluluğunu kaldırır.",
     "romanian": "Integrează substații în rețeaua ta de energie, astfel încât să nu fie nevoie să alimentezi fiecare clădire cu stâlpi de curent.",
+	  "danish": "Integrer understationer i dit elektricitetnetværk, så du ikke behøver at forsyne enhver bygning med elmaster.",
+	  
   },
   "tech_motors": {
     "english": "Motors",
@@ -271,6 +287,7 @@
     "arabic": "محركات",
     "turkish": "Motorlar",
     "romanian": "Motoare",
+	  "danish": "Motorer",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -292,6 +309,7 @@
     "arabic": "طريق رباعي الحارات",
     "turkish": "Dört Şeritli Yollar",
     "romanian": "Drumuri cu patru benzi",
+	  "danish": "Firesporet vej",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -313,6 +331,7 @@
     "arabic": "طريق اتجاه واحد",
     "turkish":"Tek Yönlü Yollar",
     "romanian": "Drumuri cu sens unic",
+	  "danish": "Ensrettet vej",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -334,6 +353,8 @@
     "arabic": "مباني كبيرة",
     "turkish":"Büyük Binalar",
     "romanian": "Clădiri mari",
+	  "danish": "Store bygninger",
+	  
   },
   "tech_computers": {
     "english": "Computers",
@@ -355,6 +376,8 @@
     "arabic": "حواسيب",
     "turkish":"Bilgisayarlar",
     "romanian": "Calculatoare",
+	  "danish": "Computer",
+	  
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -376,6 +399,7 @@
     "arabic": "مناجم كبيرة",
     "turkish":"Büyük Madenler",
     "romanian": "Mine mari",
+	  "danish": "Store miner",
   },
   "techDesc_largeMines": {
     "english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -397,6 +421,8 @@
     "arabic": "زد من سرعة استخراج الموارد لتشبع جوع مدينتك المتنامية.",
     "turkish":"Maden üretimini arttırıp büyümekde olan şehrinizin ihtiyaçlarını karşılayın.",
     "romanian": "Accelerează extracția resurselor pentru a hrăni foamea orașului tău în creștere.",
+	  "danish": "Fremskynd ressourceudvindingen for at mætte efterspørgelsen i din voksende by.",
+	  
   },
   "tech_foodProcessing": {
     "english": "Food Processing",
@@ -418,6 +444,7 @@
     "arabic": "تصنيع الطعام",
     "turkish":"Besin İşleme",
     "romanian": "Prelucrare alimentară",
+	"danish": "Fødevareforarbejdning",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -439,6 +466,7 @@
     "arabic": "سماد",
 	  "turkish":"Gübre",
     "romanian": "Îngrăşământ",
+	  "danish": "Gødning",
   },
   "techDesc_fertilizer": {
     "english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -460,6 +488,7 @@
     "arabic": "زود المزارع المحيطة بتربة غنية بالأسمدة لتزيد من إنتاجيتها.",
 	  "turkish":"Yakındaki tarlalara gübrelenmiş toprak sağlayıp üretim oranlarını önemli miktarda arttırın.",
     "romanian": "Furnizează pământ fertilizat fermelor din apropiere și crește producția lor în mod semnificativ.",
+	  "danish": "Lever gødet jord til nærliggende gårde og øg deres produktion betydeligt.",
   },
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -481,6 +510,7 @@
     "arabic": "أنابيب كاربونية متناهية الصغر",
 	  "turkish":"Karbon Nanotüpler",
     "romanian": "Nanotuburi de carbon",
+	  "danish": "Kulstof Nanorør",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -502,6 +532,7 @@
     "arabic": "ألواح طاقة شمسية ذاتية التنظيف",
 	  "turkish":"Kendini Temizleyen Güneş Panelleri",
     "romanian": "Panouri solare cu autocurățare",
+	  "danish": "Selvrensende Solceller",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -523,6 +554,7 @@
     "arabic": "إذا كانت ألواح الطاقة الشمسية تنظف نفسها بنفسها، فإن محطات توليد الطاقة الشمسية الخاصة بك ستنتج طاقة أكثر بكثير.",
 	  "turkish":"Güneş panelleri kendilerini temizleyince ürettikleri enerji miktarı çok daha artar.",
     "romanian": "Odată ce panourile solare se curăță, centralele solare vor genera mult mai multă energie.",
+	  "danish": "Når først dine solpaneler renser sig selv, vil dine solcelleanlæg generere meget mere elektricitet.",
   },
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -544,6 +576,7 @@
     "arabic": "طريق سداسي الحارات",
 	  "turkish":"Altı Şeritli Yollar",
     "romanian": "Drumuri cu șase benzi",
+	  "danish": "6 sporet vej",
   },
   "tech_stadiums": {
     "english": "Stadiums",
@@ -565,6 +598,7 @@
     "arabic": "ملاعب",
 	  "turkish":"Stadyumlar",
     "romanian": "Stadioane",
+	  "danish": "Stadions",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -586,6 +620,7 @@
     "arabic": "معالجات عصبية",
 	  "turkish":"Nöral İşlemciler",
     "romanian": "Procesoare neuronale",
+	  "danish": "Neural Processorere",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -607,6 +642,7 @@
     "arabic": "علم أصفر",
 	  "turkish":"Sarı Bilim",
     "romanian": "Știință galbenă",
+	  "danish": "Gul Videnskabskrystal",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -628,6 +664,7 @@
     "arabic": "تعدين اليورانيوم",
 	  "turkish":"Uranyum Kazısı",
     "romanian": "Exploatarea uraniului",
+	  "danish": "Uran Udvinding",
   },
   "tech_highways": {
     "english": "Highways",
@@ -647,31 +684,46 @@
     "hungarian": "Autópályák",
     "thai": "ทางหลวง",
     "arabic": "طرق سريعة",
-	  "turkish":"Otoyollar",
+    "turkish":"Otoyollar",
     "romanian": "Autostrăzi",
+	  "danish": "Motorveje",
   },
   "tech_trains": {
     "english": "Trains",
     "german": "Züge",
-		"french": "Trains",
+	  "french": "Trains",
+	  "spanish": "Trenes",
     "russian": "Поезда",
 	  "turkish":"Trenler", 
 	  "italian": "Treni",
-	  "czech": "Vlaky",
+    "czech": "Vlaky",
     "hungarian": "Vonatok",
     "romanian": "Trenuri",
+    "thai": "รถไฟ",
+    "polish": "Kolej",
+	  "danish": "Tog",
   },
   "tech_highSpeedRail": {
     "english": "High Speed Rail",
     "german": "Hochgeschwindigkeitsschienen",
     "french": "Trains à grande vitesse",
+	  "spanish": "Trenes de alta velocidad",
     "italian": "Ferrovia ad alta velocità",
+    "thai": "รถไฟความเร็วสูง",
+    "polish": "Szybka kolej",
+    "czech": "Vysokorychlostní trať",
+	  "danish": "Højhastigheds skinner",
   },
   "tech_lightningRail": {
     "english": "Lightning Rails",
     "german": "Blitz-Schienen",
     "french": "Trains supersoniques",
+	  "spanish": "Trenes supersónicos",
     "italian": "Ferrovia Supersonica",
+    "thai": "รถไฟสายฟ้า",
+    "polish": "Ultraszybka kolej",
+    "czech": "Ultra-rychlá trať",
+	  "danish": "Lynhastigheds skinner",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -693,6 +745,7 @@
     "arabic": "طرق فائقة السرعة",
 	  "turkish":"Süper Otoyollar",
     "romanian": "Super-autostrăzi",
+	  "danish": "Lynmotorveje",
   },
   "tech_homeRobots": {
     "english": "Home Robots",
@@ -714,6 +767,7 @@
     "arabic": "روبوتات منزلية",
 	  "turkish":"Evsel Robotlar",
     "romanian": "Roboți de casă",
+	  "danish": "Hjemmerobotter",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -735,6 +789,7 @@
     "arabic": "روبوتات صناعية",
 	  "turkish":"Endüstriyel Robotlar",
     "romanian": "Roboți industriali",
+	  "danish": "Industrirobotter",
   },
   "techDesc_industrialRobots": {
     "english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -756,6 +811,7 @@
     "arabic": "زود مصانعك بروبوتات صناعية لتقليل عدد العمال المطلوب.",
 	  "turkish":"Fabrikalarınıza endüstriyel robotlar sağlayıp gerekli çalışan sayısını azaltın.",
     "romanian": "Furnizează fabricile cu roboți industriali pentru a reduce numărul de muncitori necesari în fiecare clădire.",
+	  "danish": "Forsyn dine fabrikker med industrirobotter for at skære ned på antallet af efterspurgte arbejdere.",
   },
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -777,6 +833,7 @@
     "arabic": "مصفي الجسيمات",
 	  "turkish":"Partikül Filtresi",
     "romanian": "Filtru de particule",
+	  "danish": "Partikel Filter",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -798,6 +855,8 @@
     "arabic": "طاقة نووية",
 	  "turkish":"Nükleer Enerji",
     "romanian": "Energie nucleară",
+	  "danish": "Atomkraft",
+	  
   },
   "tech_schools": {
     "english": "Schools",
@@ -819,6 +878,8 @@
     "arabic": "مدارس",
 	  "turkish":"Okullar",
     "romanian": "Școli",
+	   "danish": "Skole",
+	  
   },
   "tech_iridiumMining": {
     "english": "Iridium Mining",
@@ -840,6 +901,7 @@
     "arabic": "تعدين الإيريديوم",
 	  "turkish":"İridyum Kazısı",
     "romanian": "Exploatarea Iridiului",
+	   "danish": "Iridium Udvinding",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -861,6 +923,8 @@
     "arabic": "إعادة التدوير",
 	  "turkish":"Geri Dönüşüm",
     "romanian": "Reciclare",
+	  "danish": "Genbrug",
+	  
   },
   "techDesc_recycling": {
     "english": "Lower your resource consumption by processing industrial waste in nearby factories.",
@@ -882,6 +946,7 @@
     "arabic": "قلل من استهلاكك للموارد عن طريق معالجة المخلفات الصناعية في المصانع المحيطة.",
 	  "turkish":"Yakınlardaki fabrikaların atıklarını işleyerek materyal kullanımını azaltın.",
     "romanian": "Reduce consumul de resurse prin procesarea deșeurilor industriale în fabricile din apropiere.",
+	  "danish": "Sænk dit ressourceforbrug ved at behandle industriaffald på nærliggende fabrikker.",
   },
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
     "english": "Holo-Displays",
@@ -903,6 +968,7 @@
     "arabic": "شاشات عرض ثلاثية الأبعاد",
 	  "turkish":"Holo-Ekran",
     "romanian": "Afișări holografice",
+	   "danish": "Holo-skærme",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -924,6 +990,8 @@
     "arabic": "ورشة عالية التقنية",
 	  "turkish":"Yüksek Teknoloji Atölye",
     "romanian": "Atelier de înaltă tehnologie",
+	   "danish": "Højteknologisk værksted",
+	  
   },
   "techDesc_highTechWorkshop": {
     "english": "Supply your factories with high tech tools in order to raise productivity.",
@@ -945,6 +1013,7 @@
     "arabic": "زود مصانعك بأدوات عالية التقنية لتزيد من إنتاجيتك.",
 	  "turkish":"Fabrikalarınızı gelişmiş teknolji aletlerle donatıp verimliliklerini arttırın",
     "romanian": "Furnizează fabricile cu instrumente de înaltă tehnologie pentru a crește productivitatea.",
+	     "danish": "Forsyn dine fabrikker med højteknologiske værktøjer for at øge produktiviteten.",
   },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
@@ -966,6 +1035,7 @@
     "arabic": "وحدات تحكم بالذكاء الاصطناعي",
 	  "turkish":"Yapay Zeka Kontrol Üniteleri",
     "romanian": "Unități de control în inteligență artificială",
+	   "danish": "AI kontrolenheder",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -987,6 +1057,8 @@
     "arabic": "إيريديوم دافع",
 	  "turkish":"İridyum İtici",
     "romanian": "Propulsor de iridiu",
+	     "danish": "Iridium drivmiddel",
+	  
   },
   "tech_fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1008,6 +1080,8 @@
     "arabic": "مفاعل نيوتروني سريع",
 	  "turkish":"Hızlı Nötron Reaktörü",
     "romanian": "Reactor rapid cu neutroni",
+	     "danish": "Hurtig neutronreaktor",
+	  
   },
   "tech_science4": {
     "english": "Red Science",
@@ -1029,6 +1103,8 @@
     "arabic": "علم أحمر",
 	  "turkish":"Kırmızı Bilim",
     "romanian": "Știință roșie",
+	   "danish": "Rød Videnskrystal",
+	  
   },
   "tech_adamantineMining": {
     "english": "Adamantine Mining",
@@ -1050,5 +1126,7 @@
     "arabic": "تعدين الأدامانتين",
 	  "turkish":"Adamantium Kazısı",
     "romanian": "Exploatarea de adamantin",
+	    "danish": "Adamantine minedrift",
+	  
   },
 }

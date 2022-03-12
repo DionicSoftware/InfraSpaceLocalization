@@ -21,6 +21,8 @@
 		"slovak": "Áno",
 		"hungarian": "Igen",
 		"thai": "ใช่",
+		"danish": "Ja",
+		"greek": "Ναι",
 	},
 	"no": {
 		"english": "No",
@@ -44,6 +46,8 @@
 		"slovak": "Nie",
 		"hungarian": "Nem",
 		"thai": "ไม่",
+		"danish": "Nej",
+		"greek": "Όχι",
 	},
 	"hours": {
 		"english": "hours",
@@ -65,6 +69,8 @@
 		"thai": "ชั่วโมง",
 		"turkish":"saat",
 		"romanian": "ore",
+		"danish": "timer",
+		"greek": "ώρες",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -86,6 +92,8 @@
 		"thai": "ชม",
 		"turkish":"s",
 		"romanian": "h",
+		"danish": "t",
+		"greek": "ω",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -109,6 +117,8 @@
 		"slovak": "minut",
 		"hungarian": "perc",
 		"thai": "นาที",
+		"danish": "minutter",
+		"greek": "λεπτά",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
@@ -130,6 +140,8 @@
 		"thai": "นาที",
 		"turkish":"dk",
 		"romanian": "min",
+		"danish": "min",
+		"greek": "λεπ",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
@@ -148,6 +160,8 @@
 		"russian": "м.",
 		"italian": "m",
 		"romanian": "m",
+		"danish": "m",
+		"greek": "λ",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -171,6 +185,8 @@
 		"slovak": "sekund",
 		"hungarian": "másodperc",
 		"thai": "วินาที",
+		"danish": "sekunder",
+		"greek": "δευτερόλεπτα",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -194,6 +210,8 @@
 		"slovak": "s",
 		"hungarian": "mp",
 		"thai": "วิ",
+		"danish": "s",
+		"greek": "δ",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -217,6 +235,8 @@
 		"slovak": "sek",
 		"hungarian": "mp",
 		"thai": "วินาที",
+		"danish": "sek",
+		"greek": "δευτ",
 	},
 	"days": { // used like "0.4 days"
 		"english": "days",
@@ -238,5 +258,7 @@
 		"slovak": "dní",
 		"hungarian": "nap",
 		"thai": "วัน",
+		"danish": "dage",
+		"greek": "μέρες",
 	},
 }
