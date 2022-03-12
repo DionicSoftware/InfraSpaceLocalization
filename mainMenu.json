@@ -22,6 +22,7 @@
 		"hungarian": "Új játék",
 		"thai": "เริ่มเกมใหม่",
 		"danish": "Nyt Spil",
+		"greek": "Νέο Παιχνίδι",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -45,6 +46,7 @@
 		"hungarian": "Mentés",
 		"thai": "บันทึกเกม",
 		"danish": "Gem Spil",
+		"greek": "Αποθήκευση Παιχνιδιού",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -68,6 +70,7 @@
 		"hungarian": "Betöltés",
 		"thai": "โหลดเกม",
 		"danish": "Indlæs Spil",
+		"greek": "Φόρτωση Παιχνιδιού",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -91,6 +94,7 @@
 		"hungarian": "Főmenü",
 		"thai": "เมนูหลัก",
 		"danish": "Hovedmenu",
+		"greek": "Κύριο Μενού",
 	},
 	"quit": {
 		"english": "Quit",
@@ -114,6 +118,7 @@
 		"hungarian": "Kilépés",
 		"thai": "ออก",
 		"danish": "Afslut",
+		"greek": "Έξοδος",
 	},
 	"back": {
 		"english": "Back",
@@ -125,7 +130,7 @@
 		"czech": "Zpět",
 		"spanish": "Atrás",
 		"danish": "Tilbage",
-		
+		"greek": "Πίσω",
 	},
 	"backToGame": {
 		"english": "Back to Game",
@@ -145,6 +150,7 @@
 		"czech": "Zpět do hry",
 		"spanish": "Volver al juego",
 		"danish": "Tilbage til spillet",
+		"greek": "Πίσω στο Παιχνίδι",
 	},
 	"website": {
 		"english": "Website",
@@ -168,6 +174,7 @@
 		"hungarian": "Weboldal",
 		"thai": "เว็บไซต์",
 		"danish": "Hjemmeside",
+		"greek": "Ιστοσελίδα",
 	},
 	"forum": {
 		"english": "Forum",
@@ -191,6 +198,7 @@
 		"hungarian": "Fórum",
 		"thai": "ฟอรั่ม",
 		"danish": "Forum",
+		"greek": "Φόρουμ",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -214,6 +222,7 @@
 		"hungarian": "Frissítés elérhető!",
 		"thai": "อัพเดทพร้อมใช้งาน!",
 		"danish": "Opdatering Tilgængelig",
+		"greek": "Αμαβάθμιση Διαθέσιμη!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -237,6 +246,7 @@
 		"hungarian": "Legújabb verzió letöltése",
 		"thai": "รับเวอร์ชันใหม่ล่าสุด",
 		"danish": "Hent Seneste Version",
+		"greek": "Λάβε την νεότερη έκδοση ",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -260,6 +270,7 @@
 		"hungarian": "A te verziód",
 		"thai": "เวอร์ชันของคุณ",
 		"danish": "Din Version",
+		"greek": "Η έκδοσή σου",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -283,6 +294,7 @@
 		"hungarian": "Jelenlegi verzió",
 		"thai": "เวอร์ชันปัจจุบัน",
 		"danish": "Nuværende Version",
+		"greek": "Τρέχουσα έκδοση",
 	},
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
@@ -305,6 +317,7 @@
 		"turkish":"Topluluk",
 		"romanian": "Comunitate",
 		"danish": "Fællesskab",
+		"greek": "Κοινότητα",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -327,6 +340,7 @@
 		"turkish":"Bu bir Alfa Sürümdür",
 		"romanian": "Aceasta este o versiune alfa",
 		"danish": "Dette er en Alpha Version",
+		"greek": "Αυτή είναι μία 'Αλφα έκδοση",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -349,6 +363,7 @@
 		"turkish":"Bu oyun daha tamamlanmamaışdır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
 		"romanian": "Acest joc nu este încă terminat. Poate conține bug-uri.\n\nLansăm jucătorilor aceste versiuni timpurii, astfel încât să putem obține feedback despre joc și să găsim erori cu mult înainte de lansarea oficială.\n\nSpune-ne cum îți place!",
 		"danish": "Dette spil er ikke færdigt endnu. Det kan indeholde fejl.\n\nVi udsender disse tidlige versioner til spillere så vi kan få feedback på spiloplevelsen og finde fejlene lang tid før den endelige release.\n\nFortæl os endelig hvad du synes!",
+		"greek": "Το παιχνίδι δέν είναι έτοιμο ακόμα.Μπορεί να περιέχει προβλήματα.\n\nΚυκλοφορούμε αυτές τις πρώιμες εκδόσεις στους παίκτες ώστε να λάβουμε σχόλια στο παίξιμο του παιχνιδιού και να εντοπίσουμε προβλήματα πολύ πριν την επίσιμη κυκλοφορία.\n\nΠείτε μας πόσο σας αρέσει!",
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -373,6 +388,7 @@
 		"hungarian": "Betöltés",
 		"thai": "โหลด",
 		"danish": "Indlæs",
+		"greek": "Φόρτωση",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -396,6 +412,7 @@
 		"hungarian": "Felülírás",
 		"thai": "เขียนทับ",
 		"danish": "Overskriv",
+		"greek": "Εγγραφή",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -419,6 +436,7 @@
 		"thai": "คุณแน่ใจหรือว่าต้องการลบบันทึก \"%save%\"? มันจะหายไปตลอดกาล",
 		"arabic": "هل أنت متأكد من رغبتك في مسح \"%save%\"؟ سيتم التخلص منها نهائيا.",
 		"danish": "Er du sikker på du vil slette spillet  \"%save%\"? Det vil forsvinde for altid!",
+		"greek": "Είσαι σίγουρος ότι θες να διαγράψεις την αποθήκευση \"%save%\"; Θα χαθεί για πάντα",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -442,6 +460,7 @@
 		"thai": "ยังไม่ได้บันทึกเกมในช่วงเวลา %minutes% นาที คุณแน่ใจหรือไม่ว่าต้องการกลับไปที่เมนูหลักโดยไม่บันทึก",
 		"arabic": "اللعبة لم يتم حفظها منذ %minutes% دقائق. هل أنت متأكد من رغبتك في الرجوع للقائمة الرئيسية بدون الحفظ؟",
 		"danish": "Spillet har ikke været gemt i %minutes% minutter. Er du sikker på du vil gå til hovedmenuen uden at gemme?",
+		"greek": "Το παχνίδι δεν έχει αποθηκευτεί για %minutes% λεπτά.Είσαι σίγουρος ότι θες να πας πίσω στο κεντρικό μενού χωρίς αποθήκευση;",
 	},
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
@@ -464,6 +483,7 @@
 		"turkish":"Koloni Theta-3",
 		"romanian": "Avanpost Theta-3",
 		"danish":"Koloni Theta-3",
+		"greek": "Εγκατάσταση Θήτα-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -487,6 +507,7 @@
 		"hungarian": "Nem engedélyezett karakterek a fájlnévben",
 		"thai": "ไม่อนุญาตให้ใส่อักขระนี้ในชื่อไฟล์",
 		"danish": "Ugyldigt teg i fil navnet!",
+		"greek": "Απαγορευμένοι χαρακτήρες στο όνομα αρχείου",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -510,6 +531,7 @@
 		"hungarian": "Fájl neve túl hosszú",
 		"thai": "ชื่อไฟล์ยาวเกินไป",
 		"danish": "Filnavnet er for langt!",
+		"greek": "Όνομα αρχείου πολύ μεγάλο",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -533,6 +555,7 @@
 		"hungarian": "Fájl neve túl rövid",
 		"thai": "ชื่อไฟล์สั้นเกินไป",
 		"danish": "Filnavnet er for kort!",
+		"greek": "Όνομα αρχείου πολύ μικρό",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -556,6 +579,7 @@
 		"hungarian": "Fájl név már használatban",
 		"thai": "ชื่อไฟล์นี้มีอยู่แล้ว",
 		"danish": "Filnavnet er allerede i brug!",
+		"greek": "Το όνομα αρχείου ήδη χρησιμοποιείται",
 	},
 	// SETTINGS
 	"settings": {
@@ -580,6 +604,7 @@
 		"hungarian": "Beállítások",
 		"thai": "การตั้งค่า",
 		"danish": "Indstillinger",
+		"greek": "Ρυθμίσεις",
 	},
 	"graphics": {
 		"english": "Video",
@@ -603,6 +628,7 @@
 		"hungarian": "Videó",
 		"thai": "วิดีโอ",
 		"danish": "Video",
+		"greek": "Γραφικά",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -626,6 +652,7 @@
 		"hungarian": "Grafika minősége",
 		"thai": "คุณภาพกราฟิก",
 		"danish": "Grafik Kvalitet",
+		"greek": "Ποιότητα Γραφικών",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -649,6 +676,7 @@
 		"hungarian": "Alacsony",
 		"thai": "ต่ำ",
 		"danish": "Lav",
+		"greek": "Χαμηλή",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -672,6 +700,7 @@
 		"hungarian": "Közepes",
 		"thai": "กลาง",
 		"danish": "Middel",
+		"greek": "Μεσαία",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -695,6 +724,7 @@
 		"hungarian": "Magas",
 		"thai": "สูง",
 		"danish": "Høj",
+		"greek": "Υψηλή",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -718,6 +748,7 @@
 		"hungarian": "Felbontás",
 		"thai": "ความละเอียด",
 		"danish": "Opløsning",
+		"greek": "Ανάλυση",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -741,6 +772,7 @@
 		"hungarian": "Megjelenítési mód",
 		"thai": "โหมดแสดงผล",
 		"danish": "Visningstilstand",
+		"greek": "Λειτουργία εμφάνισης",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -764,6 +796,7 @@
 		"hungarian": "Ablakos",
 		"thai": "หน้าต่าง",
 		"danish": "Vindue",
+		"greek": "Σε παράθυρο",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -787,6 +820,7 @@
 		"hungarian": "Teljesképernyős",
 		"thai": "เต็มจอ",
 		"danish": "Fuldskærm",
+		"greek": "Πλήρης Οθόνη",
 	},
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
@@ -809,6 +843,7 @@
 		"turkish":"Exclusive Tam Ekran",
 		"romanian": "Ecran complet exclusiv",
 		"danish": "Eksklusiv fuldskærm",
+		"greek": "Αποκλειστικά Πλήρης Οθόνη",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -832,6 +867,7 @@
 		"hungarian": "Vsync",
 		"thai": "ลดการฉีกขาดของหน้าจอ",
 		"danish": "Vsync",
+		"greek": "Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -855,6 +891,7 @@
 		"thai": "ช้า",
 		"arabic": "بطيئ",
 		"danish": "Langsom",
+		"greek": "Αργό",
 	},
 	"on": {
 		"english": "On",
@@ -878,6 +915,7 @@
 		"hungarian": "Be",
 		"thai": "เปิด",
 		"danish": "Tændt",
+		"greek": "Ενεργοποιημένο",
 	},
 	"off": {
 		"english": "Off",
@@ -901,6 +939,7 @@
 		"hungarian": "Ki",
 		"thai": "ปิด",
 		"danish": "Slukket",
+		"greek": "Απενεργοποιημένο",
 	},
 	"uiScale": {
 		"english": "UI Scale",
@@ -912,6 +951,7 @@
 		"polish": "Skalowanie interfejsu",
 		"czech": "Uživatelské rozhraní",
 		"danish": "UI Skala",
+		"greek": "Κλίμακα UI",
 		
 	},
 	"brightness": {
@@ -936,6 +976,7 @@
 		"hungarian": "Fényerő",
 		"thai": "ความสว่าง",
 		"danish": "Lysstyrke",
+		"greek": "Φωτεινότητα",
 	},
 	"audio": {
 		"english": "Audio",
@@ -959,6 +1000,7 @@
 		"hungarian": "Hang",
 		"thai": "เสียง",
 		"danish": "Lyd",
+		"greek": "Ήχος",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -982,6 +1024,7 @@
 		"hungarian": "Teljes hangerő",
 		"thai": "ระดับเสียงทั้งหมด",
 		"danish": "Total Lydstyrke",
+		"greek": "Συνολική Ένταση",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -1005,6 +1048,7 @@
 		"hungarian": "Hanghatások",
 		"thai": "เสียงเอฟเฟค",
 		"danish": "Lydeffekter",
+		"greek": "Ηχιτικά εφέ",
 	},
 	"music": {
 		"english": "Music",
@@ -1028,6 +1072,7 @@
 		"hungarian": "Zene",
 		"thai": "เสียงเพลง",
 		"danish": "Musik",
+		"greek": "Μουσική",
 	},
 	"other": {
 		"english": "Other",
@@ -1051,6 +1096,7 @@
 		"hungarian": "Egyéb",
 		"thai": "อื่นๆ",
 		"danish": "Andet",
+		"greek": "Άλλα",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1074,6 +1120,7 @@
 		"thai": "ความเร็วกล้อง",
 		"arabic": "سرعة الكاميرا",
 		"danish": "Kamera Hastighed",
+		"greek": "Ταχύτητα κάμερας",
 	},
 	"language": {
 		"english": "Language",
@@ -1097,6 +1144,7 @@
 		"hungarian": "Nyelv",
 		"thai": "ภาษา",
 		"danish": "Sprog",
+		"greek": "Γλώσσα",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1120,6 +1168,7 @@
 		"hungarian": "Kamerairányítás egérrel",
 		"thai": "ปุ่มบนเลื่อนเมาส์",
 		"danish": "musekantsrulning",
+		"greek": "Κύλιση στην άκρη ποντικιού",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1143,6 +1192,7 @@
 		"thai": "โหมดนักพัฒนา",
 		"arabic": "وضع المبرمج",
 		"danish": "Udviklertilstand",
+		"greek": "Λειτουργία προγραμματιστπή",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1166,6 +1216,7 @@
 		"hungarian": "Játék háttérben fut",
 		"thai": "เกมทำงานเบื้องหลัง",
 		"danish": "Spil aktivt i baggrunden",
+		"greek": "Παιχνίδι ενεργό στο υπόβαθρο",
 	},
 	"showTutorials": {
 		"english": "Show Tutorials",
@@ -1188,6 +1239,7 @@
 		"turkish":"Öğreticileri Göster",
 		"romanian": "Afișați tutoriale",
 		"danish": "Vis tutorial",
+		"greek": "Εμφάνισε Οδηγίες",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -1210,6 +1262,7 @@
 		"turkish":"Öğreticileri Sıfırla",
 		"romanian": "Resetați tutorialele cunoscute",
 		"danish": "Nulstil Tutorial",
+		"greek": "Επαναφορά γνωστών οδηγιών",
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1234,6 +1287,8 @@
 		"hungarian": "Világ betöltése...",
 		"thai": "กำลังโหลดโลก...",
 		"danish": "Indlæser Verden...",
+		"greek": "Φόρτωση Κόσμου...",
+		
 	},
 	"reset": {
 		"english": "Reset",
@@ -1257,6 +1312,7 @@
 		"hungarian": "Alaphelyzet",
 		"thai": "รีเซ็ต",
 		"danish": "Nulstil",
+		"greek": "Επαναφορά",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1279,6 +1335,7 @@
 		"thai": "ตกลง",
 		"arabic": "تم",
 		"danish": "Ok",
+		"greek": "ΟΚ",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1302,6 +1359,7 @@
 		"hungarian": "Megerősít",
 		"thai": "ยืนยัน",
 		"danish": "Bekræft",
+		"greek": "Επιβεβαίωση",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1325,6 +1383,7 @@
 		"hungarian": "Mégse",
 		"thai": "ยกเลิก",
 		"danish": "Annuller",
+		"greek": "Ακύρωση",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1348,6 +1407,7 @@
 		"hungarian": "Alkalmaz",
 		"thai": "นำไปใช้",
 		"danish": "Gem Ændring",
+		"greek": "Εφαρμογή",
 	},
 	"hooray": {
 		"english": "Hooray!",
@@ -1370,6 +1430,7 @@
 		"turkish":"Eyooo!",
 		"romanian": "Ura!",
 		"danish": "Hurra!",
+		"greek": "Γιούπι!",
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1394,6 +1455,7 @@
 		"hungarian": "Kamera irányításai",
 		"thai": "ควบคุมกล้อง",
 		"danish": "Kamera Kontrol",
+		"greek": "Έλεχγος Κάμερας",
 	},
 	"keybindings": {
 		"english": "Key Bindings",
@@ -1417,6 +1479,7 @@
 		"hungarian": "Billenytűkiosztás",
 		"thai": "ปุ่มที่กำหนดไว้",
 		"danish": "Tastatur",
+		"greek": "Λειτουργίες Κουμπιών",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1440,6 +1503,7 @@
 		"hungarian": "Előre",
 		"thai": "ไปข้างหน้า",
 		"danish": "Frem",
+		"greek": "Μπροστά",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1463,6 +1527,7 @@
 		"hungarian": "Hátra",
 		"thai": "ไปข้างหลัง",
 		"danish": "Tilbage",
+		"greek": "Πίσω",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1486,6 +1551,7 @@
 		"hungarian": "Balra",
 		"thai": "ไปทางซ้าย",
 		"danish": "Venstre",
+		"greek": "Αριστερά",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1509,6 +1575,7 @@
 		"hungarian": "Jobbra",
 		"thai": "ไปทางขวา",
 		"danish": "Højre",
+		"greek": "Δεξιά",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1532,6 +1599,7 @@
 		"hungarian": "Forgatás",
 		"thai": "หมุน",
 		"danish": "Roter",
+		"greek": "Περιστροφή",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1555,6 +1623,7 @@
 		"thai": "ขยายเข้า",
 		"arabic": "تكبير",
 		"danish": "Zoom Ind",
+		"greek": "Μεγένθυση",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1578,6 +1647,7 @@
 		"thai": "ขยายออก",
 		"arabic": "تصغير",
 		"danish": "Zoom Ud",
+		"greek": "Σμίκρυνση",
 	},
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -1600,6 +1670,7 @@
 		"turkish":"İnşaat",
 		"romanian": "Construcție",
 		"danish": "Konstruer",
+		"greek": "Κατασκευή",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1622,6 +1693,7 @@
 		"turkish":"Yolu Yükselt",
 		"romanian": "Ridică drumul",
 		"danish": "Løft vej",
+		"greek": "Ανύψωση Δρόμου",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1644,6 +1716,7 @@
 		"turkish":"Yolu Alçalt",
 		"romanian": "Coboară drumul",
 		"danish": "Sænk vej",
+		"greek": "Κτέβασμα Δρόμου",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1653,6 +1726,7 @@
 		"polish": "Przełącz siatkę",
 		"czech": "Přepnout mřížku",
 		"danish": "Skift Gitter",
+		"greek": "Εναλλαγή Πλέγματος",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1676,6 +1750,7 @@
 		"hungarian": "Idő irányítás",
 		"thai": "ควบคุมเวลา",
 		"danish": "Tids Control",
+		"greek": "Έλεγχος χρόνου",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1699,6 +1774,7 @@
 		"hungarian": "Szünet",
 		"thai": "หยุดชั่วคราว",
 		"danish": "Pause",
+		"greek": "Παύση",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1722,6 +1798,7 @@
 		"hungarian": "Forgatás balra",
 		"thai": "หมุนซ้าย",
 		"danish": "Roter til Venstre",
+		"greek": "Περιστροφή Αριστερά",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1745,6 +1822,7 @@
 		"hungarian": "Forgatás jobbra",
 		"thai": "หมุนขวา",
 		"danish": "Roter til højre",
+		"greek": "Περιστροφή Δεξιά",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1768,6 +1846,7 @@
 		"hungarian": "Vegyes",
 		"thai": "เบ็ดเตล็ด",
 		"danish": "Diverse",
+		"greek": "Διάφορα",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1791,6 +1870,7 @@
 		"hungarian": "Képernyőkép",
 		"thai": "ถ่ายรูปหน้าจอ",
 		"danish": "Skærmprint",
+		"greek": "Στιγμυότυπο Οθόνης",
 	},
 	"screenshotMode": {
 		"english": "Screenshot Mode",
@@ -1813,6 +1893,7 @@
 		"turkish":"Ekran Görüntüsü Modu",
 		"romanian": "Mod captură de ecran",
 		"danish": "Skærmprint Tilstand",
+		"greek": "Λειτουργία Στιγμυότυπου Οθόνης",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1836,6 +1917,7 @@
 		"hungarian": "Képernyőképek mappa megnyitása",
 		"thai": "เปิดโฟลเดอร์รูปหน้าจอ",
 		"danish": "Åben Skærmprints Mappe",
+		"greek": "Άνοιγμα Φακέλων Στιγμυοτύπων Οθόνης",
 	},
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
@@ -1858,6 +1940,7 @@
 		"turkish":"Ekran Görüntülerini / Dünyaları Aç",
 		"romanian": "Deschideți dosarul cu capturile de ecran / Salvări",
 		"danish": "Åben Skærmprints / Gemte",
+		"greek": "Άνοιγμα Στιγμυοτύπων/Αποθηκεύσεων",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1881,6 +1964,7 @@
 		"hungarian": "FPS mutatása",
 		"thai": "แสดง FPS",
 		"danish": "Vis Frames per Sekund",
+		"greek": "Εμφάνιση καρέ ανά δευτερόλεπτο",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -1904,6 +1988,7 @@
 		"hungarian": "Bal egérgomb",
 		"thai": "ปุ่มเมาส์ซ้าย",
 		"danish": "Venstre Muse Knap",
+		"greek": "Αριστερό κουμπί ποντικιού",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -1927,6 +2012,7 @@
 		"hungarian": "Jobb egérgomb",
 		"thai": "ปุ่มเมาส์ขวา",
 		"danish": "Højre Muse Knap",
+		"greek": "Δεξί κουμπί ποντικιού",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -1950,6 +2036,7 @@
 		"hungarian": "Középső egérgomb",
 		"thai": "ปุ่มเมาส์กลาง",
 		"danish": "Miderste Muse Knap",
+		"greek": "Μεσαίο κουμπί ποντικιού",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1973,6 +2060,7 @@
 		"hungarian": "Szóköz",
 		"thai": "สเปซบาร์",
 		"danish": "Mellemrum",
+		"greek": "Διάστημα",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -1996,6 +2084,7 @@
 		"hungarian": "Shift (bal)",
 		"thai": "Shift (ซ้าย)",
 		"danish": "Shift (Venstre)",
+		"greek": "Shift (αριστερό)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -2019,6 +2108,7 @@
 		"hungarian": "Shift (jobb)",
 		"thai": "Shift (ขวา)",
 		"danish": "Shift (Højre)",
+		"greek": "Shift (δεξί)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -2042,6 +2132,7 @@
 		"hungarian": "Alt (bal)",
 		"thai": "Alt (ซ้าย)",
 		"danish": "Alt (Venstre)",
+		"greek": "Alt (αριστερό)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -2065,6 +2156,7 @@
 		"hungarian": "Alt (jobb)",
 		"thai": "Alt (ขวา)",
 		"danish": "Alt (Højre)",
+		"greek": "Alt (δεξί)",
 	},
 	"key_LeftControl": {
 		"english": "Ctrl (left)",
@@ -2088,6 +2180,7 @@
 		"hungarian": "Ctrl (bal)",
 		"thai": "Ctrl (ซ้าย)",
 		"danish": "Ctrl (Venstre)",
+		"greek": "Ctrl (αριστερό)",
 	},
 	"key_RightControl": {
 		"english": "Ctrl (right)",
@@ -2111,6 +2204,7 @@
 		"hungarian": "Ctrl (jobb)",
 		"thai": "Ctrl (ขวา)",
 		"danish": "Ctrl (Højre)",
+		"greek": "Ctrl (δεξί)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -2134,6 +2228,7 @@
 		"hungarian": "Caps lock",
 		"thai": "แคปล็อค",
 		"danish": "Caps Lock",
+		"greek": "Caps Lock",
 	},
 	"key_PageUp": {
 		"english": "Page Up",
@@ -2156,6 +2251,7 @@
 		"turkish":"Pg Up",
 		"romanian": "PageUp",
 		"danish": "PageUp",
+		"greek": "Page Up",
 	},
 	"key_PageDown": {
 		"english": "Page Down",
@@ -2178,6 +2274,7 @@
 		"turkish":"Pg Dn",
 		"romanian": "PageDown",
 		"danish": "PageDown",
+		"greek": "Page Down",
 	},
 	"saveBarelyCompatibleWithGameVersion": {
 		"english": "This save is only partially compatible with your game version.",
@@ -2189,6 +2286,7 @@
 		"polish": "Ten zapis jest tylko częściowo kompatybilny z twoją wersją gry.",
 		"czech": "Toto uložení je pouze částečně kompatibilní s vaší verzí hry.",
 		"danish": "Dette gemte spil er kun delvist kompatibel med din spilversion.",
+		"greek": "Η αποθήκευση είναι μόνο μερικώς συμβατή με την έκδοση παιχνιδιού σου",
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
@@ -2200,6 +2298,7 @@
 		"polish": "Jak uruchomić niekompatybilne zapisy gry",
 		"czech": "Jak hrát nekompatibilně uloženou hru",
 		"danish": "Sådan spille du et inkompatibelt gemt spil",
+		"greek": "Πως να παίξεις μη συμβατές αποθηκεύσεις",
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
@@ -2211,6 +2310,7 @@
 		"polish": "Gdy wypuszczamy duże aktualizacje gry może się zdarzyć, że stare zapisy gry nie są w pełni kompatybilne.\nIstnieją dwa rozwiązania:\n\n1. Możesz grać dalej używając starszej wersji gry. Przygotowaliśmy poradnik opisujący jak to zrobić.\n\n2. Możesz też przekonwertować swój zapis do nowej wersji.\n\nPamiętaj, że konwersje nie są idealne. Oznacza to, że konieczne może być zapauzowanie gry i poświęcenie chwili na ręczną naprawę znalezionych problemów.",
 		"czech": "Když vydáváme velkou aktualizaci hry, někdy uložené hry nejsou plně kompatibilní.\nMáte dvě možnosti:\n\n1. Pokračujte ve hře z předchozí verze. Vytvořili jsme pro vás tutoriál.\n2. Zkuste převést uloženou hru do nové verze.\n\nPřevody uložení nejsou dokonalé. Pravděpodobně budete muset hru pozastavit a strávit nějaký čas řešením případných problémů.",
 		"danish": "Når vi udgiver en stor spilopdatering, kan det ske at et gemt spil ikke er helt kompatibelt.\nDu har to muligheder:\n\n1Fortsæt dit gemte spil på den tidligere version. Vi har lavet en tutorial til dig.\n2Prøv at konvertere dit gemte spil til en ny version.\n\nKonvertering er ikke fejlfri. Du bliver sikkert nød til at pause spillet, og løse nogle problemer.",
+		"greek": "Όταν κυκλοφορούμε μία μεγάλη αναβάθμιση παιχνιδιου, μερικές φορές οι αποθηκεύσεις παιχνιδιών δεν είναι εντλεώς συμβατές.\n Έχεις δύο επιλογές:\n\n1.Συνέχισε να παίζεις το αποθηκευμένο σου παχνίδι στην προηγούμενη έκδοση.Έχουμε φτιάξει έναν οδηγό για 'σένα.\n2.Δοκίμασε να μετατρέψεις την αποθήκευση του παιχνιδιού σου στην νέα έκδοση.\n\nΜερικές μετατροπές δεν είναι τέλειες.Πιθανόν χρείαζεται να κάνεις παύση το παχνίδι και να χρειαστείς χρόνο να επιδιορθώσεις διάφορα προβλήματα.",
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
@@ -2222,6 +2322,7 @@
 		"polish": "Zmień wersję gry",
 		"czech": "Změnit verzi hry",
 		"danish": "Ændre Spil Version",
+		"greek": "Άλλαξε την έκδοση παχνιδιου",
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
@@ -2233,6 +2334,7 @@
 		"polish": "Podejmij próbę konwersji",
 		"czech": "Zkuste konverzi",
 		"danish": "Prøv at konvertere",
+		"greek": "Δοκίμασε μετατροπή",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -2256,6 +2358,7 @@
 		"thai": "บันทึกนี้เข้ากันไม่ได้กับเวอร์ชันเกมของคุณ \nคุณสามารถเล่นเวอร์ชันเก่าได้โดยใช้คุณสมบัติ 'เบต้า' บน Steam",
 		"arabic": "هذا الحفظ غير متوافق مع إصدار اللعبة الخاص بك.\nيمكنك لعب الإصدارات القديمة باستخدام خاصية 'Betas' بمتجر Steam.",
 		"danish": "Dette gemte spil er ikke kompatibelt med din aktuelle version.\nDu kan spille ældre versioner ved at bruge 'Betas' funktionen gennem steam",
+		"greek": "Αυτή η αποθήκευση παχνιδιού δέν είναι συμβατή με την έκδοση του παιχνιδιού σου.\nΜπορείς να παίξεις παλιές εκδόσεις χρησιμοποιόντας την δυνατότητα 'Betas' στο Steam",
 	},
 	// ROADMAP
 	"roadmap": {
@@ -2279,6 +2382,7 @@
 		"turkish":"Planlar",
 		"romanian": "Planuri de viitor",
 		"danish": "Udviklingsplan",
+		"greek": "Οδικός χάρτης",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -2301,6 +2405,7 @@
 		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısnız?",
 		"romanian": "Nu s-au găsit planurile de viitor.\n\nEști conectat la internet?",
 		"danish": "Ingen udviklings fundet.\n\nHar du forbindelse til internettet?",
+		"greek": "Δεν βρέθηκε οδικός χάρτης.Είσαι συνδεδεμένος στο διαδίκτυο;",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -2323,6 +2428,7 @@
 		"turkish":"Erken erişimede garantili",
 		"romanian": "Caracteristici garantate pentru access anticipat",
 		"danish": "Garanteret funktioner for Early Access",
+		"greek": "Επιβεβαιωμένες δυνατότητες για πρώιμη πρόσβαση",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -2345,6 +2451,7 @@
 		"turkish":"Ek özelliklere oy verin",
 		"romanian": "Votează pentru funcțiile suplimentare",
 		"danish": "Stem på Ekstra Funktioner",
+		"greek": "Ψήφισε για έξτρα δυαντότητες",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -2367,6 +2474,7 @@
 		"turkish":"Favori özelliklerinize oyun verin.\nTopluluğun isteklerine ve oyuna uyumuna bağlı olarak bu listedeki özellikleri oyuna ekliyeceğiz.",
 		"romanian": "Votează funcțiile tale preferate pentru a ne spune pe ce ar trebui să ne concentrăm.\nVom alege din această listă în funcție de dorințele comunității și de cât de bine se potrivesc în joc.",
 		"danish": "Stem på din favorit funktion, så vi ved hvad vi skal focusere på.\nVi vil vælge fra listen, ud fra øsnker og hvor godt de passer ind i spillet.",
+		"greek": "Ψήφισε στις αγαπημένες σου δυνατότητες για να ξέρουμε σε τι να εστιάσουμε.\nΘα διαλέξουμε από αυτήν την λίστα με βάση τις επιθυμίες της κοινότητας και του πόσο καλά ταιριάζουν στο παιχνίδι.",
 	},
 	"vote": {
 		"english": "Vote",
@@ -2389,6 +2497,7 @@
 		"turkish":"Oy Ver",
 		"romanian": "Votează",
 		"danish": "Stem",
+		"greek": "Ψήφισε",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -2411,6 +2520,7 @@
 		"turkish":"Tartış",
 		"romanian": "Discută în forum",
 		"danish": "Diskuter",
+		"greek": "Συζήτηση",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -2433,6 +2543,7 @@
 		"turkish":"Hata Bildir",
 		"romanian": "Raportează o eroare",
 		"danish": "Rapporter en fejl",
+		"greek": "Ανάφερε ένα πρόβλημα",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -2477,6 +2588,7 @@
 		"turkish":"Trafik Işıkları ve Trafik Tabelaları",
 		"romanian": "Semne de circulație și semafoare",
 		"danish": "Trafikskilte og Trafiklys",
+		"greek": "Σήματα και Φανάρια",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -2499,6 +2611,7 @@
 		"turkish":"Yolların tıkanmasını engelle ve araçlara öncelik ver.",
 		"romanian": "Evită înfundarea intersecțiilor și acordă prioritate mașinilor care pot merge primele.",
 		"danish": "Sørg for, at dine vejkryds ikke bliver tilstoppede, og prioriter, hvilke biler der kan køre først.",
+		"greek": "Απότρεψε τις διασταυρώσεις σου από το μποτιλιάρισμα κολλάνε και όρισε προτεραιότητες.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -2521,6 +2634,7 @@
 		"turkish":"Trenler",
 		"romanian": "Trenuri",
 		"danish": "Tog",
+		"greek": "Τρένα",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -2543,6 +2657,7 @@
 		"turkish":"Otoyollar güzel bile olsa bazen şehirlerin içinden tonlarca malzeme taşımak için trenler dahay iyidir.",
 		"romanian": "Autostrăzile sunt frumoase, dar uneori trebuie să transporți mii de tone de materiale prin jumătate de oraș.",
 		"danish": "Motorveje er fine, men nogle gange skal du transportere tusindvis af tons materialer gennem halvdelen af byen.",
+		"greek": "Οι αυτοκινητόδρομοι καλοί είναι, αλλά μερικές φορές χρειάζεται να μεταφέρεις χιλιάδες τόνους υλικών μέσα από την μισή πόλη",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -2565,6 +2680,7 @@
 		"turkish":"Büyük Oyun Sonu Projeleri",
 		"romanian": "Proiect mare de final de joc",
 		"danish": "Kæmpe Afslutnings Projekt",
+		"greek": "Μεγάλο πρότζεκτ στο τέλος του παχνιδιού",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -2587,6 +2703,7 @@
 		"turkish":"Herşeyin üretimini en verimli hale getirdikden ve tüm araştırmaları tamaladıkdan sonra bile bir meydan okumaya hazırmısın?",
 		"romanian": "Ți-ai depășit orașul și ai terminat arborele tehnologic? Cauți o ultimă provocare?",
 		"danish": "Har du fået det maximale ud af din by og færdiggjort teknologitræet? Leder du efter en sidste udfordring?",
+		"greek": "Έχεις φτάσει στο αποκορύφωμα την πόλη σου και έχεις τελειώσει το δέντρο τεχνολογίας;Ψάχνεις για μία τελική προκληση;",
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -2609,6 +2726,7 @@
 		"turkish":"Yüksek eğimler için telefirik",
 		"romanian": "Gondole pentru a face legătura cu platoul",
 		"danish": "Gondoler til Highland Access",
+		"greek": "Γόνδολες για ορεινή πρόσβαση",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -2631,6 +2749,7 @@
 		"turkish":"Yüksek kapasiteli kargo telefirikleri dik yollardan kargo çıkarmayı mümkün kılıyor",
 		"romanian": "Gondolele de marfă de mare capacitate care transportă mărfurile peste stânci și munți.",
 		"danish": "Godsgondoler med høj kapacitet kan transportere dine varer over klipper og bjerge.",
+		"greek": "Γόνδολες φορτίου υψηλής χωρητικότητας μπορούν να μεταφέρουν τα αγαθά σου πάνω από πέτρες και βουνά.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -2653,6 +2772,7 @@
 		"turkish":"Mutluluk Sistemi",
 		"romanian": "Sistem de fericire",
 		"danish": "Glædes System",
+		"greek": "Σύστημα χαράς",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -2675,6 +2795,7 @@
 		"turkish":"Habitatları yükseltmek için mutluluk sağlanmalı. Servis binaları, ses ve yönetim gibi faktörleri göz önüne alır.",
 		"romanian": "Sistem îmbunătățit pentru a decide când se modernizează habitatele. Ia în considerare clădirile de servicii din apropiere, zgomotul, ordonanțele și multe altele.",
 		"danish": "Forbedret system til at beslutte, hvornår habitater opgraderes. Tager hensyn til nærliggende servicebygninger, støj, bekendtgørelser med mere.",
+		"greek": "Βελτιωμένο σύστημα για να αποφασίζει πότε αναβαθμίζονται οι αποικίες. Λογαριάζει κοντινά κτήρια υπηρεσιών,θόρυβο,κανόνες και άλλα.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -2697,6 +2818,7 @@
 		"turkish":"Modlama desteği",
 		"romanian": "Suport pentru mod-uri",
 		"danish": "Mod Understøttelse",
+		"greek": "Υποστίριξη τροποποιήσεων",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -2719,6 +2841,7 @@
 		"turkish":"Dengeleme, inşaat, kaynak, arayüz, altyapı ve script modları için destek.",
 		"romanian": "Suport pentru mod-uri de echilibru, mod-uri de construcție, mod-uri de resurse, mod-uri de UI, mod-uri de infrastructură și mod-uri de script.",
 		"danish": "Understøttelse af balancemods, byggemods, ressourcemods, UI-mods, infrastrukturmods og scriptmods.",
+		"greek": "Υποστίριξη για τροποποιήσεις ισσοροπίας,τροποποιήσεις κτηρίων,τροποποιήσεις πόρων,τροποποιήσεις UI,τροποποιήσεις υποδομών και τροποποιήσεις σεναρίων",
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -2741,6 +2864,7 @@
 		"turkish":"Sıvılar Ve Gazlar İÇin Borular",
 		"romanian": "Conducte pentru lichide si gaze",
 		"danish": "Rørledning til væsker og gasser",
+		"greek": "Σωλήνες για υγρά και αέρια",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -2763,6 +2887,7 @@
 		"turkish":"Ya yer altından veya borulardan yüksek miktarfa kaynak taşınabilseydi? Veya kolonistlerinize su sağlamak gerekseydi?",
 		"romanian": "Ce ai zice dacă ai putea transporta cantități mari de resurse sub pământ sau în conducte? Ce ai zice dacă ai avea nevoie să produci apă pentru a supraviețui?",
 		"danish": "Hvad hvis du kunne transportere store mængder ressourcer under jorden eller i rørledninger? Hvad hvis du skulle producere vand for at overleve?",
+		"greek": "Τι κι αν μπορύσες να μεταφέρεις μεγάλες ποσότητες πόρων κάτω από το έδαφος ή σε σωληνώσεις; Τι κι αν χρειαζόταν να παράγεις νερό για να επιβιώσεις;",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -2785,6 +2910,7 @@
 		"turkish":"Isı Sistemi",
 		"romanian": "Sistem de încălzire",
 		"danish": "Varme System",
+		"greek": "Σύστημα Θέρμανσης",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -2807,6 +2933,7 @@
 		"turkish":"Yaşam destek üniteleri uzayda yaşam için şart - şehrinizin ısısını doğru ayarlamak ölümle yaşam arasında inci bir çizgi olabilir",
 		"romanian": "Sistemele de susținere a vieții sunt importante în spațiu - menținerea orașului suficient de cald sau de răcoare ar putea fi esențială.",
 		"danish": "Livsstøttesystemer er vigtige i rummet - at holde din by varm eller kølig nok kan være kritisk.",
+		"greek": "Τα συστήματα υποστήριξης ζωής είναι σημαντικά στο διάστημα - διατηρώντας την πόλη σου αρκετά ζεστή ή κρύα θα μπορύσε να είναι κρίσιμο",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -2829,6 +2956,7 @@
 		"turkish":"Gece-Gündüz",
 		"romanian": "Ciclu zi-noapte",
 		"danish": "Dag og Nat cyklus",
+		"greek": "Κύκλος Μέρας-Νύχτας",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -2851,6 +2979,7 @@
 		"turkish":"Havalı duruyor ve geceleri elektrik üretimi için elektrik üretimini gözden geçirmek gerekebilir.Aynı zamanda ısı sistemiyle uyum sağlayabilir.",
 		"romanian": "Arată bine și trebuie să pregatești rețeaua de alimentare pentru noapte. Ar putea funcționa bine și cu sistemul de căldură - planetele de nisip se răcesc rapid noaptea.",
 		"danish": "Ser cool ud, og du skal forberede dit strømnetværk til natten. Kunne også fungere godt med varmesystem - sandplaneter afkøles hurtigt om natten.",
+		"greek": "Φαίνεται ωραίο και χρειάζεται να προετοιμάσεις το ηλεκτρικό σου δίκτυο για την νύχτα.Θα μπορούσε επίσης να δουλέψει καλά με το σύστημα θέρμανσης - οι πλανήτες άμμου κρυώνουν γρήγορα την νύχτα.",
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -2873,6 +3002,7 @@
 		"turkish":"Yangınlar ve Suçlar",
 		"romanian": "Incendii și crimă",
 		"danish": "Brande og kriminalitet",
+		"greek": "Φωτιές και έγκλημα",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -2895,6 +3025,7 @@
 		"turkish":"Kazaların nezaman yaşabileceği ön görlemez ve şehrinizin bunlarla başa çıkmak için sürekli tetikde olması gerekir - hazırlıklı olun!",
 		"romanian": "Se întâmplă accidente și orașul tău are nevoie de servicii de urgență pentru a le face față - fii pregătit!",
 		"danish": "Ulykker sker, og din by har brug for nødtjenester til at håndtere dem - vær forberedt!",
+		"greek": "Αυτχήματα συμβαίνουν και η πόλη σου χρειάζεται υπηρεσίες έκτατης ανάγκης για να τις αντιμετωπίσει - ετοιμάσου!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -2917,6 +3048,7 @@
 		"turkish":"İşciler için Uçan Arabalar",
 		"romanian": "Mașini zburătoare pentru muncitori",
 		"danish": "Flyvende biler til arbejere",
+		"greek": "Ιπτάμενα αυτοκίνητα για εργαζόμενους",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -2939,6 +3071,7 @@
 		"turkish":"İşe giden kolonistler için trafik sistemi. Aynı zamanda yolları temiz tutmak için uçan araba yükseltmesi.",
 		"romanian": "Să adăugăm trafic pentru lucrătorii care merg la muncă, dar să introducem și upgrade-ul mașinii zburătoare pentru a preveni blocarea sistemului rutier.",
 		"danish": "Lad os tilføje trafik til arbejdere, der skal på arbejde, men også introducere den flyvende bilopgradering for at forhindre dit vejsystem i at sidde fast.",
+		"greek": "Ας προσθέσουμε κυκλοφορία για τους εργάτες που πάνε στην δουλεία, αλλά επίσης να εισάγουμε την αναβάθμιση ιπτάμενων αυτοκινήτων για να αποτρέψουμε το οδικό δίκτυο να κολλάει.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -2961,6 +3094,7 @@
 		"turkish":"Doğal afetler",
 		"romanian": "Dezastre naturale",
 		"danish": "Naturkatastrofer",
+		"greek": "Φυσικές Καταστροφές",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -2983,6 +3117,7 @@
 		"turkish":"Bir kum fırtınasının ardından şehriniz hala çalışabilirmi? Hazırlıklı olurmusunuz?",
 		"romanian": "Cât de bine vor funcționa drumurile tale după o furtună de nisip? Ai fi pregătit?",
 		"danish": "Hvor godt vil dine veje fungere efter en sandstorm? Ville du være forberedt?",
+		"greek": "Πόσο καλά θα δουλέψουν οι δρόμοι σου μετά από μία αμμοθύελλα; Θα ήσουν προετοιμασμένος;",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -3005,6 +3140,7 @@
 		"turkish":"Oyun Zorluğu",
 		"romanian": "Dificultatea jocului",
 		"danish": "Sværhedsgrad",
+		"greek": "Δυσκολία Παχνιδιού",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -3027,6 +3163,7 @@
 		"turkish":"Vatandaşların ihtiyaçlarını değiştirir.\n\nZorluk arttıkça ekonomiyi daha iyi ayarlamak gerekir.",
 		"romanian": "Controlează cât de multe produse au nevoie cetățenii.\nCu cât dificultatea este mai mare, cu atât mai bine trebuie de gestionat economia.",
 		"danish": "Styrer, hvor mange produkter borgerne har brug for.\nJo højere sværhedsgrad, jo bedre har du til at styre din økonomi.",
+		"greek": "Ελέγχει πόσα προϊόντα χρειάζονται οι κάτικοι.\nΜΕ μεγαλύτερη δυσκολία, πρέπει να διαχειριστέις καλύτερα την οικονομία σου.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -3049,6 +3186,7 @@
 		"turkish":"Taşıma Zorluğu",
 		"romanian": "Dificultate de transport",
 		"danish": "Transport Sværhedsgrad",
+		"greek": "Δυσκολία μετακίνησης",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -3071,6 +3209,7 @@
 		"turkish":"Araçların ne kadar eşya taşıyabileceğini değiştirir.\n\nZorluk arttıkça araçlar aynı anda daha az eşya taşır.",
 		"romanian": "Controlează câte articole pot transporta vehiculele.\nCu cât este mai mare dificultatea, cu atât mai puține articole pot fi transportate simultan.",
 		"danish": "Styrer, hvor mange genstande køretøjer kan bære.\nJo højere sværhedsgrad, jo færre genstande kan transporteres på én gang.",
+		"greek": "Ελέγχει πόσα πράγματα μπορούν να μεταφέρουν τα οχήματα.\nΜε μεγαλύτερη δυσκολία, λιγότερα πράγματα μπορούν να μεταφερθούν ταυτόχρονα",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -3093,6 +3232,7 @@
 		"turkish":"Oyunu Başlat",
 		"romanian": "Începe jocul",
 		"danish": "Start Spil",
+		"greek": "Έναρξη Παιχνιδιού",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -3115,6 +3255,7 @@
 		"turkish":"Kolay",
 		"romanian": "Ușor",
 		"danish": "Begynder",
+		"greek": "Εύκολη",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -3137,6 +3278,7 @@
 		"turkish":"Orta",
 		"romanian": "Mediu",
 		"danish": "Øvet",
+		"greek": "Μέτρια",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -3159,5 +3301,6 @@
 		"turkish":"Zor",
 		"romanian": "Greu",
 		"danish": "Expert",
+		"greek": "Δύσκολη",
 	},
 }
