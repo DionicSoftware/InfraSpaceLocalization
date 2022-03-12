@@ -2352,10 +2352,14 @@
 		"polish": "System sygnalizacji pociągów zapobiega kolizjom oraz wzajemnemu blokowaniu się pociągów.",
 		"thai":"ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง",
 		"italian": "Il sistema di segnali per i treni impedisce ai tuoi treni di entrare in collisione o di bloccarsi.",
+<<<<<<< Updated upstream
 		"hungarian": "A vonat jelző rendszer megakadályozza hogy a vonatok ütközzenek, vagy rossz vágányra kerüljenek.",
 		"romanian": "Sistemul de semnalizare a trenurilor împiedică trenurile tale să se ciocnească sau să se blocheze reciproc.",
 		"czech": "Železniční signalizace slouží k tomu, aby zabránila srážkám vlaků nebo vzájemnému zablokování.",
 		"spanish": "El sistema de señalización previene que tus trenes colisionen o se bloqueen entre ellos.",
+=======
+		"hungarian": "A vonat jelző rendszer megakadályozza hogy a vonatok ütközzenek, vagy rossz vágányon közlekedjenek.",
+>>>>>>> Stashed changes
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2366,10 +2370,14 @@
 		"polish": "Aby osiągnąć najwyższą przepustowość upewnij się, że pomiędzy skrzyżowaniami jest wystarczająco dużo zielonych odcinków.",
 		"thai":"สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก",
 		"italian": "Per avere un flusso ottimale, accertati di avere abbastanza spazio con lunghi segmenti verdi fra gli incroci.",
+<<<<<<< Updated upstream
 		"hungarian": "Az elakadásokat el lehet kerülni a kereszteződések között hagyott elegendő hosszúságú egyenes rész.",
 		"romanian": "Pentru un debit maxim, asigură-te că ai suficient spațiu cu segmente lungi verzi între intersecții.",
 		"czech": "Snažte se mít mezi kříženími co nejdelší úseky zelené, zvýšíte tím propustnost trati.",
 		"spanish": "Para mayor eficacia, asegurate de que tienes suficiente espacio de segmentos largos verdes y las intersecciones.",
+=======
+		"hungarian": "Az elakadásokat el lehet kerülni a kereszteződések között hagyott elegendő hosszúságú egyenes résszel.",
+>>>>>>> Stashed changes
 	},
 	"rails": {
 		"english": "Rails",
