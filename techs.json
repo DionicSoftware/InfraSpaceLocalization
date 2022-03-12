@@ -20,6 +20,7 @@
 	  "turkish":"Tarım",
 	  "romanian": "Agricultură",
 	  "danish": "Landbrug",
+	"greek": "Καλλιέργεια",
   },
   "tech_electronics": {
     "english": "Electronics",
@@ -42,6 +43,7 @@
 	  "turkish":"Elektronik",
     "romanian": "Electronică",
 	   "danish": "Elektronikmoduler",
+	  "greek": "Ηλεκτρονικά",
   },
   "tech_steelMaking": {
     "english": "Steel Production",
@@ -64,7 +66,7 @@
 	  "turkish":"Çelik Üretimi",
     	"romanian": "Producție de oțel",
 	"danish": "Stålproduktion",
-	  
+	 "greek": "Παραγωγή Ατσαλιού",
 	  
   },
   "tech_science2": {
@@ -88,6 +90,7 @@
 	  "turkish":"Yeşil Bilim",
     "romanian": "Știință verde",
 	   "danish": "Grøn Videnskrystal",
+	  "greek": "Πράσινη Επιστήμη",
   },
   "tech_homeAppliances": {
     "english": "Home Appliances",
@@ -110,6 +113,7 @@
 	  "turkish":"Ev ALeti",
     "romanian": "Electrocasnice",
 	   "danish": "Hvidevarer",
+	  "greek": "Οικιακές Συσκευές",
   },
   "tech_solarPanels": {
     "english": "Solar Panels",
@@ -132,6 +136,7 @@
 	  "turkish":"Güneş Paneli",
     "romanian": "Panouri solare",
 	  "danish": "Solceller",
+	  "greek": "Φωτοβολταϊκά",
   },
   "tech_improvedWindTurbineBlades": {
     "english": "Improved Wind Turbine Blades",
@@ -154,6 +159,7 @@
 	  "turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
     "romanian": "Palete îmbunătățite ale turbinei eoliene",
 	  "danish": "Forbedret vindmøllevinger",
+	  "greek": "Βελτιωμένα φτερά ανεμογγενητριών",
   },
   "techDesc_improvedWindTurbineBlades": {
     "english": "Adapts the wind turbine blades shape to the atmosphere. This leads to lower disturbance in the air, which let's you build wind turbines closer to each other.",
@@ -176,7 +182,7 @@
 	  "turkish":"Türbin kanatlarının atmosfere uyum sağlamasını sağlar. Bu havada daha az kargaşaya sebep olup türbinleri daha yakın koymayı mümkün kılar.",
     "romanian": "Adaptează forma palelor turbinei eoliene la atmosferă. Acest lucru duce la o perturbare mai mică în aer, ceea ce îți permite să construiești turbine eoliene mai aproape una de cealaltă.",
 	    "danish": "Tilpasser vindmøllevingernes form til atmosfæren. Dette fører til lavere forstyrrelser i luften, som lader dig bygge vindmøller tættere på hinanden.",
-	  
+	  "greek": "Προσαρμόζει το σχήμα των φτερών των ανεμογεννητριών με την ατμόσφαιρα.Αυτό δημιουργεί χαμηλώτερη ανατάραξη στον αέρα, που σου επιτρπέπει να χτίσεις ανεμογεννήτριες πιο κοντά μεταξύ τους.",
   },
   "tech_concreteRoads": {
     "english": "Concrete Roads",
@@ -199,6 +205,7 @@
      "turkish":"Beton Yollar",
     "romanian": "Drumuri de beton",
 	   "danish": "Betonveje",
+	  "greek": "Δρόμοι από μπετό",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -221,6 +228,7 @@
     "turkish":"Alüminyum Kazısı",
     "romanian": "Exploatarea aluminiului",
 	   "danish": "Udvinding af aluminium",
+	  "greek": "Εξώρυξη αλουμινίου",
   },
   "tech_powerSubstation": {
     "english": "Power Substations",
@@ -243,6 +251,7 @@
 	  "turkish":"Elektrik Trafo Merkezi",
     "romanian": "Substații electrice",
 	   "danish": "Strømforsyningsstationer",
+	  "greek": "Υποσταθμοί ρεύματος",
   },
   "techDesc_powerSubstation": {
     "english": "Integrate substations into your power network so you won't have to supply every building with power poles.",
@@ -265,6 +274,7 @@
     "turkish": "Güç ağınıza trafo merkezleri eklemek her binaya elektrik direği ile elektrik sağlama zorunluluğunu kaldırır.",
     "romanian": "Integrează substații în rețeaua ta de energie, astfel încât să nu fie nevoie să alimentezi fiecare clădire cu stâlpi de curent.",
 	  "danish": "Integrer understationer i dit elektricitetnetværk, så du ikke behøver at forsyne enhver bygning med elmaster.",
+	  "greek": "Ενσωμάτωσε υποσταθμούς στο ηλεκτρικό σου δίκτυο ώστε να μή χρειάζεται να παρέχεις πυλώνες ρεύματος σε κάθε κτήριο.",
 	  
   },
   "tech_motors": {
@@ -288,6 +298,7 @@
     "turkish": "Motorlar",
     "romanian": "Motoare",
 	  "danish": "Motorer",
+	  "greek": "Κινητήρες",
   },
   "tech_fourLaneRoads": {
     "english": "Four Lane Roads",
@@ -310,6 +321,7 @@
     "turkish": "Dört Şeritli Yollar",
     "romanian": "Drumuri cu patru benzi",
 	  "danish": "Firesporet vej",
+	  "greek": "Δρόμοι τεσσάρων λωρίδων",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -332,6 +344,7 @@
     "turkish":"Tek Yönlü Yollar",
     "romanian": "Drumuri cu sens unic",
 	  "danish": "Ensrettet vej",
+	  "greek": "Μονόδρομοι",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -354,6 +367,7 @@
     "turkish":"Büyük Binalar",
     "romanian": "Clădiri mari",
 	  "danish": "Store bygninger",
+	  "greek": "Μεγάλα Κτήρια",
 	  
   },
   "tech_computers": {
@@ -377,6 +391,7 @@
     "turkish":"Bilgisayarlar",
     "romanian": "Calculatoare",
 	  "danish": "Computer",
+	  "greek": "Υπολογιστές",
 	  
   },
   "tech_largeMines": {
@@ -400,6 +415,7 @@
     "turkish":"Büyük Madenler",
     "romanian": "Mine mari",
 	  "danish": "Store miner",
+	  "greek": "Μεγάλα ορυχεία",
   },
   "techDesc_largeMines": {
     "english": "Speed up resource extraction to feed the hunger of your growing city.",
@@ -422,6 +438,7 @@
     "turkish":"Maden üretimini arttırıp büyümekde olan şehrinizin ihtiyaçlarını karşılayın.",
     "romanian": "Accelerează extracția resurselor pentru a hrăni foamea orașului tău în creștere.",
 	  "danish": "Fremskynd ressourceudvindingen for at mætte efterspørgelsen i din voksende by.",
+	  "greek": "Επιτάχυνε την εξαγωγή πόρων για να ικανοποιήσεις τις ανάγκες της αναπτυσσόμενης πόλης σου",
 	  
   },
   "tech_foodProcessing": {
@@ -445,6 +462,7 @@
     "turkish":"Besin İşleme",
     "romanian": "Prelucrare alimentară",
 	"danish": "Fødevareforarbejdning",
+	  "greek": "Επεξεργασία Φαγητού",
   },
   "tech_fertilizer": {
     "english": "Fertilizer",
@@ -467,6 +485,7 @@
 	  "turkish":"Gübre",
     "romanian": "Îngrăşământ",
 	  "danish": "Gødning",
+	  "greek": "Λίπασμα",
   },
   "techDesc_fertilizer": {
     "english": "Supply fertilized soil to nearby farms and increase their output significantly.",
@@ -489,6 +508,7 @@
 	  "turkish":"Yakındaki tarlalara gübrelenmiş toprak sağlayıp üretim oranlarını önemli miktarda arttırın.",
     "romanian": "Furnizează pământ fertilizat fermelor din apropiere și crește producția lor în mod semnificativ.",
 	  "danish": "Lever gødet jord til nærliggende gårde og øg deres produktion betydeligt.",
+	  "greek": "Προμήθευσε χώμα με λίπασμα σε κοντινές φάμρες και αύξησε σημαντικά την παραγωγή τους.",
   },
   "tech_nanotubes": {
     "english": "Carbon Nanotubes",
@@ -511,6 +531,7 @@
 	  "turkish":"Karbon Nanotüpler",
     "romanian": "Nanotuburi de carbon",
 	  "danish": "Kulstof Nanorør",
+	  "greek": "Νανοσωλήνες άνθρακα",
   },
   "tech_selfCleaningSolarPanels": {
     "english": "Self Cleaning Solar Panels",
@@ -533,6 +554,7 @@
 	  "turkish":"Kendini Temizleyen Güneş Panelleri",
     "romanian": "Panouri solare cu autocurățare",
 	  "danish": "Selvrensende Solceller",
+	  "greek": "Αυτοκαθαριζόμενα φωτοβολταϊκά",
   },
   "techDesc_selfCleaningSolarPanels": {
     "english": "Once your solar panels clean themselves, your solar power plants will generate much more power.",
@@ -555,6 +577,7 @@
 	  "turkish":"Güneş panelleri kendilerini temizleyince ürettikleri enerji miktarı çok daha artar.",
     "romanian": "Odată ce panourile solare se curăță, centralele solare vor genera mult mai multă energie.",
 	  "danish": "Når først dine solpaneler renser sig selv, vil dine solcelleanlæg generere meget mere elektricitet.",
+	  "greek": "Μόλις τα φωτοβολταϊκά σου καθαριστούν, τα φωτοβολταϊκά πάρκα σου θα παράγουν πολύ περισσότερο ρεύμα",
   },
   "tech_sixLaneRoads": {
     "english": "Six Lane Roads",
@@ -577,6 +600,7 @@
 	  "turkish":"Altı Şeritli Yollar",
     "romanian": "Drumuri cu șase benzi",
 	  "danish": "6 sporet vej",
+	  "greek": "Δρόμοι έξι λωρίδων",
   },
   "tech_stadiums": {
     "english": "Stadiums",
@@ -599,6 +623,7 @@
 	  "turkish":"Stadyumlar",
     "romanian": "Stadioane",
 	  "danish": "Stadions",
+	  "greek": "Στάδια",
   },
   "tech_neuralProcessors": {
     "english": "Neural Processors",
@@ -621,6 +646,7 @@
 	  "turkish":"Nöral İşlemciler",
     "romanian": "Procesoare neuronale",
 	  "danish": "Neural Processorere",
+	  "greek": "Νευρωνικοί επεξεργαστές",
   },
   "tech_science3": {
     "english": "Yellow Science",
@@ -643,6 +669,7 @@
 	  "turkish":"Sarı Bilim",
     "romanian": "Știință galbenă",
 	  "danish": "Gul Videnskabskrystal",
+	  "greek": "Κιίτρινη επιστήμη",
   },
   "tech_uraniumMining": {
     "english": "Uranium Mining",
@@ -665,6 +692,7 @@
 	  "turkish":"Uranyum Kazısı",
     "romanian": "Exploatarea uraniului",
 	  "danish": "Uran Udvinding",
+	  "greek": "Εξόρυξη Ουρανίου",
   },
   "tech_highways": {
     "english": "Highways",
@@ -687,6 +715,8 @@
     "turkish":"Otoyollar",
     "romanian": "Autostrăzi",
 	  "danish": "Motorveje",
+	  "greek": "Αυτοκινητόδρομοι",
+	  
   },
   "tech_trains": {
     "english": "Trains",
@@ -702,6 +732,7 @@
     "thai": "รถไฟ",
     "polish": "Kolej",
 	  "danish": "Tog",
+	  "greek": "Τρένα",
   },
   "tech_highSpeedRail": {
     "english": "High Speed Rail",
@@ -713,6 +744,7 @@
     "polish": "Szybka kolej",
     "czech": "Vysokorychlostní trať",
 	  "danish": "Højhastigheds skinner",
+	  "greek": "Ράγες υψηλής ταχύτητας",
   },
   "tech_lightningRail": {
     "english": "Lightning Rails",
@@ -724,6 +756,7 @@
     "polish": "Ultraszybka kolej",
     "czech": "Ultra-rychlá trať",
 	  "danish": "Lynhastigheds skinner",
+	  "greek": "Αστραπιαίες Ράγες",
   },
   "tech_superhighways": {
     "english": "Superhighways",
@@ -746,6 +779,7 @@
 	  "turkish":"Süper Otoyollar",
     "romanian": "Super-autostrăzi",
 	  "danish": "Lynmotorveje",
+	  "greek": "Υπεραυτοκινητόδρομοι",
   },
   "tech_homeRobots": {
     "english": "Home Robots",
@@ -768,6 +802,7 @@
 	  "turkish":"Evsel Robotlar",
     "romanian": "Roboți de casă",
 	  "danish": "Hjemmerobotter",
+	  "greek": "Οικιακά ρομπότ",
   },
   "tech_industrialRobots": {
     "english": "Industrial Robots",
@@ -790,6 +825,7 @@
 	  "turkish":"Endüstriyel Robotlar",
     "romanian": "Roboți industriali",
 	  "danish": "Industrirobotter",
+	  "greek": "Βιομηχανικά ρομπότ",
   },
   "techDesc_industrialRobots": {
     "english": "Supply your factories with industrial robots to cut down on the amount of workers requried.",
@@ -812,6 +848,7 @@
 	  "turkish":"Fabrikalarınıza endüstriyel robotlar sağlayıp gerekli çalışan sayısını azaltın.",
     "romanian": "Furnizează fabricile cu roboți industriali pentru a reduce numărul de muncitori necesari în fiecare clădire.",
 	  "danish": "Forsyn dine fabrikker med industrirobotter for at skære ned på antallet af efterspurgte arbejdere.",
+	  "greek": "Πρόσφερε βιομηχανικά ρομπότ στα εργοστάσιά σου για να περιορίσεις το πλήθος των εργατών που απαιτείται.",
   },
   "tech_particleFiltering": {
     "english": "Particle Filter",
@@ -834,6 +871,7 @@
 	  "turkish":"Partikül Filtresi",
     "romanian": "Filtru de particule",
 	  "danish": "Partikel Filter",
+	  "greek": "Φίλτρο Σωαμτιδίων",
   },
   "tech_nuclearPower": {
     "english": "Nuclear Power",
@@ -856,6 +894,7 @@
 	  "turkish":"Nükleer Enerji",
     "romanian": "Energie nucleară",
 	  "danish": "Atomkraft",
+	  "greek": "Πυρηνική ενέργεια",
 	  
   },
   "tech_schools": {
@@ -879,6 +918,7 @@
 	  "turkish":"Okullar",
     "romanian": "Școli",
 	   "danish": "Skole",
+	  "greek": "Σχολεία",
 	  
   },
   "tech_iridiumMining": {
@@ -902,6 +942,7 @@
 	  "turkish":"İridyum Kazısı",
     "romanian": "Exploatarea Iridiului",
 	   "danish": "Iridium Udvinding",
+	  "greek": "Εξόρυξη Ιριδίου",
   },
   "tech_recycling": {
     "english": "Recycling",
@@ -924,6 +965,7 @@
 	  "turkish":"Geri Dönüşüm",
     "romanian": "Reciclare",
 	  "danish": "Genbrug",
+	  "greek": "Ανακύκλωση",
 	  
   },
   "techDesc_recycling": {
@@ -947,6 +989,7 @@
 	  "turkish":"Yakınlardaki fabrikaların atıklarını işleyerek materyal kullanımını azaltın.",
     "romanian": "Reduce consumul de resurse prin procesarea deșeurilor industriale în fabricile din apropiere.",
 	  "danish": "Sænk dit ressourceforbrug ved at behandle industriaffald på nærliggende fabrikker.",
+	  "greek": "Χαμήλωσε την κατανάλωση πόρων επεξεργάζοντας βιομηχανικά απόβλητα σε κοντινά εργοστάσια.",
   },
   "tech_holoDisplays": { // used for AR and VR glasses of the future. "Holo" is short for holographic
     "english": "Holo-Displays",
@@ -969,6 +1012,7 @@
 	  "turkish":"Holo-Ekran",
     "romanian": "Afișări holografice",
 	   "danish": "Holo-skærme",
+	  "greek": "Ολογραφικές Οθόνες",
   },
   "tech_highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -991,6 +1035,7 @@
 	  "turkish":"Yüksek Teknoloji Atölye",
     "romanian": "Atelier de înaltă tehnologie",
 	   "danish": "Højteknologisk værksted",
+	  "greek": "Εργαστήριο Υψηλής Τεχνολογίας",
 	  
   },
   "techDesc_highTechWorkshop": {
@@ -1014,6 +1059,7 @@
 	  "turkish":"Fabrikalarınızı gelişmiş teknolji aletlerle donatıp verimliliklerini arttırın",
     "romanian": "Furnizează fabricile cu instrumente de înaltă tehnologie pentru a crește productivitatea.",
 	     "danish": "Forsyn dine fabrikker med højteknologiske værktøjer for at øge produktiviteten.",
+	  "greek": "Πρόσφερε εργαλεία υψηλής τεχνολογίας στα εργοστάσιά σου για να αυξήσεις την παραγωγικότητα.",
   },
   "tech_aiControlUnits": { //"units" can be replaced by "modules" or "parts" if it fits better
     "english": "AI Control Units",
@@ -1036,6 +1082,7 @@
 	  "turkish":"Yapay Zeka Kontrol Üniteleri",
     "romanian": "Unități de control în inteligență artificială",
 	   "danish": "AI kontrolenheder",
+	  "greek": "Μονάδες ελέγχου AI",
   },
   "tech_iridiumPropellant": {
     "english": "Iridium Propellant",
@@ -1058,6 +1105,7 @@
 	  "turkish":"İridyum İtici",
     "romanian": "Propulsor de iridiu",
 	     "danish": "Iridium drivmiddel",
+	  "greek": "Προωστικό Ιριδίου",
 	  
   },
   "tech_fastNeutronReactor": {
@@ -1081,6 +1129,7 @@
 	  "turkish":"Hızlı Nötron Reaktörü",
     "romanian": "Reactor rapid cu neutroni",
 	     "danish": "Hurtig neutronreaktor",
+	  "greek": "Γρήγορος Αντιδραστήρας Νετρονίων",
 	  
   },
   "tech_science4": {
@@ -1104,6 +1153,7 @@
 	  "turkish":"Kırmızı Bilim",
     "romanian": "Știință roșie",
 	   "danish": "Rød Videnskrystal",
+	  "greek": "Κόκκινη Επιστήμη",
 	  
   },
   "tech_adamantineMining": {
@@ -1127,6 +1177,7 @@
 	  "turkish":"Adamantium Kazısı",
     "romanian": "Exploatarea de adamantin",
 	    "danish": "Adamantine minedrift",
+	  "greek": "Εξόρυξη Αδάμα",
 	  
   },
 }
