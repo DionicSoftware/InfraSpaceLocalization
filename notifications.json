@@ -20,6 +20,7 @@
 		"turkish":"Güç Ağında Yeterli Elektrik Yok %networkId%",
 		"romanian": "Nu este suficientă energie în rețeaua %networkId%",
 		"danish": "Ikke not elektricitet tilgængeligt i netværk %networkId%",
+		"greek": "Ανεπαρκής ρεύμα στο δίκτυο %networkId%",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -42,6 +43,7 @@
 		"turkish":"Araştırma Seç",
 		"romanian": "Alege o cercetare",
 		"danish": "Vælg Forskning",
+		"greek": "Επίλεξε έρευνα",
 	},
 	"notEnoughWorkers_title": {
 		"english": "Not enough Workers",
@@ -64,6 +66,7 @@
 		"turkish":"Yeterli Çalışan Yok",
 		"romanian": "Nu sunt destui muncitori",
 		"danish": "Ikke nok arbejdere",
+		"greek": "Ανεπαρκείς εργάτες",
 	},
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
@@ -86,6 +89,7 @@
 		"turkish":"Yeterli çalışanınız yoksa fabrikalarınız verimli çalışamaz.\nSol üstteki öncelik menüsünden iş gücünüzü dağıtabilirsiniz.",
 		"romanian": "Dacă nu ai suficienți lucrători, fabricile tale nu pot funcționa eficient.\nUtilizează instrumentul de prioritizare din stânga sus pentru a-ți distribui forța de muncă.",
 		"danish": "Hvis du ikke har nok arbejdere vil dine fabrikker ikke køre effektivt.\nBrug prioriterings værktøjet i øverste venstre hjørne, til at fordele din arbejdsstyrke.",
+		"greek": "Αν δεν έχεις αρκετούς εργάτες, τα εργοστάσιά σου δέν μπορούν να δουλέψουν αποτελεσματικά.\nΧρησιμοποίησε το εργαλέιο προταιρεότητας πάνω αριστερά για να διανείμεις το εργατικό σου δυναμικό.",
 	},
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
@@ -108,6 +112,7 @@
 		"turkish":"Türbülanslar rüzgar türbinlerinin verimliliğini düşürür",
 		"romanian": "Turbulențele scad eficiența turbinei eoliene",
 		"danish": "Turbulenser reducerer vindmøllens effektivitet",
+		"greek": "Οι αναταράξεις μειώνουν την αποτελεσματικότητα των ανεμογεννητριών",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -130,5 +135,6 @@
 		"turkish":"İki türbin birbirine çok yakın. Verimlilikeri düşdü.",
 		"romanian": "Două turbine eoliene sunt prea apropiate. Eficiența lor este scăzută.",
 		"danish": "To vindmøller er for tæt på hinanden. Deres effektivitet er faldet.",
+		"greek": "Δύο ανεμογεννήτριες είναι πολύ κοντά μεταξύ τους.Η αποτελεσματικότητά τους είναι μεωμένη.",
 	},
 }
