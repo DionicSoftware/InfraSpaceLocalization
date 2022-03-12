@@ -22,6 +22,7 @@
 		"hungarian": "Igen",
 		"thai": "ใช่",
 		"danish": "Ja",
+		"greek": "Ναι",
 	},
 	"no": {
 		"english": "No",
@@ -46,6 +47,7 @@
 		"hungarian": "Nem",
 		"thai": "ไม่",
 		"danish": "Nej",
+		"greek": "Όχι",
 	},
 	"hours": {
 		"english": "hours",
@@ -68,6 +70,7 @@
 		"turkish":"saat",
 		"romanian": "ore",
 		"danish": "timer",
+		"greek": "ώρες",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -90,6 +93,7 @@
 		"turkish":"s",
 		"romanian": "h",
 		"danish": "t",
+		"greek": "ω",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -114,6 +118,7 @@
 		"hungarian": "perc",
 		"thai": "นาที",
 		"danish": "minutter",
+		"greek": "λεπτά",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
@@ -136,6 +141,7 @@
 		"turkish":"dk",
 		"romanian": "min",
 		"danish": "min",
+		"greek": "λεπ",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
@@ -155,6 +161,7 @@
 		"italian": "m",
 		"romanian": "m",
 		"danish": "m",
+		"greek": "λ",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -179,6 +186,7 @@
 		"hungarian": "másodperc",
 		"thai": "วินาที",
 		"danish": "sekunder",
+		"greek": "δευτερόλεπτα",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -203,6 +211,7 @@
 		"hungarian": "mp",
 		"thai": "วิ",
 		"danish": "s",
+		"greek": "δ",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -227,6 +236,7 @@
 		"hungarian": "mp",
 		"thai": "วินาที",
 		"danish": "sek",
+		"greek": "δευτ",
 	},
 	"days": { // used like "0.4 days"
 		"english": "days",
@@ -249,5 +259,6 @@
 		"hungarian": "nap",
 		"thai": "วัน",
 		"danish": "dage",
+		"greek": "μέρες",
 	},
 }
