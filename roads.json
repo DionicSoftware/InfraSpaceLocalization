@@ -20,6 +20,7 @@
 		"turkish": "Çakıl Yol",
 		"romanian": "Drum de pietriș",
 		"danish": "Grusvej",
+		"greek": "Δρόμος από χαλίκι",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -42,6 +43,7 @@
 		"turkish": "Beton Yol",
 		"romanian": "Drum de beton",
 		"danish": "Betonvej",
+		"greek": "Δρόμος από μπετόν",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -64,6 +66,7 @@
 		"turkish": "Otoyol",
 		"romanian": "Autostradă",
 		"danish": "Motorvej",
+		"greek": "Αυτοκινητόδρομος",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -86,6 +89,7 @@
 		"turkish": "Süper Otoyol",
 		"romanian": "Super-autostradă",
 		"danish": "Lyn Motorvej",
+		"greek": "Υπεραυτοκινητόδρομος",
 	},
 	"rail_oneWay": {
 		"english": "Rail",
@@ -102,6 +106,7 @@
 		"spanish": "Linea Ferroviaria",
 		"thai":"รถไฟ",
 		"danish": "Skinne",
+		"greek": "Ράγα",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
@@ -113,6 +118,7 @@
 		"polish": "Szybki tor kolejowy",
 		"czech": "Vysokorychlostní trať",
 		"danish": "Højhastigheds Skinne",
+		"greek": "Ράγα Υψηλής Ταχύτητας",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -124,5 +130,6 @@
 		"polish": "Ultraszybki tor kolejowy",
 		"czech": "Ultra-rychlá trať",
 		"danish": "Lynhastigheds Skinne",
+		"greek": "Αστραπιαία Ράγα",
 	},
 }
