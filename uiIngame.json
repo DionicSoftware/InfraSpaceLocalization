@@ -18,7 +18,8 @@
 		"thai": "เครือข่ายแหล่งพลังงานที่ %id%",
 		"turkish": "Güç Ağı %id%",
 		"romanian": "Rețea de alimentare %id%",
-		"danish": "Strøm Netværk %id%",
+		"danish": "Elektricitet Netværk %id%",
+		"greek": "Ηλεκτρικό δίκτυο %id%",
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -39,7 +40,10 @@
 		"thai": "จำเป็นต้องใช้ %amount% MW",
 		"turkish": "Gerekli: %amount% MW",
 		"romanian": "Necesar: %amount% MW",
-		"danish": "Krævet: %amount% MW",
+		"danish": "Påkrævet: %amount% MW",
+		"greek": "Απαιτούνται: %amount% MW",
+
+		
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -60,7 +64,8 @@
 		"thai": "พลังงานที่ใช้:",
 		"turkish": "Kullanılan elektrik",
 		"romanian": "Curent consumat:",
-		"danish": "Strøm brugt",
+		"danish": "Elektricitet forbrug:",
+		"greek": "Καταναλισκόμενη Ισχύς:",
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -81,7 +86,8 @@
 		"thai": "พลังงานที่ผลิตได้:",
 		"turkish": "Üretilen elektrik:",
 		"romanian": "Curent produs:",
-		"danish": "Strøm brugt",
+		"danish": "Elektricitet Produceret:",
+		"greek": "Παραγόμενη Ισχύς:",
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -102,7 +108,8 @@
 		"thai": "พื้นที่เก็บขาเข้าว่าง",
 		"turkish": "Gelen depo boş",
 		"romanian": "Depozit de intrare gol",
-		"danish": "Indgående lager er tomt",
+		"danish": "Indgående opbevaring tom",
+		"greek": "Άδεια αποθήκη εισαγωγής",
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -124,6 +131,7 @@
 		"turkish": "Yola ulaşım yok",
 		"romanian": "Fără acces la drum",
 		"danish": "Ingen adgang til vej",
+		"greek": "Καθόλου πρόσβαση στον δρόμο",
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -144,7 +152,8 @@
 		"thai": "พื้นที่เก็บขาออกเต็ม",
 		"turkish": "Hedef depo dolu",
 		"romanian": "Depozit de ieșire plin",
-		"danish": "Udgående lager er fyldt",
+		"danish": "Udgående opbevaring fyldt",
+		"greek": "Γεμάτη αποθήκη εξαγωγής",
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -166,6 +175,7 @@
 		"turkish": "Binada çalışan yok",
 		"romanian": "Fără muncitori",
 		"danish": "Ingen arbejdere i bygningen",
+		"greek": "Καθόλου εργάτες στο κτήριο",
 	},
 	"noPower": {
 		"english": "No power",
@@ -186,7 +196,8 @@
 		"thai": "ไม่มีพลัง",
 		"turkish": "Elektrik yok",
 		"romanian": "Nu este curent",
-		"danish": "Ingen strøm",
+		"danish": "Ingen elektricitet",
+		"greek": "Καθόλου ρεύμα",
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -208,6 +219,7 @@
 		"turkish": "%%amount% Verimlilik",
 		"romanian": "Eficienţă: %amount%%",
 		"danish": "%amount%% Effektivitet",
+		"greek": "%amount%% Αποτελεσματικότητα",
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -228,7 +240,8 @@
 		"thai": "เมืองของคุณจะได้รับการเลื่อนตำแหน่งเป็น \"%cityLevelName%\" ก็ต่อเมื่อคุณต้องมีพลเมืองมีอย่างน้อย %amount% ระดับ %nextLevel%",
 		"turkish": "En az %amount% tane %nextLevel% Seviye vatandaş olunca şehriniz \"%cityLevelName%\" e yükselicek.",
 		"romanian": "Orașul tău va fi promovat la \"%cityLevelName%\" după ce vei avea cel puțin %amount% cetățeni de nivel %nextLevel%.",
-		"danish": "Din by vil blive opgraderet til \"%cityLevelName%\" når du har mindst %amount% level %nextLevel% beboere.",
+		"danish": "Din by vil blive opgraderet til \"%cityLevelName%\" når du har mindst %amount% niveau %nextLevel% indbyggere.",
+		"greek": "Η πόλη σου θα αναβαθμιστεί σε \"%cityLevelName%\" μόλις έχεις τουλάχιστον %amount% %nextLevel%ου επιπέδου κατοίκους",
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -249,7 +262,8 @@
 		"thai": "คุณมาถึงสูงสุดของระดับเมืองแล้ว ยินดีด้วย!",
 		"turkish": "En yüksek şehir seviyesine ulaştınız. Tebrikler!",
 		"romanian": "Ai atins cel mai înalt nivel de oraș. Felicitări!",
-		"danish": "Du har nået det højeste by level. Tilykke!",
+		"danish": "Du har nået det højeste by niveau. Stærkt Gået!",
+		"greek":"Έφτασες στο υψηλότερο επίπεδο πόλης. Συγχαρητήρια!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -270,7 +284,8 @@
 		"thai": "เมืองของคุณจะถูกลดระดับเป็น \"%cityLevelName%\" หากคุณยังมีพลเมืองน้อยกว่า %amount% ระดับ %level%",
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
-		"danish": "din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% level %level% beboere.",
+		"danish": "Din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% nivau %level% indbyggere.",
+		"greek":"Η πόλη σου θα υποβαθμιστεί σε \"%cityLevelName%\" εάν έχεις λιγότερους από %amount% %level%ου επιπέδου κατοίκους.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -292,6 +307,7 @@
 		"turkish": "%techName% araştırlıyor...    %progress%",
 		"romanian": "Cercetând %techName%...    %progress%",
 		"danish": "Udforsker %techName%...    %progress%",
+		"greek":"Ερευνόντας %techName%...    %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -313,6 +329,7 @@
 		"turkish": "Yükseltmek için bir teknoloji seçin",
 		"romanian": "Alege tehnologia de cercetare",
 		"danish": "Vælg en teknologi at forske",
+		"greek":"Επίλεξε τεχνολογία για να ερευνήσεις",
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -334,6 +351,7 @@
 		"turkish": "Hiçbirşey",
 		"romanian": "Nimic",
 		"danish": "Intet",
+		"greek":"Τίποτα",
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -354,7 +372,8 @@
 		"thai": "เราปลดล็อค %techName% แล้วและตอนนี้สามารถสร้างได้:",
 		"turkish": "%techName% araştırması bitti ve artık inşa edilebilir:",
 		"romanian": "Am deblocat %techName% și acum putem construi:",
-		"danish": "Vi har åbnet for %techName% og kan nu bygge:",
+		"danish": "Vi har åbnet for %techName% og du kan nu bygge:",
+		"greek":"Ξεκλειδώσαμε %techName% και τώρα μπορούμε να χτίσουμε:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -376,6 +395,7 @@
 		"turkish": "%techName% araştırması bitti.",
 		"romanian": "Am deblocat %techName%.",
 		"danish": "Vi har åbnet for %techName%.",
+		"greek":"Έχουμε ξεκλειδώσει %techName%",
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -397,6 +417,7 @@
 		"turkish": "Bu teknolojinin açtıkları:",
 		"romanian": "Această tehnologie deblochează:",
 		"danish": "Denne teknologi åbner for:",
+		"greek":"Αυτή η τεχνολογία ξεκλειδώνει:",
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
@@ -418,6 +439,7 @@
 		"turkish": "BU teknoloji hiçbirşey açmıyor.",
 		"romanian": "Această tehnologie nu deblochează nimic.",
 		"danish": "Denne teknologi åbner ikke for noget",
+		"greek":"Αυτή η τεχνολογία δεν ξεκλειδώνει τίποτα.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -438,7 +460,8 @@
 		"thai": "วิจัยเสร็จแล้ว!",
 		"turkish": "Araştırma tamamlandı!",
 		"romanian": "Cercetare finalizată!",
-		"danish": "Forskning udført!",
+		"danish": "Forskning Færdig!",
+		"greek":"Η έρευνα ολοκληρώθηκε!",
 	},
 	"production": {
 		"english": "Production",
@@ -460,6 +483,7 @@
 		"turkish": "Üretim",
 		"romanian": "Producție",
 		"danish": "Produktion",
+		"greek":"Παραγωγή",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -481,6 +505,7 @@
 		"turkish": "Tüketim",
 		"romanian": "Consum",
 		"danish": "Forbrug",
+		"greek":"Κατανάλωση",
 	},
 	"workers": {
 		"english": "Workers",
@@ -502,6 +527,7 @@
 		"turkish": "Çalışanlar",
 		"romanian": "Muncitori",
 		"danish": "Arbejdere",
+		"greek": "Εργάτες",
 	},
 	"storage": {
 		"english": "Storage",
@@ -523,6 +549,7 @@
 		"turkish": "Depo",
 		"romanian": "Depozit",
 		"danish": "Lager",
+		"greek": "Αποθήκη",
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -544,6 +571,7 @@
 		"turkish": "Yükseltmeler",
 		"romanian": "Upgrade-uri",
 		"danish": "Opgraderinger",
+		"greek": "Αναβαθμίσεις",
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -564,7 +592,8 @@
 		"thai": "จัดลำดับความสำคัญ",
 		"turkish": "Önceliğe Al",
 		"romanian": "Prioritizează",
-		"danish": "Prioritering",
+		"danish": "Prioriter",
+		"greek": "Δώσε προταιρεότητα",
 	},
 	"price": {
 		"english": "Price",
@@ -587,6 +616,7 @@
 		"thai": "ราคา",
 		"turkish": "Fiyat",
 		"danish": "Pris",
+		"greek": "Τιμή",
 	},
 	// habitat info panel
 	"habitatUpgradingIn": {
@@ -608,7 +638,8 @@
 		"thai": "กำลังปรับปรุงที่อยู่อาศัยใน %seconds% วิ",
 		"turkish": "Habitat %seconds%sn sonra yükeslicek.",
 		"romanian": "Habitatul modernizează în %seconds%s.",
-		"danish": "Habitat udvides om %seconds%s",
+		"danish": "Habitat opgraderes om %seconds%s",
+		"greek": "Ο οικισμός αναβαθμίζεται σε %seconds%δευτ",
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -630,6 +661,7 @@
 		"turkish": "Habitat %seconds%sn sonra bir alt seviyeye inecek.",
 		"romanian": "Habitatul degradează în %seconds%s.",
 		"danish": "Habitat nedgraderes om %seconds%s",
+		"greek": "Ο οικισμός υποβαθμίζεται σε %seconds%δευτ.",
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -650,7 +682,8 @@
 		"thai": "ที่อยู่อาศัยเต็ม เติมเต็มความต้องการนี้ด้วยการปรับปรุง",
 		"turkish": "Habitat dolu. Yükseltmek için gereksinimleri tamamla.",
 		"romanian": "Habitatul este plin. Îndepliniți nevoile suplimentare pentru upgrade.",
-		"danish": "Habitatet er fuldt. Opfyld de yderligere behov for at udvide.",
+		"danish": "Habitatet er fyldt. Opfyld de yderligere behov for at opgradere.",
+		"greek": "Ο οικισμός είναι γεμάτος.Ικανοποίησε τις επιπλέον ανάγκες για να αναβαθμιστεί.",
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -671,7 +704,8 @@
 		"thai": "ผู้คนกำลังย้ายเข้ามา",
 		"turkish": "İnsanlar yerleşiyor.",
 		"romanian": "Oamenii se mută înăuntru.",
-		"danish": "Beboere flytter ind.",
+		"danish": "indbyggere flytter ind.",
+		"greek": "Οι άνθρωποι έρχονται",
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -692,7 +726,8 @@
 		"thai": "ผู้คนกำลังย้ายออกไป",
 		"turkish": "İnsanlar taşnıyor.",
 		"romanian": "Locuitorii pleacă.",
-		"danish": "Beboere flytter ud.",
+		"danish": "Indbyggere flytter ud.",
+		"greek": "Οι άνθρωποι φεύγουν",
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -714,6 +749,7 @@
 		"turkish": "Gereksinimler sağlanmadı.",
 		"romanian": "Nevoile nu sunt satisfăcute.",
 		"danish": "Behov er ikke opfyldt.",
+		"greek": "Οι ανάγκες δεν ικανοποιούνται",
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -734,7 +770,8 @@
 		"thai": "ชาวบ้านสบายดี",
 		"turkish": "Oturanlar iyi.",
 		"romanian": "Locuitorii sunt ok.",
-		"danish": "Beboere har det okay.",
+		"danish": "Indbyggere har det okay.",
+		"greek": "Οι κάτικοι είναι οκ.",
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -756,6 +793,7 @@
 		"turkish": "Yükseltme seçilmedi.",
 		"romanian": "Nicio cercetare selectată",
 		"danish": "Ingen forskning valgt",
+		"greek": "Δεν έχει επιλεγεί έρευνα",
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -777,6 +815,7 @@
 		"turkish": "Depodaki kaynaklar:",
 		"romanian": "Resurse în depozit:",
 		"danish": "Resourcer på lager:",
+		"greek": "Πόροι σε αποθήκευση:",
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -797,7 +836,8 @@
 		"thai": "พลเมืองระดับ %level%",
 		"turkish": "%level% Seviye vatandaşlar",
 		"romanian": "Cetăţeni de nivel %level%",
-		"danish": "Level %level% beboere",
+		"danish": "Niveau %level% indbyggere",
+		"greek": "Επιπέδου %level% κάτικοι",
 	},
 	"population": {
 		"english": "Population",
@@ -819,6 +859,7 @@
 		"turkish": "Nüfus",
 		"romanian": "Populație",
 		"danish": "Befolkning",
+		"greek": "Πληθυσμός",
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -840,6 +881,7 @@
 		"turkish": "İşler",
 		"romanian": "Locuri de muncă",
 		"danish": "Job",
+		"greek": "Δουλειές",
 	},
 	"housing": {
 		"english": "Housing",
@@ -861,6 +903,7 @@
 		"turkish": "Konutlar",
 		"romanian": "Locuințe",
 		"danish": "Bolig",
+		"greek": "Στέγαση",
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -882,6 +925,7 @@
 		"italian": "Statistiche della città",
 		"romanian": "Statistica orașului",
 		"danish": "By Statistik",
+		"greek": "Στατιστικά πόλης",
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -903,6 +947,7 @@
 		"turkish": "Nüfüs",
 		"romanian": "Populație",
 		"danish": "Befolkning",
+		"greek": "Πληθυσμός",
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -924,6 +969,7 @@
 		"turkish": "İşler",
 		"romanian": "Locuri de muncă",
 		"danish": "Job",
+		"greek": "Δουλειές",
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -945,6 +991,7 @@
 		"turkish": "Konutlar",
 		"romanian": "Locuințe",
 		"danish": "Bolig",
+		"greek": "Στέγαση",
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -966,6 +1013,7 @@
 		"turkish": "Yerleşme Oranı",
 		"romanian": "Rata de imigrare",
 		"danish": "Indvandringsrate",
+		"greek": "Ποσοστό Μετανάστευσης",
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -987,6 +1035,7 @@
 		"turkish": "Verimlilik",
 		"romanian": "Eficienţă",
 		"danish": "Effektivitet",
+		"greek": "Αποτελεσματικότητα",
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -1008,6 +1057,7 @@
 		"turkish": "Yetersiz Çalışan:",
 		"romanian": "Nu sunt destui muncitori:",
 		"danish": "Ikke nok arbejdere:",
+		"greek": "Ανεπαρκείς εργάτες:",
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings",
@@ -1029,6 +1079,7 @@
 		"turkish": "Komşu binalardan güçlendirilmiş",
 		"romanian": "Amplificat de clădirile vecine",
 		"danish": "Boostet af nærliggende bygninger",
+		"greek": "Ενισχύθηκε από γειτονικά κτήρια",
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -1049,7 +1100,8 @@
 		"thai": "พลังงานไม่เพียงพอ:",
 		"turkish": "Yetersiz elektrik:",
 		"romanian": "Energie insuficientă:",
-		"danish": "Ikke nok strøm:",
+		"danish": "Ikke nok elektricitet:",
+		"greek": "Ανεπαρκής ρεύμα:",
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow",
@@ -1071,6 +1123,7 @@
 		"turkish": "Bozuk hava akışı",
 		"romanian": "Flux de aer perturbat",
 		"danish": "Forstyrret luftstrøm",
+		"greek": "Αναταραγμένη ροή αέρα",
 	},
 
 	"gridOff": {
@@ -1083,6 +1136,7 @@
 		"polish": "wyłącz siatkę",
 		"czech": "Bez mřížky",
 		"danish": "Intet Gitter",
+		"greek": "Καθόλου Πλέγμα",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
@@ -1094,6 +1148,7 @@
 		"polish": "Siatka 0°",
 		"czech": "0° mřížka",
 		"danish": "0° Gitter",
+		"greek": "0° Πλέγμα",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
@@ -1105,6 +1160,7 @@
 		"polish": "Siatka 45°",
 		"czech": "45° mřížka",
 		"danish": "45° Gitter",
+		"greek": "45° Πλέγμα",
 	},
 
 	"buildCurvedRoad": {
@@ -1127,6 +1183,7 @@
 		"turkish": "Kavisli Yol",
 		"romanian": "Construiește un drum curbat",
 		"danish": "Byg buet vej",
+		"greek": "Χτίσε κυρτό δρόμο",
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -1148,6 +1205,7 @@
 		"turkish": "Yol Uzunluğunu Daya",
 		"romanian": "Lungimea drumului",
 		"danish": "Snap Vejlængde",
+		"greek": " Ταίριαξε μήκος δρόμου",
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -1169,6 +1227,7 @@
 		"turkish": "Yol Açısını Daya",
 		"romanian": "Unghiul drumului",
 		"danish": "Snap Vejvinkel",
+		"greek": "Ταίριαξε γωνία δρόμου",
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -1190,6 +1249,7 @@
 		"turkish": "Yolu Değiştir",
 		"romanian": "Înlocuiește drumul",
 		"danish": "Erstat Vej",
+		"greek": "Αντικατάστησε δρόμο",
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -1209,7 +1269,8 @@
 		"russian": "Также меняет направление дороги, если у вас не выбрана дорога для замены",
 		"italian": "Inverte anche la direzione della strada se non hai selezionato una strada alternativa",
 		"romanian": "Inversează direcția drumului dacă nu ai selectat un drum de înlocuire",
-		"danish": "Vendter også vejretningen, hvis du ikke har valgt en erstatningsvej",
+		"danish": "Vender også vejretningen, hvis du ikke har valgt en erstatningsvej",
+		"greek": "Αλλάζει την κατεύθυνση του δρόμο επίσης αν δεν έχεις επιλέξει δρόμο προς αντικατάσταση",
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1230,6 +1291,7 @@
 		"italian": "Inverti strada",
 		"romanian": "Drum invers",
 		"danish": "Omvend Vej",
+		"greek": "Άλλαξε κατεύθυνση δρόμου",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1251,6 +1313,7 @@
 		"turkish": "Yola Daya",
 		"romanian": "Lipește lângă drum",
 		"danish": "Fikser til vej",
+		"greek": "Κούμπωσε στον δρόμο",
 	},
 	"trainSignalsView": {
 		"english": "Train Signals View",
@@ -1264,6 +1327,7 @@
 		"romanian": "Vizualizarea semnalelor de tren",
 		"polish": "Widok sygnalizacji kolejowej",
 		"danish": "Togsignalvisning",
+		"greek": "Προβολή σημάτων τρένου",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1285,6 +1349,7 @@
 		"turkish": "Şuanda iletiliyor: %amount%",
 		"romanian": "În curs de livrare: %amount%",
 		"danish": "Ved at blive leveret: %amount%",
+		"greek": "Τώρα διανέμονται:%amount%",
 	},
 	// sign panel
 	"signPanelText": {
@@ -1307,6 +1372,7 @@
 		"turkish": "Metin",
 		"romanian": "Text",
 		"danish": "Tekst",
+		"greek": "Κείμενο",
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -1328,6 +1394,7 @@
 		"turkish": "Yazı Boyu",
 		"romanian": "Mărimea fontului",
 		"danish": "Skriftstørrelse",
+		"greek": "Μέγεθος Γραμματισειράς",
 	},
 	"font": {
 		"english": "Font",
@@ -1349,6 +1416,7 @@
 		"turkish": "Yazı Tipi",
 		"romanian": "Font",
 		"danish": "Skrifttype",
+		"greek": "Γραμματοσειρά",
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -1369,7 +1437,8 @@
 		"thai": "ไม่ได้เชื่อมต่อกับเครือข่ายไฟฟ้า",
 		"turkish": "Güç ağına bağlı değil",
 		"romanian": "Nu este conectat la rețeaua de alimentare",
-		"danish": "Ikke forbindet til strøm netværk",
+		"danish": "Ikke forbundet til elektricitet netværk",
+		"greek": "Μη συνδεδεμένο στο ηλεκτρικό δίκτυο",
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1391,6 +1460,7 @@
 		"turkish": "Bina birşeyle çakışıyor",
 		"romanian": "Clădirea se ciocnește de ceva",
 		"danish": "Bygningen kolidere med noget",
+		"greek": "Το κτήριο ακουμπάει με κάτι",
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -1412,6 +1482,7 @@
 		"turkish": "Bina kaynağın üstünde değil",
 		"romanian": "Clădirea nu este plasată pe depozitul de resurse",
 		"danish": "Bygningen er ikke placeret på et resource område",
+		"greek": "Το κτήριο δεν τοποθετήθηκε σε απόθεμα πόρων",
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -1433,6 +1504,7 @@
 		"turkish": "Yol birşeyle çakışıyor",
 		"romanian": "Drumul se ciocnește de ceva",
 		"danish": "Vej kolidere med noget",
+		"greek": "Ο δρόμος ακουμπάει με κάτι",
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -1454,6 +1526,7 @@
 		"turkish": "Başka bir yola çok yakın",
 		"romanian": "Prea aproape de drumul vecin",
 		"danish": "For tæt på nærtliggende vej",
+		"greek": "Πολύ κοντά σε γειτονικό δρόμο",
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1475,6 +1548,7 @@
 		"turkish": "Yol çok kısa",
 		"romanian": "Segment de drum prea scurt",
 		"danish": "Vej stykke er for kort",
+		"greek": "Κομμάτι δρόμου πολύ κοντό",
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -1496,6 +1570,7 @@
 		"turkish": "Yol çok dik",
 		"romanian": "Drum prea abrupt",
 		"danish": "Vej er for stejl",
+		"greek": "Δρόμος πολύ απότομος",
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -1517,6 +1592,7 @@
 		"turkish": "Yol zeminden çok uzak",
 		"romanian": "Drum prea departe de sol",
 		"danish": "Vej er for langt fra jorden",
+		"greek": "Δρόμος πολύ μακριά από το έδαφος",
 	},
 	"roadDeadEnd": {
 		"english": "Dead End",
@@ -1531,6 +1607,7 @@
 		"romanian": "Capăt de drum",
 		"polish": "Ślepa ulica",
 		"danish": "Blindgyde",
+		"greek": "Αδιέξοδος",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1552,6 +1629,7 @@
 		"turkish": "Görselleştirmeler",
 		"romanian": "Vizualizări",
 		"danish": "Visualiseringer",
+		"greek": "Απεικονήσεις",
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -1573,6 +1651,7 @@
 		"turkish": "Bina Verimliliği",
 		"romanian": "Eficiența construcției",
 		"danish": "Bygning Effektivitet",
+		"greek": "Αποτελεσματικότητα κτηρίων",
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -1593,7 +1672,9 @@
 		"thai": "อาคารที่พัก (คนงานและผู้อยู่อาศัย)",
 		"turkish": "Bina Doluluğu (Çalışanlar & Oturanlar)",
 		"romanian": "Ocuparea clădirilor (muncitori și locuitori)",
-		"danish": "Bygningsbelægning (arbejdere og beboere)",
+		"danish": "Bygningsbelægning (arbejdere og indbyggere)",
+		"greek": "Πληρότητα κτηρίων (Εργάτες & Κάτικοι)",
+		
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1614,7 +1695,8 @@
 		"thai": "พลังงาน",
 		"turkish": "Elektrik",
 		"romanian": "Energie",
-		"danish": "Strøm",
+		"danish": "Elektricitet",
+		"greek": "Ρεύμα",
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1636,6 +1718,7 @@
 		"turkish": "Rüzgar Türbinleri",
 		"romanian": "Turbine eoliene",
 		"danish": "Vindmølle",
+		"greek": "Ανεμογεννήτριες",
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -1657,6 +1740,7 @@
 		"turkish": "Toprak Zenginleştirme Tesisleri",
 		"romanian": "Facilități de îmbogățire a solului",
 		"danish": "Jordberigelsesfaciliteter",
+		"greek": "Εγκαταστάσεις εμπολυτισμού εδάφους",
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1678,6 +1762,7 @@
 		"turkish": "Geri Dönüşüm Merkezleri",
 		"romanian": "Centre de reciclare",
 		"danish": "Genbrugsstationer",
+		"greek": "Κέντρα ανακύκλωσης",
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -1699,6 +1784,7 @@
 		"turkish": "Yüksek Teknoloji Ekipmanlı Binalar",
 		"romanian": "Clădiri cu instrumente de înaltă tehnologie",
 		"danish": "Bygninger med højteknologiske værktøjer",
+		"greek": "Κτήρια με εργαλεία υψηλής τεχνολογίας",
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -1720,6 +1806,7 @@
 		"turkish": "Endüstriyel Robotlu Binalar",
 		"romanian": "Clădiri cu roboți industriali",
 		"danish": "Bygninger med Industriroboter",
+		"greek": "Κτήρια με βιομηχανικά ρομπότ",
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -1741,6 +1828,7 @@
 		"turkish": "Arabalar",
 		"romanian": "Mașini",
 		"danish": "Biler",
+		"greek": "Αυτοκίνητα",
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -1762,6 +1850,7 @@
 		"turkish": "Yollar",
 		"romanian": "Drumuri",
 		"danish": "Veje",
+		"greek": "Δρόμοι",
 	},
 	"visualization_Parks": {
 		"english": "Parks",
@@ -1773,6 +1862,7 @@
 		"polish": "Parki",
 		"czech": "Parky",
 		"danish": "Parker",
+		"greek": "Πάρκα",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
@@ -1784,6 +1874,7 @@
 		"polish": "Kultura",
 		"czech": "Kultura",
 		"danish": "Kultur",
+		"greek": "Κουλτούρα",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -1795,6 +1886,7 @@
 		"polish": "Szkoły",
 		"czech": "Školy",
 		"danish": "Skoler",
+		"greek": "Σχολεία",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -1816,6 +1908,7 @@
 		"turkish": "Gerekli Malzemeler:",
 		"romanian": "Resurse necesare:",
 		"danish": "Manglende Resourcer:",
+		"greek": "Απαιτούμενοι πόροι:",
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -1836,7 +1929,8 @@
 		"thai": "การขุด %resourceName% ได้ %amount% ต่อนาที",
 		"turkish": "Dakikada %amount% adet %resourceName% kazılıyor",
 		"romanian": "Extrage %amount% %resourceName% pe minut",
-		"danish": "Udvinder %amount% %resourceName% per minut",
+		"danish": "Udvinder %amount% %resourceName% i minutet",
+		"greek": "Κάνοντας εξόρυξη %amount% %resourceName% ανά λεπτό",
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -1857,7 +1951,8 @@
 		"thai": "จำนวนทั้งหมดที่ขุดได้จนถึงตอนนี้: %amount%",
 		"turkish": "Şimdiye kadar toplam kazılan: %amount%",
 		"romanian": "Suma totală extrasă până acum: %amount%",
-		"danish": "Total mængde udvindet indtil nu: %amount%",
+		"danish": "Total mængde udvundet indtil videre: %amount%",
+		"greek": "Συνολικό ποσό έγινε εξόρυξη μ;eχρι τώρα:%amount%",
 	},
 	"districts": {
 		"english": "Districts",
@@ -1879,6 +1974,7 @@
 		"turkish": "Bölgeler",
 		"romanian": "Districte",
 		"danish": "Distrikter",
+		"greek": "Περιοχές",
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -1900,6 +1996,7 @@
 		"turkish": "Sol tıkla çiz\nSağ tıkla sil",
 		"romanian": "Clic stânga pentru a picta\nClic dreapta pentru a șterge",
 		"danish": "Venstre-klik for at male\nHøjre-klik for at slette",
+		"greek": "Αριστερό κλικ για ζωγραφική\nΔεξί κλικ για διαγραφή",
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -1921,6 +2018,7 @@
 		"turkish": "Bir ihracat kuralı yaratmak için fare imlecini bölgeler arasında oynat.\n\nİhracat kuralı olmayan bölgeler heryere ihracat yapabilirler",
 		"romanian": "Trage cursorul mouse-ului între districte pentru a crea o regulă de export.\n\nDistrictele fără reguli de export pot exporta mărfuri oriunde.",
 		"danish": "Træk musemarkøren mellem distrikter for at oprette en eksportregel.\n\nDistrikter uden exportregler, kan exportere varer overalt.",
+		"greek": "Σύρε τον κέρσορα του ποντικιού μεταξύ περιοχών για να δημιοργήσεις έναν κανόνα εξαγωγής.\n\nΠεριοχές χωρίς κανόνες εξαγωγής μπορούν να εξάγουν αγαθά οπουδήποτε.",
 	},
 	"populationInfo": {
 		"english": "Population Info",
@@ -1942,6 +2040,7 @@
 		"turkish": "Nüfus Bilgisi",
 		"romanian": "Informații despre populație",
 		"danish": "Befolkningsoplysninger",
+		"greek": "Πληροφορίες Πληθυσμού",
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -1962,7 +2061,8 @@
 		"thai": "",
 		"turkish": "Taşınmaya hazır göçmenler:",
 		"romanian": "Imigranți gata să se mute în:",
-		"danish": "Beboere klar til at flytte ind:",
+		"danish": "Indbyggere klar til at flytte ind:",
+		"greek": "Μετανάστες έτοιμοι να έρθουν:",
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -1983,7 +2083,8 @@
 		"thai": "ผู้อพยพพร้อมเข้าอยู่:",
 		"turkish": "Göç oranı:",
 		"romanian": "Rata de imigrare:",
-		"danish": "Immigrationsrate",
+		"danish": "Immigrationsrate:",
+		"greek": "Ποσοστό μετανάστευσης:",
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -2004,7 +2105,8 @@
 		"thai": "ปรับปรุงแหล่งที่อยู่อาศัยของคุณเพื่อทำให้เมืองของคุณน่าสนใจสำหรับผู้มาใหม่",
 		"turkish": "Habitatları yüksleterek şehri yeni gelenler için daha çekici yap.",
 		"romanian": "Îmbunătățind habitatele vei face orașul atractiv pentru noii veniți.",
-		"danish": "Opgrader dine habitater, for at tiltrække nye beboere.",
+		"danish": "Opgrader dine habitater, for at tiltrække nye indbyggere.",
+		"greek": "Αναβάθμισε τις κατοικίες σου για να κάνεις την πόλη σου ελκυστική στους νεοφερμένους",
 	},
 	"low": {
 		"english": "Low",
@@ -2026,6 +2128,7 @@
 		"turkish": "Düşük",
 		"romanian": "Scăzut",
 		"danish": "Lav",
+		"greek": "Χαμηλή",
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -2047,6 +2150,7 @@
 		"turkish": "Orta",
 		"romanian": "Moderat",
 		"danish": "Middel",
+		"greek": "Μεσαία",
 	},
 	"high": {
 		"english": "High",
@@ -2068,6 +2172,7 @@
 		"turkish": "Yüksek",
 		"romanian": "Înalt",
 		"danish": "Høj",
+		"greek": "Υψηλή",
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -2089,6 +2194,7 @@
 		"turkish": "Habitat Yükseltildi",
 		"romanian": "Habitat modernizat",
 		"danish": "Habitat opgraderet",
+		"greek": "Οικισμός αναβαθμίστηκε",
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -2110,6 +2216,7 @@
 		"turkish": "Habitat Düşürüldü",
 		"romanian": "Habitat degradat",
 		"danish": "Habitat nedgraderet",
+		"greek": "Οικισμός υποβαθμίστηκε",
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -2131,6 +2238,7 @@
 		"turkish": "MW",
 		"romanian": "MW",
 		"danish": "MW",
+		"greek": "MW",
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -2152,6 +2260,7 @@
 		"turkish": "%%percentage% Verimlilik",
 		"romanian": "Eficienţă %percentage%%",
 		"danish": "%percentage%% Effektivitet",
+		"greek": "%percentage%% Αποτελεσματικότητα",
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -2173,6 +2282,7 @@
 		"italian": "Panoramica della Produzione",
 		"romanian": "Prezentare generală a producției",
 		"danish": "Produktionsoverblik",
+		"greek": "Συνολική Παραγωγή",
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -2193,7 +2303,8 @@
 		"turkish": "Ürün",
 		"italian": "Risorsa",
 		"romanian": "Resursă",
-		"danish": "Produkt"
+		"danish": "Ressource"
+		"greek": "Πόρος",
 	},
 	"priority": {
 		"english": "Priority",
@@ -2215,6 +2326,7 @@
 		"italian": "Priorità",
 		"romanian": "Prioritate",
 		"danish": "Prioritet",
+		"greek": "Προταιρεότητα",
 	},
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -2235,7 +2347,8 @@
 		"turkish": "Şehir Seviyesi",
 		"italian": "Livello della Città",
 		"romanian": "Nivel de oraș",
-		"danish": "By Level",
+		"danish": "By Niveau",
+		"greek": "Επίπεδο πόλης",
 	},
 	"averageHabitatLevel": {
 		"english": "Average habitat level",
@@ -2250,7 +2363,8 @@
 		"hungarian": "Átlagos lakhely szint",
 		"romanian": "Nivel mediu de habitat",
 		"spanish": "Nivel de habitat Medio",
-		"danish": "Gennemsnitlig habitat level",
+		"danish": "Gennemsnitlig habitat niveau",
+		"greek": "Μέσο επίπεδο οικισμού",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -2265,7 +2379,8 @@
 		"czech": "Požadovaná úroveň obydlí",
 		"romanian": "Nivelul de habitat necesar",
 		"spanish": "Nivel de habitat necesario",
-		"danish": "Krævet habitat level",
+		"danish": "Krævet habitat niveau",
+		"greek": "Απαιτούμενο επίπεδο οικισμού",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -2281,6 +2396,7 @@
 		"romanian": "Stocare globală",
 		"spanish": "Almacenamiento Global",
 		"danish": "Global Opbevaring",
+		"greek": "Παγκόσμια αποθήκη",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
@@ -2296,6 +2412,7 @@
 		"romanian": "Depozitul pentru materiale de construcție stochează beton și oțel, necesare pentru a construi clădiri și infrastructură.",
 		"spanish": "El almacén de construcción guarda Cemento y Acero, los cuales necesitas para construir edificios e infraestructuras.",
 		"danish": "Lageret til byggematerialer opbevarer beton og stål, som du skal bruge til bygninger og infrastruktur.",
+		"greek": "Η αποθήκη για οικοδομικά υλικά αποθηκεύει μπετό και ατσάλι, που χρειάζεσαι για να κατασκευάσεις κτήρια και υποδομές.",
 	},
 	// train info panel
 	"train": {
@@ -2312,6 +2429,7 @@
 		"romanian": "Tren",
 		"spanish": "Tren",
 		"danish": "Tog",
+		"greek": "Τρένο",
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -2327,6 +2445,7 @@
 		"spanish": "Transportando",
 		"czech": "Doprava",
 		"danish": "Transportere",
+		"greek": "Μεταφέρει",
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2342,6 +2461,7 @@
 		"romanian": "Urmatoarea stație",
 		"spanish": "Siguiente estación",
 		"danish": "Næste station",
+		"greek": "Επόμενος Σταθμός",
 			},
 	// car info panel
 	"deliveryTruck": {
@@ -2358,6 +2478,7 @@
 		"romanian": "Camion de livrare",
 		"spanish": "Camión de reparto",
 		"danish": "Varevogn",
+		"greek": "Φορτηγό διανομής",
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2373,6 +2494,7 @@
 		"romanian": "Ţintă",
 		"spanish": "Objetivo",
 		"danish": "Mål",
+		"greek": "Προορισμός",
 	},
 	// train line info panel
 	"trainLines": {
@@ -2389,6 +2511,7 @@
 		"romanian": "Linii de tren",
 		"spanish": "Lineas ferroviarias",
 		"danish": "Tog Linjer",
+		"greek": "Γραμμές τρένου",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2403,7 +2526,8 @@
 		"hungarian": "Összes szállított termék: %amount%",
 		"romanian": "Mărfuri transportate în total: %amount%",
 		"spanish": "Total de material transportado %amount%",
-		"danish": "Total antal varer transporteret: %amount%",
+		"danish": "Total antal ressourcer transporteret: %amount%",
+		"greek": "Συνολικά αγαθά που μεταφέρθηκαν:%amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
@@ -2419,6 +2543,7 @@
 		"romanian": "Trenuri pe linie: %amount%",
 		"spanish": "Trenes en la linea %amount%",
 		"danish": "Tog på linjen: %amount%",
+		"greek": "Τρένα στην γραμμή:%amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2434,6 +2559,7 @@
 		"romanian": "Culoarea trenului",
 		"spanish": "Color de tren",
 		"danish": "Tog farve",
+		"greek": "Χρώμα τρένου",
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2450,6 +2576,7 @@
 		"romanian": "Semnalizări de tren",
 		"spanish": "Señalización de tren",
 		"danish": "Togsignalering",
+		"greek": "Σήμανση τρένων",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2465,6 +2592,7 @@
 		"romanian": "Șinele roșii indică segmente în care trenurile s-ar putea ciocni.",
 		"spanish": "Los raíles rojos indican segmentos donde los trenes podrían colisionar.",
 		"danish": "Røde skinner angiver segmenter, hvor tog kan støde sammen.",
+		"greek": "Οι κόκκινες γραμμές υποδεικνύουν κομμάτια που τα τρένα μπορεί να συγκρουστούν.",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2480,6 +2608,7 @@
 		"czech": "Oranžová barva označuje železniční křížení. Tyto úseky jsou vytvořeny okolo červených úseků. Ve většině případů smí být v takovém úseku pouze jeden vlak.",
 		"spanish": "Los raíles naranjas muestran intersecciones. Estas se crean alrededor de segmentos rojos. En la mayoría de los casos solamente un tren entrará a la intersección cada vez.",
 		"danish": "Orange skinner viser skinnekryds. Disse er skabt omkring røde segmenter. I de fleste tilfælde kan kun ét tog køre ind i et vejkryds ad gangen.",
+		"greek": "Οι πορτοκαλί γραμμές δείχνουν διασταυρώσεις ραγών.Δημιουργούνται γύρω από κόκκινα κομμάτια.Στις περισσότερες περιπτώσεις μόνο ένα τρένο μπορεί να μπει σε μία διασταύρωση τη φορά.",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2495,6 +2624,7 @@
 		"czech": "Zelené úseky jsou přímé bez rizika srážky.",
 		"spanish": "Los raíles verdes son segmentos directos sin riesgo de colisión.",
 		"danish": "Grønne skinner er lige segmenter uden risiko for kollision."
+		"greek": "Οι πράσινες γραμμές είναι ευθεία κομμάτια χωρίς πιθανότητα σύγκρουσης",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2510,6 +2640,7 @@
 		"czech": "Železniční signalizace slouží k tomu, aby zabránila srážkám vlaků nebo vzájemnému zablokování.",
 		"spanish": "El sistema de señalización previene que tus trenes colisionen o se bloqueen entre ellos.",
 		"danish": "Togsignalsystemet forhindrer dine tog i at kollidere eller blokere hinanden.",
+		"greek": "Το σύστημα σήμανσης τρένων αποτρέπει τα τρένα από να συγκρούονται και να καθυστερούν το ένα το άλλο",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2525,6 +2656,7 @@
 		"czech": "Snažte se mít mezi kříženími co nejdelší úseky zelené, zvýšíte tím propustnost trati.",
 		"spanish": "Para mayor eficacia, asegurate de que tienes suficiente espacio de segmentos largos verdes y las intersecciones.",
 		"danish": "For maksimal gennemstrømning skal du sørge for at have nok plads med lange grønne segmenter mellem krydsene.",
+		"greek": "Για μέγιστη διακίνηση, σιγουρέψου ότι έχεις αρκετό χώρο με μακρυά πράσινα κομμάτια μεταξύ διασταυρώσεων.",
 	},
 	"rails": {
 		"english": "Rails",
@@ -2540,6 +2672,7 @@
 		"romanian": "Șine",
 		"spanish": "Raíles",
 		"danish": "Skinner",
+		"greek": "Ράγες",
 	},
 
 
@@ -2553,6 +2686,7 @@
 		"polish": "Ustawienia świateł drogowych",
 		"czech": "Nastavení semaforu",
 		"danish": "Trafiklys Indstillinger",
+		"greek": "Ρυθμίσεις φαναριών",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
@@ -2564,6 +2698,7 @@
 		"polish": "zmodyfikowano",
 		"czech": "Vlastní",
 		"danish": "Brugerdefineret",
+		"greek": "Προσαρμοσμένο",
 	},
 	"phaseNumber" : {
 		"english": "Phase %number%",
@@ -2575,6 +2710,7 @@
 		"polish": "Faza %number%",
 		"czech": "Fáze %number%",
 		"danish": "Fase %number%",
+		"greek": "Φάση %number%",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
 		"english": "Skip to next phase when roads are empty",
@@ -2586,6 +2722,7 @@
 		"polish": "Przeskocz do następnej fazy gdy drogi opustoszeją",
 		"czech": "Přeskočit na další fázi, když jsou silnice prázdné",
 		"danish": "Spring til næste fase, når vejene er tomme",
+		"greek": "Πήγαινε στην επόμενη φάση όταν είναι άδειοι οι δρομοι",
 	},
 
 	"providing": { // like a school provides schooling
@@ -2598,6 +2735,7 @@
 		"polish": "Zapewnia",
 		"czech": "Poskytování",
 		"danish": "Tilbyde",
+		"greek": "Παρέχει",
 	},
 	"radius": {
 		"english": "Radius",
@@ -2609,6 +2747,7 @@
 		"polish": "Promień",
 		"czech": "Radius",
 		"danish": "Radius",
+		"greek": "Ακτίνα",
 	},
 	"speed": {
 		"english": "Speed",
@@ -2620,5 +2759,6 @@
 		"polish": "Prędkość",
 		"czech": "Rychlost",
 		"danish": "Hastighed",
+		"greek": "Ταχύτητα",
 	},
 }

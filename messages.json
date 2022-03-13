@@ -20,6 +20,7 @@
 		"turkish":"Şehir seviye atladı!",
 		"romanian": "Nivelul orașului a crescut!",
 		"danish": "By Opgraderet!",
+		"greek": "Η πόλη ανέβηκε επίπεδο!",
 	},
 	"message_cityLevelUpText": {
 		"english": "Congrats, your city just reached level %cityLevel%.",
@@ -42,6 +43,7 @@
 		"turkish":"Tebrikler, şehriniz %cityLevel% seviyesine ulaştı.",
 		"romanian": "Felicitări, orașul tău tocmai a atins nivelul %cityLevel%.",
 		"danish": "Tillykke, din by har lige nået niveau %cityLevel%.",
+		"greek": "Συγχαρητήρια, η πόλη σου μόλις έφτασε το επίπεδο %cityLevel%",
 
 		//old text with: "You unlocked new technologies to research."
 		//"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
@@ -86,6 +88,7 @@
 		"turkish":"Şehrinizin seviyesi düşdü!",
 		"romanian": "Nivelul orașului a scăzut!",
 		"danish": "Din By er nedgraderet!",
+		"greek": "Η πόλη υποβαθμίστηκε!",
 	},
 	"message_cityLevelDownText": {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
@@ -108,6 +111,7 @@
 		"turkish":"Vatandaşlarınız ihtiyaçlarını karşılayamadınız.Bu sebepten şehrinizin seviyesi düşdü.",
 		"romanian": "Nu ai reușit să îți asiguri cetățenii. Orașul tău a fost retrogradat până când poți schimba situația.",
 		"danish": "Du mislykkes med at sørge for din beboere. Din by er blevet nedgraderet, indtil du har vendt situationen.",
+		"greek": "Απέτυχες να νοιαστείς για τους πολίτες σου. Η πόλη σου έχει υποβαθμιστεί μέχρι να αλλάξεις την κατάσταση.",
 	},
 	"attention": {
 		"english": "Attention!",
@@ -130,6 +134,7 @@
 		"turkish":"Dikkat!",
 		"romanian": "Atenție!",
 		"danish": "Påmindelse!",
+		"greek": "Προσοχή!",
 	},
 	"message_debugModeText": {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
@@ -152,5 +157,6 @@
 		"turkish":"Hata Ayıklama modu oyun geliştirmede kullanılmak üzere tasarlanmıştır. Bunu açmak oyunun hata vermesine sebep olabilir.",
 		"romanian": "Modul de depanare este menit să fie utilizat în dezvoltarea jocului. Dacă activați modul de depanare, este posibil să aveți erori.",
 		"danish": "Debug-tilstand er beregnet til udviklings brug. Hvis du aktivere debug-tilstand, kan du opleve fejl.",
+		"greek": "Η λειτουργία αποσφαλμάτωσης είναι προορισμένη χρήση στην ανάπτυξη. Εαν ενεργοποιήσεις την λειτουργία αποσφαλμάτωσης, μπορεί να έχεις προβλήματα",
 	},
 }

@@ -57,3 +57,5 @@ Romanian
 Danish
 - Søren Pedersen (LordFitter)
 - Chris Corfitsen (Corfitsen)
+Greek
+- Christos Mesogitis (charis117)

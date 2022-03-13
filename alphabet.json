@@ -14,6 +14,7 @@
 		"czech": "Alfa",
 		"spanish": "Alfa",
 		"danish": "Alfa",
+		"greek": "Άλφα",
 	},
 	"beta": {
 		"english": "Beta",
@@ -30,6 +31,7 @@
 		"czech": "Beta",
 		"spanish": "Beta",
 		"danish": "Beta",
+		"greek": "Βήτα",
 	},
 	"gamma": {
 		"english": "Gamma",
@@ -46,6 +48,7 @@
 		"czech": "Gama",
 		"spanish": "Gamma",
 		"danish": "Gamma",
+		"greek": "Γάμμα",
 	},
 	"delta": {
 		"english": "Delta",
@@ -62,6 +65,7 @@
 		"czech": "Delta",
 		"spanish": "Delta",
 		"danish": "Delta",
+		"greek": "Δέλτα",
 	},
 	"epsilon": {
 		"english": "Epsilon",
@@ -78,6 +82,7 @@
 		"czech": "Epsilon",
 		"spanish": "Epsilon",
 		"danish": "Epsilon",
+		"greek": "Έψιλον",
 	},
 	"zeta": {
 		"english": "Zeta",
@@ -94,6 +99,7 @@
 		"czech": "Zeta",
 		"spanish": "Zeta",
 		"danish": "Zeta",
+		"greek": "Ζήτα",
 	},
 	"theta": {
 		"english": "Theta",
@@ -110,6 +116,7 @@
 		"czech": "Theta",
 		"spanish": "Theta",
 		"danish": "Theta",
+		"greek": "Θήτα",
 	},
 	"iota": {
 		"english": "Iota",
@@ -126,6 +133,7 @@
 		"czech": "Iota",
 		"spanish": "Iota",
 		"danish": "Iota",
+		"greek": "Ιότα",
 	},
 	"kappa": {
 		"english": "Kappa",
@@ -142,6 +150,7 @@
 		"czech": "Kappa",
 		"spanish": "Kappa",
 		"danish": "Kappa",
+		"greek": "Κάππα",
 	},
 	"lambda": {
 		"english": "Lambda",
@@ -158,6 +167,7 @@
 		"czech": "Lambda",
 		"spanish": "Lambda",
 		"danish": "Lambda",
+		"greek": "Λάμδα",
 	},
 	"mu": {
 		"english": "Mu",
@@ -174,6 +184,7 @@
 		"czech": "Mu",
 		"spanish": "Mu",
 		"danish": "Mu",
+		"greek": "Μι",
 	},
 	"xi": {
 		"english": "Xi",
@@ -190,6 +201,7 @@
 		"czech": "Xi",
 		"spanish": "Xi",
 		"danish": "Xi",
+		"greek": "Χι",
 	},
 	"omicron": {
 		"english": "Omicron",
@@ -206,6 +218,7 @@
 		"czech": "Omicron",
 		"spanish": "Ómicron",
 		"danish": "Ómicron",
+		"greek": "Όμικρον",
 	},
 	"pi": {
 		"english": "Pi",
@@ -222,6 +235,7 @@
 		"czech": "Pi",
 		"spanish": "Pi",
 		"danish": "Pi",
+		"greek": "Πι",
 	},
 	"rho": {
 		"english": "Rho",
@@ -238,6 +252,7 @@
 		"czech": "Ro",
 		"spanish": "Ro",
 		"danish": "Ro",
+		"greek": "Ρο",
 	},
 	"sigma": {
 		"english": "Sigma",
@@ -254,6 +269,7 @@
 		"czech": "Sigma",
 		"spanish": "Sigma",
 		"danish": "Sigma",
+		"greek": "Σίγμα",
 	},
 	"tau": {
 		"english": "Tau",
@@ -270,6 +286,7 @@
 		"czech": "Tau",
 		"spanish": "Tau",
 		"danish": "Tau",
+		"greek": "Ταφ",
 	},
 	"upsilon": {
 		"english": "Upsilon",
@@ -286,6 +303,7 @@
 		"czech": "Upsilon",
 		"spanish": "Upsilon",
 		"danish": "Upsilon",
+		"greek": "Ύψιλον",
 	},
 	"phi": {
 		"english": "Phi",
@@ -302,6 +320,7 @@
 		"czech": "Fi",
 		"spanish": "Fi",
 		"danish": "Fi",
+		"greek": "Φι",
 	},
 	"chi": {
 		"english": "Chi",
@@ -318,6 +337,7 @@
 		"czech": "Chi",
 		"spanish": "Chi",
 		"danish": "Chi",
+		"greek": "Χι",
 	},
 	"psi": {
 		"english": "Psi",
@@ -334,6 +354,7 @@
 		"czech": "Psi",
 		"spanish": "Psi",
 		"danish": "Psi",
+		"greek": "Ψι",
 	},
 	"omega": {
 		"english": "Omega",
@@ -350,5 +371,6 @@
 		"czech": "Omega",
 		"spanish": "Omega",
 		"danish": "Omega",
+		"greek": "Ωμέγα",
 	},
 }
