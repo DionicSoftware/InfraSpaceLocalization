@@ -596,8 +596,8 @@
     "korean": "생활가전 공장",
     "romanian": "Fabrică de electrocasnice",
     "scotsgaelic": "Factaraidh Innealan Dachaigh",
-    "danish": "Hvidevare Fabrik"
-     "greek": "Εργοστάσιο Οικιακών Συσκευών",
+    "danish": "Hvidevare Fabrik",
+    "greek": "Εργοστάσιο Οικιακών Συσκευών",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -1079,8 +1079,8 @@
     "korean": "간이 농장",
     "romanian": "Fermă simplă",
     "scotsgaelic": "Tuathanas Sìmplidh",
-    "danish": "Simpel Gård"
-     "greek": "Απλή Φάρμα",
+    "danish": "Simpel Gård",
+    "greek": "Απλή Φάρμα",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
