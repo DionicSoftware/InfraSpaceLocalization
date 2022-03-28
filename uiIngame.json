@@ -91,7 +91,7 @@
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
-		"german": "Eigehendes Lager leer",
+		"german": "Eingehendes Lager leer",
 		"french": "Entrée vide",
 		"dutch": "Inkomende opslag leeg",
 		"spanish": "Almacenamiento entrante vacío",
@@ -2303,7 +2303,7 @@
 		"turkish": "Ürün",
 		"italian": "Risorsa",
 		"romanian": "Resursă",
-		"danish": "Ressource"
+		"danish": "Ressource",
 		"greek": "Πόρος",
 	},
 	"priority": {
@@ -2623,7 +2623,7 @@
 		"romanian": "Șinele verzi sunt segmente fără risc de coliziune.",
 		"czech": "Zelené úseky jsou přímé bez rizika srážky.",
 		"spanish": "Los raíles verdes son segmentos directos sin riesgo de colisión.",
-		"danish": "Grønne skinner er lige segmenter uden risiko for kollision."
+		"danish": "Grønne skinner er lige segmenter uden risiko for kollision.",
 		"greek": "Οι πράσινες γραμμές είναι ευθεία κομμάτια χωρίς πιθανότητα σύγκρουσης",
 	},
 	"trainSignaling_other1": {
