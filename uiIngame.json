@@ -1328,6 +1328,7 @@
 		"polish": "Widok sygnalizacji kolejowej",
 		"danish": "Togsignalvisning",
 		"greek": "Προβολή σημάτων τρένου",
+		"thai": "ตัวแสดงสัญญาณรถไฟ",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1608,6 +1609,7 @@
 		"polish": "Ślepa ulica",
 		"danish": "Blindgyde",
 		"greek": "Αδιέξοδος",
+		"thai": "ทางตัน",
 	},
 	"visualizations": {
 		"english": "Visualizations",
