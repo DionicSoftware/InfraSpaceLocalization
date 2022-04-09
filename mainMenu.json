@@ -1650,6 +1650,25 @@
 		"danish": "Zoom Ud",
 		"greek": "Σμίκρυνση",
 	},
+	"fastCameraMovement": {
+		"english": "Fast Camera Movement",
+		"german": "Schnelle Kamerabewegung",
+	},
+
+	"cityShortcuts": {
+		"english": "City Shortcuts",
+		"german": "Stadt Hotkeys",
+	},
+	"research": {
+		"english": "Research",
+		"german": "Forschung",
+	},
+	"transportLines": {
+		"english": "Transport Lines",
+		"german": "Transportlinien",
+	},	
+
+
 	"constructionKeybindings": {
 		"english": "Construction",
 		"german": "Bau",
@@ -1719,6 +1738,14 @@
 		"danish": "Sænk vej",
 		"greek": "Κτέβασμα Δρόμου",
 	},
+	"precisionConstruction": {
+		"english": "Precision Construction",
+		"german": "Präzises Bauen",
+	},
+	"holdLeftShift": {
+		"english": "Hold Shift (left)",
+		"german": "Shift (links) halten",
+	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
 		"german": "Gitter umschalten",
@@ -1730,6 +1757,26 @@
 		"danish": "Skift Gitter",
 		"greek": "Εναλλαγή Πλέγματος",
 	},
+	"move": {
+		"english": "Move",
+		"german": "Verschieben",
+	},
+	"delete": {
+		"english": "Delete",
+		"german": "Entfernen",
+	},
+	"constructionMenus": {
+		"english": "Construction Menus",
+		"german": "Baumenüs",
+	},
+	"leftShiftAndNumber": {
+		"english": "Shift (left) + Number",
+		"german": "Shift (links) + Zahl",
+	},
+
+
+
+
 	"timeControl": {
 		"english": "Time Control",
 		"german": "Zeitkontrolle",
@@ -1777,6 +1824,14 @@
 		"thai": "หยุดชั่วคราว",
 		"danish": "Pause",
 		"greek": "Παύση",
+	},
+	"normalSimulationSpeed": {
+		"english": "Normal Simulation Speed",
+		"german": "Normale Simulation",
+	},
+	"fastSimulationSpeed": {
+		"english": "Fast Simulation Speed",
+		"german": "Schnelle Simulation",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1826,6 +1881,11 @@
 		"danish": "Roter til højre",
 		"greek": "Περιστροφή Δεξιά",
 	},
+
+
+
+
+
 	"miscellaneous": {
 		"english": "Miscellaneous",
 		"german": "Sonstiges",
@@ -1968,6 +2028,23 @@
 		"danish": "Vis Frames per Sekund",
 		"greek": "Εμφάνιση καρέ ανά δευτερόλεπτο",
 	},
+	"quicksave": {
+		"english": "Quick Save",
+		"german": "Schnellspeichern",
+	},
+	"quickload": {
+		"english": "Quick Load",
+		"german": "Schnellladen",
+	},
+
+
+
+
+
+
+
+
+
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
 		"german": "Linke Maustaste",
