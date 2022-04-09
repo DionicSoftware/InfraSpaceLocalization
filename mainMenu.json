@@ -1653,19 +1653,23 @@
 	"fastCameraMovement": {
 		"english": "Fast Camera Movement",
 		"german": "Schnelle Kamerabewegung",
+		"thai": "ขยับกล้องอย่างรวดเร็ว",
 	},
 
 	"cityShortcuts": {
 		"english": "City Shortcuts",
 		"german": "Stadt Hotkeys",
+		"thai": "ปุ่มลัดเมือง",
 	},
 	"research": {
 		"english": "Research",
 		"german": "Forschung",
+		"thai": "การวิจัย",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
 		"german": "Transportlinien",
+		"thai": "เส้นทางคมนาคม",
 	},	
 
 
@@ -1741,10 +1745,12 @@
 	"precisionConstruction": {
 		"english": "Precision Construction",
 		"german": "Präzises Bauen",
+		"thai": "การก่อสร้างที่แม่นยำ",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
 		"german": "Shift (links) halten",
+		"thai": "กด Shift (ซ้าย)",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1756,22 +1762,27 @@
 		"czech": "Přepnout mřížku",
 		"danish": "Skift Gitter",
 		"greek": "Εναλλαγή Πλέγματος",
+		"thai": "สลับกรอบตะแกรง",
 	},
 	"move": {
 		"english": "Move",
 		"german": "Verschieben",
+		"thai": "ย้าย",
 	},
 	"delete": {
 		"english": "Delete",
 		"german": "Entfernen",
+		"thai": "ลบ",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
 		"german": "Baumenüs",
+		"thai": "เมนูก่อสร้าง",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
 		"german": "Shift (links) + Zahl",
+		"thai": "Shift (ซ้าย) + ตัวเลข",
 	},
 
 
@@ -1828,10 +1839,12 @@
 	"normalSimulationSpeed": {
 		"english": "Normal Simulation Speed",
 		"german": "Normale Simulation",
+		"thai": "ความเร็วการจำลองแบบปกติ",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
 		"german": "Schnelle Simulation",
+		"thai": "ความเร็วการจำลองแบบเร็ว",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2031,10 +2044,12 @@
 	"quicksave": {
 		"english": "Quick Save",
 		"german": "Schnellspeichern",
+		"thai": "บันทึกด่วน",
 	},
 	"quickload": {
 		"english": "Quick Load",
 		"german": "Schnellladen",
+		"thai": "โหลดด่วน",
 	},
 
 
