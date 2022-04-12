@@ -1653,22 +1653,26 @@
 	"fastCameraMovement": {
 		"english": "Fast Camera Movement",
 		"german": "Schnelle Kamerabewegung",
+		"french": "Mouvement de caméra rapide",
 		"thai": "ขยับกล้องอย่างรวดเร็ว",
 	},
 
 	"cityShortcuts": {
 		"english": "City Shortcuts",
 		"german": "Stadt Hotkeys",
+		"french": "Raccourcis de la ville",
 		"thai": "ปุ่มลัดเมือง",
 	},
 	"research": {
 		"english": "Research",
 		"german": "Forschung",
+		"french": "Recherche",
 		"thai": "การวิจัย",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
 		"german": "Transportlinien",
+		"french": "Lignes de transport",
 		"thai": "เส้นทางคมนาคม",
 	},	
 
@@ -1745,11 +1749,13 @@
 	"precisionConstruction": {
 		"english": "Precision Construction",
 		"german": "Präzises Bauen",
+		"french": "Construction de précision",
 		"thai": "การก่อสร้างที่แม่นยำ",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
 		"german": "Shift (links) halten",
+		"french": "Maintenir Maj (gauche)",
 		"thai": "กด Shift (ซ้าย)",
 	},
 	"toggleGrid": {
@@ -1767,21 +1773,25 @@
 	"move": {
 		"english": "Move",
 		"german": "Verschieben",
+		"french": "Déplacement",
 		"thai": "ย้าย",
 	},
 	"delete": {
 		"english": "Delete",
 		"german": "Entfernen",
+		"french": "Supprimer",
 		"thai": "ลบ",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
 		"german": "Baumenüs",
+		"french": "Menus de construction",
 		"thai": "เมนูก่อสร้าง",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
 		"german": "Shift (links) + Zahl",
+		"french": "Maj (gauche) + numéro",
 		"thai": "Shift (ซ้าย) + ตัวเลข",
 	},
 
@@ -1839,11 +1849,13 @@
 	"normalSimulationSpeed": {
 		"english": "Normal Simulation Speed",
 		"german": "Normale Simulation",
+		"french": "Vitesse de simulation normale",
 		"thai": "ความเร็วการจำลองแบบปกติ",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
 		"german": "Schnelle Simulation",
+		"french": "Vitesse de simulation rapide",
 		"thai": "ความเร็วการจำลองแบบเร็ว",
 	},
 	"rotateLeft": {
@@ -2044,11 +2056,13 @@
 	"quicksave": {
 		"english": "Quick Save",
 		"german": "Schnellspeichern",
+		"french": "Sauvegarde rapide",
 		"thai": "บันทึกด่วน",
 	},
 	"quickload": {
 		"english": "Quick Load",
 		"german": "Schnellladen",
+		"french": "Chargement rapide",
 		"thai": "โหลดด่วน",
 	},
 
