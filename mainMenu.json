@@ -1861,12 +1861,14 @@
 		"german": "Normale Simulation",
 		"french": "Vitesse de simulation normale",
 		"thai": "ความเร็วการจำลองแบบปกติ",
+		"hungarian": "Normális szimulációs sebesség",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
 		"german": "Schnelle Simulation",
 		"french": "Vitesse de simulation rapide",
 		"thai": "ความเร็วการจำลองแบบเร็ว",
+		"hungarian": "Gyors szimulációs sebesség",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2068,12 +2070,14 @@
 		"german": "Schnellspeichern",
 		"french": "Sauvegarde rapide",
 		"thai": "บันทึกด่วน",
+		"hungarian": "Gyorsmentés",
 	},
 	"quickload": {
 		"english": "Quick Load",
 		"german": "Schnellladen",
 		"french": "Chargement rapide",
 		"thai": "โหลดด่วน",
+		"hungarian": "Gyorstöltés",
 	},
 
 
