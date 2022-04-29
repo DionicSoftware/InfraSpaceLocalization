@@ -1755,12 +1755,14 @@
 		"german": "Präzises Bauen",
 		"french": "Construction de précision",
 		"thai": "การก่อสร้างที่แม่นยำ",
+		"hungarian": "Pontos építkezés",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
 		"german": "Shift (links) halten",
 		"french": "Maintenir Maj (gauche)",
 		"thai": "กด Shift (ซ้าย)",
+		"hungarian": "Shift nyomva tartva(bal)",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1779,24 +1781,28 @@
 		"german": "Verschieben",
 		"french": "Déplacement",
 		"thai": "ย้าย",
+		"hungarian": "Mozgatás",
 	},
 	"delete": {
 		"english": "Delete",
 		"german": "Entfernen",
 		"french": "Supprimer",
 		"thai": "ลบ",
+		"hungarian": "Törlés",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
 		"german": "Baumenüs",
 		"french": "Menus de construction",
 		"thai": "เมนูก่อสร้าง",
+		"hungarian": "Építkezési menük",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
 		"german": "Shift (links) + Zahl",
 		"french": "Maj (gauche) + numéro",
 		"thai": "Shift (ซ้าย) + ตัวเลข",
+		"hungarian": "Shift (bal) + szám",
 	},
 
 
