@@ -1670,12 +1670,14 @@
 		"german": "Forschung",
 		"french": "Recherche",
 		"thai": "การวิจัย",
+		"hungarian": "Kutatás",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
 		"german": "Transportlinien",
 		"french": "Lignes de transport",
 		"thai": "เส้นทางคมนาคม",
+		"hungarian": "Szállítási útvonalak",
 	},	
 
 
