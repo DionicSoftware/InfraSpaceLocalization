@@ -745,6 +745,7 @@
     "czech": "Vysokorychlostní trať",
 	  "danish": "Højhastigheds skinner",
 	  "greek": "Ράγες υψηλής ταχύτητας",
+    "hungarian": "Magassebességű sín",
   },
   "tech_lightningRail": {
     "english": "Lightning Rails",
@@ -757,6 +758,7 @@
     "czech": "Ultra-rychlá trať",
 	  "danish": "Lynhastigheds skinner",
 	  "greek": "Αστραπιαίες Ράγες",
+    "hunagrian": "Villámsínek",
   },
   "tech_superhighways": {
     "english": "Superhighways",

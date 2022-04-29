@@ -1655,6 +1655,7 @@
 		"german": "Schnelle Kamerabewegung",
 		"french": "Mouvement de caméra rapide",
 		"thai": "ขยับกล้องอย่างรวดเร็ว",
+		"hungarian": "Gyors kameramozgatás",
 	},
 
 	"cityShortcuts": {
@@ -1662,6 +1663,7 @@
 		"german": "Stadt Hotkeys",
 		"french": "Raccourcis de la ville",
 		"thai": "ปุ่มลัดเมือง",
+		"hungarian": "Város gyorsgombok",
 	},
 	"research": {
 		"english": "Research",
