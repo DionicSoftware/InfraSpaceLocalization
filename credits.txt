@@ -59,3 +59,6 @@ Danish
 - Chris Corfitsen (Corfitsen)
 Greek
 - Christos Mesogitis (charis117)
+
+Swiss German
+- Liun Tappolet (Liuuner)
