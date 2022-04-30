@@ -23,6 +23,7 @@
 		"thai": "เริ่มเกมใหม่",
 		"danish": "Nyt Spil",
 		"greek": "Νέο Παιχνίδι",
+		"swiss german": "Neus Spiel",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -47,6 +48,7 @@
 		"thai": "บันทึกเกม",
 		"danish": "Gem Spil",
 		"greek": "Αποθήκευση Παιχνιδιού",
+		"swiss german": "Spiel speicherä",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -71,6 +73,7 @@
 		"thai": "โหลดเกม",
 		"danish": "Indlæs Spil",
 		"greek": "Φόρτωση Παιχνιδιού",
+		"swiss german": "Spiel ladä",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -95,6 +98,7 @@
 		"thai": "เมนูหลัก",
 		"danish": "Hovedmenu",
 		"greek": "Κύριο Μενού",
+		"swiss german": "Hauftmenü",
 	},
 	"quit": {
 		"english": "Quit",
@@ -119,6 +123,7 @@
 		"thai": "ออก",
 		"danish": "Afslut",
 		"greek": "Έξοδος",
+		"swiss german": "Beändä",
 	},
 	"back": {
 		"english": "Back",
@@ -132,6 +137,7 @@
 		"spanish": "Atrás",
 		"danish": "Tilbage",
 		"greek": "Πίσω",
+		"swiss german": "Zrugg",
 	},
 	"backToGame": {
 		"english": "Back to Game",
@@ -152,6 +158,7 @@
 		"spanish": "Volver al juego",
 		"danish": "Tilbage til spillet",
 		"greek": "Πίσω στο Παιχνίδι",
+		"swiss german": "zrugg zum Spiel",
 	},
 	"website": {
 		"english": "Website",
@@ -176,6 +183,7 @@
 		"thai": "เว็บไซต์",
 		"danish": "Hjemmeside",
 		"greek": "Ιστοσελίδα",
+		"swiss german": "Websiitä",
 	},
 	"forum": {
 		"english": "Forum",
@@ -200,6 +208,7 @@
 		"thai": "ฟอรั่ม",
 		"danish": "Forum",
 		"greek": "Φόρουμ",
+		"swiss german": "Forum",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -224,6 +233,7 @@
 		"thai": "อัพเดทพร้อมใช้งาน!",
 		"danish": "Opdatering Tilgængelig",
 		"greek": "Αμαβάθμιση Διαθέσιμη!",
+		"swiss german": "Update verfüegbar",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -248,6 +258,7 @@
 		"thai": "รับเวอร์ชันใหม่ล่าสุด",
 		"danish": "Hent Seneste Version",
 		"greek": "Λάβε την νεότερη έκδοση ",
+		"swiss german": "neuschti Version abelade",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -272,6 +283,7 @@
 		"thai": "เวอร์ชันของคุณ",
 		"danish": "Din Version",
 		"greek": "Η έκδοσή σου",
+		"swiss german": "dini Version",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -296,6 +308,7 @@
 		"thai": "เวอร์ชันปัจจุบัน",
 		"danish": "Nuværende Version",
 		"greek": "Τρέχουσα έκδοση",
+		"swiss german": "Aktuelli Version",
 	},
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
@@ -319,6 +332,7 @@
 		"romanian": "Comunitate",
 		"danish": "Fællesskab",
 		"greek": "Κοινότητα",
+		"swiss german": "Community",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -342,6 +356,7 @@
 		"romanian": "Aceasta este o versiune alfa",
 		"danish": "Dette er en Alpha Version",
 		"greek": "Αυτή είναι μία 'Αλφα έκδοση",
+		"swiss german": "Das isch ä Alpha-Version",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -365,6 +380,7 @@
 		"romanian": "Acest joc nu este încă terminat. Poate conține bug-uri.\n\nLansăm jucătorilor aceste versiuni timpurii, astfel încât să putem obține feedback despre joc și să găsim erori cu mult înainte de lansarea oficială.\n\nSpune-ne cum îți place!",
 		"danish": "Dette spil er ikke færdigt endnu. Det kan indeholde fejl.\n\nVi udsender disse tidlige versioner til spillere så vi kan få feedback på spiloplevelsen og finde fejlene lang tid før den endelige release.\n\nFortæl os endelig hvad du synes!",
 		"greek": "Το παιχνίδι δέν είναι έτοιμο ακόμα.Μπορεί να περιέχει προβλήματα.\n\nΚυκλοφορούμε αυτές τις πρώιμες εκδόσεις στους παίκτες ώστε να λάβουμε σχόλια στο παίξιμο του παιχνιδιού και να εντοπίσουμε προβλήματα πολύ πριν την επίσιμη κυκλοφορία.\n\nΠείτε μας πόσο σας αρέσει!",
+		"swiss german": "Das Spiel isch nonig färtig. Es chönt na Bugs drinn ha.\n\nMir veröffendliched die früenere Versione a Spiler dass mir Feedback zum Gameplay erhalted und Bugs findä chönd lang bevor s Spiel offiziell veröffentlicht wird.",
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -390,6 +406,7 @@
 		"thai": "โหลด",
 		"danish": "Indlæs",
 		"greek": "Φόρτωση",
+		"swiss german": "Ladä",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -414,6 +431,7 @@
 		"thai": "เขียนทับ",
 		"danish": "Overskriv",
 		"greek": "Εγγραφή",
+		"swiss german": "Überschriibe",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -438,6 +456,7 @@
 		"arabic": "هل أنت متأكد من رغبتك في مسح \"%save%\"؟ سيتم التخلص منها نهائيا.",
 		"danish": "Er du sikker på du vil slette spillet  \"%save%\"? Det vil forsvinde for altid!",
 		"greek": "Είσαι σίγουρος ότι θες να διαγράψεις την αποθήκευση \"%save%\"; Θα χαθεί για πάντα",
+		"swiss german": "Bisch du dir sicher dass du de Spielstand \%save%\ lösche wetsch? Er wird nümme widerherstellbar sii.",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -462,6 +481,7 @@
 		"arabic": "اللعبة لم يتم حفظها منذ %minutes% دقائق. هل أنت متأكد من رغبتك في الرجوع للقائمة الرئيسية بدون الحفظ؟",
 		"danish": "Spillet har ikke været gemt i %minutes% minutter. Er du sikker på du vil gå til hovedmenuen uden at gemme?",
 		"greek": "Το παχνίδι δεν έχει αποθηκευτεί για %minutes% λεπτά.Είσαι σίγουρος ότι θες να πας πίσω στο κεντρικό μενού χωρίς αποθήκευση;",
+		"swiss german": "Das Spiel isch sit %minutes% Minutä numme gspeicheret worde. Bisch du sicher, dass du ohni Speichere zum Hauptmenü gah wetsch?",
 	},
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
@@ -485,6 +505,7 @@
 		"romanian": "Avanpost Theta-3",
 		"danish":"Koloni Theta-3",
 		"greek": "Εγκατάσταση Θήτα-3",
+		"swiss german": "Ussäposchte Theta-3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -509,6 +530,7 @@
 		"thai": "ไม่อนุญาตให้ใส่อักขระนี้ในชื่อไฟล์",
 		"danish": "Ugyldigt teg i fil navnet!",
 		"greek": "Απαγορευμένοι χαρακτήρες στο όνομα αρχείου",
+		"swiss german": "Verboteni Buächstabä im Dateinamä",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -533,6 +555,7 @@
 		"thai": "ชื่อไฟล์ยาวเกินไป",
 		"danish": "Filnavnet er for langt!",
 		"greek": "Όνομα αρχείου πολύ μεγάλο",
+		"swiss german": "zu langä Dateinamä",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -557,6 +580,7 @@
 		"thai": "ชื่อไฟล์สั้นเกินไป",
 		"danish": "Filnavnet er for kort!",
 		"greek": "Όνομα αρχείου πολύ μικρό",
+		"swiss german": "zu churzä Dateinamä",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -581,6 +605,7 @@
 		"thai": "ชื่อไฟล์นี้มีอยู่แล้ว",
 		"danish": "Filnavnet er allerede i brug!",
 		"greek": "Το όνομα αρχείου ήδη χρησιμοποιείται",
+		"swiss german": "Dateinamä scho bruucht",
 	},
 	// SETTINGS
 	"settings": {
@@ -606,6 +631,7 @@
 		"thai": "การตั้งค่า",
 		"danish": "Indstillinger",
 		"greek": "Ρυθμίσεις",
+		"swiss german": "Iistelligä",
 	},
 	"graphics": {
 		"english": "Video",
@@ -630,6 +656,7 @@
 		"thai": "วิดีโอ",
 		"danish": "Video",
 		"greek": "Γραφικά",
+		"swiss german": "Grafik",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -654,6 +681,7 @@
 		"thai": "คุณภาพกราฟิก",
 		"danish": "Grafik Kvalitet",
 		"greek": "Ποιότητα Γραφικών",
+		"swiss german": "Grafikqualität",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -678,6 +706,7 @@
 		"thai": "ต่ำ",
 		"danish": "Lav",
 		"greek": "Χαμηλή",
+		"swiss german": "Tüüf",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -702,6 +731,7 @@
 		"thai": "กลาง",
 		"danish": "Middel",
 		"greek": "Μεσαία",
+		"swiss german": "Mittäl",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -726,6 +756,7 @@
 		"thai": "สูง",
 		"danish": "Høj",
 		"greek": "Υψηλή",
+		"swiss german": "Hoch",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -750,6 +781,8 @@
 		"thai": "ความละเอียด",
 		"danish": "Opløsning",
 		"greek": "Ανάλυση",
+		"swiss german": "Uflösig",
+		
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -774,6 +807,7 @@
 		"thai": "โหมดแสดงผล",
 		"danish": "Visningstilstand",
 		"greek": "Λειτουργία εμφάνισης",
+		"swiss german": "Ahzeigemodus",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -798,6 +832,7 @@
 		"thai": "หน้าต่าง",
 		"danish": "Vindue",
 		"greek": "Σε παράθυρο",
+		"swiss german": "Fenschter",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -822,6 +857,7 @@
 		"thai": "เต็มจอ",
 		"danish": "Fuldskærm",
 		"greek": "Πλήρης Οθόνη",
+		"swiss german": "Vollbild",
 	},
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
@@ -845,6 +881,7 @@
 		"romanian": "Ecran complet exclusiv",
 		"danish": "Eksklusiv fuldskærm",
 		"greek": "Αποκλειστικά Πλήρης Οθόνη",
+		"swiss german": "Exklusivs Vollbild",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -869,6 +906,7 @@
 		"thai": "ลดการฉีกขาดของหน้าจอ",
 		"danish": "Vsync",
 		"greek": "Vsync",
+		"swiss german": "Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -893,6 +931,7 @@
 		"arabic": "بطيئ",
 		"danish": "Langsom",
 		"greek": "Αργό",
+		"swiss german": "Langsam",
 	},
 	"on": {
 		"english": "On",
@@ -917,6 +956,7 @@
 		"thai": "เปิด",
 		"danish": "Tændt",
 		"greek": "Ενεργοποιημένο",
+		"swiss german": "Ahgstellt",
 	},
 	"off": {
 		"english": "Off",
@@ -941,6 +981,7 @@
 		"thai": "ปิด",
 		"danish": "Slukket",
 		"greek": "Απενεργοποιημένο",
+		"swiss german": "Abgstellt",
 	},
 	"uiScale": {
 		"english": "UI Scale",
@@ -954,6 +995,7 @@
 		"czech": "Uživatelské rozhraní",
 		"danish": "UI Skala",
 		"greek": "Κλίμακα UI",
+		"swiss german": "UI Grössi",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -978,6 +1020,7 @@
 		"thai": "ความสว่าง",
 		"danish": "Lysstyrke",
 		"greek": "Φωτεινότητα",
+		"swiss german": "Helligkeit",
 	},
 	"audio": {
 		"english": "Audio",
@@ -1002,6 +1045,7 @@
 		"thai": "เสียง",
 		"danish": "Lyd",
 		"greek": "Ήχος",
+		"swiss german": "Audio",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -1026,6 +1070,7 @@
 		"thai": "ระดับเสียงทั้งหมด",
 		"danish": "Total Lydstyrke",
 		"greek": "Συνολική Ένταση",
+		"swiss german": "Gsamtluutstärchi",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -1050,6 +1095,7 @@
 		"thai": "เสียงเอฟเฟค",
 		"danish": "Lydeffekter",
 		"greek": "Ηχιτικά εφέ",
+		"swiss german": "Soundeffekt",
 	},
 	"music": {
 		"english": "Music",
@@ -1074,6 +1120,7 @@
 		"thai": "เสียงเพลง",
 		"danish": "Musik",
 		"greek": "Μουσική",
+		"swiss german": "Musig",
 	},
 	"other": {
 		"english": "Other",
@@ -1098,6 +1145,7 @@
 		"thai": "อื่นๆ",
 		"danish": "Andet",
 		"greek": "Άλλα",
+		"swiss german": "Anders",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1122,6 +1170,7 @@
 		"arabic": "سرعة الكاميرا",
 		"danish": "Kamera Hastighed",
 		"greek": "Ταχύτητα κάμερας",
+		"swiss german": "Kameragschwindigkeit",
 	},
 	"language": {
 		"english": "Language",
@@ -1146,6 +1195,7 @@
 		"thai": "ภาษา",
 		"danish": "Sprog",
 		"greek": "Γλώσσα",
+		"swiss german": "Sprach",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1170,6 +1220,7 @@
 		"thai": "ปุ่มบนเลื่อนเมาส์",
 		"danish": "musekantsrulning",
 		"greek": "Κύλιση στην άκρη ποντικιού",
+		"swiss german": "Kamerastüürig mit Muus",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1194,6 +1245,7 @@
 		"arabic": "وضع المبرمج",
 		"danish": "Udviklertilstand",
 		"greek": "Λειτουργία προγραμματιστπή",
+		"swiss german": "Entwicklermodus",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1218,6 +1270,7 @@
 		"thai": "เกมทำงานเบื้องหลัง",
 		"danish": "Spil aktivt i baggrunden",
 		"greek": "Παιχνίδι ενεργό στο υπόβαθρο",
+		"swiss german": "Spiel lauft im Hindergrund",
 	},
 	"showTutorials": {
 		"english": "Show Tutorials",
@@ -1241,6 +1294,7 @@
 		"romanian": "Afișați tutoriale",
 		"danish": "Vis tutorial",
 		"greek": "Εμφάνισε Οδηγίες",
+		"swiss german": "Tutorials ahzeigä",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -1264,6 +1318,7 @@
 		"romanian": "Resetați tutorialele cunoscute",
 		"danish": "Nulstil Tutorial",
 		"greek": "Επαναφορά γνωστών οδηγιών",
+		"swiss german": "Tutorials zruggsetzä",
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1289,6 +1344,7 @@
 		"thai": "กำลังโหลดโลก...",
 		"danish": "Indlæser Verden...",
 		"greek": "Φόρτωση Κόσμου...",
+		"swiss german": "Wält ladä...",
 		
 	},
 	"reset": {
@@ -1314,6 +1370,7 @@
 		"thai": "รีเซ็ต",
 		"danish": "Nulstil",
 		"greek": "Επαναφορά",
+		"swiss german": "Zruggsetzä",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1337,6 +1394,7 @@
 		"arabic": "تم",
 		"danish": "Ok",
 		"greek": "ΟΚ",
+		"swiss german": "Ok",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1361,6 +1419,7 @@
 		"thai": "ยืนยัน",
 		"danish": "Bekræft",
 		"greek": "Επιβεβαίωση",
+		"swiss german": "Beschtätigä",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1385,6 +1444,7 @@
 		"thai": "ยกเลิก",
 		"danish": "Annuller",
 		"greek": "Ακύρωση",
+		"swiss german": "Abbrächä",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1409,6 +1469,7 @@
 		"thai": "นำไปใช้",
 		"danish": "Gem Ændring",
 		"greek": "Εφαρμογή",
+		"swiss german": "Ahwändä",
 	},
 	"hooray": {
 		"english": "Hooray!",
@@ -1432,6 +1493,7 @@
 		"romanian": "Ura!",
 		"danish": "Hurra!",
 		"greek": "Γιούπι!",
+		"swiss german": "Juhuu!",
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1457,6 +1519,7 @@
 		"thai": "ควบคุมกล้อง",
 		"danish": "Kamera Kontrol",
 		"greek": "Έλεχγος Κάμερας",
+		"swiss german": "Kamerastüürig",
 	},
 	"keybindings": {
 		"english": "Key Bindings",
@@ -1481,6 +1544,7 @@
 		"thai": "ปุ่มที่กำหนดไว้",
 		"danish": "Tastatur",
 		"greek": "Λειτουργίες Κουμπιών",
+		"swiss german": "Taschtäbelegig",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1505,6 +1569,7 @@
 		"thai": "ไปข้างหน้า",
 		"danish": "Frem",
 		"greek": "Μπροστά",
+		"swiss german": "Vorwärts",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1529,6 +1594,7 @@
 		"thai": "ไปข้างหลัง",
 		"danish": "Tilbage",
 		"greek": "Πίσω",
+		"swiss german": "Rückwärts",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1553,6 +1619,7 @@
 		"thai": "ไปทางซ้าย",
 		"danish": "Venstre",
 		"greek": "Αριστερά",
+		"swiss german": "Links",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1577,6 +1644,7 @@
 		"thai": "ไปทางขวา",
 		"danish": "Højre",
 		"greek": "Δεξιά",
+		"swiss german": "Rächts",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1601,6 +1669,7 @@
 		"thai": "หมุน",
 		"danish": "Roter",
 		"greek": "Περιστροφή",
+		"swiss german": "Dräiä",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1625,6 +1694,7 @@
 		"arabic": "تكبير",
 		"danish": "Zoom Ind",
 		"greek": "Μεγένθυση",
+		"swiss german": "Inäzoomä",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1649,6 +1719,7 @@
 		"arabic": "تصغير",
 		"danish": "Zoom Ud",
 		"greek": "Σμίκρυνση",
+		"swiss german": "Usäzoomä",
 	},
 	"fastCameraMovement": {
 		"english": "Fast Camera Movement",
@@ -1656,6 +1727,7 @@
 		"french": "Mouvement de caméra rapide",
 		"thai": "ขยับกล้องอย่างรวดเร็ว",
 		"hungarian": "Gyors kameramozgatás",
+		"swiss german": "Schnälli Kamerabewegig",
 	},
 
 	"cityShortcuts": {
@@ -1664,6 +1736,7 @@
 		"french": "Raccourcis de la ville",
 		"thai": "ปุ่มลัดเมือง",
 		"hungarian": "Város gyorsgombok",
+		"swiss german": "Stadt-Shortcuts",
 	},
 	"research": {
 		"english": "Research",
@@ -1671,6 +1744,7 @@
 		"french": "Recherche",
 		"thai": "การวิจัย",
 		"hungarian": "Kutatás",
+		"swiss german": "Forschig",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
@@ -1678,6 +1752,7 @@
 		"french": "Lignes de transport",
 		"thai": "เส้นทางคมนาคม",
 		"hungarian": "Szállítási útvonalak",
+		"swiss german": "Transportliniänä",
 	},	
 
 
@@ -1703,6 +1778,7 @@
 		"romanian": "Construcție",
 		"danish": "Konstruer",
 		"greek": "Κατασκευή",
+		"swiss german": "Bau",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1726,6 +1802,7 @@
 		"romanian": "Ridică drumul",
 		"danish": "Løft vej",
 		"greek": "Ανύψωση Δρόμου",
+		"swiss german": "Strass uflupfä",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1749,6 +1826,7 @@
 		"romanian": "Coboară drumul",
 		"danish": "Sænk vej",
 		"greek": "Κτέβασμα Δρόμου",
+		"swiss german": "Strass abeleggä",
 	},
 	"precisionConstruction": {
 		"english": "Precision Construction",
@@ -1756,6 +1834,7 @@
 		"french": "Construction de précision",
 		"thai": "การก่อสร้างที่แม่นยำ",
 		"hungarian": "Pontos építkezés",
+		"swiss german": "Präzisäs Bauä",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
@@ -1763,6 +1842,7 @@
 		"french": "Maintenir Maj (gauche)",
 		"thai": "กด Shift (ซ้าย)",
 		"hungarian": "Shift nyomva tartva(bal)",
+		"swiss german": "Shift (links) lang druckä",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1775,6 +1855,7 @@
 		"danish": "Skift Gitter",
 		"greek": "Εναλλαγή Πλέγματος",
 		"thai": "สลับกรอบตะแกรง",
+		"swiss german": "Gitter umschaltä",
 	},
 	"move": {
 		"english": "Move",
@@ -1782,6 +1863,7 @@
 		"french": "Déplacement",
 		"thai": "ย้าย",
 		"hungarian": "Mozgatás",
+		"swiss german": "Verschiäbä",
 	},
 	"delete": {
 		"english": "Delete",
@@ -1789,6 +1871,7 @@
 		"french": "Supprimer",
 		"thai": "ลบ",
 		"hungarian": "Törlés",
+		"swiss german": "Löschä",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
@@ -1796,6 +1879,7 @@
 		"french": "Menus de construction",
 		"thai": "เมนูก่อสร้าง",
 		"hungarian": "Építkezési menük",
+		"swiss german": "Baumenüs",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
@@ -1803,6 +1887,7 @@
 		"french": "Maj (gauche) + numéro",
 		"thai": "Shift (ซ้าย) + ตัวเลข",
 		"hungarian": "Shift (bal) + szám",
+		"swiss german": "Shift (links) + Zahl",
 	},
 
 
@@ -1831,6 +1916,7 @@
 		"thai": "ควบคุมเวลา",
 		"danish": "Tids Control",
 		"greek": "Έλεγχος χρόνου",
+		"swiss german": "Ziitkontrollä",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1855,6 +1941,7 @@
 		"thai": "หยุดชั่วคราว",
 		"danish": "Pause",
 		"greek": "Παύση",
+		"swiss german": "Pausä",
 	},
 	"normalSimulationSpeed": {
 		"english": "Normal Simulation Speed",
@@ -1862,6 +1949,7 @@
 		"french": "Vitesse de simulation normale",
 		"thai": "ความเร็วการจำลองแบบปกติ",
 		"hungarian": "Normális szimulációs sebesség",
+		"swiss german": "Normali Simulations-Gschwindigkeit",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
@@ -1869,6 +1957,7 @@
 		"french": "Vitesse de simulation rapide",
 		"thai": "ความเร็วการจำลองแบบเร็ว",
 		"hungarian": "Gyors szimulációs sebesség",
+		"swiss german": "Schnälli Simulations-Gschwindigkeit",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1893,6 +1982,7 @@
 		"thai": "หมุนซ้าย",
 		"danish": "Roter til Venstre",
 		"greek": "Περιστροφή Αριστερά",
+		"swiss german": "Links dräiä",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1917,6 +2007,7 @@
 		"thai": "หมุนขวา",
 		"danish": "Roter til højre",
 		"greek": "Περιστροφή Δεξιά",
+		"swiss german": "Rächts dräiä",
 	},
 
 
@@ -1946,6 +2037,7 @@
 		"thai": "เบ็ดเตล็ด",
 		"danish": "Diverse",
 		"greek": "Διάφορα",
+		"swiss german": "Suschtigs",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1970,6 +2062,7 @@
 		"thai": "ถ่ายรูปหน้าจอ",
 		"danish": "Skærmprint",
 		"greek": "Στιγμυότυπο Οθόνης",
+		"swiss german": "Screenshot",
 	},
 	"screenshotMode": {
 		"english": "Screenshot Mode",
@@ -1993,6 +2086,7 @@
 		"romanian": "Mod captură de ecran",
 		"danish": "Skærmprint Tilstand",
 		"greek": "Λειτουργία Στιγμυότυπου Οθόνης",
+		"swiss german": "Screenschotmodus",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -2017,6 +2111,7 @@
 		"thai": "เปิดโฟลเดอร์รูปหน้าจอ",
 		"danish": "Åben Skærmprints Mappe",
 		"greek": "Άνοιγμα Φακέλων Στιγμυοτύπων Οθόνης",
+		"swiss german": "Screenshotordner",
 	},
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
@@ -2040,6 +2135,7 @@
 		"romanian": "Deschideți dosarul cu capturile de ecran / Salvări",
 		"danish": "Åben Skærmprints / Gemte",
 		"greek": "Άνοιγμα Στιγμυοτύπων/Αποθηκεύσεων",
+		"swiss german": "Screenshots / Spielständ ufmache",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -2064,6 +2160,7 @@
 		"thai": "แสดง FPS",
 		"danish": "Vis Frames per Sekund",
 		"greek": "Εμφάνιση καρέ ανά δευτερόλεπτο",
+		"swiss german": "Zeig Bilder pro Sekundä",
 	},
 	"quicksave": {
 		"english": "Quick Save",
@@ -2071,6 +2168,7 @@
 		"french": "Sauvegarde rapide",
 		"thai": "บันทึกด่วน",
 		"hungarian": "Gyorsmentés",
+		"swiss german": "Schnällspeichere",
 	},
 	"quickload": {
 		"english": "Quick Load",
@@ -2078,6 +2176,7 @@
 		"french": "Chargement rapide",
 		"thai": "โหลดด่วน",
 		"hungarian": "Gyorstöltés",
+		"swiss german": "Schnällladä",
 	},
 
 
@@ -2111,6 +2210,7 @@
 		"thai": "ปุ่มเมาส์ซ้าย",
 		"danish": "Venstre Muse Knap",
 		"greek": "Αριστερό κουμπί ποντικιού",
+		"swiss german": "Linggi Muustaschtä",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -2135,6 +2235,7 @@
 		"thai": "ปุ่มเมาส์ขวา",
 		"danish": "Højre Muse Knap",
 		"greek": "Δεξί κουμπί ποντικιού",
+		"swiss german": "Rächti Muustaschtä",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -2159,6 +2260,7 @@
 		"thai": "ปุ่มเมาส์กลาง",
 		"danish": "Miderste Muse Knap",
 		"greek": "Μεσαίο κουμπί ποντικιού",
+		"swiss german": "Mittleri Muustaschtä",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -2183,6 +2285,7 @@
 		"thai": "สเปซบาร์",
 		"danish": "Mellemrum",
 		"greek": "Διάστημα",
+		"swiss german": "Läärtschtä",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -2207,6 +2310,7 @@
 		"thai": "Shift (ซ้าย)",
 		"danish": "Shift (Venstre)",
 		"greek": "Shift (αριστερό)",
+		"swiss german": "Shift (links)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -2231,6 +2335,7 @@
 		"thai": "Shift (ขวา)",
 		"danish": "Shift (Højre)",
 		"greek": "Shift (δεξί)",
+		"swiss german": "Shift (rächts)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -2255,6 +2360,7 @@
 		"thai": "Alt (ซ้าย)",
 		"danish": "Alt (Venstre)",
 		"greek": "Alt (αριστερό)",
+		"swiss german": "Alt (links)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -2279,6 +2385,7 @@
 		"thai": "Alt (ขวา)",
 		"danish": "Alt (Højre)",
 		"greek": "Alt (δεξί)",
+		"swiss german": "Alt (rächts)",
 	},
 	"key_LeftControl": {
 		"english": "Ctrl (left)",
@@ -2303,6 +2410,7 @@
 		"thai": "Ctrl (ซ้าย)",
 		"danish": "Ctrl (Venstre)",
 		"greek": "Ctrl (αριστερό)",
+		"swiss german": "Ctrl (links)",
 	},
 	"key_RightControl": {
 		"english": "Ctrl (right)",
@@ -2327,6 +2435,7 @@
 		"thai": "Ctrl (ขวา)",
 		"danish": "Ctrl (Højre)",
 		"greek": "Ctrl (δεξί)",
+		"swiss german": "Ctrl (rächts)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -2351,6 +2460,7 @@
 		"thai": "แคปล็อค",
 		"danish": "Caps Lock",
 		"greek": "Caps Lock",
+		"swiss german": "Frschtschtelltaschtä",
 	},
 	"key_PageUp": {
 		"english": "Page Up",
@@ -2374,6 +2484,7 @@
 		"romanian": "PageUp",
 		"danish": "PageUp",
 		"greek": "Page Up",
+		"swiss german": "Siitä uä",
 	},
 	"key_PageDown": {
 		"english": "Page Down",
@@ -2397,6 +2508,7 @@
 		"romanian": "PageDown",
 		"danish": "PageDown",
 		"greek": "Page Down",
+		"swiss german": "Siitä abä",
 	},
 	"saveBarelyCompatibleWithGameVersion": {
 		"english": "This save is only partially compatible with your game version.",
@@ -2410,6 +2522,7 @@
 		"czech": "Toto uložení je pouze částečně kompatibilní s vaší verzí hry.",
 		"danish": "Dette gemte spil er kun delvist kompatibel med din spilversion.",
 		"greek": "Η αποθήκευση είναι μόνο μερικώς συμβατή με την έκδοση παιχνιδιού σου",
+		"swiss german": "Dä Schpielstand isch numä zum Teil Kompatibäl mit dinärä Spielversion",
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
@@ -2423,6 +2536,7 @@
 		"czech": "Jak hrát nekompatibilně uloženou hru",
 		"danish": "Sådan spille du et inkompatibelt gemt spil",
 		"greek": "Πως να παίξεις μη συμβατές αποθηκεύσεις",
+		"swiss german": "Wie mä kampatibli Schpielständ spilt",
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
@@ -2436,6 +2550,7 @@
 		"czech": "Když vydáváme velkou aktualizaci hry, někdy uložené hry nejsou plně kompatibilní.\nMáte dvě možnosti:\n\n1. Pokračujte ve hře z předchozí verze. Vytvořili jsme pro vás tutoriál.\n2. Zkuste převést uloženou hru do nové verze.\n\nPřevody uložení nejsou dokonalé. Pravděpodobně budete muset hru pozastavit a strávit nějaký čas řešením případných problémů.",
 		"danish": "Når vi udgiver en stor spilopdatering, kan det ske at et gemt spil ikke er helt kompatibelt.\nDu har to muligheder:\n\n1Fortsæt dit gemte spil på den tidligere version. Vi har lavet en tutorial til dig.\n2Prøv at konvertere dit gemte spil til en ny version.\n\nKonvertering er ikke fejlfri. Du bliver sikkert nød til at pause spillet, og løse nogle problemer.",
 		"greek": "Όταν κυκλοφορούμε μία μεγάλη αναβάθμιση παιχνιδιου, μερικές φορές οι αποθηκεύσεις παιχνιδιών δεν είναι εντλεώς συμβατές.\n Έχεις δύο επιλογές:\n\n1.Συνέχισε να παίζεις το αποθηκευμένο σου παχνίδι στην προηγούμενη έκδοση.Έχουμε φτιάξει έναν οδηγό για 'σένα.\n2.Δοκίμασε να μετατρέψεις την αποθήκευση του παιχνιδιού σου στην νέα έκδοση.\n\nΜερικές μετατροπές δεν είναι τέλειες.Πιθανόν χρείαζεται να κάνεις παύση το παχνίδι και να χρειαστείς χρόνο να επιδιορθώσεις διάφορα προβλήματα.",
+		"swiss german": "Wänn mir es grossäs Update veröffentlichäd, sind Spielständ mängisch nöd voll kompatibel.\nDu häsch 2 Möglichkeitä:\n\n1. Spil din Spielstand uf dä vorherige Version wiiter. Mir händ ä Ahleitig für dich erstellt.\nVersuech din Spielstand uf di neuscht Version z`konvertiere.\n\nKonvertierigä sind nöd pärfäkt. Du muäsch warschindlich s`Spiel pausiärä und d Problem i dinere Stadt behebä.",
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
@@ -2449,6 +2564,7 @@
 		"czech": "Změnit verzi hry",
 		"danish": "Ændre Spil Version",
 		"greek": "Άλλαξε την έκδοση παχνιδιου",
+		"swiss german": "Spielversion wächslä",
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
@@ -2462,6 +2578,7 @@
 		"czech": "Zkuste konverzi",
 		"danish": "Prøv at konvertere",
 		"greek": "Δοκίμασε μετατροπή",
+		"swiss german": "Konvertierig versueche",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -2486,6 +2603,7 @@
 		"arabic": "هذا الحفظ غير متوافق مع إصدار اللعبة الخاص بك.\nيمكنك لعب الإصدارات القديمة باستخدام خاصية 'Betas' بمتجر Steam.",
 		"danish": "Dette gemte spil er ikke kompatibelt med din aktuelle version.\nDu kan spille ældre versioner ved at bruge 'Betas' funktionen gennem steam",
 		"greek": "Αυτή η αποθήκευση παχνιδιού δέν είναι συμβατή με την έκδοση του παιχνιδιού σου.\nΜπορείς να παίξεις παλιές εκδόσεις χρησιμοποιόντας την δυνατότητα 'Betas' στο Steam",
+		"swiss german": "Dä Spielstand isch nöd kompatibel mit dä Version vo dim Spiel. \nDu chasch aber alti Versionä vom Spiel mithilf vo dä 'Beta'-Funktion in Steam spilä.",
 	},
 	// ROADMAP
 	"roadmap": {
@@ -2510,6 +2628,7 @@
 		"romanian": "Planuri de viitor",
 		"danish": "Udviklingsplan",
 		"greek": "Οδικός χάρτης",
+		"swiss german": "Roadmap",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -2533,6 +2652,7 @@
 		"romanian": "Nu s-au găsit planurile de viitor.\n\nEști conectat la internet?",
 		"danish": "Ingen udviklings fundet.\n\nHar du forbindelse til internettet?",
 		"greek": "Δεν βρέθηκε οδικός χάρτης.Είσαι συνδεδεμένος στο διαδίκτυο;",
+		"swiss german": "Kei Roadmap gfunde. \n\nBisch du mit äm Internet verbundä?",
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -2556,6 +2676,7 @@
 		"romanian": "Caracteristici garantate pentru access anticipat",
 		"danish": "Garanteret funktioner for Early Access",
 		"greek": "Επιβεβαιωμένες δυνατότητες για πρώιμη πρόσβαση",
+		"swiss german": "Garantirti Features für dä Early Access",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -2579,6 +2700,7 @@
 		"romanian": "Votează pentru funcțiile suplimentare",
 		"danish": "Stem på Ekstra Funktioner",
 		"greek": "Ψήφισε για έξτρα δυαντότητες",
+		"swiss german": "Stimm ab für Extrafeatures",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
