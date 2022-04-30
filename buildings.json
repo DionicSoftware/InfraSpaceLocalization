@@ -22,6 +22,7 @@
     "scotsgaelic": "Mèinn Gainmheach",
     "danish": "Sandmine",
     "greek": "Ορυχείο Άμμου",
+    "swiss german": "Sandminä",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -46,6 +47,7 @@
     "scotsgaelic": "Mèinn Sulfair",
     "danish": "Svovlmine",
     "greek": "Ορυχείο Θείου",
+    "swiss german": "Schwäfälminä",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -70,6 +72,7 @@
     "scotsgaelic": "Mèinn Iarainn",
     "danish": "Jernmine",
     "greek": "Ορυχείο Σίδερου",
+    "swiss german": "Isäminä",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -94,6 +97,7 @@
     "scotsgaelic": "Mhèinn Copar",
     "danish": "Kobbermine",
     "greek": "Ορυχείο Χαλκού",
+    "swiss german": "Kupferminä",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -118,6 +122,7 @@
     "scotsgaelic": "Mèinnean Aluminium",
     "danish": "Aluminiumsmine",
     "greek": "Ορυχείο Αλουμινίου",
+    "swiss german": "Aluminiumminä",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -142,6 +147,7 @@
     "scotsgaelic": "Mèinnean Uranium",
     "danish": "Uranmine",
     "greek": "Ορυχείο Ουρανίου",
+    "swiss german": "Uraniumminä",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -166,6 +172,7 @@
     "scotsgaelic": "Mèinnean Iridium",
     "danish": "Iridiummine",
     "greek": "Ορυχείο Ιριδίου",
+    "swiss german": "Iridiumminä",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -190,6 +197,7 @@
     "scotsgaelic": "Mèinn Mhòr Gainmhich",
     "danish": "Stor Sandmine",
     "greek": "Μεγάλο Ορυχείο Άμμου",
+    "swiss german": "Grossi Sandminä",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -214,6 +222,7 @@
     "scotsgaelic": "Mèinn Mhòr Shulfair",
     "danish": "Stor Svovlmine",
     "greek": "Μεγάλο Ορυχείο Θείου",
+    "swiss german": "Grossi Schwäfelminä",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -237,7 +246,8 @@
     "romanian": "Mină mare de fier",
     "scotsgaelic": "Mèinn Mòr Iarainn",
     "danish": "Stor Jernmine",
-     "greek": "Μεγάλο Ορυχείο Σίδερου",
+    "greek": "Μεγάλο Ορυχείο Σίδερου",
+    "swiss german": "Grossi Isäminä",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -262,6 +272,7 @@
     "scotsgaelic": "Mèinn Copair Mòr",
     "danish": "Stor Kobbermine",
      "greek": "Μεγάλο Ορυχείο Χαλκού",
+    "swiss german": "Grossi Kupferminä",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -286,6 +297,7 @@
     "scotsgaelic": "Mèinn Mòr Aluminium",
     "danish": "Stor Aluminiumsmine",
      "greek": "Μεγάλο Ορυχείο Αλουμινίου",
+    "swiss german": "Grossi Aluminiumminä",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -310,6 +322,7 @@
     "scotsgaelic": "Mèinnean Mòr Uranium",
     "danish": "Stor Uranmine",
      "greek": "Μεγάλο Ορυχείο Ουρανίου",
+    "swiss german": "Grossi Uraniumminä",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -334,6 +347,7 @@
     "scotsgaelic": "Mèinnean Iridium Mòr",
     "danish": "Stor Iridiummine",
      "greek": "Μεγάλο Ορυχείο Ιριδίου",
+    "swiss german": "Grossi Iridiumminä",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -358,6 +372,7 @@
     "scotsgaelic": "Factaraidh Leictreonaic",
     "danish": "Elektronikmodul Fabrik",
      "greek": "Εργοστάσιο Ηλεκτρονικών",
+    "swiss german": "Elektronikfabrik",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -382,6 +397,7 @@
     "scotsgaelic": "Factaraidh microchip",
     "danish": "Mikrochip Fabrik",
     "greek": "Εργοστάσιο Μικροτσιπ",
+    "swiss german": "Mikrochipfabrik",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -406,6 +422,7 @@
     "scotsgaelic": "Factaraidh Pròiseasaiche Neural",
     "danish": "Neural Processor Fabrik",
      "greek": "Εργοστάσιο Νευρονικών Επεξεργαστών",
+    "swiss german": "Fabrik für Neuronalprozessorä",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -430,6 +447,7 @@
     "scotsgaelic": "Factaraidh Motair",
     "danish": "Motor Fabrik",
      "greek": "Εργοστάσιο Κινητήρων",
+    "swiss german": "Motorfabrik",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -454,6 +472,7 @@
     "scotsgaelic": "Factaraidh Nanotubes",
     "danish": "Nanorør Fabrik",
     "greek": "Εργοστάσιο Νανοσωλήνων",
+    "swiss german": "Fabrik für Nanoröhränä",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -478,6 +497,7 @@
     "scotsgaelic": "Factaraidh Measgachadh Iridium",
     "danish": "Iridium Legering Fabrik",
      "greek": "Εργοστάσιο Κράματος Ιριδίου",
+    "swiss german": "Fabrik für Iridiumlegiärigänä",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -502,6 +522,7 @@
     "scotsgaelic": "Factaraidh Holo-Taisbeanadh",
     "danish": "Holo-Skærms Fabrik",
      "greek": "Εργοστάσιο Ολογραφικών Οθονών",
+    "swiss german": "Fabrik für Holo-Bildschirm",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -526,6 +547,7 @@
     "scotsgaelic": "Factaraidh bunaiteach Rèididheachd",
     "danish": "Kernekraft Fabrik",
      "greek": "Εργοστάσιο Ραδιενεργού Πυρήνα",
+    "swiss german": "Fabrik für Strahligs-Chärn",
   },
   "concreteFactory": {
     "english": "Concrete Factory",
@@ -550,6 +572,7 @@
     "scotsgaelic": "Factaraidh Concrait",
     "danish": "Beton Fabrik",
      "greek": "Εργοστάσιο Μπετού",
+    "swiss german": "Betongfabrik",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -574,6 +597,7 @@
     "scotsgaelic": "Muileann Stàilinn",
     "danish": "Stålværk",
      "greek": "Χαλυβουργείο",
+    "swiss german": "Stahlwärch",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -598,6 +622,7 @@
     "scotsgaelic": "Factaraidh Innealan Dachaigh",
     "danish": "Hvidevare Fabrik",
     "greek": "Εργοστάσιο Οικιακών Συσκευών",
+    "swiss german": "Fabrik für Huusgrät",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -622,6 +647,7 @@
     "scotsgaelic": "Factaraidh Coimpiutair",
     "danish": "Computer Fabrik",
      "greek": "Εργοστάσιο Υπολογιστών",
+    "swiss german": "Computerfabrik",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -646,6 +672,7 @@
     "scotsgaelic": "Factaraidh Robot Dachaigh",
     "danish": "Hjemmerobot Fabrik",
      "greek": "Εργοστάσιο Οικιακών Ρομπότ",
+    "swiss german": "Fabrik für Huusroboter",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -670,6 +697,7 @@
     "scotsgaelic": "Factaraidh Robot Gnìomhachais",
     "danish": "Industrirobot Fabrik",
      "greek": "Εργοστάσιο Βιομηχανικών Ρομπότ",
+    "swiss german": "Fabrik für industrielli Roboter",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -694,6 +722,7 @@
     "scotsgaelic": "Bùth-obrach Àrd-theicneòlas",
     "danish": "Højteknologisk Værksted",
      "greek": "Εργαστήριο Υψηλής Τεχνολογίας",
+    "swiss german": "High Tech Wärchstatt",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -718,6 +747,7 @@
     "scotsgaelic": "Factaraidh Edutainment VR",
     "danish": "VR Endutainment Fabrik",
      "greek": "Εργοστάσιο Εκπαιδευτικής Ψυχαγωγίας VR",
+    "swiss german": "Fabrik für VR-Brüllene",
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -742,6 +772,7 @@
     "scotsgaelic": "Factaraidh Iridium Propellant",
     "danish": "Iridium Drivmiddel Fabrik",
      "greek": "Εργοστάσιο Προωστικού Ιριδίου",
+    "swiss german": "Fabrik für Iridium-Triibstoff",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -766,6 +797,7 @@
     "scotsgaelic": "Factaraidh Aonad Smachd AI",
     "danish": "AI Kontrolenheds Fabrik",
      "greek": "Εργοστάσιο Μονάδων Ελέγχου AI",
+    "swiss german": "Fabrik für KI-Stüürmodul",
   },
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
@@ -790,6 +822,7 @@
     "scotsgaelic": "Factaraidh Pasgan Saidheans Gorm",
     "danish": "Blå Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Μπλε Επιστήμης",
+    "swiss german": "Fabrik für blaui Wüsseschaftspünkt",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -814,6 +847,7 @@
     "scotsgaelic": "Factaraidh Pacaid Saidheans Uaine",
     "danish": "Grøn Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Πράσινης Επιστήμης",
+    "swiss german": "Fabrik für grüeni Wüsseschaftspünkt",
     
   },
   "sciencePack3Factory": {
@@ -839,6 +873,7 @@
     "scotsgaelic": "Factaraidh Pacaid Saidheans Buidhe",
     "danish": "Gul Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Κίτρινης Επιστήμης",
+    "swiss german": "Fabrik für gääli Wüsseschaftspünkt",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -863,6 +898,7 @@
     "scotsgaelic": "Factaraidh Pacaid Saidheans Dearg",
     "danish": "Rød Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Κόκκινης Επιστήμης",
+    "swiss german": "Fabrik für rooti Wüsseschaftspünkt",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -887,6 +923,7 @@
     "scotsgaelic": "Obair-lann Rannsachaidh",
     "danish": "Forskningscenter",
      "greek": "Εργαστήριο Έρευνας",
+    "swiss german": "Forschigslabor",
   },
   "storehouse": {
     // TODO-chinese
@@ -913,6 +950,7 @@
     "scotsgaelic": "Stòradh togail",
     "danish": "Byggemateriale Lager",
      "greek": "Αποθήκη Οικοδομικών Υλικών",
+    "swiss german": "Baumatriallager",
   },
   "spacePort": {
     "english": "Space Port",
@@ -937,6 +975,7 @@
     "scotsgaelic": "Port Fànais",
     "danish": "Rumhavn",
      "greek": "Διαστημικό λιμάνι",
+    "swiss german": "Wältallhafe",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -961,6 +1000,7 @@
     "scotsgaelic": "Ionad Ath-chuairteachaidh",
     "danish": "Genbrugsstation",
      "greek": "Κέντρο Ανακύκλωσης",
+    "swiss german": "Recyclingzentrum",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -985,6 +1025,7 @@
     "scotsgaelic": "Goireas beairteachadh talmhainn",
     "danish": "Jordberigelses Anlæg",
      "greek": "Εγκατάσταση εμπλουτισμού εδάφους",
+    "swiss german": "Erd-Düngerigs-Ahlag",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -1009,6 +1050,7 @@
     "scotsgaelic": "Pròiseasar Àile",
     "danish": "Atmosfære Processor",
      "greek": "Παραγωγός Ατμόσφαιρας",
+    "swiss german": "Luftfilterahlag",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -1033,6 +1075,7 @@
     "scotsgaelic": "Pròiseasar Ocsaidean",
     "danish": "Ilt Processor",
      "greek": "Παραγωγός Οξυγώνου",
+    "swiss german": "Suurstofffilterahlag",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -1057,6 +1100,7 @@
     "scotsgaelic": "Pròiseasar Gualain",
     "danish": "Kulstof Processor",
      "greek": "Παραγωγός Άνθρακα",
+    "swiss german": "Cholestofffilterahlag",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -1081,6 +1125,7 @@
     "scotsgaelic": "Tuathanas Sìmplidh",
     "danish": "Simpel Gård",
     "greek": "Απλή Φάρμα",
+    "swiss german": "Eifachi Farm",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -1105,6 +1150,7 @@
     "scotsgaelic": "Factaraidh Todhar",
     "danish": "Gødningsanlæg",
      "greek": "Εργοστάσιο Λιπάσματος",
+    "swiss german": "Düngerfabrik",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -1129,6 +1175,7 @@
     "scotsgaelic": "Tuathanas Glasraich",
     "danish": "Grøntsags Gård",
      "greek": "Φάρμα Λαχανικών",
+    "swiss german": "Gmüäsfarm",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -1153,6 +1200,7 @@
     "scotsgaelic": "Lab Feòil",
     "danish": "Kød Laboratorium",
      "greek": "Εργαστήριο Κρέατος",
+    "swiss german": "Fleischlabor",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -1177,6 +1225,7 @@
     "scotsgaelic": "Factaraidh Bìdh",
     "danish": "Fødevare Fabrik",
      "greek": "Εργοστάσιο Φαγητού",
+    "swiss german": "Ässänsfabrik",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -1201,6 +1250,7 @@
     "scotsgaelic": "Taigh Bunaiteach",
     "danish": "Simpelt Habitat",
      "greek": "Απλός οικισμός",
+    "swiss german": "Eifachs Zimmer",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -1225,6 +1275,7 @@
     "scotsgaelic": "Taigh Math",
     "danish": "Anstændigt Habitat",
      "greek": "Καλός Οικισμός",
+    "swiss german": "Solids Zimmer",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -1249,6 +1300,7 @@
     "scotsgaelic": "Taigh Comhfhurtail",
     "danish": "Komfortabelt Habitat",
      "greek": "Άνετος Οικισμός",//TODO:Needs better translation
+    "swiss german": "Komfortabls Zimmer",
   },
   "habitatLevel4": {
     "english": "Residential building",
@@ -1273,6 +1325,7 @@
     "scotsgaelic": "Togalach Còmhnaidh",
     "danish": "Beboelses Bygning",
      "greek": "Κατοικία",
+    "swiss german": "Wohnhuus",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -1297,6 +1350,7 @@
     "scotsgaelic": "Caisteal Còmhnaidh",
     "danish": "Beboelses Højhus",
      "greek": "Πολυκατοικία",
+    "swiss german": "Wohnhochhuus",
   },
   "habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -1321,6 +1375,7 @@
     "scotsgaelic": "Caisteal Còmhnaidh Sòghail",
     "danish": "Luksus Beboelses Højhus",
      "greek": "Πολυτελής Πολυκατοικία",
+    "swiss german": "Luxeriöses Wohnhochhuus",
   },
   "park": {
     "english": "Park",
@@ -1345,6 +1400,7 @@
     "scotsgaelic": "Pàirce",
     "danish": "Park",
      "greek": "Πάρκο",
+    "swiss german": "Park",
   },
   "arena": {
     "english": "Stadium",
@@ -1369,6 +1425,7 @@
     "scotsgaelic": "Stèideam",
     "danish": "Stadion",
      "greek": "Στάδιο",
+    "swiss german": "Stadion",
   },
   "school": {
     "english": "School",
@@ -1393,6 +1450,7 @@
     "scotsgaelic": "Sgoil",
     "danish": "Skole",
      "greek": "Σχολείο",
+    "swiss german": "Schuäl",
   },
   "powerPole": {
     "english": "Power Pole",
@@ -1417,6 +1475,7 @@
     "scotsgaelic": "Pòla Cumhachd",
     "danish": "Elmast",
      "greek": "Πυλώνας Ρεύματος",
+    "swiss german": "Strommaschtä",
   },
   "powerSubstation": {
     "english": "Power Substation",
@@ -1441,6 +1500,7 @@
     "scotsgaelic": "Fo-stèisean Cumhachd",
     "danish": "Transformerstation",
      "greek": "Υποσταθμός Ρεύματος",
+    "swiss german": "Umspannwärch",
   },
   "windTurbine": {
     "english": "Wind Turbine",
@@ -1465,6 +1525,7 @@
     "scotsgaelic": "Turbainn-Gaoithe",
     "danish": "Vindmølle",
      "greek": "Ανεμογεννήτρια",
+    "swiss german": "Windrad",
   },
   "solarPowerPlant": {
     "english": "Solar Power Plant",
@@ -1489,6 +1550,7 @@
     "scotsgaelic": "Ionad Cumhachd Solar",
     "danish": "Solcelleanlæg",
      "greek": "Φωτοβολταϊκό",
+    "swiss german": "Solarchraftwärch",
   },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
@@ -1513,6 +1575,7 @@
     "scotsgaelic": "Ionad Cumhachd Niùclasach",
     "danish": "Atomkraftværk",
      "greek": "Πυρινικό Εργοστάσιο Ενέργειας",
+    "swiss german": "Atomchraftwärch",
   },
   "fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1537,6 +1600,7 @@
     "scotsgaelic": "Luath Neutron Reactor",
     "danish": "Hurtig Neutronreaktor",
      "greek": "Γρήγορος Αντιδραστήρας Νετρονίων",
+    "swiss german": "Schnälls Neuronächraftwärch",
   },
   "signStanding": {
     "english": "Great Standing Sign",
@@ -1561,6 +1625,7 @@
     "scotsgaelic": "Mòrdha standing ròn",
     "danish": "Stort Stående Skilt",
      "greek": "Μεγάλη Στεκόμενη Πινακίδα",
+    "swiss german": "Grossi stehändi Schrift",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -1585,6 +1650,7 @@
     "scotsgaelic": "Mòrdha càradh ròn",
     "danish": "Stort Liggende Skilt",
      "greek": "Μεγάλη Ξαπλωμένη Πινακίδα",
+    "swiss german": "Grossi ligändi Schrift",
   },
   "monumentDrill": {
     "english": "Colossal Adamantine Drill",
@@ -1609,6 +1675,7 @@
     "scotsgaelic": "Drile Adamantine mhòr",
     "danish": "Kæmpe Adamantine Bor",
      "greek": "Κολοσσαίο Τρυπάνι Αδαμαντίνης",
+    "swiss german": "Riesigä Adamant-Bohrer",
   },
   "trainStationWithName": { // like "Train Station Alpha"
     "english": "Train Station %name%",
@@ -1626,6 +1693,7 @@
     "spanish": "Estación Ferroviaria %name%",
     "danish": "Togstation %name%",
     "greek": "Σταθμός Τρένου %name%",
+    "swiss german": "Bahnhof %name%",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1643,6 +1711,7 @@
     "spanish": "Estación Ferroviaria Pequeña",
     "danish": "Lille Togstation",
     "greek": "Μικρός Σταθμός Τρένου",
+    "swiss german": "Chlinä Bahnhof",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1660,6 +1729,7 @@
     "spanish": "Estación Ferroviaria Mediana",
     "danish": "Mellem Togstation",
     "greek": "Μεσαίος Σταθμός Τρένου",
+    "swiss german": "Mittlerä Bahnhof",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1677,6 +1747,7 @@
     "spanish": "Estación Ferroviaria Grande",
     "danish": "Stor Togstation",
      "greek": "Μεγάλος Σταθμός Τρένου",
+    "swiss german": "Grossä Bahnhof",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -1694,5 +1765,6 @@
     "spanish": "Estación Ferroviaria Principal",
     "danish": "Hovedbanegård",
      "greek": "Κεντρικός Σταθμός Τρένου",
+    "swiss german": "Hauptbahnhof",
   },
 }
