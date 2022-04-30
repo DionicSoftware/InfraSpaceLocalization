@@ -456,7 +456,7 @@
 		"arabic": "هل أنت متأكد من رغبتك في مسح \"%save%\"؟ سيتم التخلص منها نهائيا.",
 		"danish": "Er du sikker på du vil slette spillet  \"%save%\"? Det vil forsvinde for altid!",
 		"greek": "Είσαι σίγουρος ότι θες να διαγράψεις την αποθήκευση \"%save%\"; Θα χαθεί για πάντα",
-		"swiss german": "Bisch du dir sicher dass du de Spielstand \%save%\ lösche wetsch? Er wird nümme widerherstellbar sii.",
+		"swiss german": "Bisch du dir sicher dass du de Spielstand \"%save%\" lösche wetsch? Er wird nümme widerherstellbar sii.",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -2724,6 +2724,7 @@
 		"romanian": "Votează funcțiile tale preferate pentru a ne spune pe ce ar trebui să ne concentrăm.\nVom alege din această listă în funcție de dorințele comunității și de cât de bine se potrivesc în joc.",
 		"danish": "Stem på din favorit funktion, så vi ved hvad vi skal focusere på.\nVi vil vælge fra listen, ud fra øsnker og hvor godt de passer ind i spillet.",
 		"greek": "Ψήφισε στις αγαπημένες σου δυνατότητες για να ξέρουμε σε τι να εστιάσουμε.\nΘα διαλέξουμε από αυτήν την λίστα με βάση τις επιθυμίες της κοινότητας και του πόσο καλά ταιριάζουν στο παιχνίδι.",
+		"german": "Stimm für dini Lieblingsfeatures, dass mir wüssed uf was mir üs konzentriärä müend.\nMir wärded Features us därä Lischtä wählä je nachdäm we fest sie vo dä Community gwünscht wärded und we guet sie is Spiel passäd.",
 	},
 	"vote": {
 		"english": "Vote",
@@ -2747,6 +2748,7 @@
 		"romanian": "Votează",
 		"danish": "Stem",
 		"greek": "Ψήφισε",
+		"swiss german": "Abstimmä",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -2770,6 +2772,7 @@
 		"romanian": "Discută în forum",
 		"danish": "Diskuter",
 		"greek": "Συζήτηση",
+		"swiss german": "Diskutiärä",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -2793,6 +2796,7 @@
 		"romanian": "Raportează o eroare",
 		"danish": "Rapporter en fejl",
 		"greek": "Ανάφερε ένα πρόβλημα",
+		"swiss german": "Bug mäldä",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -2815,6 +2819,7 @@
 		"turkish":"InfraSpace i çevir",
 		"romanian": "Traducere InfraSpace",
 		"danish": "Oversæt InfraSpace",
+		"swiss german": "InfraSpace übersetzä",
 	},
 	"roadmap_trafficTools_title": {
 		"english": "Traffic Signs and Traffic Lights",
@@ -2838,6 +2843,7 @@
 		"romanian": "Semne de circulație și semafoare",
 		"danish": "Trafikskilte og Trafiklys",
 		"greek": "Σήματα και Φανάρια",
+		"swiss german": "Verchehrsschild und Amplä",
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -2861,6 +2867,7 @@
 		"romanian": "Evită înfundarea intersecțiilor și acordă prioritate mașinilor care pot merge primele.",
 		"danish": "Sørg for, at dine vejkryds ikke bliver tilstoppede, og prioriter, hvilke biler der kan køre først.",
 		"greek": "Απότρεψε τις διασταυρώσεις σου από το μποτιλιάρισμα κολλάνε και όρισε προτεραιότητες.",
+		"swiss german": "Bhalt dini Chrüüzige frei und bevorzug weli Autos zersch fahre dörfed.",
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -2884,6 +2891,7 @@
 		"romanian": "Trenuri",
 		"danish": "Tog",
 		"greek": "Τρένα",
+		"swiss german": "Züüg",
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -2907,6 +2915,7 @@
 		"romanian": "Autostrăzile sunt frumoase, dar uneori trebuie să transporți mii de tone de materiale prin jumătate de oraș.",
 		"danish": "Motorveje er fine, men nogle gange skal du transportere tusindvis af tons materialer gennem halvdelen af byen.",
 		"greek": "Οι αυτοκινητόδρομοι καλοί είναι, αλλά μερικές φορές χρειάζεται να μεταφέρεις χιλιάδες τόνους υλικών μέσα από την μισή πόλη",
+		"swiss german": "Autobahnä sind ja schön und guet aber wänn mä tuusigi Tonne Material dur d Stadt bevördere mues, sind Züüg sehr praktisch.",
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -2930,6 +2939,7 @@
 		"romanian": "Proiect mare de final de joc",
 		"danish": "Kæmpe Afslutnings Projekt",
 		"greek": "Μεγάλο πρότζεκτ στο τέλος του παχνιδιού",
+		"swiss german": "Grossäs Endgame-Projekt",
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -2953,6 +2963,7 @@
 		"romanian": "Ți-ai depășit orașul și ai terminat arborele tehnologic? Cauți o ultimă provocare?",
 		"danish": "Har du fået det maximale ud af din by og færdiggjort teknologitræet? Leder du efter en sidste udfordring?",
 		"greek": "Έχεις φτάσει στο αποκορύφωμα την πόλη σου και έχεις τελειώσει το δέντρο τεχνολογίας;Ψάχνεις για μία τελική προκληση;",
+		"swiss german": "Wänn du scho s ganzä Spiel durägspilt häsch, hettisch nd d Chance uf ä letsti Useforderig.",
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -2976,6 +2987,7 @@
 		"romanian": "Gondole pentru a face legătura cu platoul",
 		"danish": "Gondoler til Highland Access",
 		"greek": "Γόνδολες για ορεινή πρόσβαση",
+		"swiss german": "Gondlä für Verbindigä zu dä Hochebnä",
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -2999,6 +3011,7 @@
 		"romanian": "Gondolele de marfă de mare capacitate care transportă mărfurile peste stânci și munți.",
 		"danish": "Godsgondoler med høj kapacitet kan transportere dine varer over klipper og bjerge.",
 		"greek": "Γόνδολες φορτίου υψηλής χωρητικότητας μπορούν να μεταφέρουν τα αγαθά σου πάνω από πέτρες και βουνά.",
+		"swiss german": "Grossi Gondlä chönd dini Materialie über Felsä und Bärg beförderä.",
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -3022,6 +3035,7 @@
 		"romanian": "Sistem de fericire",
 		"danish": "Glædes System",
 		"greek": "Σύστημα χαράς",
+		"swiss german": "Glücklichkeitssystem",
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -3045,6 +3059,7 @@
 		"romanian": "Sistem îmbunătățit pentru a decide când se modernizează habitatele. Ia în considerare clădirile de servicii din apropiere, zgomotul, ordonanțele și multe altele.",
 		"danish": "Forbedret system til at beslutte, hvornår habitater opgraderes. Tager hensyn til nærliggende servicebygninger, støj, bekendtgørelser med mere.",
 		"greek": "Βελτιωμένο σύστημα για να αποφασίζει πότε αναβαθμίζονται οι αποικίες. Λογαριάζει κοντινά κτήρια υπηρεσιών,θόρυβο,κανόνες και άλλα.",
+		"swiss german": "Verbesserts System zum z'entscheidä wänn sich en Wohnort verbesserät. Es Berücksichtigt Servicegebäude i dä Nöchi, Lärn, Verordnige und meh.",
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -3068,6 +3083,7 @@
 		"romanian": "Suport pentru mod-uri",
 		"danish": "Mod Understøttelse",
 		"greek": "Υποστίριξη τροποποιήσεων",
+		"swiss german": "Kompatibilität mit Mods",
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -3091,6 +3107,7 @@
 		"romanian": "Suport pentru mod-uri de echilibru, mod-uri de construcție, mod-uri de resurse, mod-uri de UI, mod-uri de infrastructură și mod-uri de script.",
 		"danish": "Understøttelse af balancemods, byggemods, ressourcemods, UI-mods, infrastrukturmods og scriptmods.",
 		"greek": "Υποστίριξη για τροποποιήσεις ισσοροπίας,τροποποιήσεις κτηρίων,τροποποιήσεις πόρων,τροποποιήσεις UI,τροποποιήσεις υποδομών και τροποποιήσεις σεναρίων",
+		"swiss german": "Unterstützig für Guethabemods, Gebäudemods, Ressourcämods, UI-Mods, Infrastrukturmods und Scriptmods.",
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -3114,6 +3131,7 @@
 		"romanian": "Conducte pentru lichide si gaze",
 		"danish": "Rørledning til væsker og gasser",
 		"greek": "Σωλήνες για υγρά και αέρια",
+		"swiss german": "Rohr für Flüssigkeitä und Gas",
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -3137,6 +3155,7 @@
 		"romanian": "Ce ai zice dacă ai putea transporta cantități mari de resurse sub pământ sau în conducte? Ce ai zice dacă ai avea nevoie să produci apă pentru a supraviețui?",
 		"danish": "Hvad hvis du kunne transportere store mængder ressourcer under jorden eller i rørledninger? Hvad hvis du skulle producere vand for at overleve?",
 		"greek": "Τι κι αν μπορύσες να μεταφέρεις μεγάλες ποσότητες πόρων κάτω από το έδαφος ή σε σωληνώσεις; Τι κι αν χρειαζόταν να παράγεις νερό για να επιβιώσεις;",
+		"swiss german": "Was wänn du grossi Mängänä a Flüssigkeite und Gas in Pipelines befördere chöntisch? Was wenns Wasser brüüchti zum Überläbä?",
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -3160,6 +3179,7 @@
 		"romanian": "Sistem de încălzire",
 		"danish": "Varme System",
 		"greek": "Σύστημα Θέρμανσης",
+		"swiss german": "Wärmesystem",
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -3183,6 +3203,7 @@
 		"romanian": "Sistemele de susținere a vieții sunt importante în spațiu - menținerea orașului suficient de cald sau de răcoare ar putea fi esențială.",
 		"danish": "Livsstøttesystemer er vigtige i rummet - at holde din by varm eller kølig nok kan være kritisk.",
 		"greek": "Τα συστήματα υποστήριξης ζωής είναι σημαντικά στο διάστημα - διατηρώντας την πόλη σου αρκετά ζεστή ή κρύα θα μπορύσε να είναι κρίσιμο",
+		"swiss german": "Läbänsunterhaltigssystem sind wichtig im Wältall - dini Stadt gnueg Chüel oder Warm z`bhalte chönt überlebenswichtig sii.",
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -3206,6 +3227,7 @@
 		"romanian": "Ciclu zi-noapte",
 		"danish": "Dag og Nat cyklus",
 		"greek": "Κύκλος Μέρας-Νύχτας",
+		"swiss german": "Tag-Nacht-Zyklus",
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -3229,6 +3251,7 @@
 		"romanian": "Arată bine și trebuie să pregatești rețeaua de alimentare pentru noapte. Ar putea funcționa bine și cu sistemul de căldură - planetele de nisip se răcesc rapid noaptea.",
 		"danish": "Ser cool ud, og du skal forberede dit strømnetværk til natten. Kunne også fungere godt med varmesystem - sandplaneter afkøles hurtigt om natten.",
 		"greek": "Φαίνεται ωραίο και χρειάζεται να προετοιμάσεις το ηλεκτρικό σου δίκτυο για την νύχτα.Θα μπορούσε επίσης να δουλέψει καλά με το σύστημα θέρμανσης - οι πλανήτες άμμου κρυώνουν γρήγορα την νύχτα.",
+		"swiss german": "Gseht cool uus und du muesch dis Stromnetz uf d Nacht vorbereitä wenns kei Sunnä meh hät. Es chönt au guet mit äm Wärmesystem funktionierä - Sandplanetä wärded idä Nacht sehr chüel.",
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -3252,6 +3275,7 @@
 		"romanian": "Incendii și crimă",
 		"danish": "Brande og kriminalitet",
 		"greek": "Φωτιές και έγκλημα",
+		"swiss german": "Füür und Kriminalität",
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -3275,6 +3299,7 @@
 		"romanian": "Se întâmplă accidente și orașul tău are nevoie de servicii de urgență pentru a le face față - fii pregătit!",
 		"danish": "Ulykker sker, og din by har brug for nødtjenester til at håndtere dem - vær forberedt!",
 		"greek": "Αυτχήματα συμβαίνουν και η πόλη σου χρειάζεται υπηρεσίες έκτατης ανάγκης για να τις αντιμετωπίσει - ετοιμάσου!",
+		"swiss german": "Umfäll chönd passierä und dini Stadt brucht Rettigspersonal - bi vorbereität!",
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -3298,6 +3323,7 @@
 		"romanian": "Mașini zburătoare pentru muncitori",
 		"danish": "Flyvende biler til arbejere",
 		"greek": "Ιπτάμενα αυτοκίνητα για εργαζόμενους",
+		"swiss german": "Flüügendi Autos für die wo müend go schaffe.",
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -3321,6 +3347,7 @@
 		"romanian": "Să adăugăm trafic pentru lucrătorii care merg la muncă, dar să introducem și upgrade-ul mașinii zburătoare pentru a preveni blocarea sistemului rutier.",
 		"danish": "Lad os tilføje trafik til arbejdere, der skal på arbejde, men også introducere den flyvende bilopgradering for at forhindre dit vejsystem i at sidde fast.",
 		"greek": "Ας προσθέσουμε κυκλοφορία για τους εργάτες που πάνε στην δουλεία, αλλά επίσης να εισάγουμε την αναβάθμιση ιπτάμενων αυτοκινήτων για να αποτρέψουμε το οδικό δίκτυο να κολλάει.",
+		"swiss german": "D Lüüt wo müend go schaffe chönd flüügendi Autos näh. Äs Upgrade zu Flugautos wür au de Verchehr entlaschtä.",
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -3344,6 +3371,7 @@
 		"romanian": "Dezastre naturale",
 		"danish": "Naturkatastrofer",
 		"greek": "Φυσικές Καταστροφές",
+		"swiss german": "Naturkatastrofä",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -3367,6 +3395,7 @@
 		"romanian": "Cât de bine vor funcționa drumurile tale după o furtună de nisip? Ai fi pregătit?",
 		"danish": "Hvor godt vil dine veje fungere efter en sandstorm? Ville du være forberedt?",
 		"greek": "Πόσο καλά θα δουλέψουν οι δρόμοι σου μετά από μία αμμοθύελλα; Θα ήσουν προετοιμασμένος;",
+		"swiss german": "Wie guet würded dini Strasse nachemene Sandsturm funktionierä? Wärsch du parat?",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -3390,6 +3419,7 @@
 		"romanian": "Dificultatea jocului",
 		"danish": "Sværhedsgrad",
 		"greek": "Δυσκολία Παχνιδιού",
+		"swiss german": "Schwirigkeit vom Spiel",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -3413,6 +3443,7 @@
 		"romanian": "Controlează cât de multe produse au nevoie cetățenii.\nCu cât dificultatea este mai mare, cu atât mai bine trebuie de gestionat economia.",
 		"danish": "Styrer, hvor mange produkter borgerne har brug for.\nJo højere sværhedsgrad, jo bedre har du til at styre din økonomi.",
 		"greek": "Ελέγχει πόσα προϊόντα χρειάζονται οι κάτικοι.\nΜΕ μεγαλύτερη δυσκολία, πρέπει να διαχειριστέις καλύτερα την οικονομία σου.",
+		"swiss german": "Beiflusst we vil Produkt d Bewohner bruched. \nJe höcher d Schwirigkeit, desto besser muesch du dich um dini Wirtschaft kümmere.",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -3436,6 +3467,7 @@
 		"romanian": "Dificultate de transport",
 		"danish": "Transport Sværhedsgrad",
 		"greek": "Δυσκολία μετακίνησης",
+		"swiss german": "Schwirigkeit vom Transport",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -3459,6 +3491,7 @@
 		"romanian": "Controlează câte articole pot transporta vehiculele.\nCu cât este mai mare dificultatea, cu atât mai puține articole pot fi transportate simultan.",
 		"danish": "Styrer, hvor mange genstande køretøjer kan bære.\nJo højere sværhedsgrad, jo færre genstande kan transporteres på én gang.",
 		"greek": "Ελέγχει πόσα πράγματα μπορούν να μεταφέρουν τα οχήματα.\nΜε μεγαλύτερη δυσκολία, λιγότερα πράγματα μπορούν να μεταφερθούν ταυτόχρονα",
+		"swiss german": "Beiflusst we vil Produkt d Fahrzüg chönd transportierä.\nJe höcher d Schwirigkeit, desto weniger chönds uf eimal transportierä.",
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -3482,6 +3515,7 @@
 		"romanian": "Începe jocul",
 		"danish": "Start Spil",
 		"greek": "Έναρξη Παιχνιδιού",
+		"swiss german": "Spiel startä",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -3505,6 +3539,7 @@
 		"romanian": "Ușor",
 		"danish": "Begynder",
 		"greek": "Εύκολη",
+		"swiss german": "Eifach",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -3528,6 +3563,7 @@
 		"romanian": "Mediu",
 		"danish": "Øvet",
 		"greek": "Μέτρια",
+		"swiss german": "Mittäl",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -3551,5 +3587,6 @@
 		"romanian": "Greu",
 		"danish": "Expert",
 		"greek": "Δύσκολη",
+		"swiss german": "Schwär",
 	},
 }
