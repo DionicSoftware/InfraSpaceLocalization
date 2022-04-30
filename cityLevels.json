@@ -21,6 +21,7 @@
 		"romanian": "Avanpost",
 		"danish": "Koloni",
 		"greek": "Εγκατάσταση",
+		"swiss german": "Ussäposchtä",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -44,6 +45,7 @@
 		"romanian": "Așezare",
 		"danish": "Bosættelse",
 		"greek": "Αποικία",
+		"swiss german": "Sidlig",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -67,6 +69,7 @@
 		"romanian": "Oraș mic",
 		"danish": "Landsby",
 		"greek": "Μικρή Κωμόπολη",
+		"swiss german": "Chliistadt",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -90,6 +93,7 @@
 		"romanian": "Oraș mare",
 		"danish": "Forstad",
 		"greek": "Μεγάλη Κωμόπολη",
+		"swiss german": "Mittleri Stadt",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -113,6 +117,7 @@
 		"romanian": "Metropolă",
 		"danish": "Storby",
 		"greek": "Πόλη",
+		"swiss german": "Grossstadt",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -136,5 +141,6 @@
 		"romanian": "Capitală planetară",
 		"danish": "Planetarisk Hovedstad",
 		"greek": "Πλανητική Προτεύουσα",
+		"swiss german": "Planetari Haupstadt",
 	},
 }
