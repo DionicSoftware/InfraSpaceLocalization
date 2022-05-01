@@ -21,6 +21,7 @@
 		"romanian": "Drum de pietriș",
 		"danish": "Grusvej",
 		"greek": "Δρόμος από χαλίκι",
+		"swiss german": "Chiisstrass",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -44,6 +45,7 @@
 		"romanian": "Drum de beton",
 		"danish": "Betonvej",
 		"greek": "Δρόμος από μπετόν",
+		"swiss german": "Betonstrass",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -67,6 +69,7 @@
 		"romanian": "Autostradă",
 		"danish": "Motorvej",
 		"greek": "Αυτοκινητόδρομος",
+		"swiss german": "Autobahn",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -90,6 +93,7 @@
 		"romanian": "Super-autostradă",
 		"danish": "Lyn Motorvej",
 		"greek": "Υπεραυτοκινητόδρομος",
+		"swiss german": "Superautobahn",
 	},
 	"rail_oneWay": {
 		"english": "Rail",
@@ -107,6 +111,7 @@
 		"thai":"รถไฟ",
 		"danish": "Skinne",
 		"greek": "Ράγα",
+		"swiss german": "Schinä",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
@@ -119,6 +124,7 @@
 		"czech": "Vysokorychlostní trať",
 		"danish": "Højhastigheds Skinne",
 		"greek": "Ράγα Υψηλής Ταχύτητας",
+		"swiss german": "Hochgschwindigketsschinä",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -131,5 +137,6 @@
 		"czech": "Ultra-rychlá trať",
 		"danish": "Lynhastigheds Skinne",
 		"greek": "Αστραπιαία Ράγα",
+		"swiss german": "Blitzschnälli Schinä",
 	},
 }
