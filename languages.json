@@ -22,6 +22,7 @@
 		"hungarian": "English",
 		"thai": "English",
 		"danish": "English",
+		"swiss german": "English",
 	},
 	"German": {
 		"english": "Deutsch",
@@ -45,6 +46,7 @@
 		"hungarian": "Deutsch",
 		"thai": "Deutsch",
 		"danish": "Deutsch",
+		"swiss german": "Deutsch",
 	},
 	"French": {
 		"english": "Français",
@@ -68,6 +70,7 @@
 		"hungarian": "Français",
 		"thai": "Français",
 		"danish": "Français",
+		"swiss german": "Français",
 	},
 	"Spanish": {
 		"english": "Español",
@@ -91,6 +94,7 @@
 		"hungarian": "Español",
 		"thai": "Español",
 		"danish": "Español",
+		"swiss german": "Español",
 	},
 	"Portuguese": {
 		"english": "Português",
@@ -114,6 +118,7 @@
 		"hungarian": "Português",
 		"thai": "Português",
 		"danish": "Português",
+		"swiss german": "Português",
 	},
 	"Turkish": {
 		"english": "Türkçe",
@@ -137,6 +142,7 @@
 		"hungarian": "Türkçe",
 		"thai": "Türkçe",
 		"danish": "Türkçe",
+		"swiss german": "Türkçe",
 	},
 	"Dutch": {
 		"english": "Nederlands",
@@ -160,6 +166,7 @@
 		"hungarian": "Nederlands",
 		"thai": "Nederlands",
 		"danish": "Nederlands",
+		"swiss german": "Nederlands",
 	},
 	"Ukrainian": {
 		"english": "Українська",
@@ -183,6 +190,7 @@
 		"hungarian": "Українська",
 		"thai": "Українська",
 		"danish": "Українська",
+		"swiss german": "Українська",
 	},
 	"Russian": {
 		"english": "Русский",
@@ -206,6 +214,7 @@
 		"hungarian": "Русский",
 		"thai": "Русский",
 		"danish": "Русский",
+		"swiss german": "Русский",
 	},
 	"Chinese": {
 		"english": "简体中文",
@@ -229,6 +238,7 @@
 		"hungarian": "简体中文",
 		"thai": "简体中文",
 		"danish": "简体中文",
+		"swiss german": "简体中文",
 	},
 	"Korean": {
 		"english": "한국어",
@@ -252,6 +262,7 @@
 		"hungarian": "한국어",
 		"thai": "한국어",
 		"danish": "한국어",
+		"swiss german": "한국어",
 	},
 	"Arabic": {
 		"english": "الإنجليزية",
@@ -275,6 +286,7 @@
 		"hungarian": "الهنغارية",
 		"thai": "التايلاندية",
 		"danish": "التايلاندية",
+		"swiss german": "التايلاندية",
 	},
 	"Italian": {
 		"english": "Italiano",
@@ -298,6 +310,7 @@
 		"hungarian": "Italiano",
 		"thai": "Italiano",
 		"danish": "Italiano",
+		"swiss german": "Italiano",
 	},
 	"Czech": {
 		"english": "Čeština",
@@ -321,6 +334,7 @@
 		"hungarian": "Čeština",
 		"thai": "Čeština",
 		"danish": "Čeština",
+		"swiss german": "Čeština",
 	},
 	"Romanian": {
 		"english": "Română",
@@ -344,6 +358,7 @@
 		"hungarian": "Română",
 		"thai": "Română",
 		"danish": "Română",
+		"swiss german": "Română",
 	},
 	"Japanese": {
 		"english": "日本語",
@@ -367,6 +382,7 @@
 		"hungarian": "日本語",
 		"thai": "日本語",
 		"danish": "日本語",
+		"swiss german": "日本語",
 	},
 	 "Polish": {
 		"english": "Polski",
@@ -390,6 +406,7 @@
 		"hungarian": "Polski",
 		"thai": "Polski",
 		"danish": "Polski",
+		"swiss german": "Polski",
 	},
 	"Slovak": {
 		"english": "Slovenčina",
@@ -413,6 +430,7 @@
 		"hungarian": "Slovenčina",
 		"thai": "Slovenčina",
 		"danish": "Slovenčina",
+		"swiss german": "Slovenčina",
 	},
 	"Hungarian": {
 		"english": "Magyar",
@@ -436,6 +454,7 @@
 		"hungarian": "Magyar",
 		"thai": "Magyar",
 		"danish": "Magyar",
+		"swiss german": "Magyar",
 	},
 	"Thai": {
 		"english": "ภาษาไทย",
@@ -459,6 +478,7 @@
 		"hungarian": "ภาษาไทย",
 		"thai": "ภาษาไทย",
 		"danish": "ภาษาไทย",
+		"swiss german": "ภาษาไทย",
 	},
 	"Danish": {
 		"english": "Dansk",
@@ -482,6 +502,7 @@
 		"hungarian": "Dansk",
 		"thai": "Dansk",
 		"danish": "Dansk",
+		"swiss german": "Dansk",
 	},
 	"Greek": {
 		"english": "Ελληνικά",
@@ -505,5 +526,31 @@
 		"hungarian": "Ελληνικά",
 		"thai": "Ελληνικά",
 		"danish": "Ελληνικά",
+		"swiss german": "Ελληνικά",
+	},
+	// I hope I´ve done it right...
+	"Swiss german": {
+		"english": "Schwiizerdütsch",
+		"german": "Schwiizerdütsch",
+		"french": "Schwiizerdütsch",
+		"spanish": "Schwiizerdütsch",
+		"turkish": "Schwiizerdütsch",
+		"portuguese": "Schwiizerdütsch",
+		"dutch": "Schwiizerdütsch",
+		"ukrainian": "Schwiizerdütsch",
+		"russian": "Schwiizerdütsch",
+		"chinese": "Schwiizerdütsch",
+		"korean": "Schwiizerdütsch",
+		"arabic": "Schwiizerdütsch",
+		"italian": "Schwiizerdütsch",
+		"polish": "Schwiizerdütsch",
+		"czech": "Schwiizerdütsch",
+		"romanian": "Schwiizerdütsch",
+		"japanese": "Schwiizerdütsch",
+		"slovak": "Schwiizerdütsch",
+		"hungarian": "Schwiizerdütsch",
+		"thai": "Schwiizerdütsch",
+		"danish": "Schwiizerdütsch",
+		"swiss german": "Schwiizerdütsch",
 	},
 }
