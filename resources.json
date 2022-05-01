@@ -21,6 +21,7 @@
 		"romanian": "Nisip",
 		"danish": "Sand",
 		"greek": "Άμμος",
+		"swiss german": "Sand",
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
@@ -44,6 +45,7 @@
 		"romanian": "Sulf",
 		"danish": "Svovl",
 		"greek": "Θείο",
+		"swiss german": "Schwäfäl",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -67,6 +69,7 @@
 		"romanian": "Beton",
 		"danish": "Beton",
 		"greek": "Μπετόν",
+		"swiss german": "Beton",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -90,6 +93,7 @@
 		"romanian": "Minereu de fier",
 		"danish": "Jernmalm",
 		"greek": "Ορυκτό Σίδερου",
+		"swiss german": "Isä",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -113,6 +117,7 @@
 		"romanian": "Minereu de aluminiu",
 		"danish": "Aluminiummalm",
 		"greek": "Ορυκτό Αλουμινίου",
+		"swiss german": "Aluminium",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -136,6 +141,7 @@
 		"romanian": "Minereu de uraniu",
 		"danish": "Uranmalm",
 		"greek": "Ορυκτό Ουρανίου",
+		"swiss german": "Uranium",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -159,6 +165,7 @@
 		"romanian": "Minereu de iridiu",
 		"danish": "Iridiummalm",
 		"greek": "Ορυκτό Ιριδίου",
+		"swiss german": "Iridium",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -182,6 +189,7 @@
 		"romanian": "Adamantin",
 		"danish": "Adamantine",
 		"greek": "Άδαμας",
+		"swiss german": "Adamant",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -205,6 +213,7 @@
 		"romanian": "Carbon",
 		"danish": "Kulstof",
 		"greek": "Άνθρακας",
+		"swiss german": "Cholästoff",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -228,6 +237,7 @@
 		"romanian": "Nanotuburi",
 		"danish": "Nanorør",
 		"greek": "Νανοσωλήνες",
+		"swiss german": "Nanoröhrä",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -251,6 +261,7 @@
 		"romanian": "Oţel",
 		"danish": "Stål",
 		"greek": "Ατσάλι",
+		"swiss german": "Stahl",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -274,6 +285,7 @@
 		"romanian": "Minereu de cupru",
 		"danish": "Kobbermalm",
 		"greek": "Ορυκτό Χαλκού",
+		"swiss german": "Kupfer",
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -297,6 +309,7 @@
 		"romanian": "Motor",
 		"danish": "Motor",
 		"greek": "Κινητήρας",
+		"swiss german": "Motor",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -320,6 +333,7 @@
 		"romanian": "Electronică",
 		"danish": "Elektronikmodul",
 		"greek": "Ηλεκτρονικά",
+		"swiss german": "Elektronikmodul",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -343,6 +357,7 @@
 		"romanian": "Electrocasnice",
 		"danish": "Hvidevarer",
 		"greek": "Οικιακή Συσκευή",
+		"swiss german": "Hushaltsgrät",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -366,6 +381,7 @@
 		"romanian": "Microcip",
 		"danish": "Mikrochip",
 		"greek": "Μικροτσιπ",
+		"swiss german": "Mikrochip",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -389,6 +405,7 @@
 		"romanian": "Procesor neuronal",
 		"danish": "Neural Processor",
 		"greek": "Νευρονικός Επεξεργαστής",
+		"swiss german": "Neuronalprozessor",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -412,6 +429,7 @@
 		"romanian": "Calculator",
 		"danish": "Computer",
 		"greek": "Υπολογιστής",
+		"swiss german": "Computer",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -435,6 +453,7 @@
 		"romanian": "Robot de casă",
 		"danish": "Hjemmerobot",
 		"greek": "Οικιακό Ρομπότ",
+		"swiss german": "Huusroboter",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -458,6 +477,7 @@
 		"romanian": "Robot industrial",
 		"danish": "Industrirobot",
 		"greek": "Βιομηχανικό Ρομπότ",
+		"swiss german": "Industrieroboter",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -481,6 +501,7 @@
 		"romanian": "Instrument de înaltă tehnologie",
 		"danish": "Højteknologisk Værktøj",
 		"greek": "Εργαλείο Υψηλής Τεχνολογίας",
+		"swiss german": "High Tech Wärchzüg",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -504,6 +525,7 @@
 		"romanian": "Afișare Holografică",
 		"danish": "Holo-Skærm",
 		"greek": "Ολογραφική Οθόνη",
+		"swiss german": "Holo-Bildschirm",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -527,6 +549,7 @@
 		"romanian": "Educație în Realitatea-Virtuală",
 		"danish": "VR-Edutainment",
 		"greek": "Εκπαιδευτική Ψυχαγωγία VR",
+		"swiss german": "VR-Edutainment",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -550,6 +573,7 @@
 		"romanian": "Aliaj de iridiu",
 		"danish": "Iridiumlegering",
 		"greek": "Κράμα Ιριδίου",
+		"swiss german": "Iridiumlegierig",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -573,6 +597,7 @@
 		"romanian": "Propulsor de iridiu",
 		"danish": "Iridium Drivmiddel",
 		"greek": "Προωστικό Ιριδίου",
+		"swiss german": "Iridiumtriibstoff",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -596,6 +621,7 @@
 		"romanian": "Unitate de control în inteligență artificială",
 		"danish": "AI Styreendhed",
 		"greek": "Μονάδα Ελέγχου AI",
+		"swiss german": "KI-Stüürmodul",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -619,6 +645,7 @@
 		"romanian": "Miez de radiație",
 		"danish": "Kernekraft",
 		"greek": "Ραδιενεργός Πυρήνας",
+		"swiss german": "Strahligschärn",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -642,6 +669,7 @@
 		"romanian": "Pachet albastru de știină",
 		"danish": "Blå Videnskrystaller",
 		"greek": "Πακέτο Μπλε Επιστήμης",
+		"swiss german": "Blaus Wüsseschaftspäckli",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -665,6 +693,7 @@
 		"romanian": "Pachet verde de știină",
 		"danish": "Grøn Videnskrystaller",
 		"greek": "Πακέτο Πράσινης Επιστήμης",
+		"swiss german": "Grüens Wüsseschaftspäckli",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -688,6 +717,7 @@
 		"romanian": "Pachet galben de știină",
 		"danish": "Gul Videnskrystaller",
 		"greek": "Πακέτο Κίτρινης Επιστήμης",
+		"swiss german": "Gääls Wüsseschaftspäckli",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -711,6 +741,7 @@
 		"romanian": "Pachet roșu de știină",
 		"danish": "Rød Videnskrystaller",
 		"greek": "Πακέτο Κόκκινης Επιστήμης",
+		"swiss german": "Rots Wüsseschaftspäckli",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -734,6 +765,7 @@
 		"romanian": "Oxigen",
 		"danish": "Ilt",
 		"greek": "Οξυγώνο",
+		"swiss german": "Suurstoff",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -757,6 +789,7 @@
 		"romanian": "Îngrăşământ",
 		"danish": "Gødning",
 		"greek": "Λίπασμα",
+		"swiss german": "Dünger",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -780,6 +813,7 @@
 		"romanian": "Legume",
 		"danish": "Grøntsager",
 		"greek": "Λαχανικά",
+		"swiss german": "Gmües",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -803,6 +837,7 @@
 		"romanian": "Carne",
 		"danish": "Kød",
 		"greek": "Κρέας",
+		"swiss german": "Fleisch",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -826,6 +861,7 @@
 		"romanian": "Mâncare decentă",
 		"danish": "Gourmet Mad",
 		"greek": "Καλό Γεύμα",
+		"swiss german": "Guets Ässä",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -849,6 +885,7 @@
 		"romanian": "Mâncare de supraviețuire",
 		"danish": "Hverdags Mad",
 		"greek": "Τροφή Επιβίωσης",
+		"swiss german": "Eifachs Ässä",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -872,6 +909,7 @@
 		"romanian": "Parc",
 		"danish": "Park",
 		"greek": "Πάρκο",
+		"swiss german": "Park",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -895,6 +933,7 @@
 		"romanian": "Cultură",
 		"danish": "Kultur",
 		"greek": "Κουλτούρα",
+		"swiss german": "Kultur",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -918,6 +957,7 @@
 		"romanian": "Școală",
 		"danish": "Skole",
 		"greek": "Σχολείο",
+		"swiss german": "Schuäl",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -941,6 +981,7 @@
 		"romanian": "Mașină",
 		"danish": "Bil",
 		"greek": "Αυτοκίνητο",
+		"swiss german": "Auto",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -964,6 +1005,7 @@
 		"romanian": "Cetăţean",
 		"danish": "Beboer",
 		"greek": "Πολίτης",
+		"swiss german": "Bewohner",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -987,6 +1029,7 @@
 		"romanian": "Cetăţean",
 		"danish": "Beboer",
 		"greek": "Πολίτης",
+		"swiss german": "Bewohner",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -1010,5 +1053,6 @@
 		"romanian": "Energie",
 		"danish": "Elektricitet",
 		"greek": "Ενέργεια",
+		"swiss german": "Strom",
 	},
 }
