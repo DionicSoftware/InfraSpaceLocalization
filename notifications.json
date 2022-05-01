@@ -21,6 +21,7 @@
 		"romanian": "Nu este suficientă energie în rețeaua %networkId%",
 		"danish": "Ikke not elektricitet tilgængeligt i netværk %networkId%",
 		"greek": "Ανεπαρκής ρεύμα στο δίκτυο %networkId%",
+		"swiss german": "Nöd gnueg Strom im Netzwärch %networkId%",
 	},
 	"selectResearch": {
 		"english": "Select Research",
@@ -44,6 +45,7 @@
 		"romanian": "Alege o cercetare",
 		"danish": "Vælg Forskning",
 		"greek": "Επίλεξε έρευνα",
+		"swiss german": "Forschig uuswählä",
 	},
 	"notEnoughWorkers_title": {
 		"english": "Not enough Workers",
@@ -67,6 +69,7 @@
 		"romanian": "Nu sunt destui muncitori",
 		"danish": "Ikke nok arbejdere",
 		"greek": "Ανεπαρκείς εργάτες",
+		"swiss german": "Nöd gnueg Arbeiter",
 	},
 	"notEnoughWorkers_desc": {
 		"english": "If you don't have enough workers, your factories can't run efficiently.\nUse the prioritization tool in the top left to distribute your workforce.",
@@ -90,6 +93,7 @@
 		"romanian": "Dacă nu ai suficienți lucrători, fabricile tale nu pot funcționa eficient.\nUtilizează instrumentul de prioritizare din stânga sus pentru a-ți distribui forța de muncă.",
 		"danish": "Hvis du ikke har nok arbejdere vil dine fabrikker ikke køre effektivt.\nBrug prioriterings værktøjet i øverste venstre hjørne, til at fordele din arbejdsstyrke.",
 		"greek": "Αν δεν έχεις αρκετούς εργάτες, τα εργοστάσιά σου δέν μπορούν να δουλέψουν αποτελεσματικά.\nΧρησιμοποίησε το εργαλέιο προταιρεότητας πάνω αριστερά για να διανείμεις το εργατικό σου δυναμικό.",
+		"swiss german": "Wänn du nöd gnueg Lüüt häsch wo gönd go Schaffe, chönd dini Fabrikä nid Effizient schaffe. \nBruch s`Priorisierigswärchzüg obä links zum dini Lüüt z`verteile.",
 	},
 	"turbulencesAffectWindTurbine_title": {
 		"english": "Turbulences decrease Wind Turbine Efficiency",
@@ -113,6 +117,7 @@
 		"romanian": "Turbulențele scad eficiența turbinei eoliene",
 		"danish": "Turbulenser reducerer vindmøllens effektivitet",
 		"greek": "Οι αναταράξεις μειώνουν την αποτελεσματικότητα των ανεμογεννητριών",
+		"swiss german": "Verwirbligä sänkäd d´Windradeffizienz",
 	},
 	"turbulencesAffectWindTurbine_desc": {
 		"english": "Two wind turbines are too close together. Their efficiency is decreased.",
@@ -136,5 +141,6 @@
 		"romanian": "Două turbine eoliene sunt prea apropiate. Eficiența lor este scăzută.",
 		"danish": "To vindmøller er for tæt på hinanden. Deres effektivitet er faldet.",
 		"greek": "Δύο ανεμογεννήτριες είναι πολύ κοντά μεταξύ τους.Η αποτελεσματικότητά τους είναι μεωμένη.",
+		"swiss german": "Zwei Windredli stönd z`nöch zämä. Ihri Effizienz isch reduziert.",
 	},
 }
