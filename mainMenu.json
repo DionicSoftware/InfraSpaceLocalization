@@ -24,6 +24,7 @@
 		"danish": "Nyt Spil",
 		"greek": "Νέο Παιχνίδι",
 		"swiss german": "Neus Spiel",
+		"farsi":"بازی جدید",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -49,6 +50,7 @@
 		"danish": "Gem Spil",
 		"greek": "Αποθήκευση Παιχνιδιού",
 		"swiss german": "Spiel speicherä",
+		"farsi":"ذخیره بازی",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -74,6 +76,7 @@
 		"danish": "Indlæs Spil",
 		"greek": "Φόρτωση Παιχνιδιού",
 		"swiss german": "Spiel ladä",
+		"farsi":"وارد شدن به بازی",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -99,6 +102,7 @@
 		"danish": "Hovedmenu",
 		"greek": "Κύριο Μενού",
 		"swiss german": "Hauftmenü",
+		"farsi":"صفحه اصلی",
 	},
 	"quit": {
 		"english": "Quit",
@@ -124,6 +128,7 @@
 		"danish": "Afslut",
 		"greek": "Έξοδος",
 		"swiss german": "Beändä",
+		"farsi":"خروج",
 	},
 	"back": {
 		"english": "Back",
@@ -138,6 +143,7 @@
 		"danish": "Tilbage",
 		"greek": "Πίσω",
 		"swiss german": "Zrugg",
+		"farsi":"بازگشت",
 	},
 	"backToGame": {
 		"english": "Back to Game",
@@ -159,6 +165,7 @@
 		"danish": "Tilbage til spillet",
 		"greek": "Πίσω στο Παιχνίδι",
 		"swiss german": "zrugg zum Spiel",
+		"farsi":"ادامه بازی",
 	},
 	"website": {
 		"english": "Website",
@@ -184,6 +191,7 @@
 		"danish": "Hjemmeside",
 		"greek": "Ιστοσελίδα",
 		"swiss german": "Websiitä",
+		"farsi":"وب سایت",
 	},
 	"forum": {
 		"english": "Forum",
@@ -209,6 +217,7 @@
 		"danish": "Forum",
 		"greek": "Φόρουμ",
 		"swiss german": "Forum",
+		"farsi":"فورم",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -234,6 +243,7 @@
 		"danish": "Opdatering Tilgængelig",
 		"greek": "Αμαβάθμιση Διαθέσιμη!",
 		"swiss german": "Update verfüegbar",
+		"farsi":"بروزرسانی در دسترس است",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -259,6 +269,7 @@
 		"danish": "Hent Seneste Version",
 		"greek": "Λάβε την νεότερη έκδοση ",
 		"swiss german": "neuschti Version abelade",
+		"farsi":"گرفتن جدید ترین نسخه",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -284,6 +295,7 @@
 		"danish": "Din Version",
 		"greek": "Η έκδοσή σου",
 		"swiss german": "dini Version",
+		"farsi":"نسخه شما",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -309,6 +321,7 @@
 		"danish": "Nuværende Version",
 		"greek": "Τρέχουσα έκδοση",
 		"swiss german": "Aktuelli Version",
+		"farsi":"نسخه فعلی",
 	},
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
@@ -333,6 +346,7 @@
 		"danish": "Fællesskab",
 		"greek": "Κοινότητα",
 		"swiss german": "Community",
+		"farsi":"انجمن",
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -357,6 +371,7 @@
 		"danish": "Dette er en Alpha Version",
 		"greek": "Αυτή είναι μία 'Αλφα έκδοση",
 		"swiss german": "Das isch ä Alpha-Version",
+		"farsi":"این یک ورژن الفا است",
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -381,6 +396,7 @@
 		"danish": "Dette spil er ikke færdigt endnu. Det kan indeholde fejl.\n\nVi udsender disse tidlige versioner til spillere så vi kan få feedback på spiloplevelsen og finde fejlene lang tid før den endelige release.\n\nFortæl os endelig hvad du synes!",
 		"greek": "Το παιχνίδι δέν είναι έτοιμο ακόμα.Μπορεί να περιέχει προβλήματα.\n\nΚυκλοφορούμε αυτές τις πρώιμες εκδόσεις στους παίκτες ώστε να λάβουμε σχόλια στο παίξιμο του παιχνιδιού και να εντοπίσουμε προβλήματα πολύ πριν την επίσιμη κυκλοφορία.\n\nΠείτε μας πόσο σας αρέσει!",
 		"swiss german": "Das Spiel isch nonig färtig. Es chönt na Bugs drinn ha.\n\nMir veröffendliched die früenere Versione a Spiler dass mir Feedback zum Gameplay erhalted und Bugs findä chönd lang bevor s Spiel offiziell veröffentlicht wird.",
+		"farsi":"  از این بازی خوشتان امد؟ \n\n ما این نسخه های نسختین رو منتشر کردیم تا بتوانیم نظر بازیکنان را بدانیم و مشکلات را حل کنیم\n\n  این بازی هنوز تمام نشده،امکان دارد خرابی هایی داشته باشد"
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -407,6 +423,7 @@
 		"danish": "Indlæs",
 		"greek": "Φόρτωση",
 		"swiss german": "Ladä",
+		"farsi":"بازکردن",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -432,6 +449,7 @@
 		"danish": "Overskriv",
 		"greek": "Εγγραφή",
 		"swiss german": "Überschriibe",
+		"farsi":"رو نویسی؟",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -457,6 +475,7 @@
 		"danish": "Er du sikker på du vil slette spillet  \"%save%\"? Det vil forsvinde for altid!",
 		"greek": "Είσαι σίγουρος ότι θες να διαγράψεις την αποθήκευση \"%save%\"; Θα χαθεί για πάντα",
 		"swiss german": "Bisch du dir sicher dass du de Spielstand \"%save%\" lösche wetsch? Er wird nümme widerherstellbar sii.",
+		"farsi":"ایا واقعا میخواهی  \%save%\ را پاک کنید؟ برای همیشه از دست میرود!", 
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -482,6 +501,7 @@
 		"danish": "Spillet har ikke været gemt i %minutes% minutter. Er du sikker på du vil gå til hovedmenuen uden at gemme?",
 		"greek": "Το παχνίδι δεν έχει αποθηκευτεί για %minutes% λεπτά.Είσαι σίγουρος ότι θες να πας πίσω στο κεντρικό μενού χωρίς αποθήκευση;",
 		"swiss german": "Das Spiel isch sit %minutes% Minutä numme gspeicheret worde. Bisch du sicher, dass du ohni Speichere zum Hauptmenü gah wetsch?",
+		"farsi":"  ذخیره نشده است ایا واقعا میخواهید خارج شوید؟%minutes% این بازی برای ",
 	},
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
@@ -506,6 +526,7 @@
 		"danish":"Koloni Theta-3",
 		"greek": "Εγκατάσταση Θήτα-3",
 		"swiss german": "Ussäposchte Theta-3",
+		"farsi":"پایگاه تتا 3",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -531,6 +552,7 @@
 		"danish": "Ugyldigt teg i fil navnet!",
 		"greek": "Απαγορευμένοι χαρακτήρες στο όνομα αρχείου",
 		"swiss german": "Verboteni Buächstabä im Dateinamä",
+		"farsi":"حروف ممنوعه در اسم فایل",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
