@@ -22,6 +22,7 @@
 		"danish": "Koloni",
 		"greek": "Εγκατάσταση",
 		"swiss german": "Ussäposchtä",
+		"farsi":"پایگاه",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -46,6 +47,7 @@
 		"danish": "Bosættelse",
 		"greek": "Αποικία",
 		"swiss german": "Sidlig",
+		"farsi":"روستا",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -70,6 +72,7 @@
 		"danish": "Landsby",
 		"greek": "Μικρή Κωμόπολη",
 		"swiss german": "Chliistadt",
+		"farsi":"شهر کوچک",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -94,6 +97,7 @@
 		"danish": "Forstad",
 		"greek": "Μεγάλη Κωμόπολη",
 		"swiss german": "Mittleri Stadt",
+		"farsi":"شهر بزرگ",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -118,6 +122,7 @@
 		"danish": "Storby",
 		"greek": "Πόλη",
 		"swiss german": "Grossstadt",
+		"شهر درست حسابی",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -142,5 +147,6 @@
 		"danish": "Planetarisk Hovedstad",
 		"greek": "Πλανητική Προτεύουσα",
 		"swiss german": "Planetari Haupstadt",
+		"farsi":"پایتخت سیاره"
 	},
 }
