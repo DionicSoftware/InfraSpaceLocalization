@@ -23,6 +23,7 @@
     "danish": "Sandmine",
     "greek": "Ορυχείο Άμμου",
     "swiss german": "Sandminä",
+    "farsi":"معدن شن",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -48,6 +49,7 @@
     "danish": "Svovlmine",
     "greek": "Ορυχείο Θείου",
     "swiss german": "Schwäfälminä",
+    "farsi":"معدن گوگرد",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -73,6 +75,7 @@
     "danish": "Jernmine",
     "greek": "Ορυχείο Σίδερου",
     "swiss german": "Isäminä",
+    "farsi":"معدن اهن"
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -98,6 +101,7 @@
     "danish": "Kobbermine",
     "greek": "Ορυχείο Χαλκού",
     "swiss german": "Kupferminä",
+    "farsi":"معدن مس",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -123,6 +127,7 @@
     "danish": "Aluminiumsmine",
     "greek": "Ορυχείο Αλουμινίου",
     "swiss german": "Aluminiumminä",
+    "farsi":"معدن الومینیوم",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -148,6 +153,7 @@
     "danish": "Uranmine",
     "greek": "Ορυχείο Ουρανίου",
     "swiss german": "Uraniumminä",
+    "farsi":"معدن اورانیوم",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -173,6 +179,7 @@
     "danish": "Iridiummine",
     "greek": "Ορυχείο Ιριδίου",
     "swiss german": "Iridiumminä",
+    "farsi":"معدن ایریدیوم",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -198,6 +205,7 @@
     "danish": "Stor Sandmine",
     "greek": "Μεγάλο Ορυχείο Άμμου",
     "swiss german": "Grossi Sandminä",
+    "farsi":"معدن شن بزرگ",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -223,6 +231,7 @@
     "danish": "Stor Svovlmine",
     "greek": "Μεγάλο Ορυχείο Θείου",
     "swiss german": "Grossi Schwäfelminä",
+    "farsi":"معدن گوگرد بزرگ",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -248,6 +257,7 @@
     "danish": "Stor Jernmine",
     "greek": "Μεγάλο Ορυχείο Σίδερου",
     "swiss german": "Grossi Isäminä",
+    "farsi":"معدن اهن بزرگ",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -273,6 +283,7 @@
     "danish": "Stor Kobbermine",
      "greek": "Μεγάλο Ορυχείο Χαλκού",
     "swiss german": "Grossi Kupferminä",
+    "farsi":"معدن مس بزرگ",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -298,6 +309,7 @@
     "danish": "Stor Aluminiumsmine",
      "greek": "Μεγάλο Ορυχείο Αλουμινίου",
     "swiss german": "Grossi Aluminiumminä",
+    "farsi":"معدن الومینیوم بزرگ",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -323,6 +335,7 @@
     "danish": "Stor Uranmine",
      "greek": "Μεγάλο Ορυχείο Ουρανίου",
     "swiss german": "Grossi Uraniumminä",
+    "farsi":"معدن اورانیوم بزرگ",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -348,6 +361,7 @@
     "danish": "Stor Iridiummine",
      "greek": "Μεγάλο Ορυχείο Ιριδίου",
     "swiss german": "Grossi Iridiumminä",
+    "farsi":"معدن ایریدیوم بزرگ",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -373,6 +387,7 @@
     "danish": "Elektronikmodul Fabrik",
      "greek": "Εργοστάσιο Ηλεκτρονικών",
     "swiss german": "Elektronikfabrik",
+    "farsi":"کارخانه لوازم برقی",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -398,6 +413,7 @@
     "danish": "Mikrochip Fabrik",
     "greek": "Εργοστάσιο Μικροτσιπ",
     "swiss german": "Mikrochipfabrik",
+    "farsi":"کارخانه تراشه ",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -423,6 +439,7 @@
     "danish": "Neural Processor Fabrik",
      "greek": "Εργοστάσιο Νευρονικών Επεξεργαστών",
     "swiss german": "Fabrik für Neuronalprozessorä",
+    "farsi":"کارخانه تراشه هوشمند",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -448,6 +465,7 @@
     "danish": "Motor Fabrik",
      "greek": "Εργοστάσιο Κινητήρων",
     "swiss german": "Motorfabrik",
+    "farsi":"کارخانه موتورسازی",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -473,6 +491,7 @@
     "danish": "Nanorør Fabrik",
     "greek": "Εργοστάσιο Νανοσωλήνων",
     "swiss german": "Fabrik für Nanoröhränä",
+    "farsi":"کارخانه لوله های نانو",
   },
   "iridiumAlloyFactory": {
     "english": "Iridium Alloy Factory",
@@ -498,6 +517,7 @@
     "danish": "Iridium Legering Fabrik",
      "greek": "Εργοστάσιο Κράματος Ιριδίου",
     "swiss german": "Fabrik für Iridiumlegiärigänä",
+    "farsi":"کارخانه الیاژ ایریدیوم",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -523,6 +543,7 @@
     "danish": "Holo-Skærms Fabrik",
      "greek": "Εργοστάσιο Ολογραφικών Οθονών",
     "swiss german": "Fabrik für Holo-Bildschirm",
+    "farsi":"کارخانه نمایشگر سه بعدی",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -548,6 +569,7 @@
     "danish": "Kernekraft Fabrik",
      "greek": "Εργοστάσιο Ραδιενεργού Πυρήνα",
     "swiss german": "Fabrik für Strahligs-Chärn",
+    "farsi":"کار خانه سوخت هسته ای",
   },
   "concreteFactory": {
     "english": "Concrete Factory",
@@ -573,6 +595,7 @@
     "danish": "Beton Fabrik",
      "greek": "Εργοστάσιο Μπετού",
     "swiss german": "Betongfabrik",
+    "farsi":"کار خانه بتن سازی",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -598,6 +621,7 @@
     "danish": "Stålværk",
      "greek": "Χαλυβουργείο",
     "swiss german": "Stahlwärch",
+    "farsi":"کار خانه فولاد",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -623,6 +647,7 @@
     "danish": "Hvidevare Fabrik",
     "greek": "Εργοστάσιο Οικιακών Συσκευών",
     "swiss german": "Fabrik für Huusgrät",
+    "farsi":"کارخانه لوازم خانگی",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -648,6 +673,7 @@
     "danish": "Computer Fabrik",
      "greek": "Εργοστάσιο Υπολογιστών",
     "swiss german": "Computerfabrik",
+    "farsi":"کار خانه رایانه سازی",
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -673,6 +699,7 @@
     "danish": "Hjemmerobot Fabrik",
      "greek": "Εργοστάσιο Οικιακών Ρομπότ",
     "swiss german": "Fabrik für Huusroboter",
+    "farsi":"کارخانه ربات خانگی",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -698,6 +725,7 @@
     "danish": "Industrirobot Fabrik",
      "greek": "Εργοστάσιο Βιομηχανικών Ρομπότ",
     "swiss german": "Fabrik für industrielli Roboter",
+    "farsi":"کارخانه ربات صنعتی",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -723,6 +751,7 @@
     "danish": "Højteknologisk Værksted",
      "greek": "Εργαστήριο Υψηλής Τεχνολογίας",
     "swiss german": "High Tech Wärchstatt",
+    "farsi":"کار خانه ابزار پیشرفته",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -748,6 +777,7 @@
     "danish": "VR Endutainment Fabrik",
      "greek": "Εργοστάσιο Εκπαιδευτικής Ψυχαγωγίας VR",
     "swiss german": "Fabrik für VR-Brüllene",
+    "farsi":"کار خانه واقعیت مجازی",
   },
   "iridiumPropellantFactory": {
     "english": "Iridium Propellant Factory",
@@ -773,6 +803,7 @@
     "danish": "Iridium Drivmiddel Fabrik",
      "greek": "Εργοστάσιο Προωστικού Ιριδίου",
     "swiss german": "Fabrik für Iridium-Triibstoff",
+    "farsi":"کار خانه سوخت ایریدیومی",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -798,6 +829,7 @@
     "danish": "AI Kontrolenheds Fabrik",
      "greek": "Εργοστάσιο Μονάδων Ελέγχου AI",
     "swiss german": "Fabrik für KI-Stüürmodul",
+    "farsi":"کار خانه بخش کنترل هوش مصنوعی سازی",
   },
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
@@ -823,6 +855,7 @@
     "danish": "Blå Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Μπλε Επιστήμης",
     "swiss german": "Fabrik für blaui Wüsseschaftspünkt",
+    "farsi":"کار خانه دانش ابی",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -848,7 +881,7 @@
     "danish": "Grøn Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Πράσινης Επιστήμης",
     "swiss german": "Fabrik für grüeni Wüsseschaftspünkt",
-    
+    "farsi":"کار خانه دانش سبز",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -874,6 +907,7 @@
     "danish": "Gul Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Κίτρινης Επιστήμης",
     "swiss german": "Fabrik für gääli Wüsseschaftspünkt",
+    "farsi":"کارخانه دانش زرد",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -899,6 +933,7 @@
     "danish": "Rød Videnskrystal Fabrik",
      "greek": "Εργοστάσιο Πακέτων Κόκκινης Επιστήμης",
     "swiss german": "Fabrik für rooti Wüsseschaftspünkt",
+    "farsi":"کارخانه دانش قرمز",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -924,6 +959,7 @@
     "danish": "Forskningscenter",
      "greek": "Εργαστήριο Έρευνας",
     "swiss german": "Forschigslabor",
+    "farsi":"بخش تحقیقات",
   },
   "storehouse": {
     // TODO-chinese
@@ -951,6 +987,7 @@
     "danish": "Byggemateriale Lager",
      "greek": "Αποθήκη Οικοδομικών Υλικών",
     "swiss german": "Baumatriallager",
+    "farsi":"انبار مواد ساختمانی",
   },
   "spacePort": {
     "english": "Space Port",
@@ -976,6 +1013,7 @@
     "danish": "Rumhavn",
      "greek": "Διαστημικό λιμάνι",
     "swiss german": "Wältallhafe",
+    "farsi":"فرودگاه فضا پیما",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -1001,6 +1039,7 @@
     "danish": "Genbrugsstation",
      "greek": "Κέντρο Ανακύκλωσης",
     "swiss german": "Recyclingzentrum",
+    "farsi":"مرکز بازیافت",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -1026,6 +1065,7 @@
     "danish": "Jordberigelses Anlæg",
      "greek": "Εγκατάσταση εμπλουτισμού εδάφους",
     "swiss german": "Erd-Düngerigs-Ahlag",
+    "farsi":"ساختمان غنی سازی خاک",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -1051,6 +1091,7 @@
     "danish": "Atmosfære Processor",
      "greek": "Παραγωγός Ατμόσφαιρας",
     "swiss german": "Luftfilterahlag",
+    "farsi":"پردازشگر هوا",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -1076,6 +1117,7 @@
     "danish": "Ilt Processor",
      "greek": "Παραγωγός Οξυγώνου",
     "swiss german": "Suurstofffilterahlag",
+    "farsi":"جدا کننده اکسیژن",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -1101,6 +1143,7 @@
     "danish": "Kulstof Processor",
      "greek": "Παραγωγός Άνθρακα",
     "swiss german": "Cholestofffilterahlag",
+    "farsi":"جدا کننده کربن",
   },
   "basicFarm": {
     "english": "Simple Farm",
@@ -1126,6 +1169,7 @@
     "danish": "Simpel Gård",
     "greek": "Απλή Φάρμα",
     "swiss german": "Eifachi Farm",
+    "farsi":"مزرعه ساده",
   },
   "fertilizerFactory": {
     "english": "Fertilizer Factory",
@@ -1151,6 +1195,7 @@
     "danish": "Gødningsanlæg",
      "greek": "Εργοστάσιο Λιπάσματος",
     "swiss german": "Düngerfabrik",
+    "farsi":"کارخانه کود",
   },
   "vegetableFarm": {
     "english": "Vegetable Farm",
@@ -1176,6 +1221,7 @@
     "danish": "Grøntsags Gård",
      "greek": "Φάρμα Λαχανικών",
     "swiss german": "Gmüäsfarm",
+    "farsi":"مزرعه سبزیجات",
   },
   "meatLab": {
     "english": "Meat Lab",
@@ -1201,6 +1247,7 @@
     "danish": "Kød Laboratorium",
      "greek": "Εργαστήριο Κρέατος",
     "swiss german": "Fleischlabor",
+    "farsi":"ازمایشگاه گوشت",
   },
   "foodFactory": {
     "english": "Meal Factory",
@@ -1226,6 +1273,7 @@
     "danish": "Fødevare Fabrik",
      "greek": "Εργοστάσιο Φαγητού",
     "swiss german": "Ässänsfabrik",
+    "farsi":"کارخانه غذا",
   },
   "habitatLevel1": {
     "english": "Basic Habitat",
@@ -1251,6 +1299,7 @@
     "danish": "Simpelt Habitat",
      "greek": "Απλός οικισμός",
     "swiss german": "Eifachs Zimmer",
+    "farsi":"خانه ساده",
   },
   "habitatLevel2": {
     "english": "Decent Habitat",
@@ -1276,6 +1325,7 @@
     "danish": "Anstændigt Habitat",
      "greek": "Καλός Οικισμός",
     "swiss german": "Solids Zimmer",
+    "farsi":"خانه خوب",
   },
   "habitatLevel3": { // "nice" or "comfortable"
     "english": "Nice Habitat",
@@ -1301,6 +1351,7 @@
     "danish": "Komfortabelt Habitat",
      "greek": "Άνετος Οικισμός",//TODO:Needs better translation
     "swiss german": "Komfortabls Zimmer",
+    "farsi":"خانه عالی",
   },
   "habitatLevel4": {
     "english": "Residential building",
@@ -1326,6 +1377,7 @@
     "danish": "Beboelses Bygning",
      "greek": "Κατοικία",
     "swiss german": "Wohnhuus",
+    "farsi":"ساختمان مسکونی",
   },
   "habitatLevel5": {
     "english": "Residential Highrise",
@@ -1351,6 +1403,7 @@
     "danish": "Beboelses Højhus",
      "greek": "Πολυκατοικία",
     "swiss german": "Wohnhochhuus",
+    "farsi":"برج مسکونی",
   },
   "habitatLevel6": {
     "english": "Luxury Residential Highrise",
@@ -1376,6 +1429,7 @@
     "danish": "Luksus Beboelses Højhus",
      "greek": "Πολυτελής Πολυκατοικία",
     "swiss german": "Luxeriöses Wohnhochhuus",
+    "farsi":"اسمان خراش مسکونی",
   },
   "park": {
     "english": "Park",
@@ -1401,6 +1455,7 @@
     "danish": "Park",
      "greek": "Πάρκο",
     "swiss german": "Park",
+    "farsi":"پارک",
   },
   "arena": {
     "english": "Stadium",
@@ -1426,6 +1481,7 @@
     "danish": "Stadion",
      "greek": "Στάδιο",
     "swiss german": "Stadion",
+    "farsi":"استادیوم",
   },
   "school": {
     "english": "School",
@@ -1451,6 +1507,7 @@
     "danish": "Skole",
      "greek": "Σχολείο",
     "swiss german": "Schuäl",
+    "farsi":"مدرسه",
   },
   "powerPole": {
     "english": "Power Pole",
@@ -1476,6 +1533,7 @@
     "danish": "Elmast",
      "greek": "Πυλώνας Ρεύματος",
     "swiss german": "Strommaschtä",
+    "farsi":"تیر برق",
   },
   "powerSubstation": {
     "english": "Power Substation",
@@ -1501,6 +1559,7 @@
     "danish": "Transformerstation",
      "greek": "Υποσταθμός Ρεύματος",
     "swiss german": "Umspannwärch",
+    "farsi":"پست برق",
   },
   "windTurbine": {
     "english": "Wind Turbine",
@@ -1526,6 +1585,7 @@
     "danish": "Vindmølle",
      "greek": "Ανεμογεννήτρια",
     "swiss german": "Windrad",
+    "farsi":"توربین بادی"
   },
   "solarPowerPlant": {
     "english": "Solar Power Plant",
@@ -1551,6 +1611,7 @@
     "danish": "Solcelleanlæg",
      "greek": "Φωτοβολταϊκό",
     "swiss german": "Solarchraftwärch",
+    "farsi":"پنل خورشیدی"
   },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
@@ -1576,6 +1637,7 @@
     "danish": "Atomkraftværk",
      "greek": "Πυρινικό Εργοστάσιο Ενέργειας",
     "swiss german": "Atomchraftwärch",
+    "farsi":"نیروگاه هسته ای",
   },
   "fastNeutronReactor": {
     "english": "Fast Neutron Reactor",
@@ -1601,6 +1663,7 @@
     "danish": "Hurtig Neutronreaktor",
      "greek": "Γρήγορος Αντιδραστήρας Νετρονίων",
     "swiss german": "Schnälls Neuronächraftwärch",
+    "farsi":"نیروگاه نوترونی",
   },
   "signStanding": {
     "english": "Great Standing Sign",
@@ -1626,6 +1689,7 @@
     "danish": "Stort Stående Skilt",
      "greek": "Μεγάλη Στεκόμενη Πινακίδα",
     "swiss german": "Grossi stehändi Schrift",
+    "farsi":"تابلو ایستاده",
   },
   "signLaying": {
     "english": "Great Laying Sign",
@@ -1651,6 +1715,7 @@
     "danish": "Stort Liggende Skilt",
      "greek": "Μεγάλη Ξαπλωμένη Πινακίδα",
     "swiss german": "Grossi ligändi Schrift",
+    "farsi":"تابلو خوابیده",
   },
   "monumentDrill": {
     "english": "Colossal Adamantine Drill",
@@ -1676,6 +1741,7 @@
     "danish": "Kæmpe Adamantine Bor",
      "greek": "Κολοσσαίο Τρυπάνι Αδαμαντίνης",
     "swiss german": "Riesigä Adamant-Bohrer",
+    "farsi":"معدن ادامانتیت",
   },
   "trainStationWithName": { // like "Train Station Alpha"
     "english": "Train Station %name%",
@@ -1694,6 +1760,7 @@
     "danish": "Togstation %name%",
     "greek": "Σταθμός Τρένου %name%",
     "swiss german": "Bahnhof %name%",
+    "farsi":" %name$ ایستگاه قطار",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1712,6 +1779,7 @@
     "danish": "Lille Togstation",
     "greek": "Μικρός Σταθμός Τρένου",
     "swiss german": "Chlinä Bahnhof",
+    "farsi":"ایستگاه قطار کوچک",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1730,6 +1798,7 @@
     "danish": "Mellem Togstation",
     "greek": "Μεσαίος Σταθμός Τρένου",
     "swiss german": "Mittlerä Bahnhof",
+    "farsi":"ایستگاه قطار متوسط",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -1748,6 +1817,7 @@
     "danish": "Stor Togstation",
      "greek": "Μεγάλος Σταθμός Τρένου",
     "swiss german": "Grossä Bahnhof",
+    "farsi":"ایستگاه قطار بزرگ",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -1766,5 +1836,6 @@
     "danish": "Hovedbanegård",
      "greek": "Κεντρικός Σταθμός Τρένου",
     "swiss german": "Hauptbahnhof",
+    "farsi":"ایستگاه قطار مرکزی",
   },
 }
