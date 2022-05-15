@@ -22,6 +22,7 @@
 		"danish": "By Opgraderet!",
 		"greek": "Η πόλη ανέβηκε επίπεδο!",
 		"swiss german": "Stadt ufgstigä",
+		"farsi":"َشهر بالا تر رفت!",
 	},
 	"message_cityLevelUpText": {
 		"english": "Congrats, your city just reached level %cityLevel%.",
@@ -46,6 +47,7 @@
 		"danish": "Tillykke, din by har lige nået niveau %cityLevel%.",
 		"greek": "Συγχαρητήρια, η πόλη σου μόλις έφτασε το επίπεδο %cityLevel%",
 		"swiss german": "Gratuliere! Dini Stadt hät grad Level %cityLevel1% erreicht",
+		"farsi":" رسید!%cityLevel% مبارک باشه ،شهرتون به درجه ",
 
 		//old text with: "You unlocked new technologies to research."
 		//"english": "Congrats, your city just reached level %cityLevel%. You unlocked new technologies to research.",
@@ -92,6 +94,7 @@
 		"danish": "Din By er nedgraderet!",
 		"greek": "Η πόλη υποβαθμίστηκε!",
 		"swiss german": "Stadt abegstuft!",
+		"farsi":"درجه شهر شما پایین رفت! :(",
 	},
 	"message_cityLevelDownText": {
 		"english": "You failed to provide for your citizens. Your city has been demoted until you can turn the situation around.",
@@ -116,6 +119,7 @@
 		"danish": "Du mislykkes med at sørge for din beboere. Din by er blevet nedgraderet, indtil du har vendt situationen.",
 		"greek": "Απέτυχες να νοιαστείς για τους πολίτες σου. Η πόλη σου έχει υποβαθμιστεί μέχρι να αλλάξεις την κατάσταση.",
 		"swiss german": "Du heschs nid gschafft, dich um dini Bürger z`kümmere. Dini Stadt isch abgstuft wordä bis du ihri Bedürfniss wider erfüllä chasch.",
+		"farsi":"شما نتوانستید مواد لازم را به مردم خود برسانید،درجه شهر شما تا وقتی که اوعضا عادی شود پایین خواهد بود",
 	},
 	"attention": {
 		"english": "Attention!",
@@ -140,6 +144,7 @@
 		"danish": "Påmindelse!",
 		"greek": "Προσοχή!",
 		"swiss german": "Achtung!",
+		"farsi":"توجه!",
 	},
 	"message_debugModeText": {
 		"english": "Debug mode is meant to be used in development. If you enable debug mode, you might get bugs.",
@@ -164,5 +169,6 @@
 		"danish": "Debug-tilstand er beregnet til udviklings brug. Hvis du aktivere debug-tilstand, kan du opleve fejl.",
 		"greek": "Η λειτουργία αποσφαλμάτωσης είναι προορισμένη χρήση στην ανάπτυξη. Εαν ενεργοποιήσεις την λειτουργία αποσφαλμάτωσης, μπορεί να έχεις προβλήματα",
 		"swiss german": "Dä Debugmodus isch für Entwickler dänkt. Wänn du dä Debugmodus verwendisch, chönted Bugs uftauchä.",
+		"farsi":"حالت دیباگ برای توسعه بازی است،اگر روشنش کنید،امکان دارد که خرابی هایی را بگیرید",
 	},
 }
