@@ -22,6 +22,7 @@
 		"danish": "Grusvej",
 		"greek": "Δρόμος από χαλίκι",
 		"swiss german": "Chiisstrass",
+		"farsi":"جاده خاکی",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -46,6 +47,7 @@
 		"danish": "Betonvej",
 		"greek": "Δρόμος από μπετόν",
 		"swiss german": "Betonstrass",
+		"farsi":"جاده بتنی",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -70,6 +72,7 @@
 		"danish": "Motorvej",
 		"greek": "Αυτοκινητόδρομος",
 		"swiss german": "Autobahn",
+		"farsi":"بزرگراه",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -94,6 +97,7 @@
 		"danish": "Lyn Motorvej",
 		"greek": "Υπεραυτοκινητόδρομος",
 		"swiss german": "Superautobahn",
+		"farsi":"ابر بزرگراه",
 	},
 	"rail_oneWay": {
 		"english": "Rail",
@@ -112,6 +116,7 @@
 		"danish": "Skinne",
 		"greek": "Ράγα",
 		"swiss german": "Schinä",
+		"farsi":"ریل قطار",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
@@ -125,6 +130,7 @@
 		"danish": "Højhastigheds Skinne",
 		"greek": "Ράγα Υψηλής Ταχύτητας",
 		"swiss german": "Hochgschwindigketsschinä",
+		"farsi":"ریل پرسرعت",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -138,5 +144,6 @@
 		"danish": "Lynhastigheds Skinne",
 		"greek": "Αστραπιαία Ράγα",
 		"swiss german": "Blitzschnälli Schinä",
+		"farsi":"ریل سرعت نور",
 	},
 }
