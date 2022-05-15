@@ -22,6 +22,7 @@
 		"danish": "Sand",
 		"greek": "Άμμος",
 		"swiss german": "Sand",
+		"farsi":"شن",
 	},
 	"resource_sulfur": {
 		"english": "Sulfur",
@@ -46,6 +47,7 @@
 		"danish": "Svovl",
 		"greek": "Θείο",
 		"swiss german": "Schwäfäl",
+		"farsi":"گوگرد",
 	},
 	"resource_concrete": {
 		"english": "Concrete",
@@ -70,6 +72,7 @@
 		"danish": "Beton",
 		"greek": "Μπετόν",
 		"swiss german": "Beton",
+		"farsi":"بتن",
 	},
 	"resource_ironOre": {
 		"english": "Iron Ore",
@@ -94,6 +97,7 @@
 		"danish": "Jernmalm",
 		"greek": "Ορυκτό Σίδερου",
 		"swiss german": "Isä",
+		"farsi":"اهن",
 	},
 	"resource_aluminium": {
 		"english": "Aluminum Ore",
@@ -118,6 +122,7 @@
 		"danish": "Aluminiummalm",
 		"greek": "Ορυκτό Αλουμινίου",
 		"swiss german": "Aluminium",
+		"farsi":"الومینیوم",
 	},
 	"resource_uranium": {
 		"english": "Uranium Ore",
@@ -142,6 +147,7 @@
 		"danish": "Uranmalm",
 		"greek": "Ορυκτό Ουρανίου",
 		"swiss german": "Uranium",
+		"farsi":"اورانیوم",
 	},
 	"resource_iridium": {
 		"english": "Iridium Ore",
@@ -166,6 +172,7 @@
 		"danish": "Iridiummalm",
 		"greek": "Ορυκτό Ιριδίου",
 		"swiss german": "Iridium",
+		"farsi":"ایریدیوم",
 	},
 	"resource_adamantine": {
 		"english": "Adamantine",
@@ -190,6 +197,7 @@
 		"danish": "Adamantine",
 		"greek": "Άδαμας",
 		"swiss german": "Adamant",
+		"farsi":"ادمانتیت",
 	},
 	"resource_carbon": {
 		"english": "Carbon",
@@ -214,6 +222,7 @@
 		"danish": "Kulstof",
 		"greek": "Άνθρακας",
 		"swiss german": "Cholästoff",
+		"farsi":"کربن",
 	},
 	"resource_nanotubes": {
 		"english": "Nanotubes",
@@ -238,6 +247,7 @@
 		"danish": "Nanorør",
 		"greek": "Νανοσωλήνες",
 		"swiss german": "Nanoröhrä",
+		"farsi":"لوله نانو",
 	},
 	"resource_steel": {
 		"english": "Steel",
@@ -262,6 +272,7 @@
 		"danish": "Stål",
 		"greek": "Ατσάλι",
 		"swiss german": "Stahl",
+		"farsi":"فولاد",
 	},
 	"resource_copperOre": {
 		"english": "Copper Ore",
@@ -286,6 +297,7 @@
 		"danish": "Kobbermalm",
 		"greek": "Ορυκτό Χαλκού",
 		"swiss german": "Kupfer",
+		"farsi":"مس',
 	},
 	"resource_motor": {
 		"english": "Motor",
@@ -310,6 +322,7 @@
 		"danish": "Motor",
 		"greek": "Κινητήρας",
 		"swiss german": "Motor",
+		"farsi":"موتور",
 	},
 	"resource_electronics": { // you can slo call them "electronics modules" or something like that
 		"english": "Electronics",
@@ -334,6 +347,7 @@
 		"danish": "Elektronikmodul",
 		"greek": "Ηλεκτρονικά",
 		"swiss german": "Elektronikmodul",
+		"farsi":"لوازم برقی",
 	},
 	"resource_homeAppliance": {
 		"english": "Home Appliance",
@@ -358,6 +372,7 @@
 		"danish": "Hvidevarer",
 		"greek": "Οικιακή Συσκευή",
 		"swiss german": "Hushaltsgrät",
+		"farsi":"لوازم خانگی",
 	},
 	"resource_microchip": {
 		"english": "Microchip",
@@ -382,6 +397,7 @@
 		"danish": "Mikrochip",
 		"greek": "Μικροτσιπ",
 		"swiss german": "Mikrochip",
+		"farsi":"تراشه",
 	},
 	"resource_neuralProcessor": {
 		"english": "Neural Processor",
@@ -406,6 +422,7 @@
 		"danish": "Neural Processor",
 		"greek": "Νευρονικός Επεξεργαστής",
 		"swiss german": "Neuronalprozessor",
+		"farsi":"تراشه هوشمند",
 	},
 	"resource_computer": {
 		"english": "Computer",
@@ -430,6 +447,7 @@
 		"danish": "Computer",
 		"greek": "Υπολογιστής",
 		"swiss german": "Computer",
+		"farsi":"رایانه",
 	},
 	"resource_homeRobot": {
 		"english": "Home Robot",
@@ -454,6 +472,7 @@
 		"danish": "Hjemmerobot",
 		"greek": "Οικιακό Ρομπότ",
 		"swiss german": "Huusroboter",
+		"farsi":"ربات خانگی",
 	},
 	"resource_industrialRobot": {
 		"english": "Industrial Robot",
@@ -478,6 +497,7 @@
 		"danish": "Industrirobot",
 		"greek": "Βιομηχανικό Ρομπότ",
 		"swiss german": "Industrieroboter",
+		"farsi":"ربات صنعتی",
 	},
 	"resource_highTechTool": {
 		"english": "High Tech Tool",
@@ -502,6 +522,7 @@
 		"danish": "Højteknologisk Værktøj",
 		"greek": "Εργαλείο Υψηλής Τεχνολογίας",
 		"swiss german": "High Tech Wärchzüg",
+		"farsi":"ابزار پیشرفته",
 	},
 	"resource_holoDisplay": {
 		"english": "Holo-Display",
@@ -526,6 +547,7 @@
 		"danish": "Holo-Skærm",
 		"greek": "Ολογραφική Οθόνη",
 		"swiss german": "Holo-Bildschirm",
+		"farsi":"نمایشگر سه بعدی",
 	},
 	"resource_vrEdutainment": {
 		"english": "VR-Edutainment",
@@ -550,6 +572,7 @@
 		"danish": "VR-Edutainment",
 		"greek": "Εκπαιδευτική Ψυχαγωγία VR",
 		"swiss german": "VR-Edutainment",
+		"farsi":"واقعیت مجازی",
 	},
 	"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
@@ -574,6 +597,7 @@
 		"danish": "Iridiumlegering",
 		"greek": "Κράμα Ιριδίου",
 		"swiss german": "Iridiumlegierig",
+		"farsi":"الیاژ ایریدیوم",
 	},
 	"resource_iridiumPropellant": {
 		"english": "Iridium Propellant",
@@ -598,6 +622,7 @@
 		"danish": "Iridium Drivmiddel",
 		"greek": "Προωστικό Ιριδίου",
 		"swiss german": "Iridiumtriibstoff",
+		"farsi":"سوخت ایریدیومی",
 	},
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
@@ -622,6 +647,7 @@
 		"danish": "AI Styreendhed",
 		"greek": "Μονάδα Ελέγχου AI",
 		"swiss german": "KI-Stüürmodul",
+		"farsi":"تراشه هوش مصنوعی",
 	},
 	"resource_radiationCore": {
 		"english": "Radiation Core",
@@ -646,6 +672,7 @@
 		"danish": "Kernekraft",
 		"greek": "Ραδιενεργός Πυρήνας",
 		"swiss german": "Strahligschärn",
+		"farsi":"سوخت هسته ای",
 	},
 	"resource_sciencePack1": {
 		"english": "Blue Science Pack",
@@ -670,6 +697,7 @@
 		"danish": "Blå Videnskrystaller",
 		"greek": "Πακέτο Μπλε Επιστήμης",
 		"swiss german": "Blaus Wüsseschaftspäckli",
+		"farsi":"علم ابی",
 	},
 	"resource_sciencePack2": {
 		"english": "Green Science Pack",
@@ -694,6 +722,7 @@
 		"danish": "Grøn Videnskrystaller",
 		"greek": "Πακέτο Πράσινης Επιστήμης",
 		"swiss german": "Grüens Wüsseschaftspäckli",
+		"farsi":"علم سبز",
 	},
 	"resource_sciencePack3": {
 		"english": "Yellow Science Pack",
@@ -718,6 +747,7 @@
 		"danish": "Gul Videnskrystaller",
 		"greek": "Πακέτο Κίτρινης Επιστήμης",
 		"swiss german": "Gääls Wüsseschaftspäckli",
+		"farsi":"علم زرد",
 	},
 	"resource_sciencePack4": {
 		"english": "Red Science Pack",
@@ -742,6 +772,7 @@
 		"danish": "Rød Videnskrystaller",
 		"greek": "Πακέτο Κόκκινης Επιστήμης",
 		"swiss german": "Rots Wüsseschaftspäckli",
+		"farsi":"علم قرمز",
 	},
 	"resource_oxygen": {
 		"english": "Oxygen",
@@ -766,6 +797,7 @@
 		"danish": "Ilt",
 		"greek": "Οξυγώνο",
 		"swiss german": "Suurstoff",
+		"farsi":"اکسیژن",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -790,6 +822,7 @@
 		"danish": "Gødning",
 		"greek": "Λίπασμα",
 		"swiss german": "Dünger",
+		"farsi":"کود",
 	},
 	"resource_vegetables": {
 		"english": "Vegetables",
@@ -814,6 +847,7 @@
 		"danish": "Grøntsager",
 		"greek": "Λαχανικά",
 		"swiss german": "Gmües",
+		"farsi":"سبزیجات",
 	},
 	"resource_meat": {
 		"english": "Meat",
@@ -838,6 +872,7 @@
 		"danish": "Kød",
 		"greek": "Κρέας",
 		"swiss german": "Fleisch",
+		"farsi":"گوشت",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
@@ -862,6 +897,7 @@
 		"danish": "Gourmet Mad",
 		"greek": "Καλό Γεύμα",
 		"swiss german": "Guets Ässä",
+		"farsi":"غذای خوب",
 	},
 	"resource_survivalFood": {
 		"english": "Survival Food",
@@ -886,6 +922,7 @@
 		"danish": "Hverdags Mad",
 		"greek": "Τροφή Επιβίωσης",
 		"swiss german": "Eifachs Ässä",
+		"farsi":"غذا",
 	},
 	"resource_parkPoints": {
 		"english": "Park",
@@ -910,6 +947,7 @@
 		"danish": "Park",
 		"greek": "Πάρκο",
 		"swiss german": "Park",
+		"farsi":"پارک",
 	},
 	"resource_culturePoints": {
 		"english": "Culture",
@@ -934,6 +972,7 @@
 		"danish": "Kultur",
 		"greek": "Κουλτούρα",
 		"swiss german": "Kultur",
+		"farsi":"هیجان",
 	},
 	"resource_schoolPoints": {
 		"english": "School",
@@ -958,6 +997,7 @@
 		"danish": "Skole",
 		"greek": "Σχολείο",
 		"swiss german": "Schuäl",
+		"farsi":"مدرسه",
 	},
 	"resource_car": {
 		"english": "Car",
@@ -982,6 +1022,7 @@
 		"danish": "Bil",
 		"greek": "Αυτοκίνητο",
 		"swiss german": "Auto",
+		"farsi":"ماشین",
 	},
 	"resource_citizenMovingIn": {
 		"english": "Citizen",
@@ -1006,6 +1047,7 @@
 		"danish": "Beboer",
 		"greek": "Πολίτης",
 		"swiss german": "Bewohner",
+		"farsi":"شهروند",
 	},
 	"resource_citizenMovingOut": {
 		"english": "Citizen",
@@ -1030,6 +1072,7 @@
 		"danish": "Beboer",
 		"greek": "Πολίτης",
 		"swiss german": "Bewohner",
+		"farsi":"شهروند",
 	},
 	"resource_power": {
 		"english": "Power",
@@ -1054,5 +1097,6 @@
 		"danish": "Elektricitet",
 		"greek": "Ενέργεια",
 		"swiss german": "Strom",
+		"farsi":"برق",
 	},
 }
