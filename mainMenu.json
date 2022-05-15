@@ -2651,6 +2651,7 @@
 		"danish": "Udviklingsplan",
 		"greek": "Οδικός χάρτης",
 		"swiss german": "Roadmap",
+		"farsi":"نقشه پیشروی",
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -2699,6 +2700,7 @@
 		"danish": "Garanteret funktioner for Early Access",
 		"greek": "Επιβεβαιωμένες δυνατότητες για πρώιμη πρόσβαση",
 		"swiss german": "Garantirti Features für dä Early Access",
+		"farsi":"چیز هایی که حتما اضافه میشوند",
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -2723,6 +2725,7 @@
 		"danish": "Stem på Ekstra Funktioner",
 		"greek": "Ψήφισε για έξτρα δυαντότητες",
 		"swiss german": "Stimm ab für Extrafeatures",
+		"farsi":"به چیز های جدید نظر دهید",
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -2771,6 +2774,7 @@
 		"danish": "Stem",
 		"greek": "Ψήφισε",
 		"swiss german": "Abstimmä",
+		"farsi":"رای",
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -2795,6 +2799,7 @@
 		"danish": "Diskuter",
 		"greek": "Συζήτηση",
 		"swiss german": "Diskutiärä",
+		"farsi":"بحث ها",
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -2819,6 +2824,7 @@
 		"danish": "Rapporter en fejl",
 		"greek": "Ανάφερε ένα πρόβλημα",
 		"swiss german": "Bug mäldä",
+		"farsi":"یک خرابی را گزارش دهید",
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -2842,6 +2848,7 @@
 		"romanian": "Traducere InfraSpace",
 		"danish": "Oversæt InfraSpace",
 		"swiss german": "InfraSpace übersetzä",
+		"farsi":"بازی را ترجمه کنید!",
 	},
 	"roadmap_trafficTools_title": {
 		"english": "Traffic Signs and Traffic Lights",
@@ -3394,6 +3401,7 @@
 		"danish": "Naturkatastrofer",
 		"greek": "Φυσικές Καταστροφές",
 		"swiss german": "Naturkatastrofä",
+		"farsi":"وقایع طبیعی",
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -3418,6 +3426,7 @@
 		"danish": "Hvor godt vil dine veje fungere efter en sandstorm? Ville du være forberedt?",
 		"greek": "Πόσο καλά θα δουλέψουν οι δρόμοι σου μετά από μία αμμοθύελλα; Θα ήσουν προετοιμασμένος;",
 		"swiss german": "Wie guet würded dini Strasse nachemene Sandsturm funktionierä? Wärsch du parat?",
+		"farsi":"ایا خیابان هایتان بعد از طوفان شن چجوری هستن",
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -3442,6 +3451,7 @@
 		"danish": "Sværhedsgrad",
 		"greek": "Δυσκολία Παχνιδιού",
 		"swiss german": "Schwirigkeit vom Spiel",
+		"farsi":"سختی بازی",
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -3466,6 +3476,7 @@
 		"danish": "Styrer, hvor mange produkter borgerne har brug for.\nJo højere sværhedsgrad, jo bedre har du til at styre din økonomi.",
 		"greek": "Ελέγχει πόσα προϊόντα χρειάζονται οι κάτικοι.\nΜΕ μεγαλύτερη δυσκολία, πρέπει να διαχειριστέις καλύτερα την οικονομία σου.",
 		"swiss german": "Beiflusst we vil Produkt d Bewohner bruched. \nJe höcher d Schwirigkeit, desto besser muesch du dich um dini Wirtschaft kümmere.",
+		"farsi":"مقدار نیاز مردم را مشخص میکند./nهرچه سختی کمتر باشد مقدار نیاز بیشتر است",
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -3490,6 +3501,7 @@
 		"danish": "Transport Sværhedsgrad",
 		"greek": "Δυσκολία μετακίνησης",
 		"swiss german": "Schwirigkeit vom Transport",
+		"farsi":"سختی حمل و نقل",
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -3514,6 +3526,7 @@
 		"danish": "Styrer, hvor mange genstande køretøjer kan bære.\nJo højere sværhedsgrad, jo færre genstande kan transporteres på én gang.",
 		"greek": "Ελέγχει πόσα πράγματα μπορούν να μεταφέρουν τα οχήματα.\nΜε μεγαλύτερη δυσκολία, λιγότερα πράγματα μπορούν να μεταφερθούν ταυτόχρονα",
 		"swiss german": "Beiflusst we vil Produkt d Fahrzüg chönd transportierä.\nJe höcher d Schwirigkeit, desto weniger chönds uf eimal transportierä.",
+		"farsi":"/nتعدادی که ماشین ها میتوانند حمل بکنند را مشخص میکند. هر چقدر سختی بیشتر باشد تعداد کمتر است',
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -3538,6 +3551,7 @@
 		"danish": "Start Spil",
 		"greek": "Έναρξη Παιχνιδιού",
 		"swiss german": "Spiel startä",
+		"farsi":"شروع بازی",
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -3562,6 +3576,7 @@
 		"danish": "Begynder",
 		"greek": "Εύκολη",
 		"swiss german": "Eifach",
+		"farsi":"اسان",
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -3586,6 +3601,7 @@
 		"danish": "Øvet",
 		"greek": "Μέτρια",
 		"swiss german": "Mittäl",
+		"farsi":"متوسط",
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -3610,5 +3626,7 @@
 		"danish": "Expert",
 		"greek": "Δύσκολη",
 		"swiss german": "Schwär",
+		"farsi":"سخت",
+		
 	},
 }
