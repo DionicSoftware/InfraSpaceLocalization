@@ -475,7 +475,7 @@
 		"danish": "Er du sikker på du vil slette spillet  \"%save%\"? Det vil forsvinde for altid!",
 		"greek": "Είσαι σίγουρος ότι θες να διαγράψεις την αποθήκευση \"%save%\"; Θα χαθεί για πάντα",
 		"swiss german": "Bisch du dir sicher dass du de Spielstand \"%save%\" lösche wetsch? Er wird nümme widerherstellbar sii.",
-		"farsi":"ایا واقعا میخواهی  \%save%\ را پاک کنید؟ برای همیشه از دست میرود!", 
+		"farsi": "ایا واقعا میخواهی  \"%save%\" را پاک کنید؟ برای همیشه از دست میرود!", 
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -501,7 +501,7 @@
 		"danish": "Spillet har ikke været gemt i %minutes% minutter. Er du sikker på du vil gå til hovedmenuen uden at gemme?",
 		"greek": "Το παχνίδι δεν έχει αποθηκευτεί για %minutes% λεπτά.Είσαι σίγουρος ότι θες να πας πίσω στο κεντρικό μενού χωρίς αποθήκευση;",
 		"swiss german": "Das Spiel isch sit %minutes% Minutä numme gspeicheret worde. Bisch du sicher, dass du ohni Speichere zum Hauptmenü gah wetsch?",
-		"farsi":"  ذخیره نشده است ایا واقعا میخواهید خارج شوید؟%minutes% این بازی برای ",
+		"farsi": "  ذخیره نشده است ایا واقعا میخواهید خارج شوید؟%minutes% این بازی برای ",
 	},
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
@@ -3526,7 +3526,7 @@
 		"danish": "Styrer, hvor mange genstande køretøjer kan bære.\nJo højere sværhedsgrad, jo færre genstande kan transporteres på én gang.",
 		"greek": "Ελέγχει πόσα πράγματα μπορούν να μεταφέρουν τα οχήματα.\nΜε μεγαλύτερη δυσκολία, λιγότερα πράγματα μπορούν να μεταφερθούν ταυτόχρονα",
 		"swiss german": "Beiflusst we vil Produkt d Fahrzüg chönd transportierä.\nJe höcher d Schwirigkeit, desto weniger chönds uf eimal transportierä.",
-		"farsi":"/nتعدادی که ماشین ها میتوانند حمل بکنند را مشخص میکند. هر چقدر سختی بیشتر باشد تعداد کمتر است',
+		"farsi":"/nتعدادی که ماشین ها میتوانند حمل بکنند را مشخص میکند. هر چقدر سختی بیشتر باشد تعداد کمتر است'",
 	},
 	"startGame": {
 		"english": "Start Game",
