@@ -578,6 +578,7 @@
 		"danish": "Filnavnet er for langt!",
 		"greek": "Όνομα αρχείου πολύ μεγάλο",
 		"swiss german": "zu langä Dateinamä",
+		"farsi":"اسم فایل بیش از حد طولانی است",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -603,6 +604,7 @@
 		"danish": "Filnavnet er for kort!",
 		"greek": "Όνομα αρχείου πολύ μικρό",
 		"swiss german": "zu churzä Dateinamä",
+		"farsi":"اسم فایل بیش از حد کوتاه است",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -628,6 +630,7 @@
 		"danish": "Filnavnet er allerede i brug!",
 		"greek": "Το όνομα αρχείου ήδη χρησιμοποιείται",
 		"swiss german": "Dateinamä scho bruucht",
+		"farsi":"اسم قبلا استفاده شده",
 	},
 	// SETTINGS
 	"settings": {
@@ -654,6 +657,7 @@
 		"danish": "Indstillinger",
 		"greek": "Ρυθμίσεις",
 		"swiss german": "Iistelligä",
+		"farsi":"تنظیمات",
 	},
 	"graphics": {
 		"english": "Video",
@@ -679,6 +683,7 @@
 		"danish": "Video",
 		"greek": "Γραφικά",
 		"swiss german": "Grafik",
+		"farsi":"تنظیمات ویدیو",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -704,6 +709,7 @@
 		"danish": "Grafik Kvalitet",
 		"greek": "Ποιότητα Γραφικών",
 		"swiss german": "Grafikqualität",
+		"farsi":"کیفیت ویدیو",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -729,6 +735,7 @@
 		"danish": "Lav",
 		"greek": "Χαμηλή",
 		"swiss german": "Tüüf",
+		"farsi":"ضعیف",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -754,6 +761,7 @@
 		"danish": "Middel",
 		"greek": "Μεσαία",
 		"swiss german": "Mittäl",
+		"farsi":"متوسط",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -779,6 +787,7 @@
 		"danish": "Høj",
 		"greek": "Υψηλή",
 		"swiss german": "Hoch",
+		"farsi":"بالا",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -804,6 +813,7 @@
 		"danish": "Opløsning",
 		"greek": "Ανάλυση",
 		"swiss german": "Uflösig",
+		"farsi":"کیفیت",
 		
 	},
 	"displayMode": {
@@ -830,6 +840,7 @@
 		"danish": "Visningstilstand",
 		"greek": "Λειτουργία εμφάνισης",
 		"swiss german": "Ahzeigemodus",
+		"farsi":"حالت نمایش",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -855,6 +866,7 @@
 		"danish": "Vindue",
 		"greek": "Σε παράθυρο",
 		"swiss german": "Fenschter",
+		"farsi":"صفحه ای",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -880,6 +892,7 @@
 		"danish": "Fuldskærm",
 		"greek": "Πλήρης Οθόνη",
 		"swiss german": "Vollbild",
+		"farsi":"تمام صفحه",
 	},
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
@@ -904,6 +917,7 @@
 		"danish": "Eksklusiv fuldskærm",
 		"greek": "Αποκλειστικά Πλήρης Οθόνη",
 		"swiss german": "Exklusivs Vollbild",
+		"farsi":"تمام صفحه خاص",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -929,6 +943,7 @@
 		"danish": "Vsync",
 		"greek": "Vsync",
 		"swiss german": "Vsync",
+		"farsi":"Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -954,6 +969,7 @@
 		"danish": "Langsom",
 		"greek": "Αργό",
 		"swiss german": "Langsam",
+		"farsi":"ارام",
 	},
 	"on": {
 		"english": "On",
@@ -979,6 +995,7 @@
 		"danish": "Tændt",
 		"greek": "Ενεργοποιημένο",
 		"swiss german": "Ahgstellt",
+		"farsi":"روشن",
 	},
 	"off": {
 		"english": "Off",
@@ -1004,6 +1021,7 @@
 		"danish": "Slukket",
 		"greek": "Απενεργοποιημένο",
 		"swiss german": "Abgstellt",
+		"farsi":"خاموش",
 	},
 	"uiScale": {
 		"english": "UI Scale",
@@ -1018,6 +1036,7 @@
 		"danish": "UI Skala",
 		"greek": "Κλίμακα UI",
 		"swiss german": "UI Grössi",
+		"farsi":"اندازه صفحه",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1043,6 +1062,7 @@
 		"danish": "Lysstyrke",
 		"greek": "Φωτεινότητα",
 		"swiss german": "Helligkeit",
+		"farsi":"روشنایی",
 	},
 	"audio": {
 		"english": "Audio",
@@ -1068,6 +1088,7 @@
 		"danish": "Lyd",
 		"greek": "Ήχος",
 		"swiss german": "Audio",
+		"farsi":"صدا",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -1093,6 +1114,7 @@
 		"danish": "Total Lydstyrke",
 		"greek": "Συνολική Ένταση",
 		"swiss german": "Gsamtluutstärchi",
+		"farsi":"تمام صدا",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -1118,6 +1140,7 @@
 		"danish": "Lydeffekter",
 		"greek": "Ηχιτικά εφέ",
 		"swiss german": "Soundeffekt",
+		"farsi":"افکت های صوتی",
 	},
 	"music": {
 		"english": "Music",
@@ -1143,6 +1166,7 @@
 		"danish": "Musik",
 		"greek": "Μουσική",
 		"swiss german": "Musig",
+		"farsi":"اهنگ",
 	},
 	"other": {
 		"english": "Other",
@@ -1168,6 +1192,7 @@
 		"danish": "Andet",
 		"greek": "Άλλα",
 		"swiss german": "Anders",
+		"farsi":"بقیه",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1193,6 +1218,7 @@
 		"danish": "Kamera Hastighed",
 		"greek": "Ταχύτητα κάμερας",
 		"swiss german": "Kameragschwindigkeit",
+		"farsi":"سرعت دوربین",
 	},
 	"language": {
 		"english": "Language",
@@ -1218,6 +1244,7 @@
 		"danish": "Sprog",
 		"greek": "Γλώσσα",
 		"swiss german": "Sprach",
+		"farsi":"زبان",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1243,6 +1270,8 @@
 		"danish": "musekantsrulning",
 		"greek": "Κύλιση στην άκρη ποντικιού",
 		"swiss german": "Kamerastüürig mit Muus",
+		"farsi":"اسکرول کردن موس",
+		
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1268,6 +1297,7 @@
 		"danish": "Udviklertilstand",
 		"greek": "Λειτουργία προγραμματιστπή",
 		"swiss german": "Entwicklermodus",
+		"farsi":"حالت توسعه دهنده",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1293,6 +1323,7 @@
 		"danish": "Spil aktivt i baggrunden",
 		"greek": "Παιχνίδι ενεργό στο υπόβαθρο",
 		"swiss german": "Spiel lauft im Hindergrund",
+		"farsi":"بازی در پیش زمینه روشن است",
 	},
 	"showTutorials": {
 		"english": "Show Tutorials",
@@ -1317,6 +1348,7 @@
 		"danish": "Vis tutorial",
 		"greek": "Εμφάνισε Οδηγίες",
 		"swiss german": "Tutorials ahzeigä",
+		"farsi":"اموزش ها را نشان بده",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -1341,6 +1373,7 @@
 		"danish": "Nulstil Tutorial",
 		"greek": "Επαναφορά γνωστών οδηγιών",
 		"swiss german": "Tutorials zruggsetzä",
+		"farsi":"ریست کردن اموزش ها",
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1367,6 +1400,7 @@
 		"danish": "Indlæser Verden...",
 		"greek": "Φόρτωση Κόσμου...",
 		"swiss german": "Wält ladä...",
+		"farsi":"باز کردن دنیا...",
 		
 	},
 	"reset": {
@@ -1393,6 +1427,7 @@
 		"danish": "Nulstil",
 		"greek": "Επαναφορά",
 		"swiss german": "Zruggsetzä",
+		"farsi":"ریست",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1417,6 +1452,7 @@
 		"danish": "Ok",
 		"greek": "ΟΚ",
 		"swiss german": "Ok",
+		"farsi":"باشه",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1442,6 +1478,7 @@
 		"danish": "Bekræft",
 		"greek": "Επιβεβαίωση",
 		"swiss german": "Beschtätigä",
+		"farsi":"تایید",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1467,6 +1504,7 @@
 		"danish": "Annuller",
 		"greek": "Ακύρωση",
 		"swiss german": "Abbrächä",
+		"farsi":"لغو",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1492,6 +1530,7 @@
 		"danish": "Gem Ændring",
 		"greek": "Εφαρμογή",
 		"swiss german": "Ahwändä",
+		"farsi":"تایید",
 	},
 	"hooray": {
 		"english": "Hooray!",
@@ -1516,6 +1555,7 @@
 		"danish": "Hurra!",
 		"greek": "Γιούπι!",
 		"swiss german": "Juhuu!",
+		"farsi":"هورا!",
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1542,6 +1582,7 @@
 		"danish": "Kamera Kontrol",
 		"greek": "Έλεχγος Κάμερας",
 		"swiss german": "Kamerastüürig",
+		"farsi":"کنترل دوربین",
 	},
 	"keybindings": {
 		"english": "Key Bindings",
@@ -1567,6 +1608,7 @@
 		"danish": "Tastatur",
 		"greek": "Λειτουργίες Κουμπιών",
 		"swiss german": "Taschtäbelegig",
+		"farsi":"تنظیم دکمه ها",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1592,6 +1634,7 @@
 		"danish": "Frem",
 		"greek": "Μπροστά",
 		"swiss german": "Vorwärts",
+		"farsi":"جلو",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1617,6 +1660,7 @@
 		"danish": "Tilbage",
 		"greek": "Πίσω",
 		"swiss german": "Rückwärts",
+		"farsi":"عقب",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1642,6 +1686,7 @@
 		"danish": "Venstre",
 		"greek": "Αριστερά",
 		"swiss german": "Links",
+		"farsi":"چپ",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1667,6 +1712,7 @@
 		"danish": "Højre",
 		"greek": "Δεξιά",
 		"swiss german": "Rächts",
+		"farsi":"راست",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1692,6 +1738,7 @@
 		"danish": "Roter",
 		"greek": "Περιστροφή",
 		"swiss german": "Dräiä",
+		"farsi":"چرخش",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1717,6 +1764,7 @@
 		"danish": "Zoom Ind",
 		"greek": "Μεγένθυση",
 		"swiss german": "Inäzoomä",
+		"farsi":"زوم کردن",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1742,6 +1790,7 @@
 		"danish": "Zoom Ud",
 		"greek": "Σμίκρυνση",
 		"swiss german": "Usäzoomä",
+		"farsi":"زوم کردن به بیرون",
 	},
 	"fastCameraMovement": {
 		"english": "Fast Camera Movement",
@@ -1750,6 +1799,7 @@
 		"thai": "ขยับกล้องอย่างรวดเร็ว",
 		"hungarian": "Gyors kameramozgatás",
 		"swiss german": "Schnälli Kamerabewegig",
+		"farsi":"حرکت سریع دوربین",
 	},
 
 	"cityShortcuts": {
@@ -1759,6 +1809,7 @@
 		"thai": "ปุ่มลัดเมือง",
 		"hungarian": "Város gyorsgombok",
 		"swiss german": "Stadt-Shortcuts",
+		"farsi":"میانبر های شهر",
 	},
 	"research": {
 		"english": "Research",
@@ -1767,6 +1818,7 @@
 		"thai": "การวิจัย",
 		"hungarian": "Kutatás",
 		"swiss german": "Forschig",
+		"farsi":"تحقیق",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
@@ -1775,9 +1827,8 @@
 		"thai": "เส้นทางคมนาคม",
 		"hungarian": "Szállítási útvonalak",
 		"swiss german": "Transportliniänä",
+		"farsi":"خط های جابجایی",
 	},	
-
-
 	"constructionKeybindings": {
 		"english": "Construction",
 		"german": "Bau",
@@ -1801,6 +1852,7 @@
 		"danish": "Konstruer",
 		"greek": "Κατασκευή",
 		"swiss german": "Bau",
+		"farsi":"ساخت",
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -1825,6 +1877,7 @@
 		"danish": "Løft vej",
 		"greek": "Ανύψωση Δρόμου",
 		"swiss german": "Strass uflupfä",
+		"farsi":"بالا اوردن جاده",
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -1849,6 +1902,7 @@
 		"danish": "Sænk vej",
 		"greek": "Κτέβασμα Δρόμου",
 		"swiss german": "Strass abeleggä",
+		"farsi":"پایین اوردن جاده",
 	},
 	"precisionConstruction": {
 		"english": "Precision Construction",
@@ -1857,6 +1911,7 @@
 		"thai": "การก่อสร้างที่แม่นยำ",
 		"hungarian": "Pontos építkezés",
 		"swiss german": "Präzisäs Bauä",
+		"farsi":"ساخت دقیق",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
@@ -1865,6 +1920,7 @@
 		"thai": "กด Shift (ซ้าย)",
 		"hungarian": "Shift nyomva tartva(bal)",
 		"swiss german": "Shift (links) lang druckä",
+		"farsi":"کلید شیفت را نگه دارید(سمت چپ)",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1878,6 +1934,7 @@
 		"greek": "Εναλλαγή Πλέγματος",
 		"thai": "สลับกรอบตะแกรง",
 		"swiss german": "Gitter umschaltä",
+		"farsi":"روشن کردن شطرنج",
 	},
 	"move": {
 		"english": "Move",
@@ -1886,6 +1943,7 @@
 		"thai": "ย้าย",
 		"hungarian": "Mozgatás",
 		"swiss german": "Verschiäbä",
+		"farsi":"تکان دادن",
 	},
 	"delete": {
 		"english": "Delete",
@@ -1894,6 +1952,7 @@
 		"thai": "ลบ",
 		"hungarian": "Törlés",
 		"swiss german": "Löschä",
+		"farsi":"حذف کردن",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
@@ -1902,6 +1961,7 @@
 		"thai": "เมนูก่อสร้าง",
 		"hungarian": "Építkezési menük",
 		"swiss german": "Baumenüs",
+		"farsi":"منو ساخت",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
@@ -1910,11 +1970,8 @@
 		"thai": "Shift (ซ้าย) + ตัวเลข",
 		"hungarian": "Shift (bal) + szám",
 		"swiss german": "Shift (links) + Zahl",
+		"farsi":"کلید شیفت(سمت چپ) +عدد",
 	},
-
-
-
-
 	"timeControl": {
 		"english": "Time Control",
 		"german": "Zeitkontrolle",
@@ -1939,6 +1996,7 @@
 		"danish": "Tids Control",
 		"greek": "Έλεγχος χρόνου",
 		"swiss german": "Ziitkontrollä",
+		"farsi":"کنترل زمان",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1964,6 +2022,7 @@
 		"danish": "Pause",
 		"greek": "Παύση",
 		"swiss german": "Pausä",
+		"farsi":"توقف",
 	},
 	"normalSimulationSpeed": {
 		"english": "Normal Simulation Speed",
@@ -1972,6 +2031,7 @@
 		"thai": "ความเร็วการจำลองแบบปกติ",
 		"hungarian": "Normális szimulációs sebesség",
 		"swiss german": "Normali Simulations-Gschwindigkeit",
+		"farsi":"سرعت شبیه سازی عادی",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
@@ -1980,6 +2040,7 @@
 		"thai": "ความเร็วการจำลองแบบเร็ว",
 		"hungarian": "Gyors szimulációs sebesség",
 		"swiss german": "Schnälli Simulations-Gschwindigkeit",
+		"farsi":"سرعت شبیه سازی تند",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2005,6 +2066,7 @@
 		"danish": "Roter til Venstre",
 		"greek": "Περιστροφή Αριστερά",
 		"swiss german": "Links dräiä",
+		"farsi":"چرخش به چپ",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -2030,12 +2092,8 @@
 		"danish": "Roter til højre",
 		"greek": "Περιστροφή Δεξιά",
 		"swiss german": "Rächts dräiä",
+		"farsi":"چرخش به راست",
 	},
-
-
-
-
-
 	"miscellaneous": {
 		"english": "Miscellaneous",
 		"german": "Sonstiges",
@@ -2060,6 +2118,7 @@
 		"danish": "Diverse",
 		"greek": "Διάφορα",
 		"swiss german": "Suschtigs",
+		"farsi":"متفرقه",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -2085,6 +2144,7 @@
 		"danish": "Skærmprint",
 		"greek": "Στιγμυότυπο Οθόνης",
 		"swiss german": "Screenshot",
+		"farsi":"عکس صفحه",
 	},
 	"screenshotMode": {
 		"english": "Screenshot Mode",
@@ -2109,6 +2169,7 @@
 		"danish": "Skærmprint Tilstand",
 		"greek": "Λειτουργία Στιγμυότυπου Οθόνης",
 		"swiss german": "Screenschotmodus",
+		"farsi":"حالت عکس صفحه",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -2134,6 +2195,7 @@
 		"danish": "Åben Skærmprints Mappe",
 		"greek": "Άνοιγμα Φακέλων Στιγμυοτύπων Οθόνης",
 		"swiss german": "Screenshotordner",
+		"farsi":"باز کردن پوشه عکس های صفحه",
 	},
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
@@ -2158,6 +2220,7 @@
 		"danish": "Åben Skærmprints / Gemte",
 		"greek": "Άνοιγμα Στιγμυοτύπων/Αποθηκεύσεων",
 		"swiss german": "Screenshots / Spielständ ufmache",
+		"farsi":"باز کردن عکس ها/دنیا ها",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -2183,6 +2246,7 @@
 		"danish": "Vis Frames per Sekund",
 		"greek": "Εμφάνιση καρέ ανά δευτερόλεπτο",
 		"swiss german": "Zeig Bilder pro Sekundä",
+		"farsi":"فریم بر ثانیه را نشان بده",
 	},
 	"quicksave": {
 		"english": "Quick Save",
@@ -2191,6 +2255,7 @@
 		"thai": "บันทึกด่วน",
 		"hungarian": "Gyorsmentés",
 		"swiss german": "Schnällspeichere",
+		"farsi":"ذخیره سریع",
 	},
 	"quickload": {
 		"english": "Quick Load",
@@ -2199,16 +2264,8 @@
 		"thai": "โหลดด่วน",
 		"hungarian": "Gyorstöltés",
 		"swiss german": "Schnällladä",
-	},
-
-
-
-
-
-
-
-
-
+		"farsi":"باز کردن سریع",
+	}
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
 		"german": "Linke Maustaste",
@@ -2233,6 +2290,7 @@
 		"danish": "Venstre Muse Knap",
 		"greek": "Αριστερό κουμπί ποντικιού",
 		"swiss german": "Linggi Muustaschtä",
+	        "farsi":"دکمه سمت چپ موس",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -2258,6 +2316,7 @@
 		"danish": "Højre Muse Knap",
 		"greek": "Δεξί κουμπί ποντικιού",
 		"swiss german": "Rächti Muustaschtä",
+		"farsi":"کلید سمت راست موس",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -2283,6 +2342,7 @@
 		"danish": "Miderste Muse Knap",
 		"greek": "Μεσαίο κουμπί ποντικιού",
 		"swiss german": "Mittleri Muustaschtä",
+		"farsi":"کلید وسط موس",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -2308,6 +2368,7 @@
 		"danish": "Mellemrum",
 		"greek": "Διάστημα",
 		"swiss german": "Läärtschtä",
+		"farsi":"اسپیس",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -2333,6 +2394,7 @@
 		"danish": "Shift (Venstre)",
 		"greek": "Shift (αριστερό)",
 		"swiss german": "Shift (links)",
+		"farsi":"کلید شیفت(سمت چپ)',
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
