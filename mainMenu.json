@@ -2265,7 +2265,7 @@
 		"hungarian": "Gyorstöltés",
 		"swiss german": "Schnällladä",
 		"farsi":"باز کردن سریع",
-	}
+	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
 		"german": "Linke Maustaste",
@@ -2394,7 +2394,7 @@
 		"danish": "Shift (Venstre)",
 		"greek": "Shift (αριστερό)",
 		"swiss german": "Shift (links)",
-		"farsi":"کلید شیفت(سمت چپ)',
+		"farsi":"کلید شیفت(سمت چپ)'",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
