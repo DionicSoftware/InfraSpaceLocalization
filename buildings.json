@@ -1509,6 +1509,45 @@
     "swiss german": "Schuäl",
     "farsi":"مدرسه",
   },
+
+
+  
+  "oxygenTank": {
+      "english": "Oxygen Tank",
+      "german": "Sauerstofftank",
+  },
+  "waterTank": {
+      "english": "Water Tank",
+      "german": "Wassertank",
+  },
+  "methaneTank": {
+      "english": "Methane Tank",
+      "german": "Methantank",
+  },
+  "waterAirFilter": {
+      "english": "Water-Air-Filter",
+      "german": "Wasser-Luft-Filter",
+  },
+  "waterWellHydraulic": { // translation different than key
+      "english": "Ground Water Extractor",
+      "german": "Grundwasser-Extraktor",
+  },
+  "methaneDrill": {
+      "english": "Methane Drill",
+      "german": "Methanbohrer",
+  },
+  "methaneFermentationPlant": {
+      "english": "Methane Fermentation Plant",
+      "german": "Methangäranlage",
+  },
+  "methanePowerPlant": {
+      "english": "Methane Power Plant",
+      "german": "Methankraftwerk",
+  },
+
+
+
+
   "powerPole": {
     "english": "Power Pole",
     "german": "Strommast",

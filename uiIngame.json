@@ -2763,4 +2763,31 @@
 		"danish": "Hastighed",
 		"greek": "Ταχύτητα",
 	},
+
+
+	"pipeNetwork": {
+		"english": "Pipe Network",
+		"german": "Rohrsystem",
+	},
+	"pipeNetworkInputPerSecond": { // can use produced instead of input or inflow
+		"english": "Inflow per second: %amount%",
+		"german": "Produziert pro Sekunde: %amount%",
+	},
+	"pipeNetworkOutputPerSecond": { // can use consumed instead of output or outflow
+		"english": "Outflow per second: %amount%",
+		"german": "Verbraucht pro Sekunde: %amount%",
+	},
+	"totalAmountInPipeNetwork": {
+		"english": "Total resources in pipe network",
+		"german": "Gesamte Ressourcen im Rohrsystem",
+	},
+	"pipes": {
+		"english": "Pipes",
+		"german": "Rohre",
+	},
+	"buildings": {
+		"english": "Buildings",
+		"german": "Gebäude",
+	},
+	
 }

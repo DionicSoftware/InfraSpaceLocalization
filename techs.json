@@ -23,6 +23,9 @@
 	"greek": "Καλλιέργεια",
 	  "farsi":"زراعت",
   },
+
+
+
   "tech_electronics": {
     "english": "Electronics",
     "german": "Elektronik",
@@ -70,7 +73,13 @@
 	"danish": "Stålproduktion",
 	 "greek": "Παραγωγή Ατσαλιού",
 	  "farsi":"ساخت فولاد",
-	  
+  },
+
+
+  
+  "tech_pipes": {
+      "english": "Pipes",
+      "german": "Rohre",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -215,6 +224,17 @@
 	   "danish": "Betonveje",
 	  "greek": "Δρόμοι από μπετό",
 	  "farsi":"خیابان های بتنی",
+  },
+
+
+  
+  "tech_methane": {
+      "english": "Methane",
+      "german": "Methan",
+  },
+  "tech_tanks": {
+      "english": "Tanks",
+      "german": "Tanks",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -361,6 +381,14 @@
 	  "greek": "Μονόδρομοι",
 	  "farsi":"جاده یک طرفه",
   },
+
+
+
+  
+  "tech_methanePowerPlants": {
+      "english": "Methane Power Plants",
+      "german": "Methankraftwerke",
+  },
   "tech_parks": {
     "english": "Large Buildings",
     "german": "Große Gebäude",
@@ -411,6 +439,10 @@
 	  "farsi":"کامپیوتر",
 	  
   },
+  "tech_groundWaterExtraction": {
+      "english": "Ground Water Extraction",
+      "german": "Grundwasser-Extraktion",
+  },
   "tech_largeMines": {
     "english": "Large Mines",
     "german": "Große Bagger",
@@ -460,6 +492,10 @@
 	  "farsi":"سرعت استخراج مواد را بیشتر میکند تا عطش شهر در حال رشد را فرو بنشاند",
 	  
   },
+
+
+
+
   "tech_foodProcessing": {
     "english": "Food Processing",
     "german": "Lebensmittelverarbeitung",
@@ -627,6 +663,13 @@
 	  "danish": "6 sporet vej",
 	  "greek": "Δρόμοι έξι λωρίδων",
 	  "farsi":"جاده شش لاینی",
+  },
+
+
+  
+  "tech_methaneFermentation": {
+      "english": "Methane Fermentation",
+      "german": "Methangärung",
   },
   "tech_stadiums": {
     "english": "Stadiums",

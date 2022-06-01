@@ -874,6 +874,10 @@
 		"swiss german": "Fleisch",
 		"farsi":"گوشت",
 	},
+	"resource_organicWaste": {
+		"english": "Organic Waste",
+		"german": "Organische Abfälle",
+	},
 	"resource_goodFood": {
 		"english": "Good Meal",
 		"german": "Gute Mahlzeit",
