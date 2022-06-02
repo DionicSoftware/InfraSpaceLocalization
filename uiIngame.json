@@ -2790,4 +2790,81 @@
 		"german": "Gebäude",
 	},
 	
+
+
+	"spaceship": {
+		"english": "Spaceship",
+		"german": "Raumschiff",
+	},
+	"spaceship_bridge": {
+		"english": "Bridge",
+		"german": "Brücke",
+	},
+	"spaceship_communicationArray": { // can use "antenna" instead of "array"
+		"english": "Communication Array",
+		"german": "Kommunikationsantennen",
+	},
+	"spaceship_computerDeck": {
+		"english": "Computer Deck",
+		"german": "Computerdeck",
+	},
+	"spaceship_ftlEngine": {
+		"english": "FTL Engine",
+		"german": "FTL-Triebwerk",
+	},
+	"spaceship_ftlFuelCells": {
+		"english": "FTL Fuel Cells",
+		"german": "FTL-Treibstoffzellen",
+	},
+	"spaceship_ftlTurbine": {
+		"english": "FTL Turbine",
+		"german": "FTL-Turbine",
+	},
+	"spaceship_orbitalScanners": {
+		"english": "Orbital Scanners",
+		"german": "Orbitale Scanner",
+	},
+	"spaceship_passengerDeck": {
+		"english": "Passenger Deck",
+		"german": "Passagierdeck",
+	},
+	"spaceship_hull": {
+		"english": "Hull",
+		"german": "Rumpf",
+	},
+	"spaceship_radiationShield": {
+		"english": "Radiation Shield",
+		"german": "Strahlungsschild",
+	},
+	"spaceship_storageDeck": {
+		"english": "Storage Deck",
+		"german": "Lagerdeck",
+	},
+	"spaceship_telescope": {
+		"english": "Telescope",
+		"german": "Teleskop",
+	},
+	"spaceship_thermalSystems": {
+		"english": "Thermal Systems",
+		"german": "Thermalsysteme",
+	},
+
+	
+	"necessaryResources": {
+		"english": "Necessary Resources",
+		"german": "Notwendige Ressourcen",
+	},
+	"progress": {
+		"english": "Progress",
+		"german": "Fortschritt",
+	},
+	"bonusWhenCompleted": {
+		"english": "Bonus when completed",
+		"german": "Bonus wenn abgeschlossen",
+	},
+	"repair": {
+		"english": "Repair",
+		"german": "Reparieren",
+	},
+
 }
