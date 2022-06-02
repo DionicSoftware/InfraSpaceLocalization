@@ -310,7 +310,10 @@
 	  "danish": "Integrer understationer i dit elektricitetnetværk, så du ikke behøver at forsyne enhver bygning med elmaster.",
 	  "greek": "Ενσωμάτωσε υποσταθμούς στο ηλεκτρικό σου δίκτυο ώστε να μή χρειάζεται να παρέχεις πυλώνες ρεύματος σε κάθε κτήριο.",
 	  "farsi":"پست برق را به شبکه برقی وصل کنید تا نیاز نداشته باشید برای هر ساختمان یک تیر برق استفاده کنید",
-	  
+  },
+  "tech_spaceshipConstruction": {
+    "english": "Spaceship Construction",
+    "german": "Raumschiffkonstruktion",
   },
   "tech_motors": {
     "english": "Motors",
