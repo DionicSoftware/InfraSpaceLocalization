@@ -1015,6 +1015,10 @@
     "swiss german": "Wältallhafe",
     "farsi":"فرودگاه فضا پیما",
   },
+  "spaceshipConstructionFacility": {
+    "english": "Spaceship Construction Facility",
+    "german": "Raumschiffswerft",
+  },
   "recyclingCenter": {
     "english": "Recycling Center",
     "german": "Recyclingzentrum",
