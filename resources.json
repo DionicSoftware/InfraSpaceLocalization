@@ -877,6 +877,7 @@
 	"resource_organicWaste": {
 		"english": "Organic Waste",
 		"german": "Organische Abfälle",
+		"french": "Déchets organiques",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",

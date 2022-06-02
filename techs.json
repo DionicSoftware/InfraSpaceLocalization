@@ -80,6 +80,7 @@
   "tech_pipes": {
       "english": "Pipes",
       "german": "Rohre",
+      "french": "Tuyaux",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -231,10 +232,12 @@
   "tech_methane": {
       "english": "Methane",
       "german": "Methan",
+      "french": "Méthane",
   },
   "tech_tanks": {
       "english": "Tanks",
       "german": "Tanks",
+      "french": "Réservoirs",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -388,6 +391,7 @@
   "tech_methanePowerPlants": {
       "english": "Methane Power Plants",
       "german": "Methankraftwerke",
+      "french": "Centrales au méthane",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -442,6 +446,7 @@
   "tech_groundWaterExtraction": {
       "english": "Ground Water Extraction",
       "german": "Grundwasser-Extraktion",
+      "french": "Extraction d'eau souterraine",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -670,6 +675,7 @@
   "tech_methaneFermentation": {
       "english": "Methane Fermentation",
       "german": "Methangärung",
+      "french": "Fermentation du méthane",
   },
   "tech_stadiums": {
     "english": "Stadiums",
