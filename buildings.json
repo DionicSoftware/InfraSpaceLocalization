@@ -1515,34 +1515,42 @@
   "oxygenTank": {
       "english": "Oxygen Tank",
       "german": "Sauerstofftank",
+      "french": "Réservoir d'oxygène",
   },
   "waterTank": {
       "english": "Water Tank",
       "german": "Wassertank",
+      "french": "Réservoir d'eau",
   },
   "methaneTank": {
       "english": "Methane Tank",
       "german": "Methantank",
+      "french": "Réservoir de méthane",
   },
   "waterAirFilter": {
       "english": "Water-Air-Filter",
       "german": "Wasser-Luft-Filter",
+      "french": "Filtre à eau-air",
   },
   "waterWellHydraulic": { // translation different than key
       "english": "Ground Water Extractor",
       "german": "Grundwasser-Extraktor",
+      "french": "Extracteur d'eau souterraine",
   },
   "methaneDrill": {
       "english": "Methane Drill",
       "german": "Methanbohrer",
+      "french": "Foreuse à méthane",
   },
   "methaneFermentationPlant": {
       "english": "Methane Fermentation Plant",
       "german": "Methangäranlage",
+      "french": "Usine de fermentation du méthane",
   },
   "methanePowerPlant": {
       "english": "Methane Power Plant",
       "german": "Methankraftwerk",
+      "french": "Centrale électrique au méthane",
   },
 
 

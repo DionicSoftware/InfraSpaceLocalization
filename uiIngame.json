@@ -2768,26 +2768,32 @@
 	"pipeNetwork": {
 		"english": "Pipe Network",
 		"german": "Rohrsystem",
+		"french": "Réseau de tuyaux",
 	},
 	"pipeNetworkInputPerSecond": { // can use produced instead of input or inflow
 		"english": "Inflow per second: %amount%",
 		"german": "Produziert pro Sekunde: %amount%",
+		"french": "Débit entrant par seconde : %amount%",
 	},
 	"pipeNetworkOutputPerSecond": { // can use consumed instead of output or outflow
 		"english": "Outflow per second: %amount%",
 		"german": "Verbraucht pro Sekunde: %amount%",
+		"french": "Débit sortant par seconde : %amount%",
 	},
 	"totalAmountInPipeNetwork": {
 		"english": "Total resources in pipe network",
 		"german": "Gesamte Ressourcen im Rohrsystem",
+		"french": "Ressources totales dans le réseau de tuyaux",
 	},
 	"pipes": {
 		"english": "Pipes",
 		"german": "Rohre",
+		"french": "Tuyaux",
 	},
 	"buildings": {
 		"english": "Buildings",
 		"german": "Gebäude",
+		"french": "Bâtiments",
 	},
 	
 }
