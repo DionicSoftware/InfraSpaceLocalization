@@ -2872,5 +2872,39 @@
 		"english": "Repair",
 		"german": "Reparieren",
 	},
+	
+	
+	"sandbox": {
+		"english": "Creative Mode",
+		"german": "Kreativer Modus",
+	},
+	"sandbox_researchUnlocked_title": {
+		"english": "All technologies unlocked",
+		"german": "Alle Technologien freigeschalten",
+	},
+	"sandbox_noBuildingCosts_title": {
+		"english": "No construction costs",
+		"german": "Keine Baukosten",
+	},
+	"sandbox_needsFulfilled_title": {
+		"english": "All citizen needs fulfilled",
+		"german": "Alle Bedürfnisse der Einwohner erfüllt",
+	},
+	"trafficVisualsOnly_title": {
+		"english": "Cars ignore traffic",
+		"german": "Autos ignorieren Staus",
+	},
+	"trafficVisualsOnly_desc": {
+		"english": "This setting eliminates traffic difficulty!\nSelect this if you are not interested in InfraSpace's traffic gameplay.",
+		"german": "Diese Einstellung entfernt alle Staus.\nWähle dies aus, wenn dich InfraSpaces Verkehrsmanagement gar nicht interessiert.",
+	},
+	"truckRoundTrip_title": {
+		"english": "Cars make round trips", // or: cars drive back after delivery
+		"german": "Autos fahren nach Lieferung wieder zurück",
+	},
+	"truckRoundTrip_desc": {
+		"english": "This setting makes traffic a lot more difficult.\nSelect this if you are looking for a challenge.",
+		"german": "Diese Einstellung macht Verkehr viel schwierig.\nWähle dies aus, wenn du nach einer Herausforderung suchst.",
+	},
 
 }
