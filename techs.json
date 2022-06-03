@@ -303,7 +303,7 @@
     "portuguese": "Integre subestações em sua rede de energia para que você não precise conectar todos os edifícios com postes de energia.",
     "japanese": "変電所を電力ネットワーク網に統合することで無柱化による電力供給ができます。",
     "hungarian": "Integrálj alállomásokat az elektronikai hálózatodba, így nem kell minden egyes építményhez külön villanypózna.",
-    "thai": "รวมสถานีไฟฟ้าย่อยเข้ากับเครือข่ายไฟฟ้าของคุณ คุณจึงไม่ต้องจัดหาเสาไฟฟ้าให้กับอาคารทุกอาคาร",
+    "thai": "รวมสถานีไฟฟ้าย่อยเข้ากับโครงข่ายไฟฟ้าของคุณ คุณจึงไม่ต้องจัดหาเสาไฟฟ้าให้กับอาคารทุกอาคาร",
     "arabic": "استخدم محطات الطاقة الفرعية في شبكة الطاقة الخاصة بك لكي لا تحتاج إلى تزويد كل مبنى بأعمدة طاقة.",
     "turkish": "Güç ağınıza trafo merkezleri eklemek her binaya elektrik direği ile elektrik sağlama zorunluluğunu kaldırır.",
     "romanian": "Integrează substații în rețeaua ta de energie, astfel încât să nu fie nevoie să alimentezi fiecare clădire cu stâlpi de curent.",
@@ -314,6 +314,7 @@
   "tech_spaceshipConstruction": {
     "english": "Spaceship Construction",
     "german": "Raumschiffkonstruktion",
+    "thai": "การก่อสร้างยานอวกาศ",
   },
   "tech_motors": {
     "english": "Motors",
