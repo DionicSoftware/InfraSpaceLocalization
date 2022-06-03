@@ -807,10 +807,12 @@
 	"resource_methane": {
 		"english": "Methane",
 		"german": "Methan",
+		"thai": "มีเทน",
 	},
 	"resource_spaceshipModule": {
 		"english": "Spaceship Module",
 		"german": "Raumschiffmodul",
+		"thai": "ส่วนเชื่อมต่อยานอวกาศ",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
