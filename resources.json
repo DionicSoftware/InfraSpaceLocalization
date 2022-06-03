@@ -799,6 +799,10 @@
 		"swiss german": "Suurstoff",
 		"farsi":"اکسیژن",
 	},
+	"resource_water": {
+		"english": "Water",
+		"german": "Wasser",
+	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
 		"german": "Dünger",
