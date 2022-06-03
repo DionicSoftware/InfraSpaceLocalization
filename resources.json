@@ -803,6 +803,14 @@
 		"english": "Water",
 		"german": "Wasser",
 	},
+	"resource_methane": {
+		"english": "Methane",
+		"german": "Methan",
+	},
+	"resource_spaceshipModule": {
+		"english": "Spaceship Module",
+		"german": "Raumschiffmodul",
+	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
 		"german": "Dünger",
