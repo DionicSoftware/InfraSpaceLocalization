@@ -1813,6 +1813,10 @@
     "swiss german": "Bahnhof %name%",
     "farsi":" %name$ ایستگاه قطار",
   },
+  "trainstation_1R": {
+    "english": "Mini Train Station",
+    "german": "Minibahnhof",
+  },
   "trainstation_2R": {
     "english": "Small Train Station",
     "german": "Kleiner Bahnhof",

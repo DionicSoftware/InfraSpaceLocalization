@@ -146,4 +146,17 @@
 		"swiss german": "Blitzschnälli Schinä",
 		"farsi":"ریل سرعت نور",
 	},
+
+	"pipe_oxygen": {
+		"english": "Oxygen Pipes",
+		"german": "Sauerstoffrohre",
+	},
+	"pipe_water": {
+		"english": "Water Pipes",
+		"german": "Wasserrohre",
+	},
+	"pipe_methane": {
+		"english": "Methane Pipes",
+		"german": "Methanrohre",
+	},
 }
