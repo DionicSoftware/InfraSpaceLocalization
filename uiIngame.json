@@ -2819,6 +2819,10 @@
 		"german": "Raumschiff",
 		"thai": "ยานอวกาศ",
 	},
+	"planet": {
+		"english": "Planet",
+		"german": "Planet",
+	},
 	"spaceship_bridge": {
 		"english": "Bridge",
 		"german": "Brücke",
@@ -2883,6 +2887,28 @@
 		"english": "Thermal Systems",
 		"german": "Thermalsysteme",
 		"thai": "ระบบระบายความร้อน",
+	},
+
+
+	"spaceshipUpgrade_immigrationRateBoost": {
+		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
+		"german": "Dein Fortschritt überzeugt Crewmitglieder. Immigrationsrate permanent um 5% erhöht.",
+	},
+	"spaceshipUpgrade_instantImmigrationBoost": {
+		"english": "Your progress convinces crew members to trust you. %amount% people immediately come to the planet to help you.",
+		"german": "Dein Fortschritt überzeugt Crewmitglieder. %amount% Leute kommen zu deiner Stadt um zu helfen.",
+	},
+	"spaceshipUpgrade_efficiencyBoost": {
+		"english": "Rerouting spaceship power increases all building efficiency permanently by %percentage%%.",
+		"german": "Das Umleiten der Raumschiffsenergie erhöht die Effizienz von allen Gebäuden permanent um %percentage%%.",
+	},
+	"spaceshipUpgrade_techBoost": {
+		"english": "With this module online, you receive a %percentage%% boost to a random technology.",
+		"german": "Durch die Reparatur dieses Moduls erhältst du einen Fortschrittsboost von %percentage%% zu einer zufälligen Technolgie.",
+	},
+	"spaceshipUpgrade_techBoostFull": {
+		"english": "With this module online, you unlock one random technology.",
+		"german": "Durch die Reparatur dieses Moduls schaltest du eine zufällige Technologie frei.",
 	},
 
 	
