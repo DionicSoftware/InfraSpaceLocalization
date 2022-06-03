@@ -171,4 +171,13 @@
 		"swiss german": "Dä Debugmodus isch für Entwickler dänkt. Wänn du dä Debugmodus verwendisch, chönted Bugs uftauchä.",
 		"farsi":"حالت دیباگ برای توسعه بازی است،اگر روشنش کنید،امکان دارد که خرابی هایی را بگیرید",
 	},
+
+	"message_spaceshipRepairedTitle": {
+		"english": "Spaceship Repaired!",
+		"german": "Raumschiff repariert!",
+	},
+	"message_spaceshipRepairedDesc": {
+		"english": "Congratulations!\n\nYou have repaired your spaceship and have reestablished contact with the human civilization.\n\nWhat comes next will be revealed during InfraSpace's Early Access. For now, you can keep building your city and make it great!",
+		"german": "Glückwunsch!\n\nDu hast euer Raumschiff repariert  und den Kontakt mit der menschlichen Zivilisation wiederhergestellt.\n\nWas als nächstes kommt, wird sich im Verlauf von InfraSpace's Early Access zeigen. Im Moment kannst du weiterhin deine Stadt aufbauen und sie großartig machen!",
+	},
 }
