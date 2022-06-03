@@ -802,6 +802,7 @@
 	"resource_water": {
 		"english": "Water",
 		"german": "Wasser",
+		"thai": "น้ำ",
 	},
 	"resource_methane": {
 		"english": "Methane",

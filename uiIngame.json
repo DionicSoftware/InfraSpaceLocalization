@@ -15,7 +15,7 @@
 		"portuguese": "Rede elétrica %id%",
 		"czech": "Napájecí síť %id%",
 		"hungarian": "%id%. elektromos hálózat",
-		"thai": "เครือข่ายแหล่งพลังงานที่ %id%",
+		"thai": "โครงข่ายแหล่งพลังงานที่ %id%",
 		"turkish": "Güç Ağı %id%",
 		"romanian": "Rețea de alimentare %id%",
 		"danish": "Elektricitet Netværk %id%",
@@ -1435,7 +1435,7 @@
 		"portuguese": "Não conectado à uma rede de energia",
 		"czech": "Nepřipojené ke zdroji energie",
 		"hungarian": "Nincs hálózathoz csatlakoztatva.",
-		"thai": "ไม่ได้เชื่อมต่อกับเครือข่ายไฟฟ้า",
+		"thai": "ไม่ได้เชื่อมต่อกับโครงข่ายไฟฟ้า",
 		"turkish": "Güç ağına bağlı değil",
 		"romanian": "Nu este conectat la rețeaua de alimentare",
 		"danish": "Ikke forbundet til elektricitet netværk",
@@ -2733,7 +2733,7 @@
 		"french": "Fournit",
 		"spanish": "Ofreciendo",
 		"italian": "Fornisce",
-		"thai": "การมอบ",
+		"thai": "มอบ",
 		"polish": "Zapewnia",
 		"czech": "Poskytování",
 		"danish": "Tilbyde",
@@ -2769,31 +2769,37 @@
 		"english": "Pipe Network",
 		"german": "Rohrsystem",
 		"french": "Réseau de tuyaux",
+		"thai": "โครงข่ายท่อ",
 	},
 	"pipeNetworkInputPerMinute": { // can use produced instead of input or inflow
 		"english": "Inflow per minute: %amount%",
 		"german": "Produziert pro Minute: %amount%",
 		//"french": "Débit entrant par seconde : %amount%", //TODO-french: minute
+		"thai": "การไหลเข้าของน้ำต่อนาที: %amount% น.",
 	},
 	"pipeNetworkOutputPerMinute": { // can use consumed instead of output or outflow
 		"english": "Outflow per minute: %amount%",
 		"german": "Verbraucht pro Minute: %amount%",
 		//"french": "Débit sortant par seconde : %amount%", //TODO-french: minute
+		"thai": "การไหลออกของน้ำต่อนาที: %amount% น.",
 	},
 	"totalAmountInPipeNetwork": {
 		"english": "Total resources in pipe network",
 		"german": "Gesamte Ressourcen im Rohrsystem",
 		"french": "Ressources totales dans le réseau de tuyaux",
+		"thai": "ทรัพยากรทั้งหมดในโครงข่ายท่อ",
 	},
 	"pipes": {
 		"english": "Pipes",
 		"german": "Rohre",
 		"french": "Tuyaux",
+		"thai": "ท่อ",
 	},
 	"buildings": {
 		"english": "Buildings",
 		"german": "Gebäude",
 		"french": "Bâtiments",
+		"thai": "สิ่งปลูกสร้าง",
 	},
 	
 
@@ -2801,110 +2807,136 @@
 	"spaceship": {
 		"english": "Spaceship",
 		"german": "Raumschiff",
+		"thai": "ยานอวกาศ",
 	},
 	"spaceship_bridge": {
 		"english": "Bridge",
 		"german": "Brücke",
+		"thai": "สะพาน",
 	},
 	"spaceship_communicationArray": { // can use "antenna" instead of "array"
 		"english": "Communication Array",
 		"german": "Kommunikationsantennen",
+		"thai": "เสาอากาศสื่อสาร",
 	},
 	"spaceship_computerDeck": {
 		"english": "Computer Deck",
 		"german": "Computerdeck",
+		"thai": "ชั้นคอมพิวเตอร์",
 	},
 	"spaceship_ftlEngine": {
 		"english": "FTL Engine",
 		"german": "FTL-Triebwerk",
+		"thai": "เครื่องยนต์เอฟทีเอล",
 	},
 	"spaceship_ftlFuelCells": {
 		"english": "FTL Fuel Cells",
 		"german": "FTL-Treibstoffzellen",
+		"thai": "เซลล์เชื้อเพลิงสำหรับเอฟทีเอล",
 	},
 	"spaceship_ftlTurbine": {
 		"english": "FTL Turbine",
 		"german": "FTL-Turbine",
+		"thai": "กังหันของเอฟทีเอล",
 	},
 	"spaceship_orbitalScanners": {
 		"english": "Orbital Scanners",
 		"german": "Orbitale Scanner",
+		"thai": "เครื่องตรวจค้นหาวงโคจร",
 	},
 	"spaceship_passengerDeck": {
 		"english": "Passenger Deck",
 		"german": "Passagierdeck",
+		"thai": "ชั้นผู้โดยสาร",
 	},
 	"spaceship_hull": {
 		"english": "Hull",
 		"german": "Rumpf",
+		"thai": "ตัวยาน",
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
 		"german": "Strahlungsschild",
+		"thai": "เกราะป้องกันรังสี",
 	},
 	"spaceship_storageDeck": {
 		"english": "Storage Deck",
 		"german": "Lagerdeck",
+		"thai": "ชั้นเก็บของ",
 	},
 	"spaceship_telescope": {
 		"english": "Telescope",
 		"german": "Teleskop",
+		"thai": "กล้องโทรทรรศน์",
 	},
 	"spaceship_thermalSystems": {
 		"english": "Thermal Systems",
 		"german": "Thermalsysteme",
+		"thai": "ระบบระบายความร้อน",
 	},
 
 	
 	"necessaryResources": {
 		"english": "Necessary Resources",
 		"german": "Notwendige Ressourcen",
+		"thai": "ทรัพยากรที่จำเป็น",
 	},
 	"progress": {
 		"english": "Progress",
 		"german": "Fortschritt",
+		"thai": "ความคืบหน้า",
 	},
 	"bonusWhenCompleted": {
 		"english": "Bonus when completed",
 		"german": "Bonus wenn abgeschlossen",
+		"thai": "เมื่อทำสำเร็จจะได้โบนัส",
 	},
 	"repair": {
 		"english": "Repair",
 		"german": "Reparieren",
+		"thai": "ซ่อมแซม",
 	},
 	
 	
 	"sandbox": {
 		"english": "Creative Mode",
 		"german": "Kreativer Modus",
+		"thai": "โหมดสร้างสรรค์",
 	},
 	"sandbox_researchUnlocked_title": {
 		"english": "All technologies unlocked",
 		"german": "Alle Technologien freigeschalten",
+		"thai": "ปลดล็อคเทคโนโลยีทั้งหมด",
 	},
 	"sandbox_noBuildingCosts_title": {
 		"english": "No construction costs",
 		"german": "Keine Baukosten",
+		"thai": "ไม่มีค่าใช้จ่ายสำหรับการก่อสร้าง",
 	},
 	"sandbox_needsFulfilled_title": {
 		"english": "All citizen needs fulfilled",
 		"german": "Alle Bedürfnisse der Einwohner erfüllt",
+		"thai": "ตอบโจทย์ทุกความต้องการของผู้อยู่อาศัย",
 	},
 	"trafficVisualsOnly_title": {
 		"english": "Cars ignore traffic",
 		"german": "Autos ignorieren Staus",
+		"thai": "รถยนต์ละเลยการขับขี่ตามจราจร",
 	},
 	"trafficVisualsOnly_desc": {
 		"english": "This setting eliminates traffic difficulty!\nSelect this if you are not interested in InfraSpace's traffic gameplay.",
 		"german": "Diese Einstellung entfernt alle Staus.\nWähle dies aus, wenn dich InfraSpaces Verkehrsmanagement gar nicht interessiert.",
+		"thai": "การตั้งค่านี้ช่วยจะขจัดปัญหาการจราจร\nเลือกตัวเลือกนี้หากคุณไม่สนใจที่จะการเล่น InfraSpace แบบใช้การจราจร",
 	},
 	"truckRoundTrip_title": {
 		"english": "Cars make round trips", // or: cars drive back after delivery
 		"german": "Autos fahren nach Lieferung wieder zurück",
+		"thai": "รถยนต์ขับไปกลับ",
 	},
 	"truckRoundTrip_desc": {
 		"english": "This setting makes traffic a lot more difficult.\nSelect this if you are looking for a challenge.",
 		"german": "Diese Einstellung macht Verkehr viel schwierig.\nWähle dies aus, wenn du nach einer Herausforderung suchst.",
+		"thai": "การตั้งค่านี้จะทำให้การจราจรยากขึ้นมาก เลือกตัวเลือกนี้หากคุณกำลังมองหาความท้าทายใหม่ๆ",
 	},
 
 }
