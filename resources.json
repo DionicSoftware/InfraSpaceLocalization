@@ -802,16 +802,19 @@
 	"resource_water": {
 		"english": "Water",
 		"german": "Wasser",
+		"french": "Eau",
 		"thai": "น้ำ",
 	},
 	"resource_methane": {
 		"english": "Methane",
 		"german": "Methan",
+		"french": "Méthane",
 		"thai": "มีเทน",
 	},
 	"resource_spaceshipModule": {
 		"english": "Spaceship Module",
 		"german": "Raumschiffmodul",
+		"french": "Module de vaisseau",
 		"thai": "ส่วนเชื่อมต่อยานอวกาศ",
 	},
 	"resource_fertilizer": {

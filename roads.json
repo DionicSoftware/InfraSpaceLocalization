@@ -150,16 +150,19 @@
 	"pipe_oxygen": {
 		"english": "Oxygen Pipes",
 		"german": "Sauerstoffrohre",
+		"french": "Tuyaux d'oxygène",
 		"thai":"ท่อออกซิเจน",
 	},
 	"pipe_water": {
 		"english": "Water Pipes",
 		"german": "Wasserrohre",
+		"french": "Tuyaux d'eau",
 		"thai":"ท่อน้ำ",
 	},
 	"pipe_methane": {
 		"english": "Methane Pipes",
 		"german": "Methanrohre",
+		"french": "Tuyaux de méthane",
 		"thai":"ท่อมีเทน",
 	},
 }
