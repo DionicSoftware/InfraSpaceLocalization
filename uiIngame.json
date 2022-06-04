@@ -1106,7 +1106,7 @@
 	"disturbedAirflow": {
 		"english": "Disturbed airflow:",
 		"german": "Verwirbelter Luftstrom:",
-		"french": "Flux d'air perturbé:",
+		"french": "Flux d'air perturbé :",
 		"dutch": "Verstoorde luchtcirculatie:",
 		"chinese": "扰动气流:",
 		"italian": "Flusso d'aria disturbato:",
@@ -1128,10 +1128,12 @@
 	"pipelineOperation": { // efficiency costs for operating pipeline
 		"english": "Pipeline Operation:",
 		"german": "Pipelinebetrieb:",
+		"french": "Fonctionnement des tuyaux :",
 	},
 	"spaceshipEfficiencyBoost": {
 		"english": "Spaceship Tech:",
 		"german": "Raumschiff-Tech:",
+		"french": "Technologie spatiale :",
 	},
 
 
@@ -2788,13 +2790,13 @@
 	"pipeNetworkInputPerMinute": { // can use produced instead of input or inflow
 		"english": "Inflow per minute: %amount%",
 		"german": "Produziert pro Minute: %amount%",
-		//"french": "Débit entrant par seconde : %amount%", //TODO-french: minute
+		"french": "Débit entrant par minute : %amount%",
 		"thai": "การไหลเข้าของน้ำต่อนาที: %amount% น.",
 	},
 	"pipeNetworkOutputPerMinute": { // can use consumed instead of output or outflow
 		"english": "Outflow per minute: %amount%",
 		"german": "Verbraucht pro Minute: %amount%",
-		//"french": "Débit sortant par seconde : %amount%", //TODO-french: minute
+		"french": "Débit sortant par minute : %amount%",
 		"thai": "การไหลออกของน้ำต่อนาที: %amount% น.",
 	},
 	"totalAmountInPipeNetwork": {
@@ -2821,75 +2823,92 @@
 	"spaceship": {
 		"english": "Spaceship",
 		"german": "Raumschiff",
+		"french": "Vaisseau spatial",
 		"thai": "ยานอวกาศ",
 	},
 	"planet": {
 		"english": "Planet",
 		"german": "Planet",
+
+		"thai": "ดาวเคราะห์",
+		"french": "Planète",
 	},
 	"spaceship_bridge": {
 		"english": "Bridge",
 		"german": "Brücke",
+		"french": "Pont",
 		"thai": "สะพาน",
 	},
 	"spaceship_communicationArray": { // can use "antenna" instead of "array"
 		"english": "Communication Array",
 		"german": "Kommunikationsantennen",
+		"french": "Réseau communication",
 		"thai": "เสาอากาศสื่อสาร",
 	},
 	"spaceship_computerDeck": {
 		"english": "Computer Deck",
 		"german": "Computerdeck",
+		"french": "Espace informatique",
 		"thai": "ชั้นคอมพิวเตอร์",
 	},
 	"spaceship_ftlEngine": {
 		"english": "FTL Engine",
 		"german": "FTL-Triebwerk",
+		"french": "Moteur supraluminique",
 		"thai": "เครื่องยนต์เอฟทีเอล",
 	},
 	"spaceship_ftlFuelCells": {
 		"english": "FTL Fuel Cells",
 		"german": "FTL-Treibstoffzellen",
+		"french": "Piles à combustible",
 		"thai": "เซลล์เชื้อเพลิงสำหรับเอฟทีเอล",
 	},
 	"spaceship_ftlTurbine": {
 		"english": "FTL Turbine",
 		"german": "FTL-Turbine",
+		"french": "Turbine supraluminique",
 		"thai": "กังหันของเอฟทีเอล",
 	},
 	"spaceship_orbitalScanners": {
 		"english": "Orbital Scanners",
 		"german": "Orbitale Scanner",
+		"french": "Scanners orbitaux",
 		"thai": "เครื่องตรวจค้นหาวงโคจร",
 	},
 	"spaceship_passengerDeck": {
 		"english": "Passenger Deck",
 		"german": "Passagierdeck",
+		"french": "Espace passagers",
 		"thai": "ชั้นผู้โดยสาร",
 	},
 	"spaceship_hull": {
 		"english": "Hull",
 		"german": "Rumpf",
+		"french": "Coque",
 		"thai": "ตัวยาน",
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
 		"german": "Strahlungsschild",
+		"french": "Bouclier anti-radiation",
 		"thai": "เกราะป้องกันรังสี",
 	},
 	"spaceship_storageDeck": {
 		"english": "Storage Deck",
 		"german": "Lagerdeck",
+		"french": "Zone de stockage",
 		"thai": "ชั้นเก็บของ",
 	},
 	"spaceship_telescope": {
 		"english": "Telescope",
 		"german": "Teleskop",
+		"french": "Télescope",
 		"thai": "กล้องโทรทรรศน์",
 	},
 	"spaceship_thermalSystems": {
 		"english": "Thermal Systems",
 		"german": "Thermalsysteme",
+		"french": "Systèmes thermiques",
 		"thai": "ระบบระบายความร้อน",
 	},
 
@@ -2897,43 +2916,52 @@
 	"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
 		"german": "Dein Fortschritt überzeugt Crewmitglieder. Immigrationsrate permanent um 5% erhöht.",
+		"french": "Vos progrès convainquent les membres de l'équipage de vous faire confiance. Augmentation permanente de 5% de l'immigration.",
 	},
 	"spaceshipUpgrade_instantImmigrationBoost": {
 		"english": "Your progress convinces crew members to trust you. %amount% people immediately come to the planet to help you.",
 		"german": "Dein Fortschritt überzeugt Crewmitglieder. %amount% Leute kommen zu deiner Stadt um zu helfen.",
+		"french": "Vos progrès convainquent les membres de l'équipage de vous faire confiance. %amount% personnes viennent immédiatement sur la planète pour vous aider.",
 	},
 	"spaceshipUpgrade_efficiencyBoost": {
 		"english": "Rerouting spaceship power increases all building efficiency permanently by %percentage%%.",
 		"german": "Das Umleiten der Raumschiffsenergie erhöht die Effizienz von allen Gebäuden permanent um %percentage%%.",
+		"french": "Le réacheminement de la puissance des vaisseaux spatiaux augmente l'efficacité de tous les bâtiments de façon permanente de %percentage%%.",
 	},
 	"spaceshipUpgrade_techBoost": {
 		"english": "With this module online, you receive a %percentage%% boost to a random technology.",
 		"german": "Durch die Reparatur dieses Moduls erhältst du einen Fortschrittsboost von %percentage%% zu einer zufälligen Technolgie.",
+		"french": "Avec ce module fonctionnel, vous recevez un boost de %percentage%% sur une technologie aléatoire.",
 	},
 	"spaceshipUpgrade_techBoostFull": {
 		"english": "With this module online, you unlock one random technology.",
 		"german": "Durch die Reparatur dieses Moduls schaltest du eine zufällige Technologie frei.",
+		"french": "Avec ce module fonctionnel, vous déverrouillez une technologie aléatoire.",
 	},
 
 	
 	"necessaryResources": {
 		"english": "Necessary Resources",
 		"german": "Notwendige Ressourcen",
+		"french": "Ressources nécessaires",
 		"thai": "ทรัพยากรที่จำเป็น",
 	},
 	"progress": {
 		"english": "Progress",
 		"german": "Fortschritt",
+		"french": "Progrès",
 		"thai": "ความคืบหน้า",
 	},
 	"bonusWhenCompleted": {
 		"english": "Bonus when completed",
 		"german": "Bonus wenn abgeschlossen",
+		"french": "Bonus à l'achèvement",
 		"thai": "เมื่อทำสำเร็จจะได้โบนัส",
 	},
 	"repair": {
 		"english": "Repair",
 		"german": "Reparieren",
+		"french": "Réparer",
 		"thai": "ซ่อมแซม",
 	},
 	
@@ -2945,55 +2973,69 @@
 	"sandbox": {
 		"english": "Creative Mode",
 		"german": "Kreativer Modus",
+		"french": "Mode créatif",
 		"thai": "โหมดสร้างสรรค์",
 	},
 	"sandbox_researchUnlocked_title": {
 		"english": "All technologies unlocked",
 		"german": "Alle Technologien freigeschalten",
+		"french": "Toutes les technologies sont déverrouillées",
 		"thai": "ปลดล็อคเทคโนโลยีทั้งหมด",
 	},
 	"sandbox_noBuildingCosts_title": {
 		"english": "No construction costs",
 		"german": "Keine Baukosten",
+		"french": "Aucun coût de construction",
 		"thai": "ไม่มีค่าใช้จ่ายสำหรับการก่อสร้าง",
 	},
 	"sandbox_needsFulfilled_title": {
 		"english": "All citizen needs fulfilled",
 		"german": "Alle Bedürfnisse der Einwohner erfüllt",
+		"french": "Tous les besoins des citoyens sont satisfaits",
 		"thai": "ตอบโจทย์ทุกความต้องการของผู้อยู่อาศัย",
 	},
 	"trafficVisualsOnly_title": {
 		"english": "Cars ignore traffic",
 		"german": "Autos ignorieren Staus",
+		"french": "Les véhicules ignorent la circulation",
 		"thai": "รถยนต์ละเลยการขับขี่ตามจราจร",
 	},
 	"trafficVisualsOnly_desc": {
 		"english": "This setting eliminates traffic difficulty!\nSelect this if you are not interested in InfraSpace's traffic gameplay.",
 		"german": "Diese Einstellung entfernt alle Staus.\nWähle dies aus, wenn dich InfraSpaces Verkehrsmanagement gar nicht interessiert.",
+		"french": "Ce réglage élimine les difficultés de circulation !\nSélectionnez cette option si vous n'êtes pas intéressé par le trafic d'InfraSpace.",
 		"thai": "การตั้งค่านี้ช่วยจะขจัดปัญหาการจราจร\nเลือกตัวเลือกนี้หากคุณไม่สนใจที่จะการเล่น InfraSpace แบบใช้การจราจร",
 	},
 	"truckRoundTrip_title": {
 		"english": "Cars make round trips", // or: cars drive back after delivery
 		"german": "Autos fahren nach Lieferung wieder zurück",
+		"french": "Les véhicules font des allers-retours",
 		"thai": "รถยนต์ขับไปกลับ",
 	},
 	"truckRoundTrip_desc": {
 		"english": "This setting makes traffic a lot more difficult.\nSelect this if you are looking for a challenge.",
 		"german": "Diese Einstellung macht Verkehr viel schwierig.\nWähle dies aus, wenn du nach einer Herausforderung suchst.",
+		"french": "Ce paramètre rend la circulation beaucoup plus difficile.\nSélectionnez cette option si vous cherchez à relever un défi.",
 		"thai": "การตั้งค่านี้จะทำให้การจราจรยากขึ้นมาก เลือกตัวเลือกนี้หากคุณกำลังมองหาความท้าทายใหม่ๆ",
 	},
 
 
 	"introText_1": {
-		"english": "After a failed warp jump, your damaged space ship is stranded somewhere in the galaxy.",
+		"english": "After a failed warp jump, your damaged spaceship is stranded somewhere in the galaxy.",
 		"german": "Nach einem fehlgeschlagenem Warpsprung ist euer schwer beschädigtes Raumschiff irgendwo in der Galaxie gestrandet.",
+		"thai": "หลังจากการวาร์ปล้มเหลว ยานอวกาศที่เสียหายของคุณติดอยู่ที่ใดสักทีที่หนึ่งในกาแล็กซี",
+		"french": "Après un incident lors d'un saut en distorsion, votre vaisseau spatial fortement endommagé s'est échoué quelque part dans la galaxie.",
 	},
 	"introText_2": {
-		"english": "Your communicaton systems can't reach human space.",
+		"english": "Your communication systems can't reach human space.",
 		"german": "Eure Kommunikationsysteme können keine anderen Menschen erreichen.",
+		"thai": "ระบบสื่อสารของคุณไม่สามารถเข้าถึงพื้นที่ของมนุษย์ได้",
+		"french": "Vos systèmes de communication ne peuvent plus atteindre l'espace humain.",
 	},
 	"introText_3": {
 		"english": "You need to settle on one of the nearby planets to get the necessary resources and technology to repair your ship.",
 		"german": "Du musst dich auf einem der näheren Planeten niederlassen, um die notwendigen Ressourcen und Technologien für die Reperatur eures Schiffs zu bekommen.",
+		"thai": "คุณต้องตั้งรกรากบนดาวเคราะห์ดวงใดดวงหนึ่งที่อยู่ใกล้เคียงเพื่อหาทรัพยากรและเทคโนโลยีที่จำเป็นในการซ่อมยานของคุณ",
+		"french": "Vous devez donc vous installer sur l'une des planètes voisines pour obtenir les ressources et la technologie nécessaires à la réparation de votre vaisseau.",
 	},
 }

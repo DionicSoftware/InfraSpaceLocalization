@@ -1018,6 +1018,7 @@
   "spaceShipConstructionFacility": {
     "english": "Spaceship Construction Facility",
     "german": "Raumschiffswerft",
+    "french": "Centre de construction spatiale",
     "thai": "สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ",
   },
   "recyclingCenter": {
@@ -1817,6 +1818,7 @@
   "trainstation_1R": {
     "english": "Mini Train Station",
     "german": "Minibahnhof",
+    "french": "Mini-gare",
     "thai": "สถานีรถไฟขนาดเล็ก",
   },
   "trainstation_2R": {
