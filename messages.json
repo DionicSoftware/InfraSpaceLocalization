@@ -175,11 +175,13 @@
 	"message_spaceshipRepairedTitle": {
 		"english": "Spaceship Repaired!",
 		"german": "Raumschiff repariert!",
+		"thai": "ยานอวกาศซ่อมถูกซ่อมแล้ว!",
 		"french": "Vaisseau spatial réparé !",
 	},
 	"message_spaceshipRepairedDesc": {
 		"english": "Congratulations!\n\nYou have repaired your spaceship and have reestablished contact with the human civilization.\n\nWhat comes next will be revealed during InfraSpace's Early Access. For now, you can keep building your city and make it great!",
 		"german": "Glückwunsch!\n\nDu hast euer Raumschiff repariert  und den Kontakt mit der menschlichen Zivilisation wiederhergestellt.\n\nWas als nächstes kommt, wird sich im Verlauf von InfraSpace's Early Access zeigen. Im Moment kannst du weiterhin deine Stadt aufbauen und sie großartig machen!",
+		"thai": "ยินดีด้วย!\n\nคุณได้ซ่อมแซมยานอวกาศของคุณและได้ฟื้นฟูจนสามารถติดต่อกับอารยธรรมมนุษย์ได้อีกครั้ง\n\nสิ่งต่อไปที่จะเกิดขึ้นจะถูกเปิดเผยตอนนี้อยู่ในระหว่างการพัฒนาของ InfraSpace แต่ตอนนี้เอง คุณสามารถสร้างเมืองของคุณต่อไปและทำให้มันยอดเยี่ยมต่อไปได้ต่อเลย!",
 		"french": "Félicitations !\n\nVous avez réparé votre vaisseau spatial et avez rétabli le contact avec la civilisation humaine.\n\nLa suite sera révélée pendant l'accès anticipé d'InfraSpace. Pour l'instant, vous pouvez continuer à développer votre ville et la rendre grandiose !",
 	},
 }

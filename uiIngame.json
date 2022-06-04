@@ -2825,6 +2825,8 @@
 	"planet": {
 		"english": "Planet",
 		"german": "Planet",
+
+		"thai": "ดาวเคราะห์",
 		"french": "Planète",
 	},
 	"spaceship_bridge": {
@@ -3011,18 +3013,21 @@
 
 
 	"introText_1": {
-		"english": "After a failed warp jump, your damaged space ship is stranded somewhere in the galaxy.",
+		"english": "After a failed warp jump, your damaged spaceship is stranded somewhere in the galaxy.",
 		"german": "Nach einem fehlgeschlagenem Warpsprung ist euer schwer beschädigtes Raumschiff irgendwo in der Galaxie gestrandet.",
+		"thai": "หลังจากการวาร์ปล้มเหลว ยานอวกาศที่เสียหายของคุณติดอยู่ที่ใดสักทีที่หนึ่งในกาแล็กซี",
 		"french": "Après un incident lors d'un saut en distorsion, votre vaisseau spatial fortement endommagé s'est échoué quelque part dans la galaxie.",
 	},
 	"introText_2": {
-		"english": "Your communicaton systems can't reach human space.",
+		"english": "Your communication systems can't reach human space.",
 		"german": "Eure Kommunikationsysteme können keine anderen Menschen erreichen.",
+		"thai": "ระบบสื่อสารของคุณไม่สามารถเข้าถึงพื้นที่ของมนุษย์ได้",
 		"french": "Vos systèmes de communication ne peuvent plus atteindre l'espace humain.",
 	},
 	"introText_3": {
 		"english": "You need to settle on one of the nearby planets to get the necessary resources and technology to repair your ship.",
 		"german": "Du musst dich auf einem der näheren Planeten niederlassen, um die notwendigen Ressourcen und Technologien für die Reperatur eures Schiffs zu bekommen.",
+		"thai": "คุณต้องตั้งรกรากบนดาวเคราะห์ดวงใดดวงหนึ่งที่อยู่ใกล้เคียงเพื่อหาทรัพยากรและเทคโนโลยีที่จำเป็นในการซ่อมยานของคุณ",
 		"french": "Vous devez donc vous installer sur l'une des planètes voisines pour obtenir les ressources et la technologie nécessaires à la réparation de votre vaisseau.",
 	},
 }
