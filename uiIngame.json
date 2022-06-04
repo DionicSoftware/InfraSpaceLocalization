@@ -1900,6 +1900,10 @@
 		"danish": "Skoler",
 		"greek": "Σχολεία",
 	},
+	"visualization_Pipes": {
+		"english": "Pipes",
+		"german": "Rohre",
+	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
 		"german": "Benötigte Materialien",
@@ -2934,6 +2938,10 @@
 	},
 	
 	
+	"worldSettings": {
+		"english": "World Settings",
+		"german": "Welteinstellungen",
+	},
 	"sandbox": {
 		"english": "Creative Mode",
 		"german": "Kreativer Modus",
