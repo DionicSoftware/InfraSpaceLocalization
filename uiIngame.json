@@ -1129,11 +1129,13 @@
 		"english": "Pipeline Operation:",
 		"german": "Pipelinebetrieb:",
 		"french": "Fonctionnement des tuyaux :",
+		"thai": "ท่อปฏิบัติการ",
 	},
 	"spaceshipEfficiencyBoost": {
 		"english": "Spaceship Tech:",
 		"german": "Raumschiff-Tech:",
 		"french": "Technologie spatiale :",
+		"thai": "เทคโนโลยียานอวกาศ",
 	},
 
 
@@ -1144,7 +1146,7 @@
 		"french": "Pas de grille",
 		"spanish": "Sin retícula",
 		"italian": "Nessuna griglia",
-		"thai": "ไม่มีตาราง",
+		"thai": "ไม่มีตารางแบบตะแกง",
 		"polish": "wyłącz siatkę",
 		"czech": "Bez mřížky",
 		"danish": "Intet Gitter",
@@ -2917,26 +2919,31 @@
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
 		"german": "Dein Fortschritt überzeugt Crewmitglieder. Immigrationsrate permanent um 5% erhöht.",
 		"french": "Vos progrès convainquent les membres de l'équipage de vous faire confiance. Augmentation permanente de 5% de l'immigration.",
+		"thai": "ความคืบหน้าของคุณที่ทำให้ลูกเรือของคุณนั้นไว้วางใจคุณ เพิ่มการย้ายถิ่นฐานถาวรขึ้น 5%",
 	},
 	"spaceshipUpgrade_instantImmigrationBoost": {
 		"english": "Your progress convinces crew members to trust you. %amount% people immediately come to the planet to help you.",
 		"german": "Dein Fortschritt überzeugt Crewmitglieder. %amount% Leute kommen zu deiner Stadt um zu helfen.",
 		"french": "Vos progrès convainquent les membres de l'équipage de vous faire confiance. %amount% personnes viennent immédiatement sur la planète pour vous aider.",
+		"thai": "ความคืบหน้าของคุณชักชวนให้ลูกเรือไว้วางใจคุณ 5 คนมาที่โลกทันทีเพื่อช่วยคุณ",
 	},
 	"spaceshipUpgrade_efficiencyBoost": {
 		"english": "Rerouting spaceship power increases all building efficiency permanently by %percentage%%.",
 		"german": "Das Umleiten der Raumschiffsenergie erhöht die Effizienz von allen Gebäuden permanent um %percentage%%.",
 		"french": "Le réacheminement de la puissance des vaisseaux spatiaux augmente l'efficacité de tous les bâtiments de façon permanente de %percentage%%.",
+		"thai": "ความคืบหน้าของคุณที่ทำให้ลูกเรือของคุณนั้นไว้วางใจคุณ จำนวน %amount% คนจะมาที่ดาวเคราะห์ทันทีเพื่อช่วยเหลือคุณ",
 	},
 	"spaceshipUpgrade_techBoost": {
 		"english": "With this module online, you receive a %percentage%% boost to a random technology.",
 		"german": "Durch die Reparatur dieses Moduls erhältst du einen Fortschrittsboost von %percentage%% zu einer zufälligen Technolgie.",
 		"french": "Avec ce module fonctionnel, vous recevez un boost de %percentage%% sur une technologie aléatoire.",
+		"thai": "เมื่อส่วนเชื่อมต่อนี้ออนไลน์ คุณจะได้รับการเร่งเป็นเทคโนโลยีแบบสุ่ม %percentage%%",
 	},
 	"spaceshipUpgrade_techBoostFull": {
 		"english": "With this module online, you unlock one random technology.",
 		"german": "Durch die Reparatur dieses Moduls schaltest du eine zufällige Technologie frei.",
 		"french": "Avec ce module fonctionnel, vous déverrouillez une technologie aléatoire.",
+		"thai": "เมื่อส่วนเชื่อมต่อนี้ออนไลน์ คุณจะปลดล็อกเทคโนโลยีแบบสุ่มได้หนึ่งอย่าง",
 	},
 
 	

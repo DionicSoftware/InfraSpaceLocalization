@@ -81,6 +81,7 @@
       "english": "Pipes",
       "german": "Rohre",
       "french": "Tuyaux",
+      "thai": "ท่อ",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -233,11 +234,13 @@
       "english": "Methane",
       "german": "Methan",
       "french": "Méthane",
+      "thai": "มีเทน",
   },
   "tech_tanks": {
       "english": "Tanks",
       "german": "Tanks",
       "french": "Réservoirs",
+      "thai": "ถังเก็บน้ำ",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -453,6 +456,7 @@
       "english": "Ground Water Extraction",
       "german": "Grundwasser-Extraktion",
       "french": "Extraction d'eau souterraine",
+      "thai": "การดูดน้ำบาดาล",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -682,6 +686,7 @@
       "english": "Methane Fermentation",
       "german": "Methangärung",
       "french": "Fermentation du méthane",
+      "thai": "การหมักมีเทน",
   },
   "tech_stadiums": {
     "english": "Stadiums",

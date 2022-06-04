@@ -1522,41 +1522,49 @@
       "english": "Oxygen Tank",
       "german": "Sauerstofftank",
       "french": "Réservoir d'oxygène",
+      "thai": "ถังเก็บอ็อกซิเจน",
   },
   "waterTank": {
       "english": "Water Tank",
       "german": "Wassertank",
       "french": "Réservoir d'eau",
+      "thai": "ถังเก็บน้ำ",
   },
   "methaneTank": {
       "english": "Methane Tank",
       "german": "Methantank",
       "french": "Réservoir de méthane",
+      "thai": "ถังเก็บมีเทน",
   },
   "waterAirFilter": {
       "english": "Water-Air-Filter",
       "german": "Wasser-Luft-Filter",
       "french": "Filtre à eau-air",
+      "thai": "กรองน้ำและอากาศ",
   },
   "waterWellHydraulic": { // translation different than key
       "english": "Ground Water Extractor",
       "german": "Grundwasser-Extraktor",
       "french": "Extracteur d'eau souterraine",
+      "thai": "เครื่องดูดน้ำบาดาล",
   },
   "methaneDrill": {
       "english": "Methane Drill",
       "german": "Methanbohrer",
       "french": "Foreuse à méthane",
+      "thai": "ดอกสว่านมีเทน",
   },
   "methaneFermentationPlant": {
       "english": "Methane Fermentation Plant",
       "german": "Methangäranlage",
       "french": "Usine de fermentation du méthane",
+      "thai": "โรงหมักมีเทน",
   },
   "methanePowerPlant": {
       "english": "Methane Power Plant",
       "german": "Methankraftwerk",
       "french": "Centrale électrique au méthane",
+      "thai": "โรงไฟฟ้ามีเทน",
   },
 
 
@@ -1786,7 +1794,7 @@
     "dutch": "Kolossale Adamantboor",
     "portuguese": "Broca colossal de adamantina",
     "hungarian": "Kolosszális adamantit fúró",
-    "thai": "ดอกสว่านอาดามันเทียมขนาดมหึมา",
+    "thai": "ดอกสว่านเจาะอาดามันเทียมขนาดมหึมา",
     "turkish": "Devasa Adamantin Matkabı",
     "korean": "아다만타이트 채굴기",
     "romanian": "Burghiu uriaș de adamantin",
