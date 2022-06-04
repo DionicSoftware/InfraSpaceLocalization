@@ -3,7 +3,7 @@
 <p align="center"><img src="https://img.shields.io/github/forks/Ponzel/InfraSpaceLocalization?style=social"/>
 <img src="https://img.shields.io/github/stars/Ponzel/InfraSpaceLocalization?style=social"/> <a href="https://discord.com/invite/xVy8Y4P"><img height="20px"src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://store.steampowered.com/app/1511460/InfraSpace/"><img height="20px"src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
 
-<p align="center"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1511460/header.jpg"></p>
+<p align="center"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1511460/header.jpg?t=1654292964"></p>
 
 
 
