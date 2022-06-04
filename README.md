@@ -8,11 +8,13 @@
 
 
 
-This project is the official community translation for the city building game InfraSpace.
+<center>This project is the official community translation for the city building game InfraSpace.</center>
 
-Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translating-infraspace/1630) for info on the project and its license.
+###### Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translating-infraspace/1630) for info on the project and its license.
 
-## Installation instruction
+<br>
+
+# Installation instruction
 
 ###### - **[EN]** Put this folder in your game folder and rename it "**localization**". Don't forget to **create a "custom.txt"** containing the following:
 ###### - **[ES]** Coloca los archivos en tu carpeta de juego y cambia su nombre a "**localization**". No olvides **crear un "custom.txt"** que contenga lo siguiente:
@@ -36,8 +38,9 @@ Visit [this forum post](https://forum.dionicsoftware.com/t/how-to-help-translati
 ###### - **[GD]** Cuir am pasgan seo sa phasgan geama agad agus ath-ainmich e "**localization**". Na dì-chuimhnich a chruthachadh **a "custom.txt"** anns a bheil na leanas:
 ###### - **[DA]** Placer denne mappe i spillets mappe og omdøb den til "**localization**". husk at **oprette "custom.txt"** med følgende indhold:
 
+<br>
 
-## Custom.txt:
+# Custom.txt:
 ```
 Game Version:
 Alpha 7.5.145
@@ -45,3 +48,4 @@ Forced Language:
 english
 ```
 ###### _(Change english to your language)_
+
