@@ -1908,6 +1908,7 @@
 		"english": "Pipes",
 		"german": "Rohre",
 		"french": "Tuyaux",
+		"thai": "ท่อ",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2978,6 +2979,7 @@
 		"english": "World Settings",
 		"german": "Welteinstellungen",
 		"french": "Paramètres du monde",
+		"thai": "ตั้งค่าโลก",
 	},
 	"sandbox": {
 		"english": "Creative Mode",
