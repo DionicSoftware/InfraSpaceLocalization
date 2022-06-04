@@ -1907,6 +1907,7 @@
 	"visualization_Pipes": {
 		"english": "Pipes",
 		"german": "Rohre",
+		"french": "Tuyaux",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2976,6 +2977,7 @@
 	"worldSettings": {
 		"english": "World Settings",
 		"german": "Welteinstellungen",
+		"french": "Paramètres du monde",
 	},
 	"sandbox": {
 		"english": "Creative Mode",
