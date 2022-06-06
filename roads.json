@@ -117,6 +117,7 @@
 		"greek": "Ράγα",
 		"swiss german": "Schinä",
 		"farsi":"ریل قطار",
+		"japanese": "レール",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
@@ -131,6 +132,7 @@
 		"greek": "Ράγα Υψηλής Ταχύτητας",
 		"swiss german": "Hochgschwindigketsschinä",
 		"farsi":"ریل پرسرعت",
+		"japanese": "高速レール",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -145,6 +147,7 @@
 		"greek": "Αστραπιαία Ράγα",
 		"swiss german": "Blitzschnälli Schinä",
 		"farsi":"ریل سرعت نور",
+		"japanese": "超高速レール",
 	},
 
 	"pipe_oxygen": {
@@ -152,17 +155,20 @@
 		"german": "Sauerstoffrohre",
 		"french": "Tuyaux d'oxygène",
 		"thai":"ท่อออกซิเจน",
+		"japanese": "酸素パイプ",
 	},
 	"pipe_water": {
 		"english": "Water Pipes",
 		"german": "Wasserrohre",
 		"french": "Tuyaux d'eau",
 		"thai":"ท่อน้ำ",
+		"japanese": "水パイプ",
 	},
 	"pipe_methane": {
 		"english": "Methane Pipes",
 		"german": "Methanrohre",
 		"french": "Tuyaux de méthane",
 		"thai":"ท่อมีเทน",
+		"japanese": "メタンパイプ",
 	},
 }
