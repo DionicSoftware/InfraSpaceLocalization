@@ -2624,6 +2624,7 @@
 		"danish": "Dette gemte spil er kun delvist kompatibel med din spilversion.",
 		"greek": "Η αποθήκευση είναι μόνο μερικώς συμβατή με την έκδοση παιχνιδιού σου",
 		"swiss german": "Dä Schpielstand isch numä zum Teil Kompatibäl mit dinärä Spielversion",
+		"japanese": "このセーブは、新しいゲームバージョンとは部分的な互換性しかありません。",
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
@@ -2638,6 +2639,7 @@
 		"danish": "Sådan spille du et inkompatibelt gemt spil",
 		"greek": "Πως να παίξεις μη συμβατές αποθηκεύσεις",
 		"swiss german": "Wie mä kampatibli Schpielständ spilt",
+		"japanese": "非互換のセーブでプレイする方法",
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
@@ -2652,6 +2654,7 @@
 		"danish": "Når vi udgiver en stor spilopdatering, kan det ske at et gemt spil ikke er helt kompatibelt.\nDu har to muligheder:\n\n1Fortsæt dit gemte spil på den tidligere version. Vi har lavet en tutorial til dig.\n2Prøv at konvertere dit gemte spil til en ny version.\n\nKonvertering er ikke fejlfri. Du bliver sikkert nød til at pause spillet, og løse nogle problemer.",
 		"greek": "Όταν κυκλοφορούμε μία μεγάλη αναβάθμιση παιχνιδιου, μερικές φορές οι αποθηκεύσεις παιχνιδιών δεν είναι εντλεώς συμβατές.\n Έχεις δύο επιλογές:\n\n1.Συνέχισε να παίζεις το αποθηκευμένο σου παχνίδι στην προηγούμενη έκδοση.Έχουμε φτιάξει έναν οδηγό για 'σένα.\n2.Δοκίμασε να μετατρέψεις την αποθήκευση του παιχνιδιού σου στην νέα έκδοση.\n\nΜερικές μετατροπές δεν είναι τέλειες.Πιθανόν χρείαζεται να κάνεις παύση το παχνίδι και να χρειαστείς χρόνο να επιδιορθώσεις διάφορα προβλήματα.",
 		"swiss german": "Wänn mir es grossäs Update veröffentlichäd, sind Spielständ mängisch nöd voll kompatibel.\nDu häsch 2 Möglichkeitä:\n\n1. Spil din Spielstand uf dä vorherige Version wiiter. Mir händ ä Ahleitig für dich erstellt.\nVersuech din Spielstand uf di neuscht Version z`konvertiere.\n\nKonvertierigä sind nöd pärfäkt. Du muäsch warschindlich s`Spiel pausiärä und d Problem i dinere Stadt behebä.",
+		"japanese": "ゲームの大規模アップデートをリリースした場合、セーブに完全な互換性が無いことがあります。\n次の2つの選択肢があります。\n\n1.セーブを旧バージョンで遊び続けます。そのためのチュートリアルを作成しました。\n2.セーブを新バージョンに変換することを試みます。\n\nセーブの変換は完全ではありません。おそらく、ゲームをポーズして問題を修正するために時間を費やす必要があります。",
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
@@ -2680,6 +2683,7 @@
 		"danish": "Prøv at konvertere",
 		"greek": "Δοκίμασε μετατροπή",
 		"swiss german": "Konvertierig versueche",
+		"japanese": "ゲームバージョンを変更する",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -2741,7 +2745,7 @@
 		"russian": "Дорожная карта не найдена.\n\nВы подключены к интернету?",
 		"spanish": "Ningún Roadmap encontrado. \n\n¿Estás conectado a internet?",
 		"italian": "Nessuna Roadmap trovata. \n\nSei connesso ad internet?",
-		"japanese": "ロードマップが見つかりません。\n\nインターネットに接続されていますか?",
+		"japanese": "ロードマップが見つかりません。\n\nインターネットに接続されていますか？",
 		"polish": "Nie znaleziono żadnych planów.\n\nMasz połączenie z Internetem?",
 		"czech": "Nenalezeny žádné plány.\n\nNemáte problémy s připojením?",
 		"ukrainian": "Дорожня карта не знайдена.\n\nЧи підключені ви до інтернету?",
