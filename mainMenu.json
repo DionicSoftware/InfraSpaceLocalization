@@ -17,7 +17,7 @@
 		"italian": "Nuova partita",
 		"czech": "Nová hra",
 		"romanian": "Joc nou",
-		"japanese": "ゲームを始める",
+		"japanese": "新規ゲーム",
 		"slovak": "Nová hra",
 		"hungarian": "Új játék",
 		"thai": "เริ่มเกมใหม่",
@@ -43,7 +43,7 @@
 		"italian": "Salva partita",
 		"czech": "Uložit hru",
 		"romanian": "Salvează jocul",
-		"japanese": "ゲームを保存する",
+		"japanese": "ゲームを保存",
 		"slovak": "Uložiť hru",
 		"hungarian": "Mentés",
 		"thai": "บันทึกเกม",
@@ -69,7 +69,7 @@
 		"italian": "Carica partita",
 		"czech": "Načíst hru",
 		"romanian": "Încarcă un joc salvat",
-		"japanese": "ゲームを読み込みする",
+		"japanese": "ゲームをロード",
 		"slovak": "Načítať hru",
 		"hungarian": "Betöltés",
 		"thai": "โหลดเกม",
@@ -121,7 +121,7 @@
 		"italian": "Esci",
 		"czech": "Odejít",
 		"romanian": "Ieși",
-		"japanese": "ゲームを終了する",
+		"japanese": "ゲームを終了",
 		"slovak": "Odísť na plochu",
 		"hungarian": "Kilépés",
 		"thai": "ออก",
@@ -144,6 +144,7 @@
 		"greek": "Πίσω",
 		"swiss german": "Zrugg",
 		"farsi":"بازگشت",
+		"japanese": "戻る",
 	},
 	"backToGame": {
 		"english": "Back to Game",
@@ -1037,6 +1038,7 @@
 		"greek": "Κλίμακα UI",
 		"swiss german": "UI Grössi",
 		"farsi":"اندازه صفحه",
+		"japanese": "UIスケール",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1497,7 +1499,7 @@
 		"polish": "Anuluj",
 		"czech": "Zrušit",
 		"romanian": "Renunță",
-		"japanese": "取り消し",
+		"japanese": "キャンセル",
 		"slovak": "Zrušiť",
 		"hungarian": "Mégse",
 		"thai": "ยกเลิก",
@@ -1800,6 +1802,7 @@
 		"hungarian": "Gyors kameramozgatás",
 		"swiss german": "Schnälli Kamerabewegig",
 		"farsi":"حرکت سریع دوربین",
+		"japanese": "カメラの高速移動",
 	},
 
 	"cityShortcuts": {
@@ -1810,6 +1813,7 @@
 		"hungarian": "Város gyorsgombok",
 		"swiss german": "Stadt-Shortcuts",
 		"farsi":"میانبر های شهر",
+		"japanese": "都市のショートカット",
 	},
 	"research": {
 		"english": "Research",
@@ -1819,6 +1823,7 @@
 		"hungarian": "Kutatás",
 		"swiss german": "Forschig",
 		"farsi":"تحقیق",
+		"japanese": "研究",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
@@ -1828,6 +1833,7 @@
 		"hungarian": "Szállítási útvonalak",
 		"swiss german": "Transportliniänä",
 		"farsi":"خط های جابجایی",
+		"japanese": "輸送ライン",
 	},	
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -1912,6 +1918,7 @@
 		"hungarian": "Pontos építkezés",
 		"swiss german": "Präzisäs Bauä",
 		"farsi":"ساخت دقیق",
+		"japanese": "精密建設",  // 暫定訳 (provisional translation)
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
@@ -1921,6 +1928,7 @@
 		"hungarian": "Shift nyomva tartva(bal)",
 		"swiss german": "Shift (links) lang druckä",
 		"farsi":"کلید شیفت را نگه دارید(سمت چپ)",
+		"japanese": "左Shiftホールド",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1935,6 +1943,7 @@
 		"thai": "สลับกรอบตะแกรง",
 		"swiss german": "Gitter umschaltä",
 		"farsi":"روشن کردن شطرنج",
+		"japanese": "グリッド切り替え",
 	},
 	"move": {
 		"english": "Move",
@@ -1944,6 +1953,7 @@
 		"hungarian": "Mozgatás",
 		"swiss german": "Verschiäbä",
 		"farsi":"تکان دادن",
+		"japanese": "移動",
 	},
 	"delete": {
 		"english": "Delete",
@@ -1953,6 +1963,7 @@
 		"hungarian": "Törlés",
 		"swiss german": "Löschä",
 		"farsi":"حذف کردن",
+		"japanese": "削除",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
@@ -1962,6 +1973,7 @@
 		"hungarian": "Építkezési menük",
 		"swiss german": "Baumenüs",
 		"farsi":"منو ساخت",
+		"japanese": "建設メニュー",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
@@ -1971,6 +1983,7 @@
 		"hungarian": "Shift (bal) + szám",
 		"swiss german": "Shift (links) + Zahl",
 		"farsi":"کلید شیفت(سمت چپ) +عدد",
+		"japanese": "左Shift + 数字",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1989,7 +2002,7 @@
 		"polish": "Szybkość gry",
 		"czech": "Ovládání času",
 		"romanian": "Controlul timpului",
-		"japanese": "時間管理",
+		"japanese": "時間制御",
 		"slovak": "Ovládanie času",
 		"hungarian": "Idő irányítás",
 		"thai": "ควบคุมเวลา",
@@ -2032,6 +2045,7 @@
 		"hungarian": "Normális szimulációs sebesség",
 		"swiss german": "Normali Simulations-Gschwindigkeit",
 		"farsi":"سرعت شبیه سازی عادی",
+		"japanese": "シミュレーション速度：標準",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
@@ -2041,6 +2055,7 @@
 		"hungarian": "Gyors szimulációs sebesség",
 		"swiss german": "Schnälli Simulations-Gschwindigkeit",
 		"farsi":"سرعت شبیه سازی تند",
+		"japanese": "シミュレーション速度：高速",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2155,7 +2170,7 @@
 		"chinese": "截图模式",
 		"spanish": "Modo captura de pantalla",
 		"italian": "Modalità di Screenshot",
-		"japanese": "スクリーンショット画面",
+		"japanese": "スクリーンショットモード",
 		"polish": "Tryb fotograficzny",
 		"czech": "Fotografický mód",
 		"ukrainian": "Режим знімку екрана",
@@ -2188,7 +2203,7 @@
 		"polish": "Otwórz katalog zrzutów ekranu",
 		"czech": "Otevřít adresář snímků",
 		"romanian": "Deschide dosarul cu capturile de ecran",
-		"japanese": "スクリーンショットフォルダを開く",
+		"japanese": "スクリーンショットのフォルダを開く",
 		"slovak": "Otvoriť adresár snímok",
 		"hungarian": "Képernyőképek mappa megnyitása",
 		"thai": "เปิดโฟลเดอร์รูปหน้าจอ",
@@ -2239,7 +2254,7 @@
 		"polish": "Pokaż FPS",
 		"czech": "Zobrazit FPS",
 		"romanian": "Afișează FPS",
-		"japanese": "1秒あたりのフレーム数を表示",
+		"japanese": "FPSを表示",
 		"slovak": "Zobraziť FPS",
 		"hungarian": "FPS mutatása",
 		"thai": "แสดง FPS",
@@ -2256,6 +2271,7 @@
 		"hungarian": "Gyorsmentés",
 		"swiss german": "Schnällspeichere",
 		"farsi":"ذخیره سریع",
+		"japanese": "クイックセーブ",
 	},
 	"quickload": {
 		"english": "Quick Load",
@@ -2265,6 +2281,7 @@
 		"hungarian": "Gyorstöltés",
 		"swiss german": "Schnällladä",
 		"farsi":"باز کردن سریع",
+		"japanese": "クイックロード",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -2283,7 +2300,7 @@
 		"polish": "LPM",
 		"czech": "Levé tlačítko myši",
 		"romanian": "Butonul din stânga al mausului",
-		"japanese": "左マウスボタン",
+		"japanese": "マウス左クリック",
 		"slovak": "Ľavé tlačidlo myši",
 		"hungarian": "Bal egérgomb",
 		"thai": "ปุ่มเมาส์ซ้าย",
@@ -2309,7 +2326,7 @@
 		"polish": "PPM",
 		"czech": "Pravé tlačítko myši",
 		"romanian": "Butonul din dreapta al mausului",
-		"japanese": "右マウスボタン",
+		"japanese": "マウス右クリック",
 		"slovak": "Pravé tlačídlo myši",
 		"hungarian": "Jobb egérgomb",
 		"thai": "ปุ่มเมาส์ขวา",
@@ -2335,7 +2352,7 @@
 		"polish": "ŚPM",
 		"czech": "Prostřední tlačítko myši",
 		"romanian": "Mouse: buton-mijloc",
-		"japanese": "中央マウスボタン[ホイールボタン]",
+		"japanese": "マウス中クリック",  // 枠のサイズの都合で、後ろに［ホイールボタン］と付けても読めない。
 		"slovak": "Prostredné tlačídko myši",
 		"hungarian": "Középső egérgomb",
 		"thai": "ปุ่มเมาส์กลาง",
