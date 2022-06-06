@@ -1545,7 +1545,7 @@
       "german": "Wasser-Luft-Filter",
       "french": "Filtre à eau-air",
       "thai": "กรองน้ำและอากาศ",
-      "japanese": "空気用吸水フィルター",  // 意訳 (free translation)
+      "japanese": "吸湿フィルター",  // 意訳 (free translation)
   },
   "waterWellHydraulic": { // translation different than key
       "english": "Ground Water Extractor",
