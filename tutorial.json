@@ -1019,7 +1019,7 @@
 		"polish": "Siatka budowy",
 		"czech": "Mřížka",
 		"danish":"Bygningsgitter",
-		
+		"japanese": "建設グリッド",
 	},
 	"tutorialMessage_grid_title": {
 		"english": "Building with and without grid",
@@ -1031,7 +1031,7 @@
 		"polish": "Budowanie z pomocą i bez siatki",
 		"czech": "Budova s mřížkou a bez mřížky",
 		"danish":"Byg med og uden gitter",
-		
+		"japanese": "グリッドあり/なしでの建設",
 	},
 	"tutorialMessage_grid_desc": {
 		"english": "Use these buttons to select your grid. You can use grids to align your roads and buildings or turn them off and build freely.",
@@ -1043,5 +1043,6 @@
 		"polish": "Użyj tych przycisków aby przełączać siatkę. Siatka pomaga budować proste drogi i stawiać budynki w uporządkowany sposób. Możesz też wyłączyć siatkę i swobodnie kształtować swoje miasto.",
 		"czech": "Pomocí těchto tlačítek vyberte mřížku. Pomocí mřížek můžete zarovnat silnice a budovy nebo mřížku vypnout a volně stavět.",
 		"danish":"Brug disse knapper til at vælge dit gitter. Du kan bruge gitter til at justere dine veje og bygninger eller slå dem fra og bygge frit.",
+		"japanese": "これらのボタンでグリッドを選択できます。道路や建物を整列するためにグリッドを利用したり、グリッドをオフにして自由配置にしたりできます。",
 	},
 }
