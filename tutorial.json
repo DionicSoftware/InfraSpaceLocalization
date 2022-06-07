@@ -1020,6 +1020,7 @@
 		"czech": "Mřížka",
 		"danish":"Bygningsgitter",
 		"japanese": "建設グリッド",
+		"hungarian": "Négyzetrács",
 	},
 	"tutorialMessage_grid_title": {
 		"english": "Building with and without grid",
@@ -1032,6 +1033,7 @@
 		"czech": "Budova s mřížkou a bez mřížky",
 		"danish":"Byg med og uden gitter",
 		"japanese": "グリッドあり/なしでの建設",
+		"hungarian": "Építés négyzetráccsal vagy anélkül",
 	},
 	"tutorialMessage_grid_desc": {
 		"english": "Use these buttons to select your grid. You can use grids to align your roads and buildings or turn them off and build freely.",
@@ -1044,5 +1046,6 @@
 		"czech": "Pomocí těchto tlačítek vyberte mřížku. Pomocí mřížek můžete zarovnat silnice a budovy nebo mřížku vypnout a volně stavět.",
 		"danish":"Brug disse knapper til at vælge dit gitter. Du kan bruge gitter til at justere dine veje og bygninger eller slå dem fra og bygge frit.",
 		"japanese": "これらのボタンでグリッドを選択できます。 道路や建物を整列するためにグリッドを利用したり、 グリッドをオフにして自由配置にしたりできます。",
+		"hungarian": "Használd ezeket a gombokat, hogy kiválaszd a négyzetrácsos építést. A négyzetrácsot használhatod arra, hogy az épületek és az utak egyvonalban legyenek, vagy kapcsold ki és építs szabadon!",
 	},
 }
