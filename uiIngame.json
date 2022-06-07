@@ -8,7 +8,7 @@
 		"russian": "Электросеть %id%",
 		"chinese": "电力网络 %id%",
 		"italian": "Rete Elettrica %id%",
-		"japanese": "電力ネットワーク:No.%id%",
+		"japanese": "電力ネットワーク%id%",
 		"polish": "Sieć energetyczna %id%",
 		"ukrainian": "Електромережа %id%",
 		"slovak": "Napájacia sieť %id%",
