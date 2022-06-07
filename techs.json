@@ -77,6 +77,7 @@
     "french": "Tuyaux",
     "thai": "ท่อ",
     "japanese": "パイプ",
+    "hugarian": "Csövek",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -228,6 +229,7 @@
     "french": "Méthane",
     "thai": "มีเทน",
 		"japanese": "メタン",
+    "hungarian": "Metán",
   },
   "tech_tanks": {
     "english": "Tanks",
@@ -235,6 +237,7 @@
     "french": "Réservoirs",
     "thai": "ถังเก็บน้ำ",
 		"japanese": "タンク",
+    "hungarian": "Tartályok",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -314,6 +317,7 @@
     "french": "Construction spatiale",
     "thai": "การก่อสร้างยานอวกาศ",
 		"japanese": "宇宙船の建設",
+    "hungarian": "Űrhajó építés", 
   },
   "tech_motors": {
     "english": "Motors",
@@ -393,6 +397,7 @@
     "french": "Centrales au méthane",
     "thai": "โรงไฟฟ้ามีเทน",
 		"japanese": "メタン発電所",
+    "hungarian": "Metán erőmű",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -448,6 +453,7 @@
     "french": "Extraction d'eau souterraine",
     "thai": "การดูดน้ำบาดาล",
 		"japanese": "地下水の抽出",
+    "hungarian": "Talajvíz kinyerő",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -671,6 +677,7 @@
     "french": "Fermentation du méthane",
     "thai": "การหมักมีเทน",
 		"japanese": "メタン発酵",
+    "hungarian": "Metánerjesztés",
   },
   "tech_stadiums": {
     "english": "Stadiums",
