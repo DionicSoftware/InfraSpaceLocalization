@@ -1,9 +1,39 @@
 <h1 align="center">InfraSpace Community Localization</h1>
 
-<p align="center"><img src="https://img.shields.io/github/forks/Ponzel/InfraSpaceLocalization?style=social"/>
-<img src="https://img.shields.io/github/stars/Ponzel/InfraSpaceLocalization?style=social"/> <a href="https://discord.com/invite/xVy8Y4P"><img height="20px"src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://store.steampowered.com/app/1511460/InfraSpace/"><img height="20px"src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
+<p align="center">
+  <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/Ponzel/InfraSpaceLocalization" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Ponzel/InfraSpaceLocalization" />
+  <img src="https://img.shields.io/github/forks/Ponzel/InfraSpaceLocalization"/>
+<img src="https://img.shields.io/github/stars/Ponzel/InfraSpaceLocalization"/> 
+  <a href="https://discord.com/invite/xVy8Y4P"><img height="20px"src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://store.steampowered.com/app/1511460/InfraSpace/">
+  <img height="20px"src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
+
 
 <p align="center"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1511460/header.jpg?t=1654292964"></p>
+<p align="center">
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_the_United_Kingdom_%283-2_aspect_ratio%29.svg/800px-Flag_of_the_United_Kingdom_%283-2_aspect_ratio%29.svg.png?20121229004425">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/de.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/fr.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/pt.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/tr.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ru.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ua.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/kr.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/nl.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/it.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/cn.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/pl.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/sk.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/cz.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/hu.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/th.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ar.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ro.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/gd.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/dm.png">
+  <img width="30" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/jp.png">
+</p>
 
 
 
@@ -49,3 +79,8 @@ english
 ```
 ###### _(Change english to your language)_
 
+# Contributors
+<p align="center" >
+<a href="https://github.com/Ponzel/InfraSpaceLocalization/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ponzel/InfraSpaceLocalization"  />
+</a>
