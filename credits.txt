@@ -44,6 +44,7 @@ Thai
 Hungarian
 - IrOn
 - Bucsek Attila (ElNutellino_)
+- G. Kristóf (Warden)
 
 Arabic
 - Ahmed Ashraf Khamis
