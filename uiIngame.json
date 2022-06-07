@@ -2708,7 +2708,7 @@
 		"spanish": "Para mayor eficacia, asegurate de que tienes suficiente espacio de segmentos largos verdes y las intersecciones.",
 		"danish": "For maksimal gennemstrømning skal du sørge for at have nok plads med lange grønne segmenter mellem krydsene.",
 		"greek": "Για μέγιστη διακίνηση, σιγουρέψου ότι έχεις αρκετό χώρο με μακρυά πράσινα κομμάτια μεταξύ διασταυρώσεων.",
-		"japanese": "スループットを最大化するには、 十分に長い緑色のレールによる十分な間隔を 分岐点間に設ける必要がある。,
+		"japanese": "スループットを最大化するには、 長い緑色のレールにより 十分な間隔を分岐点間に設ける必要がある。",
 	},
 	"rails": {
 		"english": "Rails",
