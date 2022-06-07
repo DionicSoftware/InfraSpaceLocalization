@@ -2669,6 +2669,7 @@
 		"danish": "Ændre Spil Version",
 		"greek": "Άλλαξε την έκδοση παχνιδιου",
 		"swiss german": "Spielversion wächslä",
+		"japanese": "ゲームバージョンを変更する",
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
@@ -2683,7 +2684,7 @@
 		"danish": "Prøv at konvertere",
 		"greek": "Δοκίμασε μετατροπή",
 		"swiss german": "Konvertierig versueche",
-		"japanese": "ゲームバージョンを変更する",
+		"japanese": "変換を試みる",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
