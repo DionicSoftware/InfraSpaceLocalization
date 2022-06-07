@@ -1354,6 +1354,7 @@
 		"greek": "Προβολή σημάτων τρένου",
 		"thai": "ตัวแสดงสัญญาณรถไฟ",
 		"japanese": "鉄道信号ビュー",
+		"hungarian": "Vonatjelzések nézet",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1892,6 +1893,7 @@
 		"danish": "Parker",
 		"greek": "Πάρκα",
 		"japanese": "公園",
+		"hungarian": "Parkok",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
@@ -1905,6 +1907,7 @@
 		"danish": "Kultur",
 		"greek": "Κουλτούρα",
 		"japanese": "文化",
+		"hungarian": "Kultúra",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -1918,6 +1921,7 @@
 		"danish": "Skoler",
 		"greek": "Σχολεία",
 		"japanese": "学校",
+		"hungarian": "Iskolák",
 	},
 	"visualization_Pipes": {
 		"english": "Pipes",
