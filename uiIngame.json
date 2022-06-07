@@ -98,7 +98,7 @@
 		"russian": "Входящее хранилище пусто",
 		"chinese": "输入库存为空",
 		"italian": "Magazzino in entrata vuoto",
-		"japanese": "在庫なし",
+		"japanese": "原料なし",
 		"polish": "Brak potrzebnych towarów",
 		"ukrainian": "Вхідне сховище порожнє",
 		"slovak": "Prichádzajúci sklad je prázny",
@@ -2571,7 +2571,7 @@
 		"spanish": "Total de material transportado %amount%",
 		"danish": "Total antal ressourcer transporteret: %amount%",
 		"greek": "Συνολικά αγαθά που μεταφέρθηκαν:%amount%",
-		"japanese": "合計貨物輸送量: %amount%",
+		"japanese": "累積貨物輸送量: %amount%",
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
