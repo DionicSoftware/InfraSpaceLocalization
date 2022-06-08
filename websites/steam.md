@@ -84,6 +84,12 @@ A neach-togail baile ficsean-saidheans, far am bi sruth ghoireasan a’ dol tro 
 ### Danish//TODO-Devs
 En sci-fi bybygger, hvor strømmen af ressourcer går gennem din bys transportinfrastruktur. Byg en ekstrasolar effektivitet utopi fra ingenting. Start minedrift, planlæg produktion og fastlæg transportruter for at sikre en jævn forsyningskæde.
 
+### Japanese //TODO-Devs
+
+資源の流れが都市の交通インフラを駆け巡るSF都市建設ゲームです。何も無いところから太陽系外に効率的なユートピアを建設しましょう。採掘を始めて、スムーズなサプライチェーンを保証するための輸送ルートを構築しましょう。
+
+
+
 
 # Long Description - Translation Disclaimer
 *******************************************
@@ -293,6 +299,17 @@ Ude på kanten af det menneskelige rum kan du ikke bygge en by ved at bruge kred
 
 Når du har noget jern, kulstof, sand og svovl, er det tid til at oprette din første stålmølle og betonfabrik for at begynde at nedlægge noget infrastruktur. Selv fornødenheder som mad og ilt kræver en stabil produktionskæde, der ikke må brydes!
 
+### Japanese //TODO-Devs
+使うもの全てを生産する
+
+人類の領域の外であり、資金で都市を建築することはできません。代わりに最初の宇宙飛行士を採掘作業に配置し、いくらかの鉱石を入手する必要があります。
+
+鉄・炭素・砂・硫黄を手に入れたなら、インフラ建設を開始するために最初の製鉄所とコンクリート工場を建設する時です。食料や酸素といった必需品ですら堅実な生産チェーンが必要であり、これが壊れるようなことがあってはなりません！
+
+// Supplementary Comment: "人類の領域の外" is a close translation of "Out on the edges of human space" but is not natural Japanese. If you want natural Japanese, you should replace it with "未開の地" (benighted land) or "無人の惑星" (uninhabited planet).
+
+
+
 
 # Long Description - Transport Section
 **************************************
@@ -428,6 +445,15 @@ Bidh InfraSpace a’ dèanamh atharrais air a h-uile carbad. Feumaidh gach goire
 
 Faodaidh an lìonra rathaidean agad tòrr a làimhseachadh, ach às aonais do stiùireadh thig e gu stad. Tog mòr-rathaidean, cearcallan-rathaid, agus rathaidean ioma-shligheach gus dèanamh cinnteach gum bi cridhe cinneasachaidh a’ bhaile a’ cumail a’ dol.
 
+### Japanese //TODO-Devs
+交通インフラ
+
+InfraSpaceは、車両1台1台を全てシミュレートします。生産した各資源を加工のために工場に輸送し、各製品を消費するために住居に配送する必要があります。
+
+道路網は多くのものを処理できます。しかし、あなたが監督しなければ停滞し、しまいにはトラフィックに溺れることになります。高速道路・ラウンドアバウト・多数車線道路を建設し、都市における生産の心臓部が躍動し続けることを担保しましょう。
+
+
+
 
 # Long Description - Population Section
 ***************************************
@@ -557,6 +583,15 @@ Yerleşkeniz büyüdükce, kolonistlerinizin git gide artan konfor ihtiyaçları
 
 ### [WIP] Scottish Gaelic//TODO-Devs 
 
+### Japanese //TODO-Devs
+人口拡大
+
+最初の入植者は宇宙飛行士であり、最も勇敢で最高の人々です。食料とシェルターを与えれば、何が何でも前哨地を稼働させるでしょう。
+
+入植地が成長するにつれ、増えゆく仕事を科学者や技術者の雇用でカバーする必要があります。彼らには、もう少しの快適さが必要です。十分な規模の都市は、早かれ遅かれ更に多くの家族が住むでしょう。学校に通えるようにしたり、最新のVR製品を配送したりできるように計らいましょう。
+
+
+
 
 # Long Description - Difficulty Section
 ***************************************
@@ -657,4 +692,8 @@ Trafikstyring kan være omskiftelig, og overlevelse kan være svær. Du kan just
 
 ### [WIP] Scottish Gaelic//TODO-Devs 
 
+### Japanese //TODO-Devs
+必ずしも一生懸命プレイする必要は無い
+
+交通管理は時に気まぐれで、生存に困難が伴うこともあります。望むなら、この両方の難易度を調整して都市管理を簡単に(あるいは難しく)できます。
 
