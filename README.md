@@ -62,7 +62,9 @@
 ###### - **[SK]** Vložte súbory do priečinka hry a premenujte ho na "**localization**". Nezabudnite na **vytvorenie súboru "custom.txt"** a napísať tam nasledovné:
 ###### - **[CZ]** Vložte soubory do adresáře hry a přejmenujte ho na "**localization**". Nezapomeňte na **vytvoření souboru "custom.txt"** a napsat do něj následovné:
 ###### - **[HU]** Tedd ezt a mappát a játék mappádba és nevezd át "**localization**"-ra. Ne felejets el **készíteni egy "custom.txt"** ami a következőt tartalmazza:
-###### - **[TH]** นำโฟลเดอร์นี้วางลงไปในโฟลเดอร์เกมของคุณและเปลี่ยนชื่อเป็น "**localization**" และอย่าลืมสร้าง **ไฟล์ "custom.txt"** ซึ่งข้างไฟล์ในประกอบด้วย:
+
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/th.png"> นำโฟลเดอร์นี้วางลงไปในโฟลเดอร์เกมของคุณและเปลี่ยนชื่อเป็น "<b>localization</b>" และอย่าลืมสร้าง <b>ไฟล์ "<a href="#customtxt">Custom.txt</a>"</b> แล้วเขียนโครงสร้างตามนั้น  </p> 
+
 ###### - **[AR]** ضع هذا المجلد داخل مجلد اللعبة الخاصة بك وقم بتغيير اسمه إلى "**localization**". لا تنس أن **تنشئ ملف "custom.txt"** بداخله ما يلي:
 ###### - **[RO]** Pune acest folder în folderul jocului tău și redenumește-l "**localization**". Nu uita să **creezi un "custom.txt"** conţinând următoarele:
 ###### - **[GD]** Cuir am pasgan seo sa phasgan geama agad agus ath-ainmich e "**localization**". Na dì-chuimhnich a chruthachadh **a "custom.txt"** anns a bheil na leanas:
