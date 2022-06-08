@@ -69,7 +69,7 @@
 ###### - **[RO]** Pune acest folder în folderul jocului tău și redenumește-l "**localization**". Nu uita să **creezi un "custom.txt"** conţinând următoarele:
 ###### - **[GD]** Cuir am pasgan seo sa phasgan geama agad agus ath-ainmich e "**localization**". Na dì-chuimhnich a chruthachadh **a "custom.txt"** anns a bheil na leanas:
 ###### - **[DA]** Placer denne mappe i spillets mappe og omdøb den til "**localization**". husk at **oprette "custom.txt"** med følgende indhold:
-###### - **[JA]** このフォルダをゲームフォルダの中に置き、このフォルダ名を「**localization**」に変更してください。後述の内容で**「custom.txt」を作成する**ことを忘れないでください。
+###### - **[JA]** このフォルダをゲームフォルダの中に置き、このフォルダ名を「**localization**」に変更してください。後述の内容で **「custom.txt」を作成する**ことを忘れないでください。
 <br>
 
 # Custom.txt:
