@@ -188,4 +188,22 @@
 		"japanese": "おめでとう！\n\nあなたは宇宙船を修理し、 人類文明との通信を再確立しました。\n\n次に来るものはInfraspaceの アーリーアクセス中に明かされます。 現時点でできるのは、 街の建設を続けて素敵な街にすることです。",
 		"hungarian": "Gratulálunk!\n\nMegjavítottad az űrhajódat és visszaállítottad a kapcsolatot az emberi civilizációval.\n\nAmi ezután következik az ki fog derülni az InfraSpace Early Access-ben. Addig is, nyugodtan tudod folytatni városod építését hogy lenyűgöző legyen!",
 	},
+	
+	"message_researchBoostTitle": {
+		"english": "Research Boost: %tech%",
+		"german": "Forschungsboost: %tech%",
+	},
+	"message_researchBoostDesc": {
+		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nResearch on the technology \"%tech%\" has been boosted by %percentage%%.",
+		"german": "Wir haben die Reparaturen bei einer Komponente unseres Raumschiffs abgeschlossen: %spaceshippart%.\nDie Forschung an der Technologie \"%tech%\" wurde zu %percentage%% geboosted.",
+	},
+	
+	"message_spaceshipBonusTitle": {
+		"english": "Spaceship Part repaired: %spaceshippart%",
+		"german": "Raumschiffkomponente repariert: %spaceshippart%",
+	},
+	"message_spaceshipBonusDesc": {
+		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nAs a consequence, we receive the following bonus:\n\n%bonus%",
+		"german": "Wir haben die Reparaturen bei einer Komponente unseres Raumschiffs abgeschlossen: %spaceshippart%.\nDaraus hat sich folgender Bonus ergeben:\n\n%bonus%",
+	},
 }
