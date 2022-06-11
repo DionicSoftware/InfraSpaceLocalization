@@ -192,18 +192,22 @@
 	"message_researchBoostTitle": {
 		"english": "Research Boost: %tech%",
 		"german": "Forschungsboost: %tech%",
+		"japanese": "研究ブースト: %tech%",
 	},
 	"message_researchBoostDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nResearch on the technology \"%tech%\" has been boosted by %percentage%%.",
 		"german": "Wir haben die Reparaturen bei einer Komponente unseres Raumschiffs abgeschlossen: %spaceshippart%.\nDie Forschung an der Technologie \"%tech%\" wurde zu %percentage%% geboosted.",
+		"japanese": "宇宙船部品の 「%spaceshippart%」の 修理が完了しました。\n「%tech%」の 研究が %percentage%%ブーストされました。",
 	},
 	
 	"message_spaceshipBonusTitle": {
 		"english": "Spaceship Part repaired: %spaceshippart%",
 		"german": "Raumschiffkomponente repariert: %spaceshippart%",
+		"japanese": "宇宙船部品の修理が完了: %spaceshippart%",
 	},
 	"message_spaceshipBonusDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nAs a consequence, we receive the following bonus:\n\n%bonus%",
 		"german": "Wir haben die Reparaturen bei einer Komponente unseres Raumschiffs abgeschlossen: %spaceshippart%.\nDaraus hat sich folgender Bonus ergeben:\n\n%bonus%",
+		"japanese": "宇宙船部品の 「%spaceshippart%」の 修理が完了しました。\nその結果、次のボーナスを得ました。\n\n%bonus%",
 	},
 }
