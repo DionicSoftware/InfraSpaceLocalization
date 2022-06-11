@@ -296,7 +296,7 @@
 		"russian": "Исследование %techName%...    %progress%",
 		"chinese": "研究%techName%中...    %progress%",
 		"italian": "Ricerca di %techName%...    %progress%",
-		"japanese": "%techName%を研究中：進捗%progress%",
+		"japanese": "%techName%を研究中: 進捗%progress%",
 		"polish": "Badanie: %techName%...    %progress%",
 		"ukrainian": "Дослідження %techName%...    %progress%",
 		"slovak": "Vyskúm %techName%... %progress%",
@@ -362,7 +362,7 @@
 		"russian": "Вы разблокировали %techName%, теперь вам доступны строения:",
 		"chinese": "我们已解锁了%techName%，可以建造:",
 		"italian": "Abbiamo sbloccato %techName% ed adesso puoi costruire:",
-		"japanese": "%techName%の研究が終了し下記の建設が可能:",
+		"japanese": "%techName%の 研究が終了し、 下記の建物が建設可能になった:",
 		"polish": "Odblokowaliśmy nową technologię: %techName%. Możemy teraz zbudować:",
 		"ukrainian": "Ви розблокували %techName% і тепер вам доступні будови:",
 		"slovak": "Odomkli sme %techName% a teraz to môžeme postaviť:",
@@ -1286,7 +1286,7 @@
 		"slovak": "Tiež zmení smer cesty, ak nemáte vybratú náhradnú cestu",
 		"portuguese": "Também inverte a direção da estrada se você não tiver uma estrada substituta selecionada",
 		"czech": "Zároveň změní směr cesty, pokud nemáte vybranou náhradní cestu",
-		"japanese": "同種の道路が選択されている場合、進行方向が逆になります", // 意訳 (free translation)
+		"japanese": "同種の道路が選択されている場合、 進行方向が逆になります", // 意訳 (free translation)
 		"hungarian": "Visszaállítja az út irányát ha nincsen más út kijelölve.",
 		"thai": "สามารถย้อนทิศทางถนนหากคุณไม่ได้เลือกถนนที่จะแทนที่",
 		"turkish": "Eğer değiştirilecek yol seçili değilse yolun yönünü değiştirir.",
@@ -2050,7 +2050,7 @@
 		"italian": "Trascina il cursore del mouse tra i distretti per creare una regola di esportazione.\n\nI distretti senza regole di esportazione posso esportare beni ovunque.",
 		"russian": "Щелкните ЛКМ, чтобы нарисовать\nПКМ, чтобы стереть",
 		"spanish": "Mueve el cursor entre los distritos para crear una regla de exportación.\n\nLos distritos sin reglas de exportación pueden exportar bienes a donde sea.",
-		"japanese": "指定した地区間をドラッグして輸送ルールを設定します。\n\n輸送管理の無い地区は、どこへでも製品を輸送します。",
+		"japanese": "指定した地区間をドラッグして 輸送ルールを設定します。\n\n輸送管理の無い地区では、 どこへでも製品を輸送します。",
 		"polish": "Przeciągnij kursor myszy między dzielnicami, aby utworzyć drogę eksportową.\n\nDzielnice bez dróg eksportowych mogą wysyłać towary wszędzie.",
 		"ukrainian": "Перетягуйте вказівник миші між районами, щоб створити правило експорту.\n\nРайони без правил експорту можут експортувати товари куди завгодно.",
 		"slovak": "Potiahnutím kurzora myši medzi oblasťami vytvoríte pravidlo exportu.\n\nOblasti bez pravidiel exportu môžu vyvážať tovar kamkoľvek.",
@@ -2459,7 +2459,7 @@
 		"spanish": "El almacén de construcción guarda Cemento y Acero, los cuales necesitas para construir edificios e infraestructuras.",
 		"danish": "Lageret til byggematerialer opbevarer beton og stål, som du skal bruge til bygninger og infrastruktur.",
 		"greek": "Η αποθήκη για οικοδομικά υλικά αποθηκεύει μπετό και ατσάλι, που χρειάζεσαι για να κατασκευάσεις κτήρια και υποδομές.",
-		"japanese": "建築材料用の倉庫は、 コンクリートと鉄を貯蔵する。 これらは施設やインフラを建設するために必要になる。",
+		"japanese": "建築材料用の倉庫は、 コンクリートと鉄を貯蔵する。 これらは、 施設やインフラを 建設するために 必要になる。",
 	},
 	// train info panel
 	"train": {
@@ -2650,7 +2650,7 @@
 		"spanish": "Los raíles rojos indican segmentos donde los trenes podrían colisionar.",
 		"danish": "Røde skinner angiver segmenter, hvor tog kan støde sammen.",
 		"greek": "Οι κόκκινες γραμμές υποδεικνύουν κομμάτια που τα τρένα μπορεί να συγκρουστούν.",
-		"japanese": "赤色のレールは、列車が衝突する可能性があるセグメントを示す。",
+		"japanese": "赤色のレールは、 列車が衝突する可能性がある セグメントを示す。",	
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2667,7 +2667,7 @@
 		"spanish": "Los raíles naranjas muestran intersecciones. Estas se crean alrededor de segmentos rojos. En la mayoría de los casos solamente un tren entrará a la intersección cada vez.",
 		"danish": "Orange skinner viser skinnekryds. Disse er skabt omkring røde segmenter. I de fleste tilfælde kan kun ét tog køre ind i et vejkryds ad gangen.",
 		"greek": "Οι πορτοκαλί γραμμές δείχνουν διασταυρώσεις ραγών.Δημιουργούνται γύρω από κόκκινα κομμάτια.Στις περισσότερες περιπτώσεις μόνο ένα τρένο μπορεί να μπει σε μία διασταύρωση τη φορά.",
-		"japanese": "橙色のレールは、レール分岐点を示す。 赤色のセグメントの周りに作られる。 大抵の場合、1編成の列車のみが分岐点に進入できる。",
+		"japanese": "橙色のレールはレール分岐点を示す。 赤色のセグメントの周りに作られる。 大抵の場合、 1編成の列車のみが 分岐点に進入できる。",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2701,7 +2701,7 @@
 		"spanish": "El sistema de señalización previene que tus trenes colisionen o se bloqueen entre ellos.",
 		"danish": "Togsignalsystemet forhindrer dine tog i at kollidere eller blokere hinanden.",
 		"greek": "Το σύστημα σήμανσης τρένων αποτρέπει τα τρένα από να συγκρούονται και να καθυστερούν το ένα το άλλο",
-		"japanese": "鉄道信号システムは、列車の衝突やデッドロックを防止する。",
+		"japanese": "鉄道信号システムは、 列車の衝突やデッドロックを 防止する。",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -3141,7 +3141,7 @@
 		"german": "Diese Einstellung entfernt alle Staus.\nWähle dies aus, wenn dich InfraSpaces Verkehrsmanagement gar nicht interessiert.",
 		"french": "Ce réglage élimine les difficultés de circulation !\nSélectionnez cette option si vous n'êtes pas intéressé par le trafic d'InfraSpace.",
 		"thai": "การตั้งค่านี้ช่วยจะขจัดปัญหาการจราจร\nเลือกตัวเลือกนี้หากคุณไม่สนใจที่จะการเล่น InfraSpace แบบใช้การจราจร",
-		"japanese": "この設定は輸送難易度を無効化します！\nInfraSpaceの交通に関するゲーム性に興味が無い場合に選択してください。",
+		"japanese": "この設定は輸送難易度を無効化します！\nInfraSpaceの 交通に関するゲーム性に 興味が無い場合に 選択してください。",
 		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.", 
 	},
 	"truckRoundTrip_title": {
