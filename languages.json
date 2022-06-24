@@ -173,6 +173,7 @@
 		"thai": "Nederlands",
 		"danish": "Nederlands",
 		"swiss german": "Nederlands",
+		"farsi":"Nederlands",
 	},
 	"Ukrainian": {
 		"english": "Українська",
@@ -197,6 +198,7 @@
 		"thai": "Українська",
 		"danish": "Українська",
 		"swiss german": "Українська",
+		"farsi":"Українська",
 	},
 	"Russian": {
 		"english": "Русский",
@@ -221,6 +223,7 @@
 		"thai": "Русский",
 		"danish": "Русский",
 		"swiss german": "Русский",
+		"farsi":"Русский",
 	},
 	"Chinese": {
 		"english": "简体中文",
@@ -245,6 +248,7 @@
 		"thai": "简体中文",
 		"danish": "简体中文",
 		"swiss german": "简体中文",
+		"farsi":"简体中文",
 	},
 	"Korean": {
 		"english": "한국어",
@@ -269,6 +273,7 @@
 		"thai": "한국어",
 		"danish": "한국어",
 		"swiss german": "한국어",
+		"farsi":"한국어",
 	},
 	"Arabic": {
 		"english": "الإنجليزية",
@@ -293,6 +298,7 @@
 		"thai": "التايلاندية",
 		"danish": "التايلاندية",
 		"swiss german": "التايلاندية",
+		"farsi":"الفارسیه",
 	},
 	"Italian": {
 		"english": "Italiano",
@@ -317,6 +323,7 @@
 		"thai": "Italiano",
 		"danish": "Italiano",
 		"swiss german": "Italiano",
+		"farsi": "Italiano",
 	},
 	"Czech": {
 		"english": "Čeština",
@@ -341,6 +348,7 @@
 		"thai": "Čeština",
 		"danish": "Čeština",
 		"swiss german": "Čeština",
+		"farsi": "Čeština",
 	},
 	"Romanian": {
 		"english": "Română",
@@ -365,6 +373,7 @@
 		"thai": "Română",
 		"danish": "Română",
 		"swiss german": "Română",
+		"farsi":"Română",
 	},
 	"Japanese": {
 		"english": "日本語",
@@ -389,6 +398,8 @@
 		"thai": "日本語",
 		"danish": "日本語",
 		"swiss german": "日本語",
+		"farsi":"日本語",
+		
 	},
 	 "Polish": {
 		"english": "Polski",
@@ -413,6 +424,7 @@
 		"thai": "Polski",
 		"danish": "Polski",
 		"swiss german": "Polski",
+		"farsi":"Polski",
 	},
 	"Slovak": {
 		"english": "Slovenčina",
