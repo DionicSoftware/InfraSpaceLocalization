@@ -19,6 +19,7 @@
 		  "turkish":"Geliştirilmiş Rüzgar Türbini Kanatları",
 		  "danish":"Forbedret Vindmøllevinger",
 	  	  "romanian": "Palete îmbunătățite ale turbinei eoliene",
+		  "farsi":"پره های بهتر",
 	  },
 	  "upgradeDesc_improvedWindTurbineBlades":  {
 		  "english": "Adapted blades create less disturbance in the air. Wind turbines can be placed %amount%% closer to each other.",
@@ -39,7 +40,8 @@
 		  "thai": "ใบพัดดัดแปลงช่วยลดการรบกวนในอากาศ กังหันลมสามารถวางชิดกันได้ %amount%% เครื่อง",
 		  "turkish":"Uyum sağlamış türbin kanatları hava akımını daha az etkiler. Türbinler %%amount% daha yakın konulabilir.",
 		  "danish":"Forbedret vinger giver mindre forstyrrelser i luften. Vindmøller kan placeres %amount%% tættere på hinanden.",
-	  	  "romanian": "Lamele adaptate creează mai puține perturbări în aer. Turbinele eoliene pot fi plasate cu %amount%% mai aproape una de alta.",
+	  	  "romanian": "Lamele adaptate creează mai puține perturbări în aer. Turbinele eoliene pot fi plasate cu %amount%% mai aproape una de alta.
+		  "farsi":"پره های جدید اختلال کمتری در هوا ایجاد میکنند که باعث میشود شما بتوانید انها را %%amount% نزدیک تر به هم بگذارید",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
 		  "english": "Self Cleaning Solar Panels",
@@ -61,6 +63,7 @@
 		  "turkish":"Kendini Temizleyen Güneş Panelleri",
 		  "danish":"Selv-rensende Solcellepaneler",
 	  	  "romanian": "Panouri solare cu autocurățare",
+		  "farsi":"پنل های خود تمیز کننده",
 	  },
 	  "upgradeDesc_selfCleaningSolarPanels":  {
 		  "english": "Self cleaning panels improve power output by %amount%%.",
@@ -82,6 +85,7 @@
 		  "turkish":"Kendini temizleyen paneller %%amount% daha fazla enerji üretirler.",
 		  "danish":"Selv-rensende paneler forbedre elektricitets mængden med %amount%%.",
 	  	  "romanian": "Panourile cu autocurățare îmbunătățesc puterea de ieșire cu %amount%%.",
+		  "farsi":"پنل های خود تمیز کننده باعث گرفتن %amount%% بیشتر برق میشوند",
 	  },
 	  "upgrade_industrialWasteRecycling":  {
 		  "english": "Industrial Waste Recycling",
