@@ -280,7 +280,7 @@
 		"slovak": "Tvoje mesto sa degradovalo na úroveň \"%cityLevelName%\" ak máte menej ako %amount% Úroveň %level% občanov",
 		"portuguese": "Sua cidade será rebaixada para \"%cityLevelName%\" se você tiver menos de %amount% cidadãos nível %level%.",
 		"czech": "Tvé město degraduje na úroveň \"%cityLevelName%\", pokud máš méně než %amount% občanů úrovně %level%.",
-		"hungarian": "A városod lel lesz fokozva (\"%cityLevelName%\") ha kevesebb mint %amount% %level% szintű lakosod van.",
+		"hungarian": "A városod le lesz fokozva (\"%cityLevelName%\") ha kevesebb mint %amount% %level% szintű lakosod van.",
 		"thai": "เมืองของคุณจะถูกลดระดับเป็น \"%cityLevelName%\" หากคุณยังมีพลเมืองน้อยกว่า %amount% ระดับ %level%",
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
