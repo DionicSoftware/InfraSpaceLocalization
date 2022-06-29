@@ -17,7 +17,7 @@
 		"greek": "Άλφα",
 		"swiss german": "Alpha",
 		"japanese": "α",
-		"farsi": "الف",
+		"farsi": "آلفا",
 	},
 	"beta": {
 		"english": "Beta",
@@ -37,7 +37,7 @@
 		"greek": "Βήτα",
 		"swiss german": "Beta",
 		"japanese": "β",
-		"farsi": "ب",
+		"farsi": "بتا",
 	},
 	"gamma": {
 		"english": "Gamma",
@@ -57,7 +57,7 @@
 		"greek": "Γάμμα",
 		"swiss german": "Gamma",
 		"japanese": "γ",
-		"farsi": "جیم",
+		"farsi": "گاما",
 	},
 	"delta": {
 		"english": "Delta",
@@ -77,7 +77,7 @@
 		"greek": "Δέλτα",
 		"swiss german": "Delta",
 		"japanese": "δ",
-		"farsi": "دال",
+		"farsi": "دلتا",
 	},
 	"epsilon": {
 		"english": "Epsilon",
@@ -97,7 +97,7 @@
 		"greek": "Έψιλον",
 		"swiss german": "Epsilon",
 		"japanese": "ε",
-		"farsi": "ه",
+		"farsi": "اپسیلون",
 	},
 	"zeta": {
 		"english": "Zeta",
@@ -117,7 +117,7 @@
 		"greek": "Ζήτα",
 		"swiss german": "Zeta",
 		"japanese": "ζ",
-		"farsi": "واو",
+		"farsi": "زتا",
 	},
 	"theta": {
 		"english": "Theta",
@@ -137,7 +137,7 @@
 		"greek": "Θήτα",
 		"swiss german": "Theta",
 		"japanese": "θ",
-		"farsi": "زین",
+		"farsi": "تتا",
 	},
 	"iota": {
 		"english": "Iota",
@@ -157,7 +157,7 @@
 		"greek": "Ιότα",
 		"swiss german": "Iota",
 		"japanese": "η",
-		"farsi": "حا",
+		"farsi": "آیوتا",
 	},
 	"kappa": {
 		"english": "Kappa",
@@ -177,7 +177,7 @@
 		"greek": "Κάππα",
 		"swiss german": "Kappa",
 		"japanese": "κ",
-		"farsi": "طا",
+		"farsi": "کاپا",
 	},
 	"lambda": {
 		"english": "Lambda",
@@ -197,7 +197,7 @@
 		"greek": "Λάμδα",
 		"swiss german": "Lambda",
 		"japanese": "λ",
-		"farsi": "یا",
+		"farsi": "لامبدا",
 	},
 	"mu": {
 		"english": "Mu",
@@ -217,7 +217,7 @@
 		"greek": "Μι",
 		"swiss german": "Mu",
 		"japanese": "μ",
-		"farsi": "کاف",
+		"farsi": "میو",
 	},
 	"xi": {
 		"english": "Xi",
@@ -237,7 +237,7 @@
 		"greek": "Χι",
 		"swiss german": "Xi",
 		"japanese": "ξ",
-		"farsi": "لام",
+		"farsi": "زای",
 	},
 	"omicron": {
 		"english": "Omicron",
@@ -257,7 +257,7 @@
 		"greek": "Όμικρον",
 		"swiss german": "Omricon",
 		"japanese": "ο",
-		"farsi": "میم",
+		"farsi": "امیکرون",
 	},
 	"pi": {
 		"english": "Pi",
@@ -277,7 +277,7 @@
 		"greek": "Πι",
 		"swiss german": "Pi",
 		"japanese": "π",
-		"farsi": "نان",
+		"farsi": "پی",
 	},
 	"rho": {
 		"english": "Rho",
@@ -297,7 +297,7 @@
 		"greek": "Ρο",
 		"swiss german": "Rho",
 		"japanese": "ρ",
-		"farsi": "سین",
+		"farsi": "رو",
 	},
 	"sigma": {
 		"english": "Sigma",
@@ -317,7 +317,7 @@
 		"greek": "Σίγμα",
 		"swiss german": "Sigma",
 		"japanese": "σ",
-		"farsi": "عین",
+		"farsi": "سیگما",
 	},
 	"tau": {
 		"english": "Tau",
@@ -337,7 +337,7 @@
 		"greek": "Ταφ",
 		"swiss german": "Tau",
 		"japanese": "τ",
-		"farsi": "فا",
+		"farsi": "تاو",
 	},
 	"upsilon": {
 		"english": "Upsilon",
@@ -357,7 +357,7 @@
 		"greek": "Ύψιλον",
 		"swiss german": "Üpsilon",
 		"japanese": "υ",
-		"farsi": "صاد",
+		"farsi": "اوپسلان",
 	},
 	"phi": {
 		"english": "Phi",
@@ -377,7 +377,7 @@
 		"greek": "Φι",
 		"swiss german": "Phi",
 		"japanese": "φ",
-		"farsi": "قاف",
+		"farsi": "فی",
 	},
 	"chi": {
 		"english": "Chi",
@@ -397,7 +397,7 @@
 		"greek": "Χι",
 		"swiss german": "Chi",
 		"japanese": "χ",
-		"farsi": "را",
+		"farsi": "کای",
 	},
 	"psi": {
 		"english": "Psi",
@@ -417,7 +417,7 @@
 		"greek": "Ψι",
 		"swiss german": "Psi",
 		"japanese": "ψ",
-		"farsi": "شین",
+		"farsi": "سای",
 	},
 	"omega": {
 		"english": "Omega",
@@ -437,6 +437,6 @@
 		"greek": "Ωμέγα",
 		"swiss german": "Omega",
 		"japanese": "ω",
-		"farsi": "تا",
+		"farsi": "امگا",
 	},
 }
