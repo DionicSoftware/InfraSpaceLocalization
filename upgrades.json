@@ -40,7 +40,7 @@
 		  "thai": "ใบพัดดัดแปลงช่วยลดการรบกวนในอากาศ กังหันลมสามารถวางชิดกันได้ %amount%% เครื่อง",
 		  "turkish":"Uyum sağlamış türbin kanatları hava akımını daha az etkiler. Türbinler %%amount% daha yakın konulabilir.",
 		  "danish":"Forbedret vinger giver mindre forstyrrelser i luften. Vindmøller kan placeres %amount%% tættere på hinanden.",
-	  	  "romanian": "Lamele adaptate creează mai puține perturbări în aer. Turbinele eoliene pot fi plasate cu %amount%% mai aproape una de alta.
+	  	  "romanian": "Lamele adaptate creează mai puține perturbări în aer. Turbinele eoliene pot fi plasate cu %amount%% mai aproape una de alta.",
 		  "farsi":"پره های جدید اختلال کمتری در هوا ایجاد میکنند که باعث میشود شما بتوانید انها را %%amount% نزدیک تر به هم بگذارید",
 	  },
 	  "upgrade_selfCleaningSolarPanels":  {
