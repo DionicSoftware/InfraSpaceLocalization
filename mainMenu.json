@@ -477,7 +477,7 @@
 		"danish": "Er du sikker på du vil slette spillet  \"%save%\"? Det vil forsvinde for altid!",
 		"greek": "Είσαι σίγουρος ότι θες να διαγράψεις την αποθήκευση \"%save%\"; Θα χαθεί για πάντα",
 		"swiss german": "Bisch du dir sicher dass du de Spielstand \"%save%\" lösche wetsch? Er wird nümme widerherstellbar sii.",
-		"farsi": "ایا واقعا میخواهی  \"%save%\" را پاک کنید؟ برای همیشه از دست میرود!", 
+		"farsi": "ایا واقعا میخواهی  \"%save%\" را پاک کنید؟ برای همیشه از دست میرود!",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -816,7 +816,7 @@
 		"greek": "Ανάλυση",
 		"swiss german": "Uflösig",
 		"farsi":"کیفیت",
-		
+
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -1275,7 +1275,7 @@
 		"greek": "Κύλιση στην άκρη ποντικιού",
 		"swiss german": "Kamerastüürig mit Muus",
 		"farsi":"اسکرول کردن موس",
-		
+
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1405,7 +1405,7 @@
 		"greek": "Φόρτωση Κόσμου...",
 		"swiss german": "Wält ladä...",
 		"farsi":"باز کردن دنیا...",
-		
+
 	},
 	"reset": {
 		"english": "Reset",
@@ -1539,7 +1539,7 @@
 	"hooray": {
 		"english": "Hooray!",
 		"german": "Hurra!",
-		"french": "Hourra!",
+		"french": "Hourra !",
 		"dutch": "Hoera!",
 		"russian": "Ура!",
 		"chinese": "万岁!",
@@ -1840,7 +1840,7 @@
 		"swiss german": "Transportliniänä",
 		"farsi":"خط های جابجایی",
 		"japanese": "輸送ライン",
-	},	
+	},
 	"constructionKeybindings": {
 		"english": "Construction",
 		"german": "Bau",
@@ -3733,6 +3733,6 @@
 		"greek": "Δύσκολη",
 		"swiss german": "Schwär",
 		"farsi":"سخت",
-		
+
 	},
 }
