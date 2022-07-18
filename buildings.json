@@ -1530,6 +1530,7 @@
       "thai": "ถังเก็บอ็อกซิเจน",
       "japanese": "酸素タンク",
       "hungarian": "Oxigéntartály",
+      "czech": "Nádrž na kyslík",
   },
   "waterTank": {
       "english": "Water Tank",
@@ -1548,6 +1549,7 @@
       "thai": "ถังเก็บมีเทน",
       "japanese": "メタンタンク",
       "hungarian": "Metántartály",
+      "czech": "Nádrž na metan",
   },
   "waterAirFilter": {
       "english": "Water-Air-Filter",
@@ -1556,16 +1558,18 @@
       "russian": "Атмосферный конденсатор воды",
       "thai": "กรองน้ำและอากาศ",
       "japanese": "吸湿フィルター",  // 意訳 (free translation)
-      "hungarian": "Légkörvízszűrő"
+      "hungarian": "Légkörvízszűrő",
+      "czech": "Vodní vzduchový filtr",
   },
   "waterWellHydraulic": { // translation different than key
-      "english": "Ground Water Extractor",
+      "english": "GroudWater Extractor",
       "german": "Grundwasser-Extraktor",
       "french": "Extracteur d'eau souterraine",
       "russian": "Экстрактор грунтовых вод",
       "thai": "เครื่องดูดน้ำบาดาล",
       "japanese": "地下水抽出機",
       "hungarian": "Talajvíz kinyerő",
+      "czech": "Extrakce podzemní vody",
   },
   "methaneDrill": {
       "english": "Methane Drill",
@@ -1575,6 +1579,7 @@
       "thai": "ดอกสว่านมีเทน",
       "japanese": "メタン採掘機",
       "hungarian": "Metán fúró",
+      "czech": "Metanový vrták",
   },
   "methaneFermentationPlant": {
       "english": "Methane Fermentation Plant",
@@ -1584,6 +1589,7 @@
       "thai": "โรงหมักมีเทน",
       "japanese": "メタン発酵装置",
       "hungarian": "Metán erjesztő létesítmény",
+      "czech": "Závod na fermentaci metanu",
   },
   "methanePowerPlant": {
       "english": "Methane Power Plant",
@@ -1593,6 +1599,7 @@
       "thai": "โรงไฟฟ้ามีเทน",
       "japanese": "メタン発電所",
       "hungarian": "Metán erőmű",
+      "czech": "Metanová elektrárna",
   },
 
 
