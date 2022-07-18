@@ -184,7 +184,7 @@
 		"korean": "홈페이지",
 		"polish": "Strona internetowa",
 		"italian": "Sito web",
-		"czech": "Webstránka",
+		"czech": "Webová stránka",
 		"romanian": "Sait web",
 		"japanese": "Website",
 		"slovak": "Webstránka",
@@ -885,7 +885,7 @@
 		"korean": "전체화면 모드",
 		"italian": "Schermo intero",
 		"polish": "Pełny ekran",
-		"czech": "Fullscreen",
+		"czech": "Celá obrazovka",
 		"romanian": "Ecran complet",
 		"japanese": "フルスクリーン",
 		"slovak": "Celá obrazovka",
@@ -1806,6 +1806,7 @@
 		"swiss german": "Schnälli Kamerabewegig",
 		"farsi":"حرکت سریع دوربین",
 		"japanese": "カメラの高速移動",
+		"czech": "Rychlý pohyb kamery",
 	},
 
 	"cityShortcuts": {
@@ -1818,6 +1819,7 @@
 		"swiss german": "Stadt-Shortcuts",
 		"farsi":"میانبر های شهر",
 		"japanese": "都市のショートカット",
+		"czech": "Ovládání města",
 	},
 	"research": {
 		"english": "Research",
@@ -1829,6 +1831,7 @@
 		"swiss german": "Forschig",
 		"farsi":"تحقیق",
 		"japanese": "研究",
+		"czech": "Výzkum",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
@@ -1840,6 +1843,7 @@
 		"swiss german": "Transportliniänä",
 		"farsi":"خط های جابجایی",
 		"japanese": "輸送ライン",
+		"czech": "Dopravní linky",
 	},
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -1926,6 +1930,7 @@
 		"swiss german": "Präzisäs Bauä",
 		"farsi":"ساخت دقیق",
 		"japanese": "精密建設",  // 暫定訳 (provisional translation)
+		"czech": "Přesná konstrukce",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
@@ -1937,6 +1942,7 @@
 		"swiss german": "Shift (links) lang druckä",
 		"farsi":"کلید شیفت را نگه دارید(سمت چپ)",
 		"japanese": "左Shiftホールド",
+		"czech": "Podržte Shift (levý)",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -1964,6 +1970,7 @@
 		"swiss german": "Verschiäbä",
 		"farsi":"تکان دادن",
 		"japanese": "移動",
+		"czech": "Přesunout",
 	},
 	"delete": {
 		"english": "Delete",
@@ -1975,6 +1982,7 @@
 		"swiss german": "Löschä",
 		"farsi":"حذف کردن",
 		"japanese": "削除",
+		"czech": "Smazat",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
@@ -1986,6 +1994,7 @@
 		"swiss german": "Baumenüs",
 		"farsi":"منو ساخت",
 		"japanese": "建設メニュー",
+		"czech": "Stavební menu",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
@@ -1997,6 +2006,7 @@
 		"swiss german": "Shift (links) + Zahl",
 		"farsi":"کلید شیفت(سمت چپ) +عدد",
 		"japanese": "左Shift + 数字",
+		"czech": "Shift (levý) + číslo",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -2060,6 +2070,7 @@
 		"swiss german": "Normali Simulations-Gschwindigkeit",
 		"farsi":"سرعت شبیه سازی عادی",
 		"japanese": "シミュレーション速度：標準",
+		"czech": "Normální rychlost simulace",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
@@ -2071,6 +2082,7 @@
 		"swiss german": "Schnälli Simulations-Gschwindigkeit",
 		"farsi":"سرعت شبیه سازی تند",
 		"japanese": "シミュレーション速度：高速",
+		"czech": "Vysoká rychlost simulace",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2288,6 +2300,7 @@
 		"swiss german": "Schnällspeichere",
 		"farsi":"ذخیره سریع",
 		"japanese": "クイックセーブ",
+		"czech": "Rychlé uložení",
 	},
 	"quickload": {
 		"english": "Quick Load",
@@ -2299,6 +2312,7 @@
 		"swiss german": "Schnällladä",
 		"farsi":"باز کردن سریع",
 		"japanese": "クイックロード",
+		"czech": "Rychlé načtení",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -2745,7 +2759,7 @@
 		"italian": "Roadmap",
 		"japanese": "ロードマップ",
 		"polish": "Plany na przyszłość",
-		"czech": "Plány Do budoucna",
+		"czech": "Plány do budoucna",
 		"ukrainian": "Дорожня карта",
 		"slovak": "Plány do Budúcnosti",
 		"portuguese": "Roteiro",
