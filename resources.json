@@ -807,6 +807,7 @@
 		"thai": "น้ำ",
 		"japanese": "水",
 		"hungarian": "Víz",
+		"czech": "Voda",
 	},
 	"resource_methane": {
 		"english": "Methane",
@@ -816,6 +817,7 @@
 		"thai": "มีเทน",
 		"japanese": "メタン",
 		"hungarian": "Metán",
+		"czech": "Metan",
 	},
 	"resource_spaceshipModule": {
 		"english": "Spaceship Module",
@@ -825,6 +827,7 @@
 		"thai": "ส่วนเชื่อมต่อยานอวกาศ",
 		"japanese": "宇宙船モジュール",
 		"hungarian": "Űrhajó modul",
+		"czech": "Modul kosmické lodi",
 	},
 	"resource_fertilizer": {
 		"english": "Fertilizer",
@@ -909,6 +912,7 @@
 		"thai": "ขยะอินทรีย์",
 		"japanese": "有機廃棄物",
 		"hungarian": "Organikus hulladék", 
+		"czech": "Organický odpad",
 	},
 	"resource_goodFood": {
 		"english": "Good Meal",
