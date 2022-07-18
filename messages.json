@@ -180,6 +180,7 @@
 		"french": "Vaisseau spatial réparé !",
 		"japanese": "宇宙船が修理されました！",
 		"hungarian": "Űrhajó megjavítva!",
+		"czech": "Vesmírná loď byla opravena!",
 	},
 	"message_spaceshipRepairedDesc": {
 		"english": "Congratulations!\n\nYou have repaired your spaceship and have reestablished contact with the human civilization.\n\nWhat comes next will be revealed during InfraSpace's Early Access. For now, you can keep building your city and make it great!",
@@ -189,6 +190,7 @@
 		"french": "Félicitations !\n\nVous avez réparé votre vaisseau spatial et avez rétabli le contact avec la civilisation humaine.\n\nLa suite sera révélée pendant l'accès anticipé d'InfraSpace. Pour l'instant, vous pouvez continuer à développer votre ville et la rendre grandiose !",
 		"japanese": "おめでとう！\n\nあなたは宇宙船を修理し、 人類文明との通信を再確立しました。\n\n次に来るものはInfraspaceの アーリーアクセス中に明かされます。 現時点でできるのは、 街の建設を続けて素敵な街にすることです。",
 		"hungarian": "Gratulálunk!\n\nMegjavítottad az űrhajódat és visszaállítottad a kapcsolatot az emberi civilizációval.\n\nAmi ezután következik az ki fog derülni az InfraSpace Early Access-ben. Addig is, nyugodtan tudod folytatni városod építését hogy lenyűgöző legyen!",
+		"czech": "Gratulujeme!\n\nOpravili jste svou vesmírnou loď a obnovili jste kontakt s lidskou civilizací.\n\nCo přijde dál, bude odhaleno během Early Access's InfraSpace. Prozatím můžete své město budovat a dělat ho skvělým!",
 	},
 	
 	"message_researchBoostTitle": {
@@ -197,6 +199,7 @@
 		"french": "Boost de recherche : %tech%",
 		"russian": "Ускорение исследования: %tech%",
 		"japanese": "研究ブースト: %tech%",
+		"czech": "Posílení výzkumu: %tech%",
 	},
 	"message_researchBoostDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nResearch on the technology \"%tech%\" has been boosted by %percentage%%.",
@@ -204,6 +207,7 @@
 		"french": "Nous avons terminé les réparations d'une partie du vaisseau : %spaceshippart%.\nLa recherche de la technologie « %tech% » a été boostée de %percentage%%.",
 		"russian": "Мы завершили ремонт отсека вашего корабля: %spaceshippart%.\nИсследование технологии \"%tech%\" было продвинуто на %percentage%%.",
 		"japanese": "宇宙船部品の 「%spaceshippart%」の 修理が完了しました。\n「%tech%」の 研究が %percentage%%ブーストされました。",
+		"czech": "Dokončili jsme opravy na části naší vesmírné lodi: %spaceshippart%.\nVýzkum technologie \"%tech%\" byl posílen o %percentage%%.",
 	},
 	
 	"message_spaceshipBonusTitle": {
@@ -212,6 +216,7 @@
 		"french": "Partie du vaisseau réparée : %spaceshippart%",
 		"russian": "Отсек корабля был отремонтирован: %spaceshippart%",
 		"japanese": "宇宙船部品の修理が完了: %spaceshippart%",
+		"czech": "Část vesmírné lodi opravena: %spaceshippart%",
 	},
 	"message_spaceshipBonusDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nAs a consequence, we receive the following bonus:\n\n%bonus%",
@@ -219,5 +224,6 @@
 		"french": "Nous avons terminé les réparations d'une partie du vaisseau : %spaceshippart%.\nEn conséquence, nous recevons le bonus suivant :\n\n%bonus%",
 		"russian": "Мы завершили ремонт отсека вашего корабля: %spaceshippart%.\nСледовательно, вы получаете бонус:\n\n%bonus%",
 		"japanese": "宇宙船部品の 「%spaceshippart%」の 修理が完了しました。\nその結果、次のボーナスを得ました。\n\n%bonus%",
+		"czech": "Dokončili jsme opravy na části naší vesmírné lodi: %kosmická část lodi%.\V důsledku toho dostáváme následující bonus:\n\n%bonus%",
 	},
 }
