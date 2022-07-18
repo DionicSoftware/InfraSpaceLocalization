@@ -162,6 +162,7 @@
 		"thai":"ท่อออกซิเจน",
 		"japanese": "酸素パイプ",
 		"hungarian": "Oxigén csövek",
+		"czech": "Kyslíkové potrubí",
 	},
 	"pipe_water": {
 		"english": "Water Pipes",
@@ -171,6 +172,7 @@
 		"thai":"ท่อน้ำ",
 		"japanese": "水パイプ",
 		"hungarian": "Vízcsövek",
+		"czech": "Vodní potrubí",
 	},
 	"pipe_methane": {
 		"english": "Methane Pipes",
@@ -180,5 +182,6 @@
 		"thai":"ท่อมีเทน",
 		"japanese": "メタンパイプ",
 		"hungarian": "Metán csövek",
+		"czech": "Matanové potrubí",
 	},
 }
