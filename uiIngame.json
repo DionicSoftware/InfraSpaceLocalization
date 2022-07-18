@@ -1073,7 +1073,7 @@
 		"ukrainian": "Посилюється сусідніми будівлями",
 		"slovak": "Zvýšena efektivita susednou budovou",
 		"portuguese": "Impulsionado por edifícios vizinhos",
-		"czech": "Efektivita zvýšena sousední budovou.",
+		"czech": "Efektivita zvýšena sousední budovou:",
 		"hungarian": "Szomszédos épületek által jobb", //test
 		"thai": "แรงหนุนจากตึกข้างเคียง",
 		"turkish": "Komşu binalardan güçlendirilmiş",
@@ -1133,6 +1133,7 @@
 		"thai": "ท่อปฏิบัติการ",
 		"japanese": "パイプラインの運転",
 		"hungarian": "Csőhálózat működése:",
+		"czech": "Provoz potrubí:",
 	},
 	"spaceshipEfficiencyBoost": {
 		"english": "Spaceship Tech:",
@@ -1142,6 +1143,7 @@
 		"thai": "เทคโนโลยียานอวกาศ",
 		"japanese": "宇宙船の技術：",
 		"hungarian": "Űrhajó technológia:",
+		"czech": "Technologie kosmické lodi:",
 	},
 
 
@@ -1939,6 +1941,7 @@
 		"thai": "ท่อ",
 		"japanese": "パイプ",
 		"hungarian": "Csövek",
+		"czech": "Trubky",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2862,7 +2865,8 @@
 		"russian": "Система трубопроводов",
 		"thai": "โครงข่ายท่อ",
 		"japanese": "パイプネットワーク",
-		"hungarian": "Csőhálózat", 
+		"hungarian": "Csőhálózat",
+		"czech": "Potrubní síť",
 	},
 	"pipeNetworkInputPerMinute": { // can use produced instead of input or inflow
 		"english": "Inflow per minute: %amount%",
@@ -2872,6 +2876,7 @@
 		"thai": "การไหลเข้าของน้ำต่อนาที: %amount% น.",
 		"japanese": "流入量/分: %amount%",
 		"hungarian": "Percenkénti bemenet: %amount%",
+		"czech": "Přítok za minutu: %amount%",
 	},
 	"pipeNetworkOutputPerMinute": { // can use consumed instead of output or outflow
 		"english": "Outflow per minute: %amount%",
@@ -2881,6 +2886,7 @@
 		"thai": "การไหลออกของน้ำต่อนาที: %amount% น.",
 		"japanese": "流出量/分: %amount%",
 		"hungarian": "Percenkénti kimenet: %amount%",
+		"czech": "Odtok za minutu: %amount%",
 	},
 	"totalAmountInPipeNetwork": {
 		"english": "Total resources in pipe network",
@@ -2890,6 +2896,7 @@
 		"thai": "ทรัพยากรทั้งหมดในโครงข่ายท่อ",
 		"japanese": "パイプネットワーク内の総量",
 		"hungarian": "Összes forrás a csőhálózatban",
+		"czech": "Celkové zdroje v potrubní síti",
 	},
 	"pipes": {
 		"english": "Pipes",
@@ -2899,6 +2906,7 @@
 		"thai": "ท่อ",
 		"japanese": "パイプ",
 		"hungarian": "Csövek",
+		"czech": "Potrubí",
 	},
 	"buildings": {
 		"english": "Buildings",
@@ -2908,6 +2916,7 @@
 		"thai": "สิ่งปลูกสร้าง",
 		"japanese": "建物",
 		"hungarian": "Épületek",
+		"czech": "Budovy",
 	},
 	
 
@@ -2920,6 +2929,7 @@
 		"thai": "ยานอวกาศ",
 		"japanese": "宇宙船",
 		"hungarian": "Űrhajó",
+		"czech": "Kosmická loď",
 	},
 	"planet": {
 		"english": "Planet",
@@ -2929,6 +2939,7 @@
 		"russian": "Планета",
 		"japanese": "惑星",
 		"hungarian": "Bolygó",
+		"czech": "Planeta",
 	},
 	"spaceship_bridge": {
 		"english": "Bridge",
@@ -2938,6 +2949,7 @@
 		"thai": "สะพาน",
 		"japanese": "船橋",
 		"hungarian": "Híd",
+		"czech": "Můstek",
 	},
 	"spaceship_communicationArray": { // can use "antenna" instead of "array"
 		"english": "Communication Array",
@@ -2947,6 +2959,7 @@
 		"thai": "เสาอากาศสื่อสาร",
 		"japanese": "通信アンテナ",
 		"hungarian": "Kommunikációs antenna",
+		"czech": "Komunikační anténa",
 	},
 	"spaceship_computerDeck": {
 		"english": "Computer Deck",
@@ -2956,6 +2969,7 @@
 		"thai": "ชั้นคอมพิวเตอร์",
 		"japanese": "コンピューターデッキ",
 		"hungarian": "Számítógépes rendszerek",
+		"czech": "Počítačová paluba",
 	},
 	"spaceship_ftlEngine": {
 		"english": "FTL Engine",
@@ -2965,6 +2979,7 @@
 		"thai": "เครื่องยนต์เอฟทีเอล",
 		"japanese": "ワープエンジン",  // 日本語ではFTL全般をワープと呼ぶ傾向があるので。
 		"hungarian": "FTL motor",
+		"czech": "FTL Pohon",
 	},
 	"spaceship_ftlFuelCells": {
 		"english": "FTL Fuel Cells",
@@ -2974,6 +2989,7 @@
 		"thai": "เซลล์เชื้อเพลิงสำหรับเอฟทีเอล",
 		"japanese": "ワープ燃料セル",
 		"hungarian": "FTL üzemanyagcellák",
+		"czech": "FTL palivové články",
 	},
 	"spaceship_ftlTurbine": {
 		"english": "FTL Turbine",
@@ -2983,6 +2999,7 @@
 		"thai": "กังหันของเอฟทีเอล",
 		"japanese": "ワープタービン",
 		"hungarian": "FTL turbinák", 
+		"czech": "FTL Turbína",
 	},
 	"spaceship_orbitalScanners": {
 		"english": "Orbital Scanners",
@@ -2992,6 +3009,7 @@
 		"thai": "เครื่องตรวจค้นหาวงโคจร",
 		"japanese": "軌道スキャナー",
 		"hungarian": "Orbitális radar",
+		"czech": "Orbitální skenery",
 	},
 	"spaceship_passengerDeck": {
 		"english": "Passenger Deck",
@@ -3001,6 +3019,7 @@
 		"thai": "ชั้นผู้โดยสาร",
 		"japanese": "客室デッキ",
 		"hungarian": "Utasfedélzet",
+		"czech": "Paluba pro cestující",
 	},
 	"spaceship_hull": {
 		"english": "Hull",
@@ -3010,6 +3029,7 @@
 		"thai": "ตัวยาน",
 		"japanese": "船体",
 		"hungarian": "Hajótest",
+		"czech": "Trup",
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
@@ -3019,6 +3039,7 @@
 		"thai": "เกราะป้องกันรังสี",
 		"japanese": "放射線シールド",
 		"hungarian": "Sugárzás elleni pajzs"
+		"czech": "Radiační štít",
 	},
 	"spaceship_storageDeck": {
 		"english": "Storage Deck",
@@ -3028,6 +3049,7 @@
 		"thai": "ชั้นเก็บของ",
 		"japanese": "倉庫デッキ",
 		"hungarian": "Raktér",
+		"czech": "Skladovací paluba",
 	},
 	"spaceship_telescope": {
 		"english": "Telescope",
@@ -3037,6 +3059,7 @@
 		"thai": "กล้องโทรทรรศน์",
 		"japanese": "望遠鏡",
 		"hungarian": "Teleszkóp",
+		"czech": "Teleskop",
 	},
 	"spaceship_thermalSystems": {
 		"english": "Thermal Systems",
@@ -3046,6 +3069,7 @@
 		"thai": "ระบบระบายความร้อน",
 		"japanese": "熱システム",
 		"hungarian": "Termikus rendszerek",
+		"czech": "Tepelné systémy",
 	},
 
 
@@ -3057,6 +3081,7 @@
 		"thai": "ความคืบหน้าของคุณที่ทำให้ลูกเรือของคุณนั้นไว้วางใจคุณ เพิ่มการย้ายถิ่นฐานถาวรขึ้น 5%",
 		"japanese": "この進捗により乗務員の信頼を得る。 移住が永続的に5%増加する。",
 		"hungarian": "A haladásod meggyőzi a személyzet tagjait, hogy bízzanak benned. Végleges 5%-os bevándorlási bónusz.",
+		"czech": "Váš pokrok přesvědčí členy posádky, aby vám důvěřovali. Trvalé 5% zvýšení imigrace.",
 	},
 	"spaceshipUpgrade_instantImmigrationBoost": {
 		"english": "Your progress convinces crew members to trust you. %amount% people immediately come to the planet to help you.",
@@ -3066,6 +3091,7 @@
 		"thai": "ความคืบหน้าของคุณชักชวนให้ลูกเรือไว้วางใจคุณ 5 คนมาที่โลกทันทีเพื่อช่วยคุณ",
 		"japanese": "この進捗により乗務員の信頼を得る。 ただちに%amount%人が支援のために惑星に来る。",
 		"hungarian": "A haladásod meggyőzi a személyzet tagjait, hogy bízzanak benned. %amount% ember azonnal a bolygódra siet, hogy segítsen.",
+		"czech": "Váš pokrok přesvědčí členy posádky, aby vám důvěřovali. %amount% lidé okamžitě přijdou na planetu, aby vám pomohli.",
 	},
 	"spaceshipUpgrade_efficiencyBoost": {
 		"english": "Rerouting spaceship power increases all building efficiency permanently by %percentage%%.",
@@ -3075,6 +3101,7 @@
 		"thai": "ความคืบหน้าของคุณที่ทำให้ลูกเรือของคุณนั้นไว้วางใจคุณ จำนวน %amount% คนจะมาที่ดาวเคราะห์ทันทีเพื่อช่วยเหลือคุณ",
 		"japanese": "宇宙船の電力のリルートにより、 全ての施設の効率を永続的に5%向上する。",  // 暫定訳 (provisional translation)
 		"hungarian": "Az űrhajó energiáinak átirányítása megemeli az összes épület hatékonyságát véglegesen %percentage%%-kal.",
+		"czech": "Přesměrování energie vesmírné lodi trvale zvyšuje veškerou efektivitu budovy o %percentage%%.",
 	},
 	"spaceshipUpgrade_techBoost": {
 		"english": "With this module online, you receive a %percentage%% boost to a random technology.",
@@ -3084,6 +3111,7 @@
 		"thai": "เมื่อส่วนเชื่อมต่อนี้ออนไลน์ คุณจะได้รับการเร่งเป็นเทคโนโลยีแบบสุ่ม %percentage%%",
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つが%percentage%%のブーストを得る。",  // 暫定訳 (provisional translation)。要検証: boostは研究進捗の意味？
 		"hungarian": "Ha ez a modul aktív, akkor %percentage%%-os bónuszt kapsz egy véletlenszerű technológiára.",
+		"czech": "S tímto modulem online získáte %percentage%% navýšení náhodné technologie.",
 	},
 	"spaceshipUpgrade_techBoostFull": {
 		"english": "With this module online, you unlock one random technology.",
@@ -3093,6 +3121,7 @@
 		"thai": "เมื่อส่วนเชื่อมต่อนี้ออนไลน์ คุณจะปลดล็อกเทคโนโลยีแบบสุ่มได้หนึ่งอย่าง",
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つがアンロックされる。",
 		"hungarian": "Ezzel a modullal feloldassz egy véletlenszerű technológiát.",
+		"czech": "S tímto modulem online odemknete jednu náhodnou technologii.",
 	},
 
 	
@@ -3104,6 +3133,7 @@
 		"thai": "ทรัพยากรที่จำเป็น",
 		"japanese": "必要資源",
 		"hungarian": "Szükséges nyersanyagok",
+		"czech": "Potřebné zdroje",
 	},
 	"progress": {
 		"english": "Progress",
@@ -3113,6 +3143,7 @@
 		"thai": "ความคืบหน้า",
 		"japanese": "進捗",
 		"hungarian": "Előrehaladás",
+		"czech": "Pokrok",
 	},
 	"bonusWhenCompleted": {
 		"english": "Bonus when completed",
@@ -3122,6 +3153,7 @@
 		"thai": "เมื่อทำสำเร็จจะได้โบนัส",
 		"japanese": "完了時のボーナス",
 		"hungarian": "Bónusz, ha befejezett",
+		"czech": "Bonus po dokončení",
 	},
 	"repair": {
 		"english": "Repair",
@@ -3131,6 +3163,7 @@
 		"thai": "ซ่อมแซม",
 		"japanese": "修理",
 		"hungarian": "Javítás",
+		"czech": "Opravit",
 	},
 	
 	
@@ -3142,6 +3175,7 @@
 		"thai": "ตั้งค่าโลก",
 		"japanese": "ワールド設定",
 		"hungarian": "Világ beállításai",
+		"czech": "Nastavení světa",
 	},
 	"sandbox": {
 		"english": "Creative Mode",
@@ -3151,6 +3185,7 @@
 		"thai": "โหมดสร้างสรรค์",
 		"japanese": "クリエイティブモード",
 		"hungarian": "Kreatív mód",
+		"czech": "Kreativní režim",
 	},
 	"sandbox_researchUnlocked_title": {
 		"english": "All technologies unlocked",
@@ -3160,6 +3195,7 @@
 		"thai": "ปลดล็อคเทคโนโลยีทั้งหมด",
 		"japanese": "全ての技術をアンロックする",
 		"hungarian": "Összes technológia feloldva",
+		"czech": "Všechny technologie jsou odemčeny",
 	},
 	"sandbox_noBuildingCosts_title": {
 		"english": "No construction costs",
@@ -3169,6 +3205,7 @@
 		"thai": "ไม่มีค่าใช้จ่ายสำหรับการก่อสร้าง",
 		"japanese": "建設コストを免除する",
 		"hungarian": "Nincs építési költség",
+		"czech": "Žádné stavební náklady",
 	},
 	"sandbox_needsFulfilled_title": {
 		"english": "All citizen needs fulfilled",
@@ -3178,6 +3215,7 @@
 		"thai": "ตอบโจทย์ทุกความต้องการของผู้อยู่อาศัย",
 		"japanese": "市民の要求が全て充足される",
 		"hungarian": "Összes lakos igénye kielégítve",
+		"czech": "Všechny potřeby občanů splněny",
 	},
 	"trafficVisualsOnly_title": {
 		"english": "Cars ignore traffic",
@@ -3187,6 +3225,7 @@
 		"thai": "รถยนต์ละเลยการขับขี่ตามจราจร",
 		"japanese": "車両がトラフィックを無視する",
 		"hungarian": "Az autók figyelmen kívül hagyják a közlekedést",
+		"czech": "Auta dopravu ignorují",
 	},
 	"trafficVisualsOnly_desc": {
 		"english": "This setting eliminates traffic difficulty!\nSelect this if you are not interested in InfraSpace's traffic gameplay.",
@@ -3196,6 +3235,7 @@
 		"thai": "การตั้งค่านี้ช่วยจะขจัดปัญหาการจราจร\nเลือกตัวเลือกนี้หากคุณไม่สนใจที่จะการเล่น InfraSpace แบบใช้การจราจร",
 		"japanese": "この設定は輸送難易度を無効化します！\nInfraSpaceの 交通に関するゲーム性に 興味が無い場合に 選択してください。",
 		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.", 
+		"czech": "Toto nastavení eliminuje potíže s provozem!\nVyberte toto, pokud vás nezajímá herní režim InfraSpace.",
 	},
 	"truckRoundTrip_title": {
 		"english": "Cars make round trips", // or: cars drive back after delivery
@@ -3205,6 +3245,7 @@
 		"thai": "รถยนต์ขับไปกลับ",
 		"japanese": "輸送車両が往復する",
 		"hungarian": "Az autók visszafordulnak a kézbesítés után",
+		"czech": "Auta po dodání jezdí zpět",
 	},
 	"truckRoundTrip_desc": {
 		"english": "This setting makes traffic a lot more difficult.\nSelect this if you are looking for a challenge.",
@@ -3214,6 +3255,7 @@
 		"thai": "การตั้งค่านี้จะทำให้การจราจรยากขึ้นมาก เลือกตัวเลือกนี้หากคุณกำลังมองหาความท้าทายใหม่ๆ",
 		"japanese": "この設定は、交通を大幅に難しくします。\n挑戦を求めている場合に選択してください。",
 		"hungarian": "Ez a beállítás jelentősen megnehezíti a közlekedést.\nEzt akkor válaszd ki, ha kihívást akarsz.",
+		"czech": "Toto nastavení značně ztěžuje provoz.\nVyberte toto, pokud hledáte výzvu.",
 	},
 
 
@@ -3225,6 +3267,7 @@
 		"russian": "После неудачного варп-прыжка, ваш поврежденный корабль застрял где-то в галактике.",
 		"japanese": "ワープの失敗により、損傷した宇宙船が銀河系のどこかに取り残されました。",
 		"hungarian": "Egy sikertelen hiperűrugrás következtében az űhajód megsérült és egy ismeretlen galaxisba érkeztél.",
+		"czech": "Po neúspěšném warp skoku vaše poškozená vesmírná loď uvízne někde v galaxii.",
 	},
 	"introText_2": {
 		"english": "Your communication systems can't reach human space.",
@@ -3234,6 +3277,7 @@
 		"russian": "Ваш радиосигнал не может достать до земли",
 		"japanese": "通信システムは、人類の領域に届いていません。",
 		"hungarian": "A kommunikációs rendszerek nem tudják elérni az emberi űrt.",
+		"czech": "Vaše komunikační systémy nemohou dosáhnout lidského prostoru.",
 	},
 	"introText_3": {
 		"english": "You need to settle on one of the nearby planets to get the necessary resources and technology to repair your ship.",
@@ -3243,6 +3287,7 @@
 		"russian": "Вам надо поселится на ближайшей планете что-бы раздобыть нужные ресурсы и технологии для починки вашего корабля.",
  		"japanese": "必要な資源と技術を得て宇宙船を修理するために、近くの惑星に入植する必要があります。",
 		"hungarian": "Kénytelen vagy letelepedni egy közeli bolgyón, hogy megszerezd a szükséges nyersanyagokat és technológiákat az űrhajód megjavításához.",
+		"czech": "Musíte se usadit na jedné z blízkých planet, abyste získali potřebné zdroje a technologii k opravě své lodi.",
 	},
 
 	"dismiss": {
