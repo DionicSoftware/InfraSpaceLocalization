@@ -44,8 +44,6 @@
 		"romanian": "Necesar: %amount% MW",
 		"danish": "Påkrævet: %amount% MW",
 		"greek": "Απαιτούνται: %amount% MW",
-
-		
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -3480,6 +3478,7 @@
 		"german": "Ok",
 		"french": "Ok",
 		"spanish": "Ok",
+		"spanish-esp": "Ok",
 		"turkish": "Tamam",
 		"portuguese": "Ok",
 		"dutch": "Oké",
