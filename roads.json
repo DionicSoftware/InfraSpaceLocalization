@@ -163,6 +163,7 @@
 
 	"pipe_oxygen": {
 		"english": "Oxygen Pipes",
+		"italian": "Tubi per l'Ossigeno",
 		"german": "Sauerstoffrohre",
 		"french": "Tuyaux d'oxygène",
 		"spanish-esp": "Tuberías de Oxígeno",
@@ -174,6 +175,7 @@
 	},
 	"pipe_water": {
 		"english": "Water Pipes",
+		"italian": "Tubi per l'Acqua",
 		"german": "Wasserrohre",
 		"french": "Tuyaux d'eau",
 		"spanish-esp": "Tuberías de Agua",
@@ -185,6 +187,7 @@
 	},
 	"pipe_methane": {
 		"english": "Methane Pipes",
+		"italian": "Tubi per il Metano",
 		"german": "Methanrohre",
 		"french": "Tuyaux de méthane",
 		"spanish-esp": "Tuberías de Metano",
