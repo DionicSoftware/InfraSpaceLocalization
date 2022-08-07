@@ -3001,6 +3001,7 @@
 
 	"pipeNetwork": {
 		"english": "Pipe Network",
+		"italian": "Rete Idraulica",
 		"german": "Rohrsystem",
 		"french": "Réseau de tuyaux",
 		"spanish-esp": "Red de tuberías",
@@ -3012,6 +3013,7 @@
 	},
 	"pipeNetworkInputPerMinute": { // can use produced instead of input or inflow
 		"english": "Inflow per minute: %amount%",
+		"italian": "Afflusso per minuto: %amount%",
 		"german": "Produziert pro Minute: %amount%",
 		"french": "Débit entrant par minute : %amount%",
 		"spanish-esp": "Flujo de entrada por minuto: %amount%",
@@ -3023,6 +3025,7 @@
 	},
 	"pipeNetworkOutputPerMinute": { // can use consumed instead of output or outflow
 		"english": "Outflow per minute: %amount%",
+		"italian": "Deflusso per minuto: %amount%",
 		"german": "Verbraucht pro Minute: %amount%",
 		"french": "Débit sortant par minute : %amount%",
 		"spanish-esp": "Flujo de salida por minuto: %amount%",
@@ -3034,6 +3037,7 @@
 	},
 	"totalAmountInPipeNetwork": {
 		"english": "Total resources in pipe network",
+		"italian": "Risorse totali nella rete idraulica",
 		"german": "Gesamte Ressourcen im Rohrsystem",
 		"french": "Ressources totales dans le réseau de tuyaux",
 		"spanish-esp": "Recursos totales en la red de tuberías",
@@ -3045,6 +3049,7 @@
 	},
 	"pipes": {
 		"english": "Pipes",
+		"italian": "Tubi",
 		"german": "Rohre",
 		"french": "Tuyaux",
 		"spanish-esp": "Tuberías",
@@ -3056,6 +3061,7 @@
 	},
 	"buildings": {
 		"english": "Buildings",
+		"italian": "Edifici",
 		"german": "Gebäude",
 		"french": "Bâtiments",
 		"spanish-esp": "Edificios",
@@ -3070,6 +3076,7 @@
 
 	"spaceship": {
 		"english": "Spaceship",
+		"italian": "Nave Spaziale",
 		"german": "Raumschiff",
 		"french": "Vaisseau spatial",
 		"spanish-esp": "Nave espacial",
@@ -3081,6 +3088,7 @@
 	},
 	"planet": {
 		"english": "Planet",
+		"italian": "Pianeta",
 		"german": "Planet",
 		"thai": "ดาวเคราะห์",
 		"french": "Planète",
@@ -3092,6 +3100,7 @@
 	},
 	"spaceship_bridge": {
 		"english": "Bridge",
+		"italian": "Ponte",
 		"german": "Brücke",
 		"french": "Pont",
 		"spanish-esp": "Puente",
@@ -3103,6 +3112,7 @@
 	},
 	"spaceship_communicationArray": { // can use "antenna" instead of "array"
 		"english": "Communication Array",
+		"italian": "Vettore di Comunicazione",
 		"german": "Kommunikationsantennen",
 		"french": "Réseau communication",
 		"spanish-esp": "Antena de comunicación",
@@ -3114,6 +3124,7 @@
 	},
 	"spaceship_computerDeck": {
 		"english": "Computer Deck",
+		"italian": "Sala degli Elaboratori",
 		"german": "Computerdeck",
 		"french": "Espace informatique",
 		"spanish-esp": "Cubierta de computación",
@@ -3125,6 +3136,7 @@
 	},
 	"spaceship_ftlEngine": {
 		"english": "FTL Engine",
+		"italian": "Motore a Velocità Luce (FTL)",
 		"german": "FTL-Triebwerk",
 		"french": "Moteur supraluminique",
 		"spanish-esp": "Motor FTL",
@@ -3136,6 +3148,7 @@
 	},
 	"spaceship_ftlFuelCells": {
 		"english": "FTL Fuel Cells",
+		"italian": "Celle a combustibile Velocità Luce",
 		"german": "FTL-Treibstoffzellen",
 		"french": "Piles à combustible",
 		"spanish-esp": "Células de combustible FTL",
@@ -3147,6 +3160,7 @@
 	},
 	"spaceship_ftlTurbine": {
 		"english": "FTL Turbine",
+		"italian": "Turbine Velocità Luce",
 		"german": "FTL-Turbine",
 		"french": "Turbine supraluminique",
 		"spanish-esp": "Turbina FTL",
@@ -3158,6 +3172,7 @@
 	},
 	"spaceship_orbitalScanners": {
 		"english": "Orbital Scanners",
+		"italian": "Scanner Orbitale"
 		"german": "Orbitale Scanner",
 		"french": "Scanners orbitaux",
 		"spanish-esp": "Escáneres Orbitales",
@@ -3169,6 +3184,7 @@
 	},
 	"spaceship_passengerDeck": {
 		"english": "Passenger Deck",
+		"italian": "Ponte Passeggeri",
 		"german": "Passagierdeck",
 		"french": "Espace passagers",
 		"spanish-esp": "Cubierta",
@@ -3180,6 +3196,7 @@
 	},
 	"spaceship_hull": {
 		"english": "Hull",
+		"italian": "Armatura",
 		"german": "Rumpf",
 		"french": "Coque",
 		"spanish-esp": "Casco",
@@ -3191,6 +3208,7 @@
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
+		"italian": "Scudo Anti-radiazioni"
 		"german": "Strahlungsschild",
 		"french": "Bouclier anti-radiation",
 		"spanish-esp": "Escudo de Radiación",
@@ -3202,6 +3220,7 @@
 	},
 	"spaceship_storageDeck": {
 		"english": "Storage Deck",
+		"italian": "Magazzino della Nave",
 		"german": "Lagerdeck",
 		"french": "Zone de stockage",
 		"spanish-esp": "Cubierta de Almacenamiento",
@@ -3213,6 +3232,7 @@
 	},
 	"spaceship_telescope": {
 		"english": "Telescope",
+		"italian": "Telescopio",
 		"german": "Teleskop",
 		"french": "Télescope",
 		"spanish-esp": "Telescopio",
@@ -3224,6 +3244,7 @@
 	},
 	"spaceship_thermalSystems": {
 		"english": "Thermal Systems",
+		"italian": "Sistemi Termici",
 		"german": "Thermalsysteme",
 		"french": "Systèmes thermiques",
 		"spanish-esp": "Sistemas Térmicos",
@@ -3237,6 +3258,7 @@
 
 	"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
+		"italian": "I tuoi progressi convincono i membri dell'equipaggio a credere in te. Ricevi un aumento del 5% all'immigrazione",
 		"german": "Dein Fortschritt überzeugt Crewmitglieder. Immigrationsrate permanent um 5% erhöht.",
 		"french": "Vos progrès convainquent les membres de l'équipage de vous faire confiance. Augmentation permanente de 5% de l'immigration.",
 		"spanish-esp": "Tu progreso convence a miembros de la tripulación a confiar en ti. Incremento de inmigración permanente del 5%.",
@@ -3248,6 +3270,7 @@
 	},
 	"spaceshipUpgrade_instantImmigrationBoost": {
 		"english": "Your progress convinces crew members to trust you. %amount% people immediately come to the planet to help you.",
+		"italian": "I tuoi progressi convincono i membri dell'equipaggio a credere in te. %amount% persone arrivano immediatamente ad aiutarti.",
 		"german": "Dein Fortschritt überzeugt Crewmitglieder. %amount% Leute kommen zu deiner Stadt um zu helfen.",
 		"french": "Vos progrès convainquent les membres de l'équipage de vous faire confiance. %amount% personnes viennent immédiatement sur la planète pour vous aider.",
 		"spanish-esp": "Tu progreso convence a miembros de la tripulación a confiar en ti. %amount% personas vienen inmediatamente a tu planeta a ayudarte.",
@@ -3259,6 +3282,7 @@
 	},
 	"spaceshipUpgrade_efficiencyBoost": {
 		"english": "Rerouting spaceship power increases all building efficiency permanently by %percentage%%.",
+		"italian": "Il dirottamento dell'energia della Nave Spaziale incrementa permanentemente l'efficienza di tutti gli edifici del %percentage%%.",
 		"german": "Das Umleiten der Raumschiffsenergie erhöht die Effizienz von allen Gebäuden permanent um %percentage%%.",
 		"french": "Le réacheminement de la puissance des vaisseaux spatiaux augmente l'efficacité de tous les bâtiments de façon permanente de %percentage%%.",
 		"spanish-esp": "La redirección de la energía de la nave espacial incrementa la eficiencia de todos tus edificios en un %percentage%%.",
@@ -3270,6 +3294,7 @@
 	},
 	"spaceshipUpgrade_techBoost": {
 		"english": "With this module online, you receive a %percentage%% boost to a random technology.",
+		"italian": "Con questo modulo attivato ricevi un aumento del %percentage%% a una tecnologia casuale.",
 		"german": "Durch die Reparatur dieses Moduls erhältst du einen Fortschrittsboost von %percentage%% zu einer zufälligen Technolgie.",
 		"french": "Avec ce module fonctionnel, vous recevez un boost de %percentage%% sur une technologie aléatoire.",
 		"spanish-esp": "Con este módulo activo recibirás un %percentage%% de incremento en una tecnología aleatoria.",
@@ -3281,6 +3306,7 @@
 	},
 	"spaceshipUpgrade_techBoostFull": {
 		"english": "With this module online, you unlock one random technology.",
+		"italian": "Con questo modulo attivato sblocchi una tecnologia casuale.",
 		"german": "Durch die Reparatur dieses Moduls schaltest du eine zufällige Technologie frei.",
 		"french": "Avec ce module fonctionnel, vous déverrouillez une technologie aléatoire.",
 		"spanish-esp": "Con este módulo activo recibirás una tecnología aleatoria.",
@@ -3294,6 +3320,7 @@
 	
 	"necessaryResources": {
 		"english": "Necessary Resources",
+		"italian": "Risorse Necessarie",
 		"german": "Notwendige Ressourcen",
 		"french": "Ressources nécessaires",
 		"spanish-esp": "Recursos necesarios",
@@ -3305,6 +3332,7 @@
 	},
 	"progress": {
 		"english": "Progress",
+		"italian": "Progressi",
 		"german": "Fortschritt",
 		"french": "Progrès",
 		"spanish-esp": "Progreso",
@@ -3316,6 +3344,7 @@
 	},
 	"bonusWhenCompleted": {
 		"english": "Bonus when completed",
+		"italian": "Bonus al completamento",
 		"german": "Bonus wenn abgeschlossen",
 		"french": "Bonus à l'achèvement",
 		"spanish-esp": "Bonus al completar",
@@ -3327,6 +3356,7 @@
 	},
 	"repair": {
 		"english": "Repair",
+		"italian": "Ripara",
 		"german": "Reparieren",
 		"french": "Réparer",
 		"spanish-esp": "Reparar",
@@ -3340,6 +3370,7 @@
 	
 	"worldSettings": {
 		"english": "World Settings",
+		"italian": "Impostazioni del Mondo",
 		"german": "Welteinstellungen",
 		"french": "Paramètres du monde",
 		"spanish-esp": "Ajustes del mundo",
@@ -3351,6 +3382,7 @@
 	},
 	"sandbox": {
 		"english": "Creative Mode",
+		"italian": "Modalità Creativa",
 		"german": "Kreativer Modus",
 		"french": "Mode créatif",
 		"spanish-esp": "Modo creativo",
@@ -3362,6 +3394,7 @@
 	},
 	"sandbox_researchUnlocked_title": {
 		"english": "All technologies unlocked",
+		"italian": "Tutte le tecnologie sbloccate",
 		"german": "Alle Technologien freigeschalten",
 		"french": "Toutes les technologies sont déverrouillées",
 		"spanish-esp": "Todas las tecnologías desbloqueadas",
@@ -3373,6 +3406,7 @@
 	},
 	"sandbox_noBuildingCosts_title": {
 		"english": "No construction costs",
+		"italian": "Nessun costo di costruzione",
 		"german": "Keine Baukosten",
 		"french": "Aucun coût de construction",
 		"spanish-esp": "Construcción gratuita",
@@ -3384,6 +3418,7 @@
 	},
 	"sandbox_needsFulfilled_title": {
 		"english": "All citizen needs fulfilled",
+		"italian": "Tutti i bisogni dei cittadini soddisfatti",
 		"german": "Alle Bedürfnisse der Einwohner erfüllt",
 		"french": "Tous les besoins des citoyens sont satisfaits",
 		"spanish-esp": "Todas las necesidades de los ciudadanos satisfechas",
@@ -3395,6 +3430,7 @@
 	},
 	"trafficVisualsOnly_title": {
 		"english": "Cars ignore traffic",
+		"italian": "Le auto ignorano il traffico",
 		"german": "Autos ignorieren Staus",
 		"french": "Les véhicules ignorent la circulation",
 		"spanish-esp": "Los coches ignoran el tráfico",
@@ -3406,6 +3442,7 @@
 	},
 	"trafficVisualsOnly_desc": {
 		"english": "This setting eliminates traffic difficulty!\nSelect this if you are not interested in InfraSpace's traffic gameplay.",
+		"italian": "Questa impostazione elimina la difficoltà del traffico!\nSelezionala se non ti interessa la gestione del traffico di InfraSpace.",
 		"german": "Diese Einstellung entfernt alle Staus.\nWähle dies aus, wenn dich InfraSpaces Verkehrsmanagement gar nicht interessiert.",
 		"french": "Ce réglage élimine les difficultés de circulation !\nSélectionnez cette option si vous n'êtes pas intéressé par le trafic d'InfraSpace.",
 		"spanish-esp": "Esta opción elimina la dificultad del tráfico!\nSelecciónala si no estás interesado en jugar con el tráfico de InfraSpace.",
@@ -3417,6 +3454,7 @@
 	},
 	"truckRoundTrip_title": {
 		"english": "Cars make round trips", // or: cars drive back after delivery
+		"italian": "Le auto devono tornare indietro",
 		"german": "Autos fahren nach Lieferung wieder zurück",
 		"french": "Les véhicules font des allers-retours",
 		"spanish-esp": "Los vehículos realizan las rutas de ida y vuelta",
@@ -3428,6 +3466,7 @@
 	},
 	"truckRoundTrip_desc": {
 		"english": "This setting makes traffic a lot more difficult.\nSelect this if you are looking for a challenge.",
+		"italian": "Questa impostazione rende il traffico molto più difficile.\nSelezionala se sei in cerca di sfide.",
 		"german": "Diese Einstellung macht Verkehr viel schwierig.\nWähle dies aus, wenn du nach einer Herausforderung suchst.",
 		"french": "Ce paramètre rend la circulation beaucoup plus difficile.\nSélectionnez cette option si vous cherchez à relever un défi.",
 		"spanish-esp": "Este ajuste hace que el tráfico sea mucho más difícil.\nSelecciónalo si estás buscando un reto.",
@@ -3441,6 +3480,7 @@
 
 	"introText_1": {
 		"english": "After a failed warp jump, your damaged spaceship is stranded somewhere in the galaxy.",
+		"italian": "Dopo un salto iperspaziale fallito, la tua nave spaziale è rimasta fortemente danneggiata da qualche parte nella Galassia.",
 		"german": "Nach einem fehlgeschlagenem Warpsprung ist euer schwer beschädigtes Raumschiff irgendwo in der Galaxie gestrandet.",
 		"thai": "หลังจากการวาร์ปล้มเหลว ยานอวกาศที่เสียหายของคุณติดอยู่ที่ใดสักทีที่หนึ่งในกาแล็กซี",
 		"french": "Après un incident lors d'un saut en distorsion, votre vaisseau spatial fortement endommagé s'est échoué quelque part dans la galaxie.",
@@ -3452,6 +3492,7 @@
 	},
 	"introText_2": {
 		"english": "Your communication systems can't reach human space.",
+		"italian": "Il tuo sistema di comunicazione non riesce a raggiungere lo Spazio umano.",
 		"german": "Eure Kommunikationsysteme können keine anderen Menschen erreichen.",
 		"thai": "ระบบสื่อสารของคุณไม่สามารถเข้าถึงพื้นที่ของมนุษย์ได้",
 		"french": "Vos systèmes de communication ne peuvent plus atteindre l'espace humain.",
@@ -3463,6 +3504,7 @@
 	},
 	"introText_3": {
 		"english": "You need to settle on one of the nearby planets to get the necessary resources and technology to repair your ship.",
+		"italian": "Hai bisogno di stabilirti in uno dei pianeti limitrofi per raccogliere le risorse e sviluppare le tecnologie necessarie per riparare la tua nave.",
 		"german": "Du musst dich auf einem der näheren Planeten niederlassen, um die notwendigen Ressourcen und Technologien für die Reperatur eures Schiffs zu bekommen.",
 		"thai": "คุณต้องตั้งรกรากบนดาวเคราะห์ดวงใดดวงหนึ่งที่อยู่ใกล้เคียงเพื่อหาทรัพยากรและเทคโนโลยีที่จำเป็นในการซ่อมยานของคุณ",
 		"french": "Vous devez donc vous installer sur l'une des planètes voisines pour obtenir les ressources et la technologie nécessaires à la réparation de votre vaisseau.",
@@ -3475,6 +3517,7 @@
 
 	"dismiss": {
 		"english": "Ok",
+		"italian": "Va bene",
 		"german": "Ok",
 		"french": "Ok",
 		"spanish": "Ok",
