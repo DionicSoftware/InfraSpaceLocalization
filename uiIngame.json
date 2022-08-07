@@ -3172,7 +3172,7 @@
 	},
 	"spaceship_orbitalScanners": {
 		"english": "Orbital Scanners",
-		"italian": "Scanner Orbitale"
+		"italian": "Scanner Orbitale",
 		"german": "Orbitale Scanner",
 		"french": "Scanners orbitaux",
 		"spanish-esp": "Escáneres Orbitales",
@@ -3208,7 +3208,7 @@
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
-		"italian": "Scudo Anti-radiazioni"
+		"italian": "Scudo Anti-radiazioni",
 		"german": "Strahlungsschild",
 		"french": "Bouclier anti-radiation",
 		"spanish-esp": "Escudo de Radiación",
