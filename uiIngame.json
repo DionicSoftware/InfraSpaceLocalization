@@ -2066,7 +2066,7 @@
 		"dutch": "%amount% %resourceName% per minuut gedolven",
 		"chinese": "每分钟开采 %amount% %resourceName%",
 		"russian": "%amount% %resourceName% добывается каждую минуту",
-		"italian": "Estratte %amount% %resourcesName% al minuto",
+		"italian": "Estratte %amount% %resourceName% al minuto",
 		"spanish": "Extrayendo %amount% de %resourceName% por minuto",
 		"spanish-esp": "Extrayendo %amount% de %resourceName% por minuto",
 		"japanese": "%resourceName%の採掘量: %amount%/分",
