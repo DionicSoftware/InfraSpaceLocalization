@@ -76,6 +76,7 @@
   },
   "tech_pipes": {
     "english": "Pipes",
+    "italian": "Tubazioni",	  
     "german": "Rohre",
     "french": "Tuyaux",
     "spanish-esp": "Tuberías",
@@ -237,6 +238,7 @@
   },
   "tech_methane": {
     "english": "Methane",
+    "Italian": "Metano",	  
     "german": "Methan",
     "french": "Méthane",
     "spanish-esp": "Metano",
@@ -248,6 +250,7 @@
   },
   "tech_tanks": {
     "english": "Tanks",
+    "Italian": "Serbatoi",	  
     "german": "Tanks",
     "french": "Réservoirs",
     "spanish-esp": "Tanques",
@@ -334,6 +337,7 @@
   },
   "tech_spaceshipConstruction": {
     "english": "Spaceship Construction",
+    "Italian": "Costruzione della Nave Spaziale",	  
     "german": "Raumschiffkonstruktion",
     "french": "Construction spatiale",
     "spanish-esp": "Construcción de Nave Espacial",
@@ -420,6 +424,7 @@
   },
   "tech_methanePowerPlants": {
     "english": "Methane Power Plants",
+    "Italian": "Generatore a Metano",	  
     "german": "Methankraftwerke",
     "french": "Centrales au méthane",
     "spanish-esp": "Plantas Energéticas de Metano",
@@ -481,6 +486,7 @@
   },
   "tech_groundWaterExtraction": {
     "english": "Ground Water Extraction",
+    "Italian": "Estrazione dell'Acqua dal sottosuolo",	  
     "german": "Grundwasser-Extraktion",
     "french": "Extraction d'eau souterraine",
     "spanish-esp": "Extracción de Agua Subterránea",
@@ -717,6 +723,7 @@
   },
   "tech_methaneFermentation": {
     "english": "Methane Fermentation",
+    "Italian": "Fermentazione del Metano",	  
     "german": "Methangärung",
     "french": "Fermentation du méthane",
     "spanish-esp": "Fermentación del Metano",
