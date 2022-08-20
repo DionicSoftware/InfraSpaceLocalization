@@ -123,6 +123,7 @@
 		"swiss german": "Schinä",
 		"farsi":"ریل قطار",
 		"japanese": "レール",
+		"chinese": "铁轨",
 	},
 	"rail_oneWay_highspeed": {
 		"english": "High Speed Rail",
@@ -140,7 +141,8 @@
 		"swiss german": "Hochgschwindigketsschinä",
 		"farsi":"ریل پرسرعت",
 		"japanese": "高速レール",
-		"hungarian": "Nagysebességű sín"
+		"hungarian": "Nagysebességű sín",
+		"chinese": "高速铁轨",
 	},
 	"rail_oneWay_superhighspeed": {
 		"english": "Lightning Rail",
@@ -158,7 +160,8 @@
 		"swiss german": "Blitzschnälli Schinä",
 		"farsi":"ریل سرعت نور",
 		"japanese": "超高速レール",
-		"hungarian": "Szupersebességű sín"
+		"hungarian": "Szupersebességű sín",
+		"chinese": "超高速铁轨",
 	},
 
 	"pipe_oxygen": {
@@ -172,6 +175,7 @@
 		"japanese": "酸素パイプ",
 		"hungarian": "Oxigén csövek",
 		"czech": "Kyslíkové potrubí",
+		"chinese": "氧气管道",
 	},
 	"pipe_water": {
 		"english": "Water Pipes",
@@ -184,6 +188,7 @@
 		"japanese": "水パイプ",
 		"hungarian": "Vízcsövek",
 		"czech": "Vodní potrubí",
+		"chinese": "水管",
 	},
 	"pipe_methane": {
 		"english": "Methane Pipes",
@@ -196,5 +201,6 @@
 		"japanese": "メタンパイプ",
 		"hungarian": "Metán csövek",
 		"czech": "Matanové potrubí",
+		"chinese": "天然气管道",
 	},
 }

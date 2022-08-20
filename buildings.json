@@ -1592,6 +1592,7 @@
       "japanese": "酸素タンク",
       "hungarian": "Oxigéntartály",
       "czech": "Nádrž na kyslík",
+      "chinese": "氧气储气罐",
   },
   "waterTank": {
       "english": "Water Tank",
@@ -1603,6 +1604,7 @@
       "thai": "ถังเก็บน้ำ",
       "japanese": "貯水タンク",
       "hungarian": "Víztartály", 
+      "chinese": "蓄水池",
   },
   "methaneTank": {
       "english": "Methane Tank",
@@ -1615,6 +1617,7 @@
       "japanese": "メタンタンク",
       "hungarian": "Metántartály",
       "czech": "Nádrž na metan",
+      "chinese": "天然气储气罐",
   },
   "waterAirFilter": {
       "english": "Water-Air-Filter",
@@ -1627,6 +1630,7 @@
       "japanese": "吸湿フィルター",  // 意訳 (free translation)
       "hungarian": "Légkörvízszűrő",
       "czech": "Vodní vzduchový filtr",
+      "chinese": "空气制水机",
   },
   "waterWellHydraulic": { // translation different than key
       "english": "GroudWater Extractor",
@@ -1639,6 +1643,7 @@
       "japanese": "地下水抽出機",
       "hungarian": "Talajvíz kinyerő",
       "czech": "Extrakce podzemní vody",
+      "chinese":"潜水泵",
   },
   "methaneDrill": {
       "english": "Methane Drill",
@@ -1651,6 +1656,7 @@
       "japanese": "メタン採掘機",
       "hungarian": "Metán fúró",
       "czech": "Metanový vrták",
+      "chinese": "天然气井",
   },
   "methaneFermentationPlant": {
       "english": "Methane Fermentation Plant",
@@ -1663,6 +1669,7 @@
       "japanese": "メタン発酵装置",
       "hungarian": "Metán erjesztő létesítmény",
       "czech": "Závod na fermentaci metanu",
+      "chinese": "沼气发酵池",
   },
   "methanePowerPlant": {
       "english": "Methane Power Plant",
@@ -1675,6 +1682,7 @@
       "japanese": "メタン発電所",
       "hungarian": "Metán erőmű",
       "czech": "Metanová elektrárna",
+      "chinese": "沼气发电厂",
   },
 
 
@@ -1943,6 +1951,7 @@
     "swiss german": "Bahnhof %name%",
     "farsi":" %name$ ایستگاه قطار",
     "japanese": "鉄道駅%name%",
+    "chinese": "%name%站",
   },
   "trainstation_1R": {
     "english": "Mini Train Station",
@@ -1955,6 +1964,7 @@
     "japanese": "ミニ鉄道駅",
     "hungarian": "Mini vasútállomás",
     "czech": "Mini železniční stanice",
+    "chinese": "微型火车站",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1976,6 +1986,7 @@
     "swiss german": "Chlinä Bahnhof",
     "farsi":"ایستگاه قطار کوچک",
     "japanese": "小型鉄道駅",
+    "chinese": "小型火车站",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -1997,6 +2008,7 @@
     "swiss german": "Mittlerä Bahnhof",
     "farsi":"ایستگاه قطار متوسط",
     "japanese": "中型鉄道駅",
+    "chinese": "中型火车站",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -2018,6 +2030,7 @@
     "swiss german": "Grossä Bahnhof",
     "farsi":"ایستگاه قطار بزرگ",
     "japanese": "大型鉄道駅",
+    "chinese": "大型火车站",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -2039,5 +2052,6 @@
     "swiss german": "Hauptbahnhof",
     "farsi":"ایستگاه قطار مرکزی",
     "japanese": "基幹鉄道駅",
+    "chinese": "中央火车站",
   },
 }

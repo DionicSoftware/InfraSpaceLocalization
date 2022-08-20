@@ -1185,6 +1185,7 @@
 		"japanese": "パイプラインの運転",
 		"hungarian": "Csőhálózat működése:",
 		"czech": "Provoz potrubí:",
+		"chinese": "管道运行：",
 	},
 	"spaceshipEfficiencyBoost": {
 		"english": "Spaceship Tech:",
@@ -1215,7 +1216,8 @@
 		"danish": "Intet Gitter",
 		"greek": "Καθόλου Πλέγμα",
 		"japanese": "グリッドなし",
-		"hungarian": "Nincs négyzetháló"
+		"hungarian": "Nincs négyzetháló",
+		"chinese": "关闭网格",
 	},
 	"gridStraight": {
 		"english": "0° Grid",
@@ -1232,6 +1234,7 @@
 		"greek": "0° Πλέγμα",
 		"japanese": "0° グリッド",
 		"hungarian": "0° Négyzetháló",
+		"": "0° 网格",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
@@ -1247,7 +1250,8 @@
 		"danish": "45° Gitter",
 		"greek": "45° Πλέγμα",
 		"japanese": "45° グリッド",
-		"hungarian": "45° Négyzetháló"
+		"hungarian": "45° Négyzetháló",
+		"chinese": "45° 网格",
 	},
 
 	"buildCurvedRoad": {
@@ -1385,6 +1389,7 @@
 		"romanian": "Drum invers",
 		"danish": "Omvend Vej",
 		"greek": "Άλλαξε κατεύθυνση δρόμου",
+		"chinese": "反转道路方向",
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1426,6 +1431,7 @@
 		"thai": "ตัวแสดงสัญญาณรถไฟ",
 		"japanese": "鉄道信号ビュー",
 		"hungarian": "Vonatjelzések nézet",
+		"chinese": "铁路信号视图",
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1721,6 +1727,7 @@
 		"greek": "Αδιέξοδος",
 		"thai": "ทางตัน",
 		"japanese": "行き止まり",
+		"chinese": "死路",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1991,6 +1998,7 @@
 		"greek": "Πάρκα",
 		"japanese": "公園",
 		"hungarian": "Parkok",
+		"chinese": "公园",
 	},
 	"visualization_Culture": {
 		"english": "Culture",
@@ -2007,6 +2015,7 @@
 		"greek": "Κουλτούρα",
 		"japanese": "文化",
 		"hungarian": "Kultúra",
+		"chinese": "文化",
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -2023,6 +2032,7 @@
 		"greek": "Σχολεία",
 		"japanese": "学校",
 		"hungarian": "Iskolák",
+		"chinese": "学校",
 	},
 	"visualization_Pipes": {
 		"english": "Pipes",
@@ -2035,6 +2045,7 @@
 		"japanese": "パイプ",
 		"hungarian": "Csövek",
 		"czech": "Trubky",
+		"chinese": "管道",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2536,6 +2547,7 @@
 		"danish": "Gennemsnitlig habitat niveau",
 		"greek": "Μέσο επίπεδο οικισμού",
 		"japanese": "平均住宅レベル",
+		"chinese": "平均住宅等级",
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -2554,6 +2566,7 @@
 		"danish": "Krævet habitat niveau",
 		"greek": "Απαιτούμενο επίπεδο οικισμού",
 		"japanese": "要求住宅レベル",
+		"chinese": "要求住宅等级",
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -2572,6 +2585,7 @@
 		"danish": "Global Opbevaring",
 		"greek": "Παγκόσμια αποθήκη",
 		"japanese": "全体在庫",
+		"chinese": "总库存",
 	},
 	"constructionStorageDescription": {
 		"english": "The storehouse for construction materials stores concrete and steel, which you need to construct buildings and infrastructure.",
@@ -2609,6 +2623,7 @@
 		"danish": "Tog",
 		"greek": "Τρένο",
 		"japanese": "列車",
+		"chinese": "火车",
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -2627,6 +2642,7 @@
 		"danish": "Transportere",
 		"greek": "Μεταφέρει",
 		"japanese": "輸送中",
+		"chinese": "运输中",
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2645,6 +2661,7 @@
 		"danish": "Næste station",
 		"greek": "Επόμενος Σταθμός",
 		"japanese": "次の駅",
+		"chinese": "下一站",
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2664,6 +2681,7 @@
 		"danish": "Varevogn",
 		"greek": "Φορτηγό διανομής",
 		"japanese": "輸送トラック",
+		"chinese": "转运货车",
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2682,6 +2700,7 @@
 		"danish": "Mål",
 		"greek": "Προορισμός",
 		"japanese": "目的地",
+		"chinese": "目的地",
 	},
 	// train line info panel
 	"trainLines": {
@@ -2701,6 +2720,7 @@
 		"danish": "Tog Linjer",
 		"greek": "Γραμμές τρένου",
 		"japanese": "鉄道",
+		"chinese": "铁路",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2719,6 +2739,7 @@
 		"danish": "Total antal ressourcer transporteret: %amount%",
 		"greek": "Συνολικά αγαθά που μεταφέρθηκαν:%amount%",
 		"japanese": "累積貨物輸送量: %amount%",
+		"chinese": "累计货运量：%amount%"
 	},
 	"trainsOnLine": {
 		"english": "Trains on line: %amount%",
@@ -2737,6 +2758,7 @@
 		"danish": "Tog på linjen: %amount%",
 		"greek": "Τρένα στην γραμμή:%amount%",
 		"japanese": "路線の列車数: %amount%",
+		"chinese": "在轨火车数：%amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2755,6 +2777,7 @@
 		"danish": "Tog farve",
 		"greek": "Χρώμα τρένου",
 		"japanese": "列車の色",
+		"chinese": "火车颜色",
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2774,6 +2797,7 @@
 		"danish": "Togsignalering",
 		"greek": "Σήμανση τρένων",
 		"japanese": "鉄道信号",
+		"chinese": "铁路信号",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2882,6 +2906,7 @@
 		"danish": "Skinner",
 		"greek": "Ράγες",
 		"japanese": "レール",
+		"chinese": "铁轨",
 	},
 
 
@@ -2900,6 +2925,7 @@
 		"greek": "Ρυθμίσεις φαναριών",
 		"japanese": "信号設定",
 		"hungarian": "Jelzőlámpa beállítások",
+		"chinese": "交通信号设置",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
@@ -2916,6 +2942,7 @@
 		"greek": "Προσαρμοσμένο",
 		"japanese": "編集済み",
 		"hungarian": "Egyedi",
+		"chinese": "已设定",
 	},
 	"phaseNumber" : {
 		"english": "Phase %number%",
@@ -2932,6 +2959,7 @@
 		"greek": "Φάση %number%",
 		"japanese": "フェーズ%number%",
 		"hungarian": "Fázis %number%",
+		"chinese": "相位 %number%",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
 		"english": "Skip to next phase when roads are empty",
@@ -2948,6 +2976,7 @@
 		"greek": "Πήγαινε στην επόμενη φάση όταν είναι άδειοι οι δρομοι",
 		"japanese": "道路が空の場合、ただちに次のフェーズに進む。",
 		"hungarian": "Ugrás a következő fázisra, ha az utak üresek",
+		"chinese": "道路为空时跳过当前相位",
 	},
 
 	"providing": { // like a school provides schooling
@@ -2965,6 +2994,7 @@
 		"greek": "Παρέχει",
 		"japanese": "供給",
 		"hungarian": "Biztosít",
+		"chinese": "供给",
 	},
 	"radius": {
 		"english": "Radius",
@@ -2981,6 +3011,7 @@
 		"greek": "Ακτίνα",
 		"japanese": "半径",
 		"hungarian": "Rádiusz",
+		"chinese": "半径",
 	},
 	"speed": {
 		"english": "Speed",
@@ -2997,6 +3028,7 @@
 		"greek": "Ταχύτητα",
 		"japanese": "速度",
 		"hungarian": "Sebesség",
+		"chinese": "速度",
 	},
 
 	"pipeNetwork": {
@@ -3010,6 +3042,7 @@
 		"japanese": "パイプネットワーク",
 		"hungarian": "Csőhálózat",
 		"czech": "Potrubní síť",
+		"chinese": "管道网",
 	},
 	"pipeNetworkInputPerMinute": { // can use produced instead of input or inflow
 		"english": "Inflow per minute: %amount%",
@@ -3022,6 +3055,7 @@
 		"japanese": "流入量/分: %amount%",
 		"hungarian": "Percenkénti bemenet: %amount%",
 		"czech": "Přítok za minutu: %amount%",
+		"chinese": "每分钟流入量：%amount%",
 	},
 	"pipeNetworkOutputPerMinute": { // can use consumed instead of output or outflow
 		"english": "Outflow per minute: %amount%",
@@ -3034,6 +3068,7 @@
 		"japanese": "流出量/分: %amount%",
 		"hungarian": "Percenkénti kimenet: %amount%",
 		"czech": "Odtok za minutu: %amount%",
+		"chinese": "每分钟流出量：%amount%",
 	},
 	"totalAmountInPipeNetwork": {
 		"english": "Total resources in pipe network",
@@ -3046,6 +3081,7 @@
 		"japanese": "パイプネットワーク内の総量",
 		"hungarian": "Összes forrás a csőhálózatban",
 		"czech": "Celkové zdroje v potrubní síti",
+		"chinese": "管道网内总资源数",
 	},
 	"pipes": {
 		"english": "Pipes",
@@ -3058,6 +3094,7 @@
 		"japanese": "パイプ",
 		"hungarian": "Csövek",
 		"czech": "Potrubí",
+		"chinese": "管道",
 	},
 	"buildings": {
 		"english": "Buildings",
@@ -3070,6 +3107,7 @@
 		"japanese": "建物",
 		"hungarian": "Épületek",
 		"czech": "Budovy",
+		"chinese": "建筑",
 	},
 	
 
@@ -3097,6 +3135,7 @@
 		"japanese": "惑星",
 		"hungarian": "Bolygó",
 		"czech": "Planeta",
+		"chinese": "行星",
 	},
 	"spaceship_bridge": {
 		"english": "Bridge",
@@ -3109,6 +3148,7 @@
 		"japanese": "船橋",
 		"hungarian": "Híd",
 		"czech": "Můstek",
+		"chinese": "舰桥",
 	},
 	"spaceship_communicationArray": { // can use "antenna" instead of "array"
 		"english": "Communication Array",
@@ -3121,6 +3161,7 @@
 		"japanese": "通信アンテナ",
 		"hungarian": "Kommunikációs antenna",
 		"czech": "Komunikační anténa",
+		"chinese": "通信矩阵",
 	},
 	"spaceship_computerDeck": {
 		"english": "Computer Deck",
@@ -3133,6 +3174,7 @@
 		"japanese": "コンピューターデッキ",
 		"hungarian": "Számítógépes rendszerek",
 		"czech": "Počítačová paluba",
+		"chinese": "计算机面板",
 	},
 	"spaceship_ftlEngine": {
 		"english": "FTL Engine",
@@ -3145,6 +3187,7 @@
 		"japanese": "ワープエンジン",  // 日本語ではFTL全般をワープと呼ぶ傾向があるので。
 		"hungarian": "FTL motor",
 		"czech": "FTL Pohon",
+		"chinese": "FTL引擎",
 	},
 	"spaceship_ftlFuelCells": {
 		"english": "FTL Fuel Cells",
@@ -3157,6 +3200,7 @@
 		"japanese": "ワープ燃料セル",
 		"hungarian": "FTL üzemanyagcellák",
 		"czech": "FTL palivové články",
+		"chinese": "FTL燃料电池",
 	},
 	"spaceship_ftlTurbine": {
 		"english": "FTL Turbine",
@@ -3169,6 +3213,7 @@
 		"japanese": "ワープタービン",
 		"hungarian": "FTL turbinák", 
 		"czech": "FTL Turbína",
+		"chinese": "FTL涡轮机"
 	},
 	"spaceship_orbitalScanners": {
 		"english": "Orbital Scanners",
@@ -3181,6 +3226,7 @@
 		"japanese": "軌道スキャナー",
 		"hungarian": "Orbitális radar",
 		"czech": "Orbitální skenery",
+		"chinese": "轨道扫描仪",
 	},
 	"spaceship_passengerDeck": {
 		"english": "Passenger Deck",
@@ -3193,6 +3239,7 @@
 		"japanese": "客室デッキ",
 		"hungarian": "Utasfedélzet",
 		"czech": "Paluba pro cestující",
+		"chinese": "乘客面板",
 	},
 	"spaceship_hull": {
 		"english": "Hull",
@@ -3205,6 +3252,7 @@
 		"japanese": "船体",
 		"hungarian": "Hajótest",
 		"czech": "Trup",
+		"chinese": "舰身",
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
@@ -3217,6 +3265,7 @@
 		"japanese": "放射線シールド",
 		"hungarian": "Sugárzás elleni pajzs",
 		"czech": "Radiační štít",
+		"chinese": "辐射屏蔽",
 	},
 	"spaceship_storageDeck": {
 		"english": "Storage Deck",
@@ -3229,6 +3278,7 @@
 		"japanese": "倉庫デッキ",
 		"hungarian": "Raktér",
 		"czech": "Skladovací paluba",
+		"chinese": "仓库面板",
 	},
 	"spaceship_telescope": {
 		"english": "Telescope",
@@ -3241,6 +3291,7 @@
 		"japanese": "望遠鏡",
 		"hungarian": "Teleszkóp",
 		"czech": "Teleskop",
+		"chinese": "望远镜",
 	},
 	"spaceship_thermalSystems": {
 		"english": "Thermal Systems",
@@ -3253,6 +3304,7 @@
 		"japanese": "熱システム",
 		"hungarian": "Termikus rendszerek",
 		"czech": "Tepelné systémy",
+		"chinese": "热力系统",
 	},
 
 
@@ -3329,6 +3381,7 @@
 		"japanese": "必要資源",
 		"hungarian": "Szükséges nyersanyagok",
 		"czech": "Potřebné zdroje",
+		"chinese": "必需资源",
 	},
 	"progress": {
 		"english": "Progress",
@@ -3341,6 +3394,7 @@
 		"japanese": "進捗",
 		"hungarian": "Előrehaladás",
 		"czech": "Pokrok",
+		"chinese": "进程",
 	},
 	"bonusWhenCompleted": {
 		"english": "Bonus when completed",
@@ -3353,6 +3407,7 @@
 		"japanese": "完了時のボーナス",
 		"hungarian": "Bónusz, ha befejezett",
 		"czech": "Bonus po dokončení",
+		"chinese": "完成后给予奖金",
 	},
 	"repair": {
 		"english": "Repair",
@@ -3365,6 +3420,7 @@
 		"japanese": "修理",
 		"hungarian": "Javítás",
 		"czech": "Opravit",
+		"chinese": "维修",
 	},
 	
 	
@@ -3379,6 +3435,7 @@
 		"japanese": "ワールド設定",
 		"hungarian": "Világ beállításai",
 		"czech": "Nastavení světa",
+		"chinese": "世界设定",
 	},
 	"sandbox": {
 		"english": "Creative Mode",
@@ -3391,6 +3448,7 @@
 		"japanese": "クリエイティブモード",
 		"hungarian": "Kreatív mód",
 		"czech": "Kreativní režim",
+		"chinese": "创造模式",
 	},
 	"sandbox_researchUnlocked_title": {
 		"english": "All technologies unlocked",
@@ -3403,6 +3461,7 @@
 		"japanese": "全ての技術をアンロックする",
 		"hungarian": "Összes technológia feloldva",
 		"czech": "Všechny technologie jsou odemčeny",
+		"chinese": "所有科技已解锁",
 	},
 	"sandbox_noBuildingCosts_title": {
 		"english": "No construction costs",
@@ -3415,6 +3474,7 @@
 		"japanese": "建設コストを免除する",
 		"hungarian": "Nincs építési költség",
 		"czech": "Žádné stavební náklady",
+		"chinese": "建造无成本",
 	},
 	"sandbox_needsFulfilled_title": {
 		"english": "All citizen needs fulfilled",
@@ -3427,6 +3487,7 @@
 		"japanese": "市民の要求が全て充足される",
 		"hungarian": "Összes lakos igénye kielégítve",
 		"czech": "Všechny potřeby občanů splněny",
+		"chinese": "所有市民都感到满足",
 	},
 	"trafficVisualsOnly_title": {
 		"english": "Cars ignore traffic",
@@ -3439,6 +3500,7 @@
 		"japanese": "車両がトラフィックを無視する",
 		"hungarian": "Az autók figyelmen kívül hagyják a közlekedést",
 		"czech": "Auta dopravu ignorují",
+		"chinese": "车辆无视交通",
 	},
 	"trafficVisualsOnly_desc": {
 		"english": "This setting eliminates traffic difficulty!\nSelect this if you are not interested in InfraSpace's traffic gameplay.",

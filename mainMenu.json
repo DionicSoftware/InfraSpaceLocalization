@@ -152,6 +152,7 @@
 		"swiss german": "Zrugg",
 		"farsi":"بازگشت",
 		"japanese": "戻る",
+		"chinese": "返回",
 	},
 	"backToGame": {
 		"english": "Back to Game",
@@ -175,6 +176,7 @@
 		"greek": "Πίσω στο Παιχνίδι",
 		"swiss german": "zrugg zum Spiel",
 		"farsi":"ادامه بازی",
+		"chinese": "返回游戏",
 	},
 	"website": {
 		"english": "Website",
@@ -1082,6 +1084,7 @@
 		"swiss german": "UI Grössi",
 		"farsi":"اندازه صفحه",
 		"japanese": "UIスケール",
+		"chinese": "界面尺寸",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1878,6 +1881,7 @@
 		"farsi":"حرکت سریع دوربین",
 		"japanese": "カメラの高速移動",
 		"czech": "Rychlý pohyb kamery",
+		"chinese": "镜头快速移动",
 	},
 
 	"cityShortcuts": {
@@ -1892,6 +1896,7 @@
 		"farsi":"میانبر های شهر",
 		"japanese": "都市のショートカット",
 		"czech": "Ovládání města",
+		"chinese": "城市快捷键",
 	},
 	"research": {
 		"english": "Research",
@@ -1905,6 +1910,7 @@
 		"farsi":"تحقیق",
 		"japanese": "研究",
 		"czech": "Výzkum",
+		"chinese": "研究",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
@@ -1918,6 +1924,7 @@
 		"farsi":"خط های جابجایی",
 		"japanese": "輸送ライン",
 		"czech": "Dopravní linky",
+		"chinese": "运输线路",
 	},
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -2009,6 +2016,7 @@
 		"farsi":"ساخت دقیق",
 		"japanese": "精密建設",  // 暫定訳 (provisional translation)
 		"czech": "Přesná konstrukce",
+		"chinese": "精确建造",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
@@ -2022,6 +2030,7 @@
 		"farsi":"کلید شیفت را نگه دارید(سمت چپ)",
 		"japanese": "左Shiftホールド",
 		"czech": "Podržte Shift (levý)",
+		"chinese": "按住Shift (左)",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -2039,6 +2048,7 @@
 		"swiss german": "Gitter umschaltä",
 		"farsi":"روشن کردن شطرنج",
 		"japanese": "グリッド切り替え",
+		"chinese": "启用网格",
 	},
 	"move": {
 		"english": "Move",
@@ -2052,6 +2062,7 @@
 		"farsi":"تکان دادن",
 		"japanese": "移動",
 		"czech": "Přesunout",
+		"chinese": "移动",
 	},
 	"delete": {
 		"english": "Delete",
@@ -2065,6 +2076,7 @@
 		"farsi":"حذف کردن",
 		"japanese": "削除",
 		"czech": "Smazat",
+		"chinese": "删除",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
@@ -2078,6 +2090,7 @@
 		"farsi":"منو ساخت",
 		"japanese": "建設メニュー",
 		"czech": "Stavební menu",
+		"chinese": "建筑菜单",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
@@ -2091,6 +2104,7 @@
 		"farsi":"کلید شیفت(سمت چپ) +عدد",
 		"japanese": "左Shift + 数字",
 		"czech": "Shift (levý) + číslo",
+		"chinese": "Shift (左) + 数字",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -2158,6 +2172,7 @@
 		"farsi":"سرعت شبیه سازی عادی",
 		"japanese": "シミュレーション速度：標準",
 		"czech": "Normální rychlost simulace",
+		"chinese": "正常游戏速度",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
@@ -2171,6 +2186,7 @@
 		"farsi":"سرعت شبیه سازی تند",
 		"japanese": "シミュレーション速度：高速",
 		"czech": "Vysoká rychlost simulace",
+		"chinese": "加快游戏速度",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2398,6 +2414,7 @@
 		"farsi":"ذخیره سریع",
 		"japanese": "クイックセーブ",
 		"czech": "Rychlé uložení",
+		"chinese": "快速储存",
 	},
 	"quickload": {
 		"english": "Quick Load",
@@ -2411,6 +2428,7 @@
 		"farsi":"باز کردن سریع",
 		"japanese": "クイックロード",
 		"czech": "Rychlé načtení",
+		"chinese": "快速载入",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -2769,6 +2787,7 @@
 		"greek": "Η αποθήκευση είναι μόνο μερικώς συμβατή με την έκδοση παιχνιδιού σου",
 		"swiss german": "Dä Schpielstand isch numä zum Teil Kompatibäl mit dinärä Spielversion",
 		"japanese": "このセーブは、 現在のゲームバージョンとは 部分的な互換性しかありません。",
+		"chinese": "此存档仅与当前游戏版本部分兼容。",
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
@@ -2786,6 +2805,7 @@
 		"greek": "Πως να παίξεις μη συμβατές αποθηκεύσεις",
 		"swiss german": "Wie mä kampatibli Schpielständ spilt",
 		"japanese": "非互換のセーブでプレイする方法",
+		"chinese": "如何游玩不兼容存档",
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
@@ -2803,6 +2823,7 @@
 		"greek": "Όταν κυκλοφορούμε μία μεγάλη αναβάθμιση παιχνιδιου, μερικές φορές οι αποθηκεύσεις παιχνιδιών δεν είναι εντλεώς συμβατές.\n Έχεις δύο επιλογές:\n\n1.Συνέχισε να παίζεις το αποθηκευμένο σου παχνίδι στην προηγούμενη έκδοση.Έχουμε φτιάξει έναν οδηγό για 'σένα.\n2.Δοκίμασε να μετατρέψεις την αποθήκευση του παιχνιδιού σου στην νέα έκδοση.\n\nΜερικές μετατροπές δεν είναι τέλειες.Πιθανόν χρείαζεται να κάνεις παύση το παχνίδι και να χρειαστείς χρόνο να επιδιορθώσεις διάφορα προβλήματα.",
 		"swiss german": "Wänn mir es grossäs Update veröffentlichäd, sind Spielständ mängisch nöd voll kompatibel.\nDu häsch 2 Möglichkeitä:\n\n1. Spil din Spielstand uf dä vorherige Version wiiter. Mir händ ä Ahleitig für dich erstellt.\nVersuech din Spielstand uf di neuscht Version z`konvertiere.\n\nKonvertierigä sind nöd pärfäkt. Du muäsch warschindlich s`Spiel pausiärä und d Problem i dinere Stadt behebä.",
 		"japanese": "ゲームの大規模アップデートをリリースした場合、 セーブに完全な互換性が無いことがあります。\n次の2つの選択肢があります。\n\n1.セーブを旧バージョンで遊び続けます。 そのためのチュートリアルを作成しました。\n2.セーブの新バージョンへの変換を試みます。\n\nセーブの変換は完全ではありません。 おそらく、ゲームをポーズして 問題を修正するために 時間を費やす必要があります。",
+		"chinese": "当我们发布一个较大的更新时，有时存档只能与游戏部分兼容。\n这里提供两种方案：\n\n1.回滚游戏版本，我们编写了一个教程。\n2.尝试将你的存档转化至当前版本。\n\n存档的转换不会非常完美，你可能需要暂停游戏，然后花点时间去修复出现的问题。",
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
@@ -2820,6 +2841,7 @@
 		"greek": "Άλλαξε την έκδοση παχνιδιου",
 		"swiss german": "Spielversion wächslä",
 		"japanese": "ゲームバージョンを変更する",
+		"chinese": "更改游戏版本",
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
@@ -2837,6 +2859,7 @@
 		"greek": "Δοκίμασε μετατροπή",
 		"swiss german": "Konvertierig versueche",
 		"japanese": "変換を試みる",
+		"chinese": "尝试转换",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
