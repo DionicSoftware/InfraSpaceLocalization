@@ -3513,6 +3513,7 @@
 		"japanese": "この設定は輸送難易度を無効化します！\nInfraSpaceの 交通に関するゲーム性に 興味が無い場合に 選択してください。",
 		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.", 
 		"czech": "Toto nastavení eliminuje potíže s provozem!\nVyberte toto, pokud vás nezajímá herní režim InfraSpace.",
+		"chinese": "该选项将使道路交通不再堵塞！如果你对InfraSpace中的道路交通规划不感兴趣，请选择此项。",
 	},
 	"truckRoundTrip_title": {
 		"english": "Cars make round trips", // or: cars drive back after delivery
@@ -3525,6 +3526,7 @@
 		"japanese": "輸送車両が往復する",
 		"hungarian": "Az autók visszafordulnak a kézbesítés után",
 		"czech": "Auta po dodání jezdí zpět",
+		"chinese": "交货后车辆需要返回",
 	},
 	"truckRoundTrip_desc": {
 		"english": "This setting makes traffic a lot more difficult.\nSelect this if you are looking for a challenge.",
@@ -3537,6 +3539,7 @@
 		"japanese": "この設定は、交通を大幅に難しくします。\n挑戦を求めている場合に選択してください。",
 		"hungarian": "Ez a beállítás jelentősen megnehezíti a közlekedést.\nEzt akkor válaszd ki, ha kihívást akarsz.",
 		"czech": "Toto nastavení značně ztěžuje provoz.\nVyberte toto, pokud hledáte výzvu.",
+		"chinese": "该选项将会使道路交通规划变得更加困难。如果你想找点乐子，请选择此项。",
 	},
 
 
@@ -3551,6 +3554,7 @@
 		"japanese": "ワープの失敗により、損傷した宇宙船が銀河系のどこかに取り残されました。",
 		"hungarian": "Egy sikertelen hiperűrugrás következtében az űhajód megsérült és egy ismeretlen galaxisba érkeztél.",
 		"czech": "Po neúspěšném warp skoku vaše poškozená vesmírná loď uvízne někde v galaxii.",
+		"chinese": "在一次失败的折跃后，你损坏的飞船被困在了这个星系的某处。",
 	},
 	"introText_2": {
 		"english": "Your communication systems can't reach human space.",
@@ -3563,6 +3567,7 @@
 		"japanese": "通信システムは、人類の領域に届いていません。",
 		"hungarian": "A kommunikációs rendszerek nem tudják elérni az emberi űrt.",
 		"czech": "Vaše komunikační systémy nemohou dosáhnout lidského prostoru.",
+		"chinese": "你的通讯系统无法到达有人类的地方。",
 	},
 	"introText_3": {
 		"english": "You need to settle on one of the nearby planets to get the necessary resources and technology to repair your ship.",
@@ -3575,6 +3580,7 @@
  		"japanese": "必要な資源と技術を得て宇宙船を修理するために、近くの惑星に入植する必要があります。",
 		"hungarian": "Kénytelen vagy letelepedni egy közeli bolgyón, hogy megszerezd a szükséges nyersanyagokat és technológiákat az űrhajód megjavításához.",
 		"czech": "Musíte se usadit na jedné z blízkých planet, abyste získali potřebné zdroje a technologii k opravě své lodi.",
+		"chinese": "你需要在邻近的某个行星定居，以此来获得必要的资源和科技来修复你的飞船。",
 	},
 
 	"dismiss": {
