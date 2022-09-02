@@ -17,6 +17,7 @@ Russian
 
 Italian
 - Marcello Brancaccio
+- Massimiliano Merlo
 
 Chinese
 - law_4x
@@ -59,6 +60,7 @@ Romanian
 Danish
 - Søren Pedersen (LordFitter)
 - Chris Corfitsen (Corfitsen)
+
 Greek
 - Christos Mesogitis (charis117)
 

@@ -180,6 +180,7 @@
 
 	"message_spaceshipRepairedTitle": {
 		"english": "Spaceship Repaired!",
+		"italian": "Nave Spaziale Riparata!",
 		"german": "Raumschiff repariert!",
 		"russian": "Корабль починен!",
 		"thai": "ยานอวกาศซ่อมถูกซ่อมแล้ว!",
@@ -191,6 +192,7 @@
 	},
 	"message_spaceshipRepairedDesc": {
 		"english": "Congratulations!\n\nYou have repaired your spaceship and have reestablished contact with the human civilization.\n\nWhat comes next will be revealed during InfraSpace's Early Access. For now, you can keep building your city and make it great!",
+		"italian": "Congratulazioni!\n\nHai riparato la Nave Spaziale e hai stabilito un contatto con la civiltà umana.\n\nQuello che avverrà dopo verrà rivelato durante l'Accesso Anticipato di infraSpace. Per adesso, continua a costruire la tua gittà e falla diventare grandiosa!",
 		"russian": "Поздравляем\n\nВы починили ваш космический корабль и востановили связь с людской цивилизацией.\n\nТо что произойдет дальше будет показано по мере разработки Infraspace.",
 		"german": "Glückwunsch!\n\nDu hast euer Raumschiff repariert  und den Kontakt mit der menschlichen Zivilisation wiederhergestellt.\n\nWas als nächstes kommt, wird sich im Verlauf von InfraSpace's Early Access zeigen. Im Moment kannst du weiterhin deine Stadt aufbauen und sie großartig machen!",
 		"thai": "ยินดีด้วย!\n\nคุณได้ซ่อมแซมยานอวกาศของคุณและได้ฟื้นฟูจนสามารถติดต่อกับอารยธรรมมนุษย์ได้อีกครั้ง\n\nสิ่งต่อไปที่จะเกิดขึ้นจะถูกเปิดเผยตอนนี้อยู่ในระหว่างการพัฒนาของ InfraSpace แต่ตอนนี้เอง คุณสามารถสร้างเมืองของคุณต่อไปและทำให้มันยอดเยี่ยมต่อไปได้ต่อเลย!",
@@ -203,6 +205,7 @@
 	
 	"message_researchBoostTitle": {
 		"english": "Research Boost: %tech%",
+		"italian": "Boost alla Ricerca: %tech%",
 		"german": "Forschungsboost: %tech%",
 		"french": "Boost de recherche : %tech%",
 		"spanish-esp": "Potenciador de Investicación: %tech%",
@@ -212,6 +215,7 @@
 	},
 	"message_researchBoostDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nResearch on the technology \"%tech%\" has been boosted by %percentage%%.",
+		"italian": "Abbiamo terminato le riparazioni di una parte della nostra Nave Spaziale: %spaceshippart%.\nLa ricerca sulla tecnologia \"%tech%\" è stata migliorata del %percentage%%.",
 		"german": "Wir haben die Reparaturen bei einer Komponente unseres Raumschiffs abgeschlossen: %spaceshippart%.\nDie Forschung an der Technologie \"%tech%\" wurde zu %percentage%% geboosted.",
 		"french": "Nous avons terminé les réparations d'une partie du vaisseau : %spaceshippart%.\nLa recherche de la technologie « %tech% » a été boostée de %percentage%%.",
 		"spanish-esp": "Hemos terminado las reparaciones en la parte de tu nave: %spaceshippart%.\nLa investigación en la tecnología \"%tech%\" se ha potenciado en un %percentage%%.",
@@ -222,6 +226,7 @@
 	
 	"message_spaceshipBonusTitle": {
 		"english": "Spaceship Part repaired: %spaceshippart%",
+		"italian": "Parte della Nave Spaziale riparata: %spaceshippart%",
 		"german": "Raumschiffkomponente repariert: %spaceshippart%",
 		"french": "Partie du vaisseau réparée : %spaceshippart%",
 		"spanish-esp": "Parte de la nave reparada: %spaceshippart%",
@@ -231,6 +236,7 @@
 	},
 	"message_spaceshipBonusDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nAs a consequence, we receive the following bonus:\n\n%bonus%",
+		"italian": "Abbiamo terminato le riparazioni di una parte della nostra Nave Spaziale: %spaceshippart%.\nDi conseguenza, riceviamo il seguente bonus:\n\n%bonus%",
 		"german": "Wir haben die Reparaturen bei einer Komponente unseres Raumschiffs abgeschlossen: %spaceshippart%.\nDaraus hat sich folgender Bonus ergeben:\n\n%bonus%",
 		"french": "Nous avons terminé les réparations d'une partie du vaisseau : %spaceshippart%.\nEn conséquence, nous recevons le bonus suivant :\n\n%bonus%",
 		"spanish-esp": "Hemos terminado las reparaciones en la parte de tu nave: %spaceshippart%.\nPor lo que recibimos el siguiente bonus:\n\n%bonus%",

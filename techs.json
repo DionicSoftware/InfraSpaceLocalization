@@ -76,6 +76,7 @@
   },
   "tech_pipes": {
     "english": "Pipes",
+    "italian": "Tubazioni",	  
     "german": "Rohre",
     "french": "Tuyaux",
     "spanish-esp": "Tuberías",
@@ -84,6 +85,7 @@
     "japanese": "パイプ",
     "hungarian": "Csövek",
     "czech": "Trubky",
+    "chinese": "管道",
   },
   "tech_science2": {
     "english": "Green Science",
@@ -237,6 +239,7 @@
   },
   "tech_methane": {
     "english": "Methane",
+    "Italian": "Metano",	  
     "german": "Methan",
     "french": "Méthane",
     "spanish-esp": "Metano",
@@ -245,9 +248,11 @@
     "japanese": "メタン",
     "hungarian": "Metán",
     "czech": "Metan",
+    "chinese": "天然气",
   },
   "tech_tanks": {
     "english": "Tanks",
+    "Italian": "Serbatoi",	  
     "german": "Tanks",
     "french": "Réservoirs",
     "spanish-esp": "Tanques",
@@ -255,7 +260,8 @@
     "thai": "ถังเก็บน้ำ",
     "japanese": "タンク",
     "hungarian": "Tartályok",
-    "czech": "Nádrže",  
+    "czech": "Nádrže",
+    "chinese": "容器",
   },
   "tech_aluminiumMining": {
     "english": "Aluminum Mining",
@@ -334,6 +340,7 @@
   },
   "tech_spaceshipConstruction": {
     "english": "Spaceship Construction",
+    "Italian": "Costruzione della Nave Spaziale",	  
     "german": "Raumschiffkonstruktion",
     "french": "Construction spatiale",
     "spanish-esp": "Construcción de Nave Espacial",
@@ -420,6 +427,7 @@
   },
   "tech_methanePowerPlants": {
     "english": "Methane Power Plants",
+    "Italian": "Generatore a Metano",	  
     "german": "Methankraftwerke",
     "french": "Centrales au méthane",
     "spanish-esp": "Plantas Energéticas de Metano",
@@ -428,6 +436,7 @@
     "japanese": "メタン発電所",
     "hungarian": "Metán erőmű",
     "czech": "Elektrárny na metan",
+    "chinese": "天然气发电",
   },
   "tech_parks": {
     "english": "Large Buildings",
@@ -481,6 +490,7 @@
   },
   "tech_groundWaterExtraction": {
     "english": "Ground Water Extraction",
+    "Italian": "Estrazione dell'Acqua dal sottosuolo",	  
     "german": "Grundwasser-Extraktion",
     "french": "Extraction d'eau souterraine",
     "spanish-esp": "Extracción de Agua Subterránea",
@@ -488,7 +498,8 @@
     "thai": "การดูดน้ำบาดาล",
 		"japanese": "地下水の抽出",
     "hungarian": "Talajvíz kinyerő",
-    "czech": "Těžba podzemní vody",  
+    "czech": "Těžba podzemní vody",
+    "chinese": "潜水泵",
   },
   "tech_largeMines": {
     "english": "Large Mines",
@@ -717,6 +728,7 @@
   },
   "tech_methaneFermentation": {
     "english": "Methane Fermentation",
+    "Italian": "Fermentazione del Metano",	  
     "german": "Methangärung",
     "french": "Fermentation du méthane",
     "spanish-esp": "Fermentación del Metano",
@@ -725,6 +737,7 @@
 		"japanese": "メタン発酵",
     "hungarian": "Metánerjesztés",
     "czech": "Fermentace metanu",
+    "chinese": "沼气发酵",
   },
   "tech_stadiums": {
     "english": "Stadiums",
@@ -869,6 +882,7 @@
     "greek": "Τρένα",
     "farsi":"قطار ها",
 		"japanese": "鉄道",
+    "chinese": "火车",
   },
   "tech_highSpeedRail": {
     "english": "High Speed Rail",
@@ -886,6 +900,7 @@
     "hungarian": "Magassebességű sín",
     "farsi":"ریل سرعت بالا",
 		"japanese": "高速レール",
+		"chinese": "高速铁路",
   },
   "tech_lightningRail": {
     "english": "Lightning Rails",
@@ -903,6 +918,7 @@
     "hungarian": "Villámsínek",
     "farsi":"ریل سرعت نور",
 		"japanese": "超高速レール",
+		"chinese": "超高速铁路",
   },
   "tech_superhighways": {
     "english": "Superhighways",
