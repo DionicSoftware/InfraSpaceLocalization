@@ -250,6 +250,5 @@
 		"japanese": "宇宙船部品の 「%spaceshippart%」の 修理が完了しました。\nその結果、次のボーナスを得ました。\n\n%bonus%",
 		"czech": "Dokončili jsme opravy na části naší vesmírné lodi: %kosmická část lodi%.\n důsledku toho dostáváme následující bonus:\n\n%bonus%",
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.\nЗа це ми отримали бонус:\n\n%bonus%",
-		"ukrainian": "*",
 	},
 }
