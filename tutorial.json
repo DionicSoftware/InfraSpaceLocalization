@@ -1068,7 +1068,7 @@
 		"thai": "สร้างตาราง",
 		"polish": "Siatka budowy",
 		"czech": "Stavební mřížka",
-		"ukrainian": "Будівельна сітка"
+		"ukrainian": "Будівельна сітка",
 		"danish":"Bygningsgitter",
 		"japanese": "建設グリッド",
 		"hungarian": "Négyzetrács",
@@ -1085,7 +1085,7 @@
 		"thai": "สร้างและไม่มีตาราง",
 		"polish": "Budowanie z pomocą i bez siatki",
 		"czech": "Budova s mřížkou a bez mřížky",
-		"ukrainian": "Будівництво з та без сітки"
+		"ukrainian": "Будівництво з та без сітки",
 		"danish":"Byg med og uden gitter",
 		"japanese": "グリッドあり/なしでの建設",
 		"hungarian": "Építés négyzetráccsal vagy anélkül",
@@ -1102,7 +1102,7 @@
 		"thai": "ใช้ปุ่มเหล่านี้เพื่อเลือกตารางของคุณ คุณสามารถใช้ตารางเพื่อจัดแนวถนนและอาคารของคุณ หรือปิดและสร้างได้อย่างอิสระ",
 		"polish": "Użyj tych przycisków aby przełączać siatkę. Siatka pomaga budować proste drogi i stawiać budynki w uporządkowany sposób. Możesz też wyłączyć siatkę i swobodnie kształtować swoje miasto.",
 		"czech": "Pomocí těchto tlačítek vyberte mřížku. Pomocí mřížek můžete zarovnat silnice a budovy nebo mřížku vypnout a volně stavět.",
-		"ukrainian": "Використовуйте зазначені кнопки щоб вибрати будівельну сітку. Ви можете використовувати сітку для чіткого прилягання доріг до будинків, або вимкнути її, і будувати так як захочете."
+		"ukrainian": "Використовуйте зазначені кнопки щоб вибрати будівельну сітку. Ви можете використовувати сітку для чіткого прилягання доріг до будинків, або вимкнути її, і будувати так як захочете.",
 		"danish":"Brug disse knapper til at vælge dit gitter. Du kan bruge gitter til at justere dine veje og bygninger eller slå dem fra og bygge frit.",
 		"japanese": "これらのボタンでグリッドを選択できます。 道路や建物を整列するためにグリッドを利用したり、 グリッドをオフにして自由配置にしたりできます。",
 		"hungarian": "Használd ezeket a gombokat, hogy kiválaszd a négyzetrácsos építést. A négyzetrácsot használhatod arra, hogy az épületek és az utak egyvonalban legyenek, vagy kapcsold ki és építs szabadon!",
