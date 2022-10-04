@@ -1329,8 +1329,13 @@
 		"danish": "musekantsrulning",
 		"greek": "Κύλιση στην άκρη ποντικιού",
 		"swiss german": "Kamerastüürig mit Muus",
-		"farsi":"اسکرول کردن موس",
-
+		"farsi":"جابجایی دوربین با نزدیک کردن نشانه‌گر به لبه",
+	},
+	"confinedCursor": {
+		"english": "Confined Cursor",
+		"german": "Maus begrenzt auf Fenster",
+		"french": "Curseur restreint",
+		"farsi":"نشانه‌گر محدود",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1384,7 +1389,7 @@
 		"danish": "Spil aktivt i baggrunden",
 		"greek": "Παιχνίδι ενεργό στο υπόβαθρο",
 		"swiss german": "Spiel lauft im Hindergrund",
-		"farsi":"بازی در پیش زمینه روشن است",
+		"farsi":"بازی در پیش زمینه فعال باشد",
 	},
 	"showTutorials": {
 		"english": "Show Tutorials",
@@ -1410,7 +1415,7 @@
 		"danish": "Vis tutorial",
 		"greek": "Εμφάνισε Οδηγίες",
 		"swiss german": "Tutorials ahzeigä",
-		"farsi":"اموزش ها را نشان بده",
+		"farsi":"نمایش راهنما",
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
@@ -1436,7 +1441,7 @@
 		"danish": "Nulstil Tutorial",
 		"greek": "Επαναφορά γνωστών οδηγιών",
 		"swiss german": "Tutorials zruggsetzä",
-		"farsi":"ریست کردن اموزش ها",
+		"farsi":"ریست کردن راهنماها",
 	},
 	// OTHER
 	"loadingWorld": {
