@@ -1797,7 +1797,7 @@
 		"romanian": "Ocuparea clădirilor (muncitori și locuitori)",
 		"danish": "Bygningsbelægning (arbejdere og indbyggere)",
 		"greek": "Πληρότητα κτηρίων (Εργάτες & Κάτικοι)",
-		
+
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -2815,7 +2815,7 @@
 		"spanish-esp": "Los raíles rojos indican segmentos donde los trenes podrían chocar.",
 		"danish": "Røde skinner angiver segmenter, hvor tog kan støde sammen.",
 		"greek": "Οι κόκκινες γραμμές υποδεικνύουν κομμάτια που τα τρένα μπορεί να συγκρουστούν.",
-		"japanese": "赤色のレールは、 列車が衝突する可能性がある セグメントを示す。",	
+		"japanese": "赤色のレールは、 列車が衝突する可能性がある セグメントを示す。",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2824,7 +2824,7 @@
 		"russian": "Оранжевые рельсы обозначают пересечения железных дорог. Они создаются вокруг красных сегментов. В большинстве случаев на перекресток может одновременно заходить только один поезд.",
 		"turkish": "Turuncu raylar, ray kesişimlerini gösterir. BUnlar kırmızı bölümlerin etrafında oluşur. Çoğu durumda bir kesişime aynı anda sadece bir tren girebilir.",
 		"polish": "Pomarańczowe tory wskazują skrzyżowania torów. Otaczają one czerwone odcinki. W większości przypadków tylko jeden pociąg może przejeżdżać przez skrzyżowanie na raz.",
-		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น",	 
+		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น",
 		"italian": "I binari arancioni mostrano gli incroci fra i binari. Sono create attorno ai segmenti rossi. In molti casi solo un treno alla volta può occupare l'incrocio.",
 		"hungarian": "A narancssárga sínek kereszteződéseket jeleznek. Ezek a piros részek körül jönnek létre. A legtöbb esetben csak egy vonat egyszerre kereszteződést használni",
 		"romanian": "Șinele portocalii arată intersecțiile feroviare. Acestea sunt create în jurul segmentelor roșii. În cele mai multe cazuri, doar un tren poate intra într-o intersecție la un moment dat.",
@@ -3109,7 +3109,7 @@
 		"czech": "Budovy",
 		"chinese": "建筑",
 	},
-	
+
 
 
 	"spaceship": {
@@ -3211,7 +3211,7 @@
 		"russian": "FTL - турбина",
 		"thai": "กังหันของเอฟทีเอล",
 		"japanese": "ワープタービン",
-		"hungarian": "FTL turbinák", 
+		"hungarian": "FTL turbinák",
 		"czech": "FTL Turbína",
 		"chinese": "FTL涡轮机"
 	},
@@ -3369,7 +3369,7 @@
 		"czech": "S tímto modulem online odemknete jednu náhodnou technologii.",
 	},
 
-	
+
 	"necessaryResources": {
 		"english": "Necessary Resources",
 		"italian": "Risorse Necessarie",
@@ -3422,8 +3422,8 @@
 		"czech": "Opravit",
 		"chinese": "维修",
 	},
-	
-	
+
+
 	"worldSettings": {
 		"english": "World Settings",
 		"italian": "Impostazioni del Mondo",
@@ -3511,7 +3511,7 @@
 		"russian": "Эта настройка убирает сложность трафика!\nВыбирайте это только если вы не заинтересованы в геймплее трафика InfraSpace.",
 		"thai": "การตั้งค่านี้ช่วยจะขจัดปัญหาการจราจร\nเลือกตัวเลือกนี้หากคุณไม่สนใจที่จะการเล่น InfraSpace แบบใช้การจราจร",
 		"japanese": "この設定は輸送難易度を無効化します！\nInfraSpaceの 交通に関するゲーム性に 興味が無い場合に 選択してください。",
-		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.", 
+		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.",
 		"czech": "Toto nastavení eliminuje potíže s provozem!\nVyberte toto, pokud vás nezajímá herní režim InfraSpace.",
 		"chinese": "该选项将使道路交通不再堵塞！如果你对InfraSpace中的道路交通规划不感兴趣，请选择此项。",
 	},
@@ -3607,13 +3607,16 @@
     "laserDestructionProgress": {
         "english": "Destruction Progress",
         "german": "Fortschritt der Zerstörung",
+		"french": "Progression de la destruction",
     },
     "laserSelectedForDestruction": { // or "next targets"
         "english": "Selected for Destruction",
         "german": "Nächste Ziele",
+		"french": "Prochaines cibles",
     },
     "multiSelectTutorial": {
         "english": "Click on the objects you want to destroy with the laser.",
         "german": "Klicke auf die Objekte, die du mit dem Laser zerstören willst.",
+        "french": "Cliquez sur les objets que vous voulez détruire avec le laser.",
     },
 }

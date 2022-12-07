@@ -1581,7 +1581,7 @@
   },
 
 
-  
+
   "oxygenTank": {
       "english": "Oxygen Tank",
       "german": "Sauerstofftank",
@@ -1601,11 +1601,11 @@
       "german": "Wassertank",
       "french": "Réservoir d'eau",
       "spanish-esp": "Tanque de agua",
-      "italian": "Serbatoio d'acqua", 
+      "italian": "Serbatoio d'acqua",
       "russian": "Бак для воды",
       "thai": "ถังเก็บน้ำ",
       "japanese": "貯水タンク",
-      "hungarian": "Víztartály", 
+      "hungarian": "Víztartály",
       "ukrainian": "Бак з водою",
       "chinese": "蓄水池",
   },
@@ -2072,9 +2072,11 @@
   "gondolaStation": { // cargo gondola, cargo elevator
       "english": "Cargo gondola",
       "german": "Lastenaufzug",
+      "french": "Monte-charge",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",
       "german": "Laserzielstation",
+      "french": "Station de ciblage laser",
   },
 }
