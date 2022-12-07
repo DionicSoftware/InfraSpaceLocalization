@@ -1,4 +1,4 @@
-{
+﻿{
   "sandMine": {
     "english": "Sand Mine",
     "german": "Sandmine",
@@ -2068,5 +2068,13 @@
     "farsi":"ایستگاه قطار مرکزی",
     "japanese": "基幹鉄道駅",
     "chinese": "中央火车站",
+  },
+  "gondolaStation": { // cargo gondola, cargo elevator
+      "english": "Cargo gondola",
+      "german": "Lastenaufzug",
+  },
+  "targetingStation": {
+      "english": "Laser Targeting Station",
+      "german": "Laserzielstation",
   },
 }

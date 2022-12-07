@@ -1,4 +1,4 @@
-{
+﻿{
 	"powerNetwork": {
 		"english": "Power Network %id%",
 		"german": "Stromnetz %id%",
@@ -3604,4 +3604,16 @@
 		"romanian": "Ok",
 		"japanese": "閉じる",
 	},
+    "laserDestructionProgress": {
+        "english": "Destruction Progress",
+        "german": "Fortschritt der Zerstörung",
+    },
+    "laserSelectedForDestruction": { // or "next targets"
+        "english": "Selected for Destruction",
+        "german": "Nächste Ziele",
+    },
+    "multiSelectTutorial": {
+        "english": "Click on the objects you want to destroy with the laser.",
+        "german": "Klicke auf die Objekte, die du mit dem Laser zerstören willst.",
+    },
 }
