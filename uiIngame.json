@@ -3306,6 +3306,10 @@
 		"czech": "Tepelné systémy",
 		"chinese": "热力系统",
 	},
+	"spaceship_laserCannon": {
+		"english": "Laser Cannon",
+		"german": "Laserkanone",
+	},
 
 
 	"spaceshipUpgrade_immigrationRateBoost": {
@@ -3367,6 +3371,10 @@
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つがアンロックされる。",
 		"hungarian": "Ezzel a modullal feloldassz egy véletlenszerű technológiát.",
 		"czech": "S tímto modulem online odemknete jednu náhodnou technologii.",
+	},
+	"spaceshipUpgrade_laserCannon": {
+		"english": "Antares' laser cannon is powerful enough to melt rocks. Clear your map of obstacles from orbit!",
+		"german": "Antares' Laserkanone ist stark genug um Felsen zu schmelzen. Zerstöre Hindernisse auf dem Planet vom Orbit aus!",
 	},
 
 
