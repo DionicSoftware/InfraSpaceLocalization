@@ -1,4 +1,4 @@
-{
+﻿{
   "tech_farming": {
     "english": "Farming",
     "german": "Landwirtschaft",
@@ -403,6 +403,10 @@
     "danish": "Firesporet vej",
     "greek": "Δρόμοι τεσσάρων λωρίδων",
     "farsi":"جاده 4 لاینی",
+  },
+  "tech_cargoGondolas": {
+    "english": "Cargo Gondolas",
+    "german": "Lastenaufzüge",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
