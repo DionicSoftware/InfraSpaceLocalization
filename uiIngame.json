@@ -3309,6 +3309,7 @@
 	"spaceship_laserCannon": {
 		"english": "Laser Cannon",
 		"german": "Laserkanone",
+		"french": "Canon laser",
 	},
 
 
@@ -3375,6 +3376,7 @@
 	"spaceshipUpgrade_laserCannon": {
 		"english": "Antares' laser cannon is powerful enough to melt rocks. Clear your map of obstacles from orbit!",
 		"german": "Antares' Laserkanone ist stark genug um Felsen zu schmelzen. Zerstöre Hindernisse auf dem Planet vom Orbit aus!",
+		"french": "Le canon laser d'Antares est assez puissant pour faire fondre les rochers. Débarrassez votre région des obstacles depuis l'orbite !",
 	},
 
 
