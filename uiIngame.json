@@ -1729,6 +1729,18 @@
 		"japanese": "行き止まり",
 		"chinese": "死路",
 	},
+    "highAngleBetweenGondolas":  {
+        "english": "Can't connect to other station. Gondola lines can not curve!",
+        "german": "Kann nicht mit anderer Staion verbinden. Gondelseile können nur gerade gespannt werden!",
+    },
+    "buildingConnectorTooSteep":  {
+        "english": "Too steep",
+        "german": "Zu steil",
+    },
+    "buildingConnectorColliding":  {
+        "english": "Colliding with something",
+        "german": "Kollidiert mit etwas",
+    },
 	"visualizations": {
 		"english": "Visualizations",
 		"german": "Visualisierungen",
