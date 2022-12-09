@@ -3641,4 +3641,8 @@
         "german": "Klicke auf die Objekte, die du mit dem Laser zerstören willst.",
         "french": "Cliquez sur les objets que vous voulez détruire avec le laser.",
     },
+    "buildLaserCannonTutorial": {
+        "english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
+        "german": "Repariere die Laserkanone auf dem Raumschiff, damit du mit dieser Station Hindernisse entfernen kannst.",
+    },
 }
