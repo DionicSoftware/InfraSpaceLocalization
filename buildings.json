@@ -2072,7 +2072,7 @@
   "gondolaStation": { // cargo gondola, cargo elevator
       "english": "Cargo gondola",
       "german": "Lastenaufzug",
-      "french": "Monte-charge",
+      "french": "Nacelle de fret",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",

@@ -76,7 +76,7 @@
   },
   "tech_pipes": {
     "english": "Pipes",
-    "italian": "Tubazioni",	  
+    "italian": "Tubazioni",
     "german": "Rohre",
     "french": "Tuyaux",
     "spanish-esp": "Tuberías",
@@ -240,7 +240,7 @@
   },
   "tech_methane": {
     "english": "Methane",
-    "Italian": "Metano",	  
+    "Italian": "Metano",
     "german": "Methan",
     "french": "Méthane",
     "spanish-esp": "Metano",
@@ -254,7 +254,7 @@
   },
   "tech_tanks": {
     "english": "Tanks",
-    "Italian": "Serbatoi",	  
+    "Italian": "Serbatoi",
     "german": "Tanks",
     "french": "Réservoirs",
     "spanish-esp": "Tanques",
@@ -343,7 +343,7 @@
   },
   "tech_spaceshipConstruction": {
     "english": "Spaceship Construction",
-    "Italian": "Costruzione della Nave Spaziale",	  
+    "Italian": "Costruzione della Nave Spaziale",
     "german": "Raumschiffkonstruktion",
     "french": "Construction spatiale",
     "spanish-esp": "Construcción de Nave Espacial",
@@ -407,6 +407,7 @@
   "tech_cargoGondolas": {
     "english": "Cargo Gondolas",
     "german": "Lastenaufzüge",
+    "french": "Nacelles de fret",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -435,7 +436,7 @@
   },
   "tech_methanePowerPlants": {
     "english": "Methane Power Plants",
-    "Italian": "Generatore a Metano",	  
+    "Italian": "Generatore a Metano",
     "german": "Methankraftwerke",
     "french": "Centrales au méthane",
     "spanish-esp": "Plantas Energéticas de Metano",
@@ -499,7 +500,7 @@
   },
   "tech_groundWaterExtraction": {
     "english": "Ground Water Extraction",
-    "Italian": "Estrazione dell'Acqua dal sottosuolo",	  
+    "Italian": "Estrazione dell'Acqua dal sottosuolo",
     "german": "Grundwasser-Extraktion",
     "french": "Extraction d'eau souterraine",
     "spanish-esp": "Extracción de Agua Subterránea",
@@ -738,7 +739,7 @@
   },
   "tech_methaneFermentation": {
     "english": "Methane Fermentation",
-    "Italian": "Fermentazione del Metano",	  
+    "Italian": "Fermentazione del Metano",
     "german": "Methangärung",
     "french": "Fermentation du méthane",
     "spanish-esp": "Fermentación del Metano",
@@ -882,7 +883,7 @@
     "spanish": "Trenes",
     "spanish-esp": "Trenes",
     "russian": "Поезда",
-	  "turkish":"Trenler", 
+	  "turkish":"Trenler",
     "italian": "Treni",
     "czech": "Vlaky",
 	  "ukrainian": "Потяги",

@@ -1732,14 +1732,17 @@
     "highAngleBetweenGondolas":  {
         "english": "Can't connect to other station. Gondola lines can not curve!",
         "german": "Kann nicht mit anderer Staion verbinden. Gondelseile können nur gerade gespannt werden!",
+		"french": "Impossible de se connecter à une autre station. Les lignes de nacelles ne peuvent pas être courbées !",
     },
     "buildingConnectorTooSteep":  {
         "english": "Too steep",
         "german": "Zu steil",
+		"french": "Trop raide",
     },
     "buildingConnectorColliding":  {
         "english": "Colliding with something",
         "german": "Kollidiert mit etwas",
+		"french": "En collision avec quelque chose",
     },
 	"visualizations": {
 		"english": "Visualizations",
@@ -3644,5 +3647,6 @@
     "buildLaserCannonTutorial": {
         "english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
         "german": "Repariere die Laserkanone auf dem Raumschiff, damit du mit dieser Station Hindernisse entfernen kannst.",
+		"french": "Réparez le canon laser du vaisseau spatial, afin de pouvoir utiliser la station de ciblage et détruire les obstacles.",
     },
 }
