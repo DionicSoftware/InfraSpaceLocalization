@@ -1733,16 +1733,19 @@
         "english": "Can't connect to other station. Gondola lines can not curve!",
         "german": "Kann nicht mit anderer Staion verbinden. Gondelseile können nur gerade gespannt werden!",
 		"french": "Impossible de se connecter à une autre station. Les lignes de nacelles ne peuvent pas être courbées !",
+        "japanese": "他のゴンドラ駅に接続できません。 ゴンドラのロープは曲げられません！",
     },
     "buildingConnectorTooSteep":  {
         "english": "Too steep",
         "german": "Zu steil",
 		"french": "Trop raide",
+        "japanese": "勾配が急すぎます",
     },
     "buildingConnectorColliding":  {
         "english": "Colliding with something",
         "german": "Kollidiert mit etwas",
 		"french": "En collision avec quelque chose",
+        "japanese": "他の物体と接触しています",
     },
 	"visualizations": {
 		"english": "Visualizations",
@@ -3392,6 +3395,7 @@
 		"english": "Antares' laser cannon is powerful enough to melt rocks. Clear your map of obstacles from orbit!",
 		"german": "Antares' Laserkanone ist stark genug um Felsen zu schmelzen. Zerstöre Hindernisse auf dem Planet vom Orbit aus!",
 		"french": "Le canon laser d'Antares est assez puissant pour faire fondre les rochers. Débarrassez votre région des obstacles depuis l'orbite !",
+		"japanese": "アンタレスのレーザー砲は強力で、 岩を融かすことが可能です。 軌道からマップ上の障害物を除去しましょう！",
 	},
 
 
@@ -3633,20 +3637,24 @@
         "english": "Destruction Progress",
         "german": "Fortschritt der Zerstörung",
 		"french": "Progression de la destruction",
+        "japanese": "破壊の進捗",
     },
     "laserSelectedForDestruction": { // or "next targets"
         "english": "Selected for Destruction",
         "german": "Nächste Ziele",
 		"french": "Prochaines cibles",
+        "japanese": "次の目標",
     },
     "multiSelectTutorial": {
         "english": "Click on the objects you want to destroy with the laser.",
         "german": "Klicke auf die Objekte, die du mit dem Laser zerstören willst.",
         "french": "Cliquez sur les objets que vous voulez détruire avec le laser.",
+        "japanese": "レーザーで破壊したいものを選択してください",
     },
     "buildLaserCannonTutorial": {
         "english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
         "german": "Repariere die Laserkanone auf dem Raumschiff, damit du mit dieser Station Hindernisse entfernen kannst.",
 		"french": "Réparez le canon laser du vaisseau spatial, afin de pouvoir utiliser la station de ciblage et détruire les obstacles.",
+        "japanese": "宇宙船のレーザー砲を修理してください。 すると、障害物除去のためにレーザー照準ステーションを利用できるようになります。",
     },
 }
