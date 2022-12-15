@@ -62,7 +62,7 @@
 <br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ua.png"> Cтворіть папку "<b>localization</b>" в каталозі гри та помістіть туди ці файли. Не забудьте<b> створити "<a href="#customtxt">Custom.txt</a>"</b>з наступним змістом:</p> 
 <br>
-<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ko.png"> 파일들을 게임 폴더에 저장한 후, "<b>localization</b>"<b>으로 저장하세요. "<a href="#customtxt">Custom.txt</a>"를 생성</b>하고 아래 내용을 포함하는걸 잊지 마세요:</p> 
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/kr.png"> 파일들을 게임 폴더에 저장한 후, "<b>localization</b>"<b>으로 저장하세요. "<a href="#customtxt">Custom.txt</a>"를 생성</b>하고 아래 내용을 포함하는걸 잊지 마세요:</p> 
 <br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/nl.png"> Plaats de bestanden in je gamemap en hernoem het "<b>localization</b>". Vergeet niet <b> een "<a href="#customtxt">Custom.txt</a>"</b>te maken met het volgende:</p> 
 <br>
