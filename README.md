@@ -46,8 +46,7 @@
 
 # Installation instruction
 
-###### - **[EN]** Put this folder in your game folder and rename it "**localization**". Don't forget to **create a "custom.txt"** containing the following:
-<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png"> Put this folder in your game folder and rename it "<b>localization</b>". Don't forget to <b>create a "<a href="#customtxt">Custom.txt</a>"</b>containing the following:</p> 
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/en.png"> Put this folder in your game folder and rename it "<b>localization</b>". Don't forget to <b>create a "<a href="#customtxt">Custom.txt</a>"</b>containing the following:</p> 
 <br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png"> Coloca los archivos en tu carpeta de juego y cambia su nombre a "<b>localization</b>" No olvides<b>crear un "<a href="#customtxt">Custom.txt</a>"</b>que contenga lo siguiente:</p> 
 <br>
