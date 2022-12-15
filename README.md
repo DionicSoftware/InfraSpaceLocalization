@@ -46,7 +46,7 @@
 
 # Installation instruction
 
-<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/en.png"> Put this folder in your game folder and rename it "<b>localization</b>". Don't forget to <b>create a "<a href="#customtxt">Custom.txt</a>"</b>containing the following:</p> 
+<p><img width="20" src="https://camo.githubusercontent.com/577dd7224762ca165831c0ff33e574756fef82b6e5bb3a7c9d32f7d806b753b4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33302f466c61675f6f665f7468655f556e697465645f4b696e67646f6d5f253238332d325f6173706563745f726174696f2532392e7376672f38303070782d466c61675f6f665f7468655f556e697465645f4b696e67646f6d5f253238332d325f6173706563745f726174696f2532392e7376672e706e673f3230313231323239303034343235"> Put this folder in your game folder and rename it "<b>localization</b>". Don't forget to <b>create a "<a href="#customtxt">Custom.txt</a>"</b>containing the following:</p> 
 <br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png"> Coloca los archivos en tu carpeta de juego y cambia su nombre a "<b>localization</b>" No olvides<b>crear un "<a href="#customtxt">Custom.txt</a>"</b>que contenga lo siguiente:</p> 
 <br>
