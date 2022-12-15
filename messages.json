@@ -215,6 +215,7 @@
 		"japanese": "研究ブースト: %tech%",
 		"czech": "Posílení výzkumu: %tech%",
 		"ukrainian": "Дослідження технології: %tech%, було пришвидшено",
+		"thai": "เร่งการวิจัย: %tech%",
 		
 	},
 	"message_researchBoostDesc": {
@@ -227,6 +228,7 @@
 		"japanese": "宇宙船部品の 「%spaceshippart%」の 修理が完了しました。\n「%tech%」の 研究が %percentage%%ブーストされました。",
 		"czech": "Dokončili jsme opravy na části naší vesmírné lodi: %spaceshippart%.\nVýzkum technologie \"%tech%\" byl posílen o %percentage%%.",
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.\nПрогресс дослідження технології: \"%tech%\", був пришвидшений на: %percentage%%.",
+		"thai": "เราได้ซ่อมแซมยานอวกาศของเราบางส่วน: %spaceshippart% เสร็จไปแล้ว\nการวิจัยเกี่ยวกับเทคโนโลยี \"%tech%\" ได้รับการเร่งไป %percentage%%",
 	},
 	
 	"message_spaceshipBonusTitle": {
@@ -239,6 +241,7 @@
 		"japanese": "宇宙船部品の修理が完了: %spaceshippart%",
 		"czech": "Část vesmírné lodi opravena: %spaceshippart%",
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.",
+		"thai": "ซ่อมแซมชิ้นส่วนยานอวกาศ: %spaceshippart% แล้ว",
 	},
 	"message_spaceshipBonusDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nAs a consequence, we receive the following bonus:\n\n%bonus%",
@@ -250,5 +253,6 @@
 		"japanese": "宇宙船部品の 「%spaceshippart%」の 修理が完了しました。\nその結果、次のボーナスを得ました。\n\n%bonus%",
 		"czech": "Dokončili jsme opravy na části naší vesmírné lodi: %kosmická část lodi%.\n důsledku toho dostáváme následující bonus:\n\n%bonus%",
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.\nЗа це ми отримали бонус:\n\n%bonus%",
+		"thai": "เราได้ซ่อมแซมยานอวกาศของเราบางส่วน: %spaceshippart% เสร็จไปแล้ว\nเป็นผลให้ได้รับโบนัสดังนี้:\n\n%bonus%",
 	},
 }

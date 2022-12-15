@@ -1337,6 +1337,7 @@
 		"french": "Curseur restreint",
 		"farsi":"نشانه‌گر محدود",
 		"japanese": "カーソル移動範囲の制限",
+		"thai": "จำกัดเคอร์เซอร์",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -3962,6 +3963,7 @@
         "german": "Mods",
 		"french": "Mods",
         "japanese": "MOD",
+		"thai": "ม็อด",
     },
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -3981,6 +3983,7 @@
 		"czech": "Mody mohou být nekompatibilní!\nMody v uložené hře:",
 		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:",
 		"japanese": "Modは互換性がない可能性があります！\n保存済みのMod:",
+		"thai": "บางทีม็อดอาจไม่จะไม่สอดคล้อง!\nม็อดในตัวบันทึก",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -4000,6 +4003,7 @@
 		"czech": "Žádné",
 		"romanian": "Niciunul",
 		"japanese": "なし",
+		"thai": "ไม่มี",
 	},
 	"author": {
 		"english": "Author",
@@ -4019,6 +4023,7 @@
 		"czech": "Autor",
 		"romanian": "Autor",
 		"japanese": "著者",
+		"thai": "ผู้เขียน",
 	},
 	"active": {
 		"english": "Active",
@@ -4038,6 +4043,7 @@
 		"czech": "Aktivní",
 		"romanian": "Activ",
 		"japanese": "適用",
+		"thai": "ใช้งาน",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -4057,6 +4063,7 @@
 		"czech": "Nemáte nainstalovány žádné mody ani dodatečný obsah.",
 		"romanian": "Nu aveți niciun mod sau conținut suplimentar instalat.",
 		"japanese": "Modや追加のコンテンツはインストールされていません",
+		"thai": "คุณไม่ได้ติดตั้งม็อดหรือเนื้อหาใดๆเพิ่มเติมเข้ามา",
 	},
 	"openModsFolder": {
 		"english": "Open Mod Folder",
@@ -4076,6 +4083,7 @@
 		"czech": "Otevřít adresář s mody",
 		"romanian": "Deschide dosarul modului",
 		"japanese": "Modフォルダーを開く",
+		"thai": "เปิดโฟลเดอร์ม็อด",
 
 	},
 	"openWorkshop": { //steam workshop
@@ -4094,6 +4102,7 @@
 		"czech": "Otevřít Workshop",
 		"romanian": "Deschide Atelierul",
 		"japanese": "ワークショップを開く",
+		"thai": "เปิด Workshop",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -4113,11 +4122,13 @@
 		"czech": "Použít a restartovat",
 		"romanian": "Aplică și repornește",
 		"japanese": "適用して再起動する",
+		"thai": "ปรับใช้และเริ่มต้นใหม่",
 	},
     "exportConfigFiles": {
         "english": "Export Config Files",
         "german": "Konfig-Dateien exportieren",
 		"french": "Exporter des fichiers de config",
         "japanese": "設定ファイルをエクスポート",
+		"thai": "ส่งออกไฟล์กำหนดค่า",
     },
 }

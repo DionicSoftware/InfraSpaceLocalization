@@ -2074,11 +2074,13 @@
       "german": "Lastenaufzug",
       "french": "Nacelle de fret",
       "japanese": "貨物ゴンドラの駅",
+      "thai": "ลิฟท์ขนของ",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",
       "german": "Laserzielstation",
       "french": "Station de ciblage laser",
       "japanese": "レーザー照準ステーション",
+      "thai": "สถานีกำหนดเป้าหมายเลเซอร์",
   },
 }

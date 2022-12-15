@@ -1734,18 +1734,21 @@
         "german": "Kann nicht mit anderer Staion verbinden. Gondelseile können nur gerade gespannt werden!",
 		"french": "Impossible de se connecter à une autre station. Les lignes de nacelles ne peuvent pas être courbées !",
         "japanese": "他のゴンドラ駅に接続できません。 ゴンドラのロープは曲げられません！",
+		"thai": "ไม่สามารถเชื่อมต่อกับสถานีอื่นได้ สายของกระเช้าลอยฟ้าโค้งไม่ได้!",
     },
     "buildingConnectorTooSteep":  {
         "english": "Too steep",
         "german": "Zu steil",
 		"french": "Trop raide",
         "japanese": "勾配が急すぎます",
+		"thai": "สูงชันเกินไป",
     },
     "buildingConnectorColliding":  {
         "english": "Colliding with something",
         "german": "Kollidiert mit etwas",
 		"french": "En collision avec quelque chose",
         "japanese": "他の物体と接触しています",
+		"thai": "ชนกับอะไรบางอย่าง",
     },
 	"visualizations": {
 		"english": "Visualizations",
@@ -3329,6 +3332,7 @@
 		"german": "Laserkanone",
 		"french": "Canon laser",
 		"japanese": "レーザー砲",
+		"thai": "ปืนใหญ่เลเซอร์",
 	},
 
 
@@ -3397,6 +3401,7 @@
 		"german": "Antares' Laserkanone ist stark genug um Felsen zu schmelzen. Zerstöre Hindernisse auf dem Planet vom Orbit aus!",
 		"french": "Le canon laser d'Antares est assez puissant pour faire fondre les rochers. Débarrassez votre région des obstacles depuis l'orbite !",
 		"japanese": "アンタレスのレーザー砲は強力で、 岩を融かすことが可能です。 軌道からマップ上の障害物を除去しましょう！",
+		"thai": "ปืนใหญ่เลเซอร์ของแอนทาเรส มีพลังมากพอที่จะละลายหิน และจัดการแผนที่ของคุณ ที่มีสิ่งกีดขวางออกไปจากวงโคจร!",
 	},
 
 
@@ -3633,29 +3638,34 @@
 		"czech": "Ok",
 		"romanian": "Ok",
 		"japanese": "閉じる",
+		"thai": "ตกลง",
 	},
     "laserDestructionProgress": {
         "english": "Destruction Progress",
         "german": "Fortschritt der Zerstörung",
 		"french": "Progression de la destruction",
         "japanese": "破壊の進捗",
+		"thai": "ความคืบหน้าของการทำลาย",
     },
     "laserSelectedForDestruction": { // or "next targets"
         "english": "Selected for Destruction",
         "german": "Nächste Ziele",
 		"french": "Prochaines cibles",
         "japanese": "次の目標",
+		"thai": "เป้าหมายต่อไป",
     },
     "multiSelectTutorial": {
         "english": "Click on the objects you want to destroy with the laser.",
         "german": "Klicke auf die Objekte, die du mit dem Laser zerstören willst.",
         "french": "Cliquez sur les objets que vous voulez détruire avec le laser.",
         "japanese": "レーザーで破壊したいものを選択してください",
+		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
     },
     "buildLaserCannonTutorial": {
         "english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
         "german": "Repariere die Laserkanone auf dem Raumschiff, damit du mit dieser Station Hindernisse entfernen kannst.",
 		"french": "Réparez le canon laser du vaisseau spatial, afin de pouvoir utiliser la station de ciblage et détruire les obstacles.",
         "japanese": "宇宙船のレーザー砲を修理してください。 すると、障害物除去のためにレーザー照準ステーションを利用できるようになります。",
+		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
     },
 }
