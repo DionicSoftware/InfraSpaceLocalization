@@ -64,13 +64,16 @@
 ###### - **[HU]** Tedd ezt a mappát a játék mappádba és nevezd át "**localization**"-ra. Ne felejets el **készíteni egy "custom.txt"** ami a következőt tartalmazza:
 
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/th.png"> นำโฟลเดอร์นี้วางลงไปในโฟลเดอร์เกมของคุณและเปลี่ยนชื่อเป็น "<b>localization</b>" และอย่าลืมสร้าง <b>ไฟล์ "<a href="#customtxt">Custom.txt</a>"</b> แล้วเขียนโครงสร้างตามนั้น  </p> 
-
-###### - **[AR]** ضع هذا المجلد داخل مجلد اللعبة الخاصة بك وقم بتغيير اسمه إلى "**localization**". لا تنس أن **تنشئ ملف "custom.txt"** بداخله ما يلي:
-###### - **[RO]** Pune acest folder în folderul jocului tău și redenumește-l "**localization**". Nu uita să **creezi un "custom.txt"** conţinând următoarele:
-###### - **[GD]** Cuir am pasgan seo sa phasgan geama agad agus ath-ainmich e "**localization**". Na dì-chuimhnich a chruthachadh **a "custom.txt"** anns a bheil na leanas:
-###### - **[DA]** Placer denne mappe i spillets mappe og omdøb den til "**localization**". husk at **oprette "custom.txt"** med følgende indhold:
-###### - **[JA]** このフォルダをゲームフォルダの中に置き、このフォルダ名を「**localization**」に変更してください。後述の内容で **「custom.txt」を作成する**ことを忘れないでください。
 <br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ar.png"> ضع هذا المجلد داخل مجلد اللعبة الخاصة بك وقم بتغيير اسمه إلى "<b>localization</b>". لا تنس أن <b> تنشئ ملف "<a href="#customtxt">Custom.txt</a>"</b> بداخله ما يلي: </p>
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ro.png"> Pune acest folder în folderul jocului tău și redenumește-l "<b>localization</b>". Nu uita să <b>creezi un "<a href="#customtxt">Custom.txt</a>"</b>conţinând următoarele: </p>
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/gd.png"> Cuir am pasgan seo sa phasgan geama agad agus ath-ainmich e "<b>localization</b>". Na dì-chuimhnich a chruthachadh <b>a "<a href="#customtxt">Custom.txt</a>"</b>anns a bheil na leanas: </p>
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/dk.png"> Placer denne mappe i spillets mappe og omdøb den til "<b>localization</b>". husk at <b>oprette "<a href="#customtxt">Custom.txt</a>"</b>med følgende indhold: </p>
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/jp.png"> このフォルダをゲームフォルダの中に置き、このフォルダ名を "「<b>localization</b>」" に変更してください。後述の内容で <b>「<a href="#customtxt">Custom.txt</a>」を作成する</b>ことを忘れないでください。</p>
 
 # Custom.txt:
 ```
