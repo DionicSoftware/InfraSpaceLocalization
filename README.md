@@ -47,22 +47,38 @@
 # Installation instruction
 
 ###### - **[EN]** Put this folder in your game folder and rename it "**localization**". Don't forget to **create a "custom.txt"** containing the following:
-###### - **[ES]** Coloca los archivos en tu carpeta de juego y cambia su nombre a "**localization**". No olvides **crear un "custom.txt"** que contenga lo siguiente:
-###### - **[DE]** Legen Sie die Dateien in Ihren Spielordner und benennen Sie ihn in "**localization**" um. Vergessen Sie nicht, **eine "custom.txt"** zu erstellen, die Folgendes enthält:
-###### - **[FR]** Placez les fichiers dans votre dossier de jeu et renommez-le en "**localization**". N'oubliez pas de **créer un "custom.txt"** contenant les éléments suivants :
-###### - **[PT]** Coloque esta pasta na sua pasta de jogo e renomei-os como "**localization**", não esqueça de **criar um arquivo "custom.txt"** contendo o seguinte:
-###### - **[TR]** Dosyaları oyunun bulunduğu yerde yeni bir klasör açıp yerleştirin ve klasörün ismini "**localization**" olarak değiştirin. Aşağıdaki verileri içeren **"custom.txt" dosyası oluşturmayı unutmayın**:
-###### - **[RU]** Создайте папку "**localization**" в каталоге игры и поместите туда эти файлы. Не забудьте **создать "custom.txt"** со следующим содержимым:
-###### - **[UA]** Cтворіть папку "**localization**" в каталозі гри та помістіть туди ці файли. Не забудьте ** створити "custom.txt" ** з наступним змістом:
-###### - **[KO]** 파일들을 게임 폴더에 저장한 후, "**localization**"으로 저장하세요. **"custom.txt"를 생성**하고 아래 내용을 포함하는걸 잊지 마세요:
-###### - **[NL]** Plaats de bestanden in je gamemap en hernoem het "**localization **". Vergeet niet ** een "custom.txt" ** te maken met het volgende:
-###### - **[IT]** Inserisci i file nella tua cartella di gioco e rinomina la cartella in "**localization**". Ricorda di **creare un file "custom.txt"** contenente quanto segue:
-###### - **[CN]** 将下载的文件夹放到游戏根目录并重命名为 "**localization**". 不要忘记 **创建一个 "custom.txt"文件** 里面写着以下内容:
-###### - **[PL]** Umieść folder z plikami w katalogu gry i zmień jego nazwę na "**localization**". Stwórz w nim **plik "custom.txt"** zawierający poniższą formułę:
-###### - **[SK]** Vložte súbory do priečinka hry a premenujte ho na "**localization**". Nezabudnite na **vytvorenie súboru "custom.txt"** a napísať tam nasledovné:
-###### - **[CZ]** Vložte soubory do adresáře hry a přejmenujte ho na "**localization**". Nezapomeňte na **vytvoření souboru "custom.txt"** a napsat do něj následovné:
-###### - **[HU]** Tedd ezt a mappát a játék mappádba és nevezd át "**localization**"-ra. Ne felejets el **készíteni egy "custom.txt"** ami a következőt tartalmazza:
-
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png"> Put this folder in your game folder and rename it "<b>localization</b>". Don't forget to <b>create a "<a href="#customtxt">Custom.txt</a>"</b>containing the following:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/es.png"> Coloca los archivos en tu carpeta de juego y cambia su nombre a "<b>localization</b>" No olvides<b>crear un "<a href="#customtxt">Custom.txt</a>"</b>que contenga lo siguiente:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/de.png"> Legen Sie die Dateien in Ihren Spielordner und benennen Sie ihn in "<b>localization</b>" um. Vergessen Sie nicht, <b>eine "<a href="#customtxt">Custom.txt</a>"</b> zu erstellen, die Folgendes enthält:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/fr.png"> Placez les fichiers dans votre dossier de jeu et renommez-le en "<b>localization</b>". N'oubliez pas de <b>créer un "<a href="#customtxt">Custom.txt</a>"</b> contenant les éléments suivants :</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/pt.png"> Coloque esta pasta na sua pasta de jogo e renomei-os como "<b>localization</b>", não esqueça de <b>criar um arquivo "<a href="#customtxt">Custom.txt</a>"</b> contendo o seguinte:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/tr.png"> Dosyaları oyunun bulunduğu yerde yeni bir klasör açıp yerleştirin ve klasörün ismini "<b>localization</b>" olarak değiştirin. Aşağıdaki verileri içeren <b>"<a href="#customtxt">Custom.txt</a>" dosyası oluşturmayı unutmayın </b>:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ro.png"> Создайте папку "<b>localization</b>" в каталоге игры и поместите туда эти файлы. Не забудьте<b> создать "<a href="#customtxt">Custom.txt</a>"</b>со следующим содержимым:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ua.png"> Cтворіть папку "<b>localization</b>" в каталозі гри та помістіть туди ці файли. Не забудьте<b> створити "<a href="#customtxt">Custom.txt</a>"</b>з наступним змістом:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ko.png"> 파일들을 게임 폴더에 저장한 후, "<b>localization</b>"<b>으로 저장하세요. "<a href="#customtxt">Custom.txt</a>"를 생성</b>하고 아래 내용을 포함하는걸 잊지 마세요:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/nl.png"> Plaats de bestanden in je gamemap en hernoem het "<b>localization</b>". Vergeet niet <b> een "<a href="#customtxt">Custom.txt</a>"</b>te maken met het volgende:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/it.png"> Inserisci i file nella tua cartella di gioco e rinomina la cartella in "<b>localization</b>". Ricorda di  <b>creare un file "<a href="#customtxt">Custom.txt</a>"</b> contenente quanto segue:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/cn.png"> 将下载的文件夹放到游戏根目录并重命名为 "<b>localization</b>". 不要忘记 <b>创建一个 "<a href="#customtxt">Custom.txt</a>"</b> 里面写着以下内容:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/pl.png"> Umieść folder z plikami w katalogu gry i zmień jego nazwę na "<b>localization</b>". Stwórz w nim <b>plik "<a href="#customtxt">Custom.txt</a>"</b> zawierający poniższą formułę:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/sk.png"> Vložte súbory do priečinka hry a premenujte ho na "<b>localization</b>". Nezabudnite na <b>vytvorenie súboru "<a href="#customtxt">Custom.txt</a>"</b> a napísať tam nasledovné:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/cz.png"> Vložte soubory do adresáře hry a přejmenujte ho na "<b>localization</b>". Nezapomeňte na <b>vytvoření souboru "<a href="#customtxt">Custom.txt</a>"</b> a napsat do něj následovné:</p> 
+<br>
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/hu.png"> Tedd ezt a mappát a játék mappádba és nevezd át "<b>localization</b>"-ra. Ne felejets el <b>készíteni egy "<a href="#customtxt">Custom.txt</a>"</b> ami a következőt tartalmazza: </p> 
+<br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/th.png"> นำโฟลเดอร์นี้วางลงไปในโฟลเดอร์เกมของคุณและเปลี่ยนชื่อเป็น "<b>localization</b>" และอย่าลืมสร้าง <b>ไฟล์ "<a href="#customtxt">Custom.txt</a>"</b> แล้วเขียนโครงสร้างตามนั้น  </p> 
 <br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ar.png"> ضع هذا المجلد داخل مجلد اللعبة الخاصة بك وقم بتغيير اسمه إلى "<b>localization</b>". لا تنس أن <b> تنشئ ملف "<a href="#customtxt">Custom.txt</a>"</b> بداخله ما يلي: </p>
