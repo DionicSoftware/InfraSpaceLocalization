@@ -4131,4 +4131,9 @@
         "japanese": "設定ファイルをエクスポート",
 		"thai": "ส่งออกไฟล์กำหนดค่า",
     },
+    "enabled": {
+        "english": "Enabled",
+        "german": "Aktiv",
+		"french": "Activé",
+    },
 }
