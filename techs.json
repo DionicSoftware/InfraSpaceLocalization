@@ -410,6 +410,7 @@
     "french": "Nacelles de fret",
     "japanese": "貨物ゴンドラ",
     "thai": "กระเช้าขนส่งลอยฟ้า",
+    "hungarian": "Felvonók",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -630,7 +631,7 @@
     "slovak": "Distribuje hnojivo do blízkych fariem a výrazne zvyšuje ich produkciu",
     "portuguese": "Forneça solo fertilizado para fazendas próximas e aumente sua produção significativamente.",
     "japanese": "土壌改良は農場の生産を大幅に増加させます。",
-    "hungarian": "Adj trágyázott földet a közeli farmokra ezzel jelentősen növelve a termelésüket.",
+    "hungarian": "Adj trágyázott földet a közeli farmoknak ezzel jelentősen növelve a termelésüket.",
     "thai": "สนับสนุนดินปุ๋ยให้กับไร่ใกล้เคียงเพื่อเพิ่มผลผลิตที่ดีเยี่ยม",
     "arabic": "زود المزارع المحيطة بتربة غنية بالأسمدة لتزيد من إنتاجيتها.",
     "turkish":"Yakındaki tarlalara gübrelenmiş toprak sağlayıp üretim oranlarını önemli miktarda arttırın.",
