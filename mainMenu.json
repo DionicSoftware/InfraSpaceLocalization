@@ -1338,6 +1338,7 @@
 		"farsi":"نشانه‌گر محدود",
 		"japanese": "カーソル移動範囲の制限",
 		"thai": "จำกัดเคอร์เซอร์",
+		"hungarian": "Ablakon belüli egér",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -3964,6 +3965,7 @@
 		"french": "Mods",
         "japanese": "MOD",
 		"thai": "ม็อด",
+		"hunagrian": "Modok",
     },
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -3984,6 +3986,7 @@
 		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:",
 		"japanese": "Modは互換性がない可能性があります！\n保存済みのMod:",
 		"thai": "บางทีม็อดอาจไม่จะไม่สอดคล้อง!\nม็อดในตัวบันทึก",
+		"hungarian": "Lehetséges, hogy néhány mod nem kompatibilis!\nEbben a mentésben aktív modok:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -4004,6 +4007,7 @@
 		"romanian": "Niciunul",
 		"japanese": "なし",
 		"thai": "ไม่มี",
+		"hungarian": "Egy sem",
 	},
 	"author": {
 		"english": "Author",
@@ -4024,6 +4028,7 @@
 		"romanian": "Autor",
 		"japanese": "著者",
 		"thai": "ผู้เขียน",
+		"hungarian": "Készítő",
 	},
 	"active": {
 		"english": "Active",
@@ -4044,6 +4049,7 @@
 		"romanian": "Activ",
 		"japanese": "適用",
 		"thai": "ใช้งาน",
+		"hungarian": "Aktív",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -4064,6 +4070,7 @@
 		"romanian": "Nu aveți niciun mod sau conținut suplimentar instalat.",
 		"japanese": "Modや追加のコンテンツはインストールされていません",
 		"thai": "คุณไม่ได้ติดตั้งม็อดหรือเนื้อหาใดๆเพิ่มเติมเข้ามา",
+		"hungarian": "Nincsenek modok vagy exra tartalom telepítve.",
 	},
 	"openModsFolder": {
 		"english": "Open Mod Folder",
@@ -4084,6 +4091,7 @@
 		"romanian": "Deschide dosarul modului",
 		"japanese": "Modフォルダーを開く",
 		"thai": "เปิดโฟลเดอร์ม็อด",
+		"hungarian": "Modokat tartalmazó mappa megnyitása",
 
 	},
 	"openWorkshop": { //steam workshop
@@ -4103,6 +4111,7 @@
 		"romanian": "Deschide Atelierul",
 		"japanese": "ワークショップを開く",
 		"thai": "เปิด Workshop",
+		"hungarian": "Műhely megnyitása",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -4123,6 +4132,7 @@
 		"romanian": "Aplică și repornește",
 		"japanese": "適用して再起動する",
 		"thai": "ปรับใช้และเริ่มต้นใหม่",
+		"hungarian": "Alkalmazás és újraindítás",
 	},
     "exportConfigFiles": {
         "english": "Export Config Files",
@@ -4130,11 +4140,13 @@
 		"french": "Exporter des fichiers de config",
         "japanese": "設定ファイルをエクスポート",
 		"thai": "ส่งออกไฟล์กำหนดค่า",
+		"hungarian": "Konfig fájlok exportálása",
     },
     "enabled": {
         "english": "Enabled",
         "german": "Aktiv",
 		"french": "Activé",
 		"thai": "เปิดใช้งานแล้ว",
+		"hungarian": "Aktív",
     },
 }
