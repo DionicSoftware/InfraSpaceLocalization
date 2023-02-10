@@ -1638,7 +1638,7 @@
       "chinese": "空气制水机",
   },
   "waterWellHydraulic": { // translation different than key
-      "english": "GroudWater Extractor",
+      "english": "Ground Water Extractor",
       "german": "Grundwasser-Extraktor",
       "french": "Extracteur d'eau souterraine",
       "russian": "Экстрактор грунтовых вод",
@@ -2075,6 +2075,10 @@
       "french": "Nacelle de fret",
       "japanese": "貨物ゴンドラの駅",
       "thai": "ลิฟท์ขนของ",
+  },
+  "gondolaPole": { // the poles between gondola stations
+      "english": "Gondola Lift Pole",
+      "german": "Gondelstütze",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",
