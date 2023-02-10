@@ -216,6 +216,7 @@
 		"czech": "Posílení výzkumu: %tech%",
 		"ukrainian": "Дослідження технології: %tech%, було пришвидшено",
 		"thai": "เร่งการวิจัย: %tech%",
+		"hungarian": "Kutatás gyorsítás: %tech%",
 		
 	},
 	"message_researchBoostDesc": {
@@ -229,6 +230,7 @@
 		"czech": "Dokončili jsme opravy na části naší vesmírné lodi: %spaceshippart%.\nVýzkum technologie \"%tech%\" byl posílen o %percentage%%.",
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.\nПрогресс дослідження технології: \"%tech%\", був пришвидшений на: %percentage%%.",
 		"thai": "เราได้ซ่อมแซมยานอวกาศของเราบางส่วน: %spaceshippart% เสร็จไปแล้ว\nการวิจัยเกี่ยวกับเทคโนโลยี \"%tech%\" ได้รับการเร่งไป %percentage%%",
+		"hungarian": "Megjavítottuk a(z) %spaceshippart%-t.\nA(z) \"%tech%\" kutatása gyorsabb ennyivel: %percentage%%.",
 	},
 	
 	"message_spaceshipBonusTitle": {
@@ -242,6 +244,7 @@
 		"czech": "Část vesmírné lodi opravena: %spaceshippart%",
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.",
 		"thai": "ซ่อมแซมชิ้นส่วนยานอวกาศ: %spaceshippart% แล้ว",
+		"hungarian": "Az űrhajó %spaceshippart% részének javítása kész",
 	},
 	"message_spaceshipBonusDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nAs a consequence, we receive the following bonus:\n\n%bonus%",
@@ -254,5 +257,6 @@
 		"czech": "Dokončili jsme opravy na části naší vesmírné lodi: %kosmická část lodi%.\n důsledku toho dostáváme následující bonus:\n\n%bonus%",
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.\nЗа це ми отримали бонус:\n\n%bonus%",
 		"thai": "เราได้ซ่อมแซมยานอวกาศของเราบางส่วน: %spaceshippart% เสร็จไปแล้ว\nเป็นผลให้ได้รับโบนัสดังนี้:\n\n%bonus%",
+		"hungarian": "Megjavítottuk a %spaceshippart% részét az űrhajónak.\nEzáltal a következő bónuszra tettünk szert:\n\n%bonus%",
 	},
 }

@@ -910,7 +910,7 @@
 		"russian": "Работы",
 		"japanese": "求人",
 		"polish": "Miejsca pracy",
-		"ukrainian": "Роботи",
+		"ukrainian": "Робочі місця",
 		"slovak": "Práce",
 		"portuguese": "Empregos",
 		"czech": "Práce",
@@ -1002,7 +1002,7 @@
 		"russian": "Работы",
 		"japanese": "労働者",
 		"polish": "Miejsca pracy",
-		"ukrainian": "Роботи",
+		"ukrainian": "Робочі місця",
 		"slovak": "Práce",
 		"portuguese": "Empregos",
 		"czech": "Práce",
@@ -1121,7 +1121,7 @@
 		"slovak": "Zvýšena efektivita susednou budovou",
 		"portuguese": "Impulsionado por edifícios vizinhos",
 		"czech": "Efektivita zvýšena sousední budovou:",
-		"hungarian": "Szomszédos épületek által jobb", //test
+		"hungarian": "Szomszédos épületek által hatékonyabb",
 		"thai": "แรงหนุนจากตึกข้างเคียง",
 		"turkish": "Komşu binalardan güçlendirilmiş",
 		"romanian": "Amplificat de clădirile vecine",
@@ -1735,6 +1735,7 @@
 		"french": "Impossible de se connecter à une autre station. Les lignes de nacelles ne peuvent pas être courbées !",
         "japanese": "他のゴンドラ駅に接続できません。 ゴンドラのロープは曲げられません！",
 		"thai": "ไม่สามารถเชื่อมต่อกับสถานีอื่นได้ สายของกระเช้าลอยฟ้าโค้งไม่ได้!",
+		"hungarian": "Nem csatlakoztatható a másik állomáshoz. A felvonó útja nem lehet görbe!",
     },
     "buildingConnectorTooSteep":  {
         "english": "Too steep",
@@ -1742,6 +1743,7 @@
 		"french": "Trop raide",
         "japanese": "勾配が急すぎます",
 		"thai": "สูงชันเกินไป",
+		"hungarian": "Túl meredek",
     },
     "buildingConnectorColliding":  {
         "english": "Colliding with something",
@@ -1749,6 +1751,7 @@
 		"french": "En collision avec quelque chose",
         "japanese": "他の物体と接触しています",
 		"thai": "ชนกับอะไรบางอย่าง",
+		"hungarian": "Valamivel ütközik",
     },
 	"visualizations": {
 		"english": "Visualizations",
@@ -2695,7 +2698,7 @@
 		"thai":"บรรทุกส่งของ",
 		"italian": "Camion delle consegne",
 		"czech": "Kamion",
-		"hungarian": "", //check in-game
+		"hungarian": "Kamion",
 		"romanian": "Camion de livrare",
 		"spanish": "Camión de reparto",
 		"spanish-esp": "Camión de reparto",
@@ -3333,6 +3336,7 @@
 		"french": "Canon laser",
 		"japanese": "レーザー砲",
 		"thai": "ปืนใหญ่เลเซอร์",
+		"hungarian": "Lézerágyú",
 	},
 
 
@@ -3393,7 +3397,7 @@
 		"russian": "С исправностью этого отсека, вы откроете одну случайную технологию.",
 		"thai": "เมื่อส่วนเชื่อมต่อนี้ออนไลน์ คุณจะปลดล็อกเทคโนโลยีแบบสุ่มได้หนึ่งอย่าง",
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つがアンロックされる。",
-		"hungarian": "Ezzel a modullal feloldassz egy véletlenszerű technológiát.",
+		"hungarian": "Ezzel a modullal feloldasz egy véletlenszerű technológiát.",
 		"czech": "S tímto modulem online odemknete jednu náhodnou technologii.",
 	},
 	"spaceshipUpgrade_laserCannon": {
@@ -3402,6 +3406,7 @@
 		"french": "Le canon laser d'Antares est assez puissant pour faire fondre les rochers. Débarrassez votre région des obstacles depuis l'orbite !",
 		"japanese": "アンタレスのレーザー砲は強力で、 岩を融かすことが可能です。 軌道からマップ上の障害物を除去しましょう！",
 		"thai": "ปืนใหญ่เลเซอร์ของแอนทาเรส มีพลังมากพอที่จะละลายหิน และจัดการแผนที่ของคุณ ที่มีสิ่งกีดขวางออกไปจากวงโคจร!",
+		"hungarian": "Antares lézerágyúja elég erős ahhoz, hogy sziklákat olvasszon. Tisztítsd meg a felszínt az űrből!",
 	},
 
 
@@ -3646,6 +3651,7 @@
 		"french": "Progression de la destruction",
         "japanese": "破壊の進捗",
 		"thai": "ความคืบหน้าของการทำลาย",
+		"hungarian": "Eltávolítás folyamatban",
     },
     "laserSelectedForDestruction": { // or "next targets"
         "english": "Selected for Destruction",
@@ -3653,6 +3659,7 @@
 		"french": "Prochaines cibles",
         "japanese": "次の目標",
 		"thai": "เป้าหมายต่อไป",
+		"hungarian": "Eltávolítésra jelölve",
     },
     "multiSelectTutorial": {
         "english": "Click on the objects you want to destroy with the laser.",
@@ -3660,6 +3667,7 @@
         "french": "Cliquez sur les objets que vous voulez détruire avec le laser.",
         "japanese": "レーザーで破壊したいものを選択してください",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
+		"hungarian": "Válaszd ki a lézerrel eltávolítani kívánt tárgyakra.",
     },
     "buildLaserCannonTutorial": {
         "english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
@@ -3667,5 +3675,6 @@
 		"french": "Réparez le canon laser du vaisseau spatial, afin de pouvoir utiliser la station de ciblage et détruire les obstacles.",
         "japanese": "宇宙船のレーザー砲を修理してください。 すると、障害物除去のためにレーザー照準ステーションを利用できるようになります。",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
+		"hungarian": "Javítsd meg a lézerágyút, hogy a célzó állomás segítségével eltávolíts akadályokat.",
     },
 }

@@ -2075,6 +2075,7 @@
       "french": "Nacelle de fret",
       "japanese": "貨物ゴンドラの駅",
       "thai": "ลิฟท์ขนของ",
+      "hungarian": "Felvonó",
   },
   "gondolaPole": { // the poles between gondola stations
       "english": "Gondola Lift Pole",
@@ -2086,5 +2087,6 @@
       "french": "Station de ciblage laser",
       "japanese": "レーザー照準ステーション",
       "thai": "สถานีกำหนดเป้าหมายเลเซอร์",
+      "hungarian": "Lézeres célzó állomás",
   },
 }
