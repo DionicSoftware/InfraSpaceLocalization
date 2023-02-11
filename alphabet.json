@@ -20,6 +20,7 @@
 		"swiss german": "Alpha",
 		"japanese": "α",
 		"farsi": "آلفا",
+		"chinese": "α",
 	},
 	"beta": {
 		"english": "Beta",
@@ -42,6 +43,7 @@
 		"swiss german": "Beta",
 		"japanese": "β",
 		"farsi": "بتا",
+		"chinese": "β",
 	},
 	"gamma": {
 		"english": "Gamma",
@@ -64,6 +66,7 @@
 		"swiss german": "Gamma",
 		"japanese": "γ",
 		"farsi": "گاما",
+		"chinese": "γ",
 	},
 	"delta": {
 		"english": "Delta",
@@ -86,6 +89,7 @@
 		"swiss german": "Delta",
 		"japanese": "δ",
 		"farsi": "دلتا",
+		"chinese": "δ",
 	},
 	"epsilon": {
 		"english": "Epsilon",
@@ -108,6 +112,7 @@
 		"swiss german": "Epsilon",
 		"japanese": "ε",
 		"farsi": "اپسیلون",
+		"chinese": "ε",
 	},
 	"zeta": {
 		"english": "Zeta",
@@ -130,6 +135,7 @@
 		"swiss german": "Zeta",
 		"japanese": "ζ",
 		"farsi": "زتا",
+		"chinese": "ζ",
 	},
 	"theta": {
 		"english": "Theta",
@@ -152,6 +158,7 @@
 		"swiss german": "Theta",
 		"japanese": "θ",
 		"farsi": "تتا",
+		"chinese": "θ",
 	},
 	"iota": {
 		"english": "Iota",
@@ -174,6 +181,7 @@
 		"swiss german": "Iota",
 		"japanese": "η",
 		"farsi": "آیوتا",
+		"chinese": "η",
 	},
 	"kappa": {
 		"english": "Kappa",
@@ -196,6 +204,7 @@
 		"swiss german": "Kappa",
 		"japanese": "κ",
 		"farsi": "کاپا",
+		"chinese": "κ",
 	},
 	"lambda": {
 		"english": "Lambda",
@@ -218,6 +227,7 @@
 		"swiss german": "Lambda",
 		"japanese": "λ",
 		"farsi": "لامبدا",
+		"chinese": "λ",
 	},
 	"mu": {
 		"english": "Mu",
@@ -240,6 +250,7 @@
 		"swiss german": "Mu",
 		"japanese": "μ",
 		"farsi": "میو",
+		"chinese": "μ",
 	},
 	"xi": {
 		"english": "Xi",
@@ -262,6 +273,7 @@
 		"swiss german": "Xi",
 		"japanese": "ξ",
 		"farsi": "زای",
+		"chinese": "ξ",
 	},
 	"omicron": {
 		"english": "Omicron",
@@ -284,6 +296,7 @@
 		"swiss german": "Omricon",
 		"japanese": "ο",
 		"farsi": "امیکرون",
+		"chinese": "ο",
 	},
 	"pi": {
 		"english": "Pi",
@@ -306,6 +319,7 @@
 		"swiss german": "Pi",
 		"japanese": "π",
 		"farsi": "پی",
+		"chinese": "π",
 	},
 	"rho": {
 		"english": "Rho",
@@ -328,6 +342,7 @@
 		"swiss german": "Rho",
 		"japanese": "ρ",
 		"farsi": "رو",
+		"chinese": "ρ",
 	},
 	"sigma": {
 		"english": "Sigma",
@@ -350,6 +365,7 @@
 		"swiss german": "Sigma",
 		"japanese": "σ",
 		"farsi": "سیگما",
+		"chinese": "σ",
 	},
 	"tau": {
 		"english": "Tau",
@@ -372,6 +388,7 @@
 		"swiss german": "Tau",
 		"japanese": "τ",
 		"farsi": "تاو",
+		"chinese": "τ",
 	},
 	"upsilon": {
 		"english": "Upsilon",
@@ -394,6 +411,7 @@
 		"swiss german": "Üpsilon",
 		"japanese": "υ",
 		"farsi": "اوپسلان",
+		"chinese": "υ",
 	},
 	"phi": {
 		"english": "Phi",
@@ -416,6 +434,7 @@
 		"swiss german": "Phi",
 		"japanese": "φ",
 		"farsi": "فی",
+		"chinese": "φ",
 	},
 	"chi": {
 		"english": "Chi",
@@ -438,6 +457,7 @@
 		"swiss german": "Chi",
 		"japanese": "χ",
 		"farsi": "کای",
+		"chinese": "χ",
 	},
 	"psi": {
 		"english": "Psi",
@@ -460,6 +480,7 @@
 		"swiss german": "Psi",
 		"japanese": "ψ",
 		"farsi": "سای",
+		"chinese": "ψ",
 	},
 	"omega": {
 		"english": "Omega",
@@ -482,5 +503,6 @@
 		"swiss german": "Omega",
 		"japanese": "ω",
 		"farsi": "امگا",
+		"chinese": "ω",
 	},
 }

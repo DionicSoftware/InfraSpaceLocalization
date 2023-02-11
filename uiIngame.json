@@ -629,7 +629,7 @@
 		"spanish-esp": "Precio",
 		"ukrainian": "Ціна",
 		"russian": "Стоимость:",
-		"chinese": "价格",
+		"chinese": "耗材",
 		"korean": "가격",
 		"polish": "Cena",
 		"italian": "Prezzo",
@@ -905,7 +905,7 @@
 		"dutch": "Arbeidsplaatsen",
 		"spanish": "Trabajos",
 		"spanish-esp": "Trabajos",
-		"chinese": "职业",
+		"chinese": "职位",
 		"italian": "Posti di lavoro",
 		"russian": "Работы",
 		"japanese": "求人",
@@ -997,7 +997,7 @@
 		"dutch": "Arbeidsplaatsen",
 		"spanish": "Trabajos",
 		"spanish-esp": "Trabajos",
-		"chinese": "职业",
+		"chinese": "职位",
 		"italian": "Posti di lavoro",
 		"russian": "Работы",
 		"japanese": "労働者",
@@ -1198,6 +1198,7 @@
 		"japanese": "宇宙船の技術：",
 		"hungarian": "Űrhajó technológia:",
 		"czech": "Technologie kosmické lodi:",
+		"chinese": "太空船技术：",
 	},
 
 
@@ -1234,7 +1235,7 @@
 		"greek": "0° Πλέγμα",
 		"japanese": "0° グリッド",
 		"hungarian": "0° Négyzetháló",
-		"": "0° 网格",
+		"chinese": "0° 网格",
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
@@ -1351,6 +1352,7 @@
 		"german": "Kehrt außerdem Straßenrichtung um wenn keine Straße zum ersetzen ausgewählt ist",
 		"french": "Inverse la direction de la route sauf pour les remplacements de routes",
 		"dutch": "Draait ook de wegrichting om als je geen vervangende weg hebt geselecteerd.",
+		"chinese": "如果未选择替代道路，也能反转道路方向",
 		"polish": "Pozwala także odwrócić kierunek drogi, jeśli nie wybrano innego typu ulicy do zamiany.",
         "spanish": "Además invierte la dirección de la carretera si no tienes un reemplazo seleccionado",
 		"spanish-esp": "Además, invierte la dirección de la carretera si no tienes una carretera para reemplazar seleccionada",
@@ -1736,6 +1738,7 @@
         "japanese": "他のゴンドラ駅に接続できません。 ゴンドラのロープは曲げられません！",
 		"thai": "ไม่สามารถเชื่อมต่อกับสถานีอื่นได้ สายของกระเช้าลอยฟ้าโค้งไม่ได้!",
 		"hungarian": "Nem csatlakoztatható a másik állomáshoz. A felvonó útja nem lehet görbe!",
+		"chinese": "无法连接到其他车站。缆车线路不能弯曲！",
     },
     "buildingConnectorTooSteep":  {
         "english": "Too steep",
@@ -1744,6 +1747,7 @@
         "japanese": "勾配が急すぎます",
 		"thai": "สูงชันเกินไป",
 		"hungarian": "Túl meredek",
+		"chinese": "太陡了",
     },
     "buildingConnectorColliding":  {
         "english": "Colliding with something",
@@ -1752,6 +1756,7 @@
         "japanese": "他の物体と接触しています",
 		"thai": "ชนกับอะไรบางอย่าง",
 		"hungarian": "Valamivel ütközik",
+		"chinese": "与其他物体冲突",
     },
 	"visualizations": {
 		"english": "Visualizations",
@@ -1828,7 +1833,7 @@
 		"german": "Strom",
 		"french": "Énergie",
 		"dutch": "Stroom",
-		"chinese": "电力",
+		"chinese": "电力范围",
 		"russian": "Энергия",
 		"italian": "Energia",
 		"spanish": "Energía",
@@ -2628,6 +2633,7 @@
 		"danish": "Lageret til byggematerialer opbevarer beton og stål, som du skal bruge til bygninger og infrastruktur.",
 		"greek": "Η αποθήκη για οικοδομικά υλικά αποθηκεύει μπετό και ατσάλι, που χρειάζεσαι για να κατασκευάσεις κτήρια και υποδομές.",
 		"japanese": "建築材料用の倉庫は、 コンクリートと鉄を貯蔵する。 これらは、 施設やインフラを 建設するために 必要になる。",
+		"chinese": "建筑材料仓库储存混凝土和钢材，用于建筑和基础设施。",
 	},
 	// train info panel
 	"train": {
@@ -2647,7 +2653,7 @@
 		"danish": "Tog",
 		"greek": "Τρένο",
 		"japanese": "列車",
-		"chinese": "火车",
+		"chinese": "列车",
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -2744,7 +2750,7 @@
 		"danish": "Tog Linjer",
 		"greek": "Γραμμές τρένου",
 		"japanese": "鉄道",
-		"chinese": "铁路",
+		"chinese": "列车轨道",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2782,7 +2788,7 @@
 		"danish": "Tog på linjen: %amount%",
 		"greek": "Τρένα στην γραμμή:%amount%",
 		"japanese": "路線の列車数: %amount%",
-		"chinese": "在轨火车数：%amount%",
+		"chinese": "在轨列车数：%amount%",
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2801,7 +2807,7 @@
 		"danish": "Tog farve",
 		"greek": "Χρώμα τρένου",
 		"japanese": "列車の色",
-		"chinese": "火车颜色",
+		"chinese": "列车颜色",
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2821,7 +2827,7 @@
 		"danish": "Togsignalering",
 		"greek": "Σήμανση τρένων",
 		"japanese": "鉄道信号",
-		"chinese": "铁路信号",
+		"chinese": "列车信号",
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2840,6 +2846,7 @@
 		"danish": "Røde skinner angiver segmenter, hvor tog kan støde sammen.",
 		"greek": "Οι κόκκινες γραμμές υποδεικνύουν κομμάτια που τα τρένα μπορεί να συγκρουστούν.",
 		"japanese": "赤色のレールは、 列車が衝突する可能性がある セグメントを示す。",
+		"chinese": "红色轨道表示列车可能相撞的路段。",
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2858,6 +2865,7 @@
 		"danish": "Orange skinner viser skinnekryds. Disse er skabt omkring røde segmenter. I de fleste tilfælde kan kun ét tog køre ind i et vejkryds ad gangen.",
 		"greek": "Οι πορτοκαλί γραμμές δείχνουν διασταυρώσεις ραγών.Δημιουργούνται γύρω από κόκκινα κομμάτια.Στις περισσότερες περιπτώσεις μόνο ένα τρένο μπορεί να μπει σε μία διασταύρωση τη φορά.",
 		"japanese": "橙色のレールはレール分岐点を示す。 赤色のセグメントの周りに作られる。 大抵の場合、 1編成の列車のみが 分岐点に進入できる。",
+		"chinese": "橙色轨道显示轨道交叉点。这些是围绕红色轨道路段创建的。在大多数情况下，一次只能有一列列车进入交叉轨道口。",
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2876,6 +2884,7 @@
 		"danish": "Grønne skinner er lige segmenter uden risiko for kollision.",
 		"greek": "Οι πράσινες γραμμές είναι ευθεία κομμάτια χωρίς πιθανότητα σύγκρουσης",
 		"japanese": "緑色のレールは直進セグメントを指し、 衝突のリスクが無い。",
+		"chinese": "绿色轨道是直线路段，没有碰撞风险。",
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2894,6 +2903,7 @@
 		"danish": "Togsignalsystemet forhindrer dine tog i at kollidere eller blokere hinanden.",
 		"greek": "Το σύστημα σήμανσης τρένων αποτρέπει τα τρένα από να συγκρούονται και να καθυστερούν το ένα το άλλο",
 		"japanese": "鉄道信号システムは、 列車の衝突やデッドロックを 防止する。",
+		"chinese": "列车信号系统可防止列车发生碰撞或停车。",
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2912,6 +2922,7 @@
 		"danish": "For maksimal gennemstrømning skal du sørge for at have nok plads med lange grønne segmenter mellem krydsene.",
 		"greek": "Για μέγιστη διακίνηση, σιγουρέψου ότι έχεις αρκετό χώρο με μακρυά πράσινα κομμάτια μεταξύ διασταυρώσεων.",
 		"japanese": "スループットを最大化するには、 長い緑色のレールにより 十分な間隔を分岐点間に設ける必要がある。",
+		"chinese": "为了实现最大吞吐量，请确保在轨道交叉口之间有足够的空间和较长的绿色路段。",
 	},
 	"rails": {
 		"english": "Rails",
@@ -2930,7 +2941,7 @@
 		"danish": "Skinner",
 		"greek": "Ράγες",
 		"japanese": "レール",
-		"chinese": "铁轨",
+		"chinese": "轨道",
 	},
 
 
@@ -3000,7 +3011,7 @@
 		"greek": "Πήγαινε στην επόμενη φάση όταν είναι άδειοι οι δρομοι",
 		"japanese": "道路が空の場合、ただちに次のフェーズに進む。",
 		"hungarian": "Ugrás a következő fázisra, ha az utak üresek",
-		"chinese": "道路为空时跳过当前相位",
+		"chinese": "道路为空时跳过当前阶段",
 	},
 
 	"providing": { // like a school provides schooling
@@ -3147,6 +3158,7 @@
 		"japanese": "宇宙船",
 		"hungarian": "Űrhajó",
 		"czech": "Kosmická loď",
+		"chinese": "太空船",
 	},
 	"planet": {
 		"english": "Planet",
@@ -3276,7 +3288,7 @@
 		"japanese": "船体",
 		"hungarian": "Hajótest",
 		"czech": "Trup",
-		"chinese": "舰身",
+		"chinese": "舰体",
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
@@ -3337,6 +3349,7 @@
 		"japanese": "レーザー砲",
 		"thai": "ปืนใหญ่เลเซอร์",
 		"hungarian": "Lézerágyú",
+		"chinese": "激光炮",
 	},
 
 
@@ -3351,6 +3364,7 @@
 		"japanese": "この進捗により乗務員の信頼を得る。 移住が永続的に5%増加する。",
 		"hungarian": "A haladásod meggyőzi a személyzet tagjait, hogy bízzanak benned. Végleges 5%-os bevándorlási bónusz.",
 		"czech": "Váš pokrok přesvědčí členy posádky, aby vám důvěřovali. Trvalé 5% zvýšení imigrace.",
+		"chinese": "你的进步让船员信任你。移民率永久性增长加5%。",
 	},
 	"spaceshipUpgrade_instantImmigrationBoost": {
 		"english": "Your progress convinces crew members to trust you. %amount% people immediately come to the planet to help you.",
@@ -3363,6 +3377,7 @@
 		"japanese": "この進捗により乗務員の信頼を得る。 ただちに%amount%人が支援のために惑星に来る。",
 		"hungarian": "A haladásod meggyőzi a személyzet tagjait, hogy bízzanak benned. %amount% ember azonnal a bolygódra siet, hogy segítsen.",
 		"czech": "Váš pokrok přesvědčí členy posádky, aby vám důvěřovali. %amount% lidé okamžitě přijdou na planetu, aby vám pomohli.",
+		"chinese": "你的进步让船员信任你。%amount%的人想立即来到这个星球援助你。",
 	},
 	"spaceshipUpgrade_efficiencyBoost": {
 		"english": "Rerouting spaceship power increases all building efficiency permanently by %percentage%%.",
@@ -3375,6 +3390,7 @@
 		"japanese": "宇宙船の電力のリルートにより、 全ての施設の効率を永続的に5%向上する。",  // 暫定訳 (provisional translation)
 		"hungarian": "Az űrhajó energiáinak átirányítása megemeli az összes épület hatékonyságát véglegesen %percentage%%-kal.",
 		"czech": "Přesměrování energie vesmírné lodi trvale zvyšuje veškerou efektivitu budovy o %percentage%%.",
+		"chinese": "重新安排飞船功率将永久提高所有建筑%percentage%%的效率。",
 	},
 	"spaceshipUpgrade_techBoost": {
 		"english": "With this module online, you receive a %percentage%% boost to a random technology.",
@@ -3387,6 +3403,7 @@
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つが%percentage%%のブーストを得る。",  // 暫定訳 (provisional translation)。要検証: boostは研究進捗の意味？
 		"hungarian": "Ha ez a modul aktív, akkor %percentage%%-os bónuszt kapsz egy véletlenszerű technológiára.",
 		"czech": "S tímto modulem online získáte %percentage%% navýšení náhodné technologie.",
+		"chinese": "此模块在线后，你将获得随机技术%percent%%的提升。",
 	},
 	"spaceshipUpgrade_techBoostFull": {
 		"english": "With this module online, you unlock one random technology.",
@@ -3399,6 +3416,7 @@
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つがアンロックされる。",
 		"hungarian": "Ezzel a modullal feloldasz egy véletlenszerű technológiát.",
 		"czech": "S tímto modulem online odemknete jednu náhodnou technologii.",
+		"chinese": "此模块在线，你可以解锁一项随机技术。",
 	},
 	"spaceshipUpgrade_laserCannon": {
 		"english": "Antares' laser cannon is powerful enough to melt rocks. Clear your map of obstacles from orbit!",
@@ -3407,6 +3425,7 @@
 		"japanese": "アンタレスのレーザー砲は強力で、 岩を融かすことが可能です。 軌道からマップ上の障害物を除去しましょう！",
 		"thai": "ปืนใหญ่เลเซอร์ของแอนทาเรส มีพลังมากพอที่จะละลายหิน และจัดการแผนที่ของคุณ ที่มีสิ่งกีดขวางออกไปจากวงโคจร!",
 		"hungarian": "Antares lézerágyúja elég erős ahhoz, hogy sziklákat olvasszon. Tisztítsd meg a felszínt az űrből!",
+		"chinese": "安塔利斯激光炮威力足以熔化岩石。清除你地图上轨道的障碍物！",
 	},
 
 
@@ -3553,7 +3572,7 @@
 		"japanese": "この設定は輸送難易度を無効化します！\nInfraSpaceの 交通に関するゲーム性に 興味が無い場合に 選択してください。",
 		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.",
 		"czech": "Toto nastavení eliminuje potíže s provozem!\nVyberte toto, pokud vás nezajímá herní režim InfraSpace.",
-		"chinese": "该选项将使道路交通不再堵塞！如果你对InfraSpace中的道路交通规划不感兴趣，请选择此项。",
+		"chinese": "该选项将使道路交通不再堵塞！\n如果你对InfraSpace中的道路\n交通规划不感兴趣，请选择此项。",
 	},
 	"truckRoundTrip_title": {
 		"english": "Cars make round trips", // or: cars drive back after delivery
@@ -3579,7 +3598,7 @@
 		"japanese": "この設定は、交通を大幅に難しくします。\n挑戦を求めている場合に選択してください。",
 		"hungarian": "Ez a beállítás jelentősen megnehezíti a közlekedést.\nEzt akkor válaszd ki, ha kihívást akarsz.",
 		"czech": "Toto nastavení značně ztěžuje provoz.\nVyberte toto, pokud hledáte výzvu.",
-		"chinese": "该选项将会使道路交通规划变得更加困难。如果你想找点乐子，请选择此项。",
+		"chinese": "该选项将会使道路交通规划变得更加困难。\n如果你想找点乐子，请选择此项。",
 	},
 
 
@@ -3652,6 +3671,7 @@
         "japanese": "破壊の進捗",
 		"thai": "ความคืบหน้าของการทำลาย",
 		"hungarian": "Eltávolítás folyamatban",
+		"chinese": "摧毁进度",
     },
     "laserSelectedForDestruction": { // or "next targets"
         "english": "Selected for Destruction",
@@ -3660,6 +3680,7 @@
         "japanese": "次の目標",
 		"thai": "เป้าหมายต่อไป",
 		"hungarian": "Eltávolítésra jelölve",
+		"chinese": "下个目标",
     },
     "multiSelectTutorial": {
         "english": "Click on the objects you want to destroy with the laser.",
@@ -3668,6 +3689,7 @@
         "japanese": "レーザーで破壊したいものを選択してください",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
 		"hungarian": "Válaszd ki a lézerrel eltávolítani kívánt tárgyakra.",
+		"chinese": "单击要用激光炮摧毁的对象。",
     },
     "buildLaserCannonTutorial": {
         "english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
@@ -3676,5 +3698,6 @@
         "japanese": "宇宙船のレーザー砲を修理してください。 すると、障害物除去のためにレーザー照準ステーションを利用できるようになります。",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
 		"hungarian": "Javítsd meg a lézerágyút, hogy a célzó állomás segítségével eltávolíts akadályokat.",
+		"chinese": "修理太空船上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
     },
 }

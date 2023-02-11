@@ -190,6 +190,7 @@
 		"hungarian": "Űrhajó megjavítva!",
 		"czech": "Vesmírná loď byla opravena!",
 		"ukrainian": "Вітаємо, космічний корабель відремонтовано!",
+		"chinese": "太空船修好了！",
 	},
 	"message_spaceshipRepairedDesc": {
 		"english": "Congratulations!\n\nYou have repaired your spaceship and have reestablished contact with the human civilization.\n\nWhat comes next will be revealed during InfraSpace's Early Access. For now, you can keep building your city and make it great!",
@@ -203,6 +204,7 @@
 		"hungarian": "Gratulálunk!\n\nMegjavítottad az űrhajódat és visszaállítottad a kapcsolatot az emberi civilizációval.\n\nAmi ezután következik az ki fog derülni az InfraSpace Early Access-ben. Addig is, nyugodtan tudod folytatni városod építését hogy lenyűgöző legyen!",
 		"czech": "Gratulujeme!\n\nOpravili jste svou vesmírnou loď a obnovili jste kontakt s lidskou civilizací.\n\nCo přijde dál, bude odhaleno během Early Access's InfraSpace. Prozatím můžete své město budovat a dělat ho skvělým!",
 		"ukrainian": "Вітаємо!\n\nВі змогли відбудувати корабель, та налагодити зв'язок з людською цивілізацією.\n\nТе, що буде в подальшому буде показано в ході дочасного доступу InfraSpace. А зараз ви можете продовжувати розбудовувати ваше місто, і зробити його ще кращим!",
+		"chinese": "祝贺！\n\n你已经修复了你的宇宙飞船，并重新建立了与人类文明的联系。\n\n下一步将在InfraSpace的抢先体验中揭晓。现在，你可以继续建设你的城市，让它变得伟大！",
 	},
 	
 	"message_researchBoostTitle": {
@@ -217,6 +219,7 @@
 		"ukrainian": "Дослідження технології: %tech%, було пришвидшено",
 		"thai": "เร่งการวิจัย: %tech%",
 		"hungarian": "Kutatás gyorsítás: %tech%",
+		"chinese": "研究提升：%tech%",
 		
 	},
 	"message_researchBoostDesc": {
@@ -231,6 +234,7 @@
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.\nПрогресс дослідження технології: \"%tech%\", був пришвидшений на: %percentage%%.",
 		"thai": "เราได้ซ่อมแซมยานอวกาศของเราบางส่วน: %spaceshippart% เสร็จไปแล้ว\nการวิจัยเกี่ยวกับเทคโนโลยี \"%tech%\" ได้รับการเร่งไป %percentage%%",
 		"hungarian": "Megjavítottuk a(z) %spaceshippart%-t.\nA(z) \"%tech%\" kutatása gyorsabb ennyivel: %percentage%%.",
+		"chinese": "我们已经完成了太空船的部分维修：%spaceshippart%。\n\"%tech%\"的技术研究已提高了%percentage%%。",
 	},
 	
 	"message_spaceshipBonusTitle": {
@@ -245,6 +249,7 @@
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.",
 		"thai": "ซ่อมแซมชิ้นส่วนยานอวกาศ: %spaceshippart% แล้ว",
 		"hungarian": "Az űrhajó %spaceshippart% részének javítása kész",
+		"chinese": "太空船部件已修复：%spaceshippart%",
 	},
 	"message_spaceshipBonusDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nAs a consequence, we receive the following bonus:\n\n%bonus%",
@@ -258,5 +263,6 @@
 		"ukrainian": "Відсік корабля: %spaceshippart%, відремонтовано.\nЗа це ми отримали бонус:\n\n%bonus%",
 		"thai": "เราได้ซ่อมแซมยานอวกาศของเราบางส่วน: %spaceshippart% เสร็จไปแล้ว\nเป็นผลให้ได้รับโบนัสดังนี้:\n\n%bonus%",
 		"hungarian": "Megjavítottuk a %spaceshippart% részét az űrhajónak.\nEzáltal a következő bónuszra tettünk szert:\n\n%bonus%",
+		"chinese": "我们已经完成了太空船的部分维修：%spaceshippart%。\n因此，我们获得以下奖励：\n\n%bonus%",
 	},
 }

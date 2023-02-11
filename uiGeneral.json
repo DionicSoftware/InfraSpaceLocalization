@@ -1,4 +1,4 @@
-{
+﻿{
 	"yes": {
 		"english": "Yes",
 		"german": "Ja",
@@ -169,6 +169,7 @@
 		"romanian": "m",
 		"danish": "m",
 		"greek": "λ",
+		"chinese": "分",
 	},
 	"seconds": {
 		"english": "seconds",

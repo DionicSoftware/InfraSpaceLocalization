@@ -1049,7 +1049,7 @@
     "romanian": "Port spațial",
     "scotsgaelic": "Port Fànais",
     "danish": "Rumhavn",
-     "greek": "Διαστημικό λιμάνι",
+    "greek": "Διαστημικό λιμάνι",
     "swiss german": "Wältallhafe",
     "farsi":"فرودگاه فضا پیما",
   },
@@ -1065,6 +1065,7 @@
     "japanese": "宇宙船建設施設",
     "hungarian": "Űrhajó építő létesítmény",
     "czech": "Zařízení na stavbu kosmických lodí",
+    "chinese": "太空船建造设施",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -1635,7 +1636,7 @@
       "hungarian": "Légkörvízszűrő",
       "czech": "Vodní vzduchový filtr",
       "ukrainian": "Атмосферний конденсатор водяної пари",
-      "chinese": "空气制水机",
+      "chinese": "空气滤水器",
   },
   "waterWellHydraulic": { // translation different than key
       "english": "Ground Water Extractor",
@@ -1975,7 +1976,7 @@
     "hungarian": "Mini vasútállomás",
     "czech": "Mini železniční stanice",
     "ukrainian": "Крихітна станція",
-    "chinese": "微型火车站",
+    "chinese": "微型列车站",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1998,7 +1999,7 @@
     "swiss german": "Chlinä Bahnhof",
     "farsi":"ایستگاه قطار کوچک",
     "japanese": "小型鉄道駅",
-    "chinese": "小型火车站",
+    "chinese": "小型列车站",
   },
   "trainstation_4R": {
     "english": "Medium Train Station",
@@ -2021,7 +2022,7 @@
     "swiss german": "Mittlerä Bahnhof",
     "farsi":"ایستگاه قطار متوسط",
     "japanese": "中型鉄道駅",
-    "chinese": "中型火车站",
+    "chinese": "中型列车站",
   },
   "trainstation_6R": {
     "english": "Large Train Station",
@@ -2044,7 +2045,7 @@
     "swiss german": "Grossä Bahnhof",
     "farsi":"ایستگاه قطار بزرگ",
     "japanese": "大型鉄道駅",
-    "chinese": "大型火车站",
+    "chinese": "大型列车站",
   },
   "trainstation_8R": {
     "english": "Main Train Station",
@@ -2067,7 +2068,7 @@
     "swiss german": "Hauptbahnhof",
     "farsi":"ایستگاه قطار مرکزی",
     "japanese": "基幹鉄道駅",
-    "chinese": "中央火车站",
+    "chinese": "中央列车站",
   },
   "gondolaStation": { // cargo gondola, cargo elevator
       "english": "Cargo gondola",
@@ -2076,10 +2077,12 @@
       "japanese": "貨物ゴンドラの駅",
       "thai": "ลิฟท์ขนของ",
       "hungarian": "Felvonó",
+      "chinese": "货物缆车",
   },
   "gondolaPole": { // the poles between gondola stations
       "english": "Gondola Lift Pole",
       "german": "Gondelstütze",
+      "chinese": "缆车升降杆",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",
@@ -2088,5 +2091,6 @@
       "japanese": "レーザー照準ステーション",
       "thai": "สถานีกำหนดเป้าหมายเลเซอร์",
       "hungarian": "Lézeres célzó állomás",
+      "chinese": "激光瞄准站",
   },
 }

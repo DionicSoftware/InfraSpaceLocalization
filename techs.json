@@ -352,7 +352,8 @@
     "japanese": "宇宙船の建設",
     "hungarian": "Űrhajó építés",
     "czech": "Konstrukce vesmírné lodi",
-  "ukrainian": "Фабрика космічних кораблів",
+    "ukrainian": "Фабрика космічних кораблів",
+    "chinese": "飞船建造",
   },
   "tech_motors": {
     "english": "Motors",
@@ -411,6 +412,7 @@
     "japanese": "貨物ゴンドラ",
     "thai": "กระเช้าขนส่งลอยฟ้า",
     "hungarian": "Felvonók",
+    "chinese": "货运缆车",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -748,7 +750,7 @@
     "spanish-esp": "Fermentación del Metano",
     "russian": "Ферментация метана",
     "thai": "การหมักมีเทน",
-	"japanese": "メタン発酵",
+    "japanese": "メタン発酵",
     "hungarian": "Metánerjesztés",
     "czech": "Fermentace metanu",
 	  "ukrainian": "Переробка метану",
@@ -898,7 +900,7 @@
     "greek": "Τρένα",
     "farsi":"قطار ها",
 	"japanese": "鉄道",
-    "chinese": "火车",
+    "chinese": "列车",
   },
   "tech_highSpeedRail": {
     "english": "High Speed Rail",
