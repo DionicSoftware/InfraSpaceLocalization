@@ -54,6 +54,7 @@ Arabic
 
 Turkish
 - Can Ozan Gürleyen
+- Furkan Efe (efella)
 
 Romanian
 - Marcel Buian
