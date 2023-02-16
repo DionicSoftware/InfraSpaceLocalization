@@ -1017,7 +1017,7 @@
     "portuguese": "Armazém de material de contrução",
     "hungarian": "Építőanyag raktár",
     "thai": "โรงจัดเก็บวัสดุก่อสร้าง",
-    "turkish": "Depo",
+    "turkish": "İnşaat materyali Deposu",
     "korean": "창고",
     "romanian": "Depozitare materiale de construcții",
     "scotsgaelic": "Stòradh togail",
@@ -1065,6 +1065,7 @@
     "japanese": "宇宙船建設施設",
     "hungarian": "Űrhajó építő létesítmény",
     "czech": "Zařízení na stavbu kosmických lodí",
+    "turkish": "Uzay gemisi inşaa fabrikası",
     "chinese": "太空船建造设施",
   },
   "recyclingCenter": {
@@ -1301,7 +1302,7 @@
     "portuguese": "Laboratório de carne",
     "hungarian": "Húslabor",
     "thai": "ห้องวิจัยเนื้อ",
-    "turkish": "Et Labaratuvar",
+    "turkish": "Et Labaratuvarı",
     "korean": "고기 연구소",
     "romanian": "Laborator de carne",
     "scotsgaelic": "Lab Feòil",
@@ -1382,7 +1383,7 @@
     "portuguese": "Moradia decente",
     "hungarian": "Tisztességes lakóhely",
     "thai": "ที่อยู่อาศัยอย่างดี",
-    "turkish": "İyi Habitat",
+    "turkish": "Ortalama Habitat",
     "korean": "일반 거주시설(LV2)",
     "romanian": "Habitat decent",
     "scotsgaelic": "Taigh Math",
@@ -1544,7 +1545,7 @@
     "portuguese": "Estádio",
     "hungarian": "Stadion",
     "thai": "สนามกีฬา",
-    "turkish": "Arena",
+    "turkish": "Stadyum",
     "korean": "경기장",
     "romanian": "Stadion",
     "scotsgaelic": "Stèideam",
@@ -1594,6 +1595,7 @@
       "japanese": "酸素タンク",
       "hungarian": "Oxigéntartály",
       "czech": "Nádrž na kyslík",
+      "turkish": "Oksijen tankı",
       "ukrainian": "Бак з киснем",
       "chinese": "氧气储气罐",
   },
@@ -1608,6 +1610,7 @@
       "japanese": "貯水タンク",
       "hungarian": "Víztartály",
       "ukrainian": "Бак з водою",
+      "turkish": "Su tankı",
       "chinese": "蓄水池",
   },
   "methaneTank": {
@@ -1622,6 +1625,7 @@
       "hungarian": "Metántartály",
       "czech": "Nádrž na metan",
       "ukrainian": "Бак з метаном",
+      "turkish": "Methan gazı tankı",
       "chinese": "天然气储气罐",
   },
   "waterAirFilter": {
@@ -1636,6 +1640,7 @@
       "hungarian": "Légkörvízszűrő",
       "czech": "Vodní vzduchový filtr",
       "ukrainian": "Атмосферний конденсатор водяної пари",
+      "turkish": "Nemden su üretim tesisi",
       "chinese": "空气滤水器",
   },
   "waterWellHydraulic": { // translation different than key
@@ -1650,6 +1655,7 @@
       "hungarian": "Talajvíz kinyerő",
       "czech": "Extrakce podzemní vody",
       "ukrainian": "Підземна водяна скважина",
+      "turkish": "Yeraltı suyu çıkarma tesisi",
       "chinese":"潜水泵",
   },
   "methaneDrill": {
@@ -1664,6 +1670,7 @@
       "hungarian": "Metán fúró",
       "czech": "Metanový vrták",
       "ukrainian": "Підземна матанова скважина",
+      "turkish": "methan gazı çıkarıcı",
       "chinese": "天然气井",
   },
   "methaneFermentationPlant": {
@@ -1678,6 +1685,7 @@
       "hungarian": "Metán erjesztő létesítmény",
       "czech": "Závod na fermentaci metanu",
       "ukrainian": "Косплекс переробки метану",
+      "turkish": "methan gazı fermente tesisi",
       "chinese": "沼气发酵池",
   },
   "methanePowerPlant": {
@@ -1692,6 +1700,7 @@
       "hungarian": "Metán erőmű",
       "czech": "Metanová elektrárna",
       "ukrainian": "Метанова електростанція",
+      "turkish": "methan gazı enerji santrali",
       "chinese": "沼气发电厂",
   },
 
@@ -1976,6 +1985,7 @@
     "hungarian": "Mini vasútállomás",
     "czech": "Mini železniční stanice",
     "ukrainian": "Крихітна станція",
+    "turkish": "Minik tren istasyonu",
     "chinese": "微型列车站",
   },
   "trainstation_2R": {
@@ -2052,7 +2062,7 @@
     "german": "Hauptbahnhof",
     "french": "Gare principale",
     "thai": "สถานีรถไฟหลัก",
-    "turkish": "Anan Tren İstasyonu",
+    "turkish": "Ana Tren İstasyonu",
     "russian": "Главный вокзал",
     "polish": "Dworzec główny",
     "italian": "Stazione Ferroviaria Principale",
@@ -2077,11 +2087,13 @@
       "japanese": "貨物ゴンドラの駅",
       "thai": "ลิฟท์ขนของ",
       "hungarian": "Felvonó",
+      "turkish": "Kargo teleferiği",
       "chinese": "货物缆车",
   },
   "gondolaPole": { // the poles between gondola stations
       "english": "Gondola Lift Pole",
       "german": "Gondelstütze",
+      "turkish": "Teleferik direği,",
       "chinese": "缆车升降杆",
   },
   "targetingStation": {
@@ -2091,6 +2103,7 @@
       "japanese": "レーザー照準ステーション",
       "thai": "สถานีกำหนดเป้าหมายเลเซอร์",
       "hungarian": "Lézeres célzó állomás",
+      "turkish": "Lazer hedefleme istasyonu",
       "chinese": "激光瞄准站",
   },
 }
