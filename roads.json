@@ -143,6 +143,7 @@
 		"farsi":"ریل پرسرعت",
 		"japanese": "高速レール",
 		"hungarian": "Nagysebességű sín",
+		"turkish": "Yüksek hızlı ray",
 		"chinese": "高速铁轨",
 	},
 	"rail_oneWay_superhighspeed": {
@@ -163,6 +164,7 @@
 		"farsi":"ریل سرعت نور",
 		"japanese": "超高速レール",
 		"hungarian": "Szupersebességű sín",
+		"turkish": "Çok yüksek hızlı ray",
 		"chinese": "超高速铁轨",
 	},
 
@@ -178,6 +180,7 @@
 		"hungarian": "Oxigén csövek",
 		"czech": "Kyslíkové potrubí",
 		"ukrainian": "Труба для кисню",
+		"turkish": "Oksijen borusu",
 		"chinese": "氧气管道",
 	},
 	"pipe_water": {
@@ -192,6 +195,7 @@
 		"hungarian": "Vízcsövek",
 		"czech": "Vodní potrubí",
 		"ukrainian": "Труба для води",
+		"turkish": "Su borusu",
 		"chinese": "用水管道",
 	},
 	"pipe_methane": {
@@ -206,6 +210,7 @@
 		"hungarian": "Metán csövek",
 		"czech": "Matanové potrubí",
 		"ukrainian": "Труба для метану",
+		"turkish": " Methan gazı Borusu",
 		"chinese": "天然气管道",
 	},
 }
