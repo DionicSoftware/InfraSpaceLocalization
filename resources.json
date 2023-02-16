@@ -843,6 +843,7 @@
 		"hungarian": "Víz",
 		"czech": "Voda",
 		"ukrainian": "Вода",
+		"turkish": "Su",
 		"chinese": "水",
 	},
 	"resource_methane": {
@@ -857,6 +858,7 @@
 		"hungarian": "Metán",
 		"czech": "Metan",
 		"ukrainian": "Метан",
+		"turkish": "Methan gazı",
 		"chinese": "天然气",
 	},
 	"resource_spaceshipModule": {
@@ -871,6 +873,7 @@
 		"hungarian": "Űrhajó modul",
 		"czech": "Modul kosmické lodi",
 		"ukrainian": "Модулі космічного корабля",
+		"turkish": "Uzay gemisi modülü",
 		"chinese": "太空船模块",
 	},
 	"resource_fertilizer": {
@@ -963,6 +966,7 @@
 		"hungarian": "Organikus hulladék", 
 		"czech": "Organický odpad",
 		"ukrainian": "Органічне сміття",
+		"turkish": "Gübre",
 		"chinese": "有机废料",
 	},
 	"resource_goodFood": {
