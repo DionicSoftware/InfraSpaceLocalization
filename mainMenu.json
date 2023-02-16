@@ -153,6 +153,7 @@
 		"swiss german": "Zrugg",
 		"farsi":"بازگشت",
 		"japanese": "戻る",
+		"turkish": "Geri",
 		"chinese": "返回",
 	},
 	"backToGame": {
@@ -412,7 +413,7 @@
 		"hungarian": "Ez a játék még nincs készen. Lehetnek benne hibák \n\nEzeket a korai verziókat adjuk ki játékosoknak, hogy visszajelzést kapjunk a játékmenetről és mielőbb megtaláljuk a hibákat a hivatalos kiadás előtt.\n\nTudasd velünk, hogy neked hogy tetszik!",
 		"thai": "เกมนี้ยังไม่เสร็จอาจจะมีข้อผิดพลาด\n\nเรากำลังเผยแพร่เวอร์ชันแรกๆ พวกนี้ให้กับผู้เล่น เพื่อให้เราได้รับคำติชมจากการเล่นและค้นหาจุดบกพร่องก่อนการเปิดตัวอย่างเป็นทางการ\n\nแจ้งให้เราทราบว่าคุฯชอบมันหรือไม่!",
 		"arabic": "هذه اللعبة ليست مكتملة بعد.\n\nنحن نقوم بإطلاق تلك الإصدارات المبكرة للاعبين حتى نحصل على بعض التقييمات عن تجربة اللعب  واكتشاف المشاكل قبل إطلاق اللعبة الرسمي بكثير.\n\nأخبرنا كيف تحب اللعبة!",
-		"turkish":"Bu oyun daha tamamlanmamaışdır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
+		"turkish":"Bu oyun daha tamamlanmamıştır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
 		"romanian": "Acest joc nu este încă terminat. Poate conține bug-uri.\n\nLansăm jucătorilor aceste versiuni timpurii, astfel încât să putem obține feedback despre joc și să găsim erori cu mult înainte de lansarea oficială.\n\nSpune-ne cum îți place!",
 		"danish": "Dette spil er ikke færdigt endnu. Det kan indeholde fejl.\n\nVi udsender disse tidlige versioner til spillere så vi kan få feedback på spiloplevelsen og finde fejlene lang tid før den endelige release.\n\nFortæl os endelig hvad du synes!",
 		"greek": "Το παιχνίδι δέν είναι έτοιμο ακόμα.Μπορεί να περιέχει προβλήματα.\n\nΚυκλοφορούμε αυτές τις πρώιμες εκδόσεις στους παίκτες ώστε να λάβουμε σχόλια στο παίξιμο του παιχνιδιού και να εντοπίσουμε προβλήματα πολύ πριν την επίσιμη κυκλοφορία.\n\nΠείτε μας πόσο σας αρέσει!",
@@ -953,7 +954,7 @@
 		"hungarian": "Exklúzív teljesképernyős",
 		"thai": "เต็มจอพิเศษ",
 		"arabic": "ملء تام للشاشة",
-		"turkish":"Exclusive Tam Ekran",
+		"turkish":"Pencereli Tam Ekran",
 		"romanian": "Ecran complet exclusiv",
 		"danish": "Eksklusiv fuldskærm",
 		"greek": "Αποκλειστικά Πλήρης Οθόνη",
@@ -1086,6 +1087,7 @@
 		"swiss german": "UI Grössi",
 		"farsi":"اندازه صفحه",
 		"japanese": "UIスケール",
+		"turkish": "Arayüz boyutu",
 		"chinese": "界面尺寸",
 	},
 	"brightness": {
@@ -1339,6 +1341,7 @@
 		"japanese": "カーソル移動範囲の制限",
 		"thai": "จำกัดเคอร์เซอร์",
 		"hungarian": "Ablakon belüli egér",
+		"turkish": "Görünmez imleç",
 		"chinese": "限制光标范围",
 	},
 	"developerMode": {
@@ -1893,6 +1896,7 @@
 		"japanese": "カメラの高速移動",
 		"czech": "Rychlý pohyb kamery",
 		"ukrainian": "Пришвидшений рух камери",
+		"turkish": "Hızlı kamera hareketi",
 		"chinese": "镜头快速移动",
 	},
 
@@ -1909,6 +1913,7 @@
 		"japanese": "都市のショートカット",
 		"czech": "Ovládání města",
 		"ukrainian": "Гарячі клавіші",
+		"turkish": "Şehir kısayolları",
 		"chinese": "城市快捷键",
 	},
 	"research": {
@@ -1924,6 +1929,7 @@
 		"japanese": "研究",
 		"czech": "Výzkum",
 		"ukrainian": "Дослідження",
+		"turkish": "Araştırma",
 		"chinese": "研究",
 	},
 	"transportLines": {
@@ -1939,6 +1945,7 @@
 		"japanese": "輸送ライン",
 		"czech": "Dopravní linky",
 		"ukrainian": "Лінії транспорту",
+		"turkish": "Ulaşım hatları",
 		"chinese": "运输线路",
 	},
 	"constructionKeybindings": {
@@ -2032,6 +2039,7 @@
 		"japanese": "精密建設",  // 暫定訳 (provisional translation)
 		"czech": "Přesná konstrukce",
 		"ukrainian": "Точніше будівництво",
+		"turkish": "Hayalet inşaa modu",
 		"chinese": "精确建造",
 	},
 	"holdLeftShift": {
@@ -2066,6 +2074,7 @@
 		"swiss german": "Gitter umschaltä",
 		"farsi":"روشن کردن شطرنج",
 		"japanese": "グリッド切り替え",
+		"turkish": "Ortala",
 		"chinese": "启用网格",
 	},
 	"move": {
@@ -2081,6 +2090,7 @@
 		"japanese": "移動",
 		"czech": "Přesunout",
 		"ukrainian": "Зсунути",
+		"turkish": "Hareket",
 		"chinese": "移动",
 	},
 	"delete": {
@@ -2096,6 +2106,7 @@
 		"japanese": "削除",
 		"czech": "Smazat",
 		"ukrainian": "Видалити",
+		"turkish": "Sil",
 		"chinese": "删除",
 	},
 	"constructionMenus": {
@@ -2111,6 +2122,7 @@
 		"japanese": "建設メニュー",
 		"czech": "Stavební menu",
 		"ukrainian": "Будівельне меню",
+		"turkish": "İnşaat menüsü",
 		"chinese": "建筑菜单",
 	},
 	"leftShiftAndNumber": {
@@ -2126,6 +2138,7 @@
 		"japanese": "左Shift + 数字",
 		"czech": "Shift (levý) + číslo",
 		"ukrainian": "Лівий Shift + номер",
+		"turkish": "shift (sol) + rakam",
 		"chinese": "Shift (左) + 数字",
 	},
 	"timeControl": {
@@ -2195,6 +2208,7 @@
 		"japanese": "シミュレーション速度：標準",
 		"czech": "Normální rychlost simulace",
 		"ukrainian": "Звичайна швидкість симуляції",
+		"turkish": "Normal simulasyon",
 		"chinese": "正常游戏速度",
 	},
 	"fastSimulationSpeed": {
@@ -2210,6 +2224,7 @@
 		"japanese": "シミュレーション速度：高速",
 		"czech": "Vysoká rychlost simulace",
 		"ukrainian": "Пришвидшення симуляції",
+		"turkish": "hızlı simulasyon",
 		"chinese": "加快游戏速度",
 	},
 	"rotateLeft": {
@@ -2439,6 +2454,7 @@
 		"japanese": "クイックセーブ",
 		"czech": "Rychlé uložení",
 		"ukrainian": "Швидке збереження",
+		"turkish": "Hızlı Kaydet",
 		"chinese": "快速储存",
 	},
 	"quickload": {
@@ -2454,6 +2470,7 @@
 		"japanese": "クイックロード",
 		"czech": "Rychlé načtení",
 		"ukrainian": "Швидке завантаження",
+		"turkish": "Hızlı yükle",
 		"chinese": "快速载入",
 	},
 	"key_Mouse0": {
@@ -2814,6 +2831,7 @@
 		"greek": "Η αποθήκευση είναι μόνο μερικώς συμβατή με την έκδοση παιχνιδιού σου",
 		"swiss german": "Dä Schpielstand isch numä zum Teil Kompatibäl mit dinärä Spielversion",
 		"japanese": "このセーブは、 現在のゲームバージョンとは 部分的な互換性しかありません。",
+		"turkish": "Kayıt dosyası oyuna tamamen uyumlu değil",
 		"chinese": "此存档仅与当前游戏版本部分兼容。",
 	},
 	"saveBarelyCompatibleTitle": {
@@ -2833,6 +2851,7 @@
 		"greek": "Πως να παίξεις μη συμβατές αποθηκεύσεις",
 		"swiss german": "Wie mä kampatibli Schpielständ spilt",
 		"japanese": "非互換のセーブでプレイする方法",
+		"turkish": "Uyumlu olmayan kayıt dosyası ile nasıl oynarım",
 		"chinese": "如何游玩不兼容存档",
 	},
 	"saveBarelyCompatibleDesc": {
@@ -2852,6 +2871,7 @@
 		"greek": "Όταν κυκλοφορούμε μία μεγάλη αναβάθμιση παιχνιδιου, μερικές φορές οι αποθηκεύσεις παιχνιδιών δεν είναι εντλεώς συμβατές.\n Έχεις δύο επιλογές:\n\n1.Συνέχισε να παίζεις το αποθηκευμένο σου παχνίδι στην προηγούμενη έκδοση.Έχουμε φτιάξει έναν οδηγό για 'σένα.\n2.Δοκίμασε να μετατρέψεις την αποθήκευση του παιχνιδιού σου στην νέα έκδοση.\n\nΜερικές μετατροπές δεν είναι τέλειες.Πιθανόν χρείαζεται να κάνεις παύση το παχνίδι και να χρειαστείς χρόνο να επιδιορθώσεις διάφορα προβλήματα.",
 		"swiss german": "Wänn mir es grossäs Update veröffentlichäd, sind Spielständ mängisch nöd voll kompatibel.\nDu häsch 2 Möglichkeitä:\n\n1. Spil din Spielstand uf dä vorherige Version wiiter. Mir händ ä Ahleitig für dich erstellt.\nVersuech din Spielstand uf di neuscht Version z`konvertiere.\n\nKonvertierigä sind nöd pärfäkt. Du muäsch warschindlich s`Spiel pausiärä und d Problem i dinere Stadt behebä.",
 		"japanese": "ゲームの大規模アップデートをリリースした場合、 セーブに完全な互換性が無いことがあります。\n次の2つの選択肢があります。\n\n1.セーブを旧バージョンで遊び続けます。 そのためのチュートリアルを作成しました。\n2.セーブの新バージョンへの変換を試みます。\n\nセーブの変換は完全ではありません。 おそらく、ゲームをポーズして 問題を修正するために 時間を費やす必要があります。",
+		"turkish": "Oyuna yeni bir güncelleme getirdiğimizde bazen eski kayıt dosyaları versiyonla uyumlu olmayabiliyor.\nBöyle olduğunda iki seçeneğiniz var:\n\n1. olarak eski sürümde oyunu oynamaya devam edebilirsiniz. Size bunun için hazırladığımız öğreticiye bakabilirsiniz.\n2. olarakta Kayıt dosyanızı yeni sürüme yükseltmeyi deneyebilirsiniz.\n\nKayıt dosyası yükseltme işlemleri mükemmel olmayabilir.Bundan dolayı bir süre oyunu durdurup bozulmuş şeyleri düzeltmek zorunda kalabilirsiniz.",
 		"chinese": "当我们发布一个较大的更新时，有时存档只能与游戏部分兼容。\n这里提供两种方案：\n\n1.回滚游戏版本，我们编写了一个教程。\n2.尝试将你的存档转化至当前版本。\n\n存档的转换不会非常完美，你可能需要暂停游戏，然后花点时间去修复出现的问题。",
 	},
 	"changeGameVersion": {
@@ -2871,6 +2891,7 @@
 		"greek": "Άλλαξε την έκδοση παχνιδιου",
 		"swiss german": "Spielversion wächslä",
 		"japanese": "ゲームバージョンを変更する",
+		"turkish": "Oyun versiyonunu değiştir",
 		"chinese": "更改游戏版本",
 	},
 	"tryConversion": {
@@ -2890,6 +2911,7 @@
 		"greek": "Δοκίμασε μετατροπή",
 		"swiss german": "Konvertierig versueche",
 		"japanese": "変換を試みる",
+		"turkish": "Yükseltmeyi dene",
 		"chinese": "尝试转换",
 	},
 	"saveNotCompatibleWithGameVersion": {
@@ -2964,7 +2986,7 @@
 		"hungarian": "Nem található útiterv.\n\nCsatlakozva vagy az internethez?",
 		"thai": "ไม่พบแผนงาน \n\nคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือยัง?",
 		"arabic": "لم يتم إيجاد خريطة طريق.\n\nهل أنت متصل بالإنترنت؟",
-		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısnız?",
+		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısınız?",
 		"romanian": "Nu s-au găsit planurile de viitor.\n\nEști conectat la internet?",
 		"danish": "Ingen udviklings fundet.\n\nHar du forbindelse til internettet?",
 		"greek": "Δεν βρέθηκε οδικός χάρτης.Είσαι συνδεδεμένος στο διαδίκτυο;",
@@ -2989,7 +3011,7 @@
 		"hungarian": "Garantált tartalmak a Korai Hozzáféréshez",
 		"thai": "คุณสมบัติที่รับประกันสำหรับการเล่นระหว่างการพัฒนา",
 		"arabic": "مميزات مضمونة في الإصدار الأولي",
-		"turkish":"Erken erişimede garantili",
+		"turkish":"Erken erişimde garantili",
 		"romanian": "Caracteristici garantate pentru access anticipat",
 		"danish": "Garanteret funktioner for Early Access",
 		"greek": "Επιβεβαιωμένες δυνατότητες για πρώιμη πρόσβαση",
@@ -3144,7 +3166,7 @@
 		"hungarian": "Fordítsd az InfraSpace-t",
 		"thai": "แปลเกม InfraSpace",
 		"arabic": "ترجم InfraSpace",
-		"turkish":"InfraSpace i çevir",
+		"turkish":"InfraSpace'i çevir",
 		"romanian": "Traducere InfraSpace",
 		"danish": "Oversæt InfraSpace",
 		"swiss german": "InfraSpace übersetzä",
@@ -3244,7 +3266,7 @@
 		"hungarian": "Az autópályák jók, de néha anyagok tonnáit kell végigszállítani a városon.",
 		"thai": "ทางหลวงเป็นสิ่งที่ดี แต่บางครั้งคุณต้องขนส่งวัสดุหลายพันตันไปทั่วครึ่งเมือง",
 		"arabic": "الطرق السريعة لطيفة، لكن أحيانا تحتاج لنقل آلاف الأطنان من الموارد عبر المدينة.",
-		"turkish":"Otoyollar güzel bile olsa bazen şehirlerin içinden tonlarca malzeme taşımak için trenler dahay iyidir.",
+		"turkish":"Otoyollar güzel bile olsa bazen şehirlerin içinden tonlarca malzeme taşımak için trenler daha iyidir.",
 		"romanian": "Autostrăzile sunt frumoase, dar uneori trebuie să transporți mii de tone de materiale prin jumătate de oraș.",
 		"danish": "Motorveje er fine, men nogle gange skal du transportere tusindvis af tons materialer gennem halvdelen af byen.",
 		"greek": "Οι αυτοκινητόδρομοι καλοί είναι, αλλά μερικές φορές χρειάζεται να μεταφέρεις χιλιάδες τόνους υλικών μέσα από την μισή πόλη",
@@ -3319,7 +3341,7 @@
 		"hungarian": "Felvonók a hegyvidékekhez",
 		"thai": "กระเช้าลอยฟ้าสำหรับขึ้นที่สูง",
 		"arabic": "تلفريك للوصول إلى الأراضي المرتفعة",
-		"turkish":"Yüksek eğimler için telefirik",
+		"turkish":"Yüksek eğimler için teleferik",
 		"romanian": "Gondole pentru a face legătura cu platoul",
 		"danish": "Gondoler til Highland Access",
 		"greek": "Γόνδολες για ορεινή πρόσβαση",
@@ -3344,7 +3366,7 @@
 		"hungarian": "A magas tárolóképességű felvonók sziklákon és hegyeken keresztül szállítják az árudat.",
 		"thai": "กระเช้าบรรทุกสินค้าความจุขนาดใหญ่สามารถขนส่งสินค้าผ่านโขดหินและภูเขาได้",
 		"arabic": "عربات موارد تلفريك كبيرة السعة تستطيع حمل بضائعك فوق الصخور والجبال.",
-		"turkish":"Yüksek kapasiteli kargo telefirikleri dik yollardan kargo çıkarmayı mümkün kılıyor",
+		"turkish":"Yüksek kapasiteli kargo teleferikleri dik yollardan kargo çıkarmayı mümkün kılıyor",
 		"romanian": "Gondolele de marfă de mare capacitate care transportă mărfurile peste stânci și munți.",
 		"danish": "Godsgondoler med høj kapacitet kan transportere dine varer over klipper og bjerge.",
 		"greek": "Γόνδολες φορτίου υψηλής χωρητικότητας μπορούν να μεταφέρουν τα αγαθά σου πάνω από πέτρες και βουνά.",
@@ -3569,7 +3591,7 @@
 		"hungarian": "Nappal-éjjel ciklus",
 		"thai": "สลับกลางวัน-กลางคืน",
 		"arabic": "دورة الليل والنهار",
-		"turkish":"Gece-Gündüz",
+		"turkish":"Gece-Gündüz döngüsü",
 		"romanian": "Ciclu zi-noapte",
 		"danish": "Dag og Nat cyklus",
 		"greek": "Κύκλος Μέρας-Νύχτας",
@@ -3644,7 +3666,7 @@
 		"hungarian": "Balesetek történnek és a városodnak szüksége van vészhelyzeti szolgáltatásokra ilyen esetekre - légy felkészült!",
 		"thai": "หากมีอุบัติเหตุเกิดขึ้นเมืองของคุณต้องการบริการฉุกเฉินสำหรับกรณีดังกล่าว - จงเตรียมพร้อม!",
 		"arabic": "الحوادث تحصل ومدينتك تحتاج إلى خدمات طوارئ لتتعامل معها - كن مستعدا!",
-		"turkish":"Kazaların nezaman yaşabileceği ön görlemez ve şehrinizin bunlarla başa çıkmak için sürekli tetikde olması gerekir - hazırlıklı olun!",
+		"turkish":"Kazaların ne zaman yaşabileceği ön görlemez ve şehrinizin bunlarla başa çıkmak için sürekli tetikde olması gerekir - hazırlıklı olun!",
 		"romanian": "Se întâmplă accidente și orașul tău are nevoie de servicii de urgență pentru a le face față - fii pregătit!",
 		"danish": "Ulykker sker, og din by har brug for nødtjenester til at håndtere dem - vær forberedt!",
 		"greek": "Αυτχήματα συμβαίνουν και η πόλη σου χρειάζεται υπηρεσίες έκτατης ανάγκης για να τις αντιμετωπίσει - ετοιμάσου!",
@@ -3967,6 +3989,7 @@
         "japanese": "MOD",
 		"thai": "ม็อด",
 		"hunagrian": "Modok",
+	        "turkish": "Modlar",
 		"chinese": "模组",
     },
 	"modsMayBeIncompatible": {
@@ -4143,6 +4166,7 @@
         "japanese": "設定ファイルをエクスポート",
 		"thai": "ส่งออกไฟล์กำหนดค่า",
 		"hungarian": "Konfig fájlok exportálása",
+	        "turkish": "Konfigürasyon dosyalarını dışa aktar",
 		"chinese": "导出配置文件",
     },
     "enabled": {
@@ -4151,6 +4175,7 @@
 		"french": "Activé",
 		"thai": "เปิดใช้งานแล้ว",
 		"hungarian": "Aktív",
+	        "turkish": "Aktif",
 		"chinese": "启用",
     },
 }
