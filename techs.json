@@ -249,6 +249,7 @@
     "japanese": "メタン",
     "hungarian": "Metán",
     "czech": "Metan",
+    "turkish": "Metan gazı",
   "ukrainian": "Метан",
     "chinese": "天然气",
   },
@@ -264,6 +265,7 @@
     "hungarian": "Tartályok",
     "czech": "Nádrže",
   "ukrainian": "Баки для рідин",
+    "turkish": "Depolar",
     "chinese": "容器",
   },
   "tech_aluminiumMining": {
@@ -353,6 +355,7 @@
     "hungarian": "Űrhajó építés",
     "czech": "Konstrukce vesmírné lodi",
     "ukrainian": "Фабрика космічних кораблів",
+    "turkish": "Uzay gemisi inşaası",
     "chinese": "飞船建造",
   },
   "tech_motors": {
@@ -412,6 +415,7 @@
     "japanese": "貨物ゴンドラ",
     "thai": "กระเช้าขนส่งลอยฟ้า",
     "hungarian": "Felvonók",
+    "turkish": "Kargo Teleferiği",
     "chinese": "货运缆车",
   },
   "tech_oneWayRoads": {
@@ -451,6 +455,7 @@
     "hungarian": "Metán erőmű",
     "czech": "Elektrárny na metan",
   "ukrainian": "Елекростанція на метані",
+    "turkish": "Methan'dan elektrik",
     "chinese": "天然气发电",
   },
   "tech_parks": { //IDK why techology, that give us PARK (cmon, it already named as "tech_parks") names as "Large Buildings". Maybe, "Parks" will be better as title??
@@ -515,6 +520,7 @@
     "hungarian": "Talajvíz kinyerő",
     "czech": "Těžba podzemní vody",
 	  "ukrainian": "Підземна водяна скважина",
+    "turkish": "Yeraltı Suyu",
     "chinese": "潜水泵",
   },
   "tech_largeMines": {
@@ -754,6 +760,7 @@
     "hungarian": "Metánerjesztés",
     "czech": "Fermentace metanu",
 	  "ukrainian": "Переробка метану",
+    "turkish": "Methan gazı fermentasyonu",
     "chinese": "沼气发酵",
   },
   "tech_stadiums": {
@@ -919,6 +926,7 @@
     "hungarian": "Magassebességű sín",
     "farsi":"ریل سرعت بالا",
 	"japanese": "高速レール",
+    "turkish": "Yüksek Hızlı ray",
 	"chinese": "高速铁路",
   },
   "tech_lightningRail": {
@@ -938,6 +946,7 @@
     "hungarian": "Villámsínek",
     "farsi":"ریل سرعت نور",
 	"japanese": "超高速レール",
+    "turkish": "Çok yüksek hızlı ray",
 	"chinese": "超高速铁路",
   },
   "tech_superhighways": {
