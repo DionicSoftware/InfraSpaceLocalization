@@ -362,7 +362,7 @@
 		"czech": "Nic",
 		"hungarian": "Semmi",
 		"thai": "ไม่มีอะไร",
-		"turkish": "Hiçbirşey",
+		"turkish": "Hiç bir şey",
 		"romanian": "Nimic",
 		"danish": "Intet",
 		"greek":"Τίποτα",
@@ -454,7 +454,7 @@
 		"czech": "Tato technologie vám nic neodemkne.",
 		"hungarian": "Ez a technológia nem old fel semmit.",
 		"thai": "เทคโนโลยีไม่ได้ปลดล็อคอะไรเลย",
-		"turkish": "BU teknoloji hiçbirşey açmıyor.",
+		"turkish": "BU teknoloji hiç bir şey açmıyor.",
 		"romanian": "Această tehnologie nu deblochează nimic.",
 		"danish": "Denne teknologi åbner ikke for noget",
 		"greek":"Αυτή η τεχνολογία δεν ξεκλειδώνει τίποτα.",
@@ -1185,6 +1185,7 @@
 		"japanese": "パイプラインの運転",
 		"hungarian": "Csőhálózat működése:",
 		"czech": "Provoz potrubí:",
+		"turkish": "Boru hatları",
 		"chinese": "管道运行：",
 	},
 	"spaceshipEfficiencyBoost": {
@@ -1198,6 +1199,7 @@
 		"japanese": "宇宙船の技術：",
 		"hungarian": "Űrhajó technológia:",
 		"czech": "Technologie kosmické lodi:",
+		"turkish": "Uzay gemisi teknolojisi",
 		"chinese": "太空船技术：",
 	},
 
@@ -1218,6 +1220,7 @@
 		"greek": "Καθόλου Πλέγμα",
 		"japanese": "グリッドなし",
 		"hungarian": "Nincs négyzetháló",
+		"turkish": "Kılavuz kapalı",
 		"chinese": "关闭网格",
 	},
 	"gridStraight": {
@@ -1235,6 +1238,7 @@
 		"greek": "0° Πλέγμα",
 		"japanese": "0° グリッド",
 		"hungarian": "0° Négyzetháló",
+		"turkish": "0° Kılavuz",
 		"chinese": "0° 网格",
 	},
 	"gridDiagonal": {
@@ -1252,6 +1256,7 @@
 		"greek": "45° Πλέγμα",
 		"japanese": "45° グリッド",
 		"hungarian": "45° Négyzetháló",
+		"turkish": "45° Kılavuz",
 		"chinese": "45° 网格",
 	},
 
@@ -1738,6 +1743,7 @@
         "japanese": "他のゴンドラ駅に接続できません。 ゴンドラのロープは曲げられません！",
 		"thai": "ไม่สามารถเชื่อมต่อกับสถานีอื่นได้ สายของกระเช้าลอยฟ้าโค้งไม่ได้!",
 		"hungarian": "Nem csatlakoztatható a másik állomáshoz. A felvonó útja nem lehet görbe!",
+	"turkish": "Diğer istasyonlara bağlanılamıyor. Teleferik hatları kavis alamaz",
 		"chinese": "无法连接到其他车站。缆车线路不能弯曲！",
     },
     "buildingConnectorTooSteep":  {
@@ -1747,6 +1753,7 @@
         "japanese": "勾配が急すぎます",
 		"thai": "สูงชันเกินไป",
 		"hungarian": "Túl meredek",
+	"turkish": "Çok dik",
 		"chinese": "太陡了",
     },
     "buildingConnectorColliding":  {
@@ -1756,6 +1763,7 @@
         "japanese": "他の物体と接触しています",
 		"thai": "ชนกับอะไรบางอย่าง",
 		"hungarian": "Valamivel ütközik",
+	"turkish": "Bir şey ile çarpışıyor",
 		"chinese": "与其他物体冲突",
     },
 	"visualizations": {
@@ -2027,6 +2035,7 @@
 		"greek": "Πάρκα",
 		"japanese": "公園",
 		"hungarian": "Parkok",
+		"turkish": "Parklar",
 		"chinese": "公园",
 	},
 	"visualization_Culture": {
@@ -2044,6 +2053,7 @@
 		"greek": "Κουλτούρα",
 		"japanese": "文化",
 		"hungarian": "Kultúra",
+		"turkish": "Kültür",
 		"chinese": "文化",
 	},
 	"visualization_Schools": {
@@ -2061,6 +2071,7 @@
 		"greek": "Σχολεία",
 		"japanese": "学校",
 		"hungarian": "Iskolák",
+		"turkish": "Okullar",
 		"chinese": "学校",
 	},
 	"visualization_Pipes": {
@@ -2074,6 +2085,7 @@
 		"japanese": "パイプ",
 		"hungarian": "Csövek",
 		"czech": "Trubky",
+		"turkish": "Borular",
 		"chinese": "管道",
 	},
 	"requiredResources": { // when construction site needs stuff
@@ -2960,6 +2972,7 @@
 		"greek": "Ρυθμίσεις φαναριών",
 		"japanese": "信号設定",
 		"hungarian": "Jelzőlámpa beállítások",
+		"turkish": "Trafik ışığı ayarları",
 		"chinese": "交通信号设置",
 	},
 	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
@@ -2977,6 +2990,7 @@
 		"greek": "Προσαρμοσμένο",
 		"japanese": "編集済み",
 		"hungarian": "Egyedi",
+		"turkish": "Özel",
 		"chinese": "已设定",
 	},
 	"phaseNumber" : {
@@ -2994,6 +3008,7 @@
 		"greek": "Φάση %number%",
 		"japanese": "フェーズ%number%",
 		"hungarian": "Fázis %number%",
+		"turkish": "Aşama %number%",
 		"chinese": "相位 %number%",
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty" : {
@@ -3011,6 +3026,7 @@
 		"greek": "Πήγαινε στην επόμενη φάση όταν είναι άδειοι οι δρομοι",
 		"japanese": "道路が空の場合、ただちに次のフェーズに進む。",
 		"hungarian": "Ugrás a következő fázisra, ha az utak üresek",
+		"turkish": "Yol boş ise bir sonraki aşamaya geç",
 		"chinese": "道路为空时跳过当前阶段",
 	},
 
@@ -3029,6 +3045,7 @@
 		"greek": "Παρέχει",
 		"japanese": "供給",
 		"hungarian": "Biztosít",
+		"turkish": "Sunuyor",
 		"chinese": "供给",
 	},
 	"radius": {
@@ -3046,6 +3063,7 @@
 		"greek": "Ακτίνα",
 		"japanese": "半径",
 		"hungarian": "Rádiusz",
+		"turkish": "Alan",
 		"chinese": "半径",
 	},
 	"speed": {
@@ -3063,6 +3081,7 @@
 		"greek": "Ταχύτητα",
 		"japanese": "速度",
 		"hungarian": "Sebesség",
+		"turkish": "Hız",
 		"chinese": "速度",
 	},
 
@@ -3077,6 +3096,7 @@
 		"japanese": "パイプネットワーク",
 		"hungarian": "Csőhálózat",
 		"czech": "Potrubní síť",
+		"turkish": "Boru ağı",
 		"chinese": "管道网",
 	},
 	"pipeNetworkInputPerMinute": { // can use produced instead of input or inflow
@@ -3090,6 +3110,7 @@
 		"japanese": "流入量/分: %amount%",
 		"hungarian": "Percenkénti bemenet: %amount%",
 		"czech": "Přítok za minutu: %amount%",
+		"turkish": "Dakikadaki üretim: %amount%",
 		"chinese": "每分钟流入量：%amount%",
 	},
 	"pipeNetworkOutputPerMinute": { // can use consumed instead of output or outflow
@@ -3103,6 +3124,7 @@
 		"japanese": "流出量/分: %amount%",
 		"hungarian": "Percenkénti kimenet: %amount%",
 		"czech": "Odtok za minutu: %amount%",
+		"turkish": "Akış hızı: %amount%",
 		"chinese": "每分钟流出量：%amount%",
 	},
 	"totalAmountInPipeNetwork": {
@@ -3116,6 +3138,7 @@
 		"japanese": "パイプネットワーク内の総量",
 		"hungarian": "Összes forrás a csőhálózatban",
 		"czech": "Celkové zdroje v potrubní síti",
+		"turkish": "boru hattındaki toplam miktar",
 		"chinese": "管道网内总资源数",
 	},
 	"pipes": {
@@ -3129,6 +3152,7 @@
 		"japanese": "パイプ",
 		"hungarian": "Csövek",
 		"czech": "Potrubí",
+		"turkish": "Borular",
 		"chinese": "管道",
 	},
 	"buildings": {
@@ -3142,6 +3166,7 @@
 		"japanese": "建物",
 		"hungarian": "Épületek",
 		"czech": "Budovy",
+		"turkish": "Yapılar",
 		"chinese": "建筑",
 	},
 
@@ -3158,6 +3183,7 @@
 		"japanese": "宇宙船",
 		"hungarian": "Űrhajó",
 		"czech": "Kosmická loď",
+		"turkish": "Uzay gemisi",
 		"chinese": "太空船",
 	},
 	"planet": {
@@ -3171,6 +3197,7 @@
 		"japanese": "惑星",
 		"hungarian": "Bolygó",
 		"czech": "Planeta",
+		"turkish": "Gezegen",
 		"chinese": "行星",
 	},
 	"spaceship_bridge": {
@@ -3184,6 +3211,7 @@
 		"japanese": "船橋",
 		"hungarian": "Híd",
 		"czech": "Můstek",
+		"turkish": "Köprü",
 		"chinese": "舰桥",
 	},
 	"spaceship_communicationArray": { // can use "antenna" instead of "array"
@@ -3197,6 +3225,7 @@
 		"japanese": "通信アンテナ",
 		"hungarian": "Kommunikációs antenna",
 		"czech": "Komunikační anténa",
+		"turkish": "İletişim Anteni",
 		"chinese": "通信矩阵",
 	},
 	"spaceship_computerDeck": {
@@ -3210,6 +3239,7 @@
 		"japanese": "コンピューターデッキ",
 		"hungarian": "Számítógépes rendszerek",
 		"czech": "Počítačová paluba",
+		"turkish": "Bilgisayar güvertesi",
 		"chinese": "计算机面板",
 	},
 	"spaceship_ftlEngine": {
@@ -3223,6 +3253,7 @@
 		"japanese": "ワープエンジン",  // 日本語ではFTL全般をワープと呼ぶ傾向があるので。
 		"hungarian": "FTL motor",
 		"czech": "FTL Pohon",
+		"turkish": "FTL Motoru",
 		"chinese": "FTL引擎",
 	},
 	"spaceship_ftlFuelCells": {
@@ -3236,6 +3267,7 @@
 		"japanese": "ワープ燃料セル",
 		"hungarian": "FTL üzemanyagcellák",
 		"czech": "FTL palivové články",
+		"turkish": "FTL Yakıt hücresi",
 		"chinese": "FTL燃料电池",
 	},
 	"spaceship_ftlTurbine": {
@@ -3249,6 +3281,7 @@
 		"japanese": "ワープタービン",
 		"hungarian": "FTL turbinák",
 		"czech": "FTL Turbína",
+		"turkish": "FTL türbini",
 		"chinese": "FTL涡轮机"
 	},
 	"spaceship_orbitalScanners": {
@@ -3262,6 +3295,7 @@
 		"japanese": "軌道スキャナー",
 		"hungarian": "Orbitális radar",
 		"czech": "Orbitální skenery",
+		"turkish": "Yörünge tarayıcı",
 		"chinese": "轨道扫描仪",
 	},
 	"spaceship_passengerDeck": {
@@ -3275,6 +3309,7 @@
 		"japanese": "客室デッキ",
 		"hungarian": "Utasfedélzet",
 		"czech": "Paluba pro cestující",
+		"turkish": "Yolcu Güvertesi",
 		"chinese": "乘客面板",
 	},
 	"spaceship_hull": {
@@ -3288,6 +3323,7 @@
 		"japanese": "船体",
 		"hungarian": "Hajótest",
 		"czech": "Trup",
+		"turkish": "Gövde",
 		"chinese": "舰体",
 	},
 	"spaceship_radiationShield": {
@@ -3301,6 +3337,7 @@
 		"japanese": "放射線シールド",
 		"hungarian": "Sugárzás elleni pajzs",
 		"czech": "Radiační štít",
+		"turkish": "Radyasyon Kalkanı",
 		"chinese": "辐射屏蔽",
 	},
 	"spaceship_storageDeck": {
@@ -3314,6 +3351,7 @@
 		"japanese": "倉庫デッキ",
 		"hungarian": "Raktér",
 		"czech": "Skladovací paluba",
+		"turkish": "Depolama Güvertesi",
 		"chinese": "仓库面板",
 	},
 	"spaceship_telescope": {
@@ -3327,6 +3365,7 @@
 		"japanese": "望遠鏡",
 		"hungarian": "Teleszkóp",
 		"czech": "Teleskop",
+		"turkish": "Teleskop",
 		"chinese": "望远镜",
 	},
 	"spaceship_thermalSystems": {
@@ -3340,6 +3379,7 @@
 		"japanese": "熱システム",
 		"hungarian": "Termikus rendszerek",
 		"czech": "Tepelné systémy",
+		"turkish": "Termal sistemler",
 		"chinese": "热力系统",
 	},
 	"spaceship_laserCannon": {
@@ -3349,6 +3389,7 @@
 		"japanese": "レーザー砲",
 		"thai": "ปืนใหญ่เลเซอร์",
 		"hungarian": "Lézerágyú",
+		"turkish": "Lazer silahı",
 		"chinese": "激光炮",
 	},
 
@@ -3364,6 +3405,7 @@
 		"japanese": "この進捗により乗務員の信頼を得る。 移住が永続的に5%増加する。",
 		"hungarian": "A haladásod meggyőzi a személyzet tagjait, hogy bízzanak benned. Végleges 5%-os bevándorlási bónusz.",
 		"czech": "Váš pokrok přesvědčí členy posádky, aby vám důvěřovali. Trvalé 5% zvýšení imigrace.",
+		"turkish": "Uzay gemisindeki ilerlemen vatandaşlarının sana güvenini arttırdı. Süresiz %5 Göç bonusu",
 		"chinese": "你的进步让船员信任你。移民率永久性增长加5%。",
 	},
 	"spaceshipUpgrade_instantImmigrationBoost": {
@@ -3377,6 +3419,7 @@
 		"japanese": "この進捗により乗務員の信頼を得る。 ただちに%amount%人が支援のために惑星に来る。",
 		"hungarian": "A haladásod meggyőzi a személyzet tagjait, hogy bízzanak benned. %amount% ember azonnal a bolygódra siet, hogy segítsen.",
 		"czech": "Váš pokrok přesvědčí členy posádky, aby vám důvěřovali. %amount% lidé okamžitě přijdou na planetu, aby vám pomohli.",
+		"turkish": "Uzay gemisindeki ilerlemen vatandaşlarının sana güvenini arttırdı. %amount% insan hemen gezegenine sana yardıma geldiler",
 		"chinese": "你的进步让船员信任你。%amount%的人想立即来到这个星球援助你。",
 	},
 	"spaceshipUpgrade_efficiencyBoost": {
@@ -3390,6 +3433,7 @@
 		"japanese": "宇宙船の電力のリルートにより、 全ての施設の効率を永続的に5%向上する。",  // 暫定訳 (provisional translation)
 		"hungarian": "Az űrhajó energiáinak átirányítása megemeli az összes épület hatékonyságát véglegesen %percentage%%-kal.",
 		"czech": "Přesměrování energie vesmírné lodi trvale zvyšuje veškerou efektivitu budovy o %percentage%%.",
+		"turkish": "Uzay gemisininin enerjisini yönlendirmen bütün yapıların verimini süresiz olarak %percentage%% arttırdı",
 		"chinese": "重新安排飞船功率将永久提高所有建筑%percentage%%的效率。",
 	},
 	"spaceshipUpgrade_techBoost": {
@@ -3403,6 +3447,7 @@
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つが%percentage%%のブーストを得る。",  // 暫定訳 (provisional translation)。要検証: boostは研究進捗の意味？
 		"hungarian": "Ha ez a modul aktív, akkor %percentage%%-os bónuszt kapsz egy véletlenszerű technológiára.",
 		"czech": "S tímto modulem online získáte %percentage%% navýšení náhodné technologie.",
+		"turkish": "Bu modülün açılması ile birlikte her hangi bir teknolojide %percentage%% güçlendirme alıcaksın",
 		"chinese": "此模块在线后，你将获得随机技术%percent%%的提升。",
 	},
 	"spaceshipUpgrade_techBoostFull": {
@@ -3416,6 +3461,7 @@
 		"japanese": "このモジュールの稼働により、 ランダムな技術1つがアンロックされる。",
 		"hungarian": "Ezzel a modullal feloldasz egy véletlenszerű technológiát.",
 		"czech": "S tímto modulem online odemknete jednu náhodnou technologii.",
+		"turkish": "Bu modülün açılması ile her hangi bir teknolojiyi açıcasın",
 		"chinese": "此模块在线，你可以解锁一项随机技术。",
 	},
 	"spaceshipUpgrade_laserCannon": {
@@ -3425,6 +3471,7 @@
 		"japanese": "アンタレスのレーザー砲は強力で、 岩を融かすことが可能です。 軌道からマップ上の障害物を除去しましょう！",
 		"thai": "ปืนใหญ่เลเซอร์ของแอนทาเรส มีพลังมากพอที่จะละลายหิน และจัดการแผนที่ของคุณ ที่มีสิ่งกีดขวางออกไปจากวงโคจร!",
 		"hungarian": "Antares lézerágyúja elég erős ahhoz, hogy sziklákat olvasszon. Tisztítsd meg a felszínt az űrből!",
+		"turkish": "Lazer silahı kayaları eritecek kadar güçlü. haritadaki engelleri yöründegen temizleyebilirsin",
 		"chinese": "安塔利斯激光炮威力足以熔化岩石。清除你地图上轨道的障碍物！",
 	},
 
@@ -3440,6 +3487,7 @@
 		"japanese": "必要資源",
 		"hungarian": "Szükséges nyersanyagok",
 		"czech": "Potřebné zdroje",
+		"turkish": "Gerekli kaynaklar",
 		"chinese": "必需资源",
 	},
 	"progress": {
@@ -3453,6 +3501,7 @@
 		"japanese": "進捗",
 		"hungarian": "Előrehaladás",
 		"czech": "Pokrok",
+		"turkish": "İlerleme",
 		"chinese": "进程",
 	},
 	"bonusWhenCompleted": {
@@ -3466,6 +3515,7 @@
 		"japanese": "完了時のボーナス",
 		"hungarian": "Bónusz, ha befejezett",
 		"czech": "Bonus po dokončení",
+		"turkish": "tamamlandığında alacağın bonus",
 		"chinese": "完成后给予奖金",
 	},
 	"repair": {
@@ -3479,6 +3529,7 @@
 		"japanese": "修理",
 		"hungarian": "Javítás",
 		"czech": "Opravit",
+		"turkish": "Tamir",
 		"chinese": "维修",
 	},
 
@@ -3494,6 +3545,7 @@
 		"japanese": "ワールド設定",
 		"hungarian": "Világ beállításai",
 		"czech": "Nastavení světa",
+		"turkish": "Dünya Ayarları",
 		"chinese": "世界设定",
 	},
 	"sandbox": {
@@ -3507,6 +3559,7 @@
 		"japanese": "クリエイティブモード",
 		"hungarian": "Kreatív mód",
 		"czech": "Kreativní režim",
+		"turkish": "Yaratıcı mod",
 		"chinese": "创造模式",
 	},
 	"sandbox_researchUnlocked_title": {
@@ -3520,6 +3573,7 @@
 		"japanese": "全ての技術をアンロックする",
 		"hungarian": "Összes technológia feloldva",
 		"czech": "Všechny technologie jsou odemčeny",
+		"turkish": "Bütün teknolojiler açık",
 		"chinese": "所有科技已解锁",
 	},
 	"sandbox_noBuildingCosts_title": {
@@ -3533,6 +3587,7 @@
 		"japanese": "建設コストを免除する",
 		"hungarian": "Nincs építési költség",
 		"czech": "Žádné stavební náklady",
+		"turkish": "İnşaa ücreti yok",
 		"chinese": "建造无成本",
 	},
 	"sandbox_needsFulfilled_title": {
@@ -3546,6 +3601,7 @@
 		"japanese": "市民の要求が全て充足される",
 		"hungarian": "Összes lakos igénye kielégítve",
 		"czech": "Všechny potřeby občanů splněny",
+		"turkish": "Bina ihtiyaçları otomatik tamamlanmış",
 		"chinese": "所有市民都感到满足",
 	},
 	"trafficVisualsOnly_title": {
@@ -3559,6 +3615,7 @@
 		"japanese": "車両がトラフィックを無視する",
 		"hungarian": "Az autók figyelmen kívül hagyják a közlekedést",
 		"czech": "Auta dopravu ignorují",
+		"turkish": "Araçlar trafiğe takılmaz",
 		"chinese": "车辆无视交通",
 	},
 	"trafficVisualsOnly_desc": {
@@ -3572,6 +3629,7 @@
 		"japanese": "この設定は輸送難易度を無効化します！\nInfraSpaceの 交通に関するゲーム性に 興味が無い場合に 選択してください。",
 		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.",
 		"czech": "Toto nastavení eliminuje potíže s provozem!\nVyberte toto, pokud vás nezajímá herní režim InfraSpace.",
+		"turkish": "Bu ayar trafik zorluğunu tamamen kaldırır\nEğer oyunun trafik sistemi ilginizi çekmiyorsa açabilirsiniz.",
 		"chinese": "该选项将使道路交通不再堵塞！\n如果你对InfraSpace中的道路\n交通规划不感兴趣，请选择此项。",
 	},
 	"truckRoundTrip_title": {
@@ -3585,6 +3643,7 @@
 		"japanese": "輸送車両が往復する",
 		"hungarian": "Az autók visszafordulnak a kézbesítés után",
 		"czech": "Auta po dodání jezdí zpět",
+		"turkish": "Araçlar teslimattan sonra geri dönerler.",
 		"chinese": "交货后车辆需要返回",
 	},
 	"truckRoundTrip_desc": {
@@ -3598,6 +3657,7 @@
 		"japanese": "この設定は、交通を大幅に難しくします。\n挑戦を求めている場合に選択してください。",
 		"hungarian": "Ez a beállítás jelentősen megnehezíti a közlekedést.\nEzt akkor válaszd ki, ha kihívást akarsz.",
 		"czech": "Toto nastavení značně ztěžuje provoz.\nVyberte toto, pokud hledáte výzvu.",
+		"turkish": "Bu ayar trafik zorluğunu arttırır.\nEğer yeni bir zorluk arıyorsanız açabilirsiniz",
 		"chinese": "该选项将会使道路交通规划变得更加困难。\n如果你想找点乐子，请选择此项。",
 	},
 
@@ -3613,6 +3673,7 @@
 		"japanese": "ワープの失敗により、損傷した宇宙船が銀河系のどこかに取り残されました。",
 		"hungarian": "Egy sikertelen hiperűrugrás következtében az űhajód megsérült és egy ismeretlen galaxisba érkeztél.",
 		"czech": "Po neúspěšném warp skoku vaše poškozená vesmírná loď uvízne někde v galaxii.",
+		"turkish": "Yıldız atlaması başarısız oldu, hasar almış geminle birlikte galaksinin bir yerinde kaldın",
 		"chinese": "在一次失败的折跃后，你损坏的飞船被困在了这个星系的某处。",
 	},
 	"introText_2": {
@@ -3626,6 +3687,7 @@
 		"japanese": "通信システムは、人類の領域に届いていません。",
 		"hungarian": "A kommunikációs rendszerek nem tudják elérni az emberi űrt.",
 		"czech": "Vaše komunikační systémy nemohou dosáhnout lidského prostoru.",
+		"turkish": "iletişim sistemlerin diğer insanlarla bağlantı kuramıyor",
 		"chinese": "你的通讯系统无法到达有人类的地方。",
 	},
 	"introText_3": {
@@ -3639,6 +3701,7 @@
  		"japanese": "必要な資源と技術を得て宇宙船を修理するために、近くの惑星に入植する必要があります。",
 		"hungarian": "Kénytelen vagy letelepedni egy közeli bolgyón, hogy megszerezd a szükséges nyersanyagokat és technológiákat az űrhajód megjavításához.",
 		"czech": "Musíte se usadit na jedné z blízkých planet, abyste získali potřebné zdroje a technologii k opravě své lodi.",
+		"turkish": "Yakında bulunan bir gezeni kolonize edip gerekli kaynakları ve teknolojileri toplamalı ve gemini tamir etmelisin",
 		"chinese": "你需要在邻近的某个行星定居，以此来获得必要的资源和科技来修复你的飞船。",
 	},
 
@@ -3662,6 +3725,7 @@
 		"czech": "Ok",
 		"romanian": "Ok",
 		"japanese": "閉じる",
+		"turkish": "Tamam",
 		"thai": "ตกลง",
 	},
     "laserDestructionProgress": {
@@ -3671,6 +3735,7 @@
         "japanese": "破壊の進捗",
 		"thai": "ความคืบหน้าของการทำลาย",
 		"hungarian": "Eltávolítás folyamatban",
+	"turkish": "İmha beklemede",
 		"chinese": "摧毁进度",
     },
     "laserSelectedForDestruction": { // or "next targets"
@@ -3680,6 +3745,7 @@
         "japanese": "次の目標",
 		"thai": "เป้าหมายต่อไป",
 		"hungarian": "Eltávolítésra jelölve",
+	"turkish": "İmha için seçili",
 		"chinese": "下个目标",
     },
     "multiSelectTutorial": {
@@ -3689,6 +3755,7 @@
         "japanese": "レーザーで破壊したいものを選択してください",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
 		"hungarian": "Válaszd ki a lézerrel eltávolítani kívánt tárgyakra.",
+	"turkish": "Lazerle imha etmek istedğin objelerin üstüne tıkla.",
 		"chinese": "单击要用激光炮摧毁的对象。",
     },
     "buildLaserCannonTutorial": {
@@ -3698,6 +3765,7 @@
         "japanese": "宇宙船のレーザー砲を修理してください。 すると、障害物除去のためにレーザー照準ステーションを利用できるようになります。",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
 		"hungarian": "Javítsd meg a lézerágyút, hogy a célzó állomás segítségével eltávolíts akadályokat.",
+	"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
 		"chinese": "修理太空船上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
     },
 }
