@@ -1072,6 +1072,7 @@
 		"danish":"Bygningsgitter",
 		"japanese": "建設グリッド",
 		"hungarian": "Négyzetrács",
+		"turkish": "Kılavuz inşaa etme",
 		"chinese": "建筑网格",
 	},
 	"tutorialMessage_grid_title": {
@@ -1089,6 +1090,7 @@
 		"danish":"Byg med og uden gitter",
 		"japanese": "グリッドあり/なしでの建設",
 		"hungarian": "Építés négyzetráccsal vagy anélkül",
+		"turkish": "Kılavuz açık ve kapalı inşaa",
 		"chinese": "使用或不使用网格进行建造",
 	},
 	"tutorialMessage_grid_desc": {
@@ -1106,6 +1108,7 @@
 		"danish":"Brug disse knapper til at vælge dit gitter. Du kan bruge gitter til at justere dine veje og bygninger eller slå dem fra og bygge frit.",
 		"japanese": "これらのボタンでグリッドを選択できます。 道路や建物を整列するためにグリッドを利用したり、 グリッドをオフにして自由配置にしたりできます。",
 		"hungarian": "Használd ezeket a gombokat, hogy kiválaszd a négyzetrácsos építést. A négyzetrácsot használhatod arra, hogy az épületek és az utak egyvonalban legyenek, vagy kapcsold ki és építs szabadon!",
+		"turkish": "Kılavuz çizgisini seçmek için bu tuşları kullan. Kılavuz çizgilerini yolları ve binaları ortalı bir şekilde inşa etmek için kullanabilirsin yada kapatıp sınırlama olmadan inşaa edebilirsin",
 		"chinese": "使用这些按钮选择你想要的网格。你可以使用网格让你的建筑物更整齐，或者关掉它们自由建造。",
 	},
 }
