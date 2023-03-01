@@ -2106,4 +2106,25 @@
       "turkish": "Lazer hedefleme istasyonu",
       "chinese": "激光瞄准站",
   },
+
+  "dustParticleFilter": {
+      "english": "Dust Particle Filter",
+      "german": "Feinstaubfilter",
+  },
+  "fertilizerDroneHub": {
+      "english": "Fertilizer Drohne Hub",
+      "german": "Zentrum für Dünger-Drohnen",
+  },
+  "groundAcidityRegulator": {
+      "english": "Ground Acidity Regulator",
+      "german": "Bodensäureregulator",
+  },
+  "ammoniaExtractor": {
+      "english": "Ammonia Extractor",
+      "german": "Ammoniakextraktor",
+  },
+  "magneticFieldGenerator": {
+      "english": "Mangetic Field Generator",
+      "german": "Magnetfeldgenerator",
+  },
 }

@@ -1,4 +1,4 @@
-{
+﻿{
 	"resource_sand": {
 		"english": "Sand",
 		"german": "Sand",
@@ -1021,6 +1021,20 @@
 		"swiss german": "Eifachs Ässä",
 		"farsi":"غذا",
 	},
+
+    "resource_filteringMesh": {
+        "english": "Filtering Mesh",
+        "german": "Filtergewebe",
+    },
+    "resource_advancedFilteringMesh": {
+        "english": "Advanced Filtering Mesh",
+        "german": "Fortgeschrittenes Filtergewebe",
+    },
+    "resource_superconductingCoil": {
+        "english": "Superconducting Coil",
+        "german": "Supraleitende Spule",
+    },
+
 	"resource_parkPoints": {
 		"english": "Park",
 		"german": "Park",
@@ -1203,4 +1217,8 @@
 		"swiss german": "Strom",
 		"farsi":"برق",
 	},
+    "resource_terraform": {
+        "english": "Terraforming",
+        "german": "terraforming",
+    },
 }
