@@ -3767,4 +3767,48 @@
 	"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
 		"chinese": "修理太空船上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
     },
+
+
+
+
+    "terraformingProgress": {
+        "english": "Terraforming Progress",
+        "german": "Terraforming",
+    },
+    "dustParticleFiltering": {
+        "english": "Dust Particle Filtering",
+        "german": "Feinstaubfilterung",
+    },
+    "fertilization": {
+        "english": "Soil Fertilization",
+        "german": "Düngerverteilung",
+    },
+    "groundAcidity": {
+        "english": "Ground Acidity Regulation",
+        "german": "Bodensäureregulierung",
+    },
+    "ammoniaExtraction": {
+        "english": "Atmosphere Ammonia Extraction",
+        "german": "Ammoniakextraktion",
+    },
+    "magneticField": {
+        "english": "Magnetic Field",
+        "german": "Magnetfeld",
+    },
+    "terraformingPoints": {
+        "english": "Terraforming Points: %points%",
+        "german": "Terraforming Punkte: %points%",
+    },
+    "terraformedAreaOnMap": {
+        "english": "Terraformed area on map: %area%%",
+        "german": "Terraformtes Gebiet: %area%%",
+    },
+    "totalProgress": {
+        "english": "Total Progress: %progress%%",
+        "german": "Gesamtfortschritt: %progress%%",
+    },
+    "view": {
+        "english": "View",
+        "german": "Ansicht",
+    },
 }
