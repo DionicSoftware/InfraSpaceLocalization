@@ -2107,6 +2107,20 @@
       "chinese": "激光瞄准站",
   },
 
+  
+  "filteringMeshFactory": {
+      "english": "Filtering Mesh Factory",
+      "german": "Fabrik für Filtergewebe",
+  },
+  "advancedFilteringMeshFactory": {
+      "english": "Advanced Filtering Mesh Factory",
+      "german": "Fabrik für fortgeschrittene Filtergewebe",
+  },
+  "superconductingCoilFactory": {
+      "english": "Superconducting Coil Factory",
+      "german": "Fabrik für supraleitende Spulen",
+  },
+
   "dustParticleFilter": {
       "english": "Dust Particle Filter",
       "german": "Feinstaubfilter",
