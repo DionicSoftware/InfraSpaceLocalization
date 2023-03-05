@@ -2111,34 +2111,42 @@
   "filteringMeshFactory": {
       "english": "Filtering Mesh Factory",
       "german": "Fabrik für Filtergewebe",
+      "turkish": "Örgü Filtre Fabrikası",
   },
   "advancedFilteringMeshFactory": {
       "english": "Advanced Filtering Mesh Factory",
       "german": "Fabrik für fortgeschrittene Filtergewebe",
+      "turkish": "Gelişmiş Örgü Filtre Fabrikası",
   },
   "superconductingCoilFactory": {
       "english": "Superconducting Coil Factory",
       "german": "Fabrik für supraleitende Spulen",
+      "turkish": "Aşırı İletken Bobin Fabrikası",
   },
 
   "dustParticleFilter": {
       "english": "Dust Particle Filter",
       "german": "Feinstaubfilter",
+      "turkish": "Toz Filtresi",
   },
   "fertilizerDroneHub": {
       "english": "Fertilizer Drohne Hub",
       "german": "Zentrum für Dünger-Drohnen",
+      "turkish": "Drone Gübreleme Merkezi",
   },
   "groundAcidityRegulator": {
       "english": "Ground Acidity Regulator",
       "german": "Bodensäureregulator",
+      "turkish": "Toprak Asit Düzenlemesi",
   },
   "ammoniaExtractor": {
       "english": "Ammonia Extractor",
       "german": "Ammoniakextraktor",
+      "turkish": "Amonyak Çıkarıcı",
   },
   "magneticFieldGenerator": {
       "english": "Mangetic Field Generator",
       "german": "Magnetfeldgenerator",
+      "turkish": "Manyetik Alan Jeneratörü",
   },
 }
