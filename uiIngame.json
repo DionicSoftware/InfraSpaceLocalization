@@ -3774,41 +3774,51 @@
     "terraformingProgress": {
         "english": "Terraforming Progress",
         "german": "Terraforming",
+	"turkish": "Dünyalaştırma ilerlemesi",
     },
     "dustParticleFiltering": {
         "english": "Dust Particle Filtering",
         "german": "Feinstaubfilterung",
+	"turkish": "Toz Filtreleme",
     },
     "fertilization": {
         "english": "Soil Fertilization",
         "german": "Düngerverteilung",
+	"turkish": "Toprak Gübreleme",
     },
     "groundAcidity": {
         "english": "Ground Acidity Regulation",
         "german": "Bodensäureregulierung",
+	"turkish": "Toprak Asit Düzenlemesi",
     },
     "ammoniaExtraction": {
         "english": "Atmosphere Ammonia Extraction",
         "german": "Ammoniakextraktion",
+	"turkish": "Atmosferden Amonyak Üretimi",
     },
     "magneticField": {
         "english": "Magnetic Field",
         "german": "Magnetfeld",
+	"turkish": "Manyetik Alan",
     },
     "terraformingPoints": {
         "english": "Terraforming Points: %points%",
         "german": "Terraforming Punkte: %points%",
+	"turkish": "Dünyalaştırma puanları %points%",
     },
     "terraformedAreaOnMap": {
         "english": "Terraformed area on map: %area%%",
         "german": "Terraformtes Gebiet: %area%%",
+	"turkish": "Haritadaki Dünyalaştırılmış Alan: %area%%",
     },
     "totalProgress": {
         "english": "Total Progress: %progress%%",
         "german": "Gesamtfortschritt: %progress%%",
+	"turkish": "Toplam İlerleme: %progress%%",
     },
     "view": {
         "english": "View",
         "german": "Ansicht",
+	"turkish": "Bakış",
     },
 }
