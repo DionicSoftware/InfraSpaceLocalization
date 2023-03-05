@@ -1025,14 +1025,17 @@
     "resource_filteringMesh": {
         "english": "Filtering Mesh",
         "german": "Filtergewebe",
+	"turkish":"Örgü Filtre",
     },
     "resource_advancedFilteringMesh": {
         "english": "Advanced Filtering Mesh",
         "german": "Fortgeschrittenes Filtergewebe",
+	"turkish":"Gelişmiş Örgü Filtre",
     },
     "resource_superconductingCoil": {
         "english": "Superconducting Coil",
         "german": "Supraleitende Spule",
+	"turkish":"Aşırı İletken Bobin",
     },
 
 	"resource_parkPoints": {
@@ -1220,5 +1223,6 @@
     "resource_terraform": {
         "english": "Terraforming",
         "german": "terraforming",
+	"turkish":"Dünyalaştırma",
     },
 }
