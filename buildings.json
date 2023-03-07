@@ -2093,6 +2093,7 @@
   "gondolaPole": { // the poles between gondola stations
       "english": "Gondola Lift Pole",
       "german": "Gondelstütze",
+      "french": "Poteau pour nacelles",
       "turkish": "Teleferik direği,",
       "chinese": "缆车升降杆",
   },
@@ -2107,38 +2108,46 @@
       "chinese": "激光瞄准站",
   },
 
-  
+
   "filteringMeshFactory": {
       "english": "Filtering Mesh Factory",
       "german": "Fabrik für Filtergewebe",
+      "french": "Usine de maillage filtrant",
   },
   "advancedFilteringMeshFactory": {
       "english": "Advanced Filtering Mesh Factory",
       "german": "Fabrik für fortgeschrittene Filtergewebe",
+      "french": "Usine de maillage filtrant avancé",
   },
   "superconductingCoilFactory": {
       "english": "Superconducting Coil Factory",
       "german": "Fabrik für supraleitende Spulen",
+      "french": "Usine de bobines supraconductrices",
   },
 
   "dustParticleFilter": {
       "english": "Dust Particle Filter",
       "german": "Feinstaubfilter",
+      "french": "Filtre à particules fines",
   },
   "fertilizerDroneHub": {
       "english": "Fertilizer Drohne Hub",
       "german": "Zentrum für Dünger-Drohnen",
+      "french": "Centre de drones de fertilisation",
   },
   "groundAcidityRegulator": {
       "english": "Ground Acidity Regulator",
       "german": "Bodensäureregulator",
+      "french": "Régulateur d'acidité du sol",
   },
   "ammoniaExtractor": {
       "english": "Ammonia Extractor",
       "german": "Ammoniakextraktor",
+      "french": "Extracteur d'ammoniac",
   },
   "magneticFieldGenerator": {
       "english": "Mangetic Field Generator",
       "german": "Magnetfeldgenerator",
+      "french": "Générateur de champ magnétique",
   },
 }

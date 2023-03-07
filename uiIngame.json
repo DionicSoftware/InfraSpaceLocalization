@@ -3774,41 +3774,51 @@
     "terraformingProgress": {
         "english": "Terraforming Progress",
         "german": "Terraforming",
+		"french": "Terraformation",
     },
     "dustParticleFiltering": {
         "english": "Dust Particle Filtering",
         "german": "Feinstaubfilterung",
+		"french": "Filtrage des particules de poussière",
     },
     "fertilization": {
         "english": "Soil Fertilization",
         "german": "Düngerverteilung",
+		"french": "Fertilisation du sol",
     },
     "groundAcidity": {
         "english": "Ground Acidity Regulation",
         "german": "Bodensäureregulierung",
+		"french": "Régulation de l'acidité du sol",
     },
     "ammoniaExtraction": {
         "english": "Atmosphere Ammonia Extraction",
         "german": "Ammoniakextraktion",
+		"french": "Extraction d'ammoniac dans l'atmosphère",
     },
     "magneticField": {
         "english": "Magnetic Field",
         "german": "Magnetfeld",
+		"french": "Champ magnétique",
     },
     "terraformingPoints": {
         "english": "Terraforming Points: %points%",
         "german": "Terraforming Punkte: %points%",
+		"french": "Points de terraformation : %points%",
     },
     "terraformedAreaOnMap": {
         "english": "Terraformed area on map: %area%%",
         "german": "Terraformtes Gebiet: %area%%",
+		"french": "Zone terraformée sur la carte : %area%%",
     },
     "totalProgress": {
         "english": "Total Progress: %progress%%",
         "german": "Gesamtfortschritt: %progress%%",
+		"french": "Progression totale : %progress%%",
     },
     "view": {
         "english": "View",
         "german": "Ansicht",
+		"french": "Vue",
     },
 }
