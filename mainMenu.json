@@ -4119,7 +4119,7 @@
 		"hungarian": "Modokat tartalmazó mappa megnyitása",
 
 	},
-	"openWorkshop": { //steam workshop
+	"openInWorkshop": { //steam workshop
 		"english": "Open Workshop",
 		"german": "Workshop öffnen",
 		"spanish": "Abrir Workshop",
