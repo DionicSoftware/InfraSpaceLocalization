@@ -1384,4 +1384,24 @@
     "danish": "Adamantine minedrift",
     "greek": "Εξόρυξη Αδάμα",
   },
+  "tech_terraforming": {
+      "english": "Terraforming",
+      "german": "Terraforming",
+  },
+  "tech_droneFertilization": {
+      "english": "Drone Fertilization",
+      "german": "Dünger-Drohnen",
+  },
+  "tech_groundAcidityRegulation": {
+      "english": "Ground Acidity Regulation",
+      "german": "Bodensäureregulierung",
+  },
+  "tech_ammoniaExtraction": {
+      "english": "Ammonia Extraction",
+      "german": "Ammoniakextrahierung",
+  },
+  "tech_magneticFieldGeneration": {
+      "english": "Magnetic Field Generation",
+      "german": "Magnetfelderzeugung",
+  },
 }
