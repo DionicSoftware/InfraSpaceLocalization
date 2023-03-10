@@ -4175,7 +4175,8 @@
 		"french": "Activé",
 		"thai": "เปิดใช้งานแล้ว",
 		"hungarian": "Aktív",
-	        "turkish": "Aktif",
+		"turkish": "Aktif",
 		"chinese": "启用",
+		"japanese": "有効",
     },
 }
