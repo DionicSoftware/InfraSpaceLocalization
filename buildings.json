@@ -2096,6 +2096,7 @@
       "french": "Poteau pour nacelles",
       "turkish": "Teleferik direği,",
       "chinese": "缆车升降杆",
+      "japanese": "ゴンドラの支柱",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",
@@ -2113,41 +2114,49 @@
       "english": "Filtering Mesh Factory",
       "german": "Fabrik für Filtergewebe",
       "french": "Usine de maillage filtrant",
+      "japanese": "濾過用メッシュ工場",
   },
   "advancedFilteringMeshFactory": {
       "english": "Advanced Filtering Mesh Factory",
       "german": "Fabrik für fortgeschrittene Filtergewebe",
       "french": "Usine de maillage filtrant avancé",
+      "japanese": "発展型濾過用メッシュ工場",
   },
   "superconductingCoilFactory": {
       "english": "Superconducting Coil Factory",
       "german": "Fabrik für supraleitende Spulen",
       "french": "Usine de bobines supraconductrices",
+      "japanese": "超伝導コイル工場",
   },
 
   "dustParticleFilter": {
       "english": "Dust Particle Filter",
       "german": "Feinstaubfilter",
       "french": "Filtre à particules fines",
+      "japanese": "粉塵濾過施設",
   },
   "fertilizerDroneHub": {
       "english": "Fertilizer Drone Hub",
       "german": "Zentrum für Dünger-Drohnen",
       "french": "Centre de drones de fertilisation",
+      "japanese": "肥料用ドローンのハブ",
   },
   "groundAcidityRegulator": {
       "english": "Ground Acidity Regulator",
       "german": "Bodensäureregulator",
       "french": "Régulateur d'acidité du sol",
+      "japanese": "土壌酸性度調整施設",
   },
   "ammoniaExtractor": {
       "english": "Ammonia Extractor",
       "german": "Ammoniakextraktor",
       "french": "Extracteur d'ammoniac",
+      "japanese": "アンモニア除去施設",
   },
   "magneticFieldGenerator": {
       "english": "Mangetic Field Generator",
       "german": "Magnetfeldgenerator",
       "french": "Générateur de champ magnétique",
+      "japanese": "電磁場形成施設",
   },
 }
