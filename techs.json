@@ -1387,26 +1387,31 @@
   "tech_terraforming": {
       "english": "Terraforming",
       "german": "Terraforming",
-	  "japanese": "テラフォーミング",
+      "french": "Terraformation",
+	    "japanese": "テラフォーミング",
   },
   "tech_droneFertilization": {
       "english": "Drone Fertilization",
       "german": "Dünger-Drohnen",
-	  "japanese": "ドローンでの肥料散布",
+      "french": "Fertilisation par drones",
+	    "japanese": "ドローンでの肥料散布",
   },
   "tech_groundAcidityRegulation": {
       "english": "Ground Acidity Regulation",
       "german": "Bodensäureregulierung",
-	  "japanese": "土壌酸性度調整",
+      "french": "Régulation de l'acidité du sol",
+	    "japanese": "土壌酸性度調整",
   },
   "tech_ammoniaExtraction": {
       "english": "Ammonia Extraction",
       "german": "Ammoniakextrahierung",
-	  "japanese": "アンモニア除去",
+      "french": "Extraction d'ammoniac",
+	    "japanese": "アンモニア除去",
   },
   "tech_magneticFieldGeneration": {
       "english": "Magnetic Field Generation",
       "german": "Magnetfelderzeugung",
-	  "japanese": "電磁場形成",
+      "french": "Génération de champ magnétique",
+	    "japanese": "電磁場形成",
   },
 }

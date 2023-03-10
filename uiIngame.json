@@ -3780,6 +3780,7 @@
     "terraformingProgressPercentage": {
         "english": "Terraforming Progress: %progress%%",
         "german": "Terraforming Fortschritt: %progress%%",
+		"french": "Progrès de la terraformation : %progress%%",
 		"japanese": "テラフォーミングの進捗: %progress%%",
     },
     "dustParticleFiltering": {
