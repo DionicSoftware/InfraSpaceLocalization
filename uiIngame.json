@@ -3775,54 +3775,65 @@
         "english": "Terraforming Progress",
         "german": "Terraforming",
 		"french": "Terraformation",
+		"japanese": "テラフォーミングの進捗",
     },
     "terraformingProgressPercentage": {
         "english": "Terraforming Progress: %progress%%",
         "german": "Terraforming Fortschritt: %progress%%",
+		"japanese": "テラフォーミングの進捗: %progress%%",
     },
     "dustParticleFiltering": {
         "english": "Dust Particle Filtering",
         "german": "Feinstaubfilterung",
 		"french": "Filtrage des particules de poussière",
+		"japanese": "粉塵濾過",
     },
     "fertilization": {
         "english": "Soil Fertilization",
         "german": "Düngerverteilung",
 		"french": "Fertilisation du sol",
+		"japanese": "土壌肥沃度",
     },
     "groundAcidity": {
         "english": "Ground Acidity Regulation",
         "german": "Bodensäureregulierung",
 		"french": "Régulation de l'acidité du sol",
+		"japanese": "土壌酸性度調整",
     },
     "ammoniaExtraction": {
         "english": "Atmosphere Ammonia Extraction",
         "german": "Ammoniakextraktion",
 		"french": "Extraction d'ammoniac dans l'atmosphère",
+		"japanese": "大気中のアンモニア除去",
     },
     "magneticField": {
         "english": "Magnetic Field",
         "german": "Magnetfeld",
 		"french": "Champ magnétique",
+		"japanese": "電磁場",
     },
     "terraformingPoints": {
         "english": "Terraforming Points: %points%",
         "german": "Terraforming Punkte: %points%",
 		"french": "Points de terraformation : %points%",
+		"japanese": "テラフォーミングスコア: %points%", // 「ポイント」だと「位置」と誤解されかねないので、「スコア」とした。
     },
     "terraformedAreaOnMap": {
         "english": "Terraformed area on map: %area%%",
         "german": "Terraformtes Gebiet: %area%%",
 		"french": "Zone terraformée sur la carte : %area%%",
+		"japanese": "テラフォーミング済みエリア: %area%%",
     },
     "totalProgress": {
         "english": "Total Progress: %progress%%",
         "german": "Gesamtfortschritt: %progress%%",
 		"french": "Progression totale : %progress%%",
+		"japanese": "全体の進捗: %progress%%",
     },
     "view": {
         "english": "View",
         "german": "Ansicht",
 		"french": "Vue",
+		"japanese": "表示",
     },
 }
