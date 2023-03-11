@@ -2115,6 +2115,7 @@
       "german": "Fabrik für Filtergewebe",
       "french": "Usine de maillage filtrant",
       "japanese": "濾過用メッシュ工場",
+      "turkish": "Örgü Filtre Fabrikası",
       "thai": "โรงงานตาข่ายกรอง",
   },
   "advancedFilteringMeshFactory": {
@@ -2122,6 +2123,7 @@
       "german": "Fabrik für fortgeschrittene Filtergewebe",
       "french": "Usine de maillage filtrant avancé",
       "japanese": "発展型濾過用メッシュ工場",
+      "turkish": "Gelişmiş Örgü Filtre Fabrikası",
       "thai": "โรงงานตาข่ายกรองขั้นสูง",
   },
   "superconductingCoilFactory": {
@@ -2129,6 +2131,7 @@
       "german": "Fabrik für supraleitende Spulen",
       "french": "Usine de bobines supraconductrices",
       "japanese": "超伝導コイル工場",
+      "turkish": "Süper iletken bobin fabrikası",
       "thai": "โรงงานขดลวดตัวนำยิ่งยวด",
   },
 
@@ -2137,6 +2140,7 @@
       "german": "Feinstaubfilter",
       "french": "Filtre à particules fines",
       "japanese": "粉塵濾過施設",
+      "turkish": "Toz Filtresi",
       "thai": "ตัวกรองอนุภาคฝุ่น",
   },
   "fertilizerDroneHub": {
@@ -2144,6 +2148,7 @@
       "german": "Zentrum für Dünger-Drohnen",
       "french": "Centre de drones de fertilisation",
       "japanese": "肥料用ドローンのハブ",
+      "turkish": "Drone Gübreleme Merkezi",
       "thai": "ศูนย์กลางของโดรนใส่ปุ๋ย",
   },
   "groundAcidityRegulator": {
@@ -2151,6 +2156,7 @@
       "german": "Bodensäureregulator",
       "french": "Régulateur d'acidité du sol",
       "japanese": "土壌酸性度調整施設",
+      "turkish": "Toprak Asit Düzenlemesi",
       "thai": "เครื่องควบคุมความเป็นกรดของดิน",
   },
   "ammoniaExtractor": {
@@ -2158,6 +2164,7 @@
       "german": "Ammoniakextraktor",
       "french": "Extracteur d'ammoniac",
       "japanese": "アンモニア除去施設",
+      "turkish": "Amonyak Çıkarıcı",
       "thai": "เครื่องดูดแอมโมเนีย",
   },
   "magneticFieldGenerator": {
@@ -2165,6 +2172,7 @@
       "german": "Magnetfeldgenerator",
       "french": "Générateur de champ magnétique",
       "japanese": "電磁場形成施設",
+      "turkish": "Manyetik Alan Oluşturucu",
       "thai": "เครื่องกำเนิดสนามแม่เหล็ก",
   },
 }
