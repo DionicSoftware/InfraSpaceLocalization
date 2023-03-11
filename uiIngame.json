@@ -27,7 +27,7 @@
 		"german": "Benötigt: %amount% MW",
 		"french": "Requis : %amount% MW",
 		"dutch": "Benodigd: %amount% MW",
-        "spanish": "Requeridos: %amount% MW",
+		"spanish": "Requeridos: %amount% MW",
 		"spanish-esp": "Necesario: %amount% MW",
 		"russian": "Требуется: %amount% МВт",
 		"chinese": "需求: %amount% 兆瓦",
@@ -119,7 +119,7 @@
 		"german": "Kein Anschluss zur Straße",
 		"french": "Pas d'accès à la route",
 		"dutch": "Geen toegang to de weg",
-        "spanish": "Sin acceso al camino",
+		"spanish": "Sin acceso al camino",
 		"spanish-esp": "No hay acceso a la carretera",
 		"russian": "Нет доступа к дороге",
 		"chinese": "无法进入道路",
@@ -142,7 +142,7 @@
 		"german": "Ausgehendes Lager voll",
 		"french": "Sortie pleine",
 		"dutch": "Uitgaande opslag vol",
-        "spanish": "Almacenamiento saliente lleno",
+		"spanish": "Almacenamiento saliente lleno",
 		"spanish-esp": "Almacenamiento de salida lleno",
 		"russian": "Исходящее хранилище заполнено",
 		"chinese": "输出库存为空",
@@ -234,7 +234,7 @@
 		"german": "Deine Stadt wird zu \"%cityLevelName%\" befördert sobald du mindestens %amount% Level %nextLevel% Bürger hast.",
 		"french": "Votre ville sera promue en %cityLevelName% dès que vous aurez au moins %amount% citoyens de niveau %nextLevel%.",
 		"dutch": "Je stad zal worden opgewaardeerd tot \"%cityLevelName%\" zodra je minstens %amount% Level %nextLevel% burgers hebt.   ",
-        "spanish": "Tu ciudad será promovida a \"%cityLevelName%\" en cuanto tengas al menos %amount% ciudadanos de nivel %nextLevel%.",
+		"spanish": "Tu ciudad será promovida a \"%cityLevelName%\" en cuanto tengas al menos %amount% ciudadanos de nivel %nextLevel%.",
 		"spanish-esp": "Tu ciudad será mejorada a \"%cityLevelName%\" en cuanto tengas al menos %amount% ciudadanos de nivel %nextLevel%.",
 		"russian": "Ваш город будет повышен до \"%cityLevelName%\", как только у вас будет хотя бы %amount% жителей %nextLevel% уровня.",
 		"chinese": "一旦你拥有至少%amount%名%nextLevel%级的居民后，城镇就会升级到 \"%cityLevelName%\"。",
@@ -273,7 +273,7 @@
 		"turkish": "En yüksek şehir seviyesine ulaştınız. Tebrikler!",
 		"romanian": "Ai atins cel mai înalt nivel de oraș. Felicitări!",
 		"danish": "Du har nået det højeste by niveau. Stærkt Gået!",
-		"greek":"Έφτασες στο υψηλότερο επίπεδο πόλης. Συγχαρητήρια!",
+		"greek": "Έφτασες στο υψηλότερο επίπεδο πόλης. Συγχαρητήρια!",
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -296,7 +296,7 @@
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
 		"danish": "Din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% nivau %level% indbyggere.",
-		"greek":"Η πόλη σου θα υποβαθμιστεί σε \"%cityLevelName%\" εάν έχεις λιγότερους από %amount% %level%ου επιπέδου κατοίκους.",
+		"greek": "Η πόλη σου θα υποβαθμιστεί σε \"%cityLevelName%\" εάν έχεις λιγότερους από %amount% %level%ου επιπέδου κατοίκους.",
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -319,7 +319,7 @@
 		"turkish": "%techName% araştırlıyor...    %progress%",
 		"romanian": "Cercetând %techName%...    %progress%",
 		"danish": "Udforsker %techName%...    %progress%",
-		"greek":"Ερευνόντας %techName%...    %progress%",
+		"greek": "Ερευνόντας %techName%...    %progress%",
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -342,7 +342,7 @@
 		"turkish": "Yükseltmek için bir teknoloji seçin",
 		"romanian": "Alege tehnologia de cercetare",
 		"danish": "Vælg en teknologi at forske",
-		"greek":"Επίλεξε τεχνολογία για να ερευνήσεις",
+		"greek": "Επίλεξε τεχνολογία για να ερευνήσεις",
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -365,7 +365,7 @@
 		"turkish": "Hiç bir şey",
 		"romanian": "Nimic",
 		"danish": "Intet",
-		"greek":"Τίποτα",
+		"greek": "Τίποτα",
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -388,7 +388,7 @@
 		"turkish": "%techName% araştırması bitti ve artık inşa edilebilir:",
 		"romanian": "Am deblocat %techName% și acum putem construi:",
 		"danish": "Vi har åbnet for %techName% og du kan nu bygge:",
-		"greek":"Ξεκλειδώσαμε %techName% και τώρα μπορούμε να χτίσουμε:",
+		"greek": "Ξεκλειδώσαμε %techName% και τώρα μπορούμε να χτίσουμε:",
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -411,7 +411,7 @@
 		"turkish": "%techName% araştırması bitti.",
 		"romanian": "Am deblocat %techName%.",
 		"danish": "Vi har åbnet for %techName%.",
-		"greek":"Έχουμε ξεκλειδώσει %techName%",
+		"greek": "Έχουμε ξεκλειδώσει %techName%",
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -434,7 +434,7 @@
 		"turkish": "Bu teknolojinin açtıkları:",
 		"romanian": "Această tehnologie deblochează:",
 		"danish": "Denne teknologi åbner for:",
-		"greek":"Αυτή η τεχνολογία ξεκλειδώνει:",
+		"greek": "Αυτή η τεχνολογία ξεκλειδώνει:",
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
@@ -457,7 +457,7 @@
 		"turkish": "BU teknoloji hiç bir şey açmıyor.",
 		"romanian": "Această tehnologie nu deblochează nimic.",
 		"danish": "Denne teknologi åbner ikke for noget",
-		"greek":"Αυτή η τεχνολογία δεν ξεκλειδώνει τίποτα.",
+		"greek": "Αυτή η τεχνολογία δεν ξεκλειδώνει τίποτα.",
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -480,7 +480,7 @@
 		"turkish": "Araştırma tamamlandı!",
 		"romanian": "Cercetare finalizată!",
 		"danish": "Forskning Færdig!",
-		"greek":"Η έρευνα ολοκληρώθηκε!",
+		"greek": "Η έρευνα ολοκληρώθηκε!",
 	},
 	"production": {
 		"english": "Production",
@@ -503,7 +503,7 @@
 		"turkish": "Üretim",
 		"romanian": "Producție",
 		"danish": "Produktion",
-		"greek":"Παραγωγή",
+		"greek": "Παραγωγή",
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -526,7 +526,7 @@
 		"turkish": "Tüketim",
 		"romanian": "Consum",
 		"danish": "Forbrug",
-		"greek":"Κατανάλωση",
+		"greek": "Κατανάλωση",
 	},
 	"workers": {
 		"english": "Workers",
@@ -696,7 +696,7 @@
 		"german": "Wohngebäude ist voll. Erfülle die weiteren Bedürfnisse um aufzusteigen.",
 		"french": "L'habitat est complet. Remplissez les besoins complémentaires pour l'améliorer.",
 		"dutch": "Habitat is vol. Vervul de additionele behoeften om op te waarderen.",
-        "spanish": "Hábitat lleno. Cumple los requisitos adicionales para mejorar.",
+		"spanish": "Hábitat lleno. Cumple los requisitos adicionales para mejorar.",
 		"spanish-esp": "El hábitat está lleno. Cumple los requisitos adicionales para mejorarlo.",
 		"russian": "Среда обитания заполнена. Выполните дополнительные требования для улучшения.",
 		"chinese": "居住点人口已满，满足升级的额外需求。",
@@ -765,7 +765,7 @@
 		"german": "Bedürfnisse werden nicht erfüllt.",
 		"french": "Les besoins ne sont pas satisfaits.",
 		"dutch": "Er is niet aan de behoeften voldaan.",
-        "spanish": "Los requisitos no se han cumplido.",
+		"spanish": "Los requisitos no se han cumplido.",
 		"spanish-esp": "Las necesidades no se han cumplido.",
 		"russian": "Потребности не удовлетворены.",
 		"chinese": "没有选择研究:",
@@ -1202,9 +1202,6 @@
 		"turkish": "Uzay gemisi teknolojisi",
 		"chinese": "太空船技术：",
 	},
-
-
-
 	"gridOff": {
 		"english": "No Grid",
 		"german": "Kein Gitter",
@@ -1259,7 +1256,6 @@
 		"turkish": "45° Kılavuz",
 		"chinese": "45° 网格",
 	},
-
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
 		"german": "Runde Straße bauen",
@@ -1359,7 +1355,7 @@
 		"dutch": "Draait ook de wegrichting om als je geen vervangende weg hebt geselecteerd.",
 		"chinese": "如果未选择替代道路，也能反转道路方向",
 		"polish": "Pozwala także odwrócić kierunek drogi, jeśli nie wybrano innego typu ulicy do zamiany.",
-        "spanish": "Además invierte la dirección de la carretera si no tienes un reemplazo seleccionado",
+		"spanish": "Además invierte la dirección de la carretera si no tienes un reemplazo seleccionado",
 		"spanish-esp": "Además, invierte la dirección de la carretera si no tienes una carretera para reemplazar seleccionada",
 		"ukrainian": "Також змінює напрямок дороги, якщо ви не обрали альтернативну дорогу",
 		"slovak": "Tiež zmení smer cesty, ak nemáte vybratú náhradnú cestu",
@@ -1736,36 +1732,36 @@
 		"japanese": "行き止まり",
 		"chinese": "死路",
 	},
-    "highAngleBetweenGondolas":  {
-        "english": "Can't connect to other station. Gondola lines can not curve!",
-        "german": "Kann nicht mit anderer Staion verbinden. Gondelseile können nur gerade gespannt werden!",
+	"highAngleBetweenGondolas": {
+		"english": "Can't connect to other station. Gondola lines can not curve!",
+		"german": "Kann nicht mit anderer Staion verbinden. Gondelseile können nur gerade gespannt werden!",
 		"french": "Impossible de se connecter à une autre station. Les lignes de nacelles ne peuvent pas être courbées !",
-        "japanese": "他のゴンドラ駅に接続できません。 ゴンドラのロープは曲げられません！",
+		"japanese": "他のゴンドラ駅に接続できません。 ゴンドラのロープは曲げられません！",
 		"thai": "ไม่สามารถเชื่อมต่อกับสถานีอื่นได้ สายของกระเช้าลอยฟ้าโค้งไม่ได้!",
 		"hungarian": "Nem csatlakoztatható a másik állomáshoz. A felvonó útja nem lehet görbe!",
-	"turkish": "Diğer istasyonlara bağlanılamıyor. Teleferik hatları kavis alamaz",
+		"turkish": "Diğer istasyonlara bağlanılamıyor. Teleferik hatları kavis alamaz",
 		"chinese": "无法连接到其他车站。缆车线路不能弯曲！",
-    },
-    "buildingConnectorTooSteep":  {
-        "english": "Too steep",
-        "german": "Zu steil",
+	},
+	"buildingConnectorTooSteep": {
+		"english": "Too steep",
+		"german": "Zu steil",
 		"french": "Trop raide",
-        "japanese": "勾配が急すぎます",
+		"japanese": "勾配が急すぎます",
 		"thai": "สูงชันเกินไป",
 		"hungarian": "Túl meredek",
-	"turkish": "Çok dik",
+		"turkish": "Çok dik",
 		"chinese": "太陡了",
-    },
-    "buildingConnectorColliding":  {
-        "english": "Colliding with something",
-        "german": "Kollidiert mit etwas",
+	},
+	"buildingConnectorColliding": {
+		"english": "Colliding with something",
+		"german": "Kollidiert mit etwas",
 		"french": "En collision avec quelque chose",
-        "japanese": "他の物体と接触しています",
+		"japanese": "他の物体と接触しています",
 		"thai": "ชนกับอะไรบางอย่าง",
 		"hungarian": "Valamivel ütközik",
-	"turkish": "Bir şey ile çarpışıyor",
+		"turkish": "Bir şey ile çarpışıyor",
 		"chinese": "与其他物体冲突",
-    },
+	},
 	"visualizations": {
 		"english": "Visualizations",
 		"german": "Visualisierungen",
@@ -1834,7 +1830,6 @@
 		"romanian": "Ocuparea clădirilor (muncitori și locuitori)",
 		"danish": "Bygningsbelægning (arbejdere og indbyggere)",
 		"greek": "Πληρότητα κτηρίων (Εργάτες & Κάτικοι)",
-
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -2655,7 +2650,7 @@
 		"turkish": "Tren",
 		"russian": "Поезд",
 		"polish": "Pociąg",
-		"thai":"รถไฟ",
+		"thai": "รถไฟ",
 		"italian": "Treno",
 		"czech": "Vlak",
 		"hungarian": "Vonat",
@@ -2674,7 +2669,7 @@
 		"turkish": "Taşıyor",
 		"russian": "Транспортировка",
 		"polish": "Transportowanie",
-		"thai":"การขนส่ง",
+		"thai": "การขนส่ง",
 		"italian": "Trasporto",
 		"hungarian": "Szállít",
 		"romanian": "Transportând",
@@ -2693,7 +2688,7 @@
 		"turkish": "Sonraki istasyon",
 		"russian": "Следующая станция",
 		"polish": "Następna stacja",
-		"thai":"สถานีต่อไป",
+		"thai": "สถานีต่อไป",
 		"italian": "Prossima Stazione",
 		"czech": "Další stanice",
 		"hungarian": "Következő megálló",
@@ -2713,7 +2708,7 @@
 		"russian": "Доставочный грузовик",
 		"turkish": "Teslimat Kamyonu",
 		"polish": "Samochód dostawczy",
-		"thai":"บรรทุกส่งของ",
+		"thai": "บรรทุกส่งของ",
 		"italian": "Camion delle consegne",
 		"czech": "Kamion",
 		"hungarian": "Kamion",
@@ -2732,7 +2727,7 @@
 		"russian": "Цель",
 		"turkish": "Hedef",
 		"polish": "Cel",
-		"thai":"เป้าหมาย",
+		"thai": "เป้าหมาย",
 		"italian": "Obiettivo",
 		"czech": "Cíl",
 		"hungarian": "Cél",
@@ -2752,7 +2747,7 @@
 		"russian": "Линии поездов",
 		"turkish": "Tren Hatları",
 		"polish": "Linie pociągów",
-		"thai":"เส้นทางรถไฟ",
+		"thai": "เส้นทางรถไฟ",
 		"italian": "Binari",
 		"czech": "Vlakové linky",
 		"hungarian": "Vasutak",
@@ -2771,7 +2766,7 @@
 		"russian": "Всего перевезено товаров: %amount%",
 		"turkish": "Taşınan toplam malzeme miktarı: %amount%",
 		"polish": "Suma przetransportowanych towarów: %amount%",
-		"thai":"ยอดรวมสินค้าที่ขนส่ง: %amount%",
+		"thai": "ยอดรวมสินค้าที่ขนส่ง: %amount%",
 		"italian": "Beni trasportati totali: %amount%",
 		"czech": "Objem přepraveného nákladu: %amount%",
 		"hungarian": "Összes szállított termék: %amount%",
@@ -2790,7 +2785,7 @@
 		"russian": "Поездов на линии: %amount%",
 		"turkish": "Hat üzerindeki tren sayısı: %amount%",
 		"polish": "Pociągów na wybranej linii: %amount%",
-		"thai":"รถไฟอยู่ในเส้นทาง: %amount%",
+		"thai": "รถไฟอยู่ในเส้นทาง: %amount%",
 		"italian": "Treni sulla linea: %amount%",
 		"czech": "Vlaků na trati",
 		"hungarian": "Aktív vonatok",
@@ -2809,7 +2804,7 @@
 		"russian": "Цвет поезда",
 		"turkish": "Tren rengi",
 		"polish": "Kolor pociągu",
-		"thai":"สีรถไฟ",
+		"thai": "สีรถไฟ",
 		"italian": "Colore del treno",
 		"czech": "Barva vlaku",
 		"hungarian": "Vonat színe",
@@ -2829,7 +2824,7 @@
 		"russian": "Сигналы поезда",
 		"turkish": "Tren Sinyalizasyonu",
 		"polish": "Sygnalizacja pociągu",
-		"thai":"สัญญาณรถไฟ",
+		"thai": "สัญญาณรถไฟ",
 		"italian": "Segnali dei treni",
 		"czech": "Traťová návěstidla",
 		"hungarian": "Vonat jelzés",
@@ -2848,7 +2843,7 @@
 		"russian": "Красные рельсы обозначают участки, где есть шанс столкновения поездов.",
 		"turkish": "Kırmızı raylar trenlerin çakışabileceği yerleri gösterir.",
 		"polish": "Czerwone tory oznaczają odcinki, na których może dojść do kolizji pociągów.",
-		"thai":"รางสีแดงระบุส่วนที่รถไฟสามารถชนกันได้",
+		"thai": "รางสีแดงระบุส่วนที่รถไฟสามารถชนกันได้",
 		"italian": "I binari rossi indicano i segmenti in cui i treni possono entrare in collisione",
 		"czech": "Červená kolej označuje úseky, kde mohou vlaky kolidovat.",
 		"hungarian": "A piros sínek vonatok lehetséges ütközését jelzik.",
@@ -2867,7 +2862,7 @@
 		"russian": "Оранжевые рельсы обозначают пересечения железных дорог. Они создаются вокруг красных сегментов. В большинстве случаев на перекресток может одновременно заходить только один поезд.",
 		"turkish": "Turuncu raylar, ray kesişimlerini gösterir. BUnlar kırmızı bölümlerin etrafında oluşur. Çoğu durumda bir kesişime aynı anda sadece bir tren girebilir.",
 		"polish": "Pomarańczowe tory wskazują skrzyżowania torów. Otaczają one czerwone odcinki. W większości przypadków tylko jeden pociąg może przejeżdżać przez skrzyżowanie na raz.",
-		"thai":"รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น",
+		"thai": "รางสีส้มแสดงทางแยกราง สิ่งเหล่านี้จะถูกสร้างขึ้นรอบๆส่วนสีแดง ในกรณีส่วนใหญ่โดยทั่วไป รถไฟสามารถเข้าทางแยกได้ครั้งละหนึ่งขบวนเท่านั้น",
 		"italian": "I binari arancioni mostrano gli incroci fra i binari. Sono create attorno ai segmenti rossi. In molti casi solo un treno alla volta può occupare l'incrocio.",
 		"hungarian": "A narancssárga sínek kereszteződéseket jeleznek. Ezek a piros részek körül jönnek létre. A legtöbb esetben csak egy vonat egyszerre kereszteződést használni",
 		"romanian": "Șinele portocalii arată intersecțiile feroviare. Acestea sunt create în jurul segmentelor roșii. În cele mai multe cazuri, doar un tren poate intra într-o intersecție la un moment dat.",
@@ -2886,7 +2881,7 @@
 		"russian": "Зеленые рельсы - это прямые участки без риска столкновения.",
 		"turkish": "Yeşil raylar çakışma riskinin olmadığı, düz bölümlerdir.",
 		"polish": "Zielone tory to proste odcinki, na których nie ma ryzyka kolizji.",
-		"thai":"รางสีเขียวเป็นทางตรงไม่เสี่ยงต่อการชน",
+		"thai": "รางสีเขียวเป็นทางตรงไม่เสี่ยงต่อการชน",
 		"italian": "I binari verdi sono segmenti rettilinei senza rischio di collisione.",
 		"hungarian": "A zöld sínek egyenes részek ahol nincs esély ütközésre.",
 		"romanian": "Șinele verzi sunt segmente fără risc de coliziune.",
@@ -2905,7 +2900,7 @@
 		"russian": "Система сигналов поездов предотвращает столкновение или блокировку ваших поездов друг с другом.",
 		"turkish": "Tren sinyalizasyon sistemi trenlerinizin birbiriyle çakışmasını engeller.",
 		"polish": "System sygnalizacji pociągów zapobiega kolizjom oraz wzajemnemu blokowaniu się pociągów.",
-		"thai":"ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง",
+		"thai": "ระบบสัญญาณรถไฟช่วยป้องกันรถไฟของคุณจากการชนกันหรือหยุดชะงักระหว่างเดินเครื่อง",
 		"italian": "Il sistema di segnali per i treni impedisce ai tuoi treni di entrare in collisione o di bloccarsi.",
 		"hungarian": "A vonat jelző rendszer megakadályozza hogy a vonatok ütközzenek, vagy rossz vágányra kerüljenek.",
 		"romanian": "Sistemul de semnalizare a trenurilor împiedică trenurile tale să se ciocnească sau să se blocheze reciproc.",
@@ -2924,7 +2919,7 @@
 		"russian": "Для максимальной пропускной способности убедитесь, что у вас достаточно места с длинными зелеными сегментами между перекрестками.",
 		"turkish": "En yüksek verim için kesişimlerinizin arasında yeterli uzunlukta yeşil kısımlar bıraktığınızdan emin olun.",
 		"polish": "Aby osiągnąć najwyższą przepustowość upewnij się, że pomiędzy skrzyżowaniami jest wystarczająco dużo zielonych odcinków.",
-		"thai":"สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก",
+		"thai": "สำหรับปริมาณงานสูงสุด ตรวจสอบให้แน่ใจว่าคุณมีพื้นที่เพียงพอโดยต้องมีส่วนสีเขียวยาวระหว่างทางแยก",
 		"italian": "Per avere un flusso ottimale, accertati di avere abbastanza spazio con lunghi segmenti verdi fra gli incroci.",
 		"hungarian": "Az elakadásokat el lehet kerülni a kereszteződések között hagyott elegendő hosszúságú egyenes rész.",
 		"romanian": "Pentru un debit maxim, asigură-te că ai suficient spațiu cu segmente lungi verzi între intersecții.",
@@ -2943,7 +2938,7 @@
 		"russian": "Рельсы",
 		"turkish": "Raylar",
 		"polish": "Tory",
-		"thai":"รางรถไฟ",
+		"thai": "รางรถไฟ",
 		"czech": "Koleje",
 		"italian": "Binari",
 		"hungarian": "Sínek",
@@ -2955,9 +2950,7 @@
 		"japanese": "レール",
 		"chinese": "轨道",
 	},
-
-
-	"trafficLightSettings" : {
+	"trafficLightSettings": {
 		"english": "Traffic Light Settings",
 		"german": "Ampeleinstellungen",
 		"french": "Réglages des feux tricolores",
@@ -2965,7 +2958,7 @@
 		"spanish": "Configuración de luces de tráfico",
 		"spanish-esp": "Configuración de semáforos",
 		"italian": "Settaggi dei Semafori",
-		"thai":"ตั้งค่าสัญญาณไฟจราจร",
+		"thai": "ตั้งค่าสัญญาณไฟจราจร",
 		"polish": "Ustawienia świateł drogowych",
 		"czech": "Nastavení semaforu",
 		"danish": "Trafiklys Indstillinger",
@@ -2975,7 +2968,7 @@
 		"turkish": "Trafik ışığı ayarları",
 		"chinese": "交通信号设置",
 	},
-	"customMarker" : { // used like "Traffic Light Settings - Custom" when player changed them
+	"customMarker": { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
 		"german": "Bearbeitet",
 		"french": "Personnalisé",
@@ -2983,7 +2976,7 @@
 		"spanish": "Personalizado",
 		"spanish-esp": "Personalizado",
 		"italian": "Personalizzati",
-		"thai":"กำหนดเอง",
+		"thai": "กำหนดเอง",
 		"polish": "zmodyfikowano",
 		"czech": "Vlastní",
 		"danish": "Brugerdefineret",
@@ -2993,7 +2986,7 @@
 		"turkish": "Özel",
 		"chinese": "已设定",
 	},
-	"phaseNumber" : {
+	"phaseNumber": {
 		"english": "Phase %number%",
 		"german": "Phase %number%",
 		"french": "Phase %number%",
@@ -3001,7 +2994,7 @@
 		"spanish": "Fase %number%",
 		"spanish-esp": "Fase %number%",
 		"italian": "Fase %number%",
-		"thai":"ระยะ %number%",
+		"thai": "ระยะ %number%",
 		"polish": "Faza %number%",
 		"czech": "Fáze %number%",
 		"danish": "Fase %number%",
@@ -3011,7 +3004,7 @@
 		"turkish": "Aşama %number%",
 		"chinese": "相位 %number%",
 	},
-	"skipToNextPhaseWhenRoadsAreEmpty" : {
+	"skipToNextPhaseWhenRoadsAreEmpty": {
 		"english": "Skip to next phase when roads are empty",
 		"german": "Zur nächsten Phase springen wenn Straßen leer sind",
 		"french": "Passer à la phase suivante si les routes sont vides",
@@ -3019,7 +3012,7 @@
 		"spanish": "Pasar a la siguiente fase cuando las carreteas estén vacías",
 		"spanish-esp": "Pasar a la siguiente fase cuando las carreteas estén vacías",
 		"italian": "Passa alla fase seguente quando le strade sono vuote",
-		"thai":"ข้ามไปยังระยะถัดไปหากถนนว่างเปล่า",
+		"thai": "ข้ามไปยังระยะถัดไปหากถนนว่างเปล่า",
 		"polish": "Przeskocz do następnej fazy gdy drogi opustoszeją",
 		"czech": "Přeskočit na další fázi, když jsou silnice prázdné",
 		"danish": "Spring til næste fase, når vejene er tomme",
@@ -3029,7 +3022,6 @@
 		"turkish": "Yol boş ise bir sonraki aşamaya geç",
 		"chinese": "道路为空时跳过当前阶段",
 	},
-
 	"providing": { // like a school provides schooling
 		"english": "Providing",
 		"german": "Liefert",
@@ -3056,7 +3048,7 @@
 		"spanish": "Radio",
 		"spanish-esp": "Radio",
 		"italian": "Raggio",
-		"thai":"รัศมี",
+		"thai": "รัศมี",
 		"polish": "Promień",
 		"czech": "Radius",
 		"danish": "Radius",
@@ -3074,7 +3066,7 @@
 		"spanish": "Velocidad",
 		"spanish-esp": "Velocidad",
 		"italian": "Velocità",
-		"thai":"ความเร็ว",
+		"thai": "ความเร็ว",
 		"polish": "Prędkość",
 		"czech": "Rychlost",
 		"danish": "Hastighed",
@@ -3084,7 +3076,6 @@
 		"turkish": "Hız",
 		"chinese": "速度",
 	},
-
 	"pipeNetwork": {
 		"english": "Pipe Network",
 		"italian": "Rete Idraulica",
@@ -3169,9 +3160,6 @@
 		"turkish": "Yapılar",
 		"chinese": "建筑",
 	},
-
-
-
 	"spaceship": {
 		"english": "Spaceship",
 		"italian": "Nave Spaziale",
@@ -3250,7 +3238,7 @@
 		"spanish-esp": "Motor FTL",
 		"russian": "FTL - Привод",
 		"thai": "เครื่องยนต์เอฟทีเอล",
-		"japanese": "ワープエンジン",  // 日本語ではFTL全般をワープと呼ぶ傾向があるので。
+		"japanese": "ワープエンジン", // 日本語ではFTL全般をワープと呼ぶ傾向があるので。
 		"hungarian": "FTL motor",
 		"czech": "FTL Pohon",
 		"turkish": "FTL Motoru",
@@ -3392,8 +3380,6 @@
 		"turkish": "Lazer silahı",
 		"chinese": "激光炮",
 	},
-
-
 	"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
 		"italian": "I tuoi progressi convincono i membri dell'equipaggio a credere in te. Ricevi un aumento del 5% all'immigrazione",
@@ -3430,7 +3416,7 @@
 		"spanish-esp": "La redirección de la energía de la nave espacial incrementa la eficiencia de todos tus edificios en un %percentage%%.",
 		"russian": "Перенаправление энергии корабля увеличивает эффективность зданий на %percentage%%ю",
 		"thai": "ความคืบหน้าของคุณที่ทำให้ลูกเรือของคุณนั้นไว้วางใจคุณ จำนวน %amount% คนจะมาที่ดาวเคราะห์ทันทีเพื่อช่วยเหลือคุณ",
-		"japanese": "宇宙船の電力のリルートにより、 全ての施設の効率を永続的に5%向上する。",  // 暫定訳 (provisional translation)
+		"japanese": "宇宙船の電力のリルートにより、 全ての施設の効率を永続的に5%向上する。", // 暫定訳 (provisional translation)
 		"hungarian": "Az űrhajó energiáinak átirányítása megemeli az összes épület hatékonyságát véglegesen %percentage%%-kal.",
 		"czech": "Přesměrování energie vesmírné lodi trvale zvyšuje veškerou efektivitu budovy o %percentage%%.",
 		"turkish": "Uzay gemisininin enerjisini yönlendirmen bütün yapıların verimini süresiz olarak %percentage%% arttırdı",
@@ -3444,7 +3430,7 @@
 		"spanish-esp": "Con este módulo activo recibirás un %percentage%% de incremento en una tecnología aleatoria.",
 		"russian": "С исправностью этого отсека, вы получаете прибавку в %percentage%% к случайной технологии.",
 		"thai": "เมื่อส่วนเชื่อมต่อนี้ออนไลน์ คุณจะได้รับการเร่งเป็นเทคโนโลยีแบบสุ่ม %percentage%%",
-		"japanese": "このモジュールの稼働により、 ランダムな技術1つが%percentage%%のブーストを得る。",  // 暫定訳 (provisional translation)。要検証: boostは研究進捗の意味？
+		"japanese": "このモジュールの稼働により、 ランダムな技術1つが%percentage%%のブーストを得る。", // 暫定訳 (provisional translation)。要検証: boostは研究進捗の意味？
 		"hungarian": "Ha ez a modul aktív, akkor %percentage%%-os bónuszt kapsz egy véletlenszerű technológiára.",
 		"czech": "S tímto modulem online získáte %percentage%% navýšení náhodné technologie.",
 		"turkish": "Bu modülün açılması ile birlikte her hangi bir teknolojide %percentage%% güçlendirme alıcaksın",
@@ -3474,8 +3460,6 @@
 		"turkish": "Lazer silahı kayaları eritecek kadar güçlü. haritadaki engelleri yöründegen temizleyebilirsin",
 		"chinese": "安塔利斯激光炮威力足以熔化岩石。清除你地图上轨道的障碍物！",
 	},
-
-
 	"necessaryResources": {
 		"english": "Necessary Resources",
 		"italian": "Risorse Necessarie",
@@ -3532,8 +3516,6 @@
 		"turkish": "Tamir",
 		"chinese": "维修",
 	},
-
-
 	"worldSettings": {
 		"english": "World Settings",
 		"italian": "Impostazioni del Mondo",
@@ -3660,8 +3642,6 @@
 		"turkish": "Bu ayar trafik zorluğunu arttırır.\nEğer yeni bir zorluk arıyorsanız açabilirsiniz",
 		"chinese": "该选项将会使道路交通规划变得更加困难。\n如果你想找点乐子，请选择此项。",
 	},
-
-
 	"introText_1": {
 		"english": "After a failed warp jump, your damaged spaceship is stranded somewhere in the galaxy.",
 		"italian": "Dopo un salto iperspaziale fallito, la tua nave spaziale è rimasta fortemente danneggiata da qualche parte nella Galassia.",
@@ -3698,13 +3678,12 @@
 		"french": "Vous devez donc vous installer sur l'une des planètes voisines pour obtenir les ressources et la technologie nécessaires à la réparation de votre vaisseau.",
 		"spanish-esp": "Necesitas asentarte en un planeta cercano para conseguir los recursos y tecnología necesaria para reparar tu nave.",
 		"russian": "Вам надо поселится на ближайшей планете что-бы раздобыть нужные ресурсы и технологии для починки вашего корабля.",
- 		"japanese": "必要な資源と技術を得て宇宙船を修理するために、近くの惑星に入植する必要があります。",
+		"japanese": "必要な資源と技術を得て宇宙船を修理するために、近くの惑星に入植する必要があります。",
 		"hungarian": "Kénytelen vagy letelepedni egy közeli bolgyón, hogy megszerezd a szükséges nyersanyagokat és technológiákat az űrhajód megjavításához.",
 		"czech": "Musíte se usadit na jedné z blízkých planet, abyste získali potřebné zdroje a technologii k opravě své lodi.",
 		"turkish": "Yakında bulunan bir gezeni kolonize edip gerekli kaynakları ve teknolojileri toplamalı ve gemini tamir etmelisin",
 		"chinese": "你需要在邻近的某个行星定居，以此来获得必要的资源和科技来修复你的飞船。",
 	},
-
 	"dismiss": {
 		"english": "Ok",
 		"german": "Ok",
@@ -3714,8 +3693,8 @@
 		"turkish": "Tamam",
 		"portuguese": "Ok",
 		"dutch": "Oké",
-		"ukrainian":"ОК",
-		"russian":"ОК",
+		"ukrainian": "ОК",
+		"russian": "ОК",
 		"chinese": "确定",
 		"korean": "확인",
 		"arabic": "ﺎﻨﺴﺣ",
@@ -3727,114 +3706,121 @@
 		"japanese": "閉じる",
 		"thai": "ตกลง",
 	},
-    "laserDestructionProgress": {
-        "english": "Destruction Progress",
-        "german": "Fortschritt der Zerstörung",
+	"laserDestructionProgress": {
+		"english": "Destruction Progress",
+		"german": "Fortschritt der Zerstörung",
 		"french": "Progression de la destruction",
-        "japanese": "破壊の進捗",
+		"japanese": "破壊の進捗",
 		"thai": "ความคืบหน้าของการทำลาย",
 		"hungarian": "Eltávolítás folyamatban",
-	"turkish": "İmha beklemede",
+		"turkish": "İmha beklemede",
 		"chinese": "摧毁进度",
-    },
-    "laserSelectedForDestruction": { // or "next targets"
-        "english": "Selected for Destruction",
-        "german": "Nächste Ziele",
+	},
+	"laserSelectedForDestruction": { // or "next targets"
+		"english": "Selected for Destruction",
+		"german": "Nächste Ziele",
 		"french": "Prochaines cibles",
-        "japanese": "次の目標",
+		"japanese": "次の目標",
 		"thai": "เป้าหมายต่อไป",
 		"hungarian": "Eltávolítésra jelölve",
-	"turkish": "İmha için seçili",
+		"turkish": "İmha için seçili",
 		"chinese": "下个目标",
-    },
-    "multiSelectTutorial": {
-        "english": "Click on the objects you want to destroy with the laser.",
-        "german": "Klicke auf die Objekte, die du mit dem Laser zerstören willst.",
-        "french": "Cliquez sur les objets que vous voulez détruire avec le laser.",
-        "japanese": "レーザーで破壊したいものを選択してください",
+	},
+	"multiSelectTutorial": {
+		"english": "Click on the objects you want to destroy with the laser.",
+		"german": "Klicke auf die Objekte, die du mit dem Laser zerstören willst.",
+		"french": "Cliquez sur les objets que vous voulez détruire avec le laser.",
+		"japanese": "レーザーで破壊したいものを選択してください",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
 		"hungarian": "Válaszd ki a lézerrel eltávolítani kívánt tárgyakra.",
-	"turkish": "Lazerle imha etmek istedğin objelerin üstüne tıkla.",
+		"turkish": "Lazerle imha etmek istedğin objelerin üstüne tıkla.",
 		"chinese": "单击要用激光炮摧毁的对象。",
-    },
-    "buildLaserCannonTutorial": {
-        "english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
-        "german": "Repariere die Laserkanone auf dem Raumschiff, damit du mit dieser Station Hindernisse entfernen kannst.",
+	},
+	"buildLaserCannonTutorial": {
+		"english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
+		"german": "Repariere die Laserkanone auf dem Raumschiff, damit du mit dieser Station Hindernisse entfernen kannst.",
 		"french": "Réparez le canon laser du vaisseau spatial, afin de pouvoir utiliser la station de ciblage et détruire les obstacles.",
-        "japanese": "宇宙船のレーザー砲を修理してください。 すると、障害物除去のためにレーザー照準ステーションを利用できるようになります。",
+		"japanese": "宇宙船のレーザー砲を修理してください。 すると、障害物除去のためにレーザー照準ステーションを利用できるようになります。",
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
 		"hungarian": "Javítsd meg a lézerágyút, hogy a célzó állomás segítségével eltávolíts akadályokat.",
-	"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
+		"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
 		"chinese": "修理太空船上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
-    },
-
-
-
-
-    "terraformingProgress": {
-        "english": "Terraforming Progress",
-        "german": "Terraforming",
+	},
+	"terraformingProgress": {
+		"english": "Terraforming Progress",
+		"german": "Terraforming",
 		"french": "Terraformation",
 		"japanese": "テラフォーミングの進捗",
-    },
-    "terraformingProgressPercentage": {
-        "english": "Terraforming Progress: %progress%%",
-        "german": "Terraforming Fortschritt: %progress%%",
+		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
+	},
+	"terraformingProgressPercentage": {
+		"english": "Terraforming Progress: %progress%%",
+		"german": "Terraforming Fortschritt: %progress%%",
 		"french": "Progrès de la terraformation : %progress%%",
 		"japanese": "テラフォーミングの進捗: %progress%%",
-    },
-    "dustParticleFiltering": {
-        "english": "Dust Particle Filtering",
-        "german": "Feinstaubfilterung",
+		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
+	},
+	"dustParticleFiltering": {
+		"english": "Dust Particle Filtering",
+		"german": "Feinstaubfilterung",
 		"french": "Filtrage des particules de poussière",
 		"japanese": "粉塵濾過",
-    },
-    "fertilization": {
-        "english": "Soil Fertilization",
-        "german": "Düngerverteilung",
+		"thai": "การกรองอนุภาคฝุ่น",
+	},
+	"fertilization": {
+		"english": "Soil Fertilization",
+		"german": "Düngerverteilung",
 		"french": "Fertilisation du sol",
 		"japanese": "土壌肥沃度",
-    },
-    "groundAcidity": {
-        "english": "Ground Acidity Regulation",
-        "german": "Bodensäureregulierung",
+		"thai": "การให้ปุ๋ยทางดิน",
+	},
+	"groundAcidity": {
+		"english": "Ground Acidity Regulation",
+		"german": "Bodensäureregulierung",
 		"french": "Régulation de l'acidité du sol",
 		"japanese": "土壌酸性度調整",
-    },
-    "ammoniaExtraction": {
-        "english": "Atmosphere Ammonia Extraction",
-        "german": "Ammoniakextraktion",
+		"thai": "การควบคุมความเป็นกรดของดิน",
+	},
+	"ammoniaExtraction": {
+		"english": "Atmosphere Ammonia Extraction",
+		"german": "Ammoniakextraktion",
 		"french": "Extraction d'ammoniac dans l'atmosphère",
 		"japanese": "大気中のアンモニア除去",
-    },
-    "magneticField": {
-        "english": "Magnetic Field",
-        "german": "Magnetfeld",
+		"thai": "การสกัดแอมโมเนียในบรรยากาศ",
+	},
+	"magneticField": {
+		"english": "Magnetic Field",
+		"german": "Magnetfeld",
 		"french": "Champ magnétique",
 		"japanese": "電磁場",
-    },
-    "terraformingPoints": {
-        "english": "Terraforming Points: %points%",
-        "german": "Terraforming Punkte: %points%",
+		"thai": "สนามแม่เหล็ก",
+	},
+	"terraformingPoints": {
+		"english": "Terraforming Points: %points%",
+		"german": "Terraforming Punkte: %points%",
 		"french": "Points de terraformation : %points%",
 		"japanese": "テラフォーミングスコア: %points%", // 「ポイント」だと「位置」と誤解されかねないので、「スコア」とした。
-    },
-    "terraformedAreaOnMap": {
-        "english": "Terraformed area on map: %area%%",
-        "german": "Terraformtes Gebiet: %area%%",
+		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
+	},
+	"terraformedAreaOnMap": {
+		"english": "Terraformed area on map: %area%%",
+		"german": "Terraformtes Gebiet: %area%%",
 		"french": "Zone terraformée sur la carte : %area%%",
 		"japanese": "テラフォーミング済みエリア: %area%%",
-    },
-    "totalProgress": {
-        "english": "Total Progress: %progress%%",
-        "german": "Gesamtfortschritt: %progress%%",
+		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
+	},
+	"totalProgress": {
+		"english": "Total Progress: %progress%%",
+		"german": "Gesamtfortschritt: %progress%%",
 		"french": "Progression totale : %progress%%",
 		"japanese": "全体の進捗: %progress%%",
-    },
-    "view": {
-        "english": "View",
-        "german": "Ansicht",
+		"thai": "ความคืบหน้าทั้งหมด: %progress%%",
+	},
+	"view": {
+		"english": "View",
+		"german": "Ansicht",
 		"french": "Vue",
 		"japanese": "表示",
-    },
+		"thai": "มุมมอง",
+	},
 }

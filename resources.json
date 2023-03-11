@@ -1028,6 +1028,7 @@
 		"french": "Maillage filtrant",
 		"turkish":"Örgü Filtre",
 		"japanese": "濾過用メッシュ",
+		"thai": "ตาข่ายกรอง",
     },
     "resource_advancedFilteringMesh": {
         "english": "Advanced Filtering Mesh",
@@ -1035,6 +1036,7 @@
 		"french": "Maillage filtrant avancé",
 		"turkish":"Gelişmiş Örgü Filtre",
 		"japanese": "発展型濾過用メッシュ",
+		"thai": "ตาข่ายกรองขั้นสูง",
     },
     "resource_superconductingCoil": {
         "english": "Superconducting Coil",
@@ -1042,6 +1044,7 @@
 		"french": "Bobine supraconductrice",
 		"turkish":"Aşırı İletken Bobin",
 		"japanese": "超伝導コイル",
+		"thai": "ขดลวดตัวนำยิ่งยวด",
     },
 
 	"resource_parkPoints": {
@@ -1232,5 +1235,6 @@
 		"french": "Terraformation",
 		"turkish":"Dünyalaştırma",
 		"japanese": "テラフォーミング",
+		"thai": "การปรับสภาพพื้นผิวดาว",
     },
 }
