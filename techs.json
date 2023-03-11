@@ -86,6 +86,7 @@
     "hungarian": "Csövek",
     "czech": "Trubky",
     "ukrainian": "Труби",
+    "turkish": "Borular",
     "chinese": "管道",
   },
   "tech_science2": {
@@ -1389,6 +1390,7 @@
     "german": "Terraforming",
     "french": "Terraformation",
     "japanese": "テラフォーミング",
+    "turkish": "Dünyalaştırma",
     "thai": "การปรับสภาพพื้นผิวดาว",
   },
   "tech_droneFertilization": {
@@ -1396,6 +1398,7 @@
     "german": "Dünger-Drohnen",
     "french": "Fertilisation par drones",
     "japanese": "ドローンでの肥料散布",
+    "turkish": "Drone'la Gübreleme",
     "thai": "การใส่ปุ๋ยด้วยโดรน",
   },
   "tech_groundAcidityRegulation": {
@@ -1403,12 +1406,14 @@
     "german": "Bodensäureregulierung",
     "french": "Régulation de l'acidité du sol",
     "japanese": "土壌酸性度調整",
+    "turkish": "Toprak asit düzenlemesi",
     "thai": "การควบคุมความเป็นกรดของดิน",
   },
   "tech_ammoniaExtraction": {
     "english": "Ammonia Extraction",
     "german": "Ammoniakextrahierung",
     "french": "Extraction d'ammoniac",
+    "turkish": "Amonyak Çıkartma",
     "japanese": "アンモニア除去",
     "thai": "การสกัดแอมโมเนีย",
   },
@@ -1417,6 +1422,7 @@
     "german": "Magnetfelderzeugung",
     "french": "Génération de champ magnétique",
     "japanese": "電磁場形成",
+    "turkish": "Manyetik Alan Oluşturma",
     "thai": "การสร้างสนามแม่เหล็ก",
   },
 }
