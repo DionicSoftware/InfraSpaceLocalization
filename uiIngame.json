@@ -3751,6 +3751,7 @@
 		"german": "Terraforming",
 		"french": "Terraformation",
 		"japanese": "テラフォーミングの進捗",
+		"turkish": "Dünyalaştırma",
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
 	},
 	"terraformingProgressPercentage": {
@@ -3758,6 +3759,7 @@
 		"german": "Terraforming Fortschritt: %progress%%",
 		"french": "Progrès de la terraformation : %progress%%",
 		"japanese": "テラフォーミングの進捗: %progress%%",
+		"turkish": "Dünyalaştırma ilerlemesi: %progress%%",
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
 	},
 	"dustParticleFiltering": {
@@ -3765,6 +3767,7 @@
 		"german": "Feinstaubfilterung",
 		"french": "Filtrage des particules de poussière",
 		"japanese": "粉塵濾過",
+		"turkish": "Toz Filtreleme",
 		"thai": "การกรองอนุภาคฝุ่น",
 	},
 	"fertilization": {
@@ -3772,6 +3775,7 @@
 		"german": "Düngerverteilung",
 		"french": "Fertilisation du sol",
 		"japanese": "土壌肥沃度",
+		"turkish": "Gübreleme",
 		"thai": "การให้ปุ๋ยทางดิน",
 	},
 	"groundAcidity": {
@@ -3779,6 +3783,7 @@
 		"german": "Bodensäureregulierung",
 		"french": "Régulation de l'acidité du sol",
 		"japanese": "土壌酸性度調整",
+		"turkish": "Toprak Asit Düzenlemesi",
 		"thai": "การควบคุมความเป็นกรดของดิน",
 	},
 	"ammoniaExtraction": {
@@ -3786,6 +3791,7 @@
 		"german": "Ammoniakextraktion",
 		"french": "Extraction d'ammoniac dans l'atmosphère",
 		"japanese": "大気中のアンモニア除去",
+		"turkish": "Atmosferden Amonyak Üretimi",
 		"thai": "การสกัดแอมโมเนียในบรรยากาศ",
 	},
 	"magneticField": {
@@ -3793,6 +3799,7 @@
 		"german": "Magnetfeld",
 		"french": "Champ magnétique",
 		"japanese": "電磁場",
+		"turkish": "Manyetik Alan",
 		"thai": "สนามแม่เหล็ก",
 	},
 	"terraformingPoints": {
@@ -3800,6 +3807,7 @@
 		"german": "Terraforming Punkte: %points%",
 		"french": "Points de terraformation : %points%",
 		"japanese": "テラフォーミングスコア: %points%", // 「ポイント」だと「位置」と誤解されかねないので、「スコア」とした。
+		"turkish": "Dünyalaştırma Puanları: %points%",
 		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
 	},
 	"terraformedAreaOnMap": {
@@ -3807,6 +3815,7 @@
 		"german": "Terraformtes Gebiet: %area%%",
 		"french": "Zone terraformée sur la carte : %area%%",
 		"japanese": "テラフォーミング済みエリア: %area%%",
+		"turkish": "Haritadaki Dünyalaşmış alan: %area%%",
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
 	},
 	"totalProgress": {
@@ -3814,6 +3823,7 @@
 		"german": "Gesamtfortschritt: %progress%%",
 		"french": "Progression totale : %progress%%",
 		"japanese": "全体の進捗: %progress%%",
+		"turkish": "Toplam ilerleme: %progress%%",
 		"thai": "ความคืบหน้าทั้งหมด: %progress%%",
 	},
 	"view": {
@@ -3821,6 +3831,7 @@
 		"german": "Ansicht",
 		"french": "Vue",
 		"japanese": "表示",
+		"turkish": "Bakış",
 		"thai": "มุมมอง",
 	},
 }
