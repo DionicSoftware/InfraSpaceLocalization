@@ -2876,7 +2876,7 @@
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
-		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sein.",
+		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sen.",
 		"french": "Les rails verts sont des segments droits sans risque de collision.",
 		"russian": "Зеленые рельсы - это прямые участки без риска столкновения.",
 		"turkish": "Yeşil raylar çakışma riskinin olmadığı, düz bölümlerdir.",
