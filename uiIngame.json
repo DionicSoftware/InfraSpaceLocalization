@@ -2857,7 +2857,7 @@
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
-		"german": "Orange Schienen zeigen Schienenkreuzungen. Diese werden um rote Segmente herum erstellt. In den meisten Fälllen kann nur ein Zug gleichzeitig eine Kreuzung befahren.",
+		"german": "Orange Schienen zeigen Schienenkreuzungen. Diese werden um rote Segmente herum erstellt. In den meisten Fällen kann nur ein Zug gleichzeitig eine Kreuzung befahren.",
 		"french": "Les rails orange montrent les intersections de rails. Celles-ci sont créées autour de segments rouges. Dans la plupart des cas, un seul train peut entrer dans une intersection à la fois.",
 		"russian": "Оранжевые рельсы обозначают пересечения железных дорог. Они создаются вокруг красных сегментов. В большинстве случаев на перекресток может одновременно заходить только один поезд.",
 		"turkish": "Turuncu raylar, ray kesişimlerini gösterir. BUnlar kırmızı bölümlerin etrafında oluşur. Çoğu durumda bir kesişime aynı anda sadece bir tren girebilir.",
@@ -2876,7 +2876,7 @@
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
-		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sein.",
+		"german": "Grüne Schienen sind gerade Streckenabschnitte auf denen keine Kollisionen möglich sind.",
 		"french": "Les rails verts sont des segments droits sans risque de collision.",
 		"russian": "Зеленые рельсы - это прямые участки без риска столкновения.",
 		"turkish": "Yeşil raylar çakışma riskinin olmadığı, düz bölümlerdir.",
