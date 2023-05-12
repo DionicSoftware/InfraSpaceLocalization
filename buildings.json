@@ -2089,6 +2089,7 @@
       "hungarian": "Felvonó",
       "turkish": "Kargo teleferiği",
       "chinese": "货物缆车",
+      "italian": "Cargo della cabinovia",
   },
   "gondolaPole": { // the poles between gondola stations
       "english": "Gondola Lift Pole",
@@ -2097,6 +2098,7 @@
       "turkish": "Teleferik direği,",
       "chinese": "缆车升降杆",
       "japanese": "ゴンドラの支柱",
+      "italian": "Palo della cabinovia",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",
@@ -2107,6 +2109,7 @@
       "hungarian": "Lézeres célzó állomás",
       "turkish": "Lazer hedefleme istasyonu",
       "chinese": "激光瞄准站",
+      "italian": "Stazione di puntamento laser",
   },
 
 
@@ -2117,6 +2120,7 @@
       "japanese": "濾過用メッシュ工場",
       "turkish": "Örgü Filtre Fabrikası",
       "thai": "โรงงานตาข่ายกรอง",
+      "italian": "Fabbrica di reti filtranti",
   },
   "advancedFilteringMeshFactory": {
       "english": "Advanced Filtering Mesh Factory",
@@ -2125,6 +2129,7 @@
       "japanese": "発展型濾過用メッシュ工場",
       "turkish": "Gelişmiş Örgü Filtre Fabrikası",
       "thai": "โรงงานตาข่ายกรองขั้นสูง",
+      "italian": "Fabbrica di reti filtranti avanzate",
   },
   "superconductingCoilFactory": {
       "english": "Superconducting Coil Factory",
@@ -2133,6 +2138,7 @@
       "japanese": "超伝導コイル工場",
       "turkish": "Süper iletken bobin fabrikası",
       "thai": "โรงงานขดลวดตัวนำยิ่งยวด",
+      "italian": "Fabbrica di bobine superconduttive",
   },
 
   "dustParticleFilter": {
@@ -2142,6 +2148,7 @@
       "japanese": "粉塵濾過施設",
       "turkish": "Toz Filtresi",
       "thai": "ตัวกรองอนุภาคฝุ่น",
+      "italian": "Filtro per particelle di polvere",
   },
   "fertilizerDroneHub": {
       "english": "Fertilizer Drone Hub",
@@ -2150,6 +2157,7 @@
       "japanese": "肥料用ドローンのハブ",
       "turkish": "Drone Gübreleme Merkezi",
       "thai": "ศูนย์กลางของโดรนใส่ปุ๋ย",
+      "italian": "Hub per droni fertilizzanti",
   },
   "groundAcidityRegulator": {
       "english": "Ground Acidity Regulator",
@@ -2158,6 +2166,7 @@
       "japanese": "土壌酸性度調整施設",
       "turkish": "Toprak Asit Düzenlemesi",
       "thai": "เครื่องควบคุมความเป็นกรดของดิน",
+      "italian": "Regolatore di acidità del terreno",
   },
   "ammoniaExtractor": {
       "english": "Ammonia Extractor",
@@ -2166,6 +2175,7 @@
       "japanese": "アンモニア除去施設",
       "turkish": "Amonyak Çıkarıcı",
       "thai": "เครื่องดูดแอมโมเนีย",
+      "italian": "Estrattore di ammoniaca",
   },
   "magneticFieldGenerator": {
       "english": "Mangetic Field Generator",
@@ -2174,62 +2184,77 @@
       "japanese": "電磁場形成施設",
       "turkish": "Manyetik Alan Oluşturucu",
       "thai": "เครื่องกำเนิดสนามแม่เหล็ก",
+      "italian": "Generatore di campo mangetico",
   },
 
   "pixelBuildingCorner": {
       "english": "Pixel Triangle",
       "german": "Pixel: Dreieck",
+      "italian": "Triangolo Pixel",
   },
   "pixelBuildingInvertCorner": {
       "english": "Pixel Inverted Corner",
       "german": "Pixel: invertierte Ecke",
+      "italian": "Angolo pixel invertito",
   },
   "pixelBuildingRound": {
       "english": "Pixel Circle",
       "german": "Pixel: Kreis",
+      "italian": "Cerchio pixel",
   },
   "pixelBuildingRoundCorner": {
       "english": "Pixel Rounded Corner",
       "german": "Pixel: abgerundete Ecke",
+      "italian": "Angolo arrotondato Pixel",
   },
   "pixelBuildingSquare": {
       "english": "Pixel",
       "german": "Pixel",
+      "italian": "Pixel",
   },
   "crashedUfo": {
       "english": "Crashed Ufo",
       "german": "Gecrashted Ufo",
+      "italian": "Ufo precipitato",
   },
   "DecorativePark1": {
       "english": "Park",
       "german": "Park",
+      "italian": "Parco",
   },
   "DecorativePark2": {
       "english": "Park",
       "german": "Park",
+      "italian": "Parco",
   },
   "Fence1": {
       "english": "Fence",
       "german": "Zaun",
+      "italian": "Recinzione",
   },
   "Fence2": {
       "english": "Fence",
       "german": "Zaun",
+      "italian": "Recinzione",
   },
   "Fence3": {
       "english": "Fence",
       "german": "Zaun",
+      "italian": "Recinzione",
   },
   "panoramicWheel": {
       "english": "Ferris Wheel",
       "german": "Riesenrad",
+      "italian": "Ruota panoramica",
   },
   "parkingLot1": {
       "english": "Parking lot",
       "german": "Parkplatz",
+      "italian": "Parcheggio",
   },
   "eiffelTower": {
       "english": "Eiffel Tower",
       "german": "Eiffelturm",
+      "italian": "Torre Eiffel",
   },
 }
