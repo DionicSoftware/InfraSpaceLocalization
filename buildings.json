@@ -2175,4 +2175,61 @@
       "turkish": "Manyetik Alan Oluşturucu",
       "thai": "เครื่องกำเนิดสนามแม่เหล็ก",
   },
+
+  "pixelBuildingCorner": {
+      "english": "Pixel Triangle",
+      "german": "Pixel: Dreieck",
+  },
+  "pixelBuildingInvertCorner": {
+      "english": "Pixel Inverted Corner",
+      "german": "Pixel: invertierte Ecke",
+  },
+  "pixelBuildingRound": {
+      "english": "Pixel Circle",
+      "german": "Pixel: Kreis",
+  },
+  "pixelBuildingRoundCorner": {
+      "english": "Pixel Rounded Corner",
+      "german": "Pixel: abgerundete Ecke",
+  },
+  "pixelBuildingSquare": {
+      "english": "Pixel",
+      "german": "Pixel",
+  },
+  "crashedUfo": {
+      "english": "Crashed Ufo",
+      "german": "Gecrashted Ufo",
+  },
+  "DecorativePark1": {
+      "english": "Park",
+      "german": "Park",
+  },
+  "DecorativePark2": {
+      "english": "Park",
+      "german": "Park",
+  },
+  "Fence1": {
+      "english": "Fence",
+      "german": "Zaun",
+  },
+  "Fence2": {
+      "english": "Fence",
+      "german": "Zaun",
+  },
+  "Fence3": {
+      "english": "Fence",
+      "german": "Zaun",
+  },
+  "panoramicWheel": {
+      "english": "Ferris Wheel",
+      "german": "Riesenrad",
+  },
+  "parkingLot1": {
+      "english": "Parking lot",
+      "german": "Parkplatz",
+  },
+  "eiffelTower": {
+      "english": "Eiffel Tower",
+      "german": "Eiffelturm",
+  },
 }
