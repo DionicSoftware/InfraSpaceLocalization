@@ -2179,57 +2179,71 @@
   "pixelBuildingCorner": {
       "english": "Pixel Triangle",
       "german": "Pixel: Dreieck",
+      "japanese": "コーナーピクセル",
   },
   "pixelBuildingInvertCorner": {
       "english": "Pixel Inverted Corner",
       "german": "Pixel: invertierte Ecke",
+      "japanese": "反転円形ピクセル",
   },
   "pixelBuildingRound": {
       "english": "Pixel Circle",
       "german": "Pixel: Kreis",
+      "japanese": "円形ピクセル",
   },
   "pixelBuildingRoundCorner": {
       "english": "Pixel Rounded Corner",
       "german": "Pixel: abgerundete Ecke",
+      "japanese": "丸コーナーピクセル",
   },
   "pixelBuildingSquare": {
       "english": "Pixel",
       "german": "Pixel",
+      "japanese": "ピクセル",
   },
   "crashedUfo": {
       "english": "Crashed Ufo",
       "german": "Gecrashted Ufo",
+      "japanese": "墜落したUFO",
   },
   "DecorativePark1": {
       "english": "Park",
       "german": "Park",
+      "japanese": "公園",
   },
   "DecorativePark2": {
       "english": "Park",
       "german": "Park",
+      "japanese": "公園",
   },
   "Fence1": {
       "english": "Fence",
       "german": "Zaun",
+      "japanese": "フェンス",
   },
   "Fence2": {
       "english": "Fence",
       "german": "Zaun",
+      "japanese": "フェンス",
   },
   "Fence3": {
       "english": "Fence",
       "german": "Zaun",
+      "japanese": "フェンス",
   },
   "panoramicWheel": {
       "english": "Ferris Wheel",
       "german": "Riesenrad",
+      "japanese": "観覧車",
   },
   "parkingLot1": {
       "english": "Parking lot",
       "german": "Parkplatz",
+      "japanese": "駐車場",
   },
   "eiffelTower": {
       "english": "Eiffel Tower",
       "german": "Eiffelturm",
+      "japanese": "エッフェル塔",
   },
 }
