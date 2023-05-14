@@ -1187,6 +1187,7 @@
 		"czech": "Provoz potrubí:",
 		"turkish": "Boru hatları",
 		"chinese": "管道运行：",
+		"italian": "Funzionamento del gasdotto:",
 	},
 	"spaceshipEfficiencyBoost": {
 		"english": "Spaceship Tech:",
@@ -1201,6 +1202,7 @@
 		"czech": "Technologie kosmické lodi:",
 		"turkish": "Uzay gemisi teknolojisi",
 		"chinese": "太空船技术：",
+		"italian": "Tecnologia dell'astronave",
 	},
 	"gridOff": {
 		"english": "No Grid",
@@ -1741,6 +1743,7 @@
 		"hungarian": "Nem csatlakoztatható a másik állomáshoz. A felvonó útja nem lehet görbe!",
 		"turkish": "Diğer istasyonlara bağlanılamıyor. Teleferik hatları kavis alamaz",
 		"chinese": "无法连接到其他车站。缆车线路不能弯曲！",
+		"italian": "Non è possibile collegarsi ad altre stazioni. Le linee della cabinovia non possono curvare!",
 	},
 	"buildingConnectorTooSteep": {
 		"english": "Too steep",
@@ -1751,6 +1754,7 @@
 		"hungarian": "Túl meredek",
 		"turkish": "Çok dik",
 		"chinese": "太陡了",
+		"italian": "Troppo ripido",
 	},
 	"buildingConnectorColliding": {
 		"english": "Colliding with something",
@@ -1761,6 +1765,7 @@
 		"hungarian": "Valamivel ütközik",
 		"turkish": "Bir şey ile çarpışıyor",
 		"chinese": "与其他物体冲突",
+		"italian": "Collisione con qualcosa",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -2082,6 +2087,7 @@
 		"czech": "Trubky",
 		"turkish": "Borular",
 		"chinese": "管道",
+		"italian": "Tubi",
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -3302,7 +3308,7 @@
 	},
 	"spaceship_hull": {
 		"english": "Hull",
-		"italian": "Armatura",
+		"italian": "Scafo",
 		"german": "Rumpf",
 		"french": "Coque",
 		"spanish-esp": "Casco",
@@ -3379,6 +3385,7 @@
 		"hungarian": "Lézerágyú",
 		"turkish": "Lazer silahı",
 		"chinese": "激光炮",
+		"italian": "Cannone Laser",
 	},
 	"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
@@ -3459,6 +3466,7 @@
 		"hungarian": "Antares lézerágyúja elég erős ahhoz, hogy sziklákat olvasszon. Tisztítsd meg a felszínt az űrből!",
 		"turkish": "Lazer silahı kayaları eritecek kadar güçlü. haritadaki engelleri yöründegen temizleyebilirsin",
 		"chinese": "安塔利斯激光炮威力足以熔化岩石。清除你地图上轨道的障碍物！",
+		"italian": "Il cannone laser di Antares è così potente da fondere le rocce. Liberate la vostra mappa dagli ostacoli dall'orbita!",
 	},
 	"necessaryResources": {
 		"english": "Necessary Resources",
@@ -3715,6 +3723,7 @@
 		"hungarian": "Eltávolítás folyamatban",
 		"turkish": "İmha beklemede",
 		"chinese": "摧毁进度",
+		"italian": "Progressi della distruzione",
 	},
 	"laserSelectedForDestruction": { // or "next targets"
 		"english": "Selected for Destruction",
@@ -3725,6 +3734,7 @@
 		"hungarian": "Eltávolítésra jelölve",
 		"turkish": "İmha için seçili",
 		"chinese": "下个目标",
+		"italian": "Selezionato per la distruzione",
 	},
 	"multiSelectTutorial": {
 		"english": "Click on the objects you want to destroy with the laser.",
@@ -3735,6 +3745,7 @@
 		"hungarian": "Válaszd ki a lézerrel eltávolítani kívánt tárgyakra.",
 		"turkish": "Lazerle imha etmek istedğin objelerin üstüne tıkla.",
 		"chinese": "单击要用激光炮摧毁的对象。",
+		"italian": "Clicca sugli oggetti che si desidera distruggere con il laser.",
 	},
 	"buildLaserCannonTutorial": {
 		"english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
@@ -3745,6 +3756,7 @@
 		"hungarian": "Javítsd meg a lézerágyút, hogy a célzó állomás segítségével eltávolíts akadályokat.",
 		"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
 		"chinese": "修理太空船上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
+		"italian": "Riparate il cannone laser della nave spaziale, in modo da poter utilizzare la stazione di puntamento per eliminare gli ostacoli.",
 	},
 	"terraformingProgress": {
 		"english": "Terraforming Progress",
@@ -3753,6 +3765,7 @@
 		"japanese": "テラフォーミングの進捗",
 		"turkish": "Dünyalaştırma",
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
+		"italian": "Progressi di terraformazione",
 	},
 	"terraformingProgressPercentage": {
 		"english": "Terraforming Progress: %progress%%",
@@ -3761,6 +3774,7 @@
 		"japanese": "テラフォーミングの進捗: %progress%%",
 		"turkish": "Dünyalaştırma ilerlemesi: %progress%%",
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
+		"italian": "Progressi di terraformazione: %progress%%",
 	},
 	"dustParticleFiltering": {
 		"english": "Dust Particle Filtering",
@@ -3769,6 +3783,7 @@
 		"japanese": "粉塵濾過",
 		"turkish": "Toz Filtreleme",
 		"thai": "การกรองอนุภาคฝุ่น",
+		"italian": "Filtrazione delle polveri sottili",
 	},
 	"fertilization": {
 		"english": "Soil Fertilization",
@@ -3777,6 +3792,7 @@
 		"japanese": "土壌肥沃度",
 		"turkish": "Gübreleme",
 		"thai": "การให้ปุ๋ยทางดิน",
+		"italian": "Distribuzione di fertilizzanti",
 	},
 	"groundAcidity": {
 		"english": "Ground Acidity Regulation",
@@ -3785,6 +3801,7 @@
 		"japanese": "土壌酸性度調整",
 		"turkish": "Toprak Asit Düzenlemesi",
 		"thai": "การควบคุมความเป็นกรดของดิน",
+		"italian": "Regolazione dell'acidità del suolo",
 	},
 	"ammoniaExtraction": {
 		"english": "Atmosphere Ammonia Extraction",
@@ -3793,6 +3810,7 @@
 		"japanese": "大気中のアンモニア除去",
 		"turkish": "Atmosferden Amonyak Üretimi",
 		"thai": "การสกัดแอมโมเนียในบรรยากาศ",
+		"italian": "Estrazione di ammoniaca in atmosfera",
 	},
 	"magneticField": {
 		"english": "Magnetic Field",
@@ -3801,6 +3819,7 @@
 		"japanese": "電磁場",
 		"turkish": "Manyetik Alan",
 		"thai": "สนามแม่เหล็ก",
+		"italian": "Campo magnetico",
 	},
 	"terraformingPoints": {
 		"english": "Terraforming Points: %points%",
@@ -3809,6 +3828,7 @@
 		"japanese": "テラフォーミングスコア: %points%", // 「ポイント」だと「位置」と誤解されかねないので、「スコア」とした。
 		"turkish": "Dünyalaştırma Puanları: %points%",
 		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
+		"italian": "Punti di terraformazione: %points%",
 	},
 	"terraformedAreaOnMap": {
 		"english": "Terraformed area on map: %area%%",
@@ -3817,6 +3837,7 @@
 		"japanese": "テラフォーミング済みエリア: %area%%",
 		"turkish": "Haritadaki Dünyalaşmış alan: %area%%",
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
+		"italian": "Area terraformata sulla mappa: %area%%",
 	},
 	"totalProgress": {
 		"english": "Total Progress: %progress%%",
@@ -3825,6 +3846,7 @@
 		"japanese": "全体の進捗: %progress%%",
 		"turkish": "Toplam ilerleme: %progress%%",
 		"thai": "ความคืบหน้าทั้งหมด: %progress%%",
+		"italian": "Progressi totali: %progress%%",
 	},
 	"view": {
 		"english": "View",
@@ -3833,6 +3855,7 @@
 		"japanese": "表示",
 		"turkish": "Bakış",
 		"thai": "มุมมอง",
+		"italian": "Vista",
 	},
 	"recentlyUsed": {
 		"english": "Recently Used",
@@ -3840,5 +3863,6 @@
 		"french": "Récemment utilisé",
 		"japanese": "最近使用した色",
 		"thai": "ใช้ไปล่าสุด",
+		"italian": "Usato di recente",
 	},
 }
