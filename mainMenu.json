@@ -1898,6 +1898,7 @@
 		"ukrainian": "Пришвидшений рух камери",
 		"turkish": "Hızlı kamera hareketi",
 		"chinese": "镜头快速移动",
+		"italian": "Movimento rapido della telecamera",
 	},
 
 	"cityShortcuts": {
@@ -1915,6 +1916,7 @@
 		"ukrainian": "Гарячі клавіші",
 		"turkish": "Şehir kısayolları",
 		"chinese": "城市快捷键",
+		"italian": "Tasti rapidi della città",
 	},
 	"research": {
 		"english": "Research",
@@ -1931,6 +1933,7 @@
 		"ukrainian": "Дослідження",
 		"turkish": "Araştırma",
 		"chinese": "研究",
+		"italian": "Ricerca",
 	},
 	"transportLines": {
 		"english": "Transport Lines",
@@ -1947,6 +1950,7 @@
 		"ukrainian": "Лінії транспорту",
 		"turkish": "Ulaşım hatları",
 		"chinese": "运输线路",
+		"italian": "Linee di trasporto",
 	},
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -2041,6 +2045,7 @@
 		"ukrainian": "Точніше будівництво",
 		"turkish": "Hayalet inşaa modu",
 		"chinese": "精确建造",
+		"italian": "Costruzione di precisione",
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
@@ -2056,6 +2061,7 @@
 		"czech": "Podržte Shift (levý)",
 		"ukrainian": "Залипання клавіші лівого Shift",
 		"chinese": "按住Shift (左)",
+		"italian": "Tieni premuto Shift (sinistra)",
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -2092,6 +2098,7 @@
 		"ukrainian": "Зсунути",
 		"turkish": "Hareket",
 		"chinese": "移动",
+		"italian": "Muovi",
 	},
 	"delete": {
 		"english": "Delete",
@@ -2108,6 +2115,7 @@
 		"ukrainian": "Видалити",
 		"turkish": "Sil",
 		"chinese": "删除",
+		"italian": "Cancella",
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
@@ -2124,6 +2132,7 @@
 		"ukrainian": "Будівельне меню",
 		"turkish": "İnşaat menüsü",
 		"chinese": "建筑菜单",
+		"italian": "Menu costruzione",
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
@@ -2140,6 +2149,7 @@
 		"ukrainian": "Лівий Shift + номер",
 		"turkish": "shift (sol) + rakam",
 		"chinese": "Shift (左) + 数字",
+		"italian": "Shift (sinistra) + Numero",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -2210,6 +2220,7 @@
 		"ukrainian": "Звичайна швидкість симуляції",
 		"turkish": "Normal simulasyon",
 		"chinese": "正常游戏速度",
+		"italian": "Velocità di simulazione normale",
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
@@ -2226,6 +2237,7 @@
 		"ukrainian": "Пришвидшення симуляції",
 		"turkish": "hızlı simulasyon",
 		"chinese": "加快游戏速度",
+		"italian": "Velocità di simulazione rapida",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2456,6 +2468,7 @@
 		"ukrainian": "Швидке збереження",
 		"turkish": "Hızlı Kaydet",
 		"chinese": "快速储存",
+		"italian": "Salvataggio rapido",
 	},
 	"quickload": {
 		"english": "Quick Load",
@@ -2472,6 +2485,7 @@
 		"ukrainian": "Швидке завантаження",
 		"turkish": "Hızlı yükle",
 		"chinese": "快速载入",
+		"italian": "Caricamento rapido",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -3991,6 +4005,7 @@
 		"hunagrian": "Modok",
 	        "turkish": "Modlar",
 		"chinese": "模组",
+		"italian": "Mod",
     },
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -4168,6 +4183,7 @@
 		"hungarian": "Konfig fájlok exportálása",
 	        "turkish": "Konfigürasyon dosyalarını dışa aktar",
 		"chinese": "导出配置文件",
+		"italian": "Esporta i file di configurazione",
     },
     "enabled": {
         "english": "Enabled",
@@ -4178,5 +4194,6 @@
 		"turkish": "Aktif",
 		"chinese": "启用",
 		"japanese": "有効",
+		"italian": "Abilitato",
     },
 }

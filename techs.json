@@ -418,6 +418,7 @@
     "hungarian": "Felvonók",
     "turkish": "Kargo Teleferiği",
     "chinese": "货运缆车",
+    "italian": "Cargo cabinovia",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -1392,6 +1393,7 @@
     "japanese": "テラフォーミング",
     "turkish": "Dünyalaştırma",
     "thai": "การปรับสภาพพื้นผิวดาว",
+    "italian": "Terraformazione",
   },
   "tech_droneFertilization": {
     "english": "Drone Fertilization",
@@ -1400,6 +1402,7 @@
     "japanese": "ドローンでの肥料散布",
     "turkish": "Drone'la Gübreleme",
     "thai": "การใส่ปุ๋ยด้วยโดรน",
+    "italian": "Drone fertilizzante",
   },
   "tech_groundAcidityRegulation": {
     "english": "Ground Acidity Regulation",
@@ -1408,6 +1411,7 @@
     "japanese": "土壌酸性度調整",
     "turkish": "Toprak asit düzenlemesi",
     "thai": "การควบคุมความเป็นกรดของดิน",
+    "italian": "Regolazione dell'acidità del suolo",
   },
   "tech_ammoniaExtraction": {
     "english": "Ammonia Extraction",
@@ -1416,6 +1420,7 @@
     "turkish": "Amonyak Çıkartma",
     "japanese": "アンモニア除去",
     "thai": "การสกัดแอมโมเนีย",
+    "italian": "Estrazione di ammoniaca",
   },
   "tech_magneticFieldGeneration": {
     "english": "Magnetic Field Generation",
@@ -1424,5 +1429,6 @@
     "japanese": "電磁場形成",
     "turkish": "Manyetik Alan Oluşturma",
     "thai": "การสร้างสนามแม่เหล็ก",
+    "italian": "Generazione di campo magnetico",
   },
 }
