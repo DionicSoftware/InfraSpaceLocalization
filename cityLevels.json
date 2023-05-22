@@ -24,6 +24,7 @@
 		"greek": "Εγκατάσταση",
 		"swiss german": "Ussäposchtä",
 		"farsi":"پایگاه",
+		"scotsgaelic": "Campa",
 	},
 	"cityLevel2": {
 		"english": "Settlement",
@@ -50,6 +51,7 @@
 		"greek": "Αποικία",
 		"swiss german": "Sidlig",
 		"farsi":"روستا",
+		"scotsgaelic": "Tuineachadh",
 	},
 	"cityLevel3": {
 		"english": "Small Town",
@@ -76,6 +78,7 @@
 		"greek": "Μικρή Κωμόπολη",
 		"swiss german": "Chliistadt",
 		"farsi":"شهر کوچک",
+		"scotsgaelic": "Baile beag",
 	},
 	"cityLevel4": {
 		"english": "Large Town",
@@ -102,6 +105,7 @@
 		"greek": "Μεγάλη Κωμόπολη",
 		"swiss german": "Mittleri Stadt",
 		"farsi":"شهر بزرگ",
+		"scotsgaelic": "Baile",
 	},
 	"cityLevel5": {
 		"english": "City",
@@ -128,6 +132,7 @@
 		"greek": "Πόλη",
 		"swiss german": "Grossstadt",
 		"farsi": "شهر درست حسابی",
+		"scotsgaelic": "Bhaile-mòr",
 	},
 	"cityLevel6": {
 		"english": "Planetary Capital",
@@ -154,5 +159,6 @@
 		"greek": "Πλανητική Προτεύουσα",
 		"swiss german": "Planetari Haupstadt",
 		"farsi":"پایتخت سیاره"
+		"scotsgaelic": "Prìomh-bhaile na Planaid",
 	},
 }
