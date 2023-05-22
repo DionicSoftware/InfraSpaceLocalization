@@ -24,7 +24,8 @@
 		"thai": "English",
 		"danish": "English",
 		"swiss german": "English",
-		"farsi": "english"
+		"farsi": "english",
+		"scotsgaelic": "English"
 	},
 	"German": {
 		"english": "Deutsch",
@@ -50,7 +51,8 @@
 		"thai": "Deutsch",
 		"danish": "Deutsch",
 		"swiss german": "Deutsch",
-		"farsi": "deutsch"
+		"farsi": "deutsch",
+		"scotsgaelic": "Deutsch"
 	},
 	"French": {
 		"english": "Français",
@@ -76,7 +78,8 @@
 		"thai": "Français",
 		"danish": "Français",
 		"swiss german": "francais",
-		"farsi": "Français"
+		"farsi": "Français",
+		"scotsgaelic": "Français"
 	},
 	"Spanish": {
 		"english": "Español",
@@ -102,7 +105,8 @@
 		"thai": "Español",
 		"danish": "Español",
 		"swiss german": "Español",
-		"farsi": "espanol"
+		"farsi": "espanol",
+		"scotsgaelic": "Español"
 	},
 	"Portuguese": {
 		"english": "Português",
@@ -128,7 +132,8 @@
 		"thai": "Português",
 		"danish": "Português",
 		"swiss german": "Português",
-		"farsi": "portugues"
+		"farsi": "portugues",
+		"scotsgaelic": "Português"
 	},
 	"Turkish": {
 		"english": "Türkçe",
@@ -154,7 +159,8 @@
 		"thai": "Türkçe",
 		"danish": "Türkçe",
 		"swiss german": "Türkçe",
-		"farsi": "turkce"
+		"farsi": "turkce",
+		"scotsgaelic": "Türkçe"
 	},
 	"Dutch": {
 		"english": "Nederlands",
@@ -180,7 +186,8 @@
 		"thai": "Nederlands",
 		"danish": "Nederlands",
 		"swiss german": "Nederlands",
-		"farsi": "Nederlands"
+		"farsi": "Nederlands",
+		"scotsgaelic": "Nederlands"
 	},
 	"Ukrainian": {
 		"english": "Українська",
@@ -206,7 +213,8 @@
 		"thai": "Українська",
 		"danish": "Українська",
 		"swiss german": "Українська",
-		"farsi": "Українська"
+		"farsi": "Українська",
+		"scotsgaelic": "Українська"
 	},
 	"Russian": {
 		"english": "Русский",
@@ -232,7 +240,8 @@
 		"thai": "Русский",
 		"danish": "Русский",
 		"swiss german": "Русский",
-		"farsi": "Русский"
+		"farsi": "Русский",
+		"scotsgaelic": "Русский"
 	},
 	"Chinese": {
 		"english": "简体中文",
@@ -258,7 +267,8 @@
 		"thai": "简体中文",
 		"danish": "简体中文",
 		"swiss german": "简体中文",
-		"farsi": "简体中文"
+		"farsi": "简体中文",
+		"scotsgaelic": "简体中文"
 	},
 	"Korean": {
 		"english": "한국어",
@@ -284,7 +294,8 @@
 		"thai": "한국어",
 		"danish": "한국어",
 		"swiss german": "한국어",
-		"farsi": "한국어"
+		"farsi": "한국어",
+		"scotsgaelic": "한국어"
 	},
 	"Arabic": {
 		"english": "الإنجليزية",
@@ -310,7 +321,8 @@
 		"thai": "التايلاندية",
 		"danish": "التايلاندية",
 		"swiss german": "التايلاندية",
-		"farsi": "الفارسیه"
+		"farsi": "الفارسیه",
+		"scotsgaelic": "التايلاندية"
 	},
 	"Italian": {
 		"english": "Italiano",
@@ -336,7 +348,8 @@
 		"thai": "Italiano",
 		"danish": "Italiano",
 		"swiss german": "Italiano",
-		"farsi": "Italiano"
+		"farsi": "Italiano",
+		"scotsgaelic": "Italiano"
 	},
 	"Czech": {
 		"english": "Čeština",
@@ -362,7 +375,8 @@
 		"thai": "Čeština",
 		"danish": "Čeština",
 		"swiss german": "Čeština",
-		"farsi": "Čeština"
+		"farsi": "Čeština",
+		"scotsgaelic": "Čeština"
 	},
 	"Romanian": {
 		"english": "Română",
@@ -388,7 +402,8 @@
 		"thai": "Română",
 		"danish": "Română",
 		"swiss german": "Română",
-		"farsi": "Română"
+		"farsi": "Română",
+		"scotsgaelic": "Română"
 	},
 	"Japanese": {
 		"english": "日本語",
@@ -414,7 +429,8 @@
 		"thai": "日本語",
 		"danish": "日本語",
 		"swiss german": "日本語",
-		"farsi": "日本語"
+		"farsi": "日本語",
+		"scotsgaelic": "日本語"
 	},
 	"Polish": {
 		"english": "Polski",
@@ -440,7 +456,8 @@
 		"thai": "Polski",
 		"danish": "Polski",
 		"swiss german": "Polski",
-		"farsi": "Polski"
+		"farsi": "Polski",
+		"scotsgaelic": "Polski"
 	},
 	"Slovak": {
 		"english": "Slovenčina",
@@ -465,7 +482,8 @@
 		"hungarian": "Slovenčina",
 		"thai": "Slovenčina",
 		"danish": "Slovenčina",
-		"swiss german": "Slovenčina"
+		"swiss german": "Slovenčina",
+		"scotsgaelic": "Slovenčina"
 	},
 	"Hungarian": {
 		"english": "Magyar",
@@ -490,7 +508,8 @@
 		"hungarian": "Magyar",
 		"thai": "Magyar",
 		"danish": "Magyar",
-		"swiss german": "Magyar"
+		"swiss german": "Magyar",
+		"scotsgaelic": "Magyar"
 	},
 	"Thai": {
 		"english": "ภาษาไทย",
@@ -515,7 +534,8 @@
 		"hungarian": "ภาษาไทย",
 		"thai": "ภาษาไทย",
 		"danish": "ภาษาไทย",
-		"swiss german": "ภาษาไทย"
+		"swiss german": "ภาษาไทย",
+		"scotsgaelic": "ภาษาไทย"
 	},
 	"Danish": {
 		"english": "Dansk",
@@ -540,7 +560,8 @@
 		"hungarian": "Dansk",
 		"thai": "Dansk",
 		"danish": "Dansk",
-		"swiss german": "Dansk"
+		"swiss german": "Dansk",
+		"scotsgaelic": "Dansk"
 	},
 	"Greek": {
 		"english": "Ελληνικά",
@@ -565,7 +586,8 @@
 		"hungarian": "Ελληνικά",
 		"thai": "Ελληνικά",
 		"danish": "Ελληνικά",
-		"swiss german": "Ελληνικά"
+		"swiss german": "Ελληνικά",
+		"scotsgaelic": "Ελληνικά"
 	},
 	// I hope I´ve done it right...
 	"Swiss german": {
@@ -591,7 +613,8 @@
 		"hungarian": "Schwiizerdütsch",
 		"thai": "Schwiizerdütsch",
 		"danish": "Schwiizerdütsch",
-		"swiss german": "Schwiizerdütsch"
+		"swiss german": "Schwiizerdütsch",
+		"scotsgaelic": "Schwiizerdütsch"
 	},
 	"Farsi": {
 		"english": "فارسی",
@@ -617,6 +640,34 @@
 		"thai": "فارسی",
 		"danish": "فارسی",
 		"swiss german": "فارسی",
-		"farsi": "فارسی"
+		"farsi": "فارسی",
+		"scotsgaelic": "فارسی"
+	},
+	"Scottish Gaelic": {
+		"english": "Gàidhlig Na H-Alba",
+		"german": "Gàidhlig Na H-Alba",
+		"french": "Gàidhlig Na H-Alba",
+		"spanish": "Gàidhlig Na H-Alba",
+		"spanish-esp": "Gàidhlig Na H-Alba",
+		"turkish": "Gàidhlig Na H-Alba",
+		"portuguese": "Gàidhlig Na H-Alba",
+		"dutch": "Gàidhlig Na H-Alba",
+		"ukrainian": "Gàidhlig Na H-Alba",
+		"russian": "Gàidhlig Na H-Alba",
+		"chinese": "Gàidhlig Na H-Alba",
+		"korean": "Gàidhlig Na H-Alba",
+		"arabic": "Gàidhlig Na H-Alba",
+		"italian": "Gàidhlig Na H-Alba",
+		"polish": "Gàidhlig Na H-Alba",
+		"czech": "Gàidhlig Na H-Alba",
+		"romanian": "Gàidhlig Na H-Alba",
+		"japanese": "Gàidhlig Na H-Alba",
+		"slovak": "Gàidhlig Na H-Alba",
+		"hungarian": "Gàidhlig Na H-Alba",
+		"thai": "Gàidhlig Na H-Alba",
+		"danish": "Gàidhlig Na H-Alba",
+		"swiss german": "Gàidhlig Na H-Alba",
+		"farsi": "Gàidhlig Na H-Alba",
+		"scotsgaelic": "Gàidhlig Na H-Alba"
 	}
 }
