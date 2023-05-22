@@ -1067,6 +1067,7 @@
     "czech": "Zařízení na stavbu kosmických lodí",
     "turkish": "Uzay gemisi inşaa fabrikası",
     "chinese": "太空船建造设施",
+    "scotsgaelic": "Goireas Togail bàta-fànais",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -1595,6 +1596,7 @@
     "turkish": "Oksijen tankı",
     "ukrainian": "Бак з киснем",
     "chinese": "氧气储气罐",
+    "scotsgaelic": "Tanca ocsaidean",
   },
   "waterTank": {
     "english": "Water Tank",
@@ -1609,6 +1611,7 @@
     "ukrainian": "Бак з водою",
     "turkish": "Su tankı",
     "chinese": "蓄水池",
+    "scotsgaelic": "Tanca uisge",
   },
   "methaneTank": {
     "english": "Methane Tank",
@@ -1624,6 +1627,7 @@
     "ukrainian": "Бак з метаном",
     "turkish": "Methan gazı tankı",
     "chinese": "天然气储气罐",
+    "scotsgaelic": "Tanca methan",
   },
   "waterAirFilter": {
     "english": "Water-Air-Filter",
@@ -1639,6 +1643,7 @@
     "ukrainian": "Атмосферний конденсатор водяної пари",
     "turkish": "Nemden su üretim tesisi",
     "chinese": "空气滤水器",
+    "scotsgaelic": "Filter adhair uisge",
   },
   "waterWellHydraulic": { // translation different than key
     "english": "Ground Water Extractor",
@@ -1654,6 +1659,7 @@
     "ukrainian": "Підземна водяна скважина",
     "turkish": "Yeraltı suyu çıkarma tesisi",
     "chinese": "潜水泵",
+    "scotsgaelic": "Extractor uisge talmhainn",
   },
   "methaneDrill": {
     "english": "Methane Drill",
@@ -1669,6 +1675,7 @@
     "ukrainian": "Підземна матанова скважина",
     "turkish": "methan gazı çıkarıcı",
     "chinese": "天然气井",
+    "scotsgaelic": "Drile Methan",
   },
   "methaneFermentationPlant": {
     "english": "Methane Fermentation Plant",
@@ -1684,6 +1691,7 @@
     "ukrainian": "Косплекс переробки метану",
     "turkish": "methan gazı fermente tesisi",
     "chinese": "沼气发酵池",
+    "scotsgaelic": "Ionad Coipeadh Methan",
   },
   "methanePowerPlant": {
     "english": "Methane Power Plant",
@@ -1699,6 +1707,7 @@
     "ukrainian": "Метанова електростанція",
     "turkish": "methan gazı enerji santrali",
     "chinese": "沼气发电厂",
+    "scotsgaelic": "Ionad Cumhachd Methane",
   },
   "powerPole": {
     "english": "Power Pole",
@@ -1856,7 +1865,7 @@
     "turkish": "Hızlı Nötrön Reaktörü",
     "korean": "핵융합 발전소",
     "romanian": "Reactor rapid cu neutroni",
-    "scotsgaelic": "Luath Neutron Reactor",
+    "scotsgaelic": "Reactor neutron luath",
     "danish": "Hurtig Neutronreaktor",
     "greek": "Γρήγορος Αντιδραστήρας Νετρονίων",
     "swiss german": "Schnälls Neuronächraftwärch",
@@ -1883,7 +1892,7 @@
     "turkish": "Büyük Dikey Tabela",
     "korean": "거대 입식 간판",
     "romanian": "Semn mare pe picioare",
-    "scotsgaelic": "Mòrdha standing ròn",
+    "scotsgaelic": "Soidhne Seasmhach Mòr",
     "danish": "Stort Stående Skilt",
     "greek": "Μεγάλη Στεκόμενη Πινακίδα",
     "swiss german": "Grossi stehändi Schrift",
@@ -1910,7 +1919,7 @@
     "turkish": "Büyük Yatay Tabela",
     "korean": "거대 좌식 간판",
     "romanian": "Semn mare așezat",
-    "scotsgaelic": "Mòrdha càradh ròn",
+    "scotsgaelic": "Soidhne Laighe mòr",
     "danish": "Stort Liggende Skilt",
     "greek": "Μεγάλη Ξαπλωμένη Πινακίδα",
     "swiss german": "Grossi ligändi Schrift",
@@ -1937,7 +1946,7 @@
     "turkish": "Devasa Adamantin Matkabı",
     "korean": "아다만타이트 채굴기",
     "romanian": "Burghiu uriaș de adamantin",
-    "scotsgaelic": "Drile Adamantine mhòr",
+    "scotsgaelic": "Drile mòr Adamantine",
     "danish": "Kæmpe Adamantine Bor",
     "greek": "Κολοσσαίο Τρυπάνι Αδαμαντίνης",
     "swiss german": "Riesigä Adamant-Bohrer",
@@ -1956,7 +1965,7 @@
     "ukrainian": "Станція %name%",
     "hungarian": "%name% vasúti megálló",
     "romanian": "Gara %name%",
-    "scotsgaelic": "Stèisean-Trèana %name%",
+    "scotsgaelic": "Stèisean Rèile %name%",
     "spanish": "Estación Ferroviaria %name%",
     "spanish-esp": "Estación de Tren %name%",
     "danish": "Togstation %name%",
@@ -1980,6 +1989,7 @@
     "ukrainian": "Крихітна станція",
     "turkish": "Minik tren istasyonu",
     "chinese": "微型列车站",
+    "scotsgaelic": "Stèisean Rèile Glè bheag",
   },
   "trainstation_2R": {
     "english": "Small Train Station",
@@ -1994,7 +2004,7 @@
     "ukrainian": "Мала станція",
     "hungarian": "Kis vasútállomás",
     "romanian": "Gară mică",
-    "scotsgaelic": "Stèisean-Trèana Beag",
+    "scotsgaelic": "Stèisean Rèile Beag",
     "spanish": "Estación Ferroviaria Pequeña",
     "spanish-esp": "Estación de Tren Pequeña",
     "danish": "Lille Togstation",
@@ -2017,7 +2027,7 @@
     "ukrainian": "Станція середнього розмиру",
     "hungarian": "Közepes vasútállomás",
     "romanian": "Gară medie",
-    "scotsgaelic": "Meánmhéide Stèisean-Trèana",
+    "scotsgaelic": "Stèisean Rèile",
     "spanish": "Estación Ferroviaria Mediana",
     "spanish-esp": "Estación de Tren Mediana",
     "danish": "Mellem Togstation",
@@ -2040,7 +2050,7 @@
     "ukrainian": "Станція великого розміру",
     "hungarian": "Nagy vasútállomás",
     "romanian": "Gară mare",
-    "scotsgaelic": "Stèisean Trèana Mòr",
+    "scotsgaelic": "Rèile Trèana Mòr",
     "spanish": "Estación Ferroviaria Grande",
     "spanish-esp": "Estación de Tren Grande",
     "danish": "Stor Togstation",
@@ -2063,7 +2073,7 @@
     "ukrainian": "Величезна станція",
     "hungarian": "Fő vasútállomás",
     "romanian": "Gara principală",
-    "scotsgaelic": "Prìomh Stèisean nan Trèanaichean",
+    "scotsgaelic": "Prìomh Rèile Rèile",
     "spanish": "Estación Ferroviaria Principal",
     "spanish-esp": "Estación de Tren Principal",
     "danish": "Hovedbanegård",
@@ -2083,6 +2093,7 @@
     "turkish": "Kargo teleferiği",
     "chinese": "货物缆车",
     "italian": "Cargo cabinovia",
+    "scotsgaelic": "Car luchdachadh",
   },
   "gondolaPole": { // the poles between gondola stations
     "english": "Gondola Lift Pole",
@@ -2093,6 +2104,7 @@
     "japanese": "ゴンドラの支柱",
     "thai": "เสายกยานกอนโดลา",
     "italian": "Palo per la cabinovia",
+    "scotsgaelic": "Colbhan Càr",
   },
   "targetingStation": {
     "english": "Laser Targeting Station",
@@ -2104,6 +2116,7 @@
     "turkish": "Lazer hedefleme istasyonu",
     "chinese": "激光瞄准站",
     "italian": "Stazione di puntamento laser",
+    "scotsgaelic": "Stèisean targaid laser",
   },
   "filteringMeshFactory": {
     "english": "Filtering Mesh Factory",
@@ -2113,6 +2126,7 @@
     "turkish": "Örgü Filtre Fabrikası",
     "thai": "โรงงานตาข่ายกรอง",
     "italian": "Fabbrica di tessuti filtranti",
+    "scotsgaelic": "Factaraidh Mogal sìoladh",
   },
   "advancedFilteringMeshFactory": {
     "english": "Advanced Filtering Mesh Factory",
@@ -2122,6 +2136,7 @@
     "turkish": "Gelişmiş Örgü Filtre Fabrikası",
     "thai": "โรงงานตาข่ายกรองขั้นสูง",
     "italian": "Fabbrica di tessuti filtranti avanzati",
+    "scotsgaelic": "Factaraidh Mogal sìolaidh adhartach",
   },
   "superconductingCoilFactory": {
     "english": "Superconducting Coil Factory",
@@ -2131,6 +2146,7 @@
     "turkish": "Süper iletken bobin fabrikası",
     "thai": "โรงงานขดลวดตัวนำยิ่งยวด",
     "italian": "Fabbrica di bobine superconduttrici",
+    "scotsgaelic": "Factaraidh Uèir leaghaidh",
   },
   "dustParticleFilter": {
     "english": "Dust Particle Filter",
@@ -2140,6 +2156,7 @@
     "turkish": "Toz Filtresi",
     "thai": "ตัวกรองอนุภาคฝุ่น",
     "italian": "Filtro per polveri sottili",
+    "scotsgaelic": "Sìoltachan Gràinean Duslach",
   },
   "fertilizerDroneHub": {
     "english": "Fertilizer Drone Hub",
@@ -2149,6 +2166,7 @@
     "turkish": "Drone Gübreleme Merkezi",
     "thai": "ศูนย์กลางของโดรนใส่ปุ๋ย",
     "italian": "Centro droni per la fertilizzazione",
+    "scotsgaelic": "Ionad Drone todhar",
   },
   "groundAcidityRegulator": {
     "english": "Ground Acidity Regulator",
@@ -2158,6 +2176,7 @@
     "turkish": "Toprak Asit Düzenlemesi",
     "thai": "เครื่องควบคุมความเป็นกรดของดิน",
     "italian": "Regolatore di acidità del terreno",
+    "scotsgaelic": "Riaghladair Searbhachd Talmhainn",
   },
   "ammoniaExtractor": {
     "english": "Ammonia Extractor",
@@ -2167,15 +2186,17 @@
     "turkish": "Amonyak Çıkarıcı",
     "thai": "เครื่องดูดแอมโมเนีย",
     "italian": "Estrattore di ammoniaca",
+    "scotsgaelic": "Inneal-Tarraing ammonia",
   },
   "magneticFieldGenerator": {
-    "english": "Mangetic Field Generator",
+    "english": "Magnetic Field Generator",
     "german": "Magnetfeldgenerator",
     "french": "Générateur de champ magnétique",
     "japanese": "電磁場形成施設",
     "turkish": "Manyetik Alan Oluşturucu",
     "thai": "เครื่องกำเนิดสนามแม่เหล็ก",
     "italian": "Generatore di campo magnetico",
+    "scotsgaelic": "Gineadair Raon magnetach",
   },
   "pixelBuildingCorner": {
     "english": "Pixel Triangle",
@@ -2184,6 +2205,7 @@
     "japanese": "コーナーピクセル",
     "thai": "พิกเซลสามเหลี่ยม",
     "italian": "Pixel: Triangolo",
+    "scotsgaelic": "Triantan Piogsal",
   },
   "pixelBuildingInvertCorner": {
     "english": "Pixel Inverted Corner",
@@ -2192,6 +2214,7 @@
     "japanese": "反転円形ピクセル",
     "thai": "พิกเซลมุมคว่ำ",
     "italian": "Pixel: Angolo invertito",
+    "scotsgaelic": "Piogsal Oisean Inverted",
   },
   "pixelBuildingRound": {
     "english": "Pixel Circle",
@@ -2200,6 +2223,7 @@
     "japanese": "円形ピクセル",
     "thai": "พิกเซลวงกลม",
     "italian": "Pixel: Tondo",
+    "scotsgaelic": "Cearcall Piogsail",
   },
   "pixelBuildingRoundCorner": {
     "english": "Pixel Rounded Corner",
@@ -2208,6 +2232,7 @@
     "japanese": "丸コーナーピクセル",
     "thai": "พิกเซลโค้งมน",
     "italian": "Pixel: Angolo arrotondato",
+    "scotsgaelic": "Oisean Piogsal Cruinn",
   },
   "pixelBuildingSquare": {
     "english": "Pixel",
@@ -2216,6 +2241,7 @@
     "japanese": "ピクセル",
     "thai": "พิกเซล",
     "italian": "Pixel",
+    "scotsgaelic": "Piogsal",
   },
   "crashedUfo": {
     "english": "Crashed Ufo",
@@ -2224,6 +2250,7 @@
     "japanese": "墜落したUFO",
     "thai": "UFO ตก",
     "italian": "UFO precipitato",
+    "scotsgaelic": "UFO air a mhilleadh",
   },
   "DecorativePark1": {
     "english": "Park",
@@ -2232,6 +2259,7 @@
     "japanese": "公園",
     "thai": "สวน",
     "italian": "Parco",
+    "scotsgaelic": "Pàirce",
   },
   "DecorativePark2": {
     "english": "Park",
@@ -2240,6 +2268,7 @@
     "japanese": "公園",
     "thai": "สวน",
     "italian": "Parco",
+    "scotsgaelic": "Pàirce",
   },
   "Fence1": {
     "english": "Fence",
@@ -2248,6 +2277,7 @@
     "japanese": "フェンス",
     "thai": "รั้ว",
     "italian": "Recinzione",
+    "scotsgaelic": "Feansa",
   },
   "Fence2": {
     "english": "Fence",
@@ -2256,6 +2286,7 @@
     "japanese": "フェンス",
     "thai": "รั้ว",
     "italian": "Recinzione",
+    "scotsgaelic": "Feansa",
   },
   "Fence3": {
     "english": "Fence",
@@ -2264,6 +2295,7 @@
     "japanese": "フェンス",
     "thai": "รั้ว",
     "italian": "Recinzione",
+    "scotsgaelic": "Feansa",
   },
   "panoramicWheel": {
     "english": "Ferris Wheel",
@@ -2272,6 +2304,7 @@
     "japanese": "観覧車",
     "thai": "ชิงช้าสวรรค์",
     "italian": "Ruota panoramica",
+    "scotsgaelic": "Cuibhle Amharc",
   },
   "parkingLot1": {
     "english": "Parking lot",
@@ -2280,6 +2313,7 @@
     "japanese": "駐車場",
     "thai": "ลานจอดรถ",
     "italian": "Parcheggio",
+    "scotsgaelic": "Lonad-pàircidh",
   },
   "eiffelTower": {
     "english": "Eiffel Tower",
@@ -2288,5 +2322,6 @@
     "japanese": "エッフェル塔",
     "thai": "หอไอเฟล",
     "italian": "Torre Eiffel",
+    "scotsgaelic": "Tùr Eiffel",
   },
 }
