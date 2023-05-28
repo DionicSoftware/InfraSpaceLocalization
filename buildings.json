@@ -2206,6 +2206,7 @@
     "thai": "พิกเซลสามเหลี่ยม",
     "italian": "Pixel: Triangolo",
     "scotsgaelic": "Triantan Piogsal",
+    "turkish": "Üçgen pixel",
   },
   "pixelBuildingInvertCorner": {
     "english": "Pixel Inverted Corner",
@@ -2215,6 +2216,7 @@
     "thai": "พิกเซลมุมคว่ำ",
     "italian": "Pixel: Angolo invertito",
     "scotsgaelic": "Piogsal Oisean Inverted",
+    "turkish": "Ters köşe pixel",
   },
   "pixelBuildingRound": {
     "english": "Pixel Circle",
@@ -2224,6 +2226,7 @@
     "thai": "พิกเซลวงกลม",
     "italian": "Pixel: Tondo",
     "scotsgaelic": "Cearcall Piogsail",
+    "turkish": "Yuvarlak pixel",
   },
   "pixelBuildingRoundCorner": {
     "english": "Pixel Rounded Corner",
@@ -2233,6 +2236,7 @@
     "thai": "พิกเซลโค้งมน",
     "italian": "Pixel: Angolo arrotondato",
     "scotsgaelic": "Oisean Piogsal Cruinn",
+    "turkish": "Yuvarlak köşe pixel",
   },
   "pixelBuildingSquare": {
     "english": "Pixel",
@@ -2242,6 +2246,7 @@
     "thai": "พิกเซล",
     "italian": "Pixel",
     "scotsgaelic": "Piogsal",
+    "turkish": "Pixel",
   },
   "crashedUfo": {
     "english": "Crashed Ufo",
@@ -2251,6 +2256,7 @@
     "thai": "UFO ตก",
     "italian": "UFO precipitato",
     "scotsgaelic": "UFO air a mhilleadh",
+    "turkish": "Düşmüş ufo",
   },
   "DecorativePark1": {
     "english": "Park",
@@ -2260,6 +2266,7 @@
     "thai": "สวน",
     "italian": "Parco",
     "scotsgaelic": "Pàirce",
+    "turkish": "Park",
   },
   "DecorativePark2": {
     "english": "Park",
@@ -2269,6 +2276,7 @@
     "thai": "สวน",
     "italian": "Parco",
     "scotsgaelic": "Pàirce",
+    "turkish": "Park",
   },
   "Fence1": {
     "english": "Fence",
@@ -2278,6 +2286,7 @@
     "thai": "รั้ว",
     "italian": "Recinzione",
     "scotsgaelic": "Feansa",
+    "turkish": "Çit",
   },
   "Fence2": {
     "english": "Fence",
@@ -2287,6 +2296,7 @@
     "thai": "รั้ว",
     "italian": "Recinzione",
     "scotsgaelic": "Feansa",
+    "turkish": "Çit",
   },
   "Fence3": {
     "english": "Fence",
@@ -2296,6 +2306,7 @@
     "thai": "รั้ว",
     "italian": "Recinzione",
     "scotsgaelic": "Feansa",
+    "turkish": "Çit",
   },
   "panoramicWheel": {
     "english": "Ferris Wheel",
@@ -2305,6 +2316,7 @@
     "thai": "ชิงช้าสวรรค์",
     "italian": "Ruota panoramica",
     "scotsgaelic": "Cuibhle Amharc",
+    "turkish": "Dönme dolap",
   },
   "parkingLot1": {
     "english": "Parking lot",
@@ -2314,6 +2326,7 @@
     "thai": "ลานจอดรถ",
     "italian": "Parcheggio",
     "scotsgaelic": "Lonad-pàircidh",
+    "turkish": "Park yeri",
   },
   "eiffelTower": {
     "english": "Eiffel Tower",
@@ -2323,5 +2336,6 @@
     "thai": "หอไอเฟล",
     "italian": "Torre Eiffel",
     "scotsgaelic": "Tùr Eiffel",
+    "turkish": "Eyfel kulesi",
   },
 }
