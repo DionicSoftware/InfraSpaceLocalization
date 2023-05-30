@@ -419,6 +419,7 @@
     "turkish": "Kargo Teleferiği",
     "chinese": "货运缆车",
     "italian": "Cargo cabinovia",
+    "russian": "Грузовые лифты",
   },
   "tech_oneWayRoads": {
     "english": "One Way Roads",
@@ -1394,6 +1395,7 @@
     "turkish": "Dünyalaştırma",
     "thai": "การปรับสภาพพื้นผิวดาว",
     "italian": "Terraformazione",
+    "russian": "Терраформирование",
   },
   "tech_droneFertilization": {
     "english": "Drone Fertilization",
@@ -1403,6 +1405,7 @@
     "turkish": "Drone'la Gübreleme",
     "thai": "การใส่ปุ๋ยด้วยโดรน",
     "italian": "Drone fertilizzante",
+    "russian": "Беспилотное удобрение",
   },
   "tech_groundAcidityRegulation": {
     "english": "Ground Acidity Regulation",
@@ -1412,6 +1415,7 @@
     "turkish": "Toprak asit düzenlemesi",
     "thai": "การควบคุมความเป็นกรดของดิน",
     "italian": "Regolazione dell'acidità del suolo",
+    "russian": "Регулирование кислотности грунта",
   },
   "tech_ammoniaExtraction": {
     "english": "Ammonia Extraction",
@@ -1421,6 +1425,7 @@
     "japanese": "アンモニア除去",
     "thai": "การสกัดแอมโมเนีย",
     "italian": "Estrazione di ammoniaca",
+    "russian": "Экстракция аммиака",
   },
   "tech_magneticFieldGeneration": {
     "english": "Magnetic Field Generation",
@@ -1430,5 +1435,6 @@
     "turkish": "Manyetik Alan Oluşturma",
     "thai": "การสร้างสนามแม่เหล็ก",
     "italian": "Generazione di campo magnetico",
+    "russian": "Генерация магнитного поля",
   },
 }

@@ -7,6 +7,7 @@
 		"japanese": "テクノロジーは、我々の文明を支える柱である。",
 		"thai": "เทคโนโลยีเป็นเสาหลักของการก่อตั้งอารยธรรมของเรา",
 		"turkish": "Teknoloji medeniyetimizi üstüne kurduğumuz en temel sütundur.",
+		"russian": "Технологии - это то, на чем мы основали нашу цивилизацию.",
 	},
 	"introCinematic_inTheYear2351": {
 		"english": "In the year 2351, scientists created the first warp drive, kicking off a race for the stars.",
@@ -16,6 +17,7 @@
 		"japanese": "2351年、科学者は初のワープ航法を考案した。 これにより、星々を巡る競争が始まった。",
 		"thai": "ในปี 2351 นักวิทยาศาสตร์ได้สร้างยานวาร์ปไดรฟ์ขึ้นเป็นครั้งแรก และได้มีเริ่มการแข่งขันกันเพื่อชิงดวงดาว",
 		"turkish": "2351 yılında bilin insanları ilk yıldız atlaması mekanizmasını geliştridiler, yıldızlar için yarış başlıyor.",
+		"russian": "В 2351 году ученые создали первый варп-двигатель, положив начало гонки к звездам.",
 	},
 	"introCinematic_asThePopulationExpanded": {
 		"english": "As the population expanded on earth, the rise of exo-colonies allowed humans to take life beyond natural boundaries.",
@@ -25,6 +27,7 @@
 		"japanese": "地球上の人口増加に伴い、 コロニーを増やして人類が本来の限界を超えて生活できるようにした。",
 		"thai": "เมื่อจำนวนประชากรบนโลกขยายตัวมากขึ้น การเพิ่มขึ้นของอาณานิคมภายนอกทำให้มนุษย์ใช้ชีวิตเกินขอบเขตที่ธรรมชาติมีให้",
 		"turkish": "Dünyadaki Nüfusumuz arttıkça, dış kolonilerin yükselişi ile beraber insanlar doğal sınırları dışında yaşayabilecek hale geldi.",
+		"russian": "По мере того, как население Земли увеличивалось, рост экзо-колоний позволил людям жить за пределами естественных границ.",
 	},
 	"introCinematic_butTechnologyIsFallible": {
 		"english": "But technology, like humans, is fallible.",
@@ -34,6 +37,7 @@
 		"japanese": "しかし、テクノロジーも人間のように誤りに陥りがちである。",
 		"thai": "แต่เทคโนโลยีเองก็ผิดพลาดได้เช่นเดียวกับมนุษย์",
 		"turkish": "Ancak insanlar gibi teknoloji de yanılabilir.",
+		"russian": "Но технологии, как и люди, подвержены ошибкам.",
 	},
 	"introCinematic_thePassengerShipAntares": {
 		"english": "The passenger ship Antares was carrying thousands of colonists when a pressure valve overheated and failed,\nchanging the destination of the warp jump.",
@@ -43,6 +47,7 @@
 		"japanese": "旅客船アンタレスは数千人の入植者を乗せていた。\nしかし、圧力バルブが過熱・故障し、ワープの目的地が変更されてしまった。",
 		"thai": "ยานโดยสารอันทาเรส กำลังบรรทุกชาวอาณานิคมหลายพันคน และเมื่อวาล์วแรงดันมันร้อนเกินไปและผิดพลาด\nได้ทำการเปลี่ยนปลายทางของการวาร์ป",
 		"turkish": "Yolcu gemisi Antares binlerce kolonici taşıyordu ama bir basınç vanasını ısındı ve arızalandı.\nyıldız atlaması hedefi değiştiriliyor.",
+		"russian": "Пассажирский корабль «Антарес» перевозил тысячи колонистов, как вдруг перегрелся и вышел из строя клапан давления,\nчто изменило пункт назначения варп-прыжка.",
 	},
 	"introCinematic_lightyearsFromHome": {
 		"english": "Lightyears from home, the damaged ship now sits stranded.",
@@ -52,6 +57,7 @@
 		"japanese": "故郷から何光年も離れた場所で、損傷した船は今も立ち往生している。",
 		"thai": "หลายปีแสงไกลจากบ้าน ตอนนี้ยานที่เสียหายได้เกยตื้นแล้ว",
 		"turkish": "Evden ışık yılları uzaklıkta, hasarlı gemin artık hareket edemiyor.",
+		"russian": "В нескольких световых годах от дома разбитый корабль теперь сел на мель.",
 	},
 	"introCinematic_theCrewLacksTheMaterials": {
 		"english": "The crew lacks the materials necessary to repair Antares, but a nearby exoplanet is looking promising.",
@@ -61,6 +67,7 @@
 		"japanese": "アンタレスの修理に必要な資材も不足していたが、近くの系外惑星は有望だった。",
 		"thai": "ลูกเรือขาดวัสดุที่จำเป็นสำรหับการซ่อมแซมยานอันทาเรส แต่ทว่าดาวเคราะห์นอกระบบที่อยู่ใกล้เคียงนั้นดูเหมือนจะมีหวังอยู่",
 		"turkish": "Mürettebat gemiyi onarmak için gereken malzemelere ulaşamıyor, ama yakındaki gezegen umut vadedici gözüküyor.",
+		"russian": "У экипажа нет материалов, необходимых для ремонта Антареса, но близлежащая экзопланета выглядит многообещающе.",
 	},
 	"introCinematic_neper3": {
 		"english": "Neper 3.",
@@ -70,6 +77,7 @@
 		"japanese": "ネーパー3。",
 		"thai": "เนเปอร์ 3",
 		"turkish": "Neper 3.",
+		"russian": "Neper 3",
 	},
 	"introCinematic_aPlanetWithPlenty": {
 		"english": "A planet with plenty of mineral deposits on the surface.",
@@ -79,6 +87,7 @@
 		"japanese": "地表に豊富な鉱脈を持つ惑星である。",
 		"thai": "เป็นดาวเคราะห์ที่มีแร่ธาตุมากมายบนพื้นผิวดาว",
 		"turkish": "Yüzeyinde fazlaca maden yatağı bulunan bir gezegen.",
+		"russian": "Планета с большим количеством минеральных отложений на поверхности.",
 	},
 	"introCinematic_inOrderToSurvive": {
 		"english": "In order to survive, they need to establish a settlement here and start mining for resources.",
@@ -88,6 +97,7 @@
 		"japanese": "生き残るため、この惑星に居住地を設立して資源の採掘を始める必要がある。",
 		"thai": "เพื่อความอยู่รอด พวกเขาจึงจำเป็นต้องตั้งถิ่นฐานที่นี่และเริ่มขุดหาทรัพยากร",
 		"turkish": "Hayatta kalmak için, buraya bir yerleşim yeri kurup gerekli kaynakları kazmaya başlamalısın.",
+		"russian": "Чтобы выжить, им нужно основать аванпост и начать добывать ресурсы.",
 	},
 	"introCinematic_itWasHumanIngenuity": {
 		"english": "It was human ingenuity that got them this far.\nAnd to continue on this journey, they have to rely on it once more.",
@@ -97,6 +107,7 @@
 		"japanese": "彼らをこの地に到達させたのは人類の創意工夫だった。\nそして、この旅を続けるために今一度それに頼る必要がある。",
 		"thai": "ด้วยความเฉลียวฉลาดของมนุษย์ทำให้พวกเขามาไกลได้ขนาดนี้\nและเพื่อเดินทางต่อไป พวกเขาต้องพึ่งพามันอีกครั้ง",
 		"turkish": "İnsan zekası onları bu kadar uzağa getiren şeydi.\nVe şimdi bu yolculuğa devam edebilmek için ona bir kez daha güvenmeliler.",
+		"russian": "Именно человеческая изобретательность завела их так далеко.\nИ чтобы продолжить этот путь, они должны снова положиться на нее.",
 	},
 	"introCinematic_theMissionWillNotBeEasy": {
 		"english": "The mission will not be easy. But it's their only hope.",
@@ -106,5 +117,6 @@
 		"japanese": "このミッションは容易ではない。しかし、これが唯一の希望である。",
 		"thai": "ภารกิจนี้แน่ว่าไม่ง่ายแน่นอน แต่มันก็เป็นเพียงความหวังเดียวของพวกเขา",
 		"turkish": "Bu görev kolay olmayacaktı ama bu onların tek umuduydu.",
+		"russian": "Миссия будет нелегкой. Но это их единственная надежда.",
 	},
 }

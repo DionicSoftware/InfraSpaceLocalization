@@ -1030,6 +1030,7 @@
 		"japanese": "濾過用メッシュ",
 		"thai": "ตาข่ายกรอง",
 		"italian": "Tessuto filtrante",
+		"russian": "Фильтрующая сетка",
     },
     "resource_advancedFilteringMesh": {
         "english": "Advanced Filtering Mesh",
@@ -1039,6 +1040,7 @@
 		"japanese": "発展型濾過用メッシュ",
 		"thai": "ตาข่ายกรองขั้นสูง",
 		"italian": "Tessuto filtrante avanzato",
+		"russian": "Улучшенная фильтрующая сетка",
     },
     "resource_superconductingCoil": {
         "english": "Superconducting Coil",
@@ -1048,6 +1050,7 @@
 		"japanese": "超伝導コイル",
 		"thai": "ขดลวดตัวนำยิ่งยวด",
 		"italian": "Bobina superconduttiva",
+		"russian": "Сверхпроводящая катушка",
     },
 
 	"resource_parkPoints": {
@@ -1240,5 +1243,6 @@
 		"japanese": "テラフォーミング",
 		"thai": "การปรับสภาพพื้นผิวดาว",
 		"italian": "Terraformazione",
+		"russian": "Терраформирование",
     },
 }

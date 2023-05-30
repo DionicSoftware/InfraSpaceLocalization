@@ -1744,6 +1744,7 @@
 		"turkish": "Diğer istasyonlara bağlanılamıyor. Teleferik hatları kavis alamaz",
 		"chinese": "无法连接到其他车站。缆车线路不能弯曲！",
 		"italian": "Non è possibile collegarsi ad altre stazioni. Le linee della cabinovia non possono curvare!",
+		"russian": "Невозможно соединиться с другой станцией. Линии грузового лифта не могут изгибаться!",
 	},
 	"buildingConnectorTooSteep": {
 		"english": "Too steep",
@@ -1755,6 +1756,7 @@
 		"turkish": "Çok dik",
 		"chinese": "太陡了",
 		"italian": "Troppo ripido",
+		"russian": "Слишком крутой",
 	},
 	"buildingConnectorColliding": {
 		"english": "Colliding with something",
@@ -1766,6 +1768,7 @@
 		"turkish": "Bir şey ile çarpışıyor",
 		"chinese": "与其他物体冲突",
 		"italian": "Collisione con qualcosa",
+		"russian": "Сталкивается с чем-то",
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -3386,6 +3389,7 @@
 		"turkish": "Lazer silahı",
 		"chinese": "激光炮",
 		"italian": "Cannone Laser",
+		"russian": "Лазерная пушка",
 	},
 	"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
@@ -3467,6 +3471,7 @@
 		"turkish": "Lazer silahı kayaları eritecek kadar güçlü. haritadaki engelleri yöründegen temizleyebilirsin",
 		"chinese": "安塔利斯激光炮威力足以熔化岩石。清除你地图上轨道的障碍物！",
 		"italian": "Il cannone laser di Antares è così potente da fondere le rocce. Liberate la vostra mappa dagli ostacoli dall'orbita!",
+		"russian": "Лазерная пушка Антареса достаточно мощная, чтобы расплавить скалы. Очистите свою карту от препятствий с орбиты!",
 	},
 	"necessaryResources": {
 		"english": "Necessary Resources",
@@ -3724,6 +3729,7 @@
 		"turkish": "İmha beklemede",
 		"chinese": "摧毁进度",
 		"italian": "Progressi della distruzione",
+		"russian": "Процесс разрушения",
 	},
 	"laserSelectedForDestruction": { // or "next targets"
 		"english": "Selected for Destruction",
@@ -3735,6 +3741,7 @@
 		"turkish": "İmha için seçili",
 		"chinese": "下个目标",
 		"italian": "Selezionato per la distruzione",
+		"russian": "Следующие цели",
 	},
 	"multiSelectTutorial": {
 		"english": "Click on the objects you want to destroy with the laser.",
@@ -3746,6 +3753,7 @@
 		"turkish": "Lazerle imha etmek istedğin objelerin üstüne tıkla.",
 		"chinese": "单击要用激光炮摧毁的对象。",
 		"italian": "Clicca sugli oggetti che si desidera distruggere con il laser.",
+		"russian": "Нажмите на объекты, которые вы хотите уничтожить с помощью лазера.",
 	},
 	"buildLaserCannonTutorial": {
 		"english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
@@ -3757,6 +3765,7 @@
 		"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
 		"chinese": "修理太空船上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
 		"italian": "Riparate il cannone laser della nave spaziale, in modo da poter utilizzare la stazione di puntamento per eliminare gli ostacoli.",
+		"russian": "Отремонтируйте лазерную пушку на космическом корабле, чтобы вы могли использовать станцию наведения для устранения препятствий.",
 	},
 	"terraformingProgress": {
 		"english": "Terraforming Progress",
@@ -3766,6 +3775,7 @@
 		"turkish": "Dünyalaştırma",
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
 		"italian": "Progressi di terraformazione",
+		"russian": "Прогресс терраформирования",
 	},
 	"terraformingProgressPercentage": {
 		"english": "Terraforming Progress: %progress%%",
@@ -3775,6 +3785,7 @@
 		"turkish": "Dünyalaştırma ilerlemesi: %progress%%",
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
 		"italian": "Progressi di terraformazione: %progress%%",
+		"russian": "Прогресс терраформирования: %progress%%",
 	},
 	"dustParticleFiltering": {
 		"english": "Dust Particle Filtering",
@@ -3784,6 +3795,7 @@
 		"turkish": "Toz Filtreleme",
 		"thai": "การกรองอนุภาคฝุ่น",
 		"italian": "Filtrazione delle polveri sottili",
+		"russian": "Фильтрация частиц пыли",
 	},
 	"fertilization": {
 		"english": "Soil Fertilization",
@@ -3793,6 +3805,7 @@
 		"turkish": "Gübreleme",
 		"thai": "การให้ปุ๋ยทางดิน",
 		"italian": "Distribuzione di fertilizzanti",
+		"russian": "Удобрение почвы",
 	},
 	"groundAcidity": {
 		"english": "Ground Acidity Regulation",
@@ -3802,6 +3815,7 @@
 		"turkish": "Toprak Asit Düzenlemesi",
 		"thai": "การควบคุมความเป็นกรดของดิน",
 		"italian": "Regolazione dell'acidità del suolo",
+		"russian": "Регулирование кислотности грунта",
 	},
 	"ammoniaExtraction": {
 		"english": "Atmosphere Ammonia Extraction",
@@ -3811,6 +3825,7 @@
 		"turkish": "Atmosferden Amonyak Üretimi",
 		"thai": "การสกัดแอมโมเนียในบรรยากาศ",
 		"italian": "Estrazione di ammoniaca in atmosfera",
+		"russian": "Атмосферная экстракция аммиака",
 	},
 	"magneticField": {
 		"english": "Magnetic Field",
@@ -3820,6 +3835,7 @@
 		"turkish": "Manyetik Alan",
 		"thai": "สนามแม่เหล็ก",
 		"italian": "Campo magnetico",
+		"russian": "Магнитное поле",
 	},
 	"terraformingPoints": {
 		"english": "Terraforming Points: %points%",
@@ -3829,6 +3845,7 @@
 		"turkish": "Dünyalaştırma Puanları: %points%",
 		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
 		"italian": "Punti di terraformazione: %points%",
+		"russian": "Очки терраформирования: %points%",
 	},
 	"terraformedAreaOnMap": {
 		"english": "Terraformed area on map: %area%%",
@@ -3838,6 +3855,7 @@
 		"turkish": "Haritadaki Dünyalaşmış alan: %area%%",
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
 		"italian": "Area terraformata sulla mappa: %area%%",
+		"russian": "Терраформированная территория на карте: %area%%",
 	},
 	"totalProgress": {
 		"english": "Total Progress: %progress%%",
@@ -3847,6 +3865,7 @@
 		"turkish": "Toplam ilerleme: %progress%%",
 		"thai": "ความคืบหน้าทั้งหมด: %progress%%",
 		"italian": "Progressi totali: %progress%%",
+		"russian": "Общий прогресс: %progress%%",
 	},
 	"view": {
 		"english": "View",
@@ -3856,6 +3875,7 @@
 		"turkish": "Bakış",
 		"thai": "มุมมอง",
 		"italian": "Vista",
+		"russian": "Посмотреть",
 	},
 	"recentlyUsed": {
 		"english": "Recently Used",
@@ -3864,5 +3884,6 @@
 		"japanese": "最近使用した色",
 		"thai": "ใช้ไปล่าสุด",
 		"italian": "Usato di recente",
+		"russian": "Последнее использование",
 	},
 }

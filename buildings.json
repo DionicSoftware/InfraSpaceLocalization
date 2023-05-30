@@ -786,7 +786,7 @@
     "english": "VR Edutainment Factory",
     "german": "Fabrik für VR-Edutainment-Brillen",
     "french": "Usine à réalité virtuelle ludique",
-    "russian": "Завод VR-обучения",
+    "russian": "Завод VR очков",
     "chinese": "VR娱乐设备厂",
     "spanish": "Fábrica de Entretenimiento Educativo VR",
     "spanish-esp": "Fábrica de Entretenimiento Educativo VR",
@@ -2094,6 +2094,7 @@
     "chinese": "货物缆车",
     "italian": "Cargo cabinovia",
     "scotsgaelic": "Car luchdachadh",
+    "russian": "Грузовой лифт",
   },
   "gondolaPole": { // the poles between gondola stations
     "english": "Gondola Lift Pole",
@@ -2105,6 +2106,7 @@
     "thai": "เสายกยานกอนโดลา",
     "italian": "Palo per la cabinovia",
     "scotsgaelic": "Colbhan Càr",
+    "russian": "Стойка грузового лифта",
   },
   "targetingStation": {
     "english": "Laser Targeting Station",
@@ -2117,6 +2119,7 @@
     "chinese": "激光瞄准站",
     "italian": "Stazione di puntamento laser",
     "scotsgaelic": "Stèisean targaid laser",
+    "russian": "Лазерная целевая станция",
   },
   "filteringMeshFactory": {
     "english": "Filtering Mesh Factory",
@@ -2127,6 +2130,7 @@
     "thai": "โรงงานตาข่ายกรอง",
     "italian": "Fabbrica di tessuti filtranti",
     "scotsgaelic": "Factaraidh Mogal sìoladh",
+    "russian": "Фабрика фильтровальной ткани",
   },
   "advancedFilteringMeshFactory": {
     "english": "Advanced Filtering Mesh Factory",
@@ -2137,6 +2141,7 @@
     "thai": "โรงงานตาข่ายกรองขั้นสูง",
     "italian": "Fabbrica di tessuti filtranti avanzati",
     "scotsgaelic": "Factaraidh Mogal sìolaidh adhartach",
+    "russian": "Передовая фабрика фильтровальной ткани",
   },
   "superconductingCoilFactory": {
     "english": "Superconducting Coil Factory",
@@ -2147,6 +2152,7 @@
     "thai": "โรงงานขดลวดตัวนำยิ่งยวด",
     "italian": "Fabbrica di bobine superconduttrici",
     "scotsgaelic": "Factaraidh Uèir leaghaidh",
+    "russian": "Завод по производству сверхпроводящих катушек",
   },
   "dustParticleFilter": {
     "english": "Dust Particle Filter",
@@ -2157,6 +2163,7 @@
     "thai": "ตัวกรองอนุภาคฝุ่น",
     "italian": "Filtro per polveri sottili",
     "scotsgaelic": "Sìoltachan Gràinean Duslach",
+    "russian": "Фильтр частиц пыли",
   },
   "fertilizerDroneHub": {
     "english": "Fertilizer Drone Hub",
@@ -2167,6 +2174,7 @@
     "thai": "ศูนย์กลางของโดรนใส่ปุ๋ย",
     "italian": "Centro droni per la fertilizzazione",
     "scotsgaelic": "Ionad Drone todhar",
+    "russian": "Центр беспилотного удобрения",
   },
   "groundAcidityRegulator": {
     "english": "Ground Acidity Regulator",
@@ -2177,6 +2185,7 @@
     "thai": "เครื่องควบคุมความเป็นกรดของดิน",
     "italian": "Regolatore di acidità del terreno",
     "scotsgaelic": "Riaghladair Searbhachd Talmhainn",
+    "russian": "Регулятор кислотности грунта",
   },
   "ammoniaExtractor": {
     "english": "Ammonia Extractor",
@@ -2187,6 +2196,7 @@
     "thai": "เครื่องดูดแอมโมเนีย",
     "italian": "Estrattore di ammoniaca",
     "scotsgaelic": "Inneal-Tarraing ammonia",
+    "russian": "Экстрактор аммиака",
   },
   "magneticFieldGenerator": {
     "english": "Magnetic Field Generator",
@@ -2197,6 +2207,7 @@
     "thai": "เครื่องกำเนิดสนามแม่เหล็ก",
     "italian": "Generatore di campo magnetico",
     "scotsgaelic": "Gineadair Raon magnetach",
+    "russian": "Генератор магнитного поля",
   },
   "pixelBuildingCorner": {
     "english": "Pixel Triangle",
@@ -2207,6 +2218,7 @@
     "italian": "Pixel: Triangolo",
     "scotsgaelic": "Triantan Piogsal",
     "turkish": "Üçgen pixel",
+    "russian": "Пиксель: Треугольник",
   },
   "pixelBuildingInvertCorner": {
     "english": "Pixel Inverted Corner",
@@ -2217,6 +2229,7 @@
     "italian": "Pixel: Angolo invertito",
     "scotsgaelic": "Piogsal Oisean Inverted",
     "turkish": "Ters köşe pixel",
+    "russian": "Пиксель: Инвертированный угол",
   },
   "pixelBuildingRound": {
     "english": "Pixel Circle",
@@ -2227,6 +2240,7 @@
     "italian": "Pixel: Tondo",
     "scotsgaelic": "Cearcall Piogsail",
     "turkish": "Yuvarlak pixel",
+    "russian": "Пиксель: Круг",
   },
   "pixelBuildingRoundCorner": {
     "english": "Pixel Rounded Corner",
@@ -2237,6 +2251,7 @@
     "italian": "Pixel: Angolo arrotondato",
     "scotsgaelic": "Oisean Piogsal Cruinn",
     "turkish": "Yuvarlak köşe pixel",
+    "russian": "Пиксель: Закругленный угол",
   },
   "pixelBuildingSquare": {
     "english": "Pixel",
@@ -2247,6 +2262,7 @@
     "italian": "Pixel",
     "scotsgaelic": "Piogsal",
     "turkish": "Pixel",
+    "russian": "Пиксель",
   },
   "crashedUfo": {
     "english": "Crashed Ufo",
@@ -2257,6 +2273,7 @@
     "italian": "UFO precipitato",
     "scotsgaelic": "UFO air a mhilleadh",
     "turkish": "Düşmüş ufo",
+    "russian": "Разбившийся НЛО",
   },
   "DecorativePark1": {
     "english": "Park",
@@ -2267,6 +2284,7 @@
     "italian": "Parco",
     "scotsgaelic": "Pàirce",
     "turkish": "Park",
+    "russian": "Парк",
   },
   "DecorativePark2": {
     "english": "Park",
@@ -2277,6 +2295,7 @@
     "italian": "Parco",
     "scotsgaelic": "Pàirce",
     "turkish": "Park",
+    "russian": "Парк",
   },
   "Fence1": {
     "english": "Fence",
@@ -2287,6 +2306,7 @@
     "italian": "Recinzione",
     "scotsgaelic": "Feansa",
     "turkish": "Çit",
+    "russian": "Забор",
   },
   "Fence2": {
     "english": "Fence",
@@ -2297,6 +2317,7 @@
     "italian": "Recinzione",
     "scotsgaelic": "Feansa",
     "turkish": "Çit",
+    "russian": "Забор",
   },
   "Fence3": {
     "english": "Fence",
@@ -2307,6 +2328,7 @@
     "italian": "Recinzione",
     "scotsgaelic": "Feansa",
     "turkish": "Çit",
+    "russian": "Забор",
   },
   "panoramicWheel": {
     "english": "Ferris Wheel",
@@ -2317,6 +2339,7 @@
     "italian": "Ruota panoramica",
     "scotsgaelic": "Cuibhle Amharc",
     "turkish": "Dönme dolap",
+    "russian": "Колесо обозрения",
   },
   "parkingLot1": {
     "english": "Parking lot",
@@ -2327,6 +2350,7 @@
     "italian": "Parcheggio",
     "scotsgaelic": "Lonad-pàircidh",
     "turkish": "Park yeri",
+    "russian": "Парковка",
   },
   "eiffelTower": {
     "english": "Eiffel Tower",
@@ -2337,5 +2361,6 @@
     "italian": "Torre Eiffel",
     "scotsgaelic": "Tùr Eiffel",
     "turkish": "Eyfel kulesi",
+    "russian": "Эйфелева башня",
   },
 }
