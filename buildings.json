@@ -1,4 +1,4 @@
-﻿{
+﻿﻿{
   "sandMine": {
     "english": "Sand Mine",
     "german": "Sandmine",
@@ -2119,7 +2119,7 @@
     "chinese": "激光瞄准站",
     "italian": "Stazione di puntamento laser",
     "scotsgaelic": "Stèisean targaid laser",
-    "russian": "Лазерная целевая станция",
+    "russian": "Лазерная станция наведения",
   },
   "filteringMeshFactory": {
     "english": "Filtering Mesh Factory",
@@ -2130,7 +2130,7 @@
     "thai": "โรงงานตาข่ายกรอง",
     "italian": "Fabbrica di tessuti filtranti",
     "scotsgaelic": "Factaraidh Mogal sìoladh",
-    "russian": "Фабрика фильтровальной ткани",
+    "russian": "Завод фильтровальной ткани",
   },
   "advancedFilteringMeshFactory": {
     "english": "Advanced Filtering Mesh Factory",
@@ -2141,7 +2141,7 @@
     "thai": "โรงงานตาข่ายกรองขั้นสูง",
     "italian": "Fabbrica di tessuti filtranti avanzati",
     "scotsgaelic": "Factaraidh Mogal sìolaidh adhartach",
-    "russian": "Передовая фабрика фильтровальной ткани",
+    "russian": "Передовой завод фильтровальной ткани",
   },
   "superconductingCoilFactory": {
     "english": "Superconducting Coil Factory",

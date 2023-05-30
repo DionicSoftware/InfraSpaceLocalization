@@ -1,4 +1,4 @@
-﻿{
+﻿﻿{
 	// MAIN MENU
 	"newGame": {
 		"english": "New Game",
@@ -1393,7 +1393,7 @@
 		"turkish": "Görünmez imleç",
 		"chinese": "限制光标范围",
 		"scotsgaelic": "Luchag Chuingealaichte",
-		"russian": "Ограниченный курсор окном игры",
+		"russian": "Ограничение курсора окном игры",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
