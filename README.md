@@ -58,7 +58,7 @@
 <br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/tr.png"> Dosyaları oyunun bulunduğu yerde yeni bir klasör açıp yerleştirin ve klasörün ismini "<b>localization</b>" olarak değiştirin. Aşağıdaki verileri içeren <b>"<a href="#customtxt">Custom.txt</a>" dosyası oluşturmayı unutmayın </b>:</p> 
 <br>
-<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ro.png"> Создайте папку "<b>localization</b>" в каталоге игры и поместите туда эти файлы. Не забудьте<b> создать "<a href="#customtxt">Custom.txt</a>"</b>со следующим содержимым:</p> 
+<p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ru.png"> Создайте папку "<b>localization</b>" в каталоге игры и поместите туда эти файлы. Не забудьте<b> создать "<a href="#customtxt">Custom.txt</a>"</b>со следующим содержимым:</p>
 <br>
 <p><img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ua.png"> Cтворіть папку "<b>localization</b>" в каталозі гри та помістіть туди ці файли. Не забудьте<b> створити "<a href="#customtxt">Custom.txt</a>"</b>з наступним змістом:</p> 
 <br>
