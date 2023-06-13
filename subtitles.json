@@ -52,7 +52,8 @@
 		"thai": "ยานโดยสารอันทาเรส กำลังบรรทุกชาวอาณานิคมหลายพันคน และเมื่อวาล์วแรงดันมันร้อนเกินไปและผิดพลาด\nได้ทำการเปลี่ยนปลายทางของการวาร์ป",
 		"turkish": "Yolcu gemisi Antares binlerce kolonici taşıyordu ama bir basınç vanasını ısındı ve arızalandı.\nyıldız atlaması hedefi değiştiriliyor.",
 		"russian": "Пассажирский корабль «Антарес» перевозил тысячи колонистов, как вдруг перегрелся и вышел из строя клапан давления,\nчто изменило пункт назначения варп-прыжка.",
-	},      "polish": "Statek pasażerski Antares przewoził tysiące kolonistów gdy zawór ciśnienia przegrzał się i uszkodził,\nzmiana miejsca docelowego skoku warp.",
+		"polish": "Statek pasażerski Antares przewoził tysiące kolonistów gdy zawór ciśnienia przegrzał się i uszkodził,\nzmiana miejsca docelowego skoku warp.",
+	},      
 	"introCinematic_lightyearsFromHome": {
 		"english": "Lightyears from home, the damaged ship now sits stranded.",
 		"german": "Lichtjahre von Zuhause entfernt ist das kaputte Schiff jetzt gestrandet.",
@@ -73,7 +74,8 @@
 		"thai": "ลูกเรือขาดวัสดุที่จำเป็นสำรหับการซ่อมแซมยานอันทาเรส แต่ทว่าดาวเคราะห์นอกระบบที่อยู่ใกล้เคียงนั้นดูเหมือนจะมีหวังอยู่",
 		"turkish": "Mürettebat gemiyi onarmak için gereken malzemelere ulaşamıyor, ama yakındaki gezegen umut vadedici gözüküyor.",
 		"russian": "У экипажа нет материалов, необходимых для ремонта Антареса, но близлежащая экзопланета выглядит многообещающе.",
-	},      "polish": "Załodze brakuje materiałów wymaganych do naprawy Antaresa, ale pobliska egzoplaneta wygląda obiecująco",
+	        "polish": "Załodze brakuje materiałów wymaganych do naprawy Antaresa, ale pobliska egzoplaneta wygląda obiecująco",
+	},
 	"introCinematic_neper3": {
 		"english": "Neper 3.",
 		"german": "Neper 3.",
@@ -117,7 +119,6 @@
 		"turkish": "İnsan zekası onları bu kadar uzağa getiren şeydi.\nVe şimdi bu yolculuğa devam edebilmek için ona bir kez daha güvenmeliler.",
 		"russian": "Именно человеческая изобретательность завела их так далеко.\nИ чтобы продолжить этот путь, они должны снова положиться на нее.",
 		"polish": "to ludzka pomysłowość doprowadziła ich tak daleko.\nI aby kontynuować, muszą na niej polegać jeszcze raz.",
-		
 	},
 	"introCinematic_theMissionWillNotBeEasy": {
 		"english": "The mission will not be easy. But it's their only hope.",
