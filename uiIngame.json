@@ -3391,7 +3391,61 @@
 		"italian": "Cannone Laser",
 		"russian": "Лазерная пушка",
 	},
-	"spaceshipUpgrade_immigrationRateBoost": {
+
+	"spaceshipUpgrade_bridge": {
+		"english": "Receive a production boost of 1 for Electronic and Plastic.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für Elektronikmodul und Kunststoff.",
+},
+"spaceshipUpgrade_communicationArray": {
+		"english": "Receive a production boost of 1 for Neural Processor and 2 for VR Edutainment and Home Robot.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für Neuronalprozessor, sowie 2 für VR-Edutainment und Heimroboter.",
+},
+"spaceshipUpgrade_computerDeck": {
+		"english": "Receive a production boost of 1 for Holo Display and 2 for Computer.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für Holo-Display, sowie 2 für Computer.",
+},
+"spaceshipUpgrade_ftlEngine": {
+		"english": "Receive a production boost of 1 for Reinforced Iridium and 2 for AI Control Unit and Motor.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für verstärktes Iridium, sowie 2 für KI-Steuermodul und Motor.",
+},
+"spaceshipUpgrade_ftlFuelCells": {
+		"english": "Receive a production boost of 1 for Iridium Capacitor and Industrial Chemicals.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für Iridium Kondensator und Industriechemikalien.",
+},
+"spaceshipUpgrade_ftlTurbine": {
+		"english": "Receive a production boost of 1 for Copper Bar and Distilled Water and 2 for Industrial Robot.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für Kupfer Barren und destilliertes Wasser, sowie 2 für Industrieroboter.",
+},
+"spaceshipUpgrade_orbitalScanners": {
+		"english": "Receive a production boost of 2 for Filtering Mesh and 1 for Advanced Filtering Mesh and Superconducting Coil.",
+		"german": "Erhalte eine Produktionssteigerung von 2 für Filtergewebe, sowie 1 für Fortgeschrittenes Filtergewebe und Supraleitende Spule.",
+},
+"spaceshipUpgrade_passengerDeck": {
+		"english": "Receive a production boost of 1 for Survival Food and Good Food and 15% less needs for Habitats.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für Einfache Mahlzeit und Gute Mahlzeit, sowie 15% geringerer Bedarf für Bewohner.",
+},
+"spaceshipUpgrade_hull": {
+		"english": "Receive a production boost of 2 for Sensor and Dielectric Material.",
+		"german": "Erhalte eine Produktionssteigerung von 2 für Sensor und dielektrisches Material.",
+},
+"spaceshipUpgrade_radiationShield": {
+		"english": "Receive a production boost of 3 for Enriched Uranium and 4 for Radiation Core.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für angereichertes Uran, sowie 4 für Strahlungskern.",
+},
+"spaceshipUpgrade_storageDeck": {
+		"english": "Receive a production boost of 3 for Concrete and Steel and 2 for Home Appliance.",
+		"german": "Erhalte eine Produktionssteigerung von 3 für Beton und Stahl, sowie 2 für Hausgerät.",
+},
+"spaceshipUpgrade_telescope": {
+		"english": "Receive a production boost of 5 for Adamantine.",
+		"german": "Erhalte eine Produktionssteigerung von 5 für Adamant.",
+},
+"spaceshipUpgrade_thermalSystems": {
+		"english": "Receive a production boost of 1 for Chemicals, Organic Waste and Methane.",
+		"german": "Erhalte eine Produktionssteigerung von 1 für Chemikalien, Organische Abfälle und Methan.",
+},
+	
+	/*"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
 		"italian": "I tuoi progressi convincono i membri dell'equipaggio a credere in te. Ricevi un aumento del 5% all'immigrazione",
 		"german": "Dein Fortschritt überzeugt Crewmitglieder. Immigrationsrate permanent um 5% erhöht.",
@@ -3460,7 +3514,7 @@
 		"czech": "S tímto modulem online odemknete jednu náhodnou technologii.",
 		"turkish": "Bu modülün açılması ile her hangi bir teknolojiyi açıcasın",
 		"chinese": "此模块在线，你可以解锁一项随机技术。",
-	},
+	},*/
 	"spaceshipUpgrade_laserCannon": {
 		"english": "Antares' laser cannon is powerful enough to melt rocks. Clear your map of obstacles from orbit!",
 		"german": "Antares' Laserkanone ist stark genug um Felsen zu schmelzen. Zerstöre Hindernisse auf dem Planet vom Orbit aus!",

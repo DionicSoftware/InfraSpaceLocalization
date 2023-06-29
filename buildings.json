@@ -512,9 +512,9 @@
     "swiss german": "Fabrik für Nanoröhränä",
     "farsi": "کارخانه لوله های نانو",
   },
-  "iridiumAlloyFactory": {
-    "english": "Iridium Alloy Factory",
-    "german": "Fabrik für Iridiumlegierung",
+  "reinforcedIridiumFactory": {
+    "english": "Reinforced Iridium Factory",
+    "german": "Fabrik für verstärktes Iridium",
     "french": "Usine d'alliages d'iridium",
     "russian": "Завод иридиевых сплавов",
     "chinese": "铱合金厂",
@@ -809,9 +809,9 @@
     "swiss german": "Fabrik für VR-Brüllene",
     "farsi": "کار خانه واقعیت مجازی",
   },
-  "iridiumPropellantFactory": {
-    "english": "Iridium Propellant Factory",
-    "german": "Fabrik für Iridiumtreibstoff",
+  "iridiumCapacitorFactory": {
+    "english": "Iridium Capacitor Factory",
+    "german": "Fabrik für Iridium Kondensatoren",
     "french": "Usine de propulseurs à iridium",
     "chinese": "铱推进剂厂",
     "russian": "Завод иридиевого топлива",
@@ -1817,6 +1817,33 @@
     "swiss german": "Solarchraftwärch",
     "farsi": "پنل خورشیدی"
   },
+  "solarPowerPlant_Variation": {
+    "english": "Solar Power Plant",
+    "german": "Solarkraftwerk",
+    "french": "Centrale solaire",
+    "russian": "Солнечная электростанция",
+    "chinese": "太阳能发电机",
+    "spanish": "Planta de Energía Solar",
+    "spanish-esp": "Planta de Energía Solar",
+    "italian": "Centrale Elettrica ad Energia Solare",
+    "japanese": "太陽光発電所",
+    "polish": "Elektrownia słoneczna",
+    "czech": "Fotovoltaická elektrárna",
+    "ukrainian": "Сонячна електростанція",
+    "slovak": "Slnečná elektráreň",
+    "dutch": "Zonne-energiecentrale",
+    "portuguese": "Planta de energia solar",
+    "hungarian": "Napelem",
+    "thai": "โรงไฟฟ้าพลังงานแสงอาทิตย์",
+    "turkish": "Güneş Enerjisi Santrali",
+    "korean": "태양광 발전소",
+    "romanian": "Centrală solară",
+    "scotsgaelic": "Ionad Cumhachd Solar",
+    "danish": "Solcelleanlæg",
+    "greek": "Φωτοβολταϊκό",
+    "swiss german": "Solarchraftwärch",
+    "farsi": "پنل خورشیدی"
+  },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
     "german": "Atomkraftwerk",
@@ -2266,7 +2293,7 @@
   },
   "crashedUfo": {
     "english": "Crashed Ufo",
-    "german": "Gecrashted Ufo",
+    "german": "Abgestürztes UFO",
     "french": "OVNI accidenté",
     "japanese": "墜落したUFO",
     "thai": "UFO ตก",
@@ -2275,9 +2302,9 @@
     "turkish": "Düşmüş ufo",
     "russian": "Разбившийся НЛО",
   },
-  "DecorativePark1": {
-    "english": "Park",
-    "german": "Park",
+  "decorativePark1": {
+    "english": "Historic Park",
+    "german": "Historischer Park",
     "french": "Parc",
     "japanese": "公園",
     "thai": "สวน",
@@ -2286,9 +2313,9 @@
     "turkish": "Park",
     "russian": "Парк",
   },
-  "DecorativePark2": {
-    "english": "Park",
-    "german": "Park",
+  "decorativePark2": {
+    "english": "Modern Park",
+    "german": "Moderner Park",
     "french": "Parc",
     "japanese": "公園",
     "thai": "สวน",
@@ -2297,9 +2324,9 @@
     "turkish": "Park",
     "russian": "Парк",
   },
-  "Fence1": {
-    "english": "Fence",
-    "german": "Zaun",
+  "fence1": {
+    "english": "Fence A",
+    "german": "Zaun A",
     "french": "Clôture",
     "japanese": "フェンス",
     "thai": "รั้ว",
@@ -2308,9 +2335,9 @@
     "turkish": "Çit",
     "russian": "Забор",
   },
-  "Fence2": {
-    "english": "Fence",
-    "german": "Zaun",
+  "fence2": {
+    "english": "Fence Gate",
+    "german": "Zaun mit Tor",
     "french": "Clôture",
     "japanese": "フェンス",
     "thai": "รั้ว",
@@ -2319,9 +2346,9 @@
     "turkish": "Çit",
     "russian": "Забор",
   },
-  "Fence3": {
-    "english": "Fence",
-    "german": "Zaun",
+  "fence3": {
+    "english": "Fence B",
+    "german": "Zaun B",
     "french": "Clôture",
     "japanese": "フェンス",
     "thai": "รั้ว",
@@ -2342,7 +2369,7 @@
     "russian": "Колесо обозрения",
   },
   "parkingLot1": {
-    "english": "Parking lot",
+    "english": "Parking Lot",
     "german": "Parkplatz",
     "french": "Parking",
     "japanese": "駐車場",
@@ -2363,4 +2390,92 @@
     "turkish": "Eyfel kulesi",
     "russian": "Эйфелева башня",
   },
+  "crudeOilTank": {
+    "english": "Crude Oil Tank",
+    "german": "Rohöltank",
+},
+"crudeOilExtractor": {
+    "english": "Crude Oil Extractor",
+    "german": "Rohölextraktor",
+},
+"largeCrudeOilExtractor": {
+    "english": "Large Crude Oil Extractor",
+    "german": "Großer Rohölextraktor",
+},
+"stemCellLab": {
+    "english": "Stem Cell Lab",
+    "german": "Labor für Stammzellen",
+},
+"chemicalsLab": {
+    "english": "Chemicals Lab",
+    "german": "Labor für Chemikalien",
+},
+"industrialChemicalsLab": {
+    "english": "Industrial Chemicals Lab",
+    "german": "Labor für Industriechemikalien",
+},
+"plasticFactory": {
+    "english": "Plastic Factory",
+    "german": "Fabrik für Kunststoff",
+},
+"sensorFactory": {
+    "english": "Sensor Factory",
+    "german": "Fabrik für Sensoren",
+},
+"copperMill": {
+    "english": "Copper Mill",
+    "german": "Kupferwerk",
+},
+"enrichedUraniumFactory": {
+    "english": "Enriched Uranium Factory",
+    "german": "Fabrik für angereichertes Uran",
+},
+"dielectricMaterialFactory": {
+    "english": "Dielectric Material Factory",
+    "german": "Fabrik für Dielektrisches Material",
+},
+"waterDistillery": {
+    "english": "Water Distillery",
+    "german": "Wasserdestillerie",
+},
+"storehouseSmall": {
+    "english": "Small Construction Material Storage",
+    "german": "Kleines Baumateriallager",
+},
+"pyramid": {
+    "english": "Pyramid",
+    "german": "Pyramide",
+},
+"holoCinema": {
+    "english": "Holo Cinema",
+    "german": "Holografisches Kino",
+},
+"statue1": {
+    "english": "Statue World",
+    "german": "Weltkugel Statue",
+},
+"statue2": {
+    "english": "Statue Rocket",
+    "german": "Raketen Statue",
+},
+"statue3": {
+    "english": "Statue Labatory",
+    "german": "Labor Statue",
+},
+"ffEasterEgg": {
+    "english": "Statue Founders Fortune",
+    "german": "Founders Fortune Statue",
+},
+"decorativePark3": {
+    "english": "Modern Decorative Park",
+    "german": "Moderner dekorativer Park",
+},
+"decorativePark4": {
+    "english": "Historic Decorative Park",
+    "german": "Historischer dekorativer Park",
+},
+"decorativePark5": {
+    "english": "Small Decorative Park",
+    "german": "Kleiner dekorativer Park",
+},
 }

@@ -597,7 +597,7 @@
 		"swiss german": "VR-Edutainment",
 		"farsi":"واقعیت مجازی",
 	},
-	"resource_iridiumAlloy": {
+	/*"resource_iridiumAlloy": {
 		"english": "Iridium Alloy",
 		"german": "Iridiumlegierung",
 		"french": "Alliage d'iridium",
@@ -648,7 +648,7 @@
 		"greek": "Προωστικό Ιριδίου",
 		"swiss german": "Iridiumtriibstoff",
 		"farsi":"سوخت ایریدیومی",
-	},
+	},*/
 	"resource_aiControlUnit": {
 		"english": "AI Control Unit",
 		"german": "KI-Steuermodul",
@@ -1245,4 +1245,52 @@
 		"italian": "Terraformazione",
 		"russian": "Терраформирование",
     },
+    "resource_plastic": {
+        "english": "Plastic",
+        "german": "Kunststoff",
+	},
+	"resource_reinforcedIridium": {
+        "english": "Reinforced Iridium",
+        "german": "Verstärktes Iridium",
+	},
+	"resource_iridiumCapacitor": {
+        "english": "Iridium Capacitor",
+        "german": "Iridium Kondensator",
+	},
+	"resource_chemicals": {
+        "english": "Chemicals",
+        "german": "Chemikalien",
+	},
+	"resource_industrialChemicals": {
+        "english": "Industrial Chemicals",
+        "german": "Industriechemikalien",
+	},
+	"resource_distilledWater": {
+        "english": "Distilled Water",
+        "german": "Destilliertes Wasser",
+	},
+	"resource_copperBar": {
+        "english": "Copper Bar",
+        "german": "Kupfer Barren",
+	},
+	"resource_dielectricMaterial": {
+        "english": "Dielectric Material",
+        "german": "Dielektrisches Material",
+	},
+	"resource_sensor": {
+        "english": "Sensor",
+        "german": "Sensor",
+	},
+	"resource_stemCell": {
+        "english": "Stem Cell",
+        "german": "Stammzellen",
+	},
+	"resource_crudeOil": {
+        "english": "Crude Oil",
+        "german": "Rohöl",
+	},
+	"resource_enrichedUranium": {
+        "english": "Enriched Uranium",
+        "german": "Angereichertes Uran",
+	},
 }

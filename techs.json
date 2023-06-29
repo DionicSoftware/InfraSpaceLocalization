@@ -462,8 +462,8 @@
     "chinese": "天然气发电",
   },
   "tech_parks": { //IDK why techology, that give us PARK (cmon, it already named as "tech_parks") names as "Large Buildings". Maybe, "Parks" will be better as title??
-    "english": "Large Buildings",
-    "german": "Große Gebäude",
+    "english": "Parks",
+    "german": "Parks",
     "french": "Grands bâtiments",
     "dutch": "Grote Gebouwen",
     "russian": "Большие здания",
@@ -766,9 +766,9 @@
     "turkish": "Methan gazı fermentasyonu",
     "chinese": "沼气发酵",
   },
-  "tech_stadiums": {
-    "english": "Stadiums",
-    "german": "Stadien",
+  "tech_culture": {
+    "english": "Culture",
+    "german": "Kultur",
     "french": "Stades",
     "dutch": "Stadions",
     "russian": "Стадионы",
@@ -1291,9 +1291,9 @@
     "danish": "AI kontrolenheder",
     "greek": "Μονάδες ελέγχου AI",
   },
-  "tech_iridiumPropellant": {
-    "english": "Iridium Propellant",
-    "german": "Iridiumtreibstoff",
+  "tech_iridiumCapacitor": {
+    "english": "Iridium Capacitor",
+    "german": "Iridium Kondensator",
     "french": "Propulseurs à iridium",
     "dutch": "Iridium Drijfgas",
     "chinese": "铱推进剂",
@@ -1436,5 +1436,33 @@
     "thai": "การสร้างสนามแม่เหล็ก",
     "italian": "Generazione di campo magnetico",
     "russian": "Генерация магнитного поля",
+  },
+  "tech_fence": {
+    "english": "Border Fence",
+    "german": "Grenzzäune",
+  },
+  "tech_pixelBuilding": {
+    "english": "Pixel Building",
+    "german": "Pixel Gebäude",
+  },
+  "tech_statue": {
+    "english": "Unique Statues",
+    "german": "Einzigartige Statuen",
+  },
+  "tech_sightSeeing1": {
+    "english": "Sightseeing Constructions A",
+    "german": "Besichtigungskonstruktionen A",
+  },
+  "tech_sightSeeing2": {
+    "english": "Sightseeing Constructions B",
+    "german": "Besichtigungskonstruktionen B",
+  },
+  "tech_decorativeParks": {
+    "english": "Decorative Parks",
+    "german": "Dekorative Parks",
+  },
+  "tech_dielectricMaterial": {
+    "english": "Dielectric Material",
+    "german": "Dielektrisches Material",
   },
 }

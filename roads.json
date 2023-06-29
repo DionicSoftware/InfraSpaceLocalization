@@ -213,4 +213,8 @@
 		"turkish": " Methan gazı Borusu",
 		"chinese": "天然气管道",
 	},
+	"pipe_crudeOil": {
+		"english": "Crude Oil Pipes",
+		"german": "Rohölrohre",
+	},
 }
