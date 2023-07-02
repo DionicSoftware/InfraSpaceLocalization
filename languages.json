@@ -25,7 +25,8 @@
 		"danish": "English",
 		"swiss german": "English",
 		"farsi": "english",
-		"scotsgaelic": "English"
+		"scotsgaelic": "English",
+		"urdu": "English",
 	},
 	"German": {
 		"english": "Deutsch",
@@ -52,7 +53,8 @@
 		"danish": "Deutsch",
 		"swiss german": "Deutsch",
 		"farsi": "deutsch",
-		"scotsgaelic": "Deutsch"
+		"scotsgaelic": "Deutsch",
+		"urdu": "Deutsch",
 	},
 	"French": {
 		"english": "Français",
@@ -79,7 +81,8 @@
 		"danish": "Français",
 		"swiss german": "francais",
 		"farsi": "Français",
-		"scotsgaelic": "Français"
+		"scotsgaelic": "Français",
+		"urdu": "Français",
 	},
 	"Spanish": {
 		"english": "Español",
@@ -106,7 +109,8 @@
 		"danish": "Español",
 		"swiss german": "Español",
 		"farsi": "espanol",
-		"scotsgaelic": "Español"
+		"scotsgaelic": "Español",
+		"urdu": "Español",
 	},
 	"Portuguese": {
 		"english": "Português",
@@ -133,7 +137,8 @@
 		"danish": "Português",
 		"swiss german": "Português",
 		"farsi": "portugues",
-		"scotsgaelic": "Português"
+		"scotsgaelic": "Português",
+		"urdu": "Português",
 	},
 	"Turkish": {
 		"english": "Türkçe",
@@ -160,7 +165,8 @@
 		"danish": "Türkçe",
 		"swiss german": "Türkçe",
 		"farsi": "turkce",
-		"scotsgaelic": "Türkçe"
+		"scotsgaelic": "Türkçe",
+		"urdu": "Türkçe",
 	},
 	"Dutch": {
 		"english": "Nederlands",
@@ -187,7 +193,8 @@
 		"danish": "Nederlands",
 		"swiss german": "Nederlands",
 		"farsi": "Nederlands",
-		"scotsgaelic": "Nederlands"
+		"scotsgaelic": "Nederlands",
+		"urdu": "Nederlands",
 	},
 	"Ukrainian": {
 		"english": "Українська",
@@ -214,7 +221,8 @@
 		"danish": "Українська",
 		"swiss german": "Українська",
 		"farsi": "Українська",
-		"scotsgaelic": "Українська"
+		"scotsgaelic": "Українська",
+		"urdu": "Українська",
 	},
 	"Russian": {
 		"english": "Русский",
@@ -241,7 +249,8 @@
 		"danish": "Русский",
 		"swiss german": "Русский",
 		"farsi": "Русский",
-		"scotsgaelic": "Русский"
+		"scotsgaelic": "Русский",
+		"urdu": "Русский"
 	},
 	"Chinese": {
 		"english": "简体中文",
@@ -268,7 +277,8 @@
 		"danish": "简体中文",
 		"swiss german": "简体中文",
 		"farsi": "简体中文",
-		"scotsgaelic": "简体中文"
+		"scotsgaelic": "简体中文",
+		"urdu": "简体中文",
 	},
 	"Korean": {
 		"english": "한국어",
@@ -295,7 +305,8 @@
 		"danish": "한국어",
 		"swiss german": "한국어",
 		"farsi": "한국어",
-		"scotsgaelic": "한국어"
+		"scotsgaelic": "한국어",
+		"urdu": "한국어",
 	},
 	"Arabic": {
 		"english": "الإنجليزية",
@@ -322,7 +333,8 @@
 		"danish": "التايلاندية",
 		"swiss german": "التايلاندية",
 		"farsi": "الفارسیه",
-		"scotsgaelic": "التايلاندية"
+		"scotsgaelic": "التايلاندية",
+	  "urdu": "التايلاندية",
 	},
 	"Italian": {
 		"english": "Italiano",
@@ -349,7 +361,8 @@
 		"danish": "Italiano",
 		"swiss german": "Italiano",
 		"farsi": "Italiano",
-		"scotsgaelic": "Italiano"
+		"scotsgaelic": "Italiano",
+		"urdu": "Italiano",
 	},
 	"Czech": {
 		"english": "Čeština",
@@ -376,7 +389,8 @@
 		"danish": "Čeština",
 		"swiss german": "Čeština",
 		"farsi": "Čeština",
-		"scotsgaelic": "Čeština"
+		"scotsgaelic": "Čeština",
+		"urdu": "Čeština",
 	},
 	"Romanian": {
 		"english": "Română",
@@ -403,7 +417,8 @@
 		"danish": "Română",
 		"swiss german": "Română",
 		"farsi": "Română",
-		"scotsgaelic": "Română"
+		"scotsgaelic": "Română",
+		"urdu": "Română",
 	},
 	"Japanese": {
 		"english": "日本語",
@@ -430,6 +445,7 @@
 		"danish": "日本語",
 		"swiss german": "日本語",
 		"farsi": "日本語",
+		"urdu": "日本語",
 		"scotsgaelic": "日本語"
 	},
 	"Polish": {
@@ -457,6 +473,7 @@
 		"danish": "Polski",
 		"swiss german": "Polski",
 		"farsi": "Polski",
+		"urdu": "Polski",
 		"scotsgaelic": "Polski"
 	},
 	"Slovak": {
@@ -483,6 +500,7 @@
 		"thai": "Slovenčina",
 		"danish": "Slovenčina",
 		"swiss german": "Slovenčina",
+		"urdu": "Slovenčina",
 		"scotsgaelic": "Slovenčina"
 	},
 	"Hungarian": {
@@ -509,6 +527,7 @@
 		"thai": "Magyar",
 		"danish": "Magyar",
 		"swiss german": "Magyar",
+		"urdu": "Magyar",
 		"scotsgaelic": "Magyar"
 	},
 	"Thai": {
@@ -535,6 +554,7 @@
 		"thai": "ภาษาไทย",
 		"danish": "ภาษาไทย",
 		"swiss german": "ภาษาไทย",
+		"urdu": "ภาษาไทย",
 		"scotsgaelic": "ภาษาไทย"
 	},
 	"Danish": {
@@ -561,6 +581,7 @@
 		"thai": "Dansk",
 		"danish": "Dansk",
 		"swiss german": "Dansk",
+		"urdu": "Dansk",
 		"scotsgaelic": "Dansk"
 	},
 	"Greek": {
@@ -586,10 +607,11 @@
 		"hungarian": "Ελληνικά",
 		"thai": "Ελληνικά",
 		"danish": "Ελληνικά",
+		"urdu": "Ελληνικά",
 		"swiss german": "Ελληνικά",
 		"scotsgaelic": "Ελληνικά"
 	},
-	// I hope I´ve done it right...
+	// I hope I´ve done it right... same
 	"Swiss german": {
 		"english": "Schwiizerdütsch",
 		"german": "Schwiizerdütsch",
@@ -613,6 +635,7 @@
 		"hungarian": "Schwiizerdütsch",
 		"thai": "Schwiizerdütsch",
 		"danish": "Schwiizerdütsch",
+		"urdu": "Schwiizerdütsch",
 		"swiss german": "Schwiizerdütsch",
 		"scotsgaelic": "Schwiizerdütsch"
 	},
@@ -641,6 +664,7 @@
 		"danish": "فارسی",
 		"swiss german": "فارسی",
 		"farsi": "فارسی",
+	  "urdu": "فارسی",
 		"scotsgaelic": "فارسی"
 	},
 	"Scottish Gaelic": {
@@ -668,6 +692,11 @@
 		"danish": "Gàidhlig Na H-Alba",
 		"swiss german": "Gàidhlig Na H-Alba",
 		"farsi": "Gàidhlig Na H-Alba",
+		"urdu": "Gàidhlig Na H-Alba",
 		"scotsgaelic": "Gàidhlig Na H-Alba"
+	},
+	//I HOPE SOMETHING DOSNT GOES WRONG!!
+	"Urdu": {
+		"urdu": "اردو",
 	}
 }
