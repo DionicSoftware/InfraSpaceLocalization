@@ -21,6 +21,7 @@
 		"turkish":"%amount% kişilik bir nüfusa ulaşın",
 		"romanian": "Atinge o populație de %amount% rezidenți.",
 		"danish":"Nå en befolkning på %amount% indbyggere",
+		"urdu":"%amount% لوگوں کی آبادی تک پہنچنا",
 	},
 	"populationGoalText": {
 		"english": "%current% / %required% people",
@@ -43,6 +44,7 @@
 		"turkish":"%current% / %required% kişi",
 		"romanian": "%current% / %required% rezidenți",
 		"danish":"%current% / %required% indbyggere",
+		"urdu": "لوگ %current% / %required%",
 	},
 	"buildingGoalText": {
 		"english": "Build a %buildingName%",
@@ -65,6 +67,7 @@
 		"turkish":"Bir %buildingName% inşa edin.",
 		"romanian": "Construiește un(o) %buildingName%",
 		"danish":"Du kan nu bygge %buildingName%",
+		"urdu": "بنائ %buildingName%",
 	},
 	"researchGoalText": {
 		"english": "Research %techName%",
