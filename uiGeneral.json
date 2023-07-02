@@ -24,6 +24,7 @@
 		"thai": "ใช่",
 		"danish": "Ja",
 		"greek": "Ναι",
+		"urdu": "جی",
 	},
 	"no": {
 		"english": "No",
@@ -50,6 +51,7 @@
 		"thai": "ไม่",
 		"danish": "Nej",
 		"greek": "Όχι",
+		"urdu": "جی",
 	},
 	"hours": {
 		"english": "hours",
@@ -74,6 +76,7 @@
 		"romanian": "ore",
 		"danish": "timer",
 		"greek": "ώρες",
+		"urdu": "نہیں",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -98,6 +101,7 @@
 		"romanian": "h",
 		"danish": "t",
 		"greek": "ω",
+		"urdu": "h",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -124,6 +128,8 @@
 		"thai": "นาที",
 		"danish": "minutter",
 		"greek": "λεπτά",
+		"urdu": "منٹ",
+		
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
@@ -148,6 +154,7 @@
 		"romanian": "min",
 		"danish": "min",
 		"greek": "λεπ",
+		"urdu": "min",
 	},
 	"minute_M": { // used for something like "remaining time: 5 m".
 		"english": "m",
@@ -170,6 +177,7 @@
 		"danish": "m",
 		"greek": "λ",
 		"chinese": "分",
+		"urdu": "m",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -196,6 +204,7 @@
 		"thai": "วินาที",
 		"danish": "sekunder",
 		"greek": "δευτερόλεπτα",
+		"urdu": "سیکنڈز",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -222,6 +231,7 @@
 		"thai": "วิ",
 		"danish": "s",
 		"greek": "δ",
+		"urdu": "s",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -248,6 +258,7 @@
 		"thai": "วินาที",
 		"danish": "sek",
 		"greek": "δευτ",
+		"urdu": "sec",
 	},
 	"days": { // used like "0.4 days"
 		"english": "days",
@@ -272,5 +283,6 @@
 		"thai": "วัน",
 		"danish": "dage",
 		"greek": "μέρες",
+		"urdu": "دن",
 	},
 }
