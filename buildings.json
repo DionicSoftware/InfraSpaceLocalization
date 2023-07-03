@@ -809,13 +809,13 @@
     "swiss german": "Fabrik für VR-Brüllene",
     "farsi": "کار خانه واقعیت مجازی",
   },
-  "iridiumCapacitorFactory": {
-    "english": "Iridium Capacitor Factory",
+  "superconductorFactory": {
+    "english": "Superconductor Factory",
     "german": "Fabrik für Iridium Kondensatoren",
     "french": "Usine de propulseurs à iridium",
     "chinese": "铱推进剂厂",
     "russian": "Завод иридиевого топлива",
-    "italian": "Fabbrica di carburante all'iridio",
+    "italian": "Fabbrica di superconduttori",
     "japanese": "イリジウム推進剤生産工場",
     "polish": "Fabryka paliwa irydowego",
     "spanish": "Fábrica de Propelente de Iridio",
@@ -2393,89 +2393,111 @@
   "crudeOilTank": {
     "english": "Crude Oil Tank",
     "german": "Rohöltank",
+    "italian": "Serbatoio di Petrolio",
 },
 "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
     "german": "Rohölextraktor",
+    "italian": "Estrattore di Petrolio",
 },
 "largeCrudeOilExtractor": {
     "english": "Large Crude Oil Extractor",
     "german": "Großer Rohölextraktor",
+    "italian": "Grande Estrattore di Petrolio",
 },
 "stemCellLab": {
     "english": "Stem Cell Lab",
     "german": "Labor für Stammzellen",
+    "italian": "Laboratorio di Cellule Staminali",
 },
 "chemicalsLab": {
     "english": "Chemicals Lab",
     "german": "Labor für Chemikalien",
+    "italian": "Laboratorio Chimico",
 },
 "industrialChemicalsLab": {
     "english": "Industrial Chemicals Lab",
     "german": "Labor für Industriechemikalien",
+    "italian": "Laboratorio Chimico Industriale",
 },
 "plasticFactory": {
     "english": "Plastic Factory",
     "german": "Fabrik für Kunststoff",
+    "italian": "Fabbrica di Plastica",
 },
 "sensorFactory": {
     "english": "Sensor Factory",
     "german": "Fabrik für Sensoren",
+    "italian": "Fabbrica di Sensori",
 },
 "copperMill": {
     "english": "Copper Mill",
     "german": "Kupferwerk",
+    "italian": "Raffinatore di Rame",
 },
 "enrichedUraniumFactory": {
-    "english": "Enriched Uranium Factory",
+    "english": "Uranium Enrichment Plant",
     "german": "Fabrik für angereichertes Uran",
+    "italian": "Impianto di Arricchimento dell'Uranio",
 },
-"dielectricMaterialFactory": {
-    "english": "Dielectric Material Factory",
+"heatExchangerFactory": {
+    "english": "Heat Exchanger Factory",
     "german": "Fabrik für Dielektrisches Material",
+    "italian": "Fabbrica di Scambiatori di Calore",
 },
 "waterDistillery": {
     "english": "Water Distillery",
     "german": "Wasserdestillerie",
+    "italian": "Impianto di Distillazione",  
 },
 "storehouseSmall": {
     "english": "Small Construction Material Storage",
     "german": "Kleines Baumateriallager",
+    "italian": "Piccolo deposito di Materiali da costruzione", 
 },
 "pyramid": {
     "english": "Pyramid",
     "german": "Pyramide",
+    "italian": "Piramide", 
 },
 "holoCinema": {
     "english": "Holo Cinema",
     "german": "Holografisches Kino",
+    "italian": "Holo-cinema", 
 },
 "statue1": {
     "english": "Statue World",
     "german": "Weltkugel Statue",
+    "italian": "Statua Pianeta",
 },
 "statue2": {
     "english": "Statue Rocket",
     "german": "Raketen Statue",
+    "italian": "Statua Razzo",
 },
 "statue3": {
-    "english": "Statue Labatory",
+    "english": "Statue Laboratory",
     "german": "Labor Statue",
+    "italian": "Statua Laboratorio",
 },
 "ffEasterEgg": {
-    "english": "Statue Founders Fortune",
-    "german": "Founders Fortune Statue",
+    "english": "Statue Founders' Fortune",
+    "german": "Founders' Fortune Statue",
+    "italian": "Statua Founders' Fortune",
 },
 "decorativePark3": {
     "english": "Modern Decorative Park",
     "german": "Moderner dekorativer Park",
+    "italian": "Parco Decorativo Moderno",
 },
 "decorativePark4": {
     "english": "Historic Decorative Park",
     "german": "Historischer dekorativer Park",
+    "italian": "Parco Decorativo Storico",
 },
 "decorativePark5": {
     "english": "Small Decorative Park",
     "german": "Kleiner dekorativer Park",
+    "italian": "Piccolo Parco Decorativo",
 },
 }

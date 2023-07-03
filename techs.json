@@ -241,7 +241,7 @@
   },
   "tech_methane": {
     "english": "Methane",
-    "Italian": "Metano",
+    "italian": "Metano",
     "german": "Methan",
     "french": "Méthane",
     "spanish-esp": "Metano",
@@ -256,7 +256,7 @@
   },
   "tech_tanks": {
     "english": "Tanks",
-    "Italian": "Serbatoi",
+    "italian": "Serbatoi",
     "german": "Tanks",
     "french": "Réservoirs",
     "spanish-esp": "Tanques",
@@ -346,7 +346,7 @@
   },
   "tech_spaceshipConstruction": {
     "english": "Spaceship Construction",
-    "Italian": "Costruzione della Nave Spaziale",
+    "italian": "Costruzione della Nave Spaziale",
     "german": "Raumschiffkonstruktion",
     "french": "Construction spatiale",
     "spanish-esp": "Construcción de Nave Espacial",
@@ -448,7 +448,7 @@
   },
   "tech_methanePowerPlants": {
     "english": "Methane Power Plants",
-    "Italian": "Generatore a Metano",
+    "italian": "Generatore a Metano",
     "german": "Methankraftwerke",
     "french": "Centrales au méthane",
     "spanish-esp": "Plantas Energéticas de Metano",
@@ -513,7 +513,7 @@
   },
   "tech_groundWaterExtraction": {
     "english": "Ground Water Extraction",
-    "Italian": "Estrazione dell'Acqua dal sottosuolo",
+    "italian": "Estrazione dell'Acqua dal sottosuolo",
     "german": "Grundwasser-Extraktion",
     "french": "Extraction d'eau souterraine",
     "spanish-esp": "Extracción de Agua Subterránea",
@@ -753,7 +753,7 @@
   },
   "tech_methaneFermentation": {
     "english": "Methane Fermentation",
-    "Italian": "Fermentazione del Metano",
+    "italian": "Fermentazione del Metano",
     "german": "Methangärung",
     "french": "Fermentation du méthane",
     "spanish-esp": "Fermentación del Metano",
@@ -1291,8 +1291,8 @@
     "danish": "AI kontrolenheder",
     "greek": "Μονάδες ελέγχου AI",
   },
-  "tech_iridiumCapacitor": {
-    "english": "Iridium Capacitor",
+  "tech_superconductor": {
+    "english": "Superconductors",
     "german": "Iridium Kondensator",
     "french": "Propulseurs à iridium",
     "dutch": "Iridium Drijfgas",
@@ -1300,7 +1300,7 @@
     "russian": "Иридиевое топливо",
     "spanish": "Propulsores a Iridio",
     "spanish-esp": "Propulsores de Iridio",
-    "italian": "Carburante all'iridio",
+    "italian": "Superconduttori",
     "polish": "Paliwa irydowe",
     "czech": "Iridiové palivo",
     "ukrainian": "Іридієве пальне",
@@ -1440,29 +1440,36 @@
   "tech_fence": {
     "english": "Border Fence",
     "german": "Grenzzäune",
+    "italian": "Recinto",
   },
   "tech_pixelBuilding": {
     "english": "Pixel Building",
     "german": "Pixel Gebäude",
+    "italian": "Edifici-pixel",
   },
   "tech_statue": {
     "english": "Unique Statues",
     "german": "Einzigartige Statuen",
+    "italian": "Statue uniche",
   },
   "tech_sightSeeing1": {
     "english": "Sightseeing Constructions A",
     "german": "Besichtigungskonstruktionen A",
+    "italian": "Attrazione turistica A",
   },
   "tech_sightSeeing2": {
     "english": "Sightseeing Constructions B",
     "german": "Besichtigungskonstruktionen B",
+    "italian": "Attrazione turistica B",
   },
   "tech_decorativeParks": {
     "english": "Decorative Parks",
     "german": "Dekorative Parks",
+    "italian": "Parchi decorativi",
   },
-  "tech_dielectricMaterial": {
-    "english": "Dielectric Material",
+  "tech_heatExchanger": {
+    "english": "Heat Exchangers",
     "german": "Dielektrisches Material",
+    "italian": "Scambiatori di calore",
   },
 }

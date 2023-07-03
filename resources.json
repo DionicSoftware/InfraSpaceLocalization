@@ -1248,49 +1248,61 @@
     "resource_plastic": {
         "english": "Plastic",
         "german": "Kunststoff",
+		"italian": "Plastica",
 	},
 	"resource_reinforcedIridium": {
         "english": "Reinforced Iridium",
         "german": "Verstärktes Iridium",
+		"italian": "Iridio Rinforzato",
 	},
-	"resource_iridiumCapacitor": {
-        "english": "Iridium Capacitor",
+	"resource_superconductor": {
+        "english": "Superconductor",
         "german": "Iridium Kondensator",
+		"italian": "Superconduttore",
 	},
 	"resource_chemicals": {
         "english": "Chemicals",
         "german": "Chemikalien",
+		"italian": "Prodotti Chimici",
 	},
 	"resource_industrialChemicals": {
         "english": "Industrial Chemicals",
         "german": "Industriechemikalien",
+		"italian": "Prodotti Chimici Industriali",
 	},
 	"resource_distilledWater": {
         "english": "Distilled Water",
         "german": "Destilliertes Wasser",
+		"italian": "Acqua Distillata",
 	},
 	"resource_copperBar": {
         "english": "Copper Bar",
         "german": "Kupfer Barren",
+		"italian": "Lingotto di Rame",
 	},
-	"resource_dielectricMaterial": {
-        "english": "Dielectric Material",
+	"resource_heatExchanger": {
+        "english": "Heat Exchanger",
         "german": "Dielektrisches Material",
+		"italian": "Scambiatore di Calore",
 	},
 	"resource_sensor": {
         "english": "Sensor",
         "german": "Sensor",
+		"italian": "Sensore",
 	},
 	"resource_stemCell": {
         "english": "Stem Cell",
         "german": "Stammzellen",
+		"italian": "Cellule Staminali",
 	},
 	"resource_crudeOil": {
         "english": "Crude Oil",
         "german": "Rohöl",
+		"italian": "Petrolio",
 	},
 	"resource_enrichedUranium": {
         "english": "Enriched Uranium",
         "german": "Angereichertes Uran",
+		"italian": "Uranio Arricchito",
 	},
 }

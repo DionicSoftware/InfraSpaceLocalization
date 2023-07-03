@@ -3395,54 +3395,67 @@
 	"spaceshipUpgrade_bridge": {
 		"english": "Receive a production boost of 1 for Electronic and Plastic.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für Elektronikmodul und Kunststoff.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Moduli Elettronici e Plastica.",
 },
 "spaceshipUpgrade_communicationArray": {
 		"english": "Receive a production boost of 1 for Neural Processor and 2 for VR Edutainment and Home Robot.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für Neuronalprozessor, sowie 2 für VR-Edutainment und Heimroboter.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Processori Neurali, di 2 per Intrattenimento a Realtà Virtuale e Robot Domestici.",
 },
 "spaceshipUpgrade_computerDeck": {
 		"english": "Receive a production boost of 1 for Holo Display and 2 for Computer.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für Holo-Display, sowie 2 für Computer.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Display Olografici, di 2 per Computer.",
 },
 "spaceshipUpgrade_ftlEngine": {
 		"english": "Receive a production boost of 1 for Reinforced Iridium and 2 for AI Control Unit and Motor.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für verstärktes Iridium, sowie 2 für KI-Steuermodul und Motor.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Iridio Rinforzato, di 2 per Unità di controllo IA e Motori.",
 },
 "spaceshipUpgrade_ftlFuelCells": {
-		"english": "Receive a production boost of 1 for Iridium Capacitor and Industrial Chemicals.",
+		"english": "Receive a production boost of 1 for Superconductor and Industrial Chemicals.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für Iridium Kondensator und Industriechemikalien.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Superconduttori e Prodotti Chimici Industriali.",
 },
 "spaceshipUpgrade_ftlTurbine": {
 		"english": "Receive a production boost of 1 for Copper Bar and Distilled Water and 2 for Industrial Robot.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für Kupfer Barren und destilliertes Wasser, sowie 2 für Industrieroboter.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Lingotti di Rame e Acqua Distillata, di 2 per Robot Industriali.",
 },
 "spaceshipUpgrade_orbitalScanners": {
 		"english": "Receive a production boost of 2 for Filtering Mesh and 1 for Advanced Filtering Mesh and Superconducting Coil.",
 		"german": "Erhalte eine Produktionssteigerung von 2 für Filtergewebe, sowie 1 für Fortgeschrittenes Filtergewebe und Supraleitende Spule.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Tessuto Filtrante Avanzato e Bobina Superconduttiva, di 2 per Tessuto Filtrante.",
 },
 "spaceshipUpgrade_passengerDeck": {
 		"english": "Receive a production boost of 1 for Survival Food and Good Food and 15% less needs for Habitats.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für Einfache Mahlzeit und Gute Mahlzeit, sowie 15% geringerer Bedarf für Bewohner.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Cibo di Sopravvivenza e Pasti Buoni e una riduzione del 15% dei bisogni degli Habitat.",
 },
 "spaceshipUpgrade_hull": {
-		"english": "Receive a production boost of 2 for Sensor and Dielectric Material.",
+		"english": "Receive a production boost of 2 for Sensor and Heat Exchanger.",
 		"german": "Erhalte eine Produktionssteigerung von 2 für Sensor und dielektrisches Material.",
+		"italian": "Ricevi un aumento alla produzione di 2 per Sensori e Scambiatori di Calore.",
 },
 "spaceshipUpgrade_radiationShield": {
 		"english": "Receive a production boost of 3 for Enriched Uranium and 4 for Radiation Core.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für angereichertes Uran, sowie 4 für Strahlungskern.",
+		"italian": "Ricevi un aumento alla produzione di 3 per Uranio Arricchito, di 4 per Nuclei di Radiazione.",
 },
 "spaceshipUpgrade_storageDeck": {
 		"english": "Receive a production boost of 3 for Concrete and Steel and 2 for Home Appliance.",
 		"german": "Erhalte eine Produktionssteigerung von 3 für Beton und Stahl, sowie 2 für Hausgerät.",
+		"italian": "Ricevi un aumento alla produzione di 2 per Elettrodomestici, di 4 per Cemento e Acciaio.",
 },
 "spaceshipUpgrade_telescope": {
 		"english": "Receive a production boost of 5 for Adamantine.",
 		"german": "Erhalte eine Produktionssteigerung von 5 für Adamant.",
+		"italian": "Ricevi un aumento alla produzione di 5 per Adamantio.",
 },
 "spaceshipUpgrade_thermalSystems": {
 		"english": "Receive a production boost of 1 for Chemicals, Organic Waste and Methane.",
 		"german": "Erhalte eine Produktionssteigerung von 1 für Chemikalien, Organische Abfälle und Methan.",
+		"italian": "Ricevi un aumento alla produzione di 1 per Prodotti Chimici, Rifiuti Organici e Metano.",
 },
 	
 	/*"spaceshipUpgrade_immigrationRateBoost": {
