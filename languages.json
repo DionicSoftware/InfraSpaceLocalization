@@ -611,7 +611,7 @@
 		"swiss german": "Ελληνικά",
 		"scotsgaelic": "Ελληνικά"
 	},
-	// I hope I´ve done it right... same
+	// I hope I´ve done it right...
 	"Swiss german": {
 		"english": "Schwiizerdütsch",
 		"german": "Schwiizerdütsch",
@@ -695,7 +695,6 @@
 		"urdu": "Gàidhlig Na H-Alba",
 		"scotsgaelic": "Gàidhlig Na H-Alba"
 	},
-	//I HOPE SOMETHING DOSNT GOES WRONG!!
 	"Urdu": {
 		"urdu": "اردو",
 	}
