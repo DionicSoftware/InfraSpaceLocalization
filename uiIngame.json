@@ -3394,67 +3394,67 @@
 
 	"spaceshipUpgrade_bridge": {
 		"english": "Each time Electronic is produced, you get 1 extra unit.\n\nEach time Plastic is produced, you get 1 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für Elektronikmodul und Kunststoff.",
+		"german": "Bei jeder Produktion von Elektronik, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Kunststoff, produziere 1 Einheit zusätzlich.",
 		"italian": "Per ogni produzione di Moduli Elettronici e Plastica, ricevi 1 unità extra.",
 },
 "spaceshipUpgrade_communicationArray": {
 		"english": "Each time Neural Processor is produced, you get 1 extra unit.\n\nEach time VR Edutainment and Home Robot are produced, you get 2 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für Neuronalprozessor, sowie 2 für VR-Edutainment und Heimroboter.",
+		"german": "Bei jeder Produktion von Neuronalprozessor, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von VR-Edutainment Brille und Heimroboter, produziere 2 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Processori Neurali, ricevi 1 unità extra.\n\nPer ogni produzione di Intrattenimento a Realtà Virtuale e Robot Domestici, ricevi 2 unità extra.",
 },
 "spaceshipUpgrade_computerDeck": {
 		"english": "Each time Holo Display is produced, you get 1 extra unit.\n\nEach time Computer is produced, you get 2 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für Holo-Display, sowie 2 für Computer.",
+		"german": "Bei jeder Produktion von Holo-Display, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Computer, produziere 2 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Display Olografici, ricevi 1 unità extra.\n\nPer ogni produzione di Computer, ricevi 2 unità extra.",
 },
 "spaceshipUpgrade_ftlEngine": {
 		"english": "Each time Reinforced Iridium is produced, you get 1 extra unit.\n\nEach time AI Control Unit and Motor are produced, you get 2 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für verstärktes Iridium, sowie 2 für KI-Steuermodul und Motor.",
+		"german": "Bei jeder Produktion von verstärktes Iridium, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von KI-Steuermodul, produziere 2 Einheiten zusätzlich.",	
 		"italian": "Per ogni produzione di Iridio Rinforzato, ricevi 1 unità extra.\n\nPer ogni produzione di Unità di controllo IA e Motori, ricevi 2 unità extra.",
 },
 "spaceshipUpgrade_ftlFuelCells": {
 		"english": "Each time Superconductor and Industrial Chemicals are produced, you get 1 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für Iridium Kondensator und Industriechemikalien.",
+		"german": "Bei jeder Produktion von Suptraleiter und Industriechemikalien, produziere 1 Einheit zusätzlich.",
 		"italian": "Per ogni produzione di Superconduttori e Prodotti Chimici Industriali, ricevi 1 unità extra.",
 },
 "spaceshipUpgrade_ftlTurbine": {
 		"english": "Each time Copper Bar and Distilled Water are produced, you get 1 extra unit.\n\nEach time Industrial Robot is produced, you get 2 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für Kupfer Barren und destilliertes Wasser, sowie 2 für Industrieroboter.",
+		"german": "Bei jeder Produktion von Holo-Kupfer Barren und destilliertes Wasser, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Industrieroboter, produziere 2 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Lingotti di Rame e Acqua Distillata, ricevi 1 unità extra.\n\nPer ogni produzione di Robot Industriali, ricevi 2 unità extra.",
 },
 "spaceshipUpgrade_orbitalScanners": {
 		"english": "Each time Advanced Filtering Mesh and Superconducting Coil are produced, you get 1 extra unit.\n\nEach time Filtering Mesh is produced, you get 2 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 2 für Filtergewebe, sowie 1 für Fortgeschrittenes Filtergewebe und Supraleitende Spule.",
+		"german": "Bei jeder Produktion von Fortgeschrittenes Filtergewebe und Supraleitende Spule, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Filtergewebe, produziere 2 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Tessuto Filtrante Avanzato e Bobine Superconduttive, ricevi 1 unità extra.\n\nPer ogni produzione di Tessuto Filtrante, ricevi 2 unità extra.",
 },
 "spaceshipUpgrade_passengerDeck": {
 		"english": "Each time Survival Food and Good Food are produced, you get 1 extra unit.\n\nYou get a 15% reduction for all Habitat needs.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für Einfache Mahlzeit und Gute Mahlzeit, sowie 15% geringerer Bedarf für Bewohner.",
+		"german": "Bei jeder Produktion von Einfache Mahlzeit und Gute Mahlzeit, produziere 1 Einheit zusätzlich.\n\nBewohner haben zusätzlich 15% weniger Bedarf.",
 		"italian": "Per ogni produzione di Cibo di Sopravvivenza e Pasti Buoni, ricevi 1 unità extra.\n\nRicevi una riduzione del 15% per tutti i bisogni degli Habitat.",
 },
 "spaceshipUpgrade_hull": {
 		"english": "Each time Sensor and Heat Exchanger are produced, you get 2 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 2 für Sensor und dielektrisches Material.",
+		"german": "Bei jeder Produktion von Sensor und Wärmetauscher, produziere 2 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Sensori e Scambiatori di Calore, ricevi 2 unità extra.",
 },
 "spaceshipUpgrade_radiationShield": {
 		"english": "Each time Enriched Uranium is produced, you get 3 extra unit.\n\nEach time Radiation Core is produced, you get 4 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für angereichertes Uran, sowie 4 für Strahlungskern.",
+		"german": "Bei jeder Produktion von angereichertes Uran, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Strahlungskern, produziere 4 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Uranio Arricchito, ricevi 3 unità extra.\n\nPer ogni produzione di Nuclei di Radiazione, ricevi 4 unità extra.",
 },
 "spaceshipUpgrade_storageDeck": {
 		"english": "Each time Home Appliance is produced, you get 2 extra unit.\n\nEach time Concrete and Steel are produced, you get 3 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 3 für Beton und Stahl, sowie 2 für Hausgerät.",
+		"german": "Bei jeder Produktion von Beton und Stahl, produziere 3 Einheiten zusätzlich.\n\nBei jeder Produktion von Hausgerät, produziere 2 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Elettrodomestici, ricevi 2 unità extra.\n\nPer ogni produzione di Cemento e Acciaio, ricevi 3 unità extra.",
 },
 "spaceshipUpgrade_telescope": {
 		"english": "Each time Adamantine is produced, you get 5 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 5 für Adamant.",
+		"german": "Bei jeder Produktion von Adamant, produziere 5 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Adamantio, ricevi 5 unità extra.",
 },
 "spaceshipUpgrade_thermalSystems": {
 		"english": "Each time Chemicals, Organic Waste and Methane are produced, you get 1 extra unit.",
-		"german": "Erhalte eine Produktionssteigerung von 1 für Chemikalien, Organische Abfälle und Methan.",
+		"german": "Bei jeder Produktion von Chemikalien, Organische Abfälle und Methan, produziere 1 Einheit zusätzlich.",
 		"italian": "Per ogni produzione di Prodotti Chimici, Rifiuti Organici e Metano, ricevi 1 unità extra.",
 },
 	

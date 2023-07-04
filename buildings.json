@@ -811,7 +811,7 @@
   },
   "superconductorFactory": {
     "english": "Superconductor Factory",
-    "german": "Fabrik für Iridium Kondensatoren",
+    "german": "Fabrik für Supraleiter",
     "french": "Usine de propulseurs à iridium",
     "chinese": "铱推进剂厂",
     "russian": "Завод иридиевого топлива",
@@ -2442,7 +2442,7 @@
 },
 "heatExchangerFactory": {
     "english": "Heat Exchanger Factory",
-    "german": "Fabrik für Dielektrisches Material",
+    "german": "Fabrik für Wärmetauscher",
     "italian": "Fabbrica di Scambiatori di Calore",
 },
 "waterDistillery": {

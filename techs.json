@@ -1293,7 +1293,7 @@
   },
   "tech_superconductor": {
     "english": "Superconductors",
-    "german": "Iridium Kondensator",
+    "german": "Supraleiter",
     "french": "Propulseurs à iridium",
     "dutch": "Iridium Drijfgas",
     "chinese": "铱推进剂",
@@ -1469,7 +1469,7 @@
   },
   "tech_heatExchanger": {
     "english": "Heat Exchangers",
-    "german": "Dielektrisches Material",
+    "german": "Wärmetauscher",
     "italian": "Scambiatori di calore",
   },
 }
