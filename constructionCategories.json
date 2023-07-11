@@ -1,0 +1,129 @@
+﻿{
+	
+	"constructionCategory_roads": {
+		"english": "Roads",
+		"german": "Straßen",
+	},
+	"constructionCategory_lowTierRoads": {
+		"english": "Cheap Roads",
+		"german": "Einfache Straßen",
+	},
+	"constructionCategory_midTierRoads": {
+		"english": "Normal Roads",
+		"german": "Normale Straßen",
+	},
+	"constructionCategory_highwayRoads": {
+		"english": "Highways",
+		"german": "Autobahnen",
+	},
+	"constructionCategory_superhighwayRoads": {
+		"english": "Superhighways",
+		"german": "Superautobahnen",
+	},
+	"constructionCategory_rails": {
+		"english": "Rails",
+		"german": "Gleise",
+	},
+	"constructionCategory_pipes": {
+		"english": "Pipes",
+		"german": "Rohre",
+	},
+	"constructionCategory_fundamentals": {
+		"english": "Fundamentals",
+		"german": "Wichtige Gebäude",
+	},
+	"constructionCategory_mines": {
+		"english": "Mines",
+		"german": "Minen",
+	},
+	"constructionCategory_smallMines": {
+		"english": "Small Mines",
+		"german": "Kleine Minen",
+	},
+	"constructionCategory_largeMines": {
+		"english": "Large Mines",
+		"german": "Große Minen",
+	},
+	"constructionCategory_industry": {
+		"english": "Industry",
+		"german": "Industrie",
+	},
+	"constructionCategory_lowTechIndustry": {
+		"english": "Low Tech Industry",
+		"german": "Low-Tech Industrie",
+	},
+	"constructionCategory_midTechIndustry": {
+		"english": "Mid Tech Industry",
+		"german": "Mid-Tech Industry",
+	},
+	"constructionCategory_highTechIndustry": {
+		"english": "High Tech Industry",
+		"german": "High-Tech Industry",
+	},
+	"constructionCategory_gasAndLiquids": {
+		"english": "Gas and Liquids",
+		"german": "Gase und Flüssigkeiten",
+	},
+	"constructionCategory_tanks": {
+		"english": "Tanks",
+		"german": "Tanks",
+	},
+	"constructionCategory_terraforming": {
+		"english": "Terraforming",
+		"german": "Terraforming",
+	},
+	"constructionCategory_transport": {
+		"english": "Transport",
+		"german": "Transport",
+	},
+	"constructionCategory_miscellaneous": {
+		"english": "Miscellaneous",
+		"german": "Sonstiges",
+	},
+	"constructionCategory_science": {
+		"english": "Science",
+		"german": "Wissenschaft",
+	},
+	"constructionCategory_food": {
+		"english": "Food",
+		"german": "Essen",
+	},
+	"constructionCategory_services": {
+		"english": "Services",
+		"german": "Gemeinschaftsgebäude",
+	},
+	"constructionCategory_parks": {
+		"english": "Parks",
+		"german": "Parks",
+	},
+	"constructionCategory_entertainment": {
+		"english": "Entertainment",
+		"german": "Unterhaltung",
+	},
+	"constructionCategory_decoration": {
+		"english": "Decoration",
+		"german": "Dekoration",
+	},
+	"constructionCategory_sights": {
+		"english": "Sights",
+		"german": "Sehenswürdigkeiten",
+	},
+	"constructionCategory_signs": {
+		"english": "Signs",
+		"german": "Schilder",
+	},
+	"constructionCategory_fences": {
+		"english": "Fences",
+		"german": "Zäune",
+	},
+	"constructionCategory_pixelBuildings": {
+		"english": "Pixel Signs",
+		"german": "Pixelschilder",
+	},
+	"constructionCategory_power": {
+		"english": "Power",
+		"german": "Power",
+	},
+
+	
+}
