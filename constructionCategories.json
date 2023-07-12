@@ -3,126 +3,157 @@
 	"constructionCategory_roads": {
 		"english": "Roads",
 		"german": "Straßen",
+		"italian": "Strade",
 	},
 	"constructionCategory_lowTierRoads": {
 		"english": "Cheap Roads",
 		"german": "Einfache Straßen",
+		"italian": "Strade Mediocri",
 	},
 	"constructionCategory_midTierRoads": {
 		"english": "Normal Roads",
 		"german": "Normale Straßen",
+		"italian": "Strade Normali",
 	},
 	"constructionCategory_highwayRoads": {
 		"english": "Highways",
 		"german": "Autobahnen",
+		"italian": "Autostrade",
 	},
 	"constructionCategory_superhighwayRoads": {
 		"english": "Superhighways",
 		"german": "Superautobahnen",
+		"italian": "Autostrade veloci",
 	},
 	"constructionCategory_rails": {
 		"english": "Rails",
 		"german": "Gleise",
+		"italian": "Binari",
 	},
 	"constructionCategory_pipes": {
 		"english": "Pipes",
 		"german": "Rohre",
+		"italian": "Tubazioni",
 	},
 	"constructionCategory_fundamentals": {
 		"english": "Fundamentals",
 		"german": "Wichtige Gebäude",
+		"italian": "Fondamentali",
 	},
 	"constructionCategory_mines": {
 		"english": "Mines",
 		"german": "Minen",
+		"italian": "Miniere",
 	},
 	"constructionCategory_smallMines": {
 		"english": "Small Mines",
 		"german": "Kleine Minen",
+		"italian": "Miniere Piccole",
 	},
 	"constructionCategory_largeMines": {
 		"english": "Large Mines",
 		"german": "Große Minen",
+		"italian": "Miniere Grandi",
 	},
 	"constructionCategory_industry": {
 		"english": "Industry",
 		"german": "Industrie",
+		"italian": "Industrie",
 	},
 	"constructionCategory_lowTechIndustry": {
 		"english": "Low Tech Industry",
 		"german": "Low-Tech Industrie",
+		"italian": "Industrie Low-Tech",
 	},
 	"constructionCategory_midTechIndustry": {
 		"english": "Mid Tech Industry",
 		"german": "Mid-Tech Industry",
+		"italian": "Industrie Mid-Tech",
 	},
 	"constructionCategory_highTechIndustry": {
 		"english": "High Tech Industry",
 		"german": "High-Tech Industry",
+		"italian": "Industrie High-Tech",
 	},
 	"constructionCategory_gasAndLiquids": {
 		"english": "Gas and Liquids",
 		"german": "Gase und Flüssigkeiten",
+		"italian": "Gas e Liquidi",
 	},
 	"constructionCategory_tanks": {
 		"english": "Tanks",
 		"german": "Tanks",
+		"italian": "Serbatoi",
 	},
 	"constructionCategory_terraforming": {
 		"english": "Terraforming",
 		"german": "Terraforming",
+		"italian": "Terraformazione",
 	},
 	"constructionCategory_transport": {
 		"english": "Transport",
 		"german": "Transport",
+		"italian": "Trasporti",
 	},
 	"constructionCategory_miscellaneous": {
 		"english": "Miscellaneous",
 		"german": "Sonstiges",
+		"italian": "Varie",
 	},
 	"constructionCategory_science": {
 		"english": "Science",
 		"german": "Wissenschaft",
+		"italian": "Scienza",
 	},
 	"constructionCategory_food": {
 		"english": "Food",
 		"german": "Essen",
+		"italian": "Cibo",
 	},
 	"constructionCategory_services": {
-		"english": "Services",
+		"english": "Public Services",
 		"german": "Gemeinschaftsgebäude",
+		"italian": "Servizio Pubblico",
 	},
 	"constructionCategory_parks": {
 		"english": "Parks",
 		"german": "Parks",
+		"italian": "Parchi",
 	},
 	"constructionCategory_entertainment": {
 		"english": "Entertainment",
 		"german": "Unterhaltung",
+		"italian": "Intrattenimento",
 	},
 	"constructionCategory_decoration": {
 		"english": "Decoration",
 		"german": "Dekoration",
+		"italian": "Decorazioni",
 	},
 	"constructionCategory_sights": {
 		"english": "Sights",
 		"german": "Sehenswürdigkeiten",
+		"italian": "Monumenti",
 	},
 	"constructionCategory_signs": {
 		"english": "Signs",
 		"german": "Schilder",
+		"italian": "Cartelli",
 	},
 	"constructionCategory_fences": {
 		"english": "Fences",
 		"german": "Zäune",
+		"italian": "Recinzioni",
 	},
 	"constructionCategory_pixelBuildings": {
 		"english": "Pixel Signs",
 		"german": "Pixelschilder",
+		"italian": "Edifici Pixel",
 	},
 	"constructionCategory_power": {
 		"english": "Power",
 		"german": "Power",
+		"italian": "Energia Elettrica",
 	},
 
 	

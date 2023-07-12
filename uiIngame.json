@@ -3958,13 +3958,16 @@
 	"gracePeriodTitle": {
 		"english": "Grace Period to Fix Your City",
 		"german": "Spielpause um Stadt zu ändern",
+		"italian": "Periodo di Grazia per ribilanciare la tua città",
 	},
 	"gracePeriodDesc": {
-		"english": "Your save has been created in an old version of the game.\n\n You get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitats will not consume resources and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
+		"english": "Your save has been created in an old version of the game.\n\nYou get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitats will not consume resources and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
 		"german": "Dein Spielstand wurde in einer älteren Version des Spiels erstellt.\n\nDu bekommst etwas Zeit um deine Stadt für die neue Version vorzubereiten.\nIn dieser Zeit werden deine Einwohner keine Ressourcen konsumieren  und du kannst keine neuen Technologien erforschen.\n\nKlicke auf diesen Button wenn du bereit bist, normal weiterzuspielen:",
+		"italian": "Il tuo salvataggio è stato creato in una versione del gioco precedente.\n\nHai a disposizione del tempo per ribilanciare la città secondo i nuovi parametri.\nDurante il Periodo di Grazia, i tuoi Habitat non consumano risorse e non è possibile sbloccare nuove tecnologie.\n\nFai click su questo pulsante quando sarai pronto/a a giocare normalmente.",
 	},
 	"gracePeriodButton": {
 		"english": "Continue Game",
 		"german": "Weiterspielen",
+		"italian": "Riprendi la Partita",
 	},
 }
