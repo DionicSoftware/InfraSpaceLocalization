@@ -1459,6 +1459,7 @@
   },
   "park": {//all parks name changed - Need to be translated again in every language
     "english": "Big City Park",
+    "german": "Großer Stadtpark",
     "italian": "Grande Parco Cittadino",
   },
   "arena": {
@@ -2237,6 +2238,7 @@
   },
   "decorativePark1": {
     "english": "Classic Park",
+    "german": "Klassischer Park",
     "italian": "Parco Classico",
   },
   "decorativePark2": {
@@ -2401,14 +2403,17 @@
 },
 "decorativePark3": {
     "english": "Small Modern Park",
+    "german": "Kleiner moderner Park",
     "italian": "Piccolo Parco Moderno",
 },
 "decorativePark4": {
     "english": "Small Classic Park",
+    "german": "Kleiner klassischer Park",
     "italian": "Piccolo Parco Classico",
 },
 "decorativePark5": {
     "english": "Classic mini-Park",
+    "german": "Klassischer Mini-Park",
     "italian": "Mini Parco Classico",
 },
 }
