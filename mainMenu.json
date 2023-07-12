@@ -4337,4 +4337,13 @@
 	    "scotsgaelic": "Air a chomasachadh",
 		"russian": "Включено",
     },
+
+	"update": {
+		"english": "Update",
+		"german": "Aktualisieren",
+	},
+	"upload": {
+		"english": "Upload",
+		"german": "Hochladen",
+	},
 }
