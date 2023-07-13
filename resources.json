@@ -1257,7 +1257,7 @@
 	},
 	"resource_superconductor": {
         "english": "Superconductor",
-        "german": "Iridium Kondensator",
+        "german": "Supraleiter",
 		"italian": "Superconduttore",
 	},
 	"resource_chemicals": {
@@ -1282,7 +1282,7 @@
 	},
 	"resource_heatExchanger": {
         "english": "Heat Exchanger",
-        "german": "Dielektrisches Material",
+        "german": "Wärmetauscher",
 		"italian": "Scambiatore di Calore",
 	},
 	"resource_sensor": {
