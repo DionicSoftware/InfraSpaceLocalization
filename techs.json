@@ -1441,35 +1441,42 @@
     "english": "Border Fence",
     "german": "Grenzzäune",
     "italian": "Recinto",
+    "thai": "รั้วขอบเขต",
   },
   "tech_pixelBuilding": {
     "english": "Pixel Building",
     "german": "Pixel Gebäude",
     "italian": "Edifici-pixel",
+    "thai": "อาคารพิกเซล",
   },
   "tech_statue": {
     "english": "Unique Statues",
     "german": "Einzigartige Statuen",
     "italian": "Statue uniche",
+    "thai": "รูปปั้นที่มีเอกลักษณ์",
   },
   "tech_sightSeeing1": {
     "english": "Sightseeing Constructions A",
     "german": "Besichtigungskonstruktionen A",
     "italian": "Attrazione turistica A",
+    "thai": "การก่อสร้างสถานที่ท่องเที่ยว A",
   },
   "tech_sightSeeing2": {
     "english": "Sightseeing Constructions B",
     "german": "Besichtigungskonstruktionen B",
     "italian": "Attrazione turistica B",
+    "thai": "การก่อสร้างสถานที่ท่องเที่ยว B",
   },
   "tech_decorativeParks": {
     "english": "Decorative Parks",
     "german": "Dekorative Parks",
     "italian": "Parchi decorativi",
+    "thai": "สวนตกแต่ง",
   },
   "tech_heatExchanger": {
     "english": "Heat Exchangers",
     "german": "Wärmetauscher",
     "italian": "Scambiatori di calore",
+    "thai": "เครื่องแลกเปลี่ยนความร้อน",
   },
 }
