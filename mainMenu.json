@@ -4341,9 +4341,11 @@
 	"update": {
 		"english": "Update",
 		"german": "Aktualisieren",
+		"thai": "อัปเดต",
 	},
 	"upload": {
 		"english": "Upload",
 		"german": "Hochladen",
+		"thai": "อัปโหลด",
 	},
 }
