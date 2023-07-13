@@ -3970,4 +3970,9 @@
 		"german": "Weiterspielen",
 		"italian": "Riprendi la Partita",
 	},
+	"color": {
+		"english": "Color Picker",
+		"german": "Farbwähler",
+		"italian": "Selettore Colore",
+	},
 }
