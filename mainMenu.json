@@ -4337,15 +4337,16 @@
 	    "scotsgaelic": "Air a chomasachadh",
 		"russian": "Включено",
     },
-
-	"update": {
-		"english": "Update",
-		"german": "Aktualisieren",
-		"thai": "อัปเดต",
-	},
-	"upload": {
-		"english": "Upload",
-		"german": "Hochladen",
-		"thai": "อัปโหลด",
-	},
+    "update": {
+        "english": "Update",
+        "german": "Aktualisieren",
+        "thai": "อัปเดต",
+        "japanese": "更新",
+    },
+    "upload": {
+        "english": "Upload",
+        "german": "Hochladen",
+        "thai": "อัปโหลด",
+        "japanese": "アップロード",
+    },
 }
