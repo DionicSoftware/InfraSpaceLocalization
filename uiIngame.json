@@ -3996,4 +3996,7 @@
 		"thai": "สี",
 		"japanese": "色",
 	},
+  "noSpaceshipPartSelected": {
+    "english": "No Spaceship Part Selected"
+  }
 }
