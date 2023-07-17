@@ -5,6 +5,7 @@
 		"italian": "Strade",
 		"thai": "ถนน",
 		"japanese": "道路",
+		"turkish": "Yol",
 	},
 	"constructionCategory_lowTierRoads": {
 		"english": "Cheap Roads",
@@ -12,6 +13,7 @@
 		"italian": "Strade Mediocri",
 		"thai": "ถนนราคาถูก",
 		"japanese": "安価な道路",
+		"turkish": "Ucuz Yollar",
 	},
 	"constructionCategory_midTierRoads": {
 		"english": "Normal Roads",
@@ -19,6 +21,7 @@
 		"italian": "Strade Normali",
 		"thai": "ถนนธรรมดา",
 		"japanese": "普通の道路",
+		"turkish": "Normal Yollar",
 	},
 	"constructionCategory_highwayRoads": {
 		"english": "Highways",
@@ -26,6 +29,7 @@
 		"italian": "Autostrade",
 		"thai": "ทางหลวง",
 		"japanese": "高速道路",
+		"turkish": "Otoban",
 	},
 	"constructionCategory_superhighwayRoads": {
 		"english": "Superhighways",
@@ -33,6 +37,7 @@
 		"italian": "Autostrade veloci",
 		"thai": "ทางด่วน",
 		"japanese": "アウトバーン",
+		"turkish": "Süperotoban",
 	},
 	"constructionCategory_rails": {
 		"english": "Rails",
@@ -40,6 +45,7 @@
 		"italian": "Binari",
 		"thai": "ราง",
 		"japanese": "線路",
+		"turkish": "Demiryolu",
 	},
 	"constructionCategory_pipes": {
 		"english": "Pipes",
@@ -47,6 +53,7 @@
 		"italian": "Tubazioni",
 		"thai": "ท่อ",
 		"japanese": "パイプ",
+		"turkish": "Boru",
 	},
 	"constructionCategory_fundamentals": {
 		"english": "Fundamentals",
@@ -54,6 +61,7 @@
 		"italian": "Fondamentali",
 		"thai": "ปัจจัยพื้นฐาน",
 		"japanese": "基本",
+		"turkish": "Temel Bilgiler",
 	},
 	"constructionCategory_mines": {
 		"english": "Mines",
@@ -61,6 +69,7 @@
 		"italian": "Miniere",
 		"thai": "เหมืองแร่",
 		"japanese": "採掘",
+		"turkish": "Maden",
 	},
 	"constructionCategory_smallMines": {
 		"english": "Small Mines",
@@ -68,6 +77,7 @@
 		"italian": "Miniere Piccole",
 		"thai": "เหมืองแร่ขนาดเล็ก",
 		"japanese": "小型採掘機",
+		"turkish": "Küçük Maden",
 	},
 	"constructionCategory_largeMines": {
 		"english": "Large Mines",
@@ -75,6 +85,7 @@
 		"italian": "Miniere Grandi",
 		"thai": "เหมืองแร่ขนาดใหญ่",
 		"japanese": "大型採掘機",
+		"turkish": "Büyük Maden",
 	},
 	"constructionCategory_industry": {
 		"english": "Industry",
@@ -82,6 +93,7 @@
 		"italian": "Industrie",
 		"thai": "อุตสาหกรรม",
 		"japanese": "工業施設",
+		"turkish": "Endüstri",
 	},
 	"constructionCategory_lowTechIndustry": {
 		"english": "Low Tech Industry",
@@ -89,6 +101,7 @@
 		"italian": "Industrie Low-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับต่ำ",
 		"japanese": "低技術工業",
+		"turkish": "Düşük Teknoloji Endüstrisi",
 	},
 	"constructionCategory_midTechIndustry": {
 		"english": "Mid Tech Industry",
@@ -96,6 +109,7 @@
 		"italian": "Industrie Mid-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับกลาง",
 		"japanese": "中技術工業",
+		"turkish": "Orta Teknoloji Endüstrisi",
 	},
 	"constructionCategory_highTechIndustry": {
 		"english": "High Tech Industry",
@@ -103,6 +117,7 @@
 		"italian": "Industrie High-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับสูง",
 		"japanese": "高技術工業",
+		"turkish": "Yüksek Teknoloji Endüstrisi",
 	},
 	"constructionCategory_gasAndLiquids": {
 		"english": "Gas and Liquids",
@@ -110,6 +125,7 @@
 		"italian": "Gas e Liquidi",
 		"thai": "แก๊สและของเหลว",
 		"japanese": "気体と液体",
+		"turkish": "Gaz ve Sıvılar",
 	},
 	"constructionCategory_tanks": {
 		"english": "Tanks",
@@ -117,6 +133,7 @@
 		"italian": "Serbatoi",
 		"thai": "ถัง",
 		"japanese": "タンク",
+		"turkish": "Tank",
 	},
 	"constructionCategory_terraforming": {
 		"english": "Terraforming",
@@ -124,6 +141,7 @@
 		"italian": "Terraformazione",
 		"thai": "ปรับปรุงสภาพโลก",
 		"japanese": "テラフォーミング",
+		"turkish": "Dünyalaştırma",
 	},
 	"constructionCategory_transport": {
 		"english": "Transport",
@@ -131,6 +149,7 @@
 		"italian": "Trasporti",
 		"thai": "ขนส่ง",
 		"japanese": "輸送",
+		"turkish": "Taşıt",
 	},
 	"constructionCategory_miscellaneous": {
 		"english": "Miscellaneous",
@@ -138,6 +157,7 @@
 		"italian": "Varie",
 		"thai": "เบ็ดเตล็ด",
 		"japanese": "その他",
+		"turkish": "Çeşitli",
 	},
 	"constructionCategory_science": {
 		"english": "Science",
@@ -145,6 +165,7 @@
 		"italian": "Scienza",
 		"thai": "วิทยาศาสตร์",
 		"japanese": "科学",
+		"turkish": "Fen",
 	},
 	"constructionCategory_food": {
 		"english": "Food",
@@ -152,6 +173,7 @@
 		"italian": "Cibo",
 		"thai": "อาหาร",
 		"japanese": "食料",
+		"turkish": "Yemek",
 	},
 	"constructionCategory_services": {
 		"english": "Public Services",
@@ -159,6 +181,7 @@
 		"italian": "Servizio Pubblico",
 		"thai": "บริการสาธารณะ",
 		"japanese": "公共サービス",
+		"turkish": "Toplum Servisi",
 	},
 	"constructionCategory_parks": {
 		"english": "Parks",
@@ -166,6 +189,7 @@
 		"italian": "Parchi",
 		"thai": "สวนสาธารณะ",
 		"japanese": "公園",
+		"turkish": "Park",
 	},
 	"constructionCategory_entertainment": {
 		"english": "Entertainment",
@@ -173,6 +197,7 @@
 		"italian": "Intrattenimento",
 		"thai": "ความบันเทิง",
 		"japanese": "娯楽",
+		"turkish": "Eğlence",
 	},
 	"constructionCategory_decoration": {
 		"english": "Decoration",
@@ -180,6 +205,7 @@
 		"italian": "Decorazioni",
 		"thai": "ตกแต่ง",
 		"japanese": "装飾",
+		"turkish": "Dekorasyon",
 	},
 	"constructionCategory_sights": {
 		"english": "Sights",
@@ -187,6 +213,7 @@
 		"italian": "Monumenti",
 		"thai": "สถานที่ท่องเที่ยว",
 		"japanese": "観光地",
+		"turkish": "Manzaralar",
 	},
 	"constructionCategory_signs": {
 		"english": "Signs",
@@ -194,6 +221,7 @@
 		"italian": "Cartelli",
 		"thai": "ป้าย",
 		"japanese": "看板",
+		"turkish": "Tabela",
 	},
 	"constructionCategory_fences": {
 		"english": "Fences",
@@ -201,6 +229,7 @@
 		"italian": "Recinzioni",
 		"thai": "รั้ว",
 		"japanese": "フェンス",
+		"turkish": "Çit",
 	},
 	"constructionCategory_pixelBuildings": {
 		"english": "Pixel Signs",
@@ -208,6 +237,7 @@
 		"italian": "Edifici Pixel",
 		"thai": "ป้ายพิกเซล",
 		"japanese": "ピクセル看板",
+		"turkish": "Piksel Tabela",
 	},
 	"constructionCategory_power": {
 		"english": "Power",
@@ -215,5 +245,6 @@
 		"italian": "Energia Elettrica",
 		"thai": "พลังงาน",
 		"japanese": "発電",
+		"turkish": "Enerji",
 	},
 }

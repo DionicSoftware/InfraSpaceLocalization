@@ -1464,6 +1464,7 @@
     "german": "Großer Stadtpark",
     "italian": "Grande Parco Cittadino",
     "japanese": "大型都市公園",
+    "turkish": "Büyük Sehir Parkı",
   },
   "arena": {
     "english": "Stadium",
@@ -2271,7 +2272,7 @@
     "thai": "รั้ว",
     "italian": "Recinzione A",
     "scotsgaelic": "Feansa",
-    "turkish": "Çit",
+    "turkish": "Çit A",
     "russian": "Забор",
   },
   "fence2": {
@@ -2288,7 +2289,7 @@
     "thai": "รั้ว",
     "italian": "Recinzione B",
     "scotsgaelic": "Feansa",
-    "turkish": "Çit",
+    "turkish": "Çit B",
     "russian": "Забор",
   },
   "panoramicWheel": {
@@ -2331,6 +2332,7 @@
     "thai": "ถังน้ำมัน",
     "japanese": "原油タンク",
     "russian": "Цистерна нефти",
+    "turkish": ""
   },
   "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
