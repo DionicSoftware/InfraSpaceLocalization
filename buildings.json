@@ -2330,6 +2330,7 @@
     "italian": "Serbatoio di Petrolio",
     "thai": "ถังน้ำมัน",
     "japanese": "原油タンク",
+    "russian": "Цистерна нефти",
   },
   "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
@@ -2337,6 +2338,7 @@
     "italian": "Estrattore di Petrolio",
     "thai": "เครื่องสกัดน้ำมันดิบ",
     "japanese": "原油抽出機",
+    "russian": "Экстрактор нефти",
   },
   "largeCrudeOilExtractor": {
     "english": "Large Crude Oil Extractor",
@@ -2344,6 +2346,7 @@
     "italian": "Grande Estrattore di Petrolio",
     "thai": "เครื่องสกัดน้ำมันดิบขนาดใหญ่",
     "japanese": "大型原油抽出機",
+    "russian": "Большой экстрактор нефти",
   },
   "stemCellLab": {
     "english": "Stem Cell Lab",
@@ -2358,6 +2361,7 @@
     "italian": "Laboratorio Chimico",
     "thai": "ห้องทดลองเคมีภัณฑ์",
     "japanese": "化学研究所",
+    "russian": "Лаборатория химикатов",
   },
   "industrialChemicalsLab": {
     "english": "Industrial Chemicals Lab",
@@ -2365,6 +2369,7 @@
     "italian": "Laboratorio Chimico Industriale",
     "thai": "ห้องทดลองเคมีภัณฑ์อุตสาหกรรม",
     "japanese": "工業化学研究所",
+    "russian": "Лаборатория индустриальных химикатов",
   },
   "plasticFactory": {
     "english": "Plastic Factory",
@@ -2372,6 +2377,7 @@
     "italian": "Fabbrica di Plastica",
     "thai": "โรงงานพลาสติก",
     "japanese": "プラスチック工場",
+    "russian": "Завод пластика",
   },
   "sensorFactory": {
     "english": "Sensor Factory",
@@ -2379,6 +2385,7 @@
     "italian": "Fabbrica di Sensori",
     "thai": "โรงงานพลาสติกอุปกรณ์ตรวจจับ",
     "japanese": "センサー工場",
+    "russian": "Завод сенсоров",
   },
   "copperMill": {
     "english": "Copper Mill",
@@ -2393,6 +2400,7 @@
     "italian": "Impianto di Arricchimento dell'Uranio",
     "thai": "โรงงานยูเรเนียมสารเจือปน",
     "japanese": "ウラン濃縮工場",
+    "russian": "Завод обогащенного урана",
   },
   "heatExchangerFactory": {
     "english": "Heat Exchanger Factory",
@@ -2400,6 +2408,7 @@
     "italian": "Fabbrica di Scambiatori di Calore",
     "thai": "โรงงานเครื่องแลกเปลี่ยนความร้อน",
     "japanese": "熱交換器工場",
+    "russian": "Завод тепло-обменников",
   },
   "waterDistillery": {
     "english": "Water Distillery",
@@ -2414,6 +2423,7 @@
     "italian": "Piccolo deposito di Materiali da costruzione",
     "thai": "โรงเก็บวัสดุก่อสร้างขนาดเล็ก",
     "japanese": "建設材料の小型倉庫",
+    "russian": "Малое хранилище строй-материалов",
   },
   "pyramid": {
     "english": "Pyramid",
@@ -2421,6 +2431,7 @@
     "italian": "Piramide", 
     "thai": "พีระมิด",
     "japanese": "ピラミッド",
+    "russian": "Пирамида",
   },
   "holoCinema": {
     "english": "Holo Cinema",
@@ -2428,6 +2439,7 @@
     "italian": "Holo-cinema", 
     "thai": "โรงภาพยนตร์โฮโล",
     "japanese": "ホロ映画館",
+    "russian": "Голо-кинотеатр",
   },
   "statue1": {
     "english": "Statue World",
