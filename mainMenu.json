@@ -4342,20 +4342,24 @@
         "german": "Aktualisieren",
         "thai": "อัปเดต",
         "japanese": "更新",
+		"turkish": "Güncelleme",
     },
     "upload": {
         "english": "Upload",
         "german": "Hochladen",
         "thai": "อัปโหลด",
         "japanese": "アップロード",
+		"turkish": "Yükle",
     },
     "gameCrashTitle": {
       "english": "Oh No! Your Game Has Crashed",
+	  "turkish": "Hayır! Oyununuz Çöktü",
     },
     "gameCrashDesc": {
       "english": "Don't worry we have saved your game in \"Crash-Save\".sav\n\nWe apologize for the crash, we are working on a fix. \n\nIt would mean a lot to us if you could help us by sending us your broken save (also \"Crash-Save\".sav), player.log, player-prev.log to daniel@dionicsoftware.com.\n\nYou can find the saves and logs by going to options -> open saves folder or you can click on the first button:",
-    },
-    "openSaveFolder": {
+	},
+	  "openSaveFolder": {
       "english": "Open Save Folder",
+	  "turkish": "Kaydetme Klasörünü Aç",
     }
 }
