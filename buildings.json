@@ -2332,6 +2332,7 @@
     "thai": "ถังน้ำมัน",
     "japanese": "原油タンク",
     "russian": "Цистерна нефти",
+    "turkish": "Işlenmemiş Petrol Tankı",
   },
   "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
@@ -2340,6 +2341,7 @@
     "thai": "เครื่องสกัดน้ำมันดิบ",
     "japanese": "原油抽出機",
     "russian": "Экстрактор нефти",
+    "turkish": "Işlenmemiş Petrol Çıkarıcı",
   },
   "largeCrudeOilExtractor": {
     "english": "Large Crude Oil Extractor",
@@ -2348,6 +2350,7 @@
     "thai": "เครื่องสกัดน้ำมันดิบขนาดใหญ่",
     "japanese": "大型原油抽出機",
     "russian": "Большой экстрактор нефти",
+    "turkish": "Büyük Işlenmemiş Petrol Çıkarıcı",
   },
   "stemCellLab": {
     "english": "Stem Cell Lab",
@@ -2355,6 +2358,7 @@
     "italian": "Laboratorio di Cellule Staminali",
     "thai": "ห้องทดลองเซลล์ต้นกำเนิด",
     "japanese": "幹細胞研究所",
+    "turkish": "Kök Hücre Laboratuvarı",
   },
   "chemicalsLab": {
     "english": "Chemicals Lab",
