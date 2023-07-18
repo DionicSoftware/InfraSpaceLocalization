@@ -3965,6 +3965,7 @@
 		"thai": "ใช้ไปล่าสุด",
 		"italian": "Usato di recente",
 		"russian": "Последнее использование",
+		"turkish": "Son Zamanlarda Kullanılmış",
 	},
 
 
@@ -3974,6 +3975,7 @@
 		"italian": "Periodo di Grazia per ribilanciare la tua città",
 		"thai": "ระยะเวลาเผื่อเพื่อแก้ไขเมืองของคุณ",
 		"japanese": "都市を修正するための猶予期間",
+		"turkish": "Şehrinizi Düzeltmek İçin Ek Süre",
 	},
 	"gracePeriodDesc": {
 		"english": "Your save has been created in an old version of the game.\n\nYou get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitants will not move in or out and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
@@ -3988,6 +3990,7 @@
 		"italian": "Riprendi la Partita",
 		"thai": "เล่นเกมต่อ",
 		"japanese": "ゲーム再開",
+		"turkish": "Oyuna Devam Et",
 	},
 	"color": {
 		"english": "Color",
@@ -3995,5 +3998,6 @@
 		"italian": "Colore",
 		"thai": "สี",
 		"japanese": "色",
+		"turkish": "Renk",
 	},
 }
