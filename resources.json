@@ -1228,7 +1228,7 @@
         "hungarian": "Energia",
         "thai": "พลังงาน",
         "arabic": "طاقة",
-        "turkish":"Elektrik",
+        "turkish":"Enerji",
         "romanian": "Energie",
         "danish": "Elektricitet",
         "greek": "Ενέργεια",
@@ -1251,6 +1251,7 @@
         "italian": "Plastica",
         "thai": "พลาสติก",
         "japanese": "プラスチック",
+        "turkish": "Plastik",
     },
     "resource_reinforcedIridium": {
         "english": "Reinforced Iridium",
@@ -1258,6 +1259,7 @@
         "italian": "Iridio Rinforzato",
         "thai": "อิริเดียมเสริมแกร่ง",
         "japanese": "強化イリジウム",
+        "turkish": "Güçlendirilmiş İridyum",
     },
     "resource_superconductor": {
         "english": "Superconductor",
@@ -1265,6 +1267,7 @@
         "italian": "Superconduttore",
         "thai": "วัสดุตัวนำยวดยิ่ง",
         "japanese": "超伝導材料",
+        "turkish": "Süper İletken",
     },
     "resource_chemicals": {
         "english": "Chemicals",
@@ -1272,6 +1275,7 @@
         "italian": "Prodotti Chimici",
         "thai": "เคมีภัณฑ์",
         "japanese": "化学製品",
+        "turkish": "Kimyasallar",
     },
     "resource_industrialChemicals": {
         "english": "Industrial Chemicals",
@@ -1279,6 +1283,7 @@
         "italian": "Prodotti Chimici Industriali",
         "thai": "เคมีภัณฑ์อุตสาหกรรม",
         "japanese": "工業用化学製品",
+        "turkish": "Endüstriyel Kimyasallar",
     },
     "resource_distilledWater": {
         "english": "Distilled Water",
@@ -1286,6 +1291,7 @@
         "italian": "Acqua Distillata",
         "thai": "น้ำกลั่น",
         "japanese": "蒸留水",
+        "turkish": "Arıtılmış Su",
     },
     "resource_copperBar": {
         "english": "Copper Bar",
@@ -1293,6 +1299,7 @@
         "italian": "Lingotto di Rame",
         "thai": "แท่งทองแดง",
         "japanese": "銅の延べ棒",
+        "turkish": "Bakır Çubuk",
     },
     "resource_heatExchanger": {
         "english": "Heat Exchanger",
@@ -1300,6 +1307,7 @@
         "italian": "Scambiatore di Calore",
         "thai": "เครื่องแลกเปลี่ยนความร้อน",
         "japanese": "熱交換器",
+        "turkish": "Isı Eşanjörü",
     },
     "resource_sensor": {
         "english": "Sensor",
@@ -1307,6 +1315,7 @@
         "italian": "Sensore",
         "thai": "อุปกรณ์ตรวจจับ",
         "japanese": "センサー",
+        "turkish": "Sensör",
     },
     "resource_stemCell": {
         "english": "Stem Cell",
@@ -1314,6 +1323,7 @@
         "italian": "Cellule Staminali",
         "thai": "เซลล์ต้นกำเนิด",
         "japanese": "幹細胞",
+        "turkish": "Kök Hücre",
     },
     "resource_crudeOil": {
         "english": "Crude Oil",
@@ -1321,6 +1331,7 @@
         "italian": "Petrolio",
         "thai": "น้ำมันดิบ",
         "japanese": "原油",
+        "turkish": "Işlenmemiş Petrol",
     },
     "resource_enrichedUranium": {
         "english": "Enriched Uranium",
@@ -1328,5 +1339,6 @@
         "italian": "Uranio Arricchito",
         "thai": "ยูเรเนียมสารเจือปน",
         "japanese": "濃縮ウラン",
+        "turkish": "Zenginleştirilmiş Uranyum",
     },
 }
