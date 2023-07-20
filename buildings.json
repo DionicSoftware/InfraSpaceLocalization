@@ -517,6 +517,7 @@
     "german": "Fabrik für verstärktes Iridium",
     "italian": "Fabbrica di Iridio Rinforzato",
     "japanese": "強化イリジウム工場",
+    "thai":"โรงงานอิริเดียมเสริมแกร่ง"
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -535,7 +536,7 @@
     "dutch": "Holobeeldschermfabriek",
     "portuguese": "Fábrica de monitore holográfico",
     "hungarian": "Holo kijelző gyár",
-    "thai": "โรงงานจอแสดงผลโฮโลแกรม",
+    "thai": "โรงงานจอโฮโลแกรม",
     "turkish": "Holo-Ekran Fabrikası",
     "korean": "입체화면 공장",
     "romanian": "Fabrică de Holo-Afișaje",
@@ -793,6 +794,7 @@
     "german": "Fabrik für Supraleiter",
     "italian": "Fabbrica di superconduttori",
     "japanese": "超伝導材料工場",
+    "thai": "โรงงานวัสดุตัวนำยวดยิ่ง",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -1465,6 +1467,7 @@
     "italian": "Grande Parco Cittadino",
     "japanese": "大型都市公園",
     "turkish": "Büyük Sehir Parkı",
+    "thai":"สวนเมืองใหญ่"
   },
   "arena": {
     "english": "Stadium",
@@ -2257,36 +2260,40 @@
     "german": "Klassischer Park",
     "italian": "Parco Classico",
     "japanese": "古典的な公園",
+    "thai": "สวนคลาสสิก",
   },
   "decorativePark2": {
     "english": "Modern Park",
     "german": "Moderner Park",
     "italian": "Parco Moderno",
     "japanese": "現代的な公園",
+    "thai": "สวนทันสมัย",
   },
   "fence1": { //would be better to add "A" in other languages as well
     "english": "Fence A",
     "german": "Zaun A",
     "french": "Clôture",
     "japanese": "フェンス",
-    "thai": "รั้ว",
+    "thai": "รั้ว ก",
     "italian": "Recinzione A",
     "scotsgaelic": "Feansa",
     "turkish": "Çit A",
     "russian": "Забор",
+    
   },
   "fence2": {
     "english": "Fence Gate",
     "german": "Zaun mit Tor",
     "italian": "Recinzione con Apertura",
     "japanese": "フェンスのゲート",
+    "thai": "ประตูรั้ว",
   },
   "fence3": { //would be better to add "B" in other languages as well
     "english": "Fence B",
     "german": "Zaun B",
     "french": "Clôture",
     "japanese": "フェンス",
-    "thai": "รั้ว",
+    "thai": "รั้ว ข",
     "italian": "Recinzione B",
     "scotsgaelic": "Feansa",
     "turkish": "Çit B",
