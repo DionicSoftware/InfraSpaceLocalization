@@ -1116,8 +1116,10 @@
 	},
   "tutorialMessage_research_title": {
     "english": "Research",
+	"thai":"วิจัย",
   },
   "tutorialMessage_research_desc": {
     "english": "Press this button to open the Tech-Tree.",
+	"thai":"กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
   },
 }
