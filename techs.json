@@ -133,7 +133,7 @@
     "hungarian": "Háztartási gépek",
     "thai": "เครื่องใช้ในบ้าน",
     "arabic": "أجهزة منزلية",
-    "turkish": "Ev ALeti",
+    "turkish": "Ev Aleti",
     "romanian": "Electrocasnice",
     "danish": "Hvidevarer",
     "greek": "Οικιακές Συσκευές",
@@ -458,7 +458,7 @@
     "hungarian": "Metán erőmű",
     "czech": "Elektrárny na metan",
     "ukrainian": "Елекростанція на метані",
-    "turkish": "Methan'dan elektrik",
+    "turkish": "Methan'dan Elektrik",
     "chinese": "天然气发电",
   },
   "tech_parks": { //IDK why techology, that give us PARK (cmon, it already named as "tech_parks") names as "Large Buildings". Maybe, "Parks" will be better as title??
@@ -929,7 +929,7 @@
     "hungarian": "Magassebességű sín",
     "farsi": "ریل سرعت بالا",
     "japanese": "高速レール",
-    "turkish": "Yüksek Hızlı ray",
+    "turkish": "Yüksek Hızlı Ray",
     "chinese": "高速铁路",
   },
   "tech_lightningRail": {
@@ -949,7 +949,7 @@
     "hungarian": "Villámsínek",
     "farsi": "ریل سرعت نور",
     "japanese": "超高速レール",
-    "turkish": "Çok yüksek hızlı ray",
+    "turkish": "Çok Yüksek Hızlı Ray",
     "chinese": "超高速铁路",
   },
   "tech_superhighways": {
@@ -1443,6 +1443,7 @@
     "italian": "Recinto",
     "thai": "รั้วขอบเขต",
     "japanese": "フェンス",
+    "turkish": "Sınır Çiti",
   },
   "tech_pixelBuilding": {
     "english": "Pixel Building",
@@ -1450,6 +1451,7 @@
     "italian": "Edifici-pixel",
     "thai": "อาคารพิกเซล",
     "japanese": "ピクセル建造物",
+    "turkish": "Piksel Inşaat",
   },
   "tech_statue": {
     "english": "Unique Statues",
@@ -1457,6 +1459,7 @@
     "italian": "Statue uniche",
     "thai": "รูปปั้นที่มีเอกลักษณ์",
     "japanese": "独特な彫像",
+    "turkish": "Eşsiz Heykeller",
   },
   "tech_sightSeeing1": {
     "english": "Sightseeing Constructions A",
@@ -1464,6 +1467,7 @@
     "italian": "Attrazione turistica A",
     "thai": "การก่อสร้างสถานที่ท่องเที่ยว A",
     "japanese": "観光施設A",
+    "turkish": "Gezi İnşaatları A",
   },
   "tech_sightSeeing2": {
     "english": "Sightseeing Constructions B",
@@ -1471,6 +1475,7 @@
     "italian": "Attrazione turistica B",
     "thai": "การก่อสร้างสถานที่ท่องเที่ยว B",
     "japanese": "観光施設B",
+    "turkish": "Gezi İnşaatları B",
   },
   "tech_decorativeParks": {
     "english": "Decorative Parks",
@@ -1478,6 +1483,7 @@
     "italian": "Parchi decorativi",
     "thai": "สวนตกแต่ง",
     "japanese": "装飾用の公園",
+    "turkish": "Dekoratif Parklar",
   },
   "tech_heatExchanger": {
     "english": "Heat Exchangers",
@@ -1485,6 +1491,7 @@
     "italian": "Scambiatori di calore",
     "thai": "เครื่องแลกเปลี่ยนความร้อน",
     "japanese": "熱交換器",
+    "turkish": "Isı Eşanjörleri",
   },
-
+  
 }

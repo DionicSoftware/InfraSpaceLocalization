@@ -1464,6 +1464,7 @@
     "german": "Großer Stadtpark",
     "italian": "Grande Parco Cittadino",
     "japanese": "大型都市公園",
+    "turkish": "Büyük Sehir Parkı",
   },
   "arena": {
     "english": "Stadium",
@@ -2271,7 +2272,7 @@
     "thai": "รั้ว",
     "italian": "Recinzione A",
     "scotsgaelic": "Feansa",
-    "turkish": "Çit",
+    "turkish": "Çit A",
     "russian": "Забор",
   },
   "fence2": {
@@ -2288,7 +2289,7 @@
     "thai": "รั้ว",
     "italian": "Recinzione B",
     "scotsgaelic": "Feansa",
-    "turkish": "Çit",
+    "turkish": "Çit B",
     "russian": "Забор",
   },
   "panoramicWheel": {
@@ -2331,6 +2332,7 @@
     "thai": "ถังน้ำมัน",
     "japanese": "原油タンク",
     "russian": "Цистерна нефти",
+    "turkish": "Işlenmemiş Petrol Tankı",
   },
   "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
@@ -2339,6 +2341,7 @@
     "thai": "เครื่องสกัดน้ำมันดิบ",
     "japanese": "原油抽出機",
     "russian": "Экстрактор нефти",
+    "turkish": "Işlenmemiş Petrol Çıkarıcı",
   },
   "largeCrudeOilExtractor": {
     "english": "Large Crude Oil Extractor",
@@ -2347,6 +2350,7 @@
     "thai": "เครื่องสกัดน้ำมันดิบขนาดใหญ่",
     "japanese": "大型原油抽出機",
     "russian": "Большой экстрактор нефти",
+    "turkish": "Büyük Işlenmemiş Petrol Çıkarıcı",
   },
   "stemCellLab": {
     "english": "Stem Cell Lab",
@@ -2354,6 +2358,7 @@
     "italian": "Laboratorio di Cellule Staminali",
     "thai": "ห้องทดลองเซลล์ต้นกำเนิด",
     "japanese": "幹細胞研究所",
+    "turkish": "Kök Hücre Laboratuvarı",
   },
   "chemicalsLab": {
     "english": "Chemicals Lab",
@@ -2362,6 +2367,7 @@
     "thai": "ห้องทดลองเคมีภัณฑ์",
     "japanese": "化学研究所",
     "russian": "Лаборатория химикатов",
+    "turkish": "Kimyasal Laboratuvar",
   },
   "industrialChemicalsLab": {
     "english": "Industrial Chemicals Lab",
@@ -2370,6 +2376,7 @@
     "thai": "ห้องทดลองเคมีภัณฑ์อุตสาหกรรม",
     "japanese": "工業化学研究所",
     "russian": "Лаборатория индустриальных химикатов",
+    "turkish": "Endüstriyel Kimyasal Laboratuvar",
   },
   "plasticFactory": {
     "english": "Plastic Factory",
@@ -2378,6 +2385,7 @@
     "thai": "โรงงานพลาสติก",
     "japanese": "プラスチック工場",
     "russian": "Завод пластика",
+    "turkish": "Plastik Fabrikası",
   },
   "sensorFactory": {
     "english": "Sensor Factory",
@@ -2386,6 +2394,7 @@
     "thai": "โรงงานพลาสติกอุปกรณ์ตรวจจับ",
     "japanese": "センサー工場",
     "russian": "Завод сенсоров",
+    "turkish": "Sensör Fabrikası",
   },
   "copperMill": {
     "english": "Copper Mill",
@@ -2393,6 +2402,7 @@
     "italian": "Raffinatore di Rame",
     "thai": "โรงตีทองแดง",
     "japanese": "銅製作所",
+    "turkish": "Bakır Değirmeni",
   },
   "enrichedUraniumFactory": {
     "english": "Uranium Enrichment Plant",
@@ -2401,6 +2411,7 @@
     "thai": "โรงงานยูเรเนียมสารเจือปน",
     "japanese": "ウラン濃縮工場",
     "russian": "Завод обогащенного урана",
+    "turkish": "Uranyum Zenginleştirme Tesisi",
   },
   "heatExchangerFactory": {
     "english": "Heat Exchanger Factory",
@@ -2409,6 +2420,7 @@
     "thai": "โรงงานเครื่องแลกเปลี่ยนความร้อน",
     "japanese": "熱交換器工場",
     "russian": "Завод тепло-обменников",
+    "turkish": "Eşanjör Fabrikası",
   },
   "waterDistillery": {
     "english": "Water Distillery",
@@ -2416,6 +2428,7 @@
     "italian": "Impianto di Distillazione",
     "thai": "โรงกลั่นน้ำ",  
     "japanese": "水蒸留施設",
+    "turkish": "Su Damıtımevi",
   },
   "storehouseSmall": {
     "english": "Small Construction Material Storage",
@@ -2424,6 +2437,7 @@
     "thai": "โรงเก็บวัสดุก่อสร้างขนาดเล็ก",
     "japanese": "建設材料の小型倉庫",
     "russian": "Малое хранилище строй-материалов",
+    "turkish": "Küçük İnşaat Malzemesi Deposu",
   },
   "pyramid": {
     "english": "Pyramid",
@@ -2432,6 +2446,7 @@
     "thai": "พีระมิด",
     "japanese": "ピラミッド",
     "russian": "Пирамида",
+    "turkish": "Piramit",
   },
   "holoCinema": {
     "english": "Holo Cinema",
@@ -2440,6 +2455,7 @@
     "thai": "โรงภาพยนตร์โฮโล",
     "japanese": "ホロ映画館",
     "russian": "Голо-кинотеатр",
+    "turkish": "Sanal Sinema",
   },
   "statue1": {
     "english": "Statue World",
@@ -2447,6 +2463,7 @@
     "italian": "Statua Pianeta",
     "thai": "รูปปั้นโลก",
     "japanese": "惑星の彫像",
+    "turkish": "Heykel Dünyası",
   },
   "statue2": {
     "english": "Statue Rocket",
@@ -2454,6 +2471,7 @@
     "italian": "Statua Razzo",
     "thai": "รูปปั้นจรวด",
     "japanese": "ロケットの彫像",
+    "turkish": "Heykel Roketi",
   },
   "statue3": {
     "english": "Statue Laboratory",
@@ -2461,6 +2479,7 @@
     "italian": "Statua Laboratorio",
     "thai": "ห้องปฏิบัติการรูปปั้น",
     "japanese": "研究所の彫像",
+    "turkish": "Heykel Laboratuvarı",
   },
   "ffEasterEgg": {
     "english": "Statue Founders' Fortune",
@@ -2468,6 +2487,7 @@
     "italian": "Statua Founders' Fortune",
     "thai": "รูปปั้นผู้ก่อตั้งที่มีโชคลาภ",
     "japanese": "開拓者の富の彫像",
+    "turkish": "Heykel Kurucularının Serveti",
   },
   "decorativePark3": {
     "english": "Small Modern Park",
@@ -2475,6 +2495,7 @@
     "italian": "Piccolo Parco Moderno",
     "thai": "สวนทันสมัยขนาดเล็ก",
     "japanese": "",
+    "turkish": "Küçük Modern Park",
   },
   "decorativePark4": {
     "english": "Small Classic Park",
@@ -2482,12 +2503,14 @@
     "italian": "Piccolo Parco Classico",
     "thai": "สวนคลาสสิกขนาดเล็ก",
     "japanese": "古典的な小型公園",
+    "turkish": "Küçük Klasik Park",
   },
   "decorativePark5": {
-    "english": "Classic mini-Park",
+    "english": "Classic Mini-Park",
     "german": "Klassischer Mini-Park",
     "italian": "Mini Parco Classico",
     "thai": "สวนมินิคลาสสิก",
     "japanese": "古典的なミニ公園",
+    "turkish": "Klasik Mini Park",
   },
 }
