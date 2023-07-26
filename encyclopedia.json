@@ -7,4 +7,18 @@
     "english": "Trains",
     "italian": "Treni",
   },
+  "roadsAndHighwaysTutorialTitle": {
+    "english": "Roads and highways",
+    "italian": "Strade e autostrade",
+  },
+  "roadHierarchyTutorialHeading": {
+    "english": "Road hierarchy",
+    "italian": "Gerarchia delle strade",
+  },
+  "roadHierarchy1TutorialParagraph": {
+    "english": "In InfraSpace, this translates similarly to reality.\n\nSuperhighways can be used for long distances. Try to avoid intersections on them: they slow down traffic! For more information, see \"avoid left turns.\"\n\nHighways can be used to collect and redistribute traffic.\n\nNormal roads are slower and can be used in population centers and industrial areas.",
+  },
+  "roadHierarchy2TutorialParagraph": {
+    "english": "Use the different types of roads strategically!\n\nFor example, prevent traffic from passing through the slow roads of a city by building a highway around it."
+  },
 }
