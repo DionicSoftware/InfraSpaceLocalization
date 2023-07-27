@@ -23,6 +23,18 @@
     "english": "Use the different types of roads strategically!\n\nFor example, prevent traffic from passing through the slow roads of a city by building a highway around it.",
     "italian": "Utilizzate i diversi tipi di strade in modo strategico!\n\nAd esempio, evitate che il traffico passi attraverso le strade lente di una città costruendo un'autostrada intorno a essa.",
   },
+  "laneConfigurationToolTutorialTitle": {
+    "english": "Lane configuration tool",
+    "italian": "Strumento di configurazione corsie",
+  },
+  "laneConfigurationToolFirstTutorialParagraph": {
+    "english": "Open the Lane configuration tool by clicking on an intersection.\n\nThe colored lines indicate the directions allowed for that particular lane.",
+    "italian": "Apri lo strumento di configurazione delle corsie facendo clic su un'incrocio.\n\nLe linee colorate indicano le direzioni consentite per quella particolare corsia.",
+  },
+  "laneConfigurationToolSecondTutorialParagraph": {
+    "english": "Sometimes, manual configuration is the best option for busier intersections!",
+    "italian": "A volte la configurazione manuale è l'opzione migliore per gli incroci più trafficati!",
+  },
   "avoidLeftTurnsTutorialTitle": {
     "english": "Avoid left turns",
     "italian": "Evita le svolte a sinistra",
