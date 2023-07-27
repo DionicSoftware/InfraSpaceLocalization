@@ -40,8 +40,8 @@
     "italian": "Evita le svolte a sinistra",
   },
   "avoidLeftTurnsTutorialParagraph": {
-    "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the lane configuration tool.\nThis is especially good for highways... as in real life!",
-    "italian": "Attenzione alle svolte a sinistra!\n\nSe c'è molto traffico sulla strada, è meglio creare un ponte sul lato sinistro e vietare le svolte a sinistra utilizzando lo strumento di configurazione delle corsie.\nQuesto è particolarmente indicato per le autostrade... come nella vita reale!",
+    "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the lane configuration tool.\n\nThis is especially good for highways... as in real life!",
+    "italian": "Attenzione alle svolte a sinistra!\n\nSe c'è molto traffico sulla strada, è meglio creare un ponte sul lato sinistro e vietare le svolte a sinistra utilizzando lo strumento di configurazione delle corsie.\n\nQuesto è particolarmente indicato per le autostrade... come nella vita reale!",
   },
   "laneMathematicsTutorialTitle": {
     "english": "Lane mathematics",
@@ -56,7 +56,7 @@
     "italian": "Aree ad alto traffico",
   },
   "highTrafficAreasTutorialParagraph": {
-    "english": "Sometimes, the traffic is simply too much.\n\nWhen traffic jams do not diminish even by improving the road or managing lanes, it may be a case of creating an alternative road.\nThat way, you lessen the pressure in critical areas and traffic can resume normal flow.\n\nImportant! Vehicles will automatically choose the theoretically fastest route, regardless of traffic jams.",
-    "italian": "A volte il traffico è semplicemente troppo.\n\nQuando gli ingorghi non si riducono nemmeno migliorando la strada o gestendo le corsie, può essere il caso di creare una strada alternativa.\nIn questo modo, si riduce la pressione nelle aree critiche e il traffico può riprendere a scorrere normalmente.\n\nImportante! I veicoli scelgono automaticamente il percorso teoricamente più veloce, indipendentemente dagli ingorghi stradali.",
+    "english": "Sometimes, the traffic is simply too much.\n\nWhen traffic jams do not diminish even by improving the road or managing lanes, it may be a case of creating an alternative road.\n\nThat way, you lessen the pressure in critical areas and traffic can resume normal flow.\n\nImportant! Vehicles will automatically choose the theoretically fastest route, regardless of traffic jams.",
+    "italian": "A volte il traffico è semplicemente troppo.\n\nQuando gli ingorghi non si riducono nemmeno migliorando la strada o gestendo le corsie, può essere il caso di creare una strada alternativa.\n\nIn questo modo, si riduce la pressione nelle aree critiche e il traffico può riprendere a scorrere normalmente.\n\nImportante! I veicoli scelgono automaticamente il percorso teoricamente più veloce, indipendentemente dagli ingorghi stradali.",
   },
 }
