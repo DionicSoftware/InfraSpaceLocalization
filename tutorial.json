@@ -1122,4 +1122,10 @@
     "english": "Press this button to open the Tech-Tree.",
 	"thai":"กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
   },
+  "tutorialMessage_trains_title": {
+    "english": "Trains Panel",
+  },
+  "tutorialMessage_trains_desc": {
+    "english": "Press this button to open the Trains Panel.",
+  },
 }
