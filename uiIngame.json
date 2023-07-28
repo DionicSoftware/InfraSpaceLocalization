@@ -4020,4 +4020,10 @@
   "tutorial": {
     "english": "Tutorial",
   },
+  "trafficFlowTitle": {
+    "english": "Traffic Flow",
+  },
+  "trafficFlowDesc": {
+    "english": "This value shows the flow of the traffic, the higher it is the better"
+  }
 }
