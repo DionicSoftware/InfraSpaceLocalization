@@ -4016,5 +4016,8 @@
   "noSpaceshipPartSelected": {
     "english": "No Spaceship Part Selected",
 	"thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
-  }
+  },
+  "tutorial": {
+    "english": "Tutorial",
+  },
 }
