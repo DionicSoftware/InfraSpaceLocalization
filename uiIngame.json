@@ -4015,15 +4015,19 @@
 	},
   "noSpaceshipPartSelected": {
     "english": "No Spaceship Part Selected",
-	"thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
+	  "thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
+	  "turkish": "Uzay Gemisi Parçası Seçilmedi",
   },
   "tutorial": {
     "english": "Tutorial",
+	  "turkish": "Öğretici",
   },
   "trafficFlowTitle": {
     "english": "Traffic Flow",
+	  "turkish": "Trafik Akışı",
   },
   "trafficFlowDesc": {
     "english": "This value shows the flow of the traffic, the higher it is the better"
+	  "turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
   }
 }
