@@ -2,18 +2,22 @@
   "encyclopedia": {
     "english": "Encyclopedia",
     "italian": "Enciclopedia",
+    "turkish": "Ansiklopedi",
   },
   "trainsTutorialTitle": {
     "english": "Trains",
     "italian": "Treni",
+    "turkish": "Trenler",
   },
   "roadsAndHighwaysTutorialTitle": {
     "english": "Roads and highways",
     "italian": "Strade e autostrade",
+    "turkish": "Yollar ve otoyollar",
   },
   "roadHierarchyTutorialHeading": {
     "english": "Road hierarchy",
     "italian": "Gerarchia delle strade",
+    "turkish": "Yol hiyerarşisi",
   },
   "roadHierarchyFirstTutorialParagraph": {
     "english": "In InfraSpace, this translates similarly to reality.\n\nSuperhighways can be used for long distances. Try to avoid intersections on them: they slow down traffic! For more information, see \"avoid left turns.\"\n\nHighways can be used to collect and redistribute traffic.\n\nNormal roads are slower and can be used in population centers and industrial areas.",
@@ -26,6 +30,7 @@
   "laneConfigurationToolTutorialTitle": {
     "english": "Lane configuration tool",
     "italian": "Strumento di configurazione corsie",
+    "turkish": "Şerit yapılandırma aleti",
   },
   "laneConfigurationToolFirstTutorialParagraph": {
     "english": "Open the Lane configuration tool by clicking on an intersection.\n\nThe colored lines indicate the directions allowed for that particular lane.",
@@ -34,10 +39,12 @@
   "laneConfigurationToolSecondTutorialParagraph": {
     "english": "Sometimes, manual configuration is the best option for busier intersections!",
     "italian": "A volte la configurazione manuale è l'opzione migliore per gli incroci più trafficati!",
+    "turkish": "Bazen, manuel yapılandırma daha yoğun kavşaklar için en iyi seçenektir!",
   },
   "avoidLeftTurnsTutorialTitle": {
     "english": "Avoid left turns",
     "italian": "Evita le svolte a sinistra",
+    "turkish": "Sola dönüşlerden kaçının",
   },
   "avoidLeftTurnsTutorialParagraph": {
     "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the lane configuration tool.\n\nThis is especially good for highways... as in real life!",
@@ -46,6 +53,7 @@
   "laneMathematicsTutorialTitle": {
     "english": "Lane mathematics",
     "italian": "Matematica delle corsie",
+    "turkish": "Şerit matematiği",
   },
   "laneMathematicsTutorialParagraph": {
     "english": "It may sound scary from the title, but it's pretty simple!\n\nTo avoid causing traffic jams, make the number of incoming lanes match the number of outgoing lanes.",
@@ -54,6 +62,7 @@
   "highTrafficAreasTutorialTitle": {
     "english": "High traffic areas",
     "italian": "Aree ad alto traffico",
+    "turkish": "Yüksek trafik alanları",
   },
   "highTrafficAreasTutorialParagraph": {
     "english": "Sometimes, the traffic is simply too much.\n\nWhen traffic jams do not diminish even by improving the road or managing lanes, it may be a case of creating an alternative road.\n\nThat way, you lessen the pressure in critical areas and traffic can resume normal flow.\n\nImportant! Vehicles will automatically choose the theoretically fastest route, regardless of traffic jams.",
