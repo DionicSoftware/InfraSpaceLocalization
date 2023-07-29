@@ -1116,16 +1116,20 @@
 	},
   "tutorialMessage_research_title": {
     "english": "Research",
-	"thai":"วิจัย",
+	  "thai":"วิจัย",
+	  "turkish": "Araştırma",
   },
   "tutorialMessage_research_desc": {
     "english": "Press this button to open the Tech-Tree.",
-	"thai":"กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
+	  "thai":"กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
+	  "turkish": "Teknoloji Ağacını açmak için bu düğmeye basın",
   },
   "tutorialMessage_trains_title": {
     "english": "Trains Panel",
+	  "turkish": "Tren Paneli",
   },
   "tutorialMessage_trains_desc": {
     "english": "Press this button to open the Trains Panel.",
+	  "turkish": "Tren Panelini açmak için bu düğmeye basın",
   },
 }
