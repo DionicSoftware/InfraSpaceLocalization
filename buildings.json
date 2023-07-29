@@ -517,7 +517,8 @@
     "german": "Fabrik für verstärktes Iridium",
     "italian": "Fabbrica di Iridio Rinforzato",
     "japanese": "強化イリジウム工場",
-    "thai":"โรงงานอิริเดียมเสริมแกร่ง"
+    "thai":"โรงงานอิริเดียมเสริมแกร่ง",
+    "turkish": "Güçlendirilmiş İridyum Fabrikası",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -795,6 +796,7 @@
     "italian": "Fabbrica di superconduttori",
     "japanese": "超伝導材料工場",
     "thai": "โรงงานวัสดุตัวนำยวดยิ่ง",
+    "turkish": "Süper İletken Fabrikası",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -2252,7 +2254,7 @@
     "thai": "UFO ตก",
     "italian": "UFO precipitato",
     "scotsgaelic": "UFO air a mhilleadh",
-    "turkish": "Düşmüş ufo",
+    "turkish": "Düşmüş Ufo",
     "russian": "Разбившийся НЛО",
   },
   "decorativePark1": {
@@ -2261,6 +2263,7 @@
     "italian": "Parco Classico",
     "japanese": "古典的な公園",
     "thai": "สวนคลาสสิก",
+    "turkish": "Klasik Park",
   },
   "decorativePark2": {
     "english": "Modern Park",
@@ -2268,6 +2271,7 @@
     "italian": "Parco Moderno",
     "japanese": "現代的な公園",
     "thai": "สวนทันสมัย",
+    "turkish": "Modern Park",
   },
   "fence1": { //would be better to add "A" in other languages as well
     "english": "Fence A",
@@ -2287,6 +2291,7 @@
     "italian": "Recinzione con Apertura",
     "japanese": "フェンスのゲート",
     "thai": "ประตูรั้ว",
+    "turkish": "Çit Kapısı",
   },
   "fence3": { //would be better to add "B" in other languages as well
     "english": "Fence B",
