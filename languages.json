@@ -664,7 +664,7 @@
 		"danish": "فارسی",
 		"swiss german": "فارسی",
 		"farsi": "فارسی",
-	  "urdu": "فارسی",
+	  	"urdu": "فارسی",
 		"scotsgaelic": "فارسی"
 	},
 	"Scottish Gaelic": {
@@ -696,6 +696,31 @@
 		"scotsgaelic": "Gàidhlig Na H-Alba"
 	},
 	"Urdu": {
+		"english": "اردو",
+		"german": "اردو",
+		"french": "اردو",
+		"spanish": "اردو",
+		"spanish-esp": "اردو",
+		"turkish": "اردو",
+		"portuguese": "اردو",
+		"dutch": "اردو",
+		"ukrainian": "اردو",
+		"russian": "اردو",
+		"chinese": "اردو",
+		"korean": "اردو",
+		"arabic": "اردو",
+		"italian": "اردو",
+		"polish": "اردو",
+		"czech": "اردو",
+		"romanian": "اردو",
+		"japanese": "اردو",
+		"slovak": "اردو",
+		"hungarian": "اردو",
+		"thai": "اردو",
+		"danish": "اردو",
+		"swiss german": "اردو",
+		"farsi": "اردو",
 		"urdu": "اردو",
+		"scotsgaelic": "اردو"
 	}
 }

@@ -3415,7 +3415,7 @@
 	},
 	"spaceshipUpgrade_ftlEngine": {
 		"english": "Each time Reinforced Iridium is produced, you get 1 extra unit.\n\nEach time AI Control Unit and Motor are produced, you get 2 extra unit.",
-		"german": "Bei jeder Produktion von verstärktes Iridium, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von KI-Steuermodul, produziere 2 Einheiten zusätzlich.",	
+		"german": "Bei jeder Produktion von verstärktes Iridium, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von KI-Steuermodul, produziere 2 Einheiten zusätzlich.",
 		"italian": "Per ogni produzione di Iridio Rinforzato, ricevi 1 unità extra.\n\nPer ogni produzione di Unità di controllo IA e Motori, ricevi 2 unità extra.",
 		"japanese": "強化イリジウムを生産するたびに1ユニットを追加で得られます。\n\nAI制御ユニットとモーターを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอิริเดียมเสริมแกร่งคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตตัวควบคุมปัญญาประดิษฐ์และมอเตอร์คุณจะได้รับหน่วยพิเศษ 2 หน่วย",
@@ -3483,7 +3483,7 @@
 		"japanese": "化学製品と有機廃棄物とメタンを生産するたびに1ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตเคมีภัณฑ์และขยะอินทรีย์รวมถึงมีเทนคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
 	},
-	
+
 	/*"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
 		"italian": "I tuoi progressi convincono i membri dell'equipaggio a credere in te. Ricevi un aumento del 5% all'immigrazione",
@@ -3985,6 +3985,7 @@
 	"gracePeriodTitle": {
 		"english": "Grace Period to Fix Your City",
 		"german": "Spielpause um Stadt zu ändern",
+		"french": "",
 		"italian": "Periodo di Grazia per ribilanciare la tua città",
 		"thai": "ระยะเวลาเผื่อเพื่อแก้ไขเมืองของคุณ",
 		"japanese": "都市を修正するための猶予期間",
@@ -3993,6 +3994,7 @@
 	"gracePeriodDesc": {
 		"english": "Your save has been created in an old version of the game.\n\nYou get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitants will not move in or out and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
 		"german": "Dein Spielstand wurde in einer älteren Version des Spiels erstellt.\n\nDu bekommst etwas Zeit um deine Stadt für die neue Version vorzubereiten.\nIn dieser Zeit werden deine Einwohner nicht ein- oder ausziehen und du kannst keine neuen Technologien erforschen.\n\nKlicke auf diesen Button wenn du bereit bist, normal weiterzuspielen:",
+		"french": "",
 		"italian": "Il tuo salvataggio è stato creato in una versione del gioco precedente.\n\nHai a disposizione del tempo per ribilanciare la tua città secondo i nuovi parametri.\nDurante il Periodo di Grazia, gli abitanti non possono andarsene o immigrare, e non è possibile ricercare nuove tecnologie.\n\nFai click su questo pulsante quando sarai pronto/a a giocare normalmente.",
 		"thai": "การบันทึกของคุณถูกสร้างขึ้นในเกมเวอร์ชันเก่า\n\nคุณมีระยะเวลาแก้ไขเมืองและปรับให้เข้ากับข้อกำหนดใหม่\nในช่วงเวลานี้ ผู้อยู่อาศัยของคุณจะไม่ย้ายเข้าหรือออกไป และคุณจะไม่สามารถหาข้อมูล เทคโนโลยีใหม่ได้\n\nคลิกปุ่มนี้หากคุณพร้อมที่จะเล่นเกมต่อตามปกติ:",
 		"japanese": "このセーブファイルは旧バージョンで作成されています。\n\n都市を修正し、新しい需要に合わせて調整する時間があります。\nこの間、入植者は移動せず、新たな技術の研究もできません。\n\n通常通りゲームを進める準備ができたら、このボタンを押してください:",
@@ -4000,6 +4002,7 @@
 	"gracePeriodButton": {
 		"english": "Continue Game",
 		"german": "Weiterspielen",
+		"french": "Continuer la partie",
 		"italian": "Riprendi la Partita",
 		"thai": "เล่นเกมต่อ",
 		"japanese": "ゲーム再開",
@@ -4008,26 +4011,31 @@
 	"color": {
 		"english": "Color",
 		"german": "Farbe",
+		"french": "Couleur",
 		"italian": "Colore",
 		"thai": "สี",
 		"japanese": "色",
 		"turkish": "Renk",
 	},
-  "noSpaceshipPartSelected": {
-    "english": "No Spaceship Part Selected",
-	  "thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
-	  "turkish": "Uzay Gemisi Parçası Seçilmedi",
-  },
-  "tutorial": {
-    "english": "Tutorial",
-	  "turkish": "Öğretici",
-  },
-  "trafficFlowTitle": {
-    "english": "Traffic Flow",
-	  "turkish": "Trafik Akışı",
-  },
-  "trafficFlowDesc": {
-    "english": "This value shows the flow of the traffic, the higher it is the better"
-	  "turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
-  }
+  	"noSpaceshipPartSelected": {
+    	"english": "No Spaceship Part Selected",
+		"french": "Pas de partie du vaisseau spatial sélectionnée",
+	  	"thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
+	  	"turkish": "Uzay Gemisi Parçası Seçilmedi",
+  	},
+  	"tutorial": {
+    	"english": "Tutorial",
+		"french": "Tutoriel",
+	  	"turkish": "Öğretici",
+  	},
+  	"trafficFlowTitle": {
+    	"english": "Traffic Flow",
+		"french": "Flux de trafic",
+	  	"turkish": "Trafik Akışı",
+  	},
+  	"trafficFlowDesc": {
+    	"english": "This value shows the flow of the traffic, the higher it is the better",
+		"french": "Cette valeur indique la fluidité du trafic, plus elle est élevée, mieux c'est.",
+	  	"turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
+  	}
 }

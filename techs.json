@@ -1440,6 +1440,7 @@
   "tech_fence": {
     "english": "Border Fence",
     "german": "Grenzzäune",
+    "french": "Clôture",
     "italian": "Recinto",
     "thai": "รั้วขอบเขต",
     "japanese": "フェンス",
@@ -1448,6 +1449,7 @@
   "tech_pixelBuilding": {
     "english": "Pixel Building",
     "german": "Pixel Gebäude",
+    "french": "Bâtiments Pixel",
     "italian": "Edifici-pixel",
     "thai": "อาคารพิกเซล",
     "japanese": "ピクセル建造物",
@@ -1456,6 +1458,7 @@
   "tech_statue": {
     "english": "Unique Statues",
     "german": "Einzigartige Statuen",
+    "french": "Statues uniques",
     "italian": "Statue uniche",
     "thai": "รูปปั้นที่มีเอกลักษณ์",
     "japanese": "独特な彫像",
@@ -1464,6 +1467,7 @@
   "tech_sightSeeing1": {
     "english": "Sightseeing Constructions A",
     "german": "Besichtigungskonstruktionen A",
+    "french": "Site touristique A",
     "italian": "Attrazione turistica A",
     "thai": "การก่อสร้างสถานที่ท่องเที่ยว A",
     "japanese": "観光施設A",
@@ -1472,6 +1476,7 @@
   "tech_sightSeeing2": {
     "english": "Sightseeing Constructions B",
     "german": "Besichtigungskonstruktionen B",
+    "french": "Site touristique B",
     "italian": "Attrazione turistica B",
     "thai": "การก่อสร้างสถานที่ท่องเที่ยว B",
     "japanese": "観光施設B",
@@ -1480,6 +1485,7 @@
   "tech_decorativeParks": {
     "english": "Decorative Parks",
     "german": "Dekorative Parks",
+    "french": "Parcs décoratifs",
     "italian": "Parchi decorativi",
     "thai": "สวนตกแต่ง",
     "japanese": "装飾用の公園",
@@ -1488,10 +1494,11 @@
   "tech_heatExchanger": {
     "english": "Heat Exchangers",
     "german": "Wärmetauscher",
+    "french": "Échangeurs thermiques",
     "italian": "Scambiatori di calore",
     "thai": "เครื่องแลกเปลี่ยนความร้อน",
     "japanese": "熱交換器",
     "turkish": "Isı Eşanjörleri",
   },
-  
+
 }

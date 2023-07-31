@@ -1,71 +1,86 @@
 {
   "encyclopedia": {
     "english": "Encyclopedia",
+    "french": "Encyclopédie",
     "italian": "Enciclopedia",
     "turkish": "Ansiklopedi",
   },
   "trainsTutorialTitle": {
     "english": "Trains",
+    "french": "Trains",
     "italian": "Treni",
     "turkish": "Trenler",
   },
   "roadsAndHighwaysTutorialTitle": {
     "english": "Roads and highways",
+    "french": "Routes et autoroutes",
     "italian": "Strade e autostrade",
     "turkish": "Yollar ve otoyollar",
   },
   "roadHierarchyTutorialHeading": {
     "english": "Road hierarchy",
+    "french": "Hiérarchie des routes",
     "italian": "Gerarchia delle strade",
     "turkish": "Yol hiyerarşisi",
   },
   "roadHierarchyFirstTutorialParagraph": {
     "english": "In InfraSpace, this translates similarly to reality.\n\nSuperhighways can be used for long distances. Try to avoid intersections on them: they slow down traffic! For more information, see \"avoid left turns.\"\n\nHighways can be used to collect and redistribute traffic.\n\nNormal roads are slower and can be used in population centers and industrial areas.",
+    "french": "Dans InfraSpace, cela se traduit de manière similaire à la réalité.\n\nLes superautoroutes peuvent être utilisées sur de longues distances. Essayez d'y éviter les intersections : elles ralentissent le trafic ! Pour plus d'informations, voir « Éviter les virages à gauche ».\n\nLes autoroutes peuvent être utilisées pour collecter et redistribuer le trafic.\n\nLes routes normales sont plus lentes et peuvent être utilisées dans les centres de population et les zones industrielles.",
     "italian": "In InfraSpace, questo si traduce in modo simile alla realtà.\n\nLe superautostrade possono essere utilizzate per lunghe distanze. Cercate di evitare gli incroci su di esse: rallentano il traffico! Per maggiori informazioni, vedere \"evitare\" le svolte a sinistra.\n\nLe autostrade possono essere utilizzate per raccogliere e ridistribuire il traffico.\n\nLe strade normali sono più lente e possono essere utilizzate nei centri abitati e nelle aree industriali.",
   },
   "roadHierarchySecondTutorialParagraph": {
     "english": "Use the different types of roads strategically!\n\nFor example, prevent traffic from passing through the slow roads of a city by building a highway around it.",
+    "french": "Utilisez les différents types de routes de manière stratégique !\n\nPar exemple, empêcher le trafic de passer par les routes lentes d'une ville en construisant une autoroute autour de celle-ci.",
     "italian": "Utilizzate i diversi tipi di strade in modo strategico!\n\nAd esempio, evitate che il traffico passi attraverso le strade lente di una città costruendo un'autostrada intorno a essa.",
   },
   "laneConfigurationToolTutorialTitle": {
     "english": "Lane configuration tool",
+    "french": "Outil de configuration des voies",
     "italian": "Strumento di configurazione corsie",
     "turkish": "Şerit yapılandırma aleti",
   },
   "laneConfigurationToolFirstTutorialParagraph": {
     "english": "Open the Lane configuration tool by clicking on an intersection.\n\nThe colored lines indicate the directions allowed for that particular lane.",
+    "french": "Ouvrez l'outil de configuration des voies en cliquant sur une intersection.\n\nLes lignes colorées indiquent les directions autorisées pour cette voie particulière.",
     "italian": "Apri lo strumento di configurazione delle corsie facendo clic su un'incrocio.\n\nLe linee colorate indicano le direzioni consentite per quella particolare corsia.",
   },
   "laneConfigurationToolSecondTutorialParagraph": {
     "english": "Sometimes, manual configuration is the best option for busier intersections!",
+    "french": "Parfois, la configuration manuelle est la meilleure option pour les intersections les plus fréquentées !",
     "italian": "A volte la configurazione manuale è l'opzione migliore per gli incroci più trafficati!",
     "turkish": "Bazen, manuel yapılandırma daha yoğun kavşaklar için en iyi seçenektir!",
   },
   "avoidLeftTurnsTutorialTitle": {
     "english": "Avoid left turns",
+    "french": "Éviter les virages à gauche",
     "italian": "Evita le svolte a sinistra",
     "turkish": "Sola dönüşlerden kaçının",
   },
   "avoidLeftTurnsTutorialParagraph": {
     "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the lane configuration tool.\n\nThis is especially good for highways... as in real life!",
+    "french": "Attention aux virages à gauche !\n\nSi la route est très fréquentée, il est préférable de créer un pont sur le côté gauche et d'interdire les virages à gauche à l'aide de l'outil de configuration des voies.\n\nC'est particulièrement utile pour les autoroutes... comme dans la vraie vie !",
     "italian": "Attenzione alle svolte a sinistra!\n\nSe c'è molto traffico sulla strada, è meglio creare un ponte sul lato sinistro e vietare le svolte a sinistra utilizzando lo strumento di configurazione delle corsie.\n\nQuesto è particolarmente indicato per le autostrade... come nella vita reale!",
   },
   "laneMathematicsTutorialTitle": {
     "english": "Lane mathematics",
+    "french": "Mathématiques des voies",
     "italian": "Matematica delle corsie",
     "turkish": "Şerit matematiği",
   },
   "laneMathematicsTutorialParagraph": {
     "english": "It may sound scary from the title, but it's pretty simple!\n\nTo avoid causing traffic jams, make the number of incoming lanes match the number of outgoing lanes.",
+    "french": "Le titre peut sembler effrayant, mais c'est très simple !\n\nPour éviter les embouteillages, le nombre de voies entrantes doit correspondre au nombre de voies sortantes.",
     "italian": "Il titolo può sembrare spaventoso, ma è piuttosto semplice!\n\nPer non causare ingorghi stradali, fate in modo che il numero di corsie in entrata corrisponda al numero di corsie in uscita.",
   },
   "highTrafficAreasTutorialTitle": {
     "english": "High traffic areas",
+    "french": "Zones à fort trafic",
     "italian": "Aree ad alto traffico",
     "turkish": "Yüksek trafik alanları",
   },
   "highTrafficAreasTutorialParagraph": {
     "english": "Sometimes, the traffic is simply too much.\n\nWhen traffic jams do not diminish even by improving the road or managing lanes, it may be a case of creating an alternative road.\n\nThat way, you lessen the pressure in critical areas and traffic can resume normal flow.\n\nImportant! Vehicles will automatically choose the theoretically fastest route, regardless of traffic jams.",
+    "french": "Parfois, le trafic est tout simplement trop important.\n\nLorsque les embouteillages ne diminuent pas, même en améliorant la route ou en gérant les voies, il peut s'avérer nécessaire de créer une route alternative.\n\nDe cette manière, vous diminuez la pression dans les zones critiques et le trafic peut reprendre son cours normal.\n\nImportant ! Les véhicules choisissent automatiquement l'itinéraire théoriquement le plus rapide, indépendamment des embouteillages.",
     "italian": "A volte il traffico è semplicemente troppo.\n\nQuando gli ingorghi non si riducono nemmeno migliorando la strada o gestendo le corsie, può essere il caso di creare una strada alternativa.\n\nIn questo modo, si riduce la pressione nelle aree critiche e il traffico può riprendere a scorrere normalmente.\n\nImportante! I veicoli scelgono automaticamente il percorso teoricamente più veloce, indipendentemente dagli ingorghi stradali.",
   },
 }

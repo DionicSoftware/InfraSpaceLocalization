@@ -515,6 +515,7 @@
   "reinforcedIridiumFactory": {
     "english": "Reinforced Iridium Factory",
     "german": "Fabrik für verstärktes Iridium",
+    "french": "Usine d'iridium renforcé",
     "italian": "Fabbrica di Iridio Rinforzato",
     "japanese": "強化イリジウム工場",
     "thai":"โรงงานอิริเดียมเสริมแกร่ง",
@@ -793,6 +794,7 @@
   "superconductorFactory": {
     "english": "Superconductor Factory",
     "german": "Fabrik für Supraleiter",
+    "french": "Usine de supraconducteurs",
     "italian": "Fabbrica di superconduttori",
     "japanese": "超伝導材料工場",
     "thai": "โรงงานวัสดุตัวนำยวดยิ่ง",
@@ -1466,6 +1468,7 @@
   "park": {//all parks name changed - Need to be translated again in every language
     "english": "Big City Park",
     "german": "Großer Stadtpark",
+    "french": "Grand parc urbain",
     "italian": "Grande Parco Cittadino",
     "japanese": "大型都市公園",
     "turkish": "Büyük Sehir Parkı",
@@ -2066,7 +2069,7 @@
     "scotsgaelic": "Car luchdachadh",
     "russian": "Грузовой лифт",
   },
-  "gondolaStationPole": { 
+  "gondolaStationPole": {
   "english": "Gondola Lift Pole",
   "german": "Gondelstütze",
   "french": "Poteau pour nacelles",
@@ -2260,6 +2263,7 @@
   "decorativePark1": {
     "english": "Classic Park",
     "german": "Klassischer Park",
+    "french": "Parc classique",
     "italian": "Parco Classico",
     "japanese": "古典的な公園",
     "thai": "สวนคลาสสิก",
@@ -2268,6 +2272,7 @@
   "decorativePark2": {
     "english": "Modern Park",
     "german": "Moderner Park",
+    "french": "Parc moderne",
     "italian": "Parco Moderno",
     "japanese": "現代的な公園",
     "thai": "สวนทันสมัย",
@@ -2283,11 +2288,11 @@
     "scotsgaelic": "Feansa",
     "turkish": "Çit A",
     "russian": "Забор",
-    
   },
   "fence2": {
     "english": "Fence Gate",
     "german": "Zaun mit Tor",
+    "french": "Portail de clôture",
     "italian": "Recinzione con Apertura",
     "japanese": "フェンスのゲート",
     "thai": "ประตูรั้ว",
@@ -2340,6 +2345,7 @@
   "crudeOilTank": {
     "english": "Crude Oil Tank",
     "german": "Rohöltank",
+    "french": "Réservoir de pétrole brut",
     "italian": "Serbatoio di Petrolio",
     "thai": "ถังน้ำมัน",
     "japanese": "原油タンク",
@@ -2349,6 +2355,7 @@
   "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
     "german": "Rohölextraktor",
+    "french": "Extracteur de pétrole brut",
     "italian": "Estrattore di Petrolio",
     "thai": "เครื่องสกัดน้ำมันดิบ",
     "japanese": "原油抽出機",
@@ -2358,6 +2365,7 @@
   "largeCrudeOilExtractor": {
     "english": "Large Crude Oil Extractor",
     "german": "Großer Rohölextraktor",
+    "french": "Grand extracteur de pétrole brut",
     "italian": "Grande Estrattore di Petrolio",
     "thai": "เครื่องสกัดน้ำมันดิบขนาดใหญ่",
     "japanese": "大型原油抽出機",
@@ -2367,6 +2375,7 @@
   "stemCellLab": {
     "english": "Stem Cell Lab",
     "german": "Labor für Stammzellen",
+    "french": "Labo de cellules souches",
     "italian": "Laboratorio di Cellule Staminali",
     "thai": "ห้องทดลองเซลล์ต้นกำเนิด",
     "japanese": "幹細胞研究所",
@@ -2375,6 +2384,7 @@
   "chemicalsLab": {
     "english": "Chemicals Lab",
     "german": "Labor für Chemikalien",
+    "french": "Laboratoire de chimie",
     "italian": "Laboratorio Chimico",
     "thai": "ห้องทดลองเคมีภัณฑ์",
     "japanese": "化学研究所",
@@ -2384,6 +2394,7 @@
   "industrialChemicalsLab": {
     "english": "Industrial Chemicals Lab",
     "german": "Labor für Industriechemikalien",
+    "french": "Laboratoire de chimie industrielle",
     "italian": "Laboratorio Chimico Industriale",
     "thai": "ห้องทดลองเคมีภัณฑ์อุตสาหกรรม",
     "japanese": "工業化学研究所",
@@ -2393,6 +2404,7 @@
   "plasticFactory": {
     "english": "Plastic Factory",
     "german": "Fabrik für Kunststoff",
+    "french": "Usine de plastique",
     "italian": "Fabbrica di Plastica",
     "thai": "โรงงานพลาสติก",
     "japanese": "プラスチック工場",
@@ -2402,6 +2414,7 @@
   "sensorFactory": {
     "english": "Sensor Factory",
     "german": "Fabrik für Sensoren",
+    "french": "Usine de capteurs",
     "italian": "Fabbrica di Sensori",
     "thai": "โรงงานพลาสติกอุปกรณ์ตรวจจับ",
     "japanese": "センサー工場",
@@ -2411,6 +2424,7 @@
   "copperMill": {
     "english": "Copper Mill",
     "german": "Kupferwerk",
+    "french": "Usine de cuivre",
     "italian": "Raffinatore di Rame",
     "thai": "โรงตีทองแดง",
     "japanese": "銅製作所",
@@ -2419,6 +2433,7 @@
   "enrichedUraniumFactory": {
     "english": "Uranium Enrichment Plant",
     "german": "Fabrik für angereichertes Uran",
+    "french": "Centrale d'enrichissement d'uranium",
     "italian": "Impianto di Arricchimento dell'Uranio",
     "thai": "โรงงานยูเรเนียมสารเจือปน",
     "japanese": "ウラン濃縮工場",
@@ -2428,6 +2443,7 @@
   "heatExchangerFactory": {
     "english": "Heat Exchanger Factory",
     "german": "Fabrik für Wärmetauscher",
+    "french": "Usine d'échangeurs thermiques",
     "italian": "Fabbrica di Scambiatori di Calore",
     "thai": "โรงงานเครื่องแลกเปลี่ยนความร้อน",
     "japanese": "熱交換器工場",
@@ -2437,14 +2453,16 @@
   "waterDistillery": {
     "english": "Water Distillery",
     "german": "Wasserdestillerie",
+    "french": "Distillerie d'eau",
     "italian": "Impianto di Distillazione",
-    "thai": "โรงกลั่นน้ำ",  
+    "thai": "โรงกลั่นน้ำ",
     "japanese": "水蒸留施設",
     "turkish": "Su Damıtımevi",
   },
   "storehouseSmall": {
     "english": "Small Construction Material Storage",
     "german": "Kleines Baumateriallager",
+    "french": "Petite réserve de matériaux de construction",
     "italian": "Piccolo deposito di Materiali da costruzione",
     "thai": "โรงเก็บวัสดุก่อสร้างขนาดเล็ก",
     "japanese": "建設材料の小型倉庫",
@@ -2454,7 +2472,8 @@
   "pyramid": {
     "english": "Pyramid",
     "german": "Pyramide",
-    "italian": "Piramide", 
+    "french": "Pyramide",
+    "italian": "Piramide",
     "thai": "พีระมิด",
     "japanese": "ピラミッド",
     "russian": "Пирамида",
@@ -2463,7 +2482,8 @@
   "holoCinema": {
     "english": "Holo Cinema",
     "german": "Holografisches Kino",
-    "italian": "Holo-cinema", 
+    "french": "Holo-Cinéma",
+    "italian": "Holo-cinema",
     "thai": "โรงภาพยนตร์โฮโล",
     "japanese": "ホロ映画館",
     "russian": "Голо-кинотеатр",
@@ -2472,6 +2492,7 @@
   "statue1": {
     "english": "Statue World",
     "german": "Weltkugel Statue",
+    "french": "Statue du monde",
     "italian": "Statua Pianeta",
     "thai": "รูปปั้นโลก",
     "japanese": "惑星の彫像",
@@ -2480,6 +2501,7 @@
   "statue2": {
     "english": "Statue Rocket",
     "german": "Raketen Statue",
+    "french": "Statue de fusée",
     "italian": "Statua Razzo",
     "thai": "รูปปั้นจรวด",
     "japanese": "ロケットの彫像",
@@ -2488,6 +2510,7 @@
   "statue3": {
     "english": "Statue Laboratory",
     "german": "Labor Statue",
+    "french": "Statue de laboratoire",
     "italian": "Statua Laboratorio",
     "thai": "ห้องปฏิบัติการรูปปั้น",
     "japanese": "研究所の彫像",
@@ -2496,6 +2519,7 @@
   "ffEasterEgg": {
     "english": "Statue Founders' Fortune",
     "german": "Founders' Fortune Statue",
+    "french": "Statue de Founders' Fortune",
     "italian": "Statua Founders' Fortune",
     "thai": "รูปปั้นผู้ก่อตั้งที่มีโชคลาภ",
     "japanese": "開拓者の富の彫像",
@@ -2504,6 +2528,7 @@
   "decorativePark3": {
     "english": "Small Modern Park",
     "german": "Kleiner moderner Park",
+    "french": "Petit parc moderne",
     "italian": "Piccolo Parco Moderno",
     "thai": "สวนทันสมัยขนาดเล็ก",
     "japanese": "",
@@ -2512,6 +2537,7 @@
   "decorativePark4": {
     "english": "Small Classic Park",
     "german": "Kleiner klassischer Park",
+    "french": "Petit parc classique",
     "italian": "Piccolo Parco Classico",
     "thai": "สวนคลาสสิกขนาดเล็ก",
     "japanese": "古典的な小型公園",
@@ -2520,6 +2546,7 @@
   "decorativePark5": {
     "english": "Classic Mini-Park",
     "german": "Klassischer Mini-Park",
+    "french": "Mini-parc classique",
     "italian": "Mini Parco Classico",
     "thai": "สวนมินิคลาสสิก",
     "japanese": "古典的なミニ公園",

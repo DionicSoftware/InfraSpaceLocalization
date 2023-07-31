@@ -2,6 +2,7 @@
 	"constructionCategory_roads": {
 		"english": "Roads",
 		"german": "Straßen",
+		"french": "Routes",
 		"italian": "Strade",
 		"thai": "ถนน",
 		"japanese": "道路",
@@ -10,6 +11,7 @@
 	"constructionCategory_lowTierRoads": {
 		"english": "Cheap Roads",
 		"german": "Einfache Straßen",
+		"french": "Routes simples",
 		"italian": "Strade Mediocri",
 		"thai": "ถนนราคาถูก",
 		"japanese": "安価な道路",
@@ -18,6 +20,7 @@
 	"constructionCategory_midTierRoads": {
 		"english": "Normal Roads",
 		"german": "Normale Straßen",
+		"french": "Routes normales",
 		"italian": "Strade Normali",
 		"thai": "ถนนธรรมดา",
 		"japanese": "普通の道路",
@@ -26,6 +29,7 @@
 	"constructionCategory_highwayRoads": {
 		"english": "Highways",
 		"german": "Autobahnen",
+		"french": "Autoroutes",
 		"italian": "Autostrade",
 		"thai": "ทางหลวง",
 		"japanese": "高速道路",
@@ -34,6 +38,7 @@
 	"constructionCategory_superhighwayRoads": {
 		"english": "Superhighways",
 		"german": "Superautobahnen",
+		"french": "Super autoroutes",
 		"italian": "Autostrade veloci",
 		"thai": "ทางด่วน",
 		"japanese": "アウトバーン",
@@ -42,6 +47,7 @@
 	"constructionCategory_rails": {
 		"english": "Rails",
 		"german": "Gleise",
+		"french": "Rails",
 		"italian": "Binari",
 		"thai": "ราง",
 		"japanese": "線路",
@@ -50,6 +56,7 @@
 	"constructionCategory_pipes": {
 		"english": "Pipes",
 		"german": "Rohre",
+		"french": "Tuyaux",
 		"italian": "Tubazioni",
 		"thai": "ท่อ",
 		"japanese": "パイプ",
@@ -58,6 +65,7 @@
 	"constructionCategory_fundamentals": {
 		"english": "Fundamentals",
 		"german": "Wichtige Gebäude",
+		"french": "Base",
 		"italian": "Fondamentali",
 		"thai": "ปัจจัยพื้นฐาน",
 		"japanese": "基本",
@@ -66,6 +74,7 @@
 	"constructionCategory_mines": {
 		"english": "Mines",
 		"german": "Minen",
+		"french": "Mines",
 		"italian": "Miniere",
 		"thai": "เหมืองแร่",
 		"japanese": "採掘",
@@ -74,6 +83,7 @@
 	"constructionCategory_smallMines": {
 		"english": "Small Mines",
 		"german": "Kleine Minen",
+		"french": "Petites mines",
 		"italian": "Miniere Piccole",
 		"thai": "เหมืองแร่ขนาดเล็ก",
 		"japanese": "小型採掘機",
@@ -82,6 +92,7 @@
 	"constructionCategory_largeMines": {
 		"english": "Large Mines",
 		"german": "Große Minen",
+		"french": "Grandes mines",
 		"italian": "Miniere Grandi",
 		"thai": "เหมืองแร่ขนาดใหญ่",
 		"japanese": "大型採掘機",
@@ -90,6 +101,7 @@
 	"constructionCategory_industry": {
 		"english": "Industry",
 		"german": "Industrie",
+		"french": "Industrie",
 		"italian": "Industrie",
 		"thai": "อุตสาหกรรม",
 		"japanese": "工業施設",
@@ -98,6 +110,7 @@
 	"constructionCategory_lowTechIndustry": {
 		"english": "Low Tech Industry",
 		"german": "Low-Tech Industrie",
+		"french": "Industrie Low-Tech",
 		"italian": "Industrie Low-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับต่ำ",
 		"japanese": "低技術工業",
@@ -106,6 +119,7 @@
 	"constructionCategory_midTechIndustry": {
 		"english": "Mid Tech Industry",
 		"german": "Mid-Tech Industry",
+		"french": "Industrie Mid-Tech",
 		"italian": "Industrie Mid-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับกลาง",
 		"japanese": "中技術工業",
@@ -114,6 +128,7 @@
 	"constructionCategory_highTechIndustry": {
 		"english": "High Tech Industry",
 		"german": "High-Tech Industry",
+		"french": "Industrie High-Tech",
 		"italian": "Industrie High-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับสูง",
 		"japanese": "高技術工業",
@@ -122,6 +137,7 @@
 	"constructionCategory_gasAndLiquids": {
 		"english": "Gas and Liquids",
 		"german": "Gase und Flüssigkeiten",
+		"french": "Gaz et liquides",
 		"italian": "Gas e Liquidi",
 		"thai": "แก๊สและของเหลว",
 		"japanese": "気体と液体",
@@ -130,6 +146,7 @@
 	"constructionCategory_tanks": {
 		"english": "Tanks",
 		"german": "Tanks",
+		"french": "Réservoirs",
 		"italian": "Serbatoi",
 		"thai": "ถัง",
 		"japanese": "タンク",
@@ -138,6 +155,7 @@
 	"constructionCategory_terraforming": {
 		"english": "Terraforming",
 		"german": "Terraforming",
+		"french": "Terraformation",
 		"italian": "Terraformazione",
 		"thai": "ปรับปรุงสภาพโลก",
 		"japanese": "テラフォーミング",
@@ -146,6 +164,7 @@
 	"constructionCategory_transport": {
 		"english": "Transport",
 		"german": "Transport",
+		"french": "Transports",
 		"italian": "Trasporti",
 		"thai": "ขนส่ง",
 		"japanese": "輸送",
@@ -154,6 +173,7 @@
 	"constructionCategory_miscellaneous": {
 		"english": "Miscellaneous",
 		"german": "Sonstiges",
+		"french": "Divers",
 		"italian": "Varie",
 		"thai": "เบ็ดเตล็ด",
 		"japanese": "その他",
@@ -162,6 +182,7 @@
 	"constructionCategory_science": {
 		"english": "Science",
 		"german": "Wissenschaft",
+		"french": "Science",
 		"italian": "Scienza",
 		"thai": "วิทยาศาสตร์",
 		"japanese": "科学",
@@ -170,6 +191,7 @@
 	"constructionCategory_food": {
 		"english": "Food",
 		"german": "Essen",
+		"french": "Nourriture",
 		"italian": "Cibo",
 		"thai": "อาหาร",
 		"japanese": "食料",
@@ -178,6 +200,7 @@
 	"constructionCategory_services": {
 		"english": "Public Services",
 		"german": "Gemeinschaftsgebäude",
+		"french": "Services publics",
 		"italian": "Servizio Pubblico",
 		"thai": "บริการสาธารณะ",
 		"japanese": "公共サービス",
@@ -186,6 +209,7 @@
 	"constructionCategory_parks": {
 		"english": "Parks",
 		"german": "Parks",
+		"french": "Parcs",
 		"italian": "Parchi",
 		"thai": "สวนสาธารณะ",
 		"japanese": "公園",
@@ -194,6 +218,7 @@
 	"constructionCategory_entertainment": {
 		"english": "Entertainment",
 		"german": "Unterhaltung",
+		"french": "Divertissement",
 		"italian": "Intrattenimento",
 		"thai": "ความบันเทิง",
 		"japanese": "娯楽",
@@ -202,6 +227,7 @@
 	"constructionCategory_decoration": {
 		"english": "Decoration",
 		"german": "Dekoration",
+		"french": "Décoration",
 		"italian": "Decorazioni",
 		"thai": "ตกแต่ง",
 		"japanese": "装飾",
@@ -210,6 +236,7 @@
 	"constructionCategory_sights": {
 		"english": "Sights",
 		"german": "Sehenswürdigkeiten",
+		"french": "Monuments",
 		"italian": "Monumenti",
 		"thai": "สถานที่ท่องเที่ยว",
 		"japanese": "観光地",
@@ -218,6 +245,7 @@
 	"constructionCategory_signs": {
 		"english": "Signs",
 		"german": "Schilder",
+		"french": "Panneaux",
 		"italian": "Cartelli",
 		"thai": "ป้าย",
 		"japanese": "看板",
@@ -226,6 +254,7 @@
 	"constructionCategory_fences": {
 		"english": "Fences",
 		"german": "Zäune",
+		"french": "Clôtures",
 		"italian": "Recinzioni",
 		"thai": "รั้ว",
 		"japanese": "フェンス",
@@ -234,6 +263,7 @@
 	"constructionCategory_pixelBuildings": {
 		"english": "Pixel Signs",
 		"german": "Pixelschilder",
+		"french": "Panneaux Pixel",
 		"italian": "Edifici Pixel",
 		"thai": "ป้ายพิกเซล",
 		"japanese": "ピクセル看板",
@@ -242,6 +272,7 @@
 	"constructionCategory_power": {
 		"english": "Power",
 		"german": "Power",
+		"french": "Électricité",
 		"italian": "Energia Elettrica",
 		"thai": "พลังงาน",
 		"japanese": "発電",

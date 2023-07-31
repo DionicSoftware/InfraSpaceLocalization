@@ -607,7 +607,7 @@
 		"spanish": "¿Quiere obtener consejos mientras juega?\n\nTambién puedes activarlos o desactivarlos en los ajustes.",
 		"spanish-esp": "¿Quieres obtener consejos mientras juegas?\n\nTambién puedes activarlos o desactivarlos en los ajustes.",
 		"italian": "Vuoi vedere i tutorial mentre stai giocando?\n\nPuoi anche attivarli e disattivarli nei settaggi.",
-		"japanese": "プレイ中にチュートリアルを 表示しますか？\n\n設定でオン/オフを切り替えることもできます。",	
+		"japanese": "プレイ中にチュートリアルを 表示しますか？\n\n設定でオン/オフを切り替えることもできます。",
 		"polish": "Chcesz, aby w czasie gry pojawiały się podpowiedzi samouczka?\n\nMożesz je włączyć lub wyłączyć w ustawieniach.",
 		"czech": "Chceš v průběhu hry zobrazovat nápovědu?\n\nTuto možnost můžeš vypnout/zapnout v nastavení.",
 		"ukrainian": "Чи хочете ви отримувати підказки під час гри?\n\nВи також можете ввімкнути / вимкнути їх у налаштуваннях гри пізніше.",
@@ -651,7 +651,7 @@
         "spanish": "Esta pantalla te guiará a través de las etapas necesarias para crear tu primera ciudad estable e investigar algunas tecnologías.",
 		"spanish-esp": "Este panel te guiará a través de las etapas necesarias para crear tu primera ciudad estable e investigar algunas tecnologías.",
 		"italian": "Questo pannello ti guiderà attraverso i passaggi necessari per creare la tua prima città stabile e ricercare qualche tecnologia.",
-		"japanese": "このパネルは、 安定した都市の作り方と技術研究に必要な 手順を説明します。",	
+		"japanese": "このパネルは、 安定した都市の作り方と技術研究に必要な 手順を説明します。",
 		"polish": "Informacje w tym panelu przeprowadzą cię przez kolejne kroki niezbędne do zbudowania pierwszego, stabilnego miasta i odkrycia kilku technologii.",
 		"czech": "Tento panel tě provede nutnými kroky pro první soběstačné město a výzkumem prvních technologií.",
 		"ukrainian": "Ця панель проведе вас через всі необхідні кроки для створення вашого першого міста та дослідження деяких початкових технологій.",
@@ -948,7 +948,7 @@
 		"turkish":"Kaç tane vatandaşın daha iyi konutlara geçmesi gerektiğini görmek için ilerleme çubuğunu kontrol ediniz.",
 		"romanian": "Verifică bara de progres pentru a vedea câți cetățeni trebuie să obțină locuințe mai bune pentru a ajunge la nivelul următor.",
 		"danish":"Tjek statuslinjen for at se, hvor mange beboere der skal have en bedre bolig for at nå det næste niveau.",
-		
+
 	},
 	"tutorial_productionPanel": {
 		"english": "Jobs Prioritization",
@@ -1114,22 +1114,26 @@
 		"turkish": "Kılavuz çizgisini seçmek için bu tuşları kullan. Kılavuz çizgilerini yolları ve binaları ortalı bir şekilde inşa etmek için kullanabilirsin yada kapatıp sınırlama olmadan inşaa edebilirsin",
 		"chinese": "使用这些按钮选择你想要的网格。你可以使用网格让你的建筑物更整齐，或者关掉它们自由建造。",
 	},
-  "tutorialMessage_research_title": {
-    "english": "Research",
-	  "thai":"วิจัย",
-	  "turkish": "Araştırma",
-  },
-  "tutorialMessage_research_desc": {
-    "english": "Press this button to open the Tech-Tree.",
-	  "thai":"กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
-	  "turkish": "Teknoloji Ağacını açmak için bu düğmeye basın",
-  },
-  "tutorialMessage_trains_title": {
-    "english": "Trains Panel",
-	  "turkish": "Tren Paneli",
-  },
-  "tutorialMessage_trains_desc": {
-    "english": "Press this button to open the Trains Panel.",
-	  "turkish": "Tren Panelini açmak için bu düğmeye basın",
-  },
+  	"tutorialMessage_research_title": {
+    	"english": "Research",
+		"french": "Recherche",
+	  	"thai": "วิจัย",
+	  	"turkish": "Araştırma",
+  	},
+  	"tutorialMessage_research_desc": {
+    	"english": "Press this button to open the Tech-Tree.",
+		"french": "Appuyez sur ce bouton pour ouvrir l'arbre technologique.",
+	  	"thai": "กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
+	  	"turkish": "Teknoloji Ağacını açmak için bu düğmeye basın",
+  	},
+  	"tutorialMessage_trains_title": {
+    	"english": "Trains Panel",
+		"french": "Menu Trains",
+	  	"turkish": "Tren Paneli",
+  	},
+  	"tutorialMessage_trains_desc": {
+    	"english": "Press this button to open the Trains Panel.",
+		"french": "Appuyez sur ce bouton pour ouvrir le Menu Trains.",
+	  	"turkish": "Tren Panelini açmak için bu düğmeye basın",
+  	},
 }

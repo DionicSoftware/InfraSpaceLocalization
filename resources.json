@@ -1248,6 +1248,7 @@
     "resource_plastic": {
         "english": "Plastic",
         "german": "Kunststoff",
+        "french": "Plastique",
         "italian": "Plastica",
         "thai": "พลาสติก",
         "japanese": "プラスチック",
@@ -1256,6 +1257,7 @@
     "resource_reinforcedIridium": {
         "english": "Reinforced Iridium",
         "german": "Verstärktes Iridium",
+        "french": "Iridium renforcé",
         "italian": "Iridio Rinforzato",
         "thai": "อิริเดียมเสริมแกร่ง",
         "japanese": "強化イリジウム",
@@ -1264,6 +1266,7 @@
     "resource_superconductor": {
         "english": "Superconductor",
         "german": "Supraleiter",
+        "french": "Supraconducteur",
         "italian": "Superconduttore",
         "thai": "วัสดุตัวนำยวดยิ่ง",
         "japanese": "超伝導材料",
@@ -1272,6 +1275,7 @@
     "resource_chemicals": {
         "english": "Chemicals",
         "german": "Chemikalien",
+        "french": "Produits chimiques",
         "italian": "Prodotti Chimici",
         "thai": "เคมีภัณฑ์",
         "japanese": "化学製品",
@@ -1280,6 +1284,7 @@
     "resource_industrialChemicals": {
         "english": "Industrial Chemicals",
         "german": "Industriechemikalien",
+        "french": "Produits chimiques industriels",
         "italian": "Prodotti Chimici Industriali",
         "thai": "เคมีภัณฑ์อุตสาหกรรม",
         "japanese": "工業用化学製品",
@@ -1288,6 +1293,7 @@
     "resource_distilledWater": {
         "english": "Distilled Water",
         "german": "Destilliertes Wasser",
+        "french": "Eau distillée",
         "italian": "Acqua Distillata",
         "thai": "น้ำกลั่น",
         "japanese": "蒸留水",
@@ -1296,6 +1302,7 @@
     "resource_copperBar": {
         "english": "Copper Bar",
         "german": "Kupfer Barren",
+        "french": "Lingot de cuivre",
         "italian": "Lingotto di Rame",
         "thai": "แท่งทองแดง",
         "japanese": "銅の延べ棒",
@@ -1304,6 +1311,7 @@
     "resource_heatExchanger": {
         "english": "Heat Exchanger",
         "german": "Wärmetauscher",
+        "french": "Échangeur thermique",
         "italian": "Scambiatore di Calore",
         "thai": "เครื่องแลกเปลี่ยนความร้อน",
         "japanese": "熱交換器",
@@ -1312,6 +1320,7 @@
     "resource_sensor": {
         "english": "Sensor",
         "german": "Sensor",
+        "french": "Capteur",
         "italian": "Sensore",
         "thai": "อุปกรณ์ตรวจจับ",
         "japanese": "センサー",
@@ -1320,6 +1329,7 @@
     "resource_stemCell": {
         "english": "Stem Cell",
         "german": "Stammzellen",
+        "french": "Cellule souche",
         "italian": "Cellule Staminali",
         "thai": "เซลล์ต้นกำเนิด",
         "japanese": "幹細胞",
@@ -1328,6 +1338,7 @@
     "resource_crudeOil": {
         "english": "Crude Oil",
         "german": "Rohöl",
+        "french": "Pétrole brut",
         "italian": "Petrolio",
         "thai": "น้ำมันดิบ",
         "japanese": "原油",
@@ -1336,6 +1347,7 @@
     "resource_enrichedUranium": {
         "english": "Enriched Uranium",
         "german": "Angereichertes Uran",
+        "french": "Uranium enrichi",
         "italian": "Uranio Arricchito",
         "thai": "ยูเรเนียมสารเจือปน",
         "japanese": "濃縮ウラン",
