@@ -83,4 +83,24 @@
     "french": "Parfois, le trafic est tout simplement trop important.\n\nLorsque les embouteillages ne diminuent pas, même en améliorant la route ou en gérant les voies, il peut s'avérer nécessaire de créer une route alternative.\n\nDe cette manière, vous diminuez la pression dans les zones critiques et le trafic peut reprendre son cours normal.\n\nImportant ! Les véhicules choisissent automatiquement l'itinéraire théoriquement le plus rapide, indépendamment des embouteillages.",
     "italian": "A volte il traffico è semplicemente troppo.\n\nQuando gli ingorghi non si riducono nemmeno migliorando la strada o gestendo le corsie, può essere il caso di creare una strada alternativa.\n\nIn questo modo, si riduce la pressione nelle aree critiche e il traffico può riprendere a scorrere normalmente.\n\nImportante! I veicoli scelgono automaticamente il percorso teoricamente più veloce, indipendentemente dagli ingorghi stradali.",
   },
+  "createTrainLinesTutorialTitle": {
+    "english": "Create train lines",
+    "italian": "Creazione di linee ferroviarie",
+  },
+  "createTrainLinesFirstTutorialParagraph": {
+    "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations.\n\nAfter that, connect them with a closed rail circuit.\n\nPay attention to the direction of the tracks!",
+    "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici.\n\nDopodiché, connettile con un circuito ferroviario chiuso.\n\nFai attenzione alla direzione dei binari!",
+  },
+  "createTrainLinesSecondTutorialParagraph": {
+    "english": "Now it's time to put them into operation. On the left side of the game screen, open the \"Train lines\" menu.\n\nAdd a train line on the left side of the panel. After that, select the train stations where you want the train(s) on that line to stop.\n\nPlease note: trains are used exclusively when they are the fastest option.",
+    "italian": "Ora è il momento di metterle in funzione. Sul lato sinistro della schermata di gioco, apri il menu \"Linee ferroviarie\".\n\nAggiungi una linea ferroviaria sul lato sinistro del pannello. Successivamente, seleziona le stazioni ferroviarie in cui desideri che il treno o i treni di quella linea si fermino.\n\nNota: i treni vengono utilizzati esclusivamente quando sono l'opzione più veloce.",
+  },
+  "createTrainLinesTutorialHeading": {
+    "english": "Be creative!",
+    "italian": "Usa la creatività!",
+  },
+  "createTrainLinesFirstTutorialThirdParagraph": {
+    "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
+    "italian": "Sentiti libero/a di utilizzare stazioni di dimensioni diverse e di creare bivi e intersezioni con le ferrovie.\n\nIl passaggio di più treni per ogni intersezione viene gestito automaticamente: per saperne di più, consulta la voce \"Intersezioni ferroviarie\"",
+  },
 }
