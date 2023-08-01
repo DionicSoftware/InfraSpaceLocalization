@@ -11,7 +11,7 @@
     "italian": "Treni",
     "turkish": "Trenler",
   },
-  "roadsAndHighwaysTutorialTitle": {
+  "roadsAndHighwaysTutorialTitle": {//to all translator, please keep the TutorialTitles short, or they will look shrunk in game. Thanks!
     "english": "Roads and highways",
     "french": "Routes et autoroutes",
     "italian": "Strade e autostrade",
@@ -26,17 +26,17 @@
   "roadHierarchyFirstTutorialParagraph": {
     "english": "In InfraSpace, this translates similarly to reality.\n\nSuperhighways can be used for long distances. Try to avoid intersections on them: they slow down traffic! For more information, see \"avoid left turns.\"\n\nHighways can be used to collect and redistribute traffic.\n\nNormal roads are slower and can be used in population centers and industrial areas.",
     "french": "Dans InfraSpace, cela se traduit de manière similaire à la réalité.\n\nLes superautoroutes peuvent être utilisées sur de longues distances. Essayez d'y éviter les intersections : elles ralentissent le trafic ! Pour plus d'informations, voir « Éviter les virages à gauche ».\n\nLes autoroutes peuvent être utilisées pour collecter et redistribuer le trafic.\n\nLes routes normales sont plus lentes et peuvent être utilisées dans les centres de population et les zones industrielles.",
-    "italian": "In InfraSpace, questo si traduce in modo simile alla realtà.\n\nLe superautostrade possono essere utilizzate per lunghe distanze. Cercate di evitare gli incroci su di esse: rallentano il traffico! Per maggiori informazioni, vedere \"evitare\" le svolte a sinistra.\n\nLe autostrade possono essere utilizzate per raccogliere e ridistribuire il traffico.\n\nLe strade normali sono più lente e possono essere utilizzate nei centri abitati e nelle aree industriali.",
+    "italian": "In InfraSpace, questo si traduce in modo simile alla realtà.\n\nLe superautostrade possono essere utilizzate per lunghe distanze. Cerca di evitare gli incroci su di esse: rallentano il traffico! Per maggiori informazioni, consulta la voce \"evita le svolte a sinistra\".\n\nLe autostrade possono essere utilizzate per raccogliere e ridistribuire il traffico.\n\nLe strade normali sono più lente e possono essere utilizzate nei centri abitati e nelle aree industriali.",
   },
   "roadHierarchySecondTutorialParagraph": {
     "english": "Use the different types of roads strategically!\n\nFor example, prevent traffic from passing through the slow roads of a city by building a highway around it.",
     "french": "Utilisez les différents types de routes de manière stratégique !\n\nPar exemple, empêcher le trafic de passer par les routes lentes d'une ville en construisant une autoroute autour de celle-ci.",
-    "italian": "Utilizzate i diversi tipi di strade in modo strategico!\n\nAd esempio, evitate che il traffico passi attraverso le strade lente di una città costruendo un'autostrada intorno a essa.",
+    "italian": "Utilizza i diversi tipi di strade in modo strategico!\n\nAd esempio, evita che il traffico passi attraverso le strade lente di una città costruendo un'autostrada intorno a essa.",
   },
   "laneConfigurationToolTutorialTitle": {
     "english": "Lane configuration tool",
     "french": "Outil de configuration des voies",
-    "italian": "Strumento di configurazione corsie",
+    "italian": "Configurazione delle corsie",
     "turkish": "Şerit yapılandırma aleti",
   },
   "laneConfigurationToolFirstTutorialParagraph": {
@@ -70,7 +70,7 @@
   "laneMathematicsTutorialParagraph": {
     "english": "It may sound scary from the title, but it's pretty simple!\n\nTo avoid causing traffic jams, make the number of incoming lanes match the number of outgoing lanes.",
     "french": "Le titre peut sembler effrayant, mais c'est très simple !\n\nPour éviter les embouteillages, le nombre de voies entrantes doit correspondre au nombre de voies sortantes.",
-    "italian": "Il titolo può sembrare spaventoso, ma è piuttosto semplice!\n\nPer non causare ingorghi stradali, fate in modo che il numero di corsie in entrata corrisponda al numero di corsie in uscita.",
+    "italian": "Il titolo può sembrare spaventoso, ma è piuttosto semplice!\n\nPer non causare ingorghi stradali, fai in modo che il numero di corsie in entrata corrisponda al numero di corsie in uscita.",
   },
   "highTrafficAreasTutorialTitle": {
     "english": "High traffic areas",
@@ -88,8 +88,8 @@
     "italian": "Creazione di linee ferroviarie",
   },
   "createTrainLinesFirstTutorialParagraph": {
-    "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations.\n\nAfter that, connect them with a closed rail circuit.\n\nPay attention to the direction of the tracks!",
-    "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici.\n\nDopodiché, connettile con un circuito ferroviario chiuso.\n\nFai attenzione alla direzione dei binari!",
+    "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations.\n\nAfter that, connect them with a closed rail circuit. Pay attention to the direction of the tracks!",
+    "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici.\n\nDopodiché, connettile con un circuito ferroviario chiuso. Fai attenzione alla direzione dei binari!",
   },
   "createTrainLinesSecondTutorialParagraph": {
     "english": "Now it's time to put them into operation. On the left side of the game screen, open the \"Train lines\" menu.\n\nAdd a train line on the left side of the panel. After that, select the train stations where you want the train(s) on that line to stop.\n\nPlease note: trains are used exclusively when they are the fastest option.",
@@ -99,8 +99,20 @@
     "english": "Be creative!",
     "italian": "Usa la creatività!",
   },
-  "createTrainLinesFirstTutorialThirdParagraph": {
+  "createTrainLinesThirdTutorialParagraph": {
     "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
     "italian": "Sentiti libero/a di utilizzare stazioni di dimensioni diverse e di creare bivi e intersezioni con le ferrovie.\n\nIl passaggio di più treni per ogni intersezione viene gestito automaticamente: per saperne di più, consulta la voce \"Intersezioni ferroviarie\"",
+  },
+  "railsIntersectionsTutorialTitle": {
+    "english": "Rails intersections",
+    "italian": "Intersezioni ferroviarie",
+  },
+  "railsIntersectionsFirstTutorialParagraph": {
+    "english": "The passage of multiple trains per intersection is handled by an automatic signaling system.\n\nTo avoid slowdowns on railway lines, it is useful to know how it works! Access the signaling overview by clicking the traffic light icon in the \"Rails\" category.",
+    "italian": "Il passaggio di più treni per intersezione è gestito da un sistema di segnalazione automatico.\n\nPer evitare rallentamenti sulle linee ferroviarie, è utile conoscerne il funzionamento! Accedi alla panoramica del sistema di segnalamento cliccando sull'icona del semaforo nella categoria \"Binari\".",
+  },
+  "railsIntersectionsSecondTutorialParagraph": {
+    "english": "Intersections are highlighted in red, while orange zones indicate an unsafe area.\n\nWhen a train is in an orange or red zone, no other trains can enter that area.\n\nMake sure there is a green section between intersections, or your trains will have to wait for a long time!",
+    "italian": "Le intersezioni sono evidenziate in rosso, mentre le zone arancioni indicano un'area non sicura.\n\nQuando un treno si trova in una zona arancione o rossa, nessun altro treno può entrare in quell'area.\n\nAssicurati che ci sia una sezione verde tra le intersezioni, o i tuoi treni dovranno aspettare a lungo prima di poter passare!",
   },
 }
