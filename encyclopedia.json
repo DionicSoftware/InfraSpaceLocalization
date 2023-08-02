@@ -35,7 +35,7 @@
   },
   "laneConfigurationToolTutorialTitle": {
     "english": "Lane configuration tool",
-    "french": "Outil de configuration des voies",
+    "french": "Configuration des voies",
     "italian": "Configurazione delle corsie",
     "turkish": "Şerit yapılandırma aleti",
   },
@@ -85,34 +85,42 @@
   },
   "createTrainLinesTutorialTitle": {
     "english": "Create train lines",
+    "french": "Créer des lignes de train",
     "italian": "Creazione di linee ferroviarie",
   },
   "createTrainLinesFirstTutorialParagraph": {
     "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations.\n\nAfter that, connect them with a closed rail circuit. Pay attention to the direction of the tracks!",
+    "french": "Voyons étape par étape comment créer une ou plusieurs lignes ferroviaires.\n\nTout d'abord, construisez au moins deux gares. Elles servent à charger et à décharger les marchandises, alors placez-les à des endroits stratégiques.\n\nEnsuite, reliez-les avec un circuit ferroviaire fermé. Faites attention à la direction des rails !",
     "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici.\n\nDopodiché, connettile con un circuito ferroviario chiuso. Fai attenzione alla direzione dei binari!",
   },
   "createTrainLinesSecondTutorialParagraph": {
     "english": "Now it's time to put them into operation. On the left side of the game screen, open the \"Train lines\" menu.\n\nAdd a train line on the left side of the panel. After that, select the train stations where you want the train(s) on that line to stop.\n\nPlease note: trains are used exclusively when they are the fastest option.",
+    "french": "Il est maintenant temps de les faire fonctionner. Sur le côté gauche de l'écran de jeu, ouvrez le menu « Lignes de train ».\n\nAjoutez une ligne de train sur le côté gauche du panneau. Ensuite, sélectionnez les gares où vous souhaitez que le(s) train(s) de cette ligne s'arrête(nt).\n\nRemarque : les trains sont utilisés exclusivement lorsqu'ils constituent l'option la plus rapide.",
     "italian": "Ora è il momento di metterle in funzione. Sul lato sinistro della schermata di gioco, apri il menu \"Linee ferroviarie\".\n\nAggiungi una linea ferroviaria sul lato sinistro del pannello. Successivamente, seleziona le stazioni ferroviarie in cui desideri che il treno o i treni di quella linea si fermino.\n\nNota: i treni vengono utilizzati esclusivamente quando sono l'opzione più veloce.",
   },
   "createTrainLinesTutorialHeading": {
     "english": "Be creative!",
+    "french": "Soyez créatifs !",
     "italian": "Usa la creatività!",
   },
   "createTrainLinesThirdTutorialParagraph": {
     "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
+    "french": "N'hésitez pas à utiliser des stations de tailles différentes et à créer des jonctions et des intersections avec des rails.\n\nLe passage de plusieurs trains par intersection est géré automatiquement : voir « Intersections ferroviaires » pour en savoir plus.",
     "italian": "Sentiti libero/a di utilizzare stazioni di dimensioni diverse e di creare bivi e intersezioni con le ferrovie.\n\nIl passaggio di più treni per ogni intersezione viene gestito automaticamente: per saperne di più, consulta la voce \"Intersezioni ferroviarie\"",
   },
   "railsIntersectionsTutorialTitle": {
     "english": "Rails intersections",
+    "french": "Intersections ferroviaires",
     "italian": "Intersezioni ferroviarie",
   },
   "railsIntersectionsFirstTutorialParagraph": {
     "english": "The passage of multiple trains per intersection is handled by an automatic signaling system.\n\nTo avoid slowdowns on railway lines, it is useful to know how it works! Access the signaling overview by clicking the traffic light icon in the \"Rails\" category.",
+    "french": "Le passage de plusieurs trains par intersection est géré par un système de signalisation automatique.\n\nPour éviter les ralentissements sur les lignes ferroviaires, il est utile de savoir comment cela fonctionne ! Accédez à la vue d'ensemble de la signalisation en cliquant sur l'icône de feu de signalisation dans la catégorie « Rails ».",
     "italian": "Il passaggio di più treni per intersezione è gestito da un sistema di segnalazione automatico.\n\nPer evitare rallentamenti sulle linee ferroviarie, è utile conoscerne il funzionamento! Accedi alla panoramica del sistema di segnalamento cliccando sull'icona del semaforo nella categoria \"Binari\".",
   },
   "railsIntersectionsSecondTutorialParagraph": {
     "english": "Intersections are highlighted in red, while orange zones indicate an unsafe area.\n\nWhen a train is in an orange or red zone, no other trains can enter that area.\n\nMake sure there is a green section between intersections, or your trains will have to wait for a long time!",
+    "french": "Les intersections sont mises en évidence en rouge, tandis que les zones orange indiquent une zone dangereuse.\n\nLorsqu'un train se trouve dans une zone orange ou rouge, aucun autre train ne peut entrer dans cette zone.\n\nVeillez à ce qu'il y ait une section verte entre les intersections, sinon vos trains devront attendre longtemps !",
     "italian": "Le intersezioni sono evidenziate in rosso, mentre le zone arancioni indicano un'area non sicura.\n\nQuando un treno si trova in una zona arancione o rossa, nessun altro treno può entrare in quell'area.\n\nAssicurati che ci sia una sezione verde tra le intersezioni, o i tuoi treni dovranno aspettare a lungo prima di poter passare!",
   },
 }
