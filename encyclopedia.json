@@ -141,13 +141,13 @@
     "english": "Click on the button with the yield sign icon. Now I could decide which roads will have the right of way in the intersection, and which ones will have to yield it instead. Reverse the right of way by pressing on the large sign that will appear on the road.\n\nBy exiting the menu, the signs will remain. If you want to remove them, use the last of the four buttons, or switch to management by traffic lights.",
     "italian": "Clicca sul pulsante con l’icona del segnale di precedenza. Ora potrei decidere quali strade avranno la precedenza nell’incrocio, e quali dovranno invece cederla. Inverti la precedenza premendo sul grande segnale che apparirà sulla strada.\n\nUscendo dal menu, i cartelli rimarranno. Se vuoi rimuoverli, utilizza l’ultimo dei quattro pulsanti, oppure passa alla gestione per semafori.",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "pipesTutorialTitle": {
+    "english": "Pipes",
+    "italian": "Tubazioni",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "pipesTutorialParagraph": {
+    "english": "Some resources can be transported via underground pipelines. This is the case for oxygen, water, methane, and crude oil.\n\nThe pipes connect automatically when they are near a building that requires that particular resource. In addition, multiple pipes can be built in the same tiles: each one is at a different depth.\n\nUsing pipelines can greatly reduce road traffic, at a cost: buildings that produce the resources transported by pipelines consume twice as much electricity. Pumping liquids and gas is energy-consuming!",
+    "italian": "Alcune risorse possono essere trasportate tramite tubature sotterranee. È il caso di ossigeno, acqua, metano e petrolio grezzo.\n\nI tubi si connettono automaticamente quando sono in prossimità di un edificio che richiede quella determinata risorsa. Inoltre, è possibile costruire più tubi nelle stesse caselle: ognuno di essi si trova a una profondità differente!\n\nL’utilizzo di tubature può ridurre notevolmente il traffico stradale, a un costo: gli edifici che producono le risorse trasportate con le tubature, consumano il doppio dell'energia elettrica. Pompare liquidi e gas è energeticamente dispendioso!",
   },
   "": {
     "english": "",
