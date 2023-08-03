@@ -51,9 +51,9 @@
     "turkish": "Sola dönüşlerden kaçının",
   },
   "avoidLeftTurnsTutorialParagraph": {
-    "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the lane configuration tool.\n\nThis is especially good for highways... as in real life! Left turns, in fact, slow down all vehicles coming from the opposite direction.",
+    "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the Lane configuration tool.\n\nThis is especially good for highways... as in real life! Left turns, in fact, slow down all vehicles coming from the opposite direction.",
     // (just last phrase)"french": "Attention aux virages à gauche !\n\nSi la route est très fréquentée, il est préférable de créer un pont sur le côté gauche et d'interdire les virages à gauche à l'aide de l'outil de configuration des voies.\n\nC'est particulièrement utile pour les autoroutes... comme dans la vraie vie !",
-    "italian": "Attenzione alle svolte a sinistra!\n\nSe c'è molto traffico sulla strada, è meglio creare un ponte sul lato sinistro e vietare le svolte a sinistra utilizzando lo strumento di configurazione delle corsie.\n\nQuesto è particolarmente indicato per le autostrade... come nella vita reale! Le svolte a sinistra, infatti, rallentano i veicoli in arrivo dalla direzione opposta.",
+    "italian": "Attenzione alle svolte a sinistra!\n\nSe c'è molto traffico sulla strada, è meglio creare un ponte sul lato sinistro e vietare le svolte a sinistra utilizzando lo Strumento di configurazione delle corsie.\n\nQuesto è particolarmente indicato per le autostrade... come nella vita reale! Le svolte a sinistra, infatti, rallentano i veicoli in arrivo dalla direzione opposta.",
   },
   "laneMathematicsTutorialTitle": {
     "english": "Lane mathematics",
@@ -173,20 +173,28 @@
     "english": "Sometimes the storage may remain empty for a long time while it waits for resources to arrive. You can check for pending deliveries by hovering the cursor over the desired resource.\n\nIn those cases, it is better to place factories closer together or built faster routes!",
     "italian": "A volte il magazzino può rimanere vuoto a lungo mentre attende che le risorse arrivino. Puoi controllare se ci sono consegne pendenti posizionando il cursore sulla risorsa desiderata.\n\nIn questi casi, meglio posizionare le industrie più vicine tra loro o costruire strade più veloci!",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "gondolasTutorialTitle": {
+    "english": "Gondolas",
+    "italian": "Cabinovie",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "gondolasTutorialParagraph": {
+    "english": "Cargo gondolas can be used to easily transport resources up and down slopes.\n\nBuild the first gondola with the cable car side facing the desired direction. The second gondola should face the first so that the cables form a straight path.",
+    "italian": "Le cabinovie possono essere utilizzate per trasportare agevolmente le risorse lungo le pendenze.\n\nCostruisci la prima gondola con il lato della funivia rivolto verso la direzione desiderata. La seconda gondola dovrà essere rivolta verso la prima, in modo che i cavi formino un percorso rettilineo.",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "immigrationTutorialTitle": {
+    "english": "Immigration",
+    "italian": "Immigrazione",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "immigrationTutorialParagraph": {
+    "english": "You can check the immigration rate by clicking on the Spaceport. To increase the immigration rate, improve your habitats by meeting their requirements!\n\nPlease note: building multiple Spaceports does not increase the immigration rate. However, it may be a strategy to place them at different points on the map to distribute traffic to the habitats.",
+    "italian": "Puoi vedere il tasso d’immigrazione cliccando sullo spazio porto. Per aumentare il tasso d’immigrazione, migliora i tuoi habitat soddisfandone i requisiti!\n\nNota bene: costruire più spazio porti non aumenta il tasso d’immigrazione; tuttavia può essere una strategia posizionarli in diversi punti della mappa per distribuire il traffico verso gli habitat.",
+  },
+  "productionOverviewTutorialTitle": {
+    "english": "Production overview",
+    "italian": "Panoramica della produzione",
+  },
+  "productionOverviewTutorialParagraph": {
+    "english": "Open the Production Overview panel located on the left side of the game screen.\n\nHere you can compare production and consumption. Adjust production per resource via the slider bars. This way, you can decrease the number of workers and reduce production as needed.\n\nHaving a slight overproduction is useful to fill up warehouses and always have a good supply in case of unforeseen events!",
+    "italian": "Apri il pannello Panoramica della produzione che si trova a sinistra della schermata di gioco.\n\nQui puoi comparare la produzione e i consumi. Aggiusta la produzione per risorsa tramite le barre di scorrimento. In questo modo, puoi diminuire il numero di lavoratori e ridurre la produzione secondo le tue necessità.\n\nAvere una leggera sovrapproduzione è utile per riempire i magazzini e avere sempre una buona scorta in caso di imprevisti!",
   },
 }
