@@ -5,12 +5,6 @@
     "italian": "Enciclopedia",
     "turkish": "Ansiklopedi",
   },
-  "trainsTutorialTitle": {
-    "english": "Trains",
-    "french": "Trains",
-    "italian": "Treni",
-    "turkish": "Trenler",
-  },
   "roadsAndHighwaysTutorialTitle": {//to all translator, please keep the TutorialTitles short, or they will look shrunk in game. Thanks!
     "english": "Roads and highways",
     "french": "Routes et autoroutes",
@@ -23,12 +17,12 @@
     "italian": "Gerarchia delle strade",
     "turkish": "Yol hiyerarşisi",
   },
-  "roadHierarchyFirstTutorialParagraph": {
-    "english": "In InfraSpace, this translates similarly to reality.\n\nSuperhighways can be used for long distances. Try to avoid intersections on them: they slow down traffic! For more information, see \"avoid left turns.\"\n\nHighways can be used to collect and redistribute traffic.\n\nNormal roads are slower and can be used in population centers and industrial areas.",
-    "french": "Dans InfraSpace, cela se traduit de manière similaire à la réalité.\n\nLes superautoroutes peuvent être utilisées sur de longues distances. Essayez d'y éviter les intersections : elles ralentissent le trafic ! Pour plus d'informations, voir « Éviter les virages à gauche ».\n\nLes autoroutes peuvent être utilisées pour collecter et redistribuer le trafic.\n\nLes routes normales sont plus lentes et peuvent être utilisées dans les centres de population et les zones industrielles.",
-    "italian": "In InfraSpace, questo si traduce in modo simile alla realtà.\n\nLe superautostrade possono essere utilizzate per lunghe distanze. Cerca di evitare gli incroci su di esse: rallentano il traffico! Per maggiori informazioni, consulta la voce \"evita le svolte a sinistra\".\n\nLe autostrade possono essere utilizzate per raccogliere e ridistribuire il traffico.\n\nLe strade normali sono più lente e possono essere utilizzate nei centri abitati e nelle aree industriali.",
+  "roadsAndHighwaysFirstTutorialParagraph": {
+    "english": "In InfraSpace, the road hierarchy can be summarized as follows: superhighways are suitable for long distances without interruption, highways for collecting and redistributing traffic, while normal roads are slower and are used in population centers and industrial areas.\n\nTry to avoid intersections on highways: they slow down traffic! For more information, see \"avoid left turns.\"",
+    //"french": "Dans InfraSpace, cela se traduit de manière similaire à la réalité.\n\nLes superautoroutes peuvent être utilisées sur de longues distances. Essayez d'y éviter les intersections : elles ralentissent le trafic ! Pour plus d'informations, voir « Éviter les virages à gauche ».\n\nLes autoroutes peuvent être utilisées pour collecter et redistribuer le trafic.\n\nLes routes normales sont plus lentes et peuvent être utilisées dans les centres de population et les zones industrielles.",
+    "italian": "In InfraSpace, la gerarchia delle strade può essere riassunta come segue: le superautostrade sono adatte per coprire lunghe distanze senza interruzioni, le autostrade per raccogliere e ridistribuire il traffico, mentre le strade normali sono più lente e vengono utilizzate nei centri abitati e nelle aree industriali.\n\nCerca di evitare gli incroci sulle autostrade: rallentano il traffico! Per ulteriori informazioni, vedere \"evitare le svolte a sinistra\".",
   },
-  "roadHierarchySecondTutorialParagraph": {
+  "roadsAndHighwaysSecondTutorialParagraph": {
     "english": "Use the different types of roads strategically!\n\nFor example, prevent traffic from passing through the slow roads of a city by building a highway around it.",
     "french": "Utilisez les différents types de routes de manière stratégique !\n\nPar exemple, empêcher le trafic de passer par les routes lentes d'une ville en construisant une autoroute autour de celle-ci.",
     "italian": "Utilizza i diversi tipi di strade in modo strategico!\n\nAd esempio, evita che il traffico passi attraverso le strade lente di una città costruendo un'autostrada intorno a essa.",
@@ -41,7 +35,7 @@
   },
   "laneConfigurationToolFirstTutorialParagraph": {
     "english": "Open the Lane configuration tool by clicking on an intersection.\n\nThe colored lines indicate the directions allowed for that particular lane.",
-    "french": "Ouvrez l'outil de configuration des voies en cliquant sur une intersection.\n\nLes lignes colorées indiquent les directions autorisées pour cette voie particulière.",
+    //"french": "Ouvrez l'outil de configuration des voies en cliquant sur une intersection.\n\nLes lignes colorées indiquent les directions autorisées pour cette voie particulière.",
     "italian": "Apri lo strumento di configurazione delle corsie facendo clic su un'incrocio.\n\nLe linee colorate indicano le direzioni consentite per quella particolare corsia.",
   },
   "laneConfigurationToolSecondTutorialParagraph": {
