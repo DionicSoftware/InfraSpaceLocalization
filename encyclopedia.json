@@ -149,6 +149,26 @@
     "english": "Some resources can be transported via underground pipelines. This is the case for oxygen, water, methane, and crude oil.\n\nThe pipes connect automatically when they are near a building that requires that particular resource. In addition, multiple pipes can be built in the same tiles: each one is at a different depth.\n\nUsing pipelines can greatly reduce road traffic, at a cost: buildings that produce the resources transported by pipelines consume twice as much electricity. Pumping liquids and gas is energy-consuming!",
     "italian": "Alcune risorse possono essere trasportate tramite tubature sotterranee. È il caso di ossigeno, acqua, metano e petrolio grezzo.\n\nI tubi si connettono automaticamente quando sono in prossimità di un edificio che richiede quella determinata risorsa. Inoltre, è possibile costruire più tubi nelle stesse caselle: ognuno di essi si trova a una profondità differente!\n\nL’utilizzo di tubature può ridurre notevolmente il traffico stradale, a un costo: gli edifici che producono le risorse trasportate con le tubature, consumano il doppio dell'energia elettrica. Pompare liquidi e gas è energeticamente dispendioso!",
   },
+  "outgoingStorageFullTutorialTitle": {
+    "english": "Outgoing storage full",
+    "italian": "Magazzino in uscita pieno",
+  },
+  "outgoingStorageFullFirstTutorialParagraph": {
+    "english": "Each building has two storages. The outgoing storage is where the produced resources are stored for shipment, and can be seen in the bottom right panel.\n\n If a building's information panel shows that the outgoing storage is full, it is because there are no buildings to which it can deliver goods at that moment.",
+    "italian": "Ogni edificio dispone di due magazzini. Il magazzino in uscita è dove le risorse prodotte vengono stoccate per la spedizione, e si può visualizzare nel riquadro in basso a destra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in uscita è pieno, è perché in quel momento non ci sono edifici a cui può consegnare la merce.",
+  },
+  "outgoingStorageFullSecondTutorialParagraph": {
+    "english": "To check the status of your deliveries, click on the arrow in the building information panel.\n\nBlue color indicates the selected building.\n\nGreen color indicates that the delivery is in progress.\n\nYellow color indicates that the incoming storage is already full.\n\nRed color indicates that the building is not reachable.",
+    "italian": "Per controllare lo stato delle tue consegne, clicca sulla freccia nel pannello informativo dell’edificio.\n\nIl colore blu indica l’edificio selezionato.\n\nIl colore verde indica che la consegna è in corso.\n\nIl colore giallo indica che il magazzino in entrata è già pieno.\n\nIl colore rosso indica che l’edificio non è raggiungibile.",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
   "": {
     "english": "",
     "italian": "",
