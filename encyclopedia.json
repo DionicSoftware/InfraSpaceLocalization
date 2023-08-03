@@ -108,13 +108,65 @@
     "italian": "Intersezioni ferroviarie",
   },
   "railsIntersectionsFirstTutorialParagraph": {
-    "english": "The passage of multiple trains per intersection is handled by an automatic signaling system.\n\nTo avoid slowdowns on railway lines, it is useful to know how it works! Access the signaling overview by clicking the traffic light icon in the \"Rails\" category.",
-    "french": "Le passage de plusieurs trains par intersection est géré par un système de signalisation automatique.\n\nPour éviter les ralentissements sur les lignes ferroviaires, il est utile de savoir comment cela fonctionne ! Accédez à la vue d'ensemble de la signalisation en cliquant sur l'icône de feu de signalisation dans la catégorie « Rails ».",
-    "italian": "Il passaggio di più treni per intersezione è gestito da un sistema di segnalazione automatico.\n\nPer evitare rallentamenti sulle linee ferroviarie, è utile conoscerne il funzionamento! Accedi alla panoramica del sistema di segnalamento cliccando sull'icona del semaforo nella categoria \"Binari\".",
+    "english": "The passage of multiple trains per intersection is handled by an automatic signaling system. To avoid slowdowns on railway lines, it is useful to know how it works! Access the signaling overview by clicking the traffic light icon in the \"Rails\" category.",
+    "french": "Le passage de plusieurs trains par intersection est géré par un système de signalisation automatique. Pour éviter les ralentissements sur les lignes ferroviaires, il est utile de savoir comment cela fonctionne ! Accédez à la vue d'ensemble de la signalisation en cliquant sur l'icône de feu de signalisation dans la catégorie « Rails ».",
+    "italian": "Il passaggio di più treni per intersezione è gestito da un sistema di segnalazione automatico. Per evitare rallentamenti sulle linee ferroviarie, è utile conoscerne il funzionamento! Accedi alla panoramica del sistema di segnalamento cliccando sull'icona del semaforo nella categoria \"Binari\".",
   },
   "railsIntersectionsSecondTutorialParagraph": {
-    "english": "Intersections are highlighted in red, while orange zones indicate an unsafe area.\n\nWhen a train is in an orange or red zone, no other trains can enter that area.\n\nMake sure there is a green section between intersections, or your trains will have to wait for a long time!",
-    "french": "Les intersections sont mises en évidence en rouge, tandis que les zones orange indiquent une zone dangereuse.\n\nLorsqu'un train se trouve dans une zone orange ou rouge, aucun autre train ne peut entrer dans cette zone.\n\nVeillez à ce qu'il y ait une section verte entre les intersections, sinon vos trains devront attendre longtemps !",
-    "italian": "Le intersezioni sono evidenziate in rosso, mentre le zone arancioni indicano un'area non sicura.\n\nQuando un treno si trova in una zona arancione o rossa, nessun altro treno può entrare in quell'area.\n\nAssicurati che ci sia una sezione verde tra le intersezioni, o i tuoi treni dovranno aspettare a lungo prima di poter passare!",
+    "english": "Intersections are highlighted in red, while orange zones indicate an unsafe area. When a train is in an orange or red zone, no other trains can enter that area.\n\nMake sure there is a green section between intersections, or your trains will have to wait for a long time!",
+    "french": "Les intersections sont mises en évidence en rouge, tandis que les zones orange indiquent une zone dangereuse. Lorsqu'un train se trouve dans une zone orange ou rouge, aucun autre train ne peut entrer dans cette zone.\n\nVeillez à ce qu'il y ait une section verte entre les intersections, sinon vos trains devront attendre longtemps !",
+    "italian": "Le intersezioni sono evidenziate in rosso, mentre le zone arancioni indicano un'area non sicura. Quando un treno si trova in una zona arancione o rossa, nessun altro treno può entrare in quell'area.\n\nAssicurati che ci sia una sezione verde tra le intersezioni, o i tuoi treni dovranno aspettare a lungo prima di poter passare!",
+  },
+  "trafficLightsTutorialTitle": {
+    "english": "Traffic lights and yield sign",
+    "italian": "Semafori e segnali di precedenza",
+  },
+  "trafficLightsFirstTutorialParagraph": {
+    "english": "There are some tools for managing traffic at intersections even more precisely: traffic lights and yield signs. By clicking on in intersection, related buttons will appear.",
+    "italian": "",
+  },
+  "trafficLightsFirstTutorialHeading": {
+    "english": "Traffic lights",
+    "italian": "Semafori",
+  },
+  "trafficLightsSecondTutorialParagraph": {
+    "english": "Click on the button with the traffic light icon. Now you can decide which lanes will be allowed to flow at the same time, and which will have to wait. You can add and remove traffic light phases, and decide their duration. You can also decide to ignore traffic lights when the road is completely clear by activating the box at the top.\n\nWhen you exit the menu, the traffic lights will remain active. If you want to remove them, use the last of the four buttons, or switch to management by yield signs.",
+    "italian": "Clicca sul pulsante con l’icona del semaforo. Ora puoi decidere quali corsie potranno scorrere allo stesso tempo, e quali dovranno attendere. Puoi aggiungere e rimuovere le fasi dei semafori, e deciderne la durata. Puoi anche decidere di ignorare i semafori quando la strada è completamente libera attivando la casella in alto.\n\nUscendo dal menu, i semafori rimarranno attivi. Se vuoi rimuoverli, utilizza l’ultimo dei quattro pulsanti, oppure passa alla gestione per precedenza stradale.",
+  },
+  "trafficLightsSecondTutorialHeading": {
+    "english": "Yield signs",
+    "italian": "Segnali di precedenza",
+  },
+  "trafficLightsThirdTutorialParagraph": {
+    "english": "Click on the button with the yield sign icon. Now I could decide which roads will have the right of way in the intersection, and which ones will have to yield it instead. Reverse the right of way by pressing on the large sign that will appear on the road.\n\nBy exiting the menu, the signs will remain. If you want to remove them, use the last of the four buttons, or switch to management by traffic lights.",
+    "italian": "Clicca sul pulsante con l’icona del segnale di precedenza. Ora potrei decidere quali strade avranno la precedenza nell’incrocio, e quali dovranno invece cederla. Inverti la precedenza premendo sul grande segnale che apparirà sulla strada.\n\nUscendo dal menu, i cartelli rimarranno. Se vuoi rimuoverli, utilizza l’ultimo dei quattro pulsanti, oppure passa alla gestione per semafori.",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
+  "": {
+    "english": "",
+    "italian": "",
+  },
+  "": {
+    "english": "",
+    "italian": "",
   },
 }
