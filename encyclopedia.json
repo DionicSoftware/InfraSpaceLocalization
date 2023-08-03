@@ -161,17 +161,17 @@
     "english": "To check the status of your deliveries, click on the arrow in the building information panel.\n\nBlue color indicates the selected building.\n\nGreen color indicates that the delivery is in progress.\n\nYellow color indicates that the incoming storage is already full.\n\nRed color indicates that the building is not reachable.",
     "italian": "Per controllare lo stato delle tue consegne, clicca sulla freccia nel pannello informativo dell’edificio.\n\nIl colore blu indica l’edificio selezionato.\n\nIl colore verde indica che la consegna è in corso.\n\nIl colore giallo indica che il magazzino in entrata è già pieno.\n\nIl colore rosso indica che l’edificio non è raggiungibile.",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "incomingStorageEmptyTutorialTitle": {
+    "english": "Incoming storage empty",
+    "italian": "Magazzino in entrata vuoto",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "incomingStorageEmptyFirstTutorialParagraph": {
+    "english": "Each building has two storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production.",
+    "italian": "Ogni edificio dispone di due magazzini. Il magazzino in entrata è dove le risorse ricevute vengono stoccate per essere utilizzate, e si può visualizzare nel riquadro in basso a sinistra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in entrata è vuoto, è perché una o più risorse stoccate non sono sufficienti alla produzione.",
   },
-  "": {
-    "english": "",
-    "italian": "",
+  "incomingStorageEmptySecondTutorialParagraph": {
+    "english": "Sometimes the storage may remain empty for a long time while it waits for resources to arrive. You can check for pending deliveries by hovering the cursor over the desired resource.\n\nIn those cases, it is better to place factories closer together or built faster routes!",
+    "italian": "A volte il magazzino può rimanere vuoto a lungo mentre attende che le risorse arrivino. Puoi controllare se ci sono consegne pendenti posizionando il cursore sulla risorsa desiderata.\n\nIn questi casi, meglio posizionare le industrie più vicine tra loro o costruire strade più veloci!",
   },
   "": {
     "english": "",
