@@ -1,5 +1,5 @@
 {
-  "encyclopedia": {
+  "encyclopedia": {//READ ME! Tutorials are still work in progress and the text might change during the following week. It's' better to wait until friday 11 august for translating them, or until I remove this comment :) 
     "english": "Encyclopedia",
     "french": "Encyclopédie",
     "italian": "Enciclopedia",
@@ -63,7 +63,7 @@
   },
   "laneMathematicsTutorialParagraph": {
     "english": "It may sound scary from the title, but it's pretty simple!\n\nConverging several lanes into one can congest traffic. To avoid causing traffic jams, make the number of incoming lanes match the number of outgoing lanes. In this way, vehicles will flow smoothly.",
-    //"french": "Le titre peut sembler effrayant, mais c'est très simple !\n\nPour éviter les embouteillages, le nombre de voies entrantes doit correspondre au nombre de voies sortantes.",
+    //(two more phrases)"french": "Le titre peut sembler effrayant, mais c'est très simple !\n\nPour éviter les embouteillages, le nombre de voies entrantes doit correspondre au nombre de voies sortantes.",
     "italian": "Il titolo può sembrare spaventoso, ma è piuttosto semplice!\n\nConvergere più corsie in una sola può congestionare il traffico. Per non causare ingorghi stradali, fai in modo che il numero di corsie in entrata corrisponda al numero di corsie in uscita. In questo modo, i veicoli scorreranno più facilmente.",
   },
   "highTrafficAreasTutorialTitle": {
