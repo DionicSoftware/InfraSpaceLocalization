@@ -154,7 +154,7 @@
     "italian": "Magazzino in uscita pieno",
   },
   "outgoingStorageFullFirstTutorialParagraph": {
-    "english": "Each building has two storages. The outgoing storage is where the produced resources are stored for shipment, and can be seen in the bottom right panel.\n\n If a building's information panel shows that the outgoing storage is full, it is because there are no buildings to which it can deliver goods at that moment.",
+    "english": "Each building has two storage. The outgoing storage is where the produced resources are stored for shipment, and can be seen in the bottom right panel.\n\n If a building's information panel shows that the outgoing storage is full, it is because there are no buildings to which it can deliver goods at that moment.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in uscita è dove le risorse prodotte vengono stoccate per la spedizione, e si può visualizzare nel riquadro in basso a destra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in uscita è pieno, è perché in quel momento non ci sono edifici a cui può consegnare la merce.",
   },
   "outgoingStorageFullSecondTutorialParagraph": {
