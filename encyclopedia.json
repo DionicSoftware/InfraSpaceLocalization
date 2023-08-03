@@ -34,15 +34,15 @@
     "turkish": "Şerit yapılandırma aleti",
   },
   "laneConfigurationToolFirstTutorialParagraph": {
-    "english": "Open the Lane configuration tool by clicking on an intersection.\n\nThe colored lines indicate the directions allowed for that particular lane.",
+    "english": "Manually configuring the busiest intersections can help you manage traffic better! By clicking on an intersection, four buttons will appear, the first of which is the Lane configuration tool.\n\nThe colored lines indicate the directions allowed for that particular lane.",
     //"french": "Ouvrez l'outil de configuration des voies en cliquant sur une intersection.\n\nLes lignes colorées indiquent les directions autorisées pour cette voie particulière.",
-    "italian": "Apri lo strumento di configurazione delle corsie facendo clic su un'incrocio.\n\nLe linee colorate indicano le direzioni consentite per quella particolare corsia.",
+    "italian": "La configurazione manuale degli incroci più trafficati può aiutare a gestire meglio il traffico! Facendo clic su un'intersezione, appariranno quattro pulsanti, il primo dei quali è lo strumento di configurazione delle corsie.\n\nLe linee colorate indicano le direzioni consentite per quella specifica corsia.",
   },
   "laneConfigurationToolSecondTutorialParagraph": {
-    "english": "Sometimes, manual configuration is the best option for busier intersections!",
-    "french": "Parfois, la configuration manuelle est la meilleure option pour les intersections les plus fréquentées !",
-    "italian": "A volte la configurazione manuale è l'opzione migliore per gli incroci più trafficati!",
-    "turkish": "Bazen, manuel yapılandırma daha yoğun kavşaklar için en iyi seçenektir!",
+    "english": "You can facilitate traffic flow by limiting lane outlets. Adapt this principle according to the needs and traffic flow of that intersection!",
+    //"french": "Parfois, la configuration manuelle est la meilleure option pour les intersections les plus fréquentées !",
+    "italian": "È possibile agevolare il flusso del traffico limitando gli sbocchi delle corsie. Adatta questo principio in base alle esigenze e al traffico di quell'incrocio!",
+    //"turkish": "Bazen, manuel yapılandırma daha yoğun kavşaklar için en iyi seçenektir!",
   },
   "avoidLeftTurnsTutorialTitle": {
     "english": "Avoid left turns",
@@ -51,9 +51,9 @@
     "turkish": "Sola dönüşlerden kaçının",
   },
   "avoidLeftTurnsTutorialParagraph": {
-    "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the lane configuration tool.\n\nThis is especially good for highways... as in real life!",
-    "french": "Attention aux virages à gauche !\n\nSi la route est très fréquentée, il est préférable de créer un pont sur le côté gauche et d'interdire les virages à gauche à l'aide de l'outil de configuration des voies.\n\nC'est particulièrement utile pour les autoroutes... comme dans la vraie vie !",
-    "italian": "Attenzione alle svolte a sinistra!\n\nSe c'è molto traffico sulla strada, è meglio creare un ponte sul lato sinistro e vietare le svolte a sinistra utilizzando lo strumento di configurazione delle corsie.\n\nQuesto è particolarmente indicato per le autostrade... come nella vita reale!",
+    "english": "Beware of left turns!\n\nIf there is a lot of traffic on the road, it is best to create a bridge to the left side and prohibit left turns using the lane configuration tool.\n\nThis is especially good for highways... as in real life! Left turns, in fact, slow down all vehicles coming from the opposite direction.",
+    // (just last phrase)"french": "Attention aux virages à gauche !\n\nSi la route est très fréquentée, il est préférable de créer un pont sur le côté gauche et d'interdire les virages à gauche à l'aide de l'outil de configuration des voies.\n\nC'est particulièrement utile pour les autoroutes... comme dans la vraie vie !",
+    "italian": "Attenzione alle svolte a sinistra!\n\nSe c'è molto traffico sulla strada, è meglio creare un ponte sul lato sinistro e vietare le svolte a sinistra utilizzando lo strumento di configurazione delle corsie.\n\nQuesto è particolarmente indicato per le autostrade... come nella vita reale! Le svolte a sinistra, infatti, rallentano i veicoli in arrivo dalla direzione opposta.",
   },
   "laneMathematicsTutorialTitle": {
     "english": "Lane mathematics",
@@ -62,9 +62,9 @@
     "turkish": "Şerit matematiği",
   },
   "laneMathematicsTutorialParagraph": {
-    "english": "It may sound scary from the title, but it's pretty simple!\n\nTo avoid causing traffic jams, make the number of incoming lanes match the number of outgoing lanes.",
-    "french": "Le titre peut sembler effrayant, mais c'est très simple !\n\nPour éviter les embouteillages, le nombre de voies entrantes doit correspondre au nombre de voies sortantes.",
-    "italian": "Il titolo può sembrare spaventoso, ma è piuttosto semplice!\n\nPer non causare ingorghi stradali, fai in modo che il numero di corsie in entrata corrisponda al numero di corsie in uscita.",
+    "english": "It may sound scary from the title, but it's pretty simple!\n\nConverging several lanes into one can congest traffic. To avoid causing traffic jams, make the number of incoming lanes match the number of outgoing lanes. In this way, vehicles will flow smoothly.",
+    //"french": "Le titre peut sembler effrayant, mais c'est très simple !\n\nPour éviter les embouteillages, le nombre de voies entrantes doit correspondre au nombre de voies sortantes.",
+    "italian": "Il titolo può sembrare spaventoso, ma è piuttosto semplice!\n\nConvergere più corsie in una sola può congestionare il traffico. Per non causare ingorghi stradali, fai in modo che il numero di corsie in entrata corrisponda al numero di corsie in uscita. In questo modo, i veicoli scorreranno più facilmente.",
   },
   "highTrafficAreasTutorialTitle": {
     "english": "High traffic areas",
@@ -83,9 +83,9 @@
     "italian": "Creazione di linee ferroviarie",
   },
   "createTrainLinesFirstTutorialParagraph": {
-    "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations.\n\nAfter that, connect them with a closed rail circuit. Pay attention to the direction of the tracks!",
-    "french": "Voyons étape par étape comment créer une ou plusieurs lignes ferroviaires.\n\nTout d'abord, construisez au moins deux gares. Elles servent à charger et à décharger les marchandises, alors placez-les à des endroits stratégiques.\n\nEnsuite, reliez-les avec un circuit ferroviaire fermé. Faites attention à la direction des rails !",
-    "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici.\n\nDopodiché, connettile con un circuito ferroviario chiuso. Fai attenzione alla direzione dei binari!",
+    "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations. After that, connect them with a closed rail circuit. Pay attention to the direction of the tracks!",
+    "french": "Voyons étape par étape comment créer une ou plusieurs lignes ferroviaires.\n\nTout d'abord, construisez au moins deux gares. Elles servent à charger et à décharger les marchandises, alors placez-les à des endroits stratégiques. Ensuite, reliez-les avec un circuit ferroviaire fermé. Faites attention à la direction des rails !",
+    "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici. Dopodiché, connettile con un circuito ferroviario chiuso. Fai attenzione alla direzione dei binari!",
   },
   "createTrainLinesSecondTutorialParagraph": {
     "english": "Now it's time to put them into operation. On the left side of the game screen, open the \"Train lines\" menu.\n\nAdd a train line on the left side of the panel. After that, select the train stations where you want the train(s) on that line to stop.\n\nPlease note: trains are used exclusively when they are the fastest option.",
