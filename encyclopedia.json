@@ -96,6 +96,7 @@
     "english": "Be creative!",
     "french": "Soyez créatifs !",
     "italian": "Usa la creatività!",
+    "turkish": "Yaratıcı ol",
   },
   "createTrainLinesThirdTutorialParagraph": {
     "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
@@ -106,6 +107,7 @@
     "english": "Rails intersections",
     "french": "Intersections ferroviaires",
     "italian": "Intersezioni ferroviarie",
+    "turkish": "Raylı kavşaklar",
   },
   "railsIntersectionsFirstTutorialParagraph": {
     "english": "The passage of multiple trains per intersection is handled by an automatic signaling system. To avoid slowdowns on railway lines, it is useful to know how it works! Access the signaling overview by clicking the traffic light icon in the \"Rails\" category.",
@@ -120,6 +122,7 @@
   "trafficLightsTutorialTitle": {
     "english": "Traffic lights and yield sign",
     "italian": "Semafori e segnali di precedenza",
+    "turkish": "Trafik ışıkları ve yol işareti",
   },
   "trafficLightsFirstTutorialParagraph": {
     "english": "There are some tools for managing traffic at intersections even more precisely: traffic lights and yield signs. By clicking on in intersection, related buttons will appear.",
@@ -128,6 +131,7 @@
   "trafficLightsFirstTutorialHeading": {
     "english": "Traffic lights",
     "italian": "Semafori",
+    "turkish": "Trafik ışıkları",
   },
   "trafficLightsSecondTutorialParagraph": {
     "english": "Click on the button with the traffic light icon. Now you can decide which lanes will be allowed to flow at the same time, and which will have to wait. You can add and remove traffic light phases, and decide their duration. You can also decide to ignore traffic lights when the road is completely clear by activating the box at the top.\n\nWhen you exit the menu, the traffic lights will remain active. If you want to remove them, use the last of the four buttons, or switch to management by yield signs.",
@@ -136,6 +140,7 @@
   "trafficLightsSecondTutorialHeading": {
     "english": "Yield signs",
     "italian": "Segnali di precedenza",
+    "turkish": "Verim işaretleri",
   },
   "trafficLightsThirdTutorialParagraph": {
     "english": "Click on the button with the yield sign icon. Now I could decide which roads will have the right of way in the intersection, and which ones will have to yield it instead. Reverse the right of way by pressing on the large sign that will appear on the road.\n\nBy exiting the menu, the signs will remain. If you want to remove them, use the last of the four buttons, or switch to management by traffic lights.",
@@ -144,6 +149,7 @@
   "pipesTutorialTitle": {
     "english": "Pipes",
     "italian": "Tubazioni",
+    "turkish": "Borular",
   },
   "pipesTutorialParagraph": {
     "english": "Some resources can be transported via underground pipelines. This is the case for oxygen, water, methane, and crude oil.\n\nThe pipes connect automatically when they are near a building that requires that particular resource. In addition, multiple pipes can be built in the same tiles: each one is at a different depth.\n\nUsing pipelines can greatly reduce road traffic, at a cost: buildings that produce the resources transported by pipelines consume twice as much electricity. Pumping liquids and gas is energy-consuming!",
@@ -152,6 +158,7 @@
   "outgoingStorageFullTutorialTitle": {
     "english": "Outgoing storage full",
     "italian": "Magazzino in uscita pieno",
+    "turkish": "Giden depolama dolu",
   },
   "outgoingStorageFullFirstTutorialParagraph": {
     "english": "Each building has two storage. The outgoing storage is where the produced resources are stored for shipment, and can be seen in the bottom right panel.\n\n If a building's information panel shows that the outgoing storage is full, it is because there are no buildings to which it can deliver goods at that moment.",
@@ -164,6 +171,7 @@
   "incomingStorageEmptyTutorialTitle": {
     "english": "Incoming storage empty",
     "italian": "Magazzino in entrata vuoto",
+    "turkish": "Gelen depolama alanı boş",
   },
   "incomingStorageEmptyFirstTutorialParagraph": {
     "english": "Each building has two storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production.",
@@ -176,6 +184,7 @@
   "gondolasTutorialTitle": {
     "english": "Gondolas",
     "italian": "Cabinovie",
+    "turkish": "Gondollar",
   },
   "gondolasTutorialParagraph": {
     "english": "Cargo gondolas can be used to easily transport resources up and down slopes.\n\nBuild the first gondola with the cable car side facing the desired direction. The second gondola should face the first so that the cables form a straight path.",
@@ -184,6 +193,7 @@
   "immigrationTutorialTitle": {
     "english": "Immigration",
     "italian": "Immigrazione",
+    "turkish": "Göçmenlik",
   },
   "immigrationTutorialParagraph": {
     "english": "You can check the immigration rate by clicking on the Spaceport. To increase the immigration rate, improve your habitats by meeting their requirements!\n\nPlease note: building multiple Spaceports does not increase the immigration rate. However, it may be a strategy to place them at different points on the map to distribute traffic to the habitats.",
@@ -192,6 +202,7 @@
   "productionOverviewTutorialTitle": {
     "english": "Production overview",
     "italian": "Panoramica della produzione",
+    "turkish": "Üretime genel bakış",
   },
   "productionOverviewTutorialParagraph": {
     "english": "Open the Production Overview panel located on the left side of the game screen.\n\nHere you can compare production and consumption. Adjust production per resource via the slider bars. This way, you can decrease the number of workers and reduce production as needed.\n\nHaving a slight overproduction is useful to fill up warehouses and always have a good supply in case of unforeseen events!",
