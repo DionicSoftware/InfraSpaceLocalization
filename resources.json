@@ -1031,6 +1031,7 @@
         "thai": "ตาข่ายกรอง",
         "italian": "Tessuto filtrante",
         "russian": "Фильтрующая сетка",
+        "chinese": "滤网",
     },
     "resource_advancedFilteringMesh": {
         "english": "Advanced Filtering Mesh",
@@ -1041,6 +1042,7 @@
         "thai": "ตาข่ายกรองขั้นสูง",
         "italian": "Tessuto filtrante avanzato",
         "russian": "Улучшенная фильтрующая сетка",
+        "chinese": "高级滤网",
     },
     "resource_superconductingCoil": {
         "english": "Superconducting Coil",
@@ -1051,6 +1053,7 @@
         "thai": "ขดลวดตัวนำยิ่งยวด",
         "italian": "Bobina superconduttiva",
         "russian": "Сверхпроводящая катушка",
+        "chinese": "超导线圈",
     },
 
     "resource_parkPoints": {
@@ -1244,6 +1247,7 @@
         "thai": "การปรับสภาพพื้นผิวดาว",
         "italian": "Terraformazione",
         "russian": "Терраформирование",
+        "chinese": "地球改造",
     },
     "resource_plastic": {
         "english": "Plastic",
@@ -1253,6 +1257,7 @@
         "thai": "พลาสติก",
         "japanese": "プラスチック",
         "turkish": "Plastik",
+        "chinese": "塑料",
     },
     "resource_reinforcedIridium": {
         "english": "Reinforced Iridium",
@@ -1262,6 +1267,7 @@
         "thai": "อิริเดียมเสริมแกร่ง",
         "japanese": "強化イリジウム",
         "turkish": "Güçlendirilmiş İridyum",
+        "chinese": "强化铱",
     },
     "resource_superconductor": {
         "english": "Superconductor",
@@ -1271,6 +1277,7 @@
         "thai": "วัสดุตัวนำยวดยิ่ง",
         "japanese": "超伝導材料",
         "turkish": "Süper İletken",
+        "chinese": "超导体",
     },
     "resource_chemicals": {
         "english": "Chemicals",
@@ -1280,6 +1287,7 @@
         "thai": "เคมีภัณฑ์",
         "japanese": "化学製品",
         "turkish": "Kimyasallar",
+        "chinese": "化学制品",
     },
     "resource_industrialChemicals": {
         "english": "Industrial Chemicals",
@@ -1289,6 +1297,7 @@
         "thai": "เคมีภัณฑ์อุตสาหกรรม",
         "japanese": "工業用化学製品",
         "turkish": "Endüstriyel Kimyasallar",
+        "chinese": "工业化品",
     },
     "resource_distilledWater": {
         "english": "Distilled Water",
@@ -1298,6 +1307,7 @@
         "thai": "น้ำกลั่น",
         "japanese": "蒸留水",
         "turkish": "Arıtılmış Su",
+        "chinese": "蒸馏水",
     },
     "resource_copperBar": {
         "english": "Copper Bar",
@@ -1307,6 +1317,7 @@
         "thai": "แท่งทองแดง",
         "japanese": "銅の延べ棒",
         "turkish": "Bakır Çubuk",
+        "chinese": "铜锭",
     },
     "resource_heatExchanger": {
         "english": "Heat Exchanger",
@@ -1316,6 +1327,7 @@
         "thai": "เครื่องแลกเปลี่ยนความร้อน",
         "japanese": "熱交換器",
         "turkish": "Isı Eşanjörü",
+        "chinese": "热交换器",
     },
     "resource_sensor": {
         "english": "Sensor",
@@ -1325,6 +1337,7 @@
         "thai": "อุปกรณ์ตรวจจับ",
         "japanese": "センサー",
         "turkish": "Sensör",
+        "chinese": "传感器",
     },
     "resource_stemCell": {
         "english": "Stem Cell",
@@ -1334,6 +1347,7 @@
         "thai": "เซลล์ต้นกำเนิด",
         "japanese": "幹細胞",
         "turkish": "Kök Hücre",
+        "chinese": "干细胞",
     },
     "resource_crudeOil": {
         "english": "Crude Oil",
@@ -1343,6 +1357,7 @@
         "thai": "น้ำมันดิบ",
         "japanese": "原油",
         "turkish": "Işlenmemiş Petrol",
+        "chinese": "原油",
     },
     "resource_enrichedUranium": {
         "english": "Enriched Uranium",
@@ -1352,5 +1367,6 @@
         "thai": "ยูเรเนียมสารเจือปน",
         "japanese": "濃縮ウラン",
         "turkish": "Zenginleştirilmiş Uranyum",
+        "chinese": "浓缩铀",
     },
 }

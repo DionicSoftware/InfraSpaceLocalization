@@ -145,7 +145,7 @@
 		"spanish": "Almacenamiento saliente lleno",
 		"spanish-esp": "Almacenamiento de salida lleno",
 		"russian": "Исходящее хранилище заполнено",
-		"chinese": "输出库存为空",
+		"chinese": "输出库存已满",
 		"italian": "Magazzino in uscita pieno",
 		"japanese": "在庫満杯",
 		"polish": "Magazyn towarów pełny",
@@ -3398,6 +3398,7 @@
 		"italian": "Per ogni produzione di Moduli Elettronici e Plastica, ricevi 1 unità extra.",
 		"japanese": "電子機器を生産するたびに1ユニットを追加で得られます。\n\nプラスチックを生産するたびに1ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอิเล็กทรอนิกส์คุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตพลาสติกคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
+		"chinese": "每生产一个电子产品，你将额外多获得1个产物。\n\n每生产一个塑料，你将额外多获得1个产物。",
 	},
 	"spaceshipUpgrade_communicationArray": {
 		"english": "Each time Neural Processor is produced, you get 1 extra unit.\n\nEach time VR Edutainment and Home Robot are produced, you get 2 extra unit.",
@@ -3405,6 +3406,7 @@
 		"italian": "Per ogni produzione di Processori Neurali, ricevi 1 unità extra.\n\nPer ogni produzione di Intrattenimento a Realtà Virtuale e Robot Domestici, ricevi 2 unità extra.",
 		"japanese": "ニューラルプロセッサーを生産するたびに1ユニットを追加で得られます。\n\n教育用VRと家庭用ロボットを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตเครื่องประมวลผลประสาทคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตเครื่องจำลองโลกบันเทิงเสมือนจริงและหุ่นยนต์บ้านคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
+		"chinese": "每生产一个神经处理器，你将额外多获得1个产物。\n\n每生产一个VR娱乐设备和家用机器人，你将额外多获得2个产物。",
 	},
 	"spaceshipUpgrade_computerDeck": {
 		"english": "Each time Holo Display is produced, you get 1 extra unit.\n\nEach time Computer is produced, you get 2 extra unit.",
@@ -3412,6 +3414,7 @@
 		"italian": "Per ogni produzione di Display Olografici, ricevi 1 unità extra.\n\nPer ogni produzione di Computer, ricevi 2 unità extra.",
 		"japanese": "ホロディスプレイを生産するたびに1ユニットを追加で得られます。\n\nコンピューターを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตจอโฮโลแกรมคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตคอมพิวเตอร์คุณจะได้รับหน่วยพิเศษ 2 หน่วย",
+		"chinese": "每生产一个全息显示屏，你将额外多获得1个产物。\n\n每生产一个计算机，你将额外多获得2个产物。",
 	},
 	"spaceshipUpgrade_ftlEngine": {
 		"english": "Each time Reinforced Iridium is produced, you get 1 extra unit.\n\nEach time AI Control Unit and Motor are produced, you get 2 extra unit.",
@@ -3419,6 +3422,7 @@
 		"italian": "Per ogni produzione di Iridio Rinforzato, ricevi 1 unità extra.\n\nPer ogni produzione di Unità di controllo IA e Motori, ricevi 2 unità extra.",
 		"japanese": "強化イリジウムを生産するたびに1ユニットを追加で得られます。\n\nAI制御ユニットとモーターを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอิริเดียมเสริมแกร่งคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตตัวควบคุมปัญญาประดิษฐ์และมอเตอร์คุณจะได้รับหน่วยพิเศษ 2 หน่วย",
+		"chinese": "每生产一个强化铱，你将额外多获得1个产物。\n\n每生产一个AI控制单元和发动机，你将额外多获得2个产物。",
 	},
 	"spaceshipUpgrade_ftlFuelCells": {
 		"english": "Each time Superconductor and Industrial Chemicals are produced, you get 1 extra unit.",
@@ -3426,6 +3430,7 @@
 		"italian": "Per ogni produzione di Superconduttori e Prodotti Chimici Industriali, ricevi 1 unità extra.",
 		"japanese": "超伝導材料と工業用化学製品を生産するたびに1ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตวัสดุตัวนำยวดยิ่งและเคมีภัณฑ์อุตสาหกรรมคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
+		"chinese": "每生产一个超导体和工业化品，你将额外多获得1个产物。",
 	},
 	"spaceshipUpgrade_ftlTurbine": {
 		"english": "Each time Copper Bar and Distilled Water are produced, you get 1 extra unit.\n\nEach time Industrial Robot is produced, you get 2 extra unit.",
@@ -3433,6 +3438,7 @@
 		"italian": "Per ogni produzione di Lingotti di Rame e Acqua Distillata, ricevi 1 unità extra.\n\nPer ogni produzione di Robot Industriali, ricevi 2 unità extra.",
 		"japanese": "銅の延べ棒と蒸留水を生産するたびに1ユニットを追加で得られます。\n\n工業用ロボットを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตแท่งทองแดงและน้ำกลั่นคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตหุ่นยนต์อุตสาหกรรมคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
+		"chinese": "每生产一个铜锭和蒸馏水，你将额外多获得1个产物。\n\n每生产一个工业机器人，你将额外多获得2个产物。",
 	},
 	"spaceshipUpgrade_orbitalScanners": {
 		"english": "Each time Advanced Filtering Mesh and Superconducting Coil are produced, you get 1 extra unit.\n\nEach time Filtering Mesh is produced, you get 2 extra unit.",
@@ -3440,6 +3446,7 @@
 		"italian": "Per ogni produzione di Tessuto Filtrante Avanzato e Bobine Superconduttive, ricevi 1 unità extra.\n\nPer ogni produzione di Tessuto Filtrante, ricevi 2 unità extra.",
 		"japanese": "発展型濾過用メッシュ超伝導コイルを生産するたびに1ユニットを追加で得られます。\n\n濾過用メッシュを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตตาข่ายกรองและขดลวดตัวนำยิ่งยวดคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตตาข่ายกรองคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
+		"chinese": "每生产一个高级滤网和超导线圈，你将额外多获得1个产物。\n\n每生产一个滤网，你将额外多获得2个产物。",
 	},
 	"spaceshipUpgrade_passengerDeck": {
 		"english": "Each time Survival Food and Good Food are produced, you get 1 extra unit.\n\nYou get a 15% reduction for all Habitat needs.",
@@ -3447,6 +3454,7 @@
 		"italian": "Per ogni produzione di Cibo di Sopravvivenza e Pasti Buoni, ricevi 1 unità extra.\n\nRicevi una riduzione del 15% per tutti i bisogni degli Habitat.",
 		"japanese": "非常食と食料品を生産するたびに1ユニットを追加で得られます。\n\nすべての居住地からの需要を15%削減します。",
 		"thai":"ทุกครั้งที่ผลิตอาหารประทังชีวิตและอาหารที่ดีคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nความต้องการที่อยู่อาศัยทั้งหมดจะลดลง 15%",
+		"chinese": "每生产一个生存食品和优质食品，你将额外多获得1个产物。\n\n你可以享受满足居住的所有需求减15%。",
 	},
 	"spaceshipUpgrade_hull": {
 		"english": "Each time Sensor and Heat Exchanger are produced, you get 2 extra unit.",
@@ -3454,6 +3462,7 @@
 		"italian": "Per ogni produzione di Sensori e Scambiatori di Calore, ricevi 2 unità extra.",
 		"japanese": "センサーと熱交換器を生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอุปกรณ์ตรวจจับและเครื่องแลกเปลี่ยนความร้อนคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
+		"chinese": "每生产一个传感器和热交换器，你将额外多获得2个产物。",
 	},
 	"spaceshipUpgrade_radiationShield": {
 		"english": "Each time Enriched Uranium is produced, you get 3 extra unit.\n\nEach time Radiation Core is produced, you get 4 extra unit.",
@@ -3461,6 +3470,7 @@
 		"italian": "Per ogni produzione di Uranio Arricchito, ricevi 3 unità extra.\n\nPer ogni produzione di Nuclei di Radiazione, ricevi 4 unità extra.",
 		"japanese": "濃縮ウランを生産するたびに3ユニットを追加で得られます。\n\n放射線コアを生産するたびに4ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตยูเรเนียมสารเจือปนคุณจะได้รับหน่วยพิเศษ 3 หน่วย\n\nทุกครั้งที่ผลิตแกนรังสีคุณจะได้รับหน่วยพิเศษ 4 หน่วย",
+		"chinese": "每生产一个浓缩铀，你将额外多获得3个产物。\n\n每生产一个辐射核心，你将额外多获得2个产物。",
 	},
 	"spaceshipUpgrade_storageDeck": {
 		"english": "Each time Home Appliance is produced, you get 2 extra unit.\n\nEach time Concrete and Steel are produced, you get 3 extra unit.",
@@ -3468,6 +3478,7 @@
 		"italian": "Per ogni produzione di Elettrodomestici, ricevi 2 unità extra.\n\nPer ogni produzione di Cemento e Acciaio, ricevi 3 unità extra.",
 		"japanese": "家電を生産するたびに2ユニットを追加で得られます。\n\nコンクリートと鋼鉄を生産するたびに3ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตเครื่องใช้ภายในบ้านคุณจะได้รับหน่วยพิเศษ 2 หน่วย\n\nทุกครั้งที่ผลิตคอนกรีตและเหล็กกล้าคุณจะได้รับหน่วยพิเศษ 3 หน่วย",
+		"chinese": "每生产一个家电，你将额外多获得2个产物。\n\n每生产一个混凝土和钢材，你将额外多获得3个产物。",
 	},
 	"spaceshipUpgrade_telescope": {
 		"english": "Each time Adamantine is produced, you get 5 extra unit.",
@@ -3475,6 +3486,7 @@
 		"italian": "Per ogni produzione di Adamantio, ricevi 5 unità extra.",
 		"japanese": "アダマンタイトを生産するたびに5ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอาดามันเทียมคุณจะได้รับหน่วยพิเศษ 5 หน่วย",
+		"chinese": "每生产一个金刚砂，你将额外多获得5个产物。",
 	},
 	"spaceshipUpgrade_thermalSystems": {
 		"english": "Each time Chemicals, Organic Waste and Methane are produced, you get 1 extra unit.",
@@ -3482,6 +3494,7 @@
 		"italian": "Per ogni produzione di Prodotti Chimici, Rifiuti Organici e Metano, ricevi 1 unità extra.",
 		"japanese": "化学製品と有機廃棄物とメタンを生産するたびに1ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตเคมีภัณฑ์และขยะอินทรีย์รวมถึงมีเทนคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
+		"chinese": "每生产一个化学制品、有机废料和甲烷，你将额外多获得5个产物。",
 	},
 
 	/*"spaceshipUpgrade_immigrationRateBoost": {
@@ -3869,6 +3882,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
 		"italian": "Progressi di terraformazione",
 		"russian": "Прогресс терраформирования",
+		"chinese": "地球改造进度",
 	},
 	"terraformingProgressPercentage": {
 		"english": "Terraforming Progress: %progress%%",
@@ -3879,6 +3893,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
 		"italian": "Progressi di terraformazione: %progress%%",
 		"russian": "Прогресс терраформирования: %progress%%",
+		"chinese": "地球改造进度: %progress%%",
 	},
 	"dustParticleFiltering": {
 		"english": "Dust Particle Filtering",
@@ -3889,6 +3904,7 @@
 		"thai": "การกรองอนุภาคฝุ่น",
 		"italian": "Filtrazione delle polveri sottili",
 		"russian": "Фильтрация частиц пыли",
+		"chinese": "尘埃过滤",
 	},
 	"fertilization": {
 		"english": "Soil Fertilization",
@@ -3899,6 +3915,7 @@
 		"thai": "การให้ปุ๋ยทางดิน",
 		"italian": "Distribuzione di fertilizzanti",
 		"russian": "Удобрение почвы",
+		"chinese": "土壤肥沃度",
 	},
 	"groundAcidity": {
 		"english": "Ground Acidity Regulation",
@@ -3909,6 +3926,7 @@
 		"thai": "การควบคุมความเป็นกรดของดิน",
 		"italian": "Regolazione dell'acidità del suolo",
 		"russian": "Регулирование кислотности грунта",
+		"chinese": "土壤酸度调节",
 	},
 	"ammoniaExtraction": {
 		"english": "Atmosphere Ammonia Extraction",
@@ -3919,6 +3937,7 @@
 		"thai": "การสกัดแอมโมเนียในบรรยากาศ",
 		"italian": "Estrazione di ammoniaca in atmosfera",
 		"russian": "Атмосферная экстракция аммиака",
+		"chinese": "大气氨素提取",
 	},
 	"magneticField": {
 		"english": "Magnetic Field",
@@ -3929,6 +3948,7 @@
 		"thai": "สนามแม่เหล็ก",
 		"italian": "Campo magnetico",
 		"russian": "Магнитное поле",
+		"chinese": "电磁场",
 	},
 	"terraformingPoints": {
 		"english": "Terraforming Points: %points%",
@@ -3939,6 +3959,7 @@
 		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
 		"italian": "Punti di terraformazione: %points%",
 		"russian": "Очки терраформирования: %points%",
+		"chinese": "地球改造点数: %points%",
 	},
 	"terraformedAreaOnMap": {
 		"english": "Terraformed area on map: %area%%",
@@ -3949,6 +3970,7 @@
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
 		"italian": "Area terraformata sulla mappa: %area%%",
 		"russian": "Терраформированная территория на карте: %area%%",
+		"chinese": "地图上地球改造区域: %area%%",
 	},
 	"totalProgress": {
 		"english": "Total Progress: %progress%%",
@@ -3959,6 +3981,7 @@
 		"thai": "ความคืบหน้าทั้งหมด: %progress%%",
 		"italian": "Progressi totali: %progress%%",
 		"russian": "Общий прогресс: %progress%%",
+		"chinese": "总进度: %progress%%",
 	},
 	"view": {
 		"english": "View",
@@ -3969,6 +3992,7 @@
 		"thai": "มุมมอง",
 		"italian": "Vista",
 		"russian": "Посмотреть",
+		"chinese": "查看",
 	},
 	"recentlyUsed": {
 		"english": "Recently Used",
@@ -3979,6 +4003,7 @@
 		"italian": "Usato di recente",
 		"russian": "Последнее использование",
 		"turkish": "Son Zamanlarda Kullanılmış",
+		"chinese": "最近使用",
 	},
 
 
@@ -3990,6 +4015,7 @@
 		"thai": "ระยะเวลาเผื่อเพื่อแก้ไขเมืองของคุณ",
 		"japanese": "都市を修正するための猶予期間",
 		"turkish": "Şehrinizi Düzeltmek İçin Ek Süre",
+		"chinese": "修复城市的宽限期",
 	},
 	"gracePeriodDesc": {
 		"english": "Your save has been created in an old version of the game.\n\nYou get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitants will not move in or out and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
@@ -3998,6 +4024,7 @@
 		"italian": "Il tuo salvataggio è stato creato in una versione del gioco precedente.\n\nHai a disposizione del tempo per ribilanciare la tua città secondo i nuovi parametri.\nDurante il Periodo di Grazia, gli abitanti non possono andarsene o immigrare, e non è possibile ricercare nuove tecnologie.\n\nFai click su questo pulsante quando sarai pronto/a a giocare normalmente.",
 		"thai": "การบันทึกของคุณถูกสร้างขึ้นในเกมเวอร์ชันเก่า\n\nคุณมีระยะเวลาแก้ไขเมืองและปรับให้เข้ากับข้อกำหนดใหม่\nในช่วงเวลานี้ ผู้อยู่อาศัยของคุณจะไม่ย้ายเข้าหรือออกไป และคุณจะไม่สามารถหาข้อมูล เทคโนโลยีใหม่ได้\n\nคลิกปุ่มนี้หากคุณพร้อมที่จะเล่นเกมต่อตามปกติ:",
 		"japanese": "このセーブファイルは旧バージョンで作成されています。\n\n都市を修正し、新しい需要に合わせて調整する時間があります。\nこの間、入植者は移動せず、新たな技術の研究もできません。\n\n通常通りゲームを進める準備ができたら、このボタンを押してください:",
+		"chinese": "你的存档数据是在旧版本的游戏中创建的。\n\n你有一些时间来修复你的城市，使其适应新的要求。\n在这段时间内，你的居民不会迁入或迁出，你也不能研究新技术。\n\n当你准备好继续游戏时，请单击此按钮：",
 	},
 	"gracePeriodButton": {
 		"english": "Continue Game",
@@ -4007,6 +4034,7 @@
 		"thai": "เล่นเกมต่อ",
 		"japanese": "ゲーム再開",
 		"turkish": "Oyuna Devam Et",
+		"chinese": "继续游戏",
 	},
 	"color": {
 		"english": "Color",
@@ -4016,26 +4044,31 @@
 		"thai": "สี",
 		"japanese": "色",
 		"turkish": "Renk",
+		"chinese": "颜色",
 	},
   	"noSpaceshipPartSelected": {
     	"english": "No Spaceship Part Selected",
 		"french": "Pas de partie du vaisseau spatial sélectionnée",
 	  	"thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
 	  	"turkish": "Uzay Gemisi Parçası Seçilmedi",
+		  "chinese": "未选择飞船部件",
   	},
   	"tutorial": {
     	"english": "Tutorial",
 		"french": "Tutoriel",
 	  	"turkish": "Öğretici",
+		  "chinese": "教程",
   	},
   	"trafficFlowTitle": {
-    	"english": "Traffic Flow",
+    	"english": "交通流量",
 		"french": "Flux de trafic",
 	  	"turkish": "Trafik Akışı",
+		  "chinese": "最近使用",
   	},
   	"trafficFlowDesc": {
     	"english": "This value shows the flow of the traffic, the higher it is the better",
 		"french": "Cette valeur indique la fluidité du trafic, plus elle est élevée, mieux c'est.",
 	  	"turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
+		  "chinese": "该值显示车辆流量，越高越好",
   	}
 }

@@ -520,6 +520,7 @@
     "japanese": "強化イリジウム工場",
     "thai":"โรงงานอิริเดียมเสริมแกร่ง",
     "turkish": "Güçlendirilmiş İridyum Fabrikası",
+    "chinese": "强化铱厂",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -799,6 +800,7 @@
     "japanese": "超伝導材料工場",
     "thai": "โรงงานวัสดุตัวนำยวดยิ่ง",
     "turkish": "Süper İletken Fabrikası",
+    "chinese": "超导体厂",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -963,7 +965,6 @@
     "farsi": "بخش تحقیقات",
   },
   "storehouse": {
-    // TODO-chinese
     "english": "Construction Material Storage",
     "german": "Baumateriallager",
     "french": "Entrepôt de matériaux de construction",
@@ -1472,7 +1473,8 @@
     "italian": "Grande Parco Cittadino",
     "japanese": "大型都市公園",
     "turkish": "Büyük Sehir Parkı",
-    "thai":"สวนเมืองใหญ่"
+    "thai":"สวนเมืองใหญ่",
+    "chinese": "大型城市公园",
   },
   "arena": {
     "english": "Stadium",
@@ -1734,7 +1736,7 @@
     "danish": "Vindmølle",
     "greek": "Ανεμογεννήτρια",
     "swiss german": "Windrad",
-    "farsi": "توربین بادی"
+    "farsi": "توربین بادی",
   },
   "solarPowerPlant": {
     "english": "Solar Power Plant",
@@ -1761,7 +1763,7 @@
     "danish": "Solcelleanlæg",
     "greek": "Φωτοβολταϊκό",
     "swiss german": "Solarchraftwärch",
-    "farsi": "پنل خورشیدی"
+    "farsi": "پنل خورشیدی",
   },
   "solarPowerPlant_Variation": {
     "english": "Solar Power Plant Variation",
@@ -1788,7 +1790,7 @@
     "danish": "Solcelleanlæg",
     "greek": "Φωτοβολταϊκό",
     "swiss german": "Solarchraftwärch",
-    "farsi": "پنل خورشیدی"
+    "farsi": "پنل خورشیدی",
   },
   "nuclearPowerPlant": {
     "english": "Nuclear Power Plant",
@@ -2116,6 +2118,7 @@
     "italian": "Fabbrica di tessuti filtranti",
     "scotsgaelic": "Factaraidh Mogal sìoladh",
     "russian": "Завод фильтровальной ткани",
+    "chinese": "滤网厂",
   },
   "advancedFilteringMeshFactory": {
     "english": "Advanced Filtering Mesh Factory",
@@ -2127,6 +2130,7 @@
     "italian": "Fabbrica di tessuti filtranti avanzati",
     "scotsgaelic": "Factaraidh Mogal sìolaidh adhartach",
     "russian": "Передовой завод фильтровальной ткани",
+    "chinese": "高级滤网厂",
   },
   "superconductingCoilFactory": {
     "english": "Superconducting Coil Factory",
@@ -2138,6 +2142,7 @@
     "italian": "Fabbrica di bobine superconduttrici",
     "scotsgaelic": "Factaraidh Uèir leaghaidh",
     "russian": "Завод по производству сверхпроводящих катушек",
+    "chinese": "超导线圈厂",
   },
   "dustParticleFilter": {
     "english": "Dust Particle Filter",
@@ -2149,6 +2154,7 @@
     "italian": "Filtro per polveri sottili",
     "scotsgaelic": "Sìoltachan Gràinean Duslach",
     "russian": "Фильтр частиц пыли",
+    "chinese": "尘埃过滤器",
   },
   "fertilizerDroneHub": {
     "english": "Fertilizer Drone Hub",
@@ -2160,6 +2166,7 @@
     "italian": "Centro droni per la fertilizzazione",
     "scotsgaelic": "Ionad Drone todhar",
     "russian": "Центр беспилотного удобрения",
+    "chinese": "施肥无人机枢纽",
   },
   "groundAcidityRegulator": {
     "english": "Ground Acidity Regulator",
@@ -2171,6 +2178,7 @@
     "italian": "Regolatore di acidità del terreno",
     "scotsgaelic": "Riaghladair Searbhachd Talmhainn",
     "russian": "Регулятор кислотности грунта",
+    "chinese": "土壤酸度调节设施",
   },
   "ammoniaExtractor": {
     "english": "Ammonia Extractor",
@@ -2182,6 +2190,7 @@
     "italian": "Estrattore di ammoniaca",
     "scotsgaelic": "Inneal-Tarraing ammonia",
     "russian": "Экстрактор аммиака",
+    "chinese": "氨素提取设施",
   },
   "magneticFieldGenerator": {
     "english": "Magnetic Field Generator",
@@ -2193,6 +2202,7 @@
     "italian": "Generatore di campo magnetico",
     "scotsgaelic": "Gineadair Raon magnetach",
     "russian": "Генератор магнитного поля",
+    "chinese": "电磁场生成设施",
   },
   "pixelBuildingCorner": {
     "english": "Pixel Triangle",
@@ -2204,6 +2214,7 @@
     "scotsgaelic": "Triantan Piogsal",
     "turkish": "Üçgen pixel",
     "russian": "Пиксель: Треугольник",
+    "chinese": "像素三角板",
   },
   "pixelBuildingInvertCorner": {
     "english": "Pixel Inverted Corner",
@@ -2215,6 +2226,7 @@
     "scotsgaelic": "Piogsal Oisean Inverted",
     "turkish": "Ters köşe pixel",
     "russian": "Пиксель: Инвертированный угол",
+    "chinese": "像素倒角板",
   },
   "pixelBuildingRound": {
     "english": "Pixel Circle",
@@ -2226,6 +2238,7 @@
     "scotsgaelic": "Cearcall Piogsail",
     "turkish": "Yuvarlak pixel",
     "russian": "Пиксель: Круг",
+    "chinese": "像素圆形板",
   },
   "pixelBuildingRoundCorner": {
     "english": "Pixel Rounded Corner",
@@ -2237,6 +2250,7 @@
     "scotsgaelic": "Oisean Piogsal Cruinn",
     "turkish": "Yuvarlak köşe pixel",
     "russian": "Пиксель: Закругленный угол",
+    "chinese": "像素圆角板",
   },
   "pixelBuildingSquare": {
     "english": "Pixel",
@@ -2248,6 +2262,7 @@
     "scotsgaelic": "Piogsal",
     "turkish": "Pixel",
     "russian": "Пиксель",
+    "chinese": "像素方形板",
   },
   "crashedUfo": {
     "english": "Crashed Ufo",
@@ -2259,6 +2274,7 @@
     "scotsgaelic": "UFO air a mhilleadh",
     "turkish": "Düşmüş Ufo",
     "russian": "Разбившийся НЛО",
+    "chinese": "坠毁的UFO",
   },
   "decorativePark1": {
     "english": "Classic Park",
@@ -2268,6 +2284,7 @@
     "japanese": "古典的な公園",
     "thai": "สวนคลาสสิก",
     "turkish": "Klasik Park",
+    "chinese": "经典公园",
   },
   "decorativePark2": {
     "english": "Modern Park",
@@ -2277,6 +2294,7 @@
     "japanese": "現代的な公園",
     "thai": "สวนทันสมัย",
     "turkish": "Modern Park",
+    "chinese": "现代公园",
   },
   "fence1": { //would be better to add "A" in other languages as well
     "english": "Fence A",
@@ -2288,6 +2306,7 @@
     "scotsgaelic": "Feansa",
     "turkish": "Çit A",
     "russian": "Забор",
+    "chinese": "围栏A",
   },
   "fence2": {
     "english": "Fence Gate",
@@ -2297,6 +2316,7 @@
     "japanese": "フェンスのゲート",
     "thai": "ประตูรั้ว",
     "turkish": "Çit Kapısı",
+    "chinese": "围栏大门",
   },
   "fence3": { //would be better to add "B" in other languages as well
     "english": "Fence B",
@@ -2308,6 +2328,7 @@
     "scotsgaelic": "Feansa",
     "turkish": "Çit B",
     "russian": "Забор",
+    "chinese": "围栏B",
   },
   "panoramicWheel": {
     "english": "Ferris Wheel",
@@ -2319,6 +2340,7 @@
     "scotsgaelic": "Cuibhle Amharc",
     "turkish": "Dönme dolap",
     "russian": "Колесо обозрения",
+    "chinese": "摩天轮",
   },
   "parkingLot1": {
     "english": "Parking Lot",
@@ -2330,6 +2352,7 @@
     "scotsgaelic": "Lonad-pàircidh",
     "turkish": "Park yeri",
     "russian": "Парковка",
+    "chinese": "停车场",
   },
   "eiffelTower": {
     "english": "Eiffel Tower",
@@ -2341,6 +2364,7 @@
     "scotsgaelic": "Tùr Eiffel",
     "turkish": "Eyfel kulesi",
     "russian": "Эйфелева башня",
+    "chinese": "埃菲尔铁塔",
   },
   "crudeOilTank": {
     "english": "Crude Oil Tank",
@@ -2351,6 +2375,7 @@
     "japanese": "原油タンク",
     "russian": "Цистерна нефти",
     "turkish": "Işlenmemiş Petrol Tankı",
+    "chinese": "原油储罐",
   },
   "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
@@ -2361,6 +2386,7 @@
     "japanese": "原油抽出機",
     "russian": "Экстрактор нефти",
     "turkish": "Işlenmemiş Petrol Çıkarıcı",
+    "chinese": "原油抽取机",
   },
   "largeCrudeOilExtractor": {
     "english": "Large Crude Oil Extractor",
@@ -2371,6 +2397,7 @@
     "japanese": "大型原油抽出機",
     "russian": "Большой экстрактор нефти",
     "turkish": "Büyük Işlenmemiş Petrol Çıkarıcı",
+    "chinese": "大型原油抽取机",
   },
   "stemCellLab": {
     "english": "Stem Cell Lab",
@@ -2380,6 +2407,7 @@
     "thai": "ห้องทดลองเซลล์ต้นกำเนิด",
     "japanese": "幹細胞研究所",
     "turkish": "Kök Hücre Laboratuvarı",
+    "chinese": "干细胞实验室",
   },
   "chemicalsLab": {
     "english": "Chemicals Lab",
@@ -2390,6 +2418,7 @@
     "japanese": "化学研究所",
     "russian": "Лаборатория химикатов",
     "turkish": "Kimyasal Laboratuvar",
+    "chinese": "化学制品实验室",
   },
   "industrialChemicalsLab": {
     "english": "Industrial Chemicals Lab",
@@ -2400,6 +2429,7 @@
     "japanese": "工業化学研究所",
     "russian": "Лаборатория индустриальных химикатов",
     "turkish": "Endüstriyel Kimyasal Laboratuvar",
+    "chinese": "工业化品实验室",
   },
   "plasticFactory": {
     "english": "Plastic Factory",
@@ -2410,6 +2440,7 @@
     "japanese": "プラスチック工場",
     "russian": "Завод пластика",
     "turkish": "Plastik Fabrikası",
+    "chinese": "塑料厂",
   },
   "sensorFactory": {
     "english": "Sensor Factory",
@@ -2420,6 +2451,7 @@
     "japanese": "センサー工場",
     "russian": "Завод сенсоров",
     "turkish": "Sensör Fabrikası",
+    "chinese": "传感器厂",
   },
   "copperMill": {
     "english": "Copper Mill",
@@ -2429,6 +2461,7 @@
     "thai": "โรงตีทองแดง",
     "japanese": "銅製作所",
     "turkish": "Bakır Değirmeni",
+    "chinese": "炼铜厂",
   },
   "enrichedUraniumFactory": {
     "english": "Uranium Enrichment Plant",
@@ -2439,6 +2472,7 @@
     "japanese": "ウラン濃縮工場",
     "russian": "Завод обогащенного урана",
     "turkish": "Uranyum Zenginleştirme Tesisi",
+    "chinese": "铀浓缩厂",
   },
   "heatExchangerFactory": {
     "english": "Heat Exchanger Factory",
@@ -2449,6 +2483,7 @@
     "japanese": "熱交換器工場",
     "russian": "Завод тепло-обменников",
     "turkish": "Eşanjör Fabrikası",
+    "chinese": "热交换器厂",
   },
   "waterDistillery": {
     "english": "Water Distillery",
@@ -2458,6 +2493,7 @@
     "thai": "โรงกลั่นน้ำ",
     "japanese": "水蒸留施設",
     "turkish": "Su Damıtımevi",
+    "chinese": "蒸馏厂",
   },
   "storehouseSmall": {
     "english": "Small Construction Material Storage",
@@ -2468,6 +2504,7 @@
     "japanese": "建設材料の小型倉庫",
     "russian": "Малое хранилище строй-материалов",
     "turkish": "Küçük İnşaat Malzemesi Deposu",
+    "chinese": "小型建材仓库",
   },
   "pyramid": {
     "english": "Pyramid",
@@ -2478,6 +2515,7 @@
     "japanese": "ピラミッド",
     "russian": "Пирамида",
     "turkish": "Piramit",
+    "chinese": "金字塔",
   },
   "holoCinema": {
     "english": "Holo Cinema",
@@ -2488,6 +2526,7 @@
     "japanese": "ホロ映画館",
     "russian": "Голо-кинотеатр",
     "turkish": "Sanal Sinema",
+    "chinese": "全息影院",
   },
   "statue1": {
     "english": "Statue World",
@@ -2497,6 +2536,7 @@
     "thai": "รูปปั้นโลก",
     "japanese": "惑星の彫像",
     "turkish": "Heykel Dünyası",
+    "chinese": "地球雕像",
   },
   "statue2": {
     "english": "Statue Rocket",
@@ -2506,6 +2546,7 @@
     "thai": "รูปปั้นจรวด",
     "japanese": "ロケットの彫像",
     "turkish": "Heykel Roketi",
+    "chinese": "火箭雕像",
   },
   "statue3": {
     "english": "Statue Laboratory",
@@ -2515,6 +2556,7 @@
     "thai": "ห้องปฏิบัติการรูปปั้น",
     "japanese": "研究所の彫像",
     "turkish": "Heykel Laboratuvarı",
+    "chinese": "实验室雕像",
   },
   "ffEasterEgg": {
     "english": "Statue Founders' Fortune",
@@ -2524,6 +2566,7 @@
     "thai": "รูปปั้นผู้ก่อตั้งที่มีโชคลาภ",
     "japanese": "開拓者の富の彫像",
     "turkish": "Heykel Kurucularının Serveti",
+    "chinese": "Founders' Fortune雕像",
   },
   "decorativePark3": {
     "english": "Small Modern Park",
@@ -2533,6 +2576,7 @@
     "thai": "สวนทันสมัยขนาดเล็ก",
     "japanese": "",
     "turkish": "Küçük Modern Park",
+    "chinese": "小型现代公园",
   },
   "decorativePark4": {
     "english": "Small Classic Park",
@@ -2542,6 +2586,7 @@
     "thai": "สวนคลาสสิกขนาดเล็ก",
     "japanese": "古典的な小型公園",
     "turkish": "Küçük Klasik Park",
+    "chinese": "小型经典公园",
   },
   "decorativePark5": {
     "english": "Classic Mini-Park",
@@ -2551,5 +2596,6 @@
     "thai": "สวนมินิคลาสสิก",
     "japanese": "古典的なミニ公園",
     "turkish": "Klasik Mini Park",
+    "chinese": "微型经典公园",
   },
 }
