@@ -3882,7 +3882,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
 		"italian": "Progressi di terraformazione",
 		"russian": "Прогресс терраформирования",
-		"chinese": "地球改造进度",
+		"chinese": "地形改造进度",
 	},
 	"terraformingProgressPercentage": {
 		"english": "Terraforming Progress: %progress%%",
@@ -3893,7 +3893,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
 		"italian": "Progressi di terraformazione: %progress%%",
 		"russian": "Прогресс терраформирования: %progress%%",
-		"chinese": "地球改造进度: %progress%%",
+		"chinese": "地形改造进度: %progress%%",
 	},
 	"dustParticleFiltering": {
 		"english": "Dust Particle Filtering",
@@ -3959,7 +3959,7 @@
 		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
 		"italian": "Punti di terraformazione: %points%",
 		"russian": "Очки терраформирования: %points%",
-		"chinese": "地球改造点数: %points%",
+		"chinese": "地形改造点数: %points%",
 	},
 	"terraformedAreaOnMap": {
 		"english": "Terraformed area on map: %area%%",
@@ -3970,7 +3970,7 @@
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
 		"italian": "Area terraformata sulla mappa: %area%%",
 		"russian": "Терраформированная территория на карте: %area%%",
-		"chinese": "地图上地球改造区域: %area%%",
+		"chinese": "地图上地形改造区域: %area%%",
 	},
 	"totalProgress": {
 		"english": "Total Progress: %progress%%",

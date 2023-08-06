@@ -9,6 +9,7 @@
 		"turkish": "Teknoloji medeniyetimizi üstüne kurduğumuz en temel sütundur.",
 		"russian": "Технологии - это то, на чем мы основали нашу цивилизацию.",
 		"polish": "Technologia jest filarem na którym zbudowaliśmi swoją cywilizację.",
+		"chinese": "在文明建立的进程中，科技始终是重要的支柱。",
 	},
 	"introCinematic_inTheYear2351": {
 		"english": "In the year 2351, scientists created the first warp drive, kicking off a race for the stars.",
@@ -20,6 +21,7 @@
 		"turkish": "2351 yılında bilin insanları ilk yıldız atlaması mekanizmasını geliştridiler, yıldızlar için yarış başlıyor.",
 		"russian": "В 2351 году ученые создали первый варп-двигатель, положив начало гонки к звездам.",
 		"polish": "W roku 2351, naukwocy stworzyli pierwszy napęd warp, rozpoczynając wyścig o gwiazdy",
+		"chinese": "在2351年，科学家们发明了第一台曲速引擎，开启了奔向群星的竞速。",
 	},
 	"introCinematic_asThePopulationExpanded": {
 		"english": "As the population expanded on earth, the rise of exo-colonies allowed humans to take life beyond natural boundaries.",
@@ -31,6 +33,7 @@
 		"turkish": "Dünyadaki Nüfusumuz arttıkça, dış kolonilerin yükselişi ile beraber insanlar doğal sınırları dışında yaşayabilecek hale geldi.",
 		"russian": "По мере того, как население Земли увеличивалось, рост экзо-колоний позволил людям жить за пределами естественных границ.",
 		"polish": "Gdy populacja na ziemi zwiększyła się, powstanie dwóch egzokoloni pozwoliło ludziom, aby zabrać życie poza naturalne granice",
+		"chinese": "随着地球人口的急速膨胀,外星殖民计划的兴起使人类将生命的延续超脱自然的边界。",
 	},
 	"introCinematic_butTechnologyIsFallible": {
 		"english": "But technology, like humans, is fallible.",
@@ -42,6 +45,7 @@
 		"turkish": "Ancak insanlar gibi teknoloji de yanılabilir.",
 		"russian": "Но технологии, как и люди, подвержены ошибкам.",
 		"polish": "Ale technologia jest omylna, tak jak ludzie",
+		"chinese": "然而，正如人类本身。科技并非全然完美。",
 	},
 	"introCinematic_thePassengerShipAntares": {
 		"english": "The passenger ship Antares was carrying thousands of colonists when a pressure valve overheated and failed,\nchanging the destination of the warp jump.",
@@ -53,6 +57,7 @@
 		"turkish": "Yolcu gemisi Antares binlerce kolonici taşıyordu ama bir basınç vanasını ısındı ve arızalandı.\nyıldız atlaması hedefi değiştiriliyor.",
 		"russian": "Пассажирский корабль «Антарес» перевозил тысячи колонистов, как вдруг перегрелся и вышел из строя клапан давления,\nчто изменило пункт назначения варп-прыжка.",
 		"polish": "Statek pasażerski Antares przewoził tysiące kolonistów gdy zawór ciśnienia przegrzał się i uszkodził,\nzmiana miejsca docelowego skoku warp.",
+		"chinese": "当星宿号星舰载着数千名殖民者穿梭于群星之间时，船上的一个压力阀因高温而过载，改变了曲速跳跃的目的地。",
 	},      
 	"introCinematic_lightyearsFromHome": {
 		"english": "Lightyears from home, the damaged ship now sits stranded.",
@@ -64,6 +69,7 @@
 		"turkish": "Evden ışık yılları uzaklıkta, hasarlı gemin artık hareket edemiyor.",
 		"russian": "В нескольких световых годах от дома разбитый корабль теперь сел на мель.",
 		"polish": "Lata świetlne od domu, uszkodzony statek jest teraz unieruchomiony",
+		"chinese": "在一颗离家数光年之远的行星上，这艘受损的星舰搁浅了。",
 	},
 	"introCinematic_theCrewLacksTheMaterials": {
 		"english": "The crew lacks the materials necessary to repair Antares, but a nearby exoplanet is looking promising.",
@@ -75,6 +81,7 @@
 		"turkish": "Mürettebat gemiyi onarmak için gereken malzemelere ulaşamıyor, ama yakındaki gezegen umut vadedici gözüküyor.",
 		"russian": "У экипажа нет материалов, необходимых для ремонта Антареса, но близлежащая экзопланета выглядит многообещающе.",
 	    "polish": "Załodze brakuje materiałów wymaganych do naprawy Antaresa, ale pobliska egzoplaneta wygląda obiecująco",
+		"chinese": "机组人员缺乏修复星宿号的必需材料，所幸，似乎有几率能在邻近的一颗系外行星找到这些。",
 	},
 	"introCinematic_neper3": {
 		"english": "Neper 3.",
@@ -86,6 +93,7 @@
 		"turkish": "Neper 3.",
 		"russian": "Neper 3",
 		"polish": "Neper 3",
+		"chinese": "奈佩尔3号",
 	},
 	"introCinematic_aPlanetWithPlenty": {
 		"english": "A planet with plenty of mineral deposits on the surface.",
@@ -97,6 +105,7 @@
 		"turkish": "Yüzeyinde fazlaca maden yatağı bulunan bir gezegen.",
 		"russian": "Планета с большим количеством минеральных отложений на поверхности.",
 		"polish": "Planeta z mnóstwem złóż minerałów na powierzchni",
+		"chinese": "这颗星球有着丰饶的矿产资源，暴露在星球的表面。",
 	},
 	"introCinematic_inOrderToSurvive": {
 		"english": "In order to survive, they need to establish a settlement here and start mining for resources.",
@@ -108,6 +117,7 @@
 		"turkish": "Hayatta kalmak için, buraya bir yerleşim yeri kurup gerekli kaynakları kazmaya başlamalısın.",
 		"russian": "Чтобы выжить, им нужно основать аванпост и начать добывать ресурсы.",
 		"polish": "Aby przetrwać, muszą założyć tutaj osadę i rozpocząć wydobywanie surowców.",
+		"chinese": "为了生存，他们需要在这里选定一个定居点，并开始开采资源。",
 	},
 	"introCinematic_itWasHumanIngenuity": {
 		"english": "It was human ingenuity that got them this far.\nAnd to continue on this journey, they have to rely on it once more.",
@@ -119,6 +129,7 @@
 		"turkish": "İnsan zekası onları bu kadar uzağa getiren şeydi.\nVe şimdi bu yolculuğa devam edebilmek için ona bir kez daha güvenmeliler.",
 		"russian": "Именно человеческая изобретательность завела их так далеко.\nИ чтобы продолжить этот путь, они должны снова положиться на нее.",
 		"polish": "to ludzka pomysłowość doprowadziła ich tak daleko.\nI aby kontynuować, muszą na niej polegać jeszcze raz.",
+		"chinese": "正是独属于人类的创造力才将他们送往群星深处。为了延续这场旅途，人们必须再次发挥自己的天赋。",
 	},
 	"introCinematic_theMissionWillNotBeEasy": {
 		"english": "The mission will not be easy. But it's their only hope.",
@@ -130,5 +141,6 @@
 		"turkish": "Bu görev kolay olmayacaktı ama bu onların tek umuduydu.",
 		"russian": "Миссия будет нелегкой. Но это их единственная надежда.",
 		"polish": "Ta misja nie będzie łatwa. Ale jest ich jedyną nadzieją",
+		"chinese": "碎石路",
 	},
 }

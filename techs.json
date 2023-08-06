@@ -1396,6 +1396,7 @@
     "thai": "การปรับสภาพพื้นผิวดาว",
     "italian": "Terraformazione",
     "russian": "Терраформирование",
+    "chinese": "地形改造",
   },
   "tech_droneFertilization": {
     "english": "Drone Fertilization",
@@ -1406,6 +1407,7 @@
     "thai": "การใส่ปุ๋ยด้วยโดรน",
     "italian": "Drone fertilizzante",
     "russian": "Беспилотное удобрение",
+    "chinese": "无人机施肥",
   },
   "tech_groundAcidityRegulation": {
     "english": "Ground Acidity Regulation",
@@ -1416,6 +1418,7 @@
     "thai": "การควบคุมความเป็นกรดของดิน",
     "italian": "Regolazione dell'acidità del suolo",
     "russian": "Регулирование кислотности грунта",
+    "chinese": "土壤酸性调节",
   },
   "tech_ammoniaExtraction": {
     "english": "Ammonia Extraction",
@@ -1426,6 +1429,7 @@
     "thai": "การสกัดแอมโมเนีย",
     "italian": "Estrazione di ammoniaca",
     "russian": "Экстракция аммиака",
+    "chinese": "氨素提取",
   },
   "tech_magneticFieldGeneration": {
     "english": "Magnetic Field Generation",
@@ -1436,6 +1440,7 @@
     "thai": "การสร้างสนามแม่เหล็ก",
     "italian": "Generazione di campo magnetico",
     "russian": "Генерация магнитного поля",
+    "chinese": "电磁场形成",
   },
   "tech_fence": {
     "english": "Border Fence",
@@ -1445,6 +1450,7 @@
     "thai": "รั้วขอบเขต",
     "japanese": "フェンス",
     "turkish": "Sınır Çiti",
+    "chinese": "边境围栏",
   },
   "tech_pixelBuilding": {
     "english": "Pixel Building",
@@ -1454,6 +1460,7 @@
     "thai": "อาคารพิกเซล",
     "japanese": "ピクセル建造物",
     "turkish": "Piksel Inşaat",
+    "chinese": "像素建筑",
   },
   "tech_statue": {
     "english": "Unique Statues",
@@ -1463,6 +1470,7 @@
     "thai": "รูปปั้นที่มีเอกลักษณ์",
     "japanese": "独特な彫像",
     "turkish": "Eşsiz Heykeller",
+    "chinese": "独特雕像",
   },
   "tech_sightSeeing1": {
     "english": "Sightseeing Constructions A",
@@ -1472,6 +1480,7 @@
     "thai": "การก่อสร้างสถานที่ท่องเที่ยว A",
     "japanese": "観光施設A",
     "turkish": "Gezi İnşaatları A",
+    "chinese": "观光建筑A",
   },
   "tech_sightSeeing2": {
     "english": "Sightseeing Constructions B",
@@ -1481,6 +1490,7 @@
     "thai": "การก่อสร้างสถานที่ท่องเที่ยว B",
     "japanese": "観光施設B",
     "turkish": "Gezi İnşaatları B",
+    "chinese": "观光建筑B",
   },
   "tech_decorativeParks": {
     "english": "Decorative Parks",
@@ -1490,6 +1500,7 @@
     "thai": "สวนตกแต่ง",
     "japanese": "装飾用の公園",
     "turkish": "Dekoratif Parklar",
+    "chinese": "装饰公园",
   },
   "tech_heatExchanger": {
     "english": "Heat Exchangers",
@@ -1499,6 +1510,7 @@
     "thai": "เครื่องแลกเปลี่ยนความร้อน",
     "japanese": "熱交換器",
     "turkish": "Isı Eşanjörleri",
+    "chinese": "热交换器",
   },
 
 }

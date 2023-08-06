@@ -1119,21 +1119,25 @@
 		"french": "Recherche",
 	  	"thai": "วิจัย",
 	  	"turkish": "Araştırma",
+		  "chinese": "研究",
   	},
   	"tutorialMessage_research_desc": {
     	"english": "Press this button to open the Tech-Tree.",
 		"french": "Appuyez sur ce bouton pour ouvrir l'arbre technologique.",
 	  	"thai": "กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
 	  	"turkish": "Teknoloji Ağacını açmak için bu düğmeye basın",
+		  "chinese": "按此按钮可打开科技树。",
   	},
   	"tutorialMessage_trains_title": {
     	"english": "Trains Panel",
 		"french": "Menu Trains",
 	  	"turkish": "Tren Paneli",
+		  "chinese": "列车面板",
   	},
   	"tutorialMessage_trains_desc": {
     	"english": "Press this button to open the Trains Panel.",
 		"french": "Appuyez sur ce bouton pour ouvrir le Menu Trains.",
 	  	"turkish": "Tren Panelini açmak için bu düğmeye basın",
+		  "chinese": "按此按钮打开列车面板。",
   	},
 }
