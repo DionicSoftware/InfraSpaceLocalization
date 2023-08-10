@@ -42,7 +42,7 @@
     "english": "You can facilitate traffic flow by limiting lane outlets. Adapt this principle according to the needs and traffic flow of that intersection!",
     //"french": "Parfois, la configuration manuelle est la meilleure option pour les intersections les plus fréquentées !",
     "italian": "È possibile agevolare il flusso del traffico limitando gli sbocchi delle corsie. Adatta questo principio in base alle esigenze e al traffico di quell'incrocio!",
-    //"turkish": "",
+    "turkish": "",
   },
   "avoidLeftTurnsTutorialTitle": {
     "english": "Avoid left turns",
