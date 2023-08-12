@@ -521,6 +521,7 @@
     "thai":"โรงงานอิริเดียมเสริมแกร่ง",
     "turkish": "Güçlendirilmiş İridyum Fabrikası",
     "chinese": "强化铱厂",
+    "hungarian": "Megerősített Irídium Gyár",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -801,6 +802,7 @@
     "thai": "โรงงานวัสดุตัวนำยวดยิ่ง",
     "turkish": "Süper İletken Fabrikası",
     "chinese": "超导体厂",
+    "hungarian": "Szupravezető Gyár",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -1475,6 +1477,7 @@
     "turkish": "Büyük Sehir Parkı",
     "thai":"สวนเมืองใหญ่",
     "chinese": "大型城市公园",
+    "hungarian": "Nagy Városi Park",
   },
   "arena": {
     "english": "Stadium",
@@ -2082,6 +2085,7 @@
   "italian": "Palo della Cabinovia",
   "scotsgaelic": "Colbhan Càr",
   "russian": "Стойка грузового лифта",
+  "hungarian": "Liftoszlop",
   },
   "gondolaPole": { // the poles between gondola stations
     "english": "Gondola Lift Pole",
@@ -2094,6 +2098,7 @@
     "italian": "Palo della Cabinovia",
     "scotsgaelic": "Colbhan Càr",
     "russian": "Стойка грузового лифта",
+    "hungarian": "Liftoszlop",
   },
   "targetingStation": {
     "english": "Laser Targeting Station",
@@ -2119,6 +2124,7 @@
     "scotsgaelic": "Factaraidh Mogal sìoladh",
     "russian": "Завод фильтровальной ткани",
     "chinese": "滤网厂",
+    "hungarian": "Szűrőháló Gyár",
   },
   "advancedFilteringMeshFactory": {
     "english": "Advanced Filtering Mesh Factory",
@@ -2131,6 +2137,7 @@
     "scotsgaelic": "Factaraidh Mogal sìolaidh adhartach",
     "russian": "Передовой завод фильтровальной ткани",
     "chinese": "高级滤网厂",
+    "hungarian": "Fejlett Szűrőháló Gyár",
   },
   "superconductingCoilFactory": {
     "english": "Superconducting Coil Factory",
@@ -2143,6 +2150,7 @@
     "scotsgaelic": "Factaraidh Uèir leaghaidh",
     "russian": "Завод по производству сверхпроводящих катушек",
     "chinese": "超导线圈厂",
+    "hungarian": "Szupravezetőtekercs Gyár",
   },
   "dustParticleFilter": {
     "english": "Dust Particle Filter",
@@ -2155,6 +2163,7 @@
     "scotsgaelic": "Sìoltachan Gràinean Duslach",
     "russian": "Фильтр частиц пыли",
     "chinese": "尘埃过滤器",
+    "hungarian": "Porszemcseszűrő",
   },
   "fertilizerDroneHub": {
     "english": "Fertilizer Drone Hub",
@@ -2167,6 +2176,7 @@
     "scotsgaelic": "Ionad Drone todhar",
     "russian": "Центр беспилотного удобрения",
     "chinese": "施肥无人机枢纽",
+    "hungarian": "Trágyázó Drón Csomópont",
   },
   "groundAcidityRegulator": {
     "english": "Ground Acidity Regulator",
@@ -2179,6 +2189,7 @@
     "scotsgaelic": "Riaghladair Searbhachd Talmhainn",
     "russian": "Регулятор кислотности грунта",
     "chinese": "土壤酸度调节设施",
+    "hungarian": "Talajsavasság Szabályozó",
   },
   "ammoniaExtractor": {
     "english": "Ammonia Extractor",
@@ -2191,6 +2202,7 @@
     "scotsgaelic": "Inneal-Tarraing ammonia",
     "russian": "Экстрактор аммиака",
     "chinese": "氨素提取设施",
+    "hungarian": "Ammónia Kinyerő",
   },
   "magneticFieldGenerator": {
     "english": "Magnetic Field Generator",
@@ -2203,6 +2215,7 @@
     "scotsgaelic": "Gineadair Raon magnetach",
     "russian": "Генератор магнитного поля",
     "chinese": "电磁场生成设施",
+    "hungarian": "Mágneses Mező Generátor",
   },
   "pixelBuildingCorner": {
     "english": "Pixel Triangle",
@@ -2215,6 +2228,7 @@
     "turkish": "Üçgen pixel",
     "russian": "Пиксель: Треугольник",
     "chinese": "像素三角板",
+    "hungarian": "Pixel Háromszög",
   },
   "pixelBuildingInvertCorner": {
     "english": "Pixel Inverted Corner",
@@ -2227,6 +2241,7 @@
     "turkish": "Ters köşe pixel",
     "russian": "Пиксель: Инвертированный угол",
     "chinese": "像素倒角板",
+    "hungarian": "Pixel Fordított Sarok",
   },
   "pixelBuildingRound": {
     "english": "Pixel Circle",
@@ -2239,6 +2254,7 @@
     "turkish": "Yuvarlak pixel",
     "russian": "Пиксель: Круг",
     "chinese": "像素圆形板",
+    "hungarian": "Pixel Kör",
   },
   "pixelBuildingRoundCorner": {
     "english": "Pixel Rounded Corner",
@@ -2251,6 +2267,7 @@
     "turkish": "Yuvarlak köşe pixel",
     "russian": "Пиксель: Закругленный угол",
     "chinese": "像素圆角板",
+    "hungarian": "Pixel Lekerekített Sarok",
   },
   "pixelBuildingSquare": {
     "english": "Pixel",
@@ -2263,6 +2280,7 @@
     "turkish": "Pixel",
     "russian": "Пиксель",
     "chinese": "像素方形板",
+    "hungarian": "Pixel",
   },
   "crashedUfo": {
     "english": "Crashed Ufo",
@@ -2275,6 +2293,7 @@
     "turkish": "Düşmüş Ufo",
     "russian": "Разбившийся НЛО",
     "chinese": "坠毁的UFO",
+    "hungarian": "Becsapódott UFO",
   },
   "decorativePark1": {
     "english": "Classic Park",
@@ -2285,6 +2304,7 @@
     "thai": "สวนคลาสสิก",
     "turkish": "Klasik Park",
     "chinese": "经典公园",
+    "hungarian": "Klasszikus Park",
   },
   "decorativePark2": {
     "english": "Modern Park",
@@ -2295,6 +2315,7 @@
     "thai": "สวนทันสมัย",
     "turkish": "Modern Park",
     "chinese": "现代公园",
+    "hungarian": "Modern Park",
   },
   "fence1": { //would be better to add "A" in other languages as well
     "english": "Fence A",
@@ -2307,6 +2328,7 @@
     "turkish": "Çit A",
     "russian": "Забор",
     "chinese": "围栏A",
+    "hungarian": "Kerítés (A)",
   },
   "fence2": {
     "english": "Fence Gate",
@@ -2317,6 +2339,7 @@
     "thai": "ประตูรั้ว",
     "turkish": "Çit Kapısı",
     "chinese": "围栏大门",
+    "hungarian": "Kerítéskapu",
   },
   "fence3": { //would be better to add "B" in other languages as well
     "english": "Fence B",
@@ -2329,6 +2352,7 @@
     "turkish": "Çit B",
     "russian": "Забор",
     "chinese": "围栏B",
+    "hungarian": "Kerítés (B)",
   },
   "panoramicWheel": {
     "english": "Ferris Wheel",
@@ -2341,6 +2365,7 @@
     "turkish": "Dönme dolap",
     "russian": "Колесо обозрения",
     "chinese": "摩天轮",
+    "hungarian": "Óriáskerék",
   },
   "parkingLot1": {
     "english": "Parking Lot",
@@ -2353,6 +2378,7 @@
     "turkish": "Park yeri",
     "russian": "Парковка",
     "chinese": "停车场",
+    "hungarian": "Parkoló",
   },
   "eiffelTower": {
     "english": "Eiffel Tower",
@@ -2365,6 +2391,7 @@
     "turkish": "Eyfel kulesi",
     "russian": "Эйфелева башня",
     "chinese": "埃菲尔铁塔",
+    "hungarian": "Eiffel Torony",
   },
   "crudeOilTank": {
     "english": "Crude Oil Tank",
@@ -2376,6 +2403,7 @@
     "russian": "Цистерна нефти",
     "turkish": "Işlenmemiş Petrol Tankı",
     "chinese": "原油储罐",
+    "hungarian": "Nyersolaj Tank",
   },
   "crudeOilExtractor": {
     "english": "Crude Oil Extractor",
@@ -2387,6 +2415,7 @@
     "russian": "Экстрактор нефти",
     "turkish": "Işlenmemiş Petrol Çıkarıcı",
     "chinese": "原油抽取机",
+    "hungarian": "Nyersolaj Kinyerő",
   },
   "largeCrudeOilExtractor": {
     "english": "Large Crude Oil Extractor",
@@ -2398,6 +2427,7 @@
     "russian": "Большой экстрактор нефти",
     "turkish": "Büyük Işlenmemiş Petrol Çıkarıcı",
     "chinese": "大型原油抽取机",
+    "hungarian": "Nagy Nyersolaj Kinyerő",
   },
   "stemCellLab": {
     "english": "Stem Cell Lab",
@@ -2408,6 +2438,7 @@
     "japanese": "幹細胞研究所",
     "turkish": "Kök Hücre Laboratuvarı",
     "chinese": "干细胞实验室",
+    "hungarian": "Őssejt Labor",
   },
   "chemicalsLab": {
     "english": "Chemicals Lab",
@@ -2419,6 +2450,7 @@
     "russian": "Лаборатория химикатов",
     "turkish": "Kimyasal Laboratuvar",
     "chinese": "化学制品实验室",
+    "hungarian": "Vegyszerlabor",
   },
   "industrialChemicalsLab": {
     "english": "Industrial Chemicals Lab",
@@ -2430,6 +2462,7 @@
     "russian": "Лаборатория индустриальных химикатов",
     "turkish": "Endüstriyel Kimyasal Laboratuvar",
     "chinese": "工业化品实验室",
+    "hungarian": "Ipari Vegyszerlabor",
   },
   "plasticFactory": {
     "english": "Plastic Factory",
@@ -2441,6 +2474,7 @@
     "russian": "Завод пластика",
     "turkish": "Plastik Fabrikası",
     "chinese": "塑料厂",
+    "hungarian": "Műanyag Gyár",
   },
   "sensorFactory": {
     "english": "Sensor Factory",
@@ -2452,6 +2486,7 @@
     "russian": "Завод сенсоров",
     "turkish": "Sensör Fabrikası",
     "chinese": "传感器厂",
+    "hungarian": "Szenzor Gyár",
   },
   "copperMill": {
     "english": "Copper Mill",
@@ -2462,6 +2497,7 @@
     "japanese": "銅製作所",
     "turkish": "Bakır Değirmeni",
     "chinese": "炼铜厂",
+    "hungarian": "Rézmalom",
   },
   "enrichedUraniumFactory": {
     "english": "Uranium Enrichment Plant",
@@ -2473,6 +2509,7 @@
     "russian": "Завод обогащенного урана",
     "turkish": "Uranyum Zenginleştirme Tesisi",
     "chinese": "铀浓缩厂",
+    "hungarian": "Urándúsító Üzem",
   },
   "heatExchangerFactory": {
     "english": "Heat Exchanger Factory",
@@ -2484,6 +2521,7 @@
     "russian": "Завод тепло-обменников",
     "turkish": "Eşanjör Fabrikası",
     "chinese": "热交换器厂",
+    "hungarian": "Hőcserélő gyár",
   },
   "waterDistillery": {
     "english": "Water Distillery",
@@ -2494,6 +2532,7 @@
     "japanese": "水蒸留施設",
     "turkish": "Su Damıtımevi",
     "chinese": "蒸馏厂",
+    "hungarian": "Vízlepárló",
   },
   "storehouseSmall": {
     "english": "Small Construction Material Storage",
@@ -2505,6 +2544,7 @@
     "russian": "Малое хранилище строй-материалов",
     "turkish": "Küçük İnşaat Malzemesi Deposu",
     "chinese": "小型建材仓库",
+    "hungarian": "Kis Építőanyag Raktár",
   },
   "pyramid": {
     "english": "Pyramid",
@@ -2516,6 +2556,7 @@
     "russian": "Пирамида",
     "turkish": "Piramit",
     "chinese": "金字塔",
+    "hungarian": "Piramis",
   },
   "holoCinema": {
     "english": "Holo Cinema",
@@ -2527,6 +2568,7 @@
     "russian": "Голо-кинотеатр",
     "turkish": "Sanal Sinema",
     "chinese": "全息影院",
+    "hungarian": "Holo Mozi",
   },
   "statue1": {
     "english": "Statue World",
@@ -2537,6 +2579,7 @@
     "japanese": "惑星の彫像",
     "turkish": "Heykel Dünyası",
     "chinese": "地球雕像",
+    "hungarian": "Világ Szobor",
   },
   "statue2": {
     "english": "Statue Rocket",
@@ -2547,6 +2590,7 @@
     "japanese": "ロケットの彫像",
     "turkish": "Heykel Roketi",
     "chinese": "火箭雕像",
+    "hungarian": "Rakéta Szobor",
   },
   "statue3": {
     "english": "Statue Laboratory",
@@ -2557,6 +2601,7 @@
     "japanese": "研究所の彫像",
     "turkish": "Heykel Laboratuvarı",
     "chinese": "实验室雕像",
+    "hungarian": "Labor Szobor",
   },
   "ffEasterEgg": {
     "english": "Statue Founders' Fortune",
@@ -2567,6 +2612,7 @@
     "japanese": "開拓者の富の彫像",
     "turkish": "Heykel Kurucularının Serveti",
     "chinese": "Founders' Fortune雕像",
+    "hungarian": "Founder's Fortune Szobor",
   },
   "decorativePark3": {
     "english": "Small Modern Park",
@@ -2577,6 +2623,7 @@
     "japanese": "",
     "turkish": "Küçük Modern Park",
     "chinese": "小型现代公园",
+    "hungarian": "Kis Modern Park",
   },
   "decorativePark4": {
     "english": "Small Classic Park",
@@ -2587,6 +2634,7 @@
     "japanese": "古典的な小型公園",
     "turkish": "Küçük Klasik Park",
     "chinese": "小型经典公园",
+    "hungarian": "Kis Klasszikus Park",
   },
   "decorativePark5": {
     "english": "Classic Mini-Park",
@@ -2597,5 +2645,6 @@
     "japanese": "古典的なミニ公園",
     "turkish": "Klasik Mini Park",
     "chinese": "微型经典公园",
+    "hungarian": "Klasszikus Minipark"
   },
 }
