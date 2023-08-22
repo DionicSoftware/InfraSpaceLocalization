@@ -4051,24 +4051,28 @@
 		"french": "Pas de partie du vaisseau spatial sélectionnée",
 	  	"thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
 	  	"turkish": "Uzay Gemisi Parçası Seçilmedi",
-		  "chinese": "未选择飞船部件",
+		"chinese": "未选择飞船部件",
+		"italian": "Nessuna Componente della Nave Spaziale selezionata"
   	},
   	"tutorial": {
     	"english": "Tutorial",
 		"french": "Tutoriel",
 	  	"turkish": "Öğretici",
-		  "chinese": "教程",
+		"chinese": "教程",
+		"italian": "Tutorial"
   	},
   	"trafficFlowTitle": {
-    	"english": "交通流量",
+    	"english": "Traffic Flow",
 		"french": "Flux de trafic",
 	  	"turkish": "Trafik Akışı",
-		  "chinese": "最近使用",
+		"chinese": "最近使用",
+		"italian": "Flusso del Traffico"
   	},
   	"trafficFlowDesc": {
     	"english": "This value shows the flow of the traffic, the higher it is the better",
 		"french": "Cette valeur indique la fluidité du trafic, plus elle est élevée, mieux c'est.",
 	  	"turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
-		  "chinese": "该值显示车辆流量，越高越好",
+		"chinese": "该值显示车辆流量，越高越好",
+		"italian": "Questo valore indica lo scorrimento del traffico. Più è alto, meglio è!"
   	}
 }
