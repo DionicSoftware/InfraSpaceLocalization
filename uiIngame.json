@@ -192,7 +192,7 @@
 		"spanish-esp": "Sin energía",
 		"russian": "Нет энергии",
 		"chinese": "无电力",
-		"italian": "Manca elettricità",
+		"italian": "Nessuna alimentazione",
 		"japanese": "電力なし",
 		"polish": "Brak energii",
 		"ukrainian": "Немає енергії",
@@ -4047,12 +4047,12 @@
 		"chinese": "颜色",
 	},
   	"noSpaceshipPartSelected": {
-    	"english": "No Spaceship Part Selected",
+    	"english": "No Spaceship Part selected",
 		"french": "Pas de partie du vaisseau spatial sélectionnée",
 	  	"thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
 	  	"turkish": "Uzay Gemisi Parçası Seçilmedi",
 		"chinese": "未选择飞船部件",
-		"italian": "Nessuna Componente della Nave Spaziale selezionata"
+		"italian": "Componente della Nave Spaziale non selezionata"
   	},
   	"tutorial": {
     	"english": "Tutorial",
@@ -4069,10 +4069,22 @@
 		"italian": "Flusso del Traffico"
   	},
   	"trafficFlowDesc": {
-    	"english": "This value shows the flow of the traffic, the higher it is the better",
+    	"english": "This value shows the flow of the traffic. The higher, the better!",
 		"french": "Cette valeur indique la fluidité du trafic, plus elle est élevée, mieux c'est.",
 	  	"turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
 		"chinese": "该值显示车辆流量，越高越好",
 		"italian": "Questo valore indica lo scorrimento del traffico. Più è alto, meglio è!"
-  	}
+  	},
+  	"mapSelect": {
+    	"english": "Choose a map",
+		"italian": "Scegli una mappa"
+  	},
+  	"mapSelection_title": {
+    	"english": "Choose a map",
+		"italian": "Scegli una mappa"
+  	},
+  	"select": {
+    	"english": "Select",
+		"italian": "Seleziona"
+  	},
 }
