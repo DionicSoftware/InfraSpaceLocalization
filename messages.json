@@ -271,4 +271,146 @@
 		"turkish": "Bu uzay gemisi parçası üzerindeki tamir çalışmasını bitirdik: %spaceshippart%.\nSonucunda bu ödülü Kazandık:\n\n%bonus%",
 		"chinese": "我们已经完成了太空船的部分维修：%spaceshippart%。\n因此，我们获得以下奖励：\n\n%bonus%",
 	},
+		
+	"message_storyWelcomeTitle": {
+		"english": "InfraSpace welcomes you!",
+		"italian": "Infraspace ti dà il benvenuto!",
+
+	},
+		
+	"message_storyWelcomeDesc": {
+		"english": "Following a serious accident in space, the spaceship Antares is in a disastrous condition. It now orbits Neper-3, an uninhabited planet.\nYour goal is to establish a colony and find the resources needed to repair the spaceship, helping the passengers return home.\n\nHappy playing!",
+		"italian": "In seguito ad un disastroso incidente nello spazio, la nave spaziale Antares si trova in condizioni critiche. Adesso orbita intorno a Neper-3, un pianeta disabitato.\nIl tuo obiettivo è stabilire una colonia e trovare le risorse per riparare la nave spaziale, aiutando i passeggeri a tornare a casa.\n\nBuon divertimento!",
+
+	},
+		
+	"message_storyTutorialDoneTitle": {
+		"english": "Tutorial completed",
+		"italian": "Tutorial completato",
+
+	},
+		
+	"message_storyTutorialDoneDesc": {
+		"english": "Congratulations!\n\nYou have completed the tutorial, but there is still a lot to build. Roll up your sleeves: your adventure begins now!",
+		"italian": "Congratulazioni!\n\nHai portato a termine il tutorial, ma c'è ancora tanto da costruire. Rimboccati le maniche: la tua avventura inizia adesso!",
+
+	},
+		
+	"message_storySpaceshipFacilityTitle": {
+		"english": "You have built the Spaceship Construction Facility",
+		"italian": "Hai costruito l'impianto per la costruzione della Nave Spaziale!",
+
+	},
+		
+	"message_storySpaceshipFacilityDesc": {
+		"english": "Finally, the repair work on Antares can begin. The passengers are thrilled to be able to return home!",
+		"italian": "Finalmente, i lavori di riparazione di Antares potranno cominciare. I passeggeri sono elettrizzati all'idea di poter ritornare a casa!",
+
+	},
+		
+	"message_storyAdamantineDiscoveredTitle": {
+		"english": "Large deposit of Adamantine discovered",
+		"italian": "Grande deposito di Adamantio scoperto",
+
+	},
+		
+	"message_storyAdamantineDiscoveredDesc": {
+		"english": "Antares has just completed a soil scan to assess its mineral richness. According to this data, there is a significant deposit of Adamantine underground!\nThis precious and extremely rare mineral is not present on Earth, and finding it in abundance is a real stroke of luck.\n\nSome scientists are beginning to wonder...would it be better to stay and study it?",
+		"italian": "Antares ha appena terminato una scansione del terreno per valutarne la ricchezza in minerali. Secondo questi dati, vi è una notevole deposito di Adamantio nel sottosuolo!\nQuesto prezioso e rarissimo minerale non è presente sulla Terra, e trovarne in abbondanza è un vero colpo di fortuna.\nAlcuni scienziati hanno iniziato a chiedersi... forse conviene restare qui e studiarlo?",
+
+	},
+		
+	"message_storySpacheship_0_Title": {//only in the first panel?
+		"english": "Repairs completed!",
+		"italian": "Riparazione completata!",
+
+	},
+		
+	"message_storySpacheship_0_Desc": {
+		"english": "Congratulations! Antares is finally fully functional. We are ready to return to Earth!",
+		"italian": "Congratulazioni! Antares ha finalmente ripreso a funzionare del tutto. Siamo pronti per tornare sulla Terra!",
+
+	},
+		
+	"message_storySpacheship_1_Desc": {//image here 
+		"english": "The strategy of searching for resources to repair Antares has worked. The ship is ready to leave. People have been eagerly awaiting this moment!",
+		"italian": "La strategia di ricercare risorse per riparare Antares ha funzionato. La nave spaziale è pronta a partire. Tutti aspettavano con ansia questo momento!",
+
+	},
+		
+	"message_storySpacheship_2_Desc": {//image here 
+		"english": "Of course, after all this time, many of the inhabitants have grown fond of life on Neper-3... And above all, the abundance of Adamantine underground seems a more unique than rare opportunity.",
+		"italian": "Certo, dopo tutto questo tempo, molti abitanti si sono affezionati alla vita su Neper-3... E soprattutto, l'abbondanza di Adamantio nel sottosuolo sembra un'opportunità più unica che rara.",
+
+	},
+		
+	"message_storySpacheship_3_Desc": {//image here 
+		"english": "All scientists are thrilled to have a deposit available. According to a recent theory, Adamantine can be used for terraforming! Many studies are moving in this direction.",
+		"italian": "Tutti gli scienziati sono emozionati all'idea di averne un deposito disponibile. Secondo una recente teoria, l'Adamantio può essere utilizzato per la terraformazione! Molti studi si stanno muovendo in questa direzione.",
+
+	},
+		
+	"message_storySpaceship_4_Desc": {
+		"english": "Making the air of Neper-3 breathable, bringing greenery to these desert heaths... It is certainly more difficult than repairing a spaceship.\nBut despite the difficulties and homesickness, only a few decide to return to Earth. Everyone else, for the time being, will stay. It is worth a try!",
+		"italian": "Rendere respirabile l'aria di Neper-3, portare il verde in queste lande desertiche... È certamente più difficile che riparare un'astronave.\nMa nonostante le difficoltà e la nostalgia di casa, solo alcuni decidono di tornare sulla Terra. Tutti gli altri, per il momento, resteranno. Vale la pena tentare!",
+
+	},
+		
+	"message_storyDrillStartTitle": {
+		"english": "Construction of the colossal Adamantine drill",
+		"italian": "Costruzione della colossale trivella per Adamantio",
+
+	},
+		
+	"message_storyDrillStartDesc": {
+		"english": "The construction site for the colossal Adamantine drill is ready to start work! This is an ambitious project. Let’s hope to complete it without too many difficulties.",
+		"italian": "Il cantiere per la trivella colossale per Adamantio è pronto a cominciare i lavori! Si tratta di un progetto ambizioso, speriamo di portarlo a termine senza troppe difficoltà.",
+
+	},
+		
+	"message_storyDrillDoneTitle": {
+		"english": "Colossal Adamantine drill completed.",
+		"italian": "Colossale trivella per Adamantio terminata.",
+
+	},
+		
+	"message_storyDrillDoneDesc": {//image
+		"english": "This incredible machine is finally ready to be used! It wasn't easy, but you are one step closer to your goal.\n\nLet the extraction begin!",
+		"italian": "Questo incredibile macchinario è finalmente pronto per essere utilizzato! Non è stato semplice, ma sei un passo più vicino al tuo obiettivo.\n\nDiamo il via all'estrazione!",
+
+	},
+		
+	"message_storyTerraformingStartTitle": {
+		"english": "Terraforming begins!",
+		"italian": "Inizia la terraformazione!",
+
+	},
+		
+	"message_storyTerraformingStartDesc": {
+		"english": "Thanks to Adamantine, you have developed the technology to green this planet. Now it is time to realize this titanic feat.",
+		"italian": "Grazie all'Adamantio, hai sviluppato la tecnologia per rendere verde questo pianeta. Ora è il momento di realizzare questa impresa titanica.",
+
+	},
+		
+	"message_storyTerraformingDone_0_Title": {
+		"english": "Terraforming completed!",
+		"italian": "Terraformazione completata!",
+
+	},
+		
+	"message_storyTerraformingDone_0_Desc": {
+		"english": "Congratulations!\n\nYou have succeeded in terraforming Neper-3. It was a long and complex adventure, but it was worth it.",
+		"italian": "Congratulazioni!\n\nHai portato a termine con successo la terraformazione di Neper-3. È stata una lunga e complessa avventura, ma ne è valsa la pena.",
+	},
+		
+	"message_storyTerraformingDone_1_Desc": {//image
+		"english": "The inhabitants can breathe pure, fresh air. They can reconnect with nature that has also been missing on Earth for several centuries.\nWho would have imagined that frightening fault in the middle of space would lead to all this?",
+		"italian": "Gli abitanti possono respirare aria pura a pieni polmoni. Possono riconnettersi con la natura che da diversi secoli manca anche sulla Terra.\nChi avrebbe mai immaginato che quello spaventoso incidente nello spazio avrebbe portato a tutto questo?",
+
+	},
+		
+	"message_storyTerraformingDone_2_Desc": {
+		"english": "Your journey has been anything but ordinary.\n\nYou took the crew and passengers of a spaceship and made a community out of it. You made a great industrial city rise out of a desolate desert. And finally, you terraformed the entire planet, bringing in new life forms.\n\nBut this journey is not over yet!",
+		"italian": "Il tuo viaggio è stato tutto fuorchè ordinario.\n\nHai preso l'equipaggio di una nave e ne hai fatto una comunità. Hai fatto sorgere una grandiosa città industriale da un deserto desolato. Infine, hai terraformato l'intero pianeta, portando nuove forme di vita.\n\nMa il tuo viaggio non è ancora finito!"
+	},
 }
