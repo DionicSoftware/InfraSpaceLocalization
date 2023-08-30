@@ -874,7 +874,7 @@
         "czech": "Modul kosmické lodi",
         "ukrainian": "Модулі космічного корабля",
         "turkish": "Uzay gemisi modülü",
-        "chinese": "太空船模块",
+        "chinese": "星舰模块",
     },
     "resource_fertilizer": {
         "english": "Fertilizer",
@@ -1247,7 +1247,7 @@
         "thai": "การปรับสภาพพื้นผิวดาว",
         "italian": "Terraformazione",
         "russian": "Терраформирование",
-        "chinese": "地形改造",
+        "chinese": "地球化",
     },
     "resource_plastic": {
         "english": "Plastic",

@@ -1201,7 +1201,7 @@
 		"hungarian": "Űrhajó technológia:",
 		"czech": "Technologie kosmické lodi:",
 		"turkish": "Uzay gemisi teknolojisi",
-		"chinese": "太空船技术：",
+		"chinese": "星舰技术：",
 		"italian": "Tecnologia dell'astronave",
 	},
 	"gridOff": {
@@ -2766,7 +2766,7 @@
 		"danish": "Tog Linjer",
 		"greek": "Γραμμές τρένου",
 		"japanese": "鉄道",
-		"chinese": "列车轨道",
+		"chinese": "列车线路",
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2957,7 +2957,7 @@
 		"danish": "Skinner",
 		"greek": "Ράγες",
 		"japanese": "レール",
-		"chinese": "轨道",
+		"chinese": "列车",
 	},
 	"trafficLightSettings": {
 		"english": "Traffic Light Settings",
@@ -3181,7 +3181,7 @@
 		"hungarian": "Űrhajó",
 		"czech": "Kosmická loď",
 		"turkish": "Uzay gemisi",
-		"chinese": "太空船",
+		"chinese": "星舰详情",
 	},
 	"planet": {
 		"english": "Planet",
@@ -3195,7 +3195,7 @@
 		"hungarian": "Bolygó",
 		"czech": "Planeta",
 		"turkish": "Gezegen",
-		"chinese": "行星",
+		"chinese": "返回星球",
 	},
 	"spaceship_bridge": {
 		"english": "Bridge",
@@ -3869,7 +3869,7 @@
 		"thai": "คลิกวัตถุที่คุณต้องการทำลายด้วยเลเซอร์",
 		"hungarian": "Javítsd meg a lézerágyút, hogy a célzó állomás segítségével eltávolíts akadályokat.",
 		"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
-		"chinese": "修理太空船上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
+		"chinese": "修理星舰上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
 		"italian": "Riparate il cannone laser della nave spaziale, in modo da poter utilizzare la stazione di puntamento per eliminare gli ostacoli.",
 		"russian": "Отремонтируйте лазерную пушку на космическом корабле, чтобы вы могли использовать станцию наведения для устранения препятствий.",
 	},
@@ -3882,7 +3882,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
 		"italian": "Progressi di terraformazione",
 		"russian": "Прогресс терраформирования",
-		"chinese": "地形改造进度",
+		"chinese": "地球化进度",
 	},
 	"terraformingProgressPercentage": {
 		"english": "Terraforming Progress: %progress%%",
@@ -3893,7 +3893,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
 		"italian": "Progressi di terraformazione: %progress%%",
 		"russian": "Прогресс терраформирования: %progress%%",
-		"chinese": "地形改造进度: %progress%%",
+		"chinese": "地球化进度: %progress%%",
 	},
 	"dustParticleFiltering": {
 		"english": "Dust Particle Filtering",
@@ -3959,7 +3959,7 @@
 		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
 		"italian": "Punti di terraformazione: %points%",
 		"russian": "Очки терраформирования: %points%",
-		"chinese": "地形改造点数: %points%",
+		"chinese": "地球化点数: %points%",
 	},
 	"terraformedAreaOnMap": {
 		"english": "Terraformed area on map: %area%%",
@@ -3970,7 +3970,7 @@
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
 		"italian": "Area terraformata sulla mappa: %area%%",
 		"russian": "Терраформированная территория на карте: %area%%",
-		"chinese": "地图上地形改造区域: %area%%",
+		"chinese": "地图上已地球化区域: %area%%",
 	},
 	"totalProgress": {
 		"english": "Total Progress: %progress%%",
@@ -4077,14 +4077,17 @@
   	},
   	"mapSelect": {
     	"english": "Choose a map",
-		"italian": "Scegli una mappa"
+		"italian": "Scegli una mappa",
+		"chinese": "选择一个地图",
   	},
   	"mapSelection_title": {
     	"english": "Choose a map",
-		"italian": "Scegli una mappa"
-  	},
+		"italian": "Scegli una mappa",
+		"chinese": "选择一个地图",
+	},
   	"select": {
     	"english": "Select",
-		"italian": "Seleziona"
+		"italian": "Seleziona",
+		"chinese": "选择",
   	},
 }
