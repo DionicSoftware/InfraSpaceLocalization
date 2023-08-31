@@ -2665,4 +2665,24 @@
     "chinese": "微型经典公园",
     "hungarian": "Klasszikus Minipark"
   },
+  "kindergarten": {
+    "english": "Kindergarten",
+    "german": "Kindergarten",
+  },
+  "sportCenter": {
+    "english": "Sport Center",
+    "german": "Sportzentrum",
+  },
+  "distributionCenter": {
+    "english": "Distribution Center",
+    "german": "Vertriebszentrum",
+  },
+  "collectionCenter": {
+    "english": "Collection Center",
+    "german": "Sammelzentrum",
+  },
+  "theater": {
+    "english": "Theater",
+    "german": "Theater",
+  },
 }

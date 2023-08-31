@@ -1512,5 +1512,8 @@
     "turkish": "Isı Eşanjörleri",
     "chinese": "热交换器",
   },
-
+  "tech_distribution": {
+    "english": "Distribution",
+    "german": "Vertrieb",
+  },
 }
