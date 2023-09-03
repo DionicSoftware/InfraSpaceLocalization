@@ -1,5 +1,5 @@
-{
-  "encyclopedia": {//READ ME! Tutorials are still work in progress and the text might change during the following week. It's' better to wait until friday 11 august for translating them, or until I remove this comment :) 
+﻿{
+  "encyclopedia": {
     "english": "Encyclopedia",
     "french": "Encyclopédie",
     "italian": "Enciclopedia",
@@ -228,5 +228,33 @@
   "productionOverviewTutorialParagraph": {
     "english": "Open the Production Overview panel located on the left side of the game screen.\n\nHere you can compare production and consumption. Adjust production per resource via the slider bars. This way, you can decrease the number of workers and reduce production as needed.\n\nHaving a slight overproduction is useful to fill up warehouses and always have a good supply in case of unforeseen events!",
     "italian": "Apri il pannello Panoramica della produzione che si trova a sinistra della schermata di gioco.\n\nQui puoi comparare la produzione e i consumi. Aggiusta la produzione per risorsa tramite le barre di scorrimento. In questo modo, puoi diminuire il numero di lavoratori e ridurre la produzione secondo le tue necessità.\n\nAvere una leggera sovrapproduzione è utile per riempire i magazzini e avere sempre una buona scorta in caso di imprevisti!",
+  },
+  "districtsTutorialTitle": {
+    "english": "Districts",
+    "italian": "Distretti",
+  },
+  "districtsTutorialParagraph": {
+    "english": "To make some of your buildings deliver resources only to specific industries, you can use Districts and link the desired buildings together.\n\nOpen the Districts panel on the left side of the screen. To create the first district, select the brush width you want, and paint the area below the buildings from which you want to export a particular resource. After that, paint the area below the buildings you want them to import it from.\n\nNow select the desired resource in the Districts panel. Finally, click on the district you need to export and drag the arrow that will appear to the district you want to import.\n\nThis way, buildings in the first district will export only to buildings in the second district.\n\nYou can also link a district with itself by dragging the arrow inside it!",
+    "italian": "Per fare in modo che alcuni edifici consegnino le risorse solo a determinate industrie, puoi usare i Distretti e collegare gli edifici desiderati tra di loro. \n\nApri il pannello “Distretti”, sulla sinistra dello schermo. Per creare il primo distretto, seleziona l’ampiezza del pennello che desideri, e dipingi l’area sottostante agli edifici dai quali vuoi esportare una determinata risorsa. Dopodichè, dipingi l’area sottostante agli edifici che vuoi che la importino.\n\nOra seleziona la risorsa desiderata nel pannello “Distretti”. Infine, clicca sul distretto che deve esportare e trascina la freccia che apparirà fino al distretto che vuole importare.\n\nPuoi anche collegare un distretto con se stesso trascinando la freccia al suo interno!",
+  },
+  "powerTutorialTitle": {
+    "english": "Power",
+    "italian": "Energia elettrica",
+  },
+  "powerFirstTutorialParagraph": {
+    "english": "Power is essential to the operation of buildings.\n\nElectric poles and power substation are the only two ways to spread electricity to surrounding buildings, and they must be connected to one or more power sources.\n\nPoles have a very small radius, but by connecting to each other they can cover very large areas.",
+    "italian": "L’energia elettrica è indispensabile al funzionamento degli edifici.\n\nI pali elettrici e la power substation sono gli unici due modi per diffondere l’energia elettrica agli edifici circostanti, e vanno connessi a una o più fonti di energia. \n\nI pali hanno un raggio molto ridotto, ma connettendosi gli uni agli altri possono coprire aree molto vaste.",
+  },
+  "powerSecondTutorialParagraph": {
+    "english": "The set of energy sources connected together is called Power Network. When the power produced is not enough for the buildings that use it, you will have slowed production.",
+    "italian": "L’insieme delle fonti di energia connesse tra loro, è chiamato Rete Elettrica. Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
+  },
+  "shapingTheRoadsTutorialTitle": {
+    "english": "Shaping the roads",
+    "italian": "Modellare le strade",
+  },
+  "shapingTheRoadsTutorialParagraph": {
+    "english": "You can shape your road as you wish by using the icons in the lower panel, or by intervening on the already constructed road.\n\nWith the grid turned off, you can decide to adjust the roads according to 90°, 135° and 180° degree angles, and adjust the lengths to match the size of the game unit. You can also decide whether to build a straight or curved road, and you can always change it later by clicking on the desired stretch of road.\n\nYou can also adjust the height of the road using the R and F keys!\n\nThe last two icons are used to reverse the direction of a one-way road and to replace one road with another.",
+    "italian": "Puoi dare la forma desiderata alla tua strada utilizzando le icone nel pannello inferiore o intervenendo sulla strada già costruita.\n\nCon la griglia disattivata, puoi decidere di regolare le strade secondo angoli di 90°, 135° e 180° gradi, e di regolare le lunghezze adattandole alla dimensione dell’unità di misura del gioco. Puoi anche decidere se costruire una strada dritta o curva, e puoi sempre modificarla in seguito cliccando sul tratto di strada desiderato.\n\nLe ultime due icone servono per invertire la direzione di una strada a senso unico e per rimpiazzare una strada con un’altra.\n\nPuoi anche regolare l’altezza della strada tramite i tasti R e F.",
   },
 }
