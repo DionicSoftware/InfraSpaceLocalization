@@ -1,4 +1,4 @@
-﻿{
+{
   "sandMine": {
     "english": "Sand Mine",
     "german": "Sandmine",
@@ -2668,21 +2668,26 @@
   "kindergarten": {
     "english": "Kindergarten",
     "german": "Kindergarten",
+    "turkish": "Anaokulu",
   },
   "sportCenter": {
     "english": "Sport Center",
     "german": "Sportzentrum",
+    "turkish": "Spor Merkezi",
   },
   "distributionCenter": {
     "english": "Distribution Center",
     "german": "Vertriebszentrum",
+    "turkish": "Dağıtım merkezi",
   },
   "collectionCenter": {
     "english": "Collection Center",
     "german": "Sammelzentrum",
+    "turkish": "Toplama Merkezi",
   },
   "theater": {
     "english": "Theater",
     "german": "Theater",
+    "turkish": "Tiyatro",
   },
 }
