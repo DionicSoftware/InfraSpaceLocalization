@@ -1,4 +1,4 @@
-﻿{
+{
   "tech_farming": {
     "english": "Farming",
     "german": "Landwirtschaft",
@@ -1515,5 +1515,6 @@
   "tech_distribution": {
     "english": "Distribution",
     "german": "Vertrieb",
+    "turkish: "Dağıtım",
   },
 }
