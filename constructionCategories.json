@@ -1,4 +1,4 @@
-﻿{
+{
 	"constructionCategory_roads": {
 		"english": "Roads",
 		"german": "Straßen",
@@ -312,5 +312,6 @@
 	"constructionCategory_education": {
 		"english": "Education",
 		"german": "Bildung",
+		"turkish": "Eğitim",
 	},
 }
