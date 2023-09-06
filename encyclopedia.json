@@ -138,7 +138,8 @@
     "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
     "french": "N'hésitez pas à utiliser des stations de tailles différentes et à créer des jonctions et des intersections avec des rails.\n\nLe passage de plusieurs trains par intersection est géré automatiquement : voir « Intersections ferroviaires » pour en savoir plus.",
     "italian": "Sentiti libero/a di utilizzare stazioni di dimensioni diverse e di creare bivi e intersezioni con le ferrovie.\n\nIl passaggio di più treni per ogni intersezione viene gestito automaticamente: per saperne di più, consulta la voce \"Intersezioni ferroviarie\"",
-    "chinese": "使用不同类型的站点以及列车线路交会时不需要非常谨慎。\n\n各个列车的乘客在线路交会的地方会自动进行调节：更多信息参考“列车线路交会”。""thai": ""
+    "chinese": "使用不同类型的站点以及列车线路交会时不需要非常谨慎。\n\n各个列车的乘客在线路交会的地方会自动进行调节：更多信息参考“列车线路交会",
+    "thai": ""
   },
   "railsIntersectionsTutorialTitle": {
     "english": "Rails intersections",
