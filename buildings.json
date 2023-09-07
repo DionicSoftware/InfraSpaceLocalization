@@ -2669,25 +2669,30 @@
     "english": "Kindergarten",
     "german": "Kindergarten",
     "turkish": "Anaokulu",
+    "thai": "โรงเรียนอนุบาล",
   },
   "sportCenter": {
     "english": "Sport Center",
     "german": "Sportzentrum",
     "turkish": "Spor Merkezi",
+    "thai": "ศูนย์กีฬา",
   },
   "distributionCenter": {
     "english": "Distribution Center",
     "german": "Vertriebszentrum",
     "turkish": "Dağıtım merkezi",
+    "thai": "ศูนย์กระจายสินค้า",
   },
   "collectionCenter": {
     "english": "Collection Center",
     "german": "Sammelzentrum",
     "turkish": "Toplama Merkezi",
+    "thai": "ศูนย์รวบรวม",
   },
   "theater": {
     "english": "Theater",
     "german": "Theater",
     "turkish": "Tiyatro",
+    "thai": "โรงภาพยนตร์",
   },
 }
