@@ -275,6 +275,7 @@
     "english": "Districts",
     "italian": "Distretti",
     "thai": ""
+    "turkish": "İlçeler"
   },
   "districtsTutorialParagraph": {
     "english": "To make some of your buildings deliver resources only to specific industries, you can use Districts and link the desired buildings together.\n\nOpen the Districts panel on the left side of the screen. To create the first district, select the brush width you want, and paint the area below the buildings from which you want to export a particular resource. After that, paint the area below the buildings you want them to import it from.\n\nNow select the desired resource in the Districts panel. Finally, click on the district you need to export and drag the arrow that will appear to the district you want to import.\n\nThis way, buildings in the first district will export only to buildings in the second district.\n\nYou can also link a district with itself by dragging the arrow inside it!",
@@ -285,6 +286,7 @@
     "english": "Power",
     "italian": "Energia elettrica",
     "thai": ""
+    "turkish": "Enerji"
   },
   "powerFirstTutorialParagraph": {
     "english": "Power is essential to the operation of buildings.\n\nElectric poles and power substation are the only two ways to spread electricity to surrounding buildings, and they must be connected to one or more power sources.\n\nPoles have a very small radius, but by connecting to each other they can cover very large areas.",
@@ -300,6 +302,7 @@
     "english": "Shaping the roads",
     "italian": "Modellare le strade",
     "thai": ""
+    "turkish": "Yolları şekillendirmek"
   },
   "shapingTheRoadsTutorialParagraph": {
     "english": "You can shape your road as you wish by using the icons in the lower panel, or by intervening on the already constructed road.\n\nWith the grid turned off, you can decide to adjust the roads according to 90°, 135° and 180° degree angles, and adjust the lengths to match the size of the game unit. You can also decide whether to build a straight or curved road, and you can always change it later by clicking on the desired stretch of road.\n\nYou can also adjust the height of the road using the R and F keys!\n\nThe last two icons are used to reverse the direction of a one-way road and to replace one road with another.",
