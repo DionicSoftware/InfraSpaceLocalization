@@ -4374,5 +4374,45 @@
 	  	"turkish": "Kaydetme Klasörünü Aç",
 	  	"thai":"เปิดโฟลเดอร์บันทึก",
 		"chinese": "打开存档文件夹",
-    }
+    },
+  	"achievementStatus_title": {
+    	"english": "Achievement Status",
+		"italian": "Achievement Status",
+  	},
+  	"achievementStatus_lockedDescription": {
+    	"english": "Achievements are disabled due to the following reasons:",
+		"italian": "Gli Achievement sono disabilitati per le seguenti ragioni:",
+  	},
+  	"achievementStatus_unlockableDescription": {
+    	"english": "Achievements are enabled.",
+		"italian": "Gli achievements sono abilitati.",
+  	},
+  	"achievementStatus_mods": {
+    	"english": "Mods",
+		"italian": "Mods",
+  	},
+  	"achievementStatus_creativeSettings": {
+    	"english": "One or more Creative Mode setting is active",
+		"italian": "Una o più impostazioni attive per la Modalità Creativa",
+  	},
+  	"achievementStatus_modifiedSettings": {
+    	"english": "One or more settings have been changed during the game",
+		"italian": "Una o più impostazioni sono state cambiate durante la partita",
+  	},
+  	"achievementStatus_cheats": {
+    	"english": "Cheats",
+		"italian": "Cheats",
+  	},
+  	"settingsNotice_title": {
+    	"english": "Warning!",
+		"italian": "Attenzione!",
+  	},
+  	"settingsNotice_desc": {
+    	"english": "By changing these settings, Achievements will be permanently disabled for the entire game. Do you want to proceed?",
+		"italian": "Cambiando queste impostazioni, gli Achievements saranno disabilitati in modo permanente per l'intera partita. Vuoi procedere?",
+  	},
+  	"revertSettings": {
+    	"english": "Revert",
+		"italian": "Ripristina",
+  	},
 }
