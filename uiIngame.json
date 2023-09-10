@@ -4090,4 +4090,20 @@
 		"italian": "Seleziona",
 		"chinese": "选择",
   	},
+  	"level0_title": {
+    	"english": "Desertic Valley",
+		"italian": "Vallata desertica",
+  	},
+  	"level0_desc": {
+    	"english": "A land charaterized by a large flat area, ideal for those who want to focus on construction without distractions.",
+		"italian": "Un terreno caratterizzato da una grande area pianeggiante, ideale per coloro che vogliono concentrarsi sulla costruzione senza troppe distrazioni.",
+  	},
+  	"level1_title": {
+    	"english": "Generated map",
+		"italian": "Mappa generata",
+  	},
+  	"level1_desc": {
+    	"english": "The playing ground is automatically generated at the beginning of the game. It features four biomes with unique characteristics!",
+		"italian": "Il terreno di gioco viene generato automaticamente all'inizio della partita. Presenta quattro biomi dalle caratteristiche uniche!",
+  	},
 }
