@@ -4392,8 +4392,8 @@
 		"italian": "Mods",
   	},
   	"achievementStatus_creativeSettings": {
-    	"english": "One or more Creative Mode setting is active",
-		"italian": "Una o più impostazioni attive per la Modalità Creativa",
+    	"english": "One or more creative mode setting is active",
+		"italian": "Una o più impostazioni attive per la modalità creativa",
   	},
   	"achievementStatus_modifiedSettings": {
     	"english": "One or more settings have been changed during the game",
@@ -4403,16 +4403,35 @@
     	"english": "Cheats",
 		"italian": "Cheats",
   	},
-  	"settingsNotice_title": {
-    	"english": "Warning!",
-		"italian": "Attenzione!",
+  	"mapSelect": {
+    	"english": "Choose a map",
+		"italian": "Scegli una mappa",
+		"chinese": "选择一个地图",
   	},
-  	"settingsNotice_desc": {
-    	"english": "By changing these settings, Achievements will be permanently disabled for the entire game. Do you want to proceed?",
-		"italian": "Cambiando queste impostazioni, gli Achievements saranno disabilitati in modo permanente per l'intera partita. Vuoi procedere?",
+  	"mapSelection_title": {
+    	"english": "Choose a map",
+		"italian": "Scegli una mappa",
+		"chinese": "选择一个地图",
+	},
+  	"select": {
+    	"english": "Select",
+		"italian": "Seleziona",
+		"chinese": "选择",
   	},
-  	"revertSettings": {
-    	"english": "Revert",
-		"italian": "Ripristina",
+  	"level0_title": {
+    	"english": "Desertic Valley",
+		"italian": "Vallata desertica",
+  	},
+  	"level0_desc": {
+    	"english": "A land charaterized by a large flat area, ideal for those who want to focus on construction without distractions.",
+		"italian": "Un terreno caratterizzato da una grande area pianeggiante, ideale per coloro che vogliono concentrarsi sulla costruzione senza troppe distrazioni.",
+  	},
+  	"level1_title": {
+    	"english": "Generated map",
+		"italian": "Mappa generata",
+  	},
+  	"level1_desc": {
+    	"english": "The playing ground is automatically generated at the beginning of the game. It features four biomes with unique characteristics!",
+		"italian": "Il terreno di gioco viene generato automaticamente all'inizio della partita. Presenta quattro biomi dalle caratteristiche uniche!",
   	},
 }
