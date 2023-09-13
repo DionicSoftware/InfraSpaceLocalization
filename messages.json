@@ -289,37 +289,57 @@
 		"chinese": "星宿号刚完成了一次土壤扫描来获取矿物丰度。根据这些数据，在地底发现了大量的曼德拉合金。这是一种地球上没有发现过的极其珍贵稀有的矿物，能发现如此多的Adamantine太走运了。有些科学家想知道...留下来研究它是个好主意吗？",
 	},
 		
-	"message_storySpacheship_0_Title": {//title only in the first panel if possible
-		"english": "Repairs completed!",
+	"message_storySpaceship_0Title": {
+		"english": "Spaceship Repairs Completed!",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
 	},
 		
-	"message_storySpacheship_0_Desc": {
+	"message_storySpaceship_0Desc": {
 		"english": "Congratulations! Antares is finally fully functional. We are ready to return to Earth!",
 		"italian": "Congratulazioni! Antares ha finalmente ripreso a funzionare del tutto. Siamo pronti per tornare sulla Terra!",
 		"chinese": "恭喜！星宿号终于修好了。我们已经做好了返回地球的准备！",
 	},
-		
-	"message_storySpacheship_1_Desc": {//image here 
+	
+	"message_storySpaceship_1Title": {
+		"english": "Spaceship Repairs Completed!",
+		"italian": "Riparazione completata!",
+		"chinese": "修复完成！",
+	},
+	"message_storySpaceship_1Desc": {//image here 
 		"english": "The strategy of searching for resources to repair Antares has worked. The ship is ready to leave. People have been eagerly awaiting this moment!",
 		"italian": "La strategia di ricercare risorse per riparare Antares ha funzionato. La nave spaziale è pronta a partire. Tutti aspettavano con ansia questo momento!",
 		"chinese": "这种搜索资源来修复星宿号的策略起作用了。飞船准备好启程，乘客们对此刻期待已久！",
 	},
-		
-	"message_storySpacheship_2_Desc": {//image here 
+	
+	"message_storySpaceship_2Title": {
+		"english": "Spaceship Repairs Completed!",
+		"italian": "Riparazione completata!",
+		"chinese": "修复完成！",
+	},
+	"message_storySpaceship_2Desc": {//image here 
 		"english": "Of course, after all this time, many of the inhabitants have grown fond of life on Neper-3... And above all, the abundance of Adamantine underground seems a more unique than rare opportunity.",
 		"italian": "Certo, dopo tutto questo tempo, molti abitanti si sono affezionati alla vita su Neper-3... E soprattutto, l'abbondanza di Adamantio nel sottosuolo sembra un'opportunità più unica che rara.",
 		"chinese": "当然，经历了这段时间，很多居民喜欢上了在奈佩尔3号生活...最终要的是，地底大量的曼德拉合金与其说是一个难得的机会，不如说是独一无二的。",
 	},
 		
-	"message_storySpacheship_3_Desc": {//image here 
+	"message_storySpaceship_3Title": {
+		"english": "Spaceship Repairs Completed!",
+		"italian": "Riparazione completata!",
+		"chinese": "修复完成！",
+	},
+	"message_storySpaceship_3Desc": {//image here 
 		"english": "All scientists are thrilled to have a deposit available. According to a recent theory, Adamantine can be used for terraforming! Many studies are moving in this direction.",
 		"italian": "Tutti gli scienziati sono emozionati all'idea di averne un deposito disponibile. Secondo una recente teoria, l'Adamantio può essere utilizzato per la terraformazione! Molti studi si stanno muovendo in questa direzione.",
 		"chinese": "所有科学家都很兴奋能有如此丰富的矿产。根据最新的理论成果，曼德拉合金可以用作地球化！许多研究已投入这个方向。",
 	},
 		
-	"message_storySpaceship_4_Desc": {
+	"message_storySpaceship_4Title": {
+		"english": "Spaceship Repairs Completed!",
+		"italian": "Riparazione completata!",
+		"chinese": "修复完成！",
+	},
+	"message_storySpaceship_4Desc": {
 		"english": "Making the air of Neper-3 breathable, bringing greenery to these desert heaths... It is certainly more difficult than repairing a spaceship.\nBut despite the difficulties and homesickness, only a few decide to return to Earth. Everyone else, for the time being, will stay. It is worth a try!",
 		"italian": "Rendere respirabile l'aria di Neper-3, portare il verde in queste lande desertiche... È certamente più difficile che riparare un'astronave.\nMa nonostante le difficoltà e la nostalgia di casa, solo alcuni decidono di tornare sulla Terra. Tutti gli altri, per il momento, resteranno. Vale la pena tentare!",
 		"chinese": "让奈佩尔3号的空气可以呼吸，将绿色带到这个荒漠...这肯定比修复飞船更加困难。\n尽管面临众多困难和思乡病，但也只有一少部分人选择返回地球。其他所有人暂时都选择留下。这值得一试！",
@@ -361,25 +381,35 @@
 		"chinese": "感谢曼德拉合金，你已经发展了科技来绿化这个星球。是时候了解这个伟大的壮举了。",
 	},
 		
-	"message_storyTerraformingDone_0_Title": {//title only in the first panel if possible
+	"message_storyTerraformingDone_0Title": {
 		"english": "Terraforming completed!",
 		"italian": "Terraformazione completata!",
 		"chinese": "地球化完成！",
 	},
 		
-	"message_storyTerraformingDone_0_Desc": {
+	"message_storyTerraformingDone_0Desc": {
 		"english": "Congratulations!\n\nYou have succeeded in terraforming Neper-3. It was a long and complex adventure, but it was worth it.",
 		"italian": "Congratulazioni!\n\nHai portato a termine con successo la terraformazione di Neper-3. È stata una lunga e complessa avventura, ma ne è valsa la pena.",
 		"chinese": "恭喜！\n\n你已成功将奈佩尔3号地球化。这是一个漫长艰难的旅途，但它依然值得。",
 	},
-		
-	"message_storyTerraformingDone_1_Desc": {//image
+	
+	"message_storyTerraformingDone_1Title": {
+		"english": "Terraforming completed!",
+		"italian": "Terraformazione completata!",
+		"chinese": "地球化完成！",
+	},
+	"message_storyTerraformingDone_1Desc": {//image
 		"english": "The inhabitants can breathe pure, fresh air. They can reconnect with nature that has also been missing on Earth for several centuries.\nWho would have imagined that frightening fault in the middle of space would lead to all this?",
 		"italian": "Gli abitanti possono respirare aria pura a pieni polmoni. Possono riconnettersi con la natura che da diversi secoli manca anche sulla Terra.\nChi avrebbe mai immaginato che quello spaventoso incidente nello spazio avrebbe portato a tutto questo?",
 		"chinese": "居民可以呼吸纯净新鲜的空气了。他们可以重新感受自然————那个早已在地球消失几个世纪的东西。谁能想到在宇宙中一场的可怕灾难，可以带来如今的一切？",
 	},
-		
-	"message_storyTerraformingDone_2_Desc": {
+	
+	"message_storyTerraformingDone_2Title": {
+		"english": "Terraforming completed!",
+		"italian": "Terraformazione completata!",
+		"chinese": "地球化完成！",
+	},
+	"message_storyTerraformingDone_2Desc": {
 		"english": "Your journey has been anything but ordinary.\n\nYou took the crew and passengers of a spaceship and made a community out of it. You made a great industrial city rise out of a desolate desert. And finally, you terraformed the entire planet, bringing in new life forms.\n\nBut this journey is not over yet!",
 		"italian": "Il tuo viaggio è stato tutto fuorchè ordinario.\n\nHai preso l'equipaggio di una nave e ne hai fatto una comunità. Hai fatto sorgere una grandiosa città industriale da un deserto desolato. Infine, hai terraformato l'intero pianeta, portando nuove forme di vita.\n\nMa il tuo viaggio non è ancora finito!",
 		"chinese": "你经历了一场无与伦比的旅程。\n\n你带着星舰上的舰员和乘客创造了一个星舰之外的社会，在荒漠中建造了一个宏伟的工业化城市。并且最终你地球化了整个星球，带来了新型的生命形式。但这场旅途还没有结束！",
