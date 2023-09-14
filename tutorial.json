@@ -113,9 +113,9 @@
 		"romanian": "Clic pe fabrica de pachete științifice pentru a vedea ce resurse sunt necesare.",
 		"danish":"Klik på forskningscenteret for at se hvilke ressourcer der skal bruges.",
 	},
-	"tutorial_buildRoad": {
-		"english": "Build a road next to sulfur and iron.",
-		"german": "Baue eine Straße neben Schwefel und Eisen.",
+	"tutorial_buildRoad": { // changed iron to oil but didn't want to remove old translations, some languages might be out of date here
+		"english": "Build a road next to sulfur and oil.",
+		"german": "Baue eine Straße neben Schwefel und Öl.",
 		"french": "Placer une route à côté du soufre et du fer",
 		"dutch": "Bouw een weg naast de zwavel en ijzer.",
 		"russian": "Постройте дорогу рядом с серой и железом.",
