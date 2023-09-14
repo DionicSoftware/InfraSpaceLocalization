@@ -309,11 +309,11 @@
     "italian": "Puoi dare la forma desiderata alla tua strada utilizzando le icone nel pannello inferiore o intervenendo sulla strada già costruita.\n\nCon la griglia disattivata, puoi decidere di regolare le strade secondo angoli di 90°, 135° e 180° gradi, e di regolare le lunghezze adattandole alla dimensione dell’unità di misura del gioco. Puoi anche decidere se costruire una strada dritta o curva, e puoi sempre modificarla in seguito cliccando sul tratto di strada desiderato.\n\nLe ultime due icone servono per invertire la direzione di una strada a senso unico e per rimpiazzare una strada con un’altra.\n\nPuoi anche regolare l’altezza della strada tramite i tasti R e F.",
     "thai": "",
   },
-    "collectionTutorialTitle": {
-    "english": "Collection and distribution centers",
-    "italian": "Centri di raccolta e di distribuzione",
+    "distributionTutorialTitle": {
+    "english": "Distribution centers",
+    "italian": "Centri di distribuzione",
   },
-    "collectionTutorialParagraph": {
+    "distributionTutorialParagraph": {
     "english": "These centers are key to managing resources effectively, as they procure a steady supply to industries. Use them to optimize resource management and keep your production chains running smoothly!\n\nThe collection center collects resources from surrounding industries, while the distribution center distributes them to surrounding industries. Click on the building and select the desired resource, then set the radius of action and storage capacity.\n\nFor them to work, link the desired collection and distribution centers together via the building's information panel.\n\nWhen the demand for resources is exhausted, first, the distribution center storage will be filled, and then the collection center storage.",
     "italian": "Questi centri sono fondamentali per gestire le risorse in modo efficace, in quanto procurano una fornitura regolare alle industrie. Utilizzali per ottimizzare la gestione delle risorse e far funzionare le tua catene di produzione senza troppi intoppi!\n\nIl centro di raccolta raccoglie le risorse dalle industrie circostanti, mentre il centro di distribuzione le distribuisce alle industrie circostanti. Clicca sull'edificio e seleziona la risorsa desiderata, dopodiché stabilisci il raggio di azione e la capacità di stoccaggio.\n\nAffinché funzionino, collega tra loro i centri di raccolta e i centri di distribuzione desiderati tramite il pannello informativo dell'edificio.\n\nQuando la domanda di risorse si sarà esaurita, si riempirà dapprima il deposito del centro di distribuzione, e poi il deposito del centro di raccolta.",
   },
@@ -322,7 +322,7 @@
     "italian": "Benvenuto/a!",
   },
     "welcomeTutorialParagraph": {
-    "english": "Welcome to the InfraSpace Encyclopedia!\n\nWithin these panels, you will find tutorials covering different aspects of the game, which will assist you step by step in building your city.\n\nFurthermore, you will discover some strategic advice on how to make the most of the tools at your disposal.\n\nDon't forget to consult the encyclopedia whenever you have questions or wish to delve deeper into the game.\n\nHappy playing!",
-    "italian": "Benvenuto/a nell'enciclopedia di InfraSpace!\n\nIn questi pannelli troverai tutorial riguardanti diversi aspetti del gioco, che ti aiuteranno passo a passo nella costruzione della tua città.\n\nInoltre, troverai qualche consiglio strategico su come sfruttare al meglio gli strumenti a tua disposizione!\n\nNon dimenticare di consultare l'enciclopedia ogni volta che hai dubbi, o se vuoi approfondire la tua conoscenza del gioco.\n\nBuon divertimento!",
+    "english": "Welcome to the InfraSpace Encyclopedia!\n\nWithin these panels, you will find tutorials covering different aspects of the game, which will assist you step by step in building your city. Furthermore, you will discover some strategic advice on how to make the most of the tools at your disposal.\n\nDon't forget to consult the encyclopedia whenever you have questions or wish to delve deeper into the game.\n\nHappy playing!",
+    "italian": "Benvenuto/a nell'enciclopedia di InfraSpace!\n\nIn questi pannelli troverai tutorial riguardanti diversi aspetti del gioco, che ti aiuteranno passo a passo nella costruzione della tua città. Inoltre, troverai qualche consiglio strategico su come sfruttare al meglio gli strumenti a tua disposizione!\n\nNon dimenticare di consultare l'enciclopedia ogni volta che hai dubbi, o se vuoi approfondire la tua conoscenza del gioco.\n\nBuon divertimento!",
   },
 }
