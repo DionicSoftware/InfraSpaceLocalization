@@ -284,7 +284,7 @@
 	"message_storyAdamantineDiscoveredTitle": {
 		"english": "Large deposit of Adamantine discovered",
 		"italian": "Grande deposito di Adamantio scoperto",
-		"chinese": "发现了大量曼德拉合金"
+		"chinese": "发现了大量曼德拉合金",
 		"turkish": "Büyük miktarda Adamantine yatağı keşfedildi",
 	},
 		
@@ -388,7 +388,7 @@
 	"message_storyTerraformingStartTitle": {
 		"english": "Terraforming begins!",
 		"italian": "Inizia la terraformazione!",
-		"chinese": "地球化开始！"
+		"chinese": "地球化开始！",
 		"turkish": "Dünyalaştırma başlıyor!",
 	},
 		
