@@ -245,6 +245,7 @@
 		"english": "InfraSpace welcomes you!",
 		"italian": "Infraspace ti dà il benvenuto!",
 		"chinese": "InfraSpace欢迎你！", 
+		"turkish": "InfraSpace sizi ağırlıyor!",
 	},
 		
 	"message_storyWelcomeDesc": {
@@ -256,7 +257,8 @@
 	"message_storyTutorialDoneTitle": {
 		"english": "Tutorial completed",
 		"italian": "Tutorial completato",
-		"chinese": "教程结束", 
+		"chinese": "教程结束",
+		"turkish": "Eğitim tamamlandı",
 	},
 		
 	"message_storyTutorialDoneDesc": {
@@ -269,18 +271,21 @@
 		"english": "You have built the Spaceship Construction Facility",
 		"italian": "Hai costruito l'impianto per la costruzione della Nave Spaziale!",
 		"chinese": "你建造了星舰建造设施",
+		"turkish": "Uzay Gemisi İnşaat Tesisini inşa ettiniz",
 	},
 		
 	"message_storySpaceshipFacilityDesc": {
 		"english": "Finally, the repair work on Antares can begin. The passengers are thrilled to be able to return home!",
 		"italian": "Finalmente, i lavori di riparazione di Antares potranno cominciare. I passeggeri sono elettrizzati all'idea di poter ritornare a casa!",
 		"chinese": "最终，星宿号上的修复工作得以进行。乘客们归心似箭！",
+		"turkish": "Sonunda Antares'teki onarım çalışmaları başlayabilir. Yolcular evlerine dönmenin mutluluğunu yaşıyor!",
 	},
 		
 	"message_storyAdamantineDiscoveredTitle": {
 		"english": "Large deposit of Adamantine discovered",
 		"italian": "Grande deposito di Adamantio scoperto",
 		"chinese": "发现了大量曼德拉合金"
+		"turkish": "Büyük miktarda Adamantine yatağı keşfedildi",
 	},
 		
 	"message_storyAdamantineDiscoveredDesc": {
@@ -293,29 +298,34 @@
 		"english": "Spaceship Repairs Completed!",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
+		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
 		
 	"message_storySpaceship_0Desc": {
 		"english": "Congratulations! Antares is finally fully functional. We are ready to return to Earth!",
 		"italian": "Congratulazioni! Antares ha finalmente ripreso a funzionare del tutto. Siamo pronti per tornare sulla Terra!",
 		"chinese": "恭喜！星宿号终于修好了。我们已经做好了返回地球的准备！",
+		"turkish": "Tebrikler! Antares nihayet tamamen işlevsel hale geldi. Dünya'ya dönmeye hazırız!",
 	},
 	
 	"message_storySpaceship_1Title": {
 		"english": "Spaceship Repairs Completed!",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
+		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
 	"message_storySpaceship_1Desc": {//image here 
 		"english": "The strategy of searching for resources to repair Antares has worked. The ship is ready to leave. People have been eagerly awaiting this moment!",
 		"italian": "La strategia di ricercare risorse per riparare Antares ha funzionato. La nave spaziale è pronta a partire. Tutti aspettavano con ansia questo momento!",
 		"chinese": "这种搜索资源来修复星宿号的策略起作用了。飞船准备好启程，乘客们对此刻期待已久！",
+		"turkish": "Antares'i onarmak için kaynak arama stratejisi işe yaradı. Gemi ayrılmaya hazır. İnsanlar bu anı sabırsızlıkla bekliyor!",
 	},
 	
 	"message_storySpaceship_2Title": {
 		"english": "Spaceship Repairs Completed!",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
+		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
 	"message_storySpaceship_2Desc": {//image here 
 		"english": "Of course, after all this time, many of the inhabitants have grown fond of life on Neper-3... And above all, the abundance of Adamantine underground seems a more unique than rare opportunity.",
@@ -327,17 +337,20 @@
 		"english": "Spaceship Repairs Completed!",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
+		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
 	"message_storySpaceship_3Desc": {//image here 
 		"english": "All scientists are thrilled to have a deposit available. According to a recent theory, Adamantine can be used for terraforming! Many studies are moving in this direction.",
 		"italian": "Tutti gli scienziati sono emozionati all'idea di averne un deposito disponibile. Secondo una recente teoria, l'Adamantio può essere utilizzato per la terraformazione! Molti studi si stanno muovendo in questa direzione.",
 		"chinese": "所有科学家都很兴奋能有如此丰富的矿产。根据最新的理论成果，曼德拉合金可以用作地球化！许多研究已投入这个方向。",
+		"turkish": "Tüm bilim adamları bir depozitonun mevcut olmasından heyecan duyuyor. Yeni bir teoriye göre Adamantine dünyalaştırma için kullanılabilir! Birçok çalışma bu yönde ilerlemektedir.",
 	},
 		
 	"message_storySpaceship_4Title": {
 		"english": "Spaceship Repairs Completed!",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
+		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
 	"message_storySpaceship_4Desc": {
 		"english": "Making the air of Neper-3 breathable, bringing greenery to these desert heaths... It is certainly more difficult than repairing a spaceship.\nBut despite the difficulties and homesickness, only a few decide to return to Earth. Everyone else, for the time being, will stay. It is worth a try!",
@@ -349,18 +362,21 @@
 		"english": "Construction of the colossal Adamantine drill",
 		"italian": "Costruzione della colossale trivella per Adamantio",
 		"chinese": "组建巨型曼德拉合金钻头",
+		"turkish": "Devasa Adamantine matkabının inşaatı",
 	},
 		
 	"message_storyDrillStartDesc": {
 		"english": "The construction site for the colossal Adamantine drill is ready to start work! This is an ambitious project. Let’s hope to complete it without too many difficulties.",
 		"italian": "Il cantiere per la trivella colossale per Adamantio è pronto a cominciare i lavori! Si tratta di un progetto ambizioso, speriamo di portarlo a termine senza troppe difficoltà.",
 		"chinese": "巨型曼德拉合金钻头的组装站准备待命！这是一个极具野心的工程，让我们祈祷能够顺利完成它。",
+		"turkish": "Devasa Adamantine matkabının inşaat alanı çalışmaya başlamaya hazır! Bu iddialı bir proje. Umarız çok fazla zorluk yaşamadan tamamlarız.",
 	},
 		
 	"message_storyDrillDoneTitle": {
 		"english": "Colossal Adamantine drill completed.",
 		"italian": "Colossale trivella per Adamantio terminata.",
 		"chinese": "巨型曼德拉合金钻头完成。",
+		"turkish": "Devasa Adamantine tatbikatı tamamlandı.",
 	},
 		
 	"message_storyDrillDoneDesc": {//image
@@ -373,18 +389,21 @@
 		"english": "Terraforming begins!",
 		"italian": "Inizia la terraformazione!",
 		"chinese": "地球化开始！"
+		"turkish": "Dünyalaştırma başlıyor!",
 	},
 		
 	"message_storyTerraformingStartDesc": {
 		"english": "Thanks to Adamantine, you have developed the technology to green this planet. Now it is time to realize this titanic feat.",
 		"italian": "Grazie all'Adamantio, hai sviluppato la tecnologia per rendere verde questo pianeta. Ora è il momento di realizzare questa impresa titanica.",
 		"chinese": "感谢曼德拉合金，你已经发展了科技来绿化这个星球。是时候了解这个伟大的壮举了。",
+		"turkish": "Adamantine sayesinde bu gezegeni yeşillendirecek teknolojiyi geliştirdiniz. Şimdi bu devasa başarıyı gerçekleştirmenin zamanı geldi.",
 	},
 		
 	"message_storyTerraformingDone_0Title": {
 		"english": "Terraforming completed!",
 		"italian": "Terraformazione completata!",
 		"chinese": "地球化完成！",
+		"turkish": "Dünyalaştırma tamamlandı!",
 	},
 		
 	"message_storyTerraformingDone_0Desc": {
@@ -397,6 +416,7 @@
 		"english": "Terraforming completed!",
 		"italian": "Terraformazione completata!",
 		"chinese": "地球化完成！",
+		"turkish": "Dünyalaştırma tamamlandı!",
 	},
 	"message_storyTerraformingDone_1Desc": {//image
 		"english": "The inhabitants can breathe pure, fresh air. They can reconnect with nature that has also been missing on Earth for several centuries.\nWho would have imagined that frightening fault in the middle of space would lead to all this?",
@@ -408,6 +428,7 @@
 		"english": "Terraforming completed!",
 		"italian": "Terraformazione completata!",
 		"chinese": "地球化完成！",
+		"turkish": "Dünyalaştırma tamamlandı!",
 	},
 	"message_storyTerraformingDone_2Desc": {
 		"english": "Your journey has been anything but ordinary.\n\nYou took the crew and passengers of a spaceship and made a community out of it. You made a great industrial city rise out of a desolate desert. And finally, you terraformed the entire planet, bringing in new life forms.\n\nBut this journey is not over yet!",
