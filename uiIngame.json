@@ -4070,13 +4070,16 @@
   	"settingsNotice_title": {
     	"english": "Warning!",
 		"italian": "Attenzione!",
+		"turkish": "Uyarı!",
   	},
   	"settingsNotice_desc": {
     	"english": "By changing these settings, Achievements will be permanently disabled for the entire game. Do you want to proceed?",
 		"italian": "Cambiando queste impostazioni, gli Achievements saranno disabilitati in modo permanente per l'intera partita. Vuoi procedere?",
+		"turkish": "Bu ayarları değiştirdiğinizde Başarılar oyunun tamamında kalıcı olarak devre dışı bırakılacaktır. Devam etmek istiyor musunuz?",
   	},
   	"revertSettings": {
     	"english": "Revert",
 		"italian": "Ripristina",
+		"turkish": "Geri al",
   	},
 }
