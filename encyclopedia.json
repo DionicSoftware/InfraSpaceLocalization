@@ -56,7 +56,7 @@
     "english": "You can facilitate traffic flow by limiting lane outlets. Adapt this principle according to the needs and traffic flow of that intersection!",
     //"french": "Parfois, la configuration manuelle est la meilleure option pour les intersections les plus fréquentées !",
     "italian": "È possibile agevolare il flusso del traffico limitando gli sbocchi delle corsie. Adatta questo principio in base alle esigenze e al traffico di quell'incrocio!",
-    "turkish": "",
+    "turkish": "Şerit çıkışlarını sınırlandırarak trafik akışını kolaylaştırabilirsiniz. Bu prensibi o kavşağın ihtiyaçlarına ve trafik akışına göre uyarlayın!",
     "chinese": "你可以通过限制道路的出口来优化交通流。根据需要和十字路口的交通流调整这一原则。",
     "thai": "คุณสามารถอำนวยความสะดวกในการสัญจรได้โดยการจำกัดช่องจราจร ปรับหลักการนี้ตามความต้องการและความคล่องตัวของทางแยกนั้น!"
   },
@@ -111,6 +111,7 @@
     "italian": "Creazione di linee ferroviarie",
     "chinese": "创建列车线路",
     "thai": "",
+    "turkish": "Tren hatları oluşturun",
   },
   "createTrainLinesFirstTutorialParagraph": {
     "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations. After that, connect them with a closed rail circuit. Pay attention to the direction of the tracks!",
@@ -170,6 +171,7 @@
   },
   "trafficLightsFirstTutorialParagraph": {
     "english": "There are some tools for managing traffic at intersections even more precisely: traffic lights and yield signs. By clicking on in intersection, related buttons will appear.",
+    "turkish": "Kavşaklardaki trafiği daha da hassas bir şekilde yönetmek için bazı araçlar vardır: trafik ışıkları ve yol verme işaretleri. Kavşakta tıkladığınızda ilgili butonlar görünecektir.",
     "italian": "",
     "thai": "",
   },
@@ -312,6 +314,7 @@
     "distributionTutorialTitle": {
     "english": "Distribution centers",
     "italian": "Centri di distribuzione",
+    "turkish": "Dağıtım merkezleri",
   },
     "distributionTutorialParagraph": {
     "english": "These centers are key to managing resources effectively, as they procure a steady supply to industries. Use them to optimize resource management and keep your production chains running smoothly!\n\nThe collection center collects resources from surrounding industries, while the distribution center distributes them to surrounding industries. Click on the building and select the desired resource, then set the radius of action and storage capacity.\n\nFor them to work, link the desired collection and distribution centers together via the building's information panel.\n\nWhen the demand for resources is exhausted, first, the distribution center storage will be filled, and then the collection center storage.",
@@ -320,6 +323,7 @@
     "welcomeTutorialTitle": {
     "english": "Welcome!",
     "italian": "Benvenuto/a!",
+    "turkish": "Hoş geldin!",
   },
     "welcomeTutorialParagraph": {
     "english": "Welcome to the InfraSpace Encyclopedia!\n\nWithin these panels, you will find tutorials covering different aspects of the game, which will assist you step by step in building your city. Furthermore, you will discover some strategic advice on how to make the most of the tools at your disposal.\n\nDon't forget to consult the encyclopedia whenever you have questions or wish to delve deeper into the game.\n\nHappy playing!",
