@@ -4378,72 +4378,74 @@
   	"achievementStatus_title": {
     	"english": "Achievement Status",
 		"italian": "Achievement Status",
+		"turkish": "Başarı Durumu",
   	},
   	"achievementStatus_lockedDescription": {
     	"english": "Achievements are disabled due to the following reasons:",
 		"italian": "Gli Achievement sono disabilitati per le seguenti ragioni:",
+		"turkish": "Başarılar aşağıdaki nedenlerden dolayı devre dışı bırakıldı:",
   	},
   	"achievementStatus_unlockableDescription": {
     	"english": "Achievements are enabled.",
 		"italian": "Gli achievements sono abilitati.",
+		"turkish": "Başarılar etkinleştirildi.",
   	},
   	"achievementStatus_mods": {
     	"english": "Mods",
 		"italian": "Mods",
+		"turkish": "Modlar",
   	},
   	"achievementStatus_creativeSettings": {
-    	"english": "One or more creative mode setting is active",
+    	"english": "One or more creative mode settings are active",
 		"italian": "Una o più impostazioni attive per la modalità creativa",
+		"turkish": "Bir veya daha fazla yaratıcı mod ayarı etkin",
   	},
   	"achievementStatus_modifiedSettings": {
     	"english": "One or more settings have been changed during the game",
 		"italian": "Una o più impostazioni sono state cambiate durante la partita",
+		"turkish": "Oyun sırasında bir veya daha fazla ayar değiştirildi",
   	},
   	"achievementStatus_cheats": {
     	"english": "Cheats",
 		"italian": "Cheats",
+		"turkish": "Hileler",
   	},
   	"mapSelect": {
     	"english": "Choose a map",
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
+		"turkish": "Bir harita seçin",
   	},
   	"mapSelection_title": {
     	"english": "Choose a map",
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
+		"turkish": "Bir harita seçin",
 	},
   	"select": {
     	"english": "Select",
 		"italian": "Seleziona",
 		"chinese": "选择",
+		"turkish": "Seçme",
   	},
   	"level0_title": {
     	"english": "Desert Valley",
 		"german": "Wüstental",
 		"italian": "Vallata desertica",
+		"turkish": "Çöl Vadisi",
   	},
   	"level0_desc": {
-<<<<<<< Updated upstream
-    	"english": "A land charaterized by a large flat area, ideal for those who want to focus on construction without distractions.",
-		"italian": "Un terreno caratterizzato da una grande area pianeggiante, ideale per coloro che vogliono concentrarsi sulla costruzione senza troppe distrazioni.",
-=======
     	"english": "A landing spot characterized by a mix between wide open areas and mountainous terrain on the edges.",
 		"german": "Eine Landeplatz mit einer Mischung aus weiten Flächen und bergigem Terrain an den Rändern"
->>>>>>> Stashed changes
   	},
   	"level1_title": {
     	"english": "Randomly Generated Map",
 		"german": "Zufallsgenerierte Karte",
 		"italian": "Mappa generata",
+		"turkish": "Oluşturulan harita",
   	},
   	"level1_desc": {
-<<<<<<< Updated upstream
-    	"english": "The playing ground is automatically generated at the beginning of the game. It features four biomes with unique characteristics!",
-		"italian": "Il terreno di gioco viene generato automaticamente all'inizio della partita. Presenta quattro biomi dalle caratteristiche uniche!",
-=======
     	"english": "This map is randomly generated at the beginning of the game and features large areas of perfect flatness.",
 		"german": "Diese Karte wird beim Start des Spiels zufällig generiert und hat viele Bereiche die perfekt flach sind.",
->>>>>>> Stashed changes
   	},
 }
