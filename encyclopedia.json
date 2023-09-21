@@ -158,15 +158,18 @@
     "english": "Traffic lights and yield sign",
     "italian": "Semafori e segnali di precedenza",
     "turkish": "Trafik ışıkları ve yol işareti",
+    "chinese": "交通灯和让行标志",
   },
   "trafficLightsFirstTutorialParagraph": {
     "english": "There are some tools for managing traffic at intersections even more precisely: traffic lights and yield signs. By clicking on in intersection, related buttons will appear.",
     "turkish": "Kavşaklardaki trafiği daha da hassas bir şekilde yönetmek için bazı araçlar vardır: trafik ışıkları ve yol verme işaretleri. Kavşakta tıkladığınızda ilgili butonlar görünecektir.",
+    "chinese": "有一些工具可以更精确地管理十字路口的交通：交通信号灯和让行标志。点击交叉点，会出现相关按钮。",
   },
   "trafficLightsFirstTutorialHeading": {
     "english": "Traffic lights",
     "italian": "Semafori",
     "turkish": "Trafik ışıkları",
+    "chinese": "交通灯",
   },
   "trafficLightsSecondTutorialParagraph": {
     "english": "Click on the button with the traffic light icon. Now you can decide which lanes will be allowed to flow at the same time, and which will have to wait. You can add and remove traffic light phases, and decide their duration. You can also decide to ignore traffic lights when the road is completely clear by activating the box at the top.\n\nWhen you exit the menu, the traffic lights will remain active. If you want to remove them, use the last of the four buttons, or switch to management by yield signs.",
@@ -176,6 +179,7 @@
     "english": "Yield signs",
     "italian": "Segnali di precedenza",
     "turkish": "Verim işaretleri",
+    "chinese": "让行标志",
   },
   "trafficLightsThirdTutorialParagraph": {
     "english": "Click on the button with the yield sign icon. Now I could decide which roads will have the right of way in the intersection, and which ones will have to yield it instead. Reverse the right of way by pressing on the large sign that will appear on the road.\n\nBy exiting the menu, the signs will remain. If you want to remove them, use the last of the four buttons, or switch to management by traffic lights.",
@@ -185,6 +189,7 @@
     "english": "Pipes",
     "italian": "Tubazioni",
     "turkish": "Borular",
+    "chinese": "管道",
   },
   "pipesTutorialParagraph": {
     "english": "Some resources can be transported via underground pipelines. This is the case for oxygen, water, methane, and crude oil.\n\nThe pipes connect automatically when they are near a building that requires that particular resource. In addition, multiple pipes can be built in the same tiles: each one is at a different depth.\n\nUsing pipelines can greatly reduce road traffic, at a cost: buildings that produce the resources transported by pipelines consume twice as much electricity. Pumping liquids and gas is energy-consuming!",
@@ -194,6 +199,7 @@
     "english": "Outgoing storage full",
     "italian": "Magazzino in uscita pieno",
     "turkish": "Giden depolama dolu",
+    "chinese": "输出库存已满",
   },
   "outgoingStorageFullFirstTutorialParagraph": {
     "english": "Each building has two storage. The outgoing storage is where the produced resources are stored for shipment, and can be seen in the bottom right panel.\n\n If a building's information panel shows that the outgoing storage is full, it is because there are no buildings to which it can deliver goods at that moment.",
@@ -207,6 +213,7 @@
     "english": "Incoming storage empty",
     "italian": "Magazzino in entrata vuoto",
     "turkish": "Gelen depolama alanı boş",
+    "chinese": "输入库存为空",
   },
   "incomingStorageEmptyFirstTutorialParagraph": {
     "english": "Each building has two storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production.",
@@ -220,6 +227,7 @@
     "english": "Gondolas",
     "italian": "Cabinovie",
     "turkish": "Gondollar",
+    "chinese": "缆车",
   },
   "gondolasTutorialParagraph": {
     "english": "Cargo gondolas can be used to easily transport resources up and down slopes.\n\nBuild the first gondola with the cable car side facing the desired direction. The second gondola should face the first so that the cables form a straight path.",
@@ -229,6 +237,7 @@
     "english": "Immigration",
     "italian": "Immigrazione",
     "turkish": "Göçmenlik",
+    "chinese": "移民",
   },
   "immigrationTutorialParagraph": {
     "english": "You can check the immigration rate by clicking on the Spaceport. To increase the immigration rate, improve your habitats by meeting their requirements!\n\nPlease note: building multiple Spaceports does not increase the immigration rate. However, it may be a strategy to place them at different points on the map to distribute traffic to the habitats.",
@@ -238,6 +247,7 @@
     "english": "Production overview",
     "italian": "Panoramica della produzione",
     "turkish": "Üretime genel bakış",
+    "chinese": "生产概况",
   },
   "productionOverviewTutorialParagraph": {
     "english": "Open the Production Overview panel located on the left side of the game screen.\n\nHere you can compare production and consumption. Adjust production per resource via the slider bars. This way, you can decrease the number of workers and reduce production as needed.\n\nHaving a slight overproduction is useful to fill up warehouses and always have a good supply in case of unforeseen events!",
@@ -246,7 +256,8 @@
   "districtsTutorialTitle": {
     "english": "Districts",
     "italian": "Distretti",
-    "turkish": "İlçeler"
+    "turkish": "İlçeler",
+    "chinese": "地区",
   },
   "districtsTutorialParagraph": {
     "english": "To make some of your buildings deliver resources only to specific industries, you can use Districts and link the desired buildings together.\n\nOpen the Districts panel on the left side of the screen. To create the first district, select the brush width you want, and paint the area below the buildings from which you want to export a particular resource. After that, paint the area below the buildings you want them to import it from.\n\nNow select the desired resource in the Districts panel. Finally, click on the district you need to export and drag the arrow that will appear to the district you want to import.\n\nThis way, buildings in the first district will export only to buildings in the second district.\n\nYou can also link a district with itself by dragging the arrow inside it!",
@@ -255,6 +266,7 @@
   "powerTutorialTitle": {
     "english": "Power",
     "italian": "Energia elettrica",
+    "chinese": "电力",
     "turkish": "Enerji"
   },
   "powerFirstTutorialParagraph": {
@@ -268,6 +280,7 @@
   "shapingTheRoadsTutorialTitle": {
     "english": "Shaping the roads",
     "italian": "Modellare le strade",
+    "chinese": "塑造道路",
     "turkish": "Yolları şekillendirmek"
   },
   "shapingTheRoadsTutorialParagraph": {
@@ -278,6 +291,7 @@
     "english": "Distribution centers",
     "italian": "Centri di distribuzione",
     "turkish": "Dağıtım merkezleri",
+	  "chinese": "配送中心",
   },
     "distributionTutorialParagraph": {
     "english": "These centers are key to managing resources effectively, as they procure a steady supply to industries. Use them to optimize resource management and keep your production chains running smoothly!\n\nThe collection center collects resources from surrounding industries, while the distribution center distributes them to surrounding industries. Click on the building and select the desired resource, then set the radius of action and storage capacity.\n\nFor them to work, link the desired collection and distribution centers together via the building's information panel.\n\nWhen the demand for resources is exhausted, first, the distribution center storage will be filled, and then the collection center storage.",
@@ -287,9 +301,11 @@
     "english": "Welcome!",
     "italian": "Benvenuto/a!",
     "turkish": "Hoş geldin!",
+	  "chinese": "欢迎！",
   },
     "welcomeTutorialParagraph": {
     "english": "Welcome to the InfraSpace Encyclopedia!\n\nWithin these panels, you will find tutorials covering different aspects of the game, which will assist you step by step in building your city. Furthermore, you will discover some strategic advice on how to make the most of the tools at your disposal.\n\nDon't forget to consult the encyclopedia whenever you have questions or wish to delve deeper into the game.\n\nHappy playing!",
     "italian": "Benvenuto/a nell'enciclopedia di InfraSpace!\n\nIn questi pannelli troverai tutorial riguardanti diversi aspetti del gioco, che ti aiuteranno passo a passo nella costruzione della tua città. Inoltre, troverai qualche consiglio strategico su come sfruttare al meglio gli strumenti a tua disposizione!\n\nNon dimenticare di consultare l'enciclopedia ogni volta che hai dubbi, o se vuoi approfondire la tua conoscenza del gioco.\n\nBuon divertimento!",
+	  "chinese": "欢迎来到InfraSpace百科全书！\n\n在这些面板中，你将找到涵盖游戏不同方面的教程，这将帮助你逐步建设城市。此外，你还会发现一些关于如何充分利用可用工具的策略建议。\n\n每当你有疑问或希望深入研究游戏时，请不要忘记查阅百科全书。\n\n祝您游戏愉快！",
   },
 }

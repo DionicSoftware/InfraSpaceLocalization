@@ -4068,15 +4068,18 @@
     	"english": "Warning!",
 		"italian": "Attenzione!",
 		"turkish": "Uyarı!",
+		"chinese": "警告！",
   	},
   	"settingsNotice_desc": {
     	"english": "By changing these settings, Achievements will be permanently disabled for the entire game. Do you want to proceed?",
 		"italian": "Cambiando queste impostazioni, gli Achievements saranno disabilitati in modo permanente per l'intera partita. Vuoi procedere?",
 		"turkish": "Bu ayarları değiştirdiğinizde Başarılar oyunun tamamında kalıcı olarak devre dışı bırakılacaktır. Devam etmek istiyor musunuz?",
+		"chinese": "通过更改这些设置，整个游戏的成就将被永久禁用。还想继续吗？",
   	},
   	"revertSettings": {
     	"english": "Revert",
 		"italian": "Ripristina",
 		"turkish": "Geri al",
+		"chinese": "恢复",
   	},
 }
