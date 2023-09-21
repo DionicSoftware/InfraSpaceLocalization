@@ -1,0 +1,194 @@
+﻿{
+  "drillingTime_Title": {
+    "english": "Drilling time!",
+  },
+  "drillingTime_Desc": {
+    "english": "Built the Colossal Adamantine Mine.",
+  },
+  "futureNow_Title": {
+    "english": "The future is now",
+  },
+  "futureNow_Desc": {
+    "english": "Build the Magnetic Field Generator.",
+  },
+  "reigniteEngine_Title": {
+    "english": "Reignite the engine",
+  },
+  "reigniteEngine_Desc": {
+    "english": "Finish repairing the spaceship.",
+  },
+  "greenPlanet_Title": {
+    "english": "Green planet",
+  },
+  "greenPlanet_Desc": {
+    "english": "Complete terraforming.",
+  },
+  "elbowGrease_Title": {
+    "english": "Green planet",
+  },
+  "elbowGrease_Desc": {
+    "english": "Repair your first spaceship part.",
+  },
+  "strictlyDistrict_Title": {
+    "english": "Strictly in the district",
+  },
+  "strictlyDistrict_Desc": {
+    "english": "Use districts for the first time.",
+  },
+  "undergroundTransportation_Title": {
+    "english": "Underground Transportation",
+  },
+  "undergroundTransportation_Desc": {
+    "english": "Connect a Habitat to the piping system.",
+  },
+  "renovationTime_Title": {
+    "english": "Underground Transportation",
+  },
+  "renovationTime_Desc": {
+    "english": "Connect a Habitat to the piping system.",
+  },
+  "train_Title": {
+    "english": "Choo-choo!",
+  },
+  "train_Desc": {
+    "english": "Build and operate your first train line.",
+  },
+  "gondola_Title": {
+    "english": "Ain't No Mountain High Enough",
+  },
+  "gondola_Desc": {
+    "english": "Built and operate your first gondolas.",
+  },
+  "efficiency_Title": {
+    "english": "Efficiency is your motto",
+  },
+  "efficiency_Desc": {
+    "english": "Build your first power-up building.",
+  },
+  "village_Title": {
+    "english": "Village milestone",
+  },
+  "village_Desc": {
+    "english": "Reach a population of 500.",
+  },
+  "town_Title": {
+    "english": "Town milestone",
+  },
+  "town_Desc": {
+    "english": "Reach a population of 2000.",
+  },
+  "city_Title": {
+    "english": "City milestone",
+  },
+  "city_Desc": {
+    "english": "Reach a population of 5,000.",
+  },
+  "metropolis_Title": {
+    "english": "Metropolis milestone",
+  },
+  "metropolis_Desc": {
+    "english": "Reach a population of 10,000.",
+  },
+  "megacity_Title": {
+    "english": "Megacity milestone",
+  },
+  "megacity_Desc": {
+    "english": "Reach a population of 20,000.",
+  },
+  "decorations_Title": {
+    "english": "Let's make this city shine",
+  },
+  "decorations_Desc": {
+    "english": "Unlock all the buildings in the \"Decorations\" category.",
+  },
+  "steelConcrete_Title": {
+    "english": "Packed storehouses",
+  },
+  "steelConcrete_Desc": {
+    "english": "Have at least 50000 steel and 50000 concrete stored.",
+  },
+  "resources_Title": {
+    "english": "Total industrialization",
+  },
+  "resources_Desc": {
+    "english": "Produce all kinds of existing resources.",
+  },
+  "green_Title": {
+    "english": "The green one",
+  },
+  "green_Desc": {
+    "english": "Unlock the green science packs.",
+  },
+  "yellow_Title": {
+    "english": "The yellow one",
+  },
+  "yellow_Desc": {
+    "english": "Unlock the yellow science packs.",
+  },
+  "red_Title": {
+    "english": "The red one",
+  },
+  "red_Desc": {
+    "english": "Unlock the red science packs.",
+  },
+  "science_Title": {
+    "english": "Science!",
+  },
+  "science_Desc": {
+    "english": "Complete the research tree.",
+  },
+  "habitat_Title": {
+    "english": "Next-generation skyscrapers",
+  },
+  "habitat_Desc": {
+    "english": "Improve a Habitat to its maximum.",
+  },
+  "laser_Title": {
+    "english": "Passion for explosions",
+  },
+  "laser_Desc": {
+    "english": "Destroy 30 objects with the Laser Cannon.",
+  },
+  "ff_Title": {
+    "english": "I wonder where it came from?",
+  },
+  "ff_Desc": {
+    "english": "Place the statue with mysterious origins.",
+  },
+  "degrowth_Title": {
+    "english": "Happy degrowth. Or maybe not?",
+  },
+  "degrowth_Desc": {
+    "english": "Two-hundreds of your Habitats downgraded in a single game.",
+  },
+  "sign_Title": {
+    "english": "InfraSpace is welcoming you",
+  },
+  "sign_Desc": {
+    "english": "Build a sign.",
+  },
+  "pixel_Title": {
+    "english": "Make way for creativity!",
+  },
+  "pixel_Desc": {
+    "english": "Place thirty pixel buildings.",
+  },
+  "destroyer_Title": {
+    "english": "Now I am become Death, the destroyer of worlds",
+  },
+  "destroyer_Desc": {
+    "english": "Destroy fifty buildings in a row.",
+  },
+  "power_Title": {
+    "english": "Quite an electrical system!",
+  },
+  "power_Desc": {
+    "english": "Generate 10000 Power.",
+  },
+  "adamantine_Title": {
+    "english": "Miner of the Year",
+  },
+  "adamantine_Desc": {
+    "english": "Drill 1000 Adamantine.",
+  },
+}
