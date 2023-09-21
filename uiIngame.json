@@ -2262,7 +2262,6 @@
 		"portuguese": "Imigrantes prontos para se mudarem:",
 		"czech": "Imigranti připraveni se přistěhovat:",
 		"hungarian": "Migránsok készen, hogy beköltözzenek:",
-		"thai": "",
 		"turkish": "Taşınmaya hazır göçmenler:",
 		"romanian": "Imigranți gata să se mute în:",
 		"danish": "Indbyggere klar til at flytte ind:",
@@ -4002,7 +4001,6 @@
 	"gracePeriodTitle": {
 		"english": "Grace Period to Fix Your City",
 		"german": "Spielpause um Stadt zu ändern",
-		"french": "",
 		"italian": "Periodo di Grazia per ribilanciare la tua città",
 		"thai": "ระยะเวลาเผื่อเพื่อแก้ไขเมืองของคุณ",
 		"japanese": "都市を修正するための猶予期間",
@@ -4012,7 +4010,6 @@
 	"gracePeriodDesc": {
 		"english": "Your save has been created in an old version of the game.\n\nYou get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitants will not move in or out and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
 		"german": "Dein Spielstand wurde in einer älteren Version des Spiels erstellt.\n\nDu bekommst etwas Zeit um deine Stadt für die neue Version vorzubereiten.\nIn dieser Zeit werden deine Einwohner nicht ein- oder ausziehen und du kannst keine neuen Technologien erforschen.\n\nKlicke auf diesen Button wenn du bereit bist, normal weiterzuspielen:",
-		"french": "",
 		"italian": "Il tuo salvataggio è stato creato in una versione del gioco precedente.\n\nHai a disposizione del tempo per ribilanciare la tua città secondo i nuovi parametri.\nDurante il Periodo di Grazia, gli abitanti non possono andarsene o immigrare, e non è possibile ricercare nuove tecnologie.\n\nFai click su questo pulsante quando sarai pronto/a a giocare normalmente.",
 		"thai": "การบันทึกของคุณถูกสร้างขึ้นในเกมเวอร์ชันเก่า\n\nคุณมีระยะเวลาแก้ไขเมืองและปรับให้เข้ากับข้อกำหนดใหม่\nในช่วงเวลานี้ ผู้อยู่อาศัยของคุณจะไม่ย้ายเข้าหรือออกไป และคุณจะไม่สามารถหาข้อมูล เทคโนโลยีใหม่ได้\n\nคลิกปุ่มนี้หากคุณพร้อมที่จะเล่นเกมต่อตามปกติ:",
 		"japanese": "このセーブファイルは旧バージョンで作成されています。\n\n都市を修正し、新しい需要に合わせて調整する時間があります。\nこの間、入植者は移動せず、新たな技術の研究もできません。\n\n通常通りゲームを進める準備ができたら、このボタンを押してください:",

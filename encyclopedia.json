@@ -103,14 +103,12 @@
     "french": "Parfois, le trafic est tout simplement trop important.\n\nLorsque les embouteillages ne diminuent pas, même en améliorant la route ou en gérant les voies, il peut s'avérer nécessaire de créer une route alternative.\n\nDe cette manière, vous diminuez la pression dans les zones critiques et le trafic peut reprendre son cours normal.\n\nImportant ! Les véhicules choisissent automatiquement l'itinéraire théoriquement le plus rapide, indépendamment des embouteillages.",
     "italian": "A volte il traffico è semplicemente troppo.\n\nQuando gli ingorghi non si riducono nemmeno migliorando la strada o gestendo le corsie, può essere il caso di creare una strada alternativa.\n\nIn questo modo, si riduce la pressione nelle aree critiche e il traffico può riprendere a scorrere normalmente.\n\nImportante! I veicoli scelgono automaticamente il percorso teoricamente più veloce, indipendentemente dagli ingorghi stradali.",
     "chinese": "有时，交通管理非常简单。\n\n当交通堵塞无法通过升级道路或者管理支路减少的时候，或许应该建造另一条可以替代的道路。\n\n这样，你就可以减少这些区域的压力，交通也就可以恢复正常。\n\n最重要的是！车辆会自动选择理论上最快的道路来防止交通堵塞。",
-    "thai": "",
   },
   "createTrainLinesTutorialTitle": {
     "english": "Create train lines",
     "french": "Créer des lignes de train",
     "italian": "Creazione di linee ferroviarie",
     "chinese": "创建列车线路",
-    "thai": "",
     "turkish": "Tren hatları oluşturun",
   },
   "createTrainLinesFirstTutorialParagraph": {
@@ -118,14 +116,12 @@
     "french": "Voyons étape par étape comment créer une ou plusieurs lignes ferroviaires.\n\nTout d'abord, construisez au moins deux gares. Elles servent à charger et à décharger les marchandises, alors placez-les à des endroits stratégiques. Ensuite, reliez-les avec un circuit ferroviaire fermé. Faites attention à la direction des rails !",
     "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici. Dopodiché, connettile con un circuito ferroviario chiuso. Fai attenzione alla direzione dei binari!",
     "chinese": "让我们逐步地看下如何创建一条或多条列车线路。\n\n首先，建造至少两个列车站。他们通常用来装载和卸载货物，所以要把他们放在战略性的地方。然后，用一条闭合的轨道线路连接他们。注意列车运行的方向！",
-    "thai": "",
   },
   "createTrainLinesSecondTutorialParagraph": {
     "english": "Now it's time to put them into operation. On the left side of the game screen, open the \"Train lines\" menu.\n\nAdd a train line on the left side of the panel. After that, select the train stations where you want the train(s) on that line to stop.\n\nPlease note: trains are used exclusively when they are the fastest option.",
     "french": "Il est maintenant temps de les faire fonctionner. Sur le côté gauche de l'écran de jeu, ouvrez le menu « Lignes de train ».\n\nAjoutez une ligne de train sur le côté gauche du panneau. Ensuite, sélectionnez les gares où vous souhaitez que le(s) train(s) de cette ligne s'arrête(nt).\n\nRemarque : les trains sont utilisés exclusivement lorsqu'ils constituent l'option la plus rapide.",
     "italian": "Ora è il momento di metterle in funzione. Sul lato sinistro della schermata di gioco, apri il menu \"Linee ferroviarie\".\n\nAggiungi una linea ferroviaria sul lato sinistro del pannello. Successivamente, seleziona le stazioni ferroviarie in cui desideri che il treno o i treni di quella linea si fermino.\n\nNota: i treni vengono utilizzati esclusivamente quando sono l'opzione più veloce.",
     "chinese": "现在是时候用上他们了。在游戏界面的左侧，点开“列车”菜单，在其界面左侧添加一条列车线路，再选择你想停靠的列车站。请注意：如果列车可以更快的运输货物，他们通常是首选项。",
-    "thai": "",
   },
   "createTrainLinesTutorialHeading": {
     "english": "Be creative!",
@@ -133,14 +129,12 @@
     "italian": "Usa la creatività!",
     "turkish": "Yaratıcı ol",
     "chinese": "保持创造力！",
-    "thai": "",
   },
   "createTrainLinesThirdTutorialParagraph": {
     "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
     "french": "N'hésitez pas à utiliser des stations de tailles différentes et à créer des jonctions et des intersections avec des rails.\n\nLe passage de plusieurs trains par intersection est géré automatiquement : voir « Intersections ferroviaires » pour en savoir plus.",
     "italian": "Sentiti libero/a di utilizzare stazioni di dimensioni diverse e di creare bivi e intersezioni con le ferrovie.\n\nIl passaggio di più treni per ogni intersezione viene gestito automaticamente: per saperne di più, consulta la voce \"Intersezioni ferroviarie\"",
     "chinese": "使用不同类型的站点以及列车线路交会时不需要非常谨慎。\n\n各个列车的乘客在线路交会的地方会自动进行调节：更多信息参考“列车线路交会",
-    "thai": "",
   },
   "railsIntersectionsTutorialTitle": {
     "english": "Rails intersections",
@@ -148,168 +142,137 @@
     "italian": "Intersezioni ferroviarie",
     "turkish": "Raylı kavşaklar",
     "chinese": "列车线路交会",
-    "thai": "",
   },
   "railsIntersectionsFirstTutorialParagraph": {
     "english": "The passage of multiple trains per intersection is handled by an automatic signaling system. To avoid slowdowns on railway lines, it is useful to know how it works! Access the signaling overview by clicking the traffic light icon in the \"Rails\" category.",
     "french": "Le passage de plusieurs trains par intersection est géré par un système de signalisation automatique. Pour éviter les ralentissements sur les lignes ferroviaires, il est utile de savoir comment cela fonctionne ! Accédez à la vue d'ensemble de la signalisation en cliquant sur l'icône de feu de signalisation dans la catégorie « Rails ».",
     "italian": "Il passaggio di più treni per intersezione è gestito da un sistema di segnalazione automatico. Per evitare rallentamenti sulle linee ferroviarie, è utile conoscerne il funzionamento! Accedi alla panoramica del sistema di segnalamento cliccando sull'icona del semaforo nella categoria \"Binari\".",
     "chinese": "各个列车的乘客在线路交会的地方会被一个自动的信号系统进行调节。为了避免列车线路堵塞，最好知道它是怎么运作的！通过点击“列车线路”中的红绿灯按钮，可以看到信号的概述。",
-    "thai": "",
   },
   "railsIntersectionsSecondTutorialParagraph": {
     "english": "Intersections are highlighted in red, while orange zones indicate an unsafe area. When a train is in an orange or red zone, no other trains can enter that area.\n\nMake sure there is a green section between intersections, or your trains will have to wait for a long time!",
     "french": "Les intersections sont mises en évidence en rouge, tandis que les zones orange indiquent une zone dangereuse. Lorsqu'un train se trouve dans une zone orange ou rouge, aucun autre train ne peut entrer dans cette zone.\n\nVeillez à ce qu'il y ait une section verte entre les intersections, sinon vos trains devront attendre longtemps !",
     "italian": "Le intersezioni sono evidenziate in rosso, mentre le zone arancioni indicano un'area non sicura. Quando un treno si trova in una zona arancione o rossa, nessun altro treno può entrare in quell'area.\n\nAssicurati che ci sia una sezione verde tra le intersezioni, o i tuoi treni dovranno aspettare a lungo prima di poter passare!",
-    "thai": "",
   },
   "trafficLightsTutorialTitle": {
     "english": "Traffic lights and yield sign",
     "italian": "Semafori e segnali di precedenza",
     "turkish": "Trafik ışıkları ve yol işareti",
-    "thai": "",
   },
   "trafficLightsFirstTutorialParagraph": {
     "english": "There are some tools for managing traffic at intersections even more precisely: traffic lights and yield signs. By clicking on in intersection, related buttons will appear.",
     "turkish": "Kavşaklardaki trafiği daha da hassas bir şekilde yönetmek için bazı araçlar vardır: trafik ışıkları ve yol verme işaretleri. Kavşakta tıkladığınızda ilgili butonlar görünecektir.",
-    "italian": "",
-    "thai": "",
   },
   "trafficLightsFirstTutorialHeading": {
     "english": "Traffic lights",
     "italian": "Semafori",
     "turkish": "Trafik ışıkları",
-    "thai": "",
   },
   "trafficLightsSecondTutorialParagraph": {
     "english": "Click on the button with the traffic light icon. Now you can decide which lanes will be allowed to flow at the same time, and which will have to wait. You can add and remove traffic light phases, and decide their duration. You can also decide to ignore traffic lights when the road is completely clear by activating the box at the top.\n\nWhen you exit the menu, the traffic lights will remain active. If you want to remove them, use the last of the four buttons, or switch to management by yield signs.",
     "italian": "Clicca sul pulsante con l’icona del semaforo. Ora puoi decidere quali corsie potranno scorrere allo stesso tempo, e quali dovranno attendere. Puoi aggiungere e rimuovere le fasi dei semafori, e deciderne la durata. Puoi anche decidere di ignorare i semafori quando la strada è completamente libera attivando la casella in alto.\n\nUscendo dal menu, i semafori rimarranno attivi. Se vuoi rimuoverli, utilizza l’ultimo dei quattro pulsanti, oppure passa alla gestione per precedenza stradale.",
-    "thai": "",
   },
   "trafficLightsSecondTutorialHeading": {
     "english": "Yield signs",
     "italian": "Segnali di precedenza",
     "turkish": "Verim işaretleri",
-    "thai": "",
   },
   "trafficLightsThirdTutorialParagraph": {
     "english": "Click on the button with the yield sign icon. Now I could decide which roads will have the right of way in the intersection, and which ones will have to yield it instead. Reverse the right of way by pressing on the large sign that will appear on the road.\n\nBy exiting the menu, the signs will remain. If you want to remove them, use the last of the four buttons, or switch to management by traffic lights.",
     "italian": "Clicca sul pulsante con l’icona del segnale di precedenza. Ora potrei decidere quali strade avranno la precedenza nell’incrocio, e quali dovranno invece cederla. Inverti la precedenza premendo sul grande segnale che apparirà sulla strada.\n\nUscendo dal menu, i cartelli rimarranno. Se vuoi rimuoverli, utilizza l’ultimo dei quattro pulsanti, oppure passa alla gestione per semafori.",
-    "thai": "",
   },
   "pipesTutorialTitle": {
     "english": "Pipes",
     "italian": "Tubazioni",
     "turkish": "Borular",
-    "thai": "",
   },
   "pipesTutorialParagraph": {
     "english": "Some resources can be transported via underground pipelines. This is the case for oxygen, water, methane, and crude oil.\n\nThe pipes connect automatically when they are near a building that requires that particular resource. In addition, multiple pipes can be built in the same tiles: each one is at a different depth.\n\nUsing pipelines can greatly reduce road traffic, at a cost: buildings that produce the resources transported by pipelines consume twice as much electricity. Pumping liquids and gas is energy-consuming!",
     "italian": "Alcune risorse possono essere trasportate tramite tubature sotterranee. È il caso di ossigeno, acqua, metano e petrolio grezzo.\n\nI tubi si connettono automaticamente quando sono in prossimità di un edificio che richiede quella determinata risorsa. Inoltre, è possibile costruire più tubi nelle stesse caselle: ognuno di essi si trova a una profondità differente!\n\nL’utilizzo di tubature può ridurre notevolmente il traffico stradale, a un costo: gli edifici che producono le risorse trasportate con le tubature, consumano il doppio dell'energia elettrica. Pompare liquidi e gas è energeticamente dispendioso!",
-    "thai": "",
   },
   "outgoingStorageFullTutorialTitle": {
     "english": "Outgoing storage full",
     "italian": "Magazzino in uscita pieno",
     "turkish": "Giden depolama dolu",
-    "thai": "",
   },
   "outgoingStorageFullFirstTutorialParagraph": {
     "english": "Each building has two storage. The outgoing storage is where the produced resources are stored for shipment, and can be seen in the bottom right panel.\n\n If a building's information panel shows that the outgoing storage is full, it is because there are no buildings to which it can deliver goods at that moment.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in uscita è dove le risorse prodotte vengono stoccate per la spedizione, e si può visualizzare nel riquadro in basso a destra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in uscita è pieno, è perché in quel momento non ci sono edifici a cui può consegnare la merce.",
-    "thai": "",
   },
   "outgoingStorageFullSecondTutorialParagraph": {
     "english": "To check the status of your deliveries, click on the arrow in the building information panel.\n\nBlue color indicates the selected building.\n\nGreen color indicates that the delivery is in progress.\n\nYellow color indicates that the incoming storage is already full.\n\nRed color indicates that the building is not reachable.",
     "italian": "Per controllare lo stato delle tue consegne, clicca sulla freccia nel pannello informativo dell’edificio.\n\nIl colore blu indica l’edificio selezionato.\n\nIl colore verde indica che la consegna è in corso.\n\nIl colore giallo indica che il magazzino in entrata è già pieno.\n\nIl colore rosso indica che l’edificio non è raggiungibile.",
-    "thai": "",
   },
   "incomingStorageEmptyTutorialTitle": {
     "english": "Incoming storage empty",
     "italian": "Magazzino in entrata vuoto",
     "turkish": "Gelen depolama alanı boş",
-    "thai": "",
   },
   "incomingStorageEmptyFirstTutorialParagraph": {
     "english": "Each building has two storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in entrata è dove le risorse ricevute vengono stoccate per essere utilizzate, e si può visualizzare nel riquadro in basso a sinistra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in entrata è vuoto, è perché una o più risorse stoccate non sono sufficienti alla produzione.",
-    "thai": "",
   },
   "incomingStorageEmptySecondTutorialParagraph": {
     "english": "Sometimes the storage may remain empty for a long time while it waits for resources to arrive. You can check for pending deliveries by hovering the cursor over the desired resource.\n\nIn those cases, it is better to place factories closer together or built faster routes!",
     "italian": "A volte il magazzino può rimanere vuoto a lungo mentre attende che le risorse arrivino. Puoi controllare se ci sono consegne pendenti posizionando il cursore sulla risorsa desiderata.\n\nIn questi casi, meglio posizionare le industrie più vicine tra loro o costruire strade più veloci!",
-    "thai": "",
   },
   "gondolasTutorialTitle": {
     "english": "Gondolas",
     "italian": "Cabinovie",
     "turkish": "Gondollar",
-    "thai": "",
   },
   "gondolasTutorialParagraph": {
     "english": "Cargo gondolas can be used to easily transport resources up and down slopes.\n\nBuild the first gondola with the cable car side facing the desired direction. The second gondola should face the first so that the cables form a straight path.",
     "italian": "Le cabinovie possono essere utilizzate per trasportare agevolmente le risorse lungo le pendenze.\n\nCostruisci la prima gondola con il lato della funivia rivolto verso la direzione desiderata. La seconda gondola dovrà essere rivolta verso la prima, in modo che i cavi formino un percorso rettilineo.",
-    "thai": "",
   },
   "immigrationTutorialTitle": {
     "english": "Immigration",
     "italian": "Immigrazione",
     "turkish": "Göçmenlik",
-    "thai": "",
   },
   "immigrationTutorialParagraph": {
     "english": "You can check the immigration rate by clicking on the Spaceport. To increase the immigration rate, improve your habitats by meeting their requirements!\n\nPlease note: building multiple Spaceports does not increase the immigration rate. However, it may be a strategy to place them at different points on the map to distribute traffic to the habitats.",
     "italian": "Puoi vedere il tasso d’immigrazione cliccando sullo spazio porto. Per aumentare il tasso d’immigrazione, migliora i tuoi habitat soddisfandone i requisiti!\n\nNota bene: costruire più spazio porti non aumenta il tasso d’immigrazione; tuttavia può essere una strategia posizionarli in diversi punti della mappa per distribuire il traffico verso gli habitat.",
-    "thai": "",
   },
   "productionOverviewTutorialTitle": {
     "english": "Production overview",
     "italian": "Panoramica della produzione",
     "turkish": "Üretime genel bakış",
-    "thai": "",
   },
   "productionOverviewTutorialParagraph": {
     "english": "Open the Production Overview panel located on the left side of the game screen.\n\nHere you can compare production and consumption. Adjust production per resource via the slider bars. This way, you can decrease the number of workers and reduce production as needed.\n\nHaving a slight overproduction is useful to fill up warehouses and always have a good supply in case of unforeseen events!",
     "italian": "Apri il pannello Panoramica della produzione che si trova a sinistra della schermata di gioco.\n\nQui puoi comparare la produzione e i consumi. Aggiusta la produzione per risorsa tramite le barre di scorrimento. In questo modo, puoi diminuire il numero di lavoratori e ridurre la produzione secondo le tue necessità.\n\nAvere una leggera sovrapproduzione è utile per riempire i magazzini e avere sempre una buona scorta in caso di imprevisti!",
-    "thai": "",
   },
   "districtsTutorialTitle": {
     "english": "Districts",
     "italian": "Distretti",
-    "thai": "",
     "turkish": "İlçeler"
   },
   "districtsTutorialParagraph": {
     "english": "To make some of your buildings deliver resources only to specific industries, you can use Districts and link the desired buildings together.\n\nOpen the Districts panel on the left side of the screen. To create the first district, select the brush width you want, and paint the area below the buildings from which you want to export a particular resource. After that, paint the area below the buildings you want them to import it from.\n\nNow select the desired resource in the Districts panel. Finally, click on the district you need to export and drag the arrow that will appear to the district you want to import.\n\nThis way, buildings in the first district will export only to buildings in the second district.\n\nYou can also link a district with itself by dragging the arrow inside it!",
     "italian": "Per fare in modo che alcuni edifici consegnino le risorse solo a determinate industrie, puoi usare i Distretti e collegare gli edifici desiderati tra di loro. \n\nApri il pannello “Distretti”, sulla sinistra dello schermo. Per creare il primo distretto, seleziona l’ampiezza del pennello che desideri, e dipingi l’area sottostante agli edifici dai quali vuoi esportare una determinata risorsa. Dopodichè, dipingi l’area sottostante agli edifici che vuoi che la importino.\n\nOra seleziona la risorsa desiderata nel pannello “Distretti”. Infine, clicca sul distretto che deve esportare e trascina la freccia che apparirà fino al distretto che vuole importare.\n\nPuoi anche collegare un distretto con se stesso trascinando la freccia al suo interno!",
-    "thai": "",
   },
   "powerTutorialTitle": {
     "english": "Power",
     "italian": "Energia elettrica",
-    "thai": "",
     "turkish": "Enerji"
   },
   "powerFirstTutorialParagraph": {
     "english": "Power is essential to the operation of buildings.\n\nElectric poles and power substation are the only two ways to spread electricity to surrounding buildings, and they must be connected to one or more power sources.\n\nPoles have a very small radius, but by connecting to each other they can cover very large areas.",
     "italian": "L’energia elettrica è indispensabile al funzionamento degli edifici.\n\nI pali elettrici e la power substation sono gli unici due modi per diffondere l’energia elettrica agli edifici circostanti, e vanno connessi a una o più fonti di energia. \n\nI pali hanno un raggio molto ridotto, ma connettendosi gli uni agli altri possono coprire aree molto vaste.",
-    "thai": "",
   },
   "powerSecondTutorialParagraph": {
     "english": "The set of energy sources connected together is called Power Network. When the power produced is not enough for the buildings that use it, you will have slowed production.",
     "italian": "L’insieme delle fonti di energia connesse tra loro, è chiamato Rete Elettrica. Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
-    "thai": "",
   },
   "shapingTheRoadsTutorialTitle": {
     "english": "Shaping the roads",
     "italian": "Modellare le strade",
-    "thai": "",
     "turkish": "Yolları şekillendirmek"
   },
   "shapingTheRoadsTutorialParagraph": {
     "english": "You can shape your road as you wish by using the icons in the lower panel, or by intervening on the already constructed road.\n\nWith the grid turned off, you can decide to adjust the roads according to 90°, 135° and 180° degree angles, and adjust the lengths to match the size of the game unit. You can also decide whether to build a straight or curved road, and you can always change it later by clicking on the desired stretch of road.\n\nYou can also adjust the height of the road using the R and F keys!\n\nThe last two icons are used to reverse the direction of a one-way road and to replace one road with another.",
     "italian": "Puoi dare la forma desiderata alla tua strada utilizzando le icone nel pannello inferiore o intervenendo sulla strada già costruita.\n\nCon la griglia disattivata, puoi decidere di regolare le strade secondo angoli di 90°, 135° e 180° gradi, e di regolare le lunghezze adattandole alla dimensione dell’unità di misura del gioco. Puoi anche decidere se costruire una strada dritta o curva, e puoi sempre modificarla in seguito cliccando sul tratto di strada desiderato.\n\nLe ultime due icone servono per invertire la direzione di una strada a senso unico e per rimpiazzare una strada con un’altra.\n\nPuoi anche regolare l’altezza della strada tramite i tasti R e F.",
-    "thai": "",
   },
     "distributionTutorialTitle": {
     "english": "Distribution centers",
