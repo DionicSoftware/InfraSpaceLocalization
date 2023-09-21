@@ -4448,4 +4448,55 @@
 		"italian": "Il terreno di gioco viene generato automaticamente all'inizio della partita. Presenta quattro biomi dalle caratteristiche uniche!",
 		"turkish": "Oyun alanı oyunun başında otomatik olarak oluşturulur. Benzersiz özelliklere sahip dört biyom içerir!",
   	},
+    "graphicsSettings": {
+      "english": "Graphics Settings",
+    },
+    "preset": {
+      "english": "Preset",
+    },
+    "antiAliasing": {
+      "english": "Anti-Aliasing",
+    },
+    "shadowSettings": {
+      "english": "Shadow Settings",
+    },
+    "shadows": {
+      "english": "Shadows",
+    },
+    "shadowDistance": {
+      "english": "Shadow Distance",
+    },
+    "shadowResolution": {
+      "english": "Shadow Resolution",
+    },
+    "particles": {
+      "english": "Particles",
+    },
+    "screenSettings": {
+      "english": "Screen Settings",
+    },
+    "grass": {
+      "english": "Grass",
+    },
+    "lod": {
+      "english": "Level of Detail",
+    },
+    "terrainLOD": {
+      "english": "Terrain's Level of Detail",
+    },
+    "otherSettings": {
+      "english": "Other Settings",
+    },
+    "custom": {
+      "english": "Custom",
+    },
+    "textureResolution": {
+      "english": "Texture Resolution",
+    },
+    "overallQuality": {
+      "english": "Overall Quality",
+    },
+    "graphicsQualityVeryLow": {
+      "english": "Very Low",
+    },
 }
