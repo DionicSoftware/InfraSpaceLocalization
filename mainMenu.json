@@ -4471,73 +4471,91 @@
 		"german": "Diese Karte wird beim Start des Spiels zufällig generiert und hat viele Bereiche die perfekt flach sind.",
 		"french": "Cette carte est générée aléatoirement au début du jeu et comporte de vastes zones parfaitement planes.",
 		"chinese": "这张地图是在游戏开始时随机生成的，具有大面积的超平坦地形。",
+		"turkish": "Bu harita oyunun başında rastgele oluşturulur ve mükemmel düzlükte geniş alanlara sahiptir.",
   	},
     "graphicsSettings": {
       "english": "Graphics Settings",
 	  "french": "Paramètres graphiques",
+	    "turkish": "Grafik Ayarları",
     },
     "preset": {
       "english": "Preset",
 	  "french": "Prédéfini",
+	    "turkish": "Ön ayar",
     },
     "antiAliasing": {
       "english": "Anti-Aliasing",
 	  "french": "Anticrénelage",
+	    "turkish": "Kenar Yumuşatma",
     },
     "shadowSettings": {
       "english": "Shadow Settings",
 	  "french": "Paramètres des ombres",
+	    "turkish": "Gölge Ayarları",
     },
     "shadows": {
       "english": "Shadows",
 	  "french": "Ombres",
+	    "turkish": "Gölgeler",
     },
     "shadowDistance": {
       "english": "Shadow Distance",
 	  "french": "Distance des ombres",
+	    "turkish": "Gölge Mesafesi",
     },
     "shadowResolution": {
       "english": "Shadow Resolution",
 	  "french": "Résolution des ombres",
+	    "turkish": "Gölge Çözünürlüğü",
     },
     "particles": {
       "english": "Particles",
 	  "french": "Particules",
+	    "turkish": "Parçacıklar",
     },
     "screenSettings": {
       "english": "Screen Settings",
 	  "french": "Réglages de l'écran",
+	    "turkish": "Ekran Ayarları",
     },
     "grass": {
       "english": "Grass",
 	  "french": "Herbe",
+	    "turkish": "Çimen",
     },
     "lod": {
       "english": "Level of Detail",
 	  "french": "Niveau de détail",
+	    "turkish": "Ayrıntı seviyesi",
     },
     "terrainLOD": {
       "english": "Terrain's Level of Detail",
 	  "french": "Niveau de détail du terrain",
+	    "turkish": "Arazinin Ayrıntı seviyesi",
     },
     "otherSettings": {
       "english": "Other Settings",
 	  "french": "Autres paramètres",
+	    "turkish": "Diğer ayarlar",
     },
     "custom": {
       "english": "Custom",
 	  "french": "Personnalisé",
+	    "turkish": "Gelenek",
     },
     "textureResolution": {
       "english": "Texture Resolution",
 	  "french": "Résolution des textures",
+	    "turkish": "Texture Resolution",
     },
     "overallQuality": {
       "english": "Overall Quality",
 	  "french": "Qualité globale",
+	    "turkish": "Genel Kalite",
     },
     "graphicsQualityVeryLow": {
       "english": "Very Low",
 	  "french": "Très faible",
+	    "turkish": "Çok düşük",
     },
 }
