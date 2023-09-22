@@ -1131,4 +1131,72 @@
 	  	"turkish": "Tren Panelini açmak için bu düğmeye basın",
 		  "chinese": "按此按钮打开列车面板。",
   	},
+	"tutorial_avoidLeftTurn": {
+		"english": "Tutorial: Avoid Left Turns!",
+		"german": "Tutorial: Vermeide Linksabbiegen!",
+	},
+	"tutorial_configLane": {
+		"english": "Tutorial: Lane Configurations!",
+		"german": "Tutorial: Spurkonfiguration!",
+	},
+	"tutorial_createTrainLines": {
+		"english": "Tutorial: Train Lines!",
+		"german": "Tutorial: Zuglinien!",
+	},
+	"tutorial_firstJam": {
+		"english": "Tutorial: Traffic Jams!",
+		"german": "Tutorial: Stau!",
+	},
+	"tutorial_gondolas": {
+		"english": "Tutorial: Gondolas!",
+		"german": "Tutorial: Gondeln!",
+	},
+	"tutorial_habitatInfoPanel": {
+		"english": "Tutorial: Habitats!",
+		"german": "Tutorial: Habitats!",
+	},
+	"tutorial_highTraffic": {
+		"english": "Tutorial: High Traffic!",
+		"german": "Tutorial: Viel Verkehr!",
+	},
+	"tutorial_highwayTownCenter": {
+		"english": "Tutorial: Road Hierachy!",
+		"german": "Tutorial: Straßenhierarchie!",
+	},
+	"tutorial_immigration": {
+		"english": "Tutorial: Immigration!",
+		"german": "Tutorial: Immigration!",
+	},
+	"tutorial_incomingStorageEmpty": {
+		"english": "Tutorial: Incoming Storage Empty!",
+		"german": "Tutorial: Hereinkommendes Lager leer!",
+	},
+	"tutorial_outgoingStorageFull": {
+		"english": "Tutorial: Outgoing Storage Full!",
+		"german": "Tutorial: Ausgehendes Lager voll!",
+	},
+	"tutorial_laneMath": {
+		"english": "Tutorial: Lane Math!",
+		"german": "Tutorial: Spuren!",
+	},
+	"tutorial_pipes": {
+		"english": "Tutorial: Pipes!",
+		"german": "Tutorial: Rohre!",
+	},
+	"tutorial_trafficSign": {
+		"english": "Tutorial: Traffic Signs!",
+		"german": "Tutorial: Verkehrsschilder!",
+	},
+	"tutorial_trafficLight": {
+		"english": "Tutorial: Traffic Lights!",
+		"german": "Tutorial: Ampeln!",
+	},
+	"tutorial_trainSignalInterpret": {
+		"english": "Tutorial: Train Signals!",
+		"german": "Tutorial: Zugsignale!",
+	},
+	"tutorial_trains": {
+		"english": "Tutorial: Trains!",
+		"german": "Tutorial: Züge!",
+	},
 }
