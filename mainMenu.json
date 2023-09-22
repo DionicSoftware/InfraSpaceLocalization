@@ -4376,60 +4376,70 @@
     },
   	"achievementStatus_title": {
     	"english": "Achievement Status",
+		"french": "Statut des succès",
 		"italian": "Achievement Status",
 		"turkish": "Başarı Durumu",
 		"chinese": "成就状态",
   	},
   	"achievementStatus_lockedDescription": {
     	"english": "Achievements are disabled due to the following reasons:",
+		"french": "Les succès sont désactivés pour les raisons suivantes :",
 		"italian": "Gli Achievement sono disabilitati per le seguenti ragioni:",
 		"turkish": "Başarılar aşağıdaki nedenlerden dolayı devre dışı bırakıldı:",
 		"chinese": "成就状态",
   	},
   	"achievementStatus_unlockableDescription": {
     	"english": "Achievements are enabled.",
+		"french": "Les succès sont activés.",
 		"italian": "Gli achievements sono abilitati.",
 		"turkish": "Başarılar etkinleştirildi.",
 		"chinese": "成就状态",
   	},
   	"achievementStatus_mods": {
     	"english": "Mods",
+		"french": "Mods",
 		"italian": "Mods",
 		"turkish": "Modlar",
 		"chinese": "模组",
   	},
   	"achievementStatus_creativeSettings": {
     	"english": "One or more creative mode settings are active",
+		"french": "Un ou plusieurs réglages du mode créatif sont actifs",
 		"italian": "Una o più impostazioni attive per la modalità creativa",
 		"turkish": "Bir veya daha fazla yaratıcı mod ayarı etkin",
 		"chinese": "一个或多个创造模式设置处于启用状态",
   	},
   	"achievementStatus_modifiedSettings": {
     	"english": "One or more settings have been changed during the game",
+		"french": "Un ou plusieurs paramètres ont été modifiés pendant le jeu",
 		"italian": "Una o più impostazioni sono state cambiate durante la partita",
 		"turkish": "Oyun sırasında bir veya daha fazla ayar değiştirildi",
 		"chinese": "游戏过程中一个或多个设置已更改",
   	},
   	"achievementStatus_cheats": {
     	"english": "Cheats",
+		"french": "Triche",
 		"italian": "Cheats",
 		"turkish": "Hileler",
 		"chinese": "作弊",
   	},
   	"mapSelect": {
     	"english": "Choose a map",
+		"french": "Choisir une carte",
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
   	},
   	"mapSelection_title": {
     	"english": "Choose a map",
+		"french": "Choisir une carte",
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
 	},
   	"select": {
     	"english": "Select",
+		"french": "Sélectionner",
 		"italian": "Seleziona",
 		"chinese": "选择",
 		"turkish": "Seçme",
@@ -4437,6 +4447,7 @@
   	"level0_title": {
     	"english": "Desert Valley",
 		"german": "Wüstental",
+		"french": "Vallée désertique",
 		"italian": "Vallata desertica",
 		"turkish": "Çöl Vadisi",
 		"chinese": "沙漠谷",
@@ -4444,11 +4455,13 @@
   	"level0_desc": {
     	"english": "A landing spot characterized by a mix between wide open areas and mountainous terrain on the edges.",
 		"german": "Eine Landeplatz mit einer Mischung aus weiten Flächen und bergigem Terrain an den Rändern",
+		"french": "Un lieu d'atterrissage caractérisé par un mélange de vastes zones ouvertes et de terrains montagneux sur les bords.",
 		"chinese": "着陆区的特点是广阔的开放区域和边缘的山区地形的混合。",
   	},
   	"level1_title": {
     	"english": "Randomly Generated Map",
 		"german": "Zufallsgenerierte Karte",
+		"french": "Carte générée aléatoirement",
 		"italian": "Mappa generata",
 		"turkish": "Oluşturulan harita",
 		"chinese": "随机生成的地图",
@@ -4456,57 +4469,75 @@
   	"level1_desc": {
     	"english": "This map is randomly generated at the beginning of the game and features large areas of perfect flatness.",
 		"german": "Diese Karte wird beim Start des Spiels zufällig generiert und hat viele Bereiche die perfekt flach sind.",
+		"french": "Cette carte est générée aléatoirement au début du jeu et comporte de vastes zones parfaitement planes.",
 		"chinese": "这张地图是在游戏开始时随机生成的，具有大面积的超平坦地形。",
   	},
     "graphicsSettings": {
       "english": "Graphics Settings",
+	  "french": "Paramètres graphiques",
     },
     "preset": {
       "english": "Preset",
+	  "french": "Prédéfini",
     },
     "antiAliasing": {
       "english": "Anti-Aliasing",
+	  "french": "Anticrénelage",
     },
     "shadowSettings": {
       "english": "Shadow Settings",
+	  "french": "Paramètres des ombres",
     },
     "shadows": {
       "english": "Shadows",
+	  "french": "Ombres",
     },
     "shadowDistance": {
       "english": "Shadow Distance",
+	  "french": "Distance des ombres",
     },
     "shadowResolution": {
       "english": "Shadow Resolution",
+	  "french": "Résolution des ombres",
     },
     "particles": {
       "english": "Particles",
+	  "french": "Particules",
     },
     "screenSettings": {
       "english": "Screen Settings",
+	  "french": "Réglages de l'écran",
     },
     "grass": {
       "english": "Grass",
+	  "french": "Herbe",
     },
     "lod": {
       "english": "Level of Detail",
+	  "french": "Niveau de détail",
     },
     "terrainLOD": {
       "english": "Terrain's Level of Detail",
+	  "french": "Niveau de détail du terrain",
     },
     "otherSettings": {
       "english": "Other Settings",
+	  "french": "Autres paramètres",
     },
     "custom": {
       "english": "Custom",
+	  "french": "Personnalisé",
     },
     "textureResolution": {
       "english": "Texture Resolution",
+	  "french": "Résolution des textures",
     },
     "overallQuality": {
       "english": "Overall Quality",
+	  "french": "Qualité globale",
     },
     "graphicsQualityVeryLow": {
       "english": "Very Low",
+	  "french": "Très faible",
     },
 }

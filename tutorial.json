@@ -116,7 +116,7 @@
 	"tutorial_buildRoad": { // changed iron to oil but didn't want to remove old translations, some languages might be out of date here
 		"english": "Build a road next to sulfur and oil.",
 		"german": "Baue eine Straße neben Schwefel und Öl.",
-		"french": "Placer une route à côté du soufre et du fer",
+		"french": "Placer une route à côté du soufre et du pétrole",
 		"dutch": "Bouw een weg naast de zwavel en ijzer.",
 		"russian": "Постройте дорогу рядом с серой и железом.",
 		"spanish": "Construye un camino cerca de Azufre y Hierro.",
@@ -200,15 +200,17 @@
 		"turkish":"Öğreticiyi tamamladınız!",
 		"romanian": "Ai terminat tutorialul!",
 		"danish":"Du har færdiggjort tutorialen!",
-	},		
+	},
 	"message_storyTutorialDoneDesc": {
 		"english": "Congratulations!\n\nYou have completed the tutorial, but there is still a lot to build. Roll up your sleeves: your adventure begins now!",
+		"french": "Félicitations !\n\nVous avez terminé le tutoriel, mais il reste encore beaucoup à construire. Retroussez vos manches : votre aventure commence maintenant !",
 		"italian": "Congratulazioni!\n\nHai portato a termine il tutorial, ma c'è ancora tanto da costruire. Rimboccati le maniche: la tua avventura inizia adesso!",
 		"chinese": "恭喜！\n\n你完成了教程，但这里依然有很多东西需要去建造。做好准备：你的冒险正式开始！",
 	},
 	"tutorialFinishedText": {
 		"english": "Congrats!\n\nYou have completed the tutorial, but there is still a lot to build. Roll up your sleeves: your adventure begins now!",
 		"german": "Glückwunsch!\n\nDu hast das Tutorial abgeschlossen, aber es gibt noch viel zu tun - das Abenteuer beginnt jetzt!",
+		"french": "Félicitations !\n\nVous avez terminé le tutoriel, mais il reste encore beaucoup à construire. Retroussez vos manches : votre aventure commence maintenant !",
 		"italian": "Congratulazioni!\n\nHai portato a termine il tutorial, ma c'è ancora tanto da costruire. Rimboccati le maniche: la tua avventura inizia adesso!",
 		"chinese": "恭喜！\n\n你完成了教程，但这里依然有很多东西需要去建造。做好准备：你的冒险正式开始！",
 	},
@@ -589,7 +591,7 @@
 	"tutorialQuestion_desc": {
 		"english": "Do you want to get tutorial hints while you're playing the game?\n\nYou can also turn them on/off in the settings.",
 		"german": "Möchtest du Tutorialhinweise bekommen während du das Spiel spielst?\n\nDu kannst sie auch in den Einstellungen an- oder ausschalten.",
-		"french": "Vous souhaitez obtenir des conseils pendant que vous jouez ?\n\nVous pouvez toujours les activer ou les désactiver dans les paramètres.",
+		"french": "Souhaitez-vous obtenir des conseils pendant que vous jouez ?\n\nVous pouvez toujours les activer ou les désactiver dans les paramètres.",
 		"dutch": "Wil je tutorial hints ontvangen tijdens het spelen?\n\nJe kunt ze ook aan/uit zetten in de instellingen.",
 		"chinese": "你想在游玩游戏时获得教程提示吗?\n\n你也可以在设置中打开/关闭该功能。",
 		"russian": "Вы хотите получать подсказки во время игры?\n\nВы также сможете включить / выключить их в настройках.",

@@ -177,7 +177,7 @@
 		"swiss german": "Dä Debugmodus isch für Entwickler dänkt. Wänn du dä Debugmodus verwendisch, chönted Bugs uftauchä.",
 		"farsi":"حالت دیباگ برای توسعه بازی است،اگر روشنش کنید،امکان دارد که خرابی هایی را بگیرید",
 	},
-	
+
 	"message_researchBoostTitle": {
 		"english": "Research Boost: %tech%",
 		"italian": "Boost alla Ricerca: %tech%",
@@ -192,7 +192,7 @@
 		"turkish": "Araştırma güçlendirmesi %tech%",
 		"hungarian": "Kutatás gyorsítás: %tech%",
 		"chinese": "研究提升：%tech%",
-		
+
 	},
 	"message_researchBoostDesc": {
 		"english": "We have finished repairs on part of our spaceship: %spaceshippart%.\nResearch on the technology \"%tech%\" has been boosted by %percentage%%.",
@@ -209,7 +209,7 @@
 		"turkish": "Uzay gemimizdeki bu parçaları tamir ettik: %spaceshippart%.\nParça üzerindeki araştırma \"%tech%\" %percentage%% oranında hızlandırılmıştır.",
 		"chinese": "我们已经完成了星舰的部分维修：%spaceshippart%。\n\"%tech%\"的技术研究已提高了%percentage%%。",
 	},
-	
+
 	"message_spaceshipBonusTitle": {
 		"english": "Spaceship Part repaired: %spaceshippart%",
 		"italian": "Parte della Nave Spaziale riparata: %spaceshippart%",
@@ -240,116 +240,131 @@
 		"turkish": "Bu uzay gemisi parçası üzerindeki tamir çalışmasını bitirdik: %spaceshippart%.\nSonucunda bu ödülü Kazandık:\n\n%bonus%",
 		"chinese": "我们已经完成了星舰的部分维修：%spaceshippart%。\n因此，我们获得以下奖励：\n\n%bonus%",
 	},
-		
+
 	"message_storyWelcomeTitle": {
 		"english": "Welcome to InfraSpace!",
 		"german": "Willkommen zu InfraSpace!",
+		"french": "Bienvenue dans InfraSpace !",
 		"italian": "Infraspace ti dà il benvenuto!",
-		"chinese": "InfraSpace欢迎你！", 
+		"chinese": "InfraSpace欢迎你！",
 		"turkish": "InfraSpace sizi ağırlıyor!",
 	},
-		
+
 	"message_storyWelcomeDesc": {
 		"english": "Following a serious accident in space, the spaceship Antares is in a disastrous condition. It now orbits Neper-3, an uninhabited planet.\nYour goal is to establish a colony and find the resources needed to repair the spaceship, helping the passengers return home.\n\nHappy playing!",
 		"german": "Nach einem fehlgeschlagenen im Weltraum ist das Raumschiff Antares schwer beschädigt. Es befindet sich im Orbit über Neper-3, einem unbewohnten Planet.\nDein Ziel ist es einen Außenposten aufzubauen und die nätigen Materialien und Bauteile für die Reperatur des Raumschiffs herzustellen.\nViel Spaß!",
+		"french": "Suite à un grave accident dans l'espace, le vaisseau Antares est dans un état désastreux. Il est désormais en orbite autour de Neper-3, une planète inhabitée.\nVotre objectif est d'établir une colonie et de trouver les ressources nécessaires pour réparer le vaisseau spatial et aider les passagers à rentrer chez eux.\n\nBon jeu !",
 		"italian": "In seguito ad un disastroso incidente nello spazio, la nave spaziale Antares si trova in condizioni critiche. Adesso orbita intorno a Neper-3, un pianeta disabitato.\nIl tuo obiettivo è stabilire una colonia e trovare le risorse per riparare la nave spaziale, aiutando i passeggeri a tornare a casa.\n\nBuon divertimento!",
-		"chinese": "经历太空中一场严重的事故后，星宿号正处在一种极其糟糕的状态。现在已经进入了奈佩尔3号的轨道，这是一颗无人居住的行星。\n你的目标是建立一个殖民地，并找到修复飞船必须的资源，帮助乘客返回家园。\n\n游玩愉快！", 
+		"chinese": "经历太空中一场严重的事故后，星宿号正处在一种极其糟糕的状态。现在已经进入了奈佩尔3号的轨道，这是一颗无人居住的行星。\n你的目标是建立一个殖民地，并找到修复飞船必须的资源，帮助乘客返回家园。\n\n游玩愉快！",
 	},
-		
+
 	"message_storySpaceshipFacilityTitle": {
 		"english": "You have built the Spaceship Construction Facility",
 		"german": "Raumschiffswerft fertiggestellt",
+		"french": "Vous avez construit l'installation de construction de vaisseaux",
 		"italian": "Hai costruito l'impianto per la costruzione della Nave Spaziale!",
 		"chinese": "你建造了星舰建造设施",
 		"turkish": "Uzay Gemisi İnşaat Tesisini inşa ettiniz",
 	},
-		
+
 	"message_storySpaceshipFacilityDesc": {
 		"english": "Finally, the repair work on Antares can begin. The passengers are thrilled to see your progress!",
 		"german": "Endlich können die Reperaturen an Antares beginnen. Die Passagiere sind von deinem Fortschritt begeistert!",
+		"french": "Les travaux de réparation d'Antares peuvent enfin commencer. Les passagers sont ravis de voir vos progrès !",
 		"italian": "Finalmente, i lavori di riparazione di Antares potranno cominciare. I passeggeri sono elettrizzati all'idea di poter ritornare a casa!",
 		"chinese": "最终，星宿号上的修复工作得以进行。乘客们归心似箭！",
 		"turkish": "Sonunda Antares'teki onarım çalışmaları başlayabilir. Yolcular evlerine dönmenin mutluluğunu yaşıyor!",
 	},
-		
+
 	"message_storyAdamantineDiscoveredTitle": {
 		"english": "Large Deposit of Adamantine Discovered",
 		"german": "Große Mengen an Adamantin entdeckt",
+		"french": "Découverte d'un important gisement d'adamantine",
 		"italian": "Grande deposito di Adamantio scoperto",
 		"chinese": "发现了大量曼德拉合金",
 		"turkish": "Büyük miktarda Adamantine yatağı keşfedildi",
 	},
-		
+
 	"message_storyAdamantineDiscoveredDesc": {
 		"english": "Antares has just completed a soil scan to assess its mineral richness. According to this data, there is a significant deposit of Adamantine underground!\nThis precious and extremely rare mineral is not present on Earth, and finding it in abundance is a real stroke of luck.\n\nSome scientists are beginning to wonder...would it be better to stay and study it?",
 		"german": "Antares hat gerade einen Bodenscan des Planeten abgeschlossen um dessen Mineralienvorkommen zu entdecken. Den Daten zufolge befindet sich ein großes Vorkommen von Adamantin unter der Oberfläche!\nDieses wertvolle und sehr seltene Mineral findet sich nicht auf der Erde.\n\nManche Wissenschaftler fragen sich... sollten sie vielleicht hier bleiben und das Mineral erforschen?",
+		"french": "Antares vient d'effectuer une analyse du sol afin d'évaluer sa richesse minérale. D'après ces données, il existe un important gisement d'adamantine dans le sous-sol !\nCe minéral précieux et rarissime n'existe pas sur Terre, et le trouver en abondance est un véritable coup de chance.\n\nCertains scientifiques commencent à se demander s'il ne vaudrait pas mieux rester sur place pour l'étudier.",
 		"italian": "Antares ha appena terminato una scansione del terreno per valutarne la ricchezza in minerali. Secondo questi dati, vi è una notevole deposito di Adamantio nel sottosuolo!\nQuesto prezioso e rarissimo minerale non è presente sulla Terra, e trovarne in abbondanza è un vero colpo di fortuna.\nAlcuni scienziati hanno iniziato a chiedersi... forse conviene restare qui e studiarlo?",
 		"chinese": "星宿号刚完成了一次土壤扫描来获取矿物丰度。根据这些数据，在地底发现了大量的曼德拉合金。这是一种地球上没有发现过的极其珍贵稀有的矿物，能发现如此多的Adamantine太走运了。有些科学家想知道...留下来研究它是个好主意吗？",
 	},
-		
+
 	"message_storySpaceship_0Title": {
 		"english": "Spaceship Repairs Completed!",
 		"german": "Raumschiff repariert!",
+		"french": "Réparation du vaisseau terminée !",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
 		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
-		
+
 	"message_storySpaceship_0Desc": {
 		"english": "Congratulations! Antares is finally fully functional. We are ready to return to Earth!",
 		"german": "Glückwunsch! Antares ist wieder flugbereit. Wir können zur Erde zurückkehren",
+		"french": "Félicitations ! Antares est enfin pleinement fonctionnel. Nous sommes prêts à retourner sur Terre !",
 		"italian": "Congratulazioni! Antares ha finalmente ripreso a funzionare del tutto. Siamo pronti per tornare sulla Terra!",
 		"chinese": "恭喜！星宿号终于修好了。我们已经做好了返回地球的准备！",
 		"turkish": "Tebrikler! Antares nihayet tamamen işlevsel hale geldi. Dünya'ya dönmeye hazırız!",
 	},
-	
+
 	"message_storySpaceship_1Title": {
 		"english": "Spaceship Repairs Completed!",
 		"german": "Raumschiff repariert!",
+		"french": "Réparation du vaisseau terminée !",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
 		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
-	"message_storySpaceship_1Desc": {//image here 
+	"message_storySpaceship_1Desc": {//image here
 		"english": "The strategy of searching for resources to repair Antares has worked. The ship is ready to leave. People have been eagerly awaiting this moment!",
 		"german": "Die Suche nach Mineralien und die Fertigung der Raumschiffskomponenten hat sich gelohnt; das Schiff ist bereit zum Abflug. Viele Menschen haben lange auf diesen Augenblick gewartet!",
+		"french": "La stratégie de recherche de ressources pour réparer Antares a fonctionné. Le vaisseau est prêt à partir. Les gens attendaient ce moment avec impatience !",
 		"italian": "La strategia di ricercare risorse per riparare Antares ha funzionato. La nave spaziale è pronta a partire. Tutti aspettavano con ansia questo momento!",
 		"chinese": "这种搜索资源来修复星宿号的策略起作用了。飞船准备好启程，乘客们对此刻期待已久！",
 		"turkish": "Antares'i onarmak için kaynak arama stratejisi işe yaradı. Gemi ayrılmaya hazır. İnsanlar bu anı sabırsızlıkla bekliyor!",
 	},
-	
+
 	"message_storySpaceship_2Title": {
 		"english": "Spaceship Repairs Completed!",
 		"german": "Raumschiff repariert!",
+		"french": "Réparation du vaisseau terminée !",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
 		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
-	"message_storySpaceship_2Desc": {//image here 
+	"message_storySpaceship_2Desc": {//image here
 		"english": "But after all this time some of the inhabitants have grown fond of life on Neper-3... And above all, the abundance of Adamantine underground seems a more unique than rare opportunity.",
 		"german": "Doch nach all dieser Zeit haben sich einige der Einwohner an das Leben auf Neper-3 gewöhnt... Und außerdem gibt es da noch die großen Adamantinvorkommen unter der Oberfläche - eine wirklich einzigartige Möglichkeit.",
+		"french": "Mais après tout ce temps, certains habitants se sont pris d'affection pour la vie sur Neper-3... Et surtout, l'abondance d'adamantine sous terre semble être une opportunité plus unique que rare.",
 		"italian": "Certo, dopo tutto questo tempo, molti abitanti si sono affezionati alla vita su Neper-3... E soprattutto, l'abbondanza di Adamantio nel sottosuolo sembra un'opportunità più unica che rara.",
 		"chinese": "当然，经历了这段时间，很多居民喜欢上了在奈佩尔3号生活...最终要的是，地底大量的曼德拉合金与其说是一个难得的机会，不如说是独一无二的。",
 	},
-		
+
 	"message_storySpaceship_3Title": {
 		"english": "Spaceship Repairs Completed!",
 		"german": "Raumschiff repariert!",
+		"french": "Réparation du vaisseau terminée !",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
 		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
 	},
-	"message_storySpaceship_3Desc": {//image here 
+	"message_storySpaceship_3Desc": {//image here
 		"english": "All scientists are thrilled to have a deposit available. According to a recent theory, Adamantine can be used for terraforming! And many real world experiments are beginning to confirm the theory.",
 		"german": "Die Wissenschaftler sind begeistert ein Vorkommen direkt vor ihnen zu haben. Es gibt Theorien, dass Adamantin für Terraforming verwendet werden könnte! Und viele Experimente haben angefangen die Theorien zu bestätigen",
+		"french": "Tous les scientifiques sont ravis de disposer d'un dépôt. Selon une théorie récente, l'adamantine peut être utilisée pour la terraformation ! Et de nombreuses expériences en conditions réelles commencent à confirmer cette théorie.",
 		"italian": "Tutti gli scienziati sono emozionati all'idea di averne un deposito disponibile. Secondo una recente teoria, l'Adamantio può essere utilizzato per la terraformazione! Molti studi si stanno muovendo in questa direzione.",
 		"chinese": "所有科学家都很兴奋能有如此丰富的矿产。根据最新的理论成果，曼德拉合金可以用作地球化！许多研究已投入这个方向。",
 		"turkish": "Tüm bilim adamları bir depozitonun mevcut olmasından heyecan duyuyor. Yeni bir teoriye göre Adamantine dünyalaştırma için kullanılabilir! Birçok çalışma bu yönde ilerlemektedir.",
 	},
-		
+
 	"message_storySpaceship_4Title": {
 		"english": "Spaceship Repairs Completed!",
 		"german": "Raumschiff repariert!",
+		"french": "Réparation du vaisseau terminée !",
 		"italian": "Riparazione completata!",
 		"chinese": "修复完成！",
 		"turkish": "Uzay Gemisi Onarımları Tamamlandı!",
@@ -357,75 +372,85 @@
 	"message_storySpaceship_4Desc": {
 		"english": "Making the air of Neper-3 breathable, bringing greenery to these deserts... It is certainly more difficult than repairing a spaceship.\nBut despite the difficulties, only some decide to return to Earth immediately. Everyone else, for the time being, will stay. It is worth a try!",
 		"german": "Man könnte die Atmosphäre von Neper-3 für Menschen atembar machen, die Wüste begrünen... Es wäre aber sicherlich schwerer als ein Raumschiff zu reparieren.\nAber trotz der Schwierigkeiten entscheiden sich nur manche dafür, sofort zur Erde zurückzukehren. Die anderen bleiben erst mal hier. Einen Versuch ist es wert!",
+		"french": "Rendre l'air de Neper-3 respirable, apporter de la verdure dans ces déserts... C'est certainement plus difficile que de réparer un vaisseau spatial.\nMais malgré les difficultés, seuls certains décident de rentrer immédiatement sur Terre. Tous les autres, pour l'instant, resteront sur place. Cela vaut la peine d'essayer !",
 		"italian": "Rendere respirabile l'aria di Neper-3, portare il verde in queste lande desertiche... È certamente più difficile che riparare un'astronave.\nMa nonostante le difficoltà e la nostalgia di casa, solo alcuni decidono di tornare sulla Terra. Tutti gli altri, per il momento, resteranno. Vale la pena tentare!",
 		"chinese": "让奈佩尔3号的空气可以呼吸，将绿色带到这个荒漠...这肯定比修复飞船更加困难。\n尽管面临众多困难和思乡病，但也只有一少部分人选择返回地球。其他所有人暂时都选择留下。这值得一试！",
 	},
-		
+
 	"message_storyDrillStartTitle": {
 		"english": "Construction of the colossal Adamantine drill",
 		"german": "Aufbau des kolossalen Adamantbohrers",
+		"french": "Construction de la colossale foreuse d'adamantine",
 		"italian": "Costruzione della colossale trivella per Adamantio",
 		"chinese": "组建巨型曼德拉合金钻头",
 		"turkish": "Devasa Adamantine matkabının inşaatı",
 	},
-		
+
 	"message_storyDrillStartDesc": {
 		"english": "The construction site for the colossal Adamantine drill is ready to start work! This is an ambitious project. Let’s hope to complete it without too many difficulties.",
 		"german": "Die Baustelle des kolossalen Adamantbohrers ist bereit! Dies ist ein gewaltiges Projekt. Hoffen wir, dass wir es ohne zu große Schwierigkeiten fertigstellen können.",
+		"french": "Le chantier de construction de la colossale foreuse d'adamantine est prêt à démarrer ! C'est un projet ambitieux. Espérons qu'il sera mené à bien sans trop de difficultés.",
 		"italian": "Il cantiere per la trivella colossale per Adamantio è pronto a cominciare i lavori! Si tratta di un progetto ambizioso, speriamo di portarlo a termine senza troppe difficoltà.",
 		"chinese": "巨型曼德拉合金钻头的组装站准备待命！这是一个极具野心的工程，让我们祈祷能够顺利完成它。",
 		"turkish": "Devasa Adamantine matkabının inşaat alanı çalışmaya başlamaya hazır! Bu iddialı bir proje. Umarız çok fazla zorluk yaşamadan tamamlarız.",
 	},
-		
+
 	"message_storyDrillDoneTitle": {
 		"english": "Colossal Adamantine drill completed.",
 		"german": "Konstruktion des kolossalen Adamantbohrers abgeschlossen",
+		"french": "Foreuse colossale d'adamantine terminée.",
 		"italian": "Colossale trivella per Adamantio terminata.",
 		"chinese": "巨型曼德拉合金钻头完成。",
 		"turkish": "Devasa Adamantine tatbikatı tamamlandı.",
 	},
-		
+
 	"message_storyDrillDoneDesc": {//image
 		"english": "This incredible machine is finally ready to be used! It wasn't easy, but you are one step closer to your goal.\n\nLet the extraction begin!",
 		"german": "Die unglaubliche Maschine ist endlich zur Verwendung bereit! Es war nicht leicht, aber du bist einen Schritt näher am Ziel.\n\nLasst den Abbau beginnen!",
+		"french": "Cette incroyable machine est enfin prête à être utilisée ! Cela n'a pas été facile, mais vous avez fait un pas de plus vers votre objectif.\n\nQue l'extraction commence !",
 		"italian": "Questo incredibile macchinario è finalmente pronto per essere utilizzato! Non è stato semplice, ma sei un passo più vicino al tuo obiettivo.\n\nDiamo il via all'estrazione!",
 		"chinese": "这个可靠的机器已经准备去使用！这不是一件易事，但你离你的目标又近一步。\n\n让我们开采吧！",
 	},
-		
+
 	"message_storyTerraformingStartTitle": {
 		"english": "Terraforming begins!",
 		"german": "Die ersten Schritte beim Terraforming!",
+		"french": "Début de la terraformation !",
 		"italian": "Inizia la terraformazione!",
 		"chinese": "地球化开始！",
 		"turkish": "Dünyalaştırma başlıyor!",
 	},
-		
+
 	"message_storyTerraformingStartDesc": {
 		"english": "Thanks to Adamantine, you have developed the technology to green this planet. Now it is time to realize this titanic feat.",
 		"german": "Dank Adamantine habt ihr die Technologien um den Planeten zu begrünen. Jetzt ist es an der Zeit dieses gewaltige Projekt umzusetzen.",
+		"french": "Grâce à l'adamantine, vous avez développé la technologie pour rendre cette planète plus verte. Il est maintenant temps de réaliser cet exploit titanesque.",
 		"italian": "Grazie all'Adamantio, hai sviluppato la tecnologia per rendere verde questo pianeta. Ora è il momento di realizzare questa impresa titanica.",
 		"chinese": "感谢曼德拉合金，你已经发展了科技来绿化这个星球。是时候了解这个伟大的壮举了。",
 		"turkish": "Adamantine sayesinde bu gezegeni yeşillendirecek teknolojiyi geliştirdiniz. Şimdi bu devasa başarıyı gerçekleştirmenin zamanı geldi.",
 	},
-		
+
 	"message_storyTerraformingDone_0Title": {
 		"english": "Terraforming completed!",
 		"german": "Terraforming abgeschlossen!",
+		"french": "Terraformation terminée !",
 		"italian": "Terraformazione completata!",
 		"chinese": "地球化完成！",
 		"turkish": "Dünyalaştırma tamamlandı!",
 	},
-		
+
 	"message_storyTerraformingDone_0Desc": {
 		"english": "Congratulations!\n\nYou have succeeded in terraforming Neper-3. It was a long and complex adventure, but it was worth it.",
 		"german": "Glückwunsch!\n\nDas Terraforming von Neper-3 ist jetzt abgeschlossen. Es war ein langes und schweres Abenteuer, aber es hat sich gelohnt.",
+		"french": "Félicitations !\n\nVous avez réussi à terraformer Neper-3. L'aventure a été longue et complexe, mais elle en valait la peine.",
 		"italian": "Congratulazioni!\n\nHai portato a termine con successo la terraformazione di Neper-3. È stata una lunga e complessa avventura, ma ne è valsa la pena.",
 		"chinese": "恭喜！\n\n你已成功将奈佩尔3号地球化。这是一个漫长艰难的旅途，但它依然值得。",
 	},
-	
+
 	"message_storyTerraformingDone_1Title": {
 		"english": "Terraforming completed!",
 		"german": "Terraforming abgeschlossen!",
+		"french": "Terraformation terminée !",
 		"italian": "Terraformazione completata!",
 		"chinese": "地球化完成！",
 		"turkish": "Dünyalaştırma tamamlandı!",
@@ -433,13 +458,15 @@
 	"message_storyTerraformingDone_1Desc": {//image
 		"english": "The inhabitants can breathe pure, fresh air. They can reconnect with nature that has also been missing on Earth for several decades.\nWho would have imagined that a frightening accident somewhere in space would lead to all this?",
 		"german": "Die Bewohner können jetzt reine, frische Luft atmen. Sie können sich wieder an einer Natur erfreuen, die es so sogar auf der Erde seit Jahrzehnten nicht mehr gibt.\nWer hätte gedacht, dass eine Strandung tief im Weltraum zu all dem führen würde?",
+		"french": "Les habitants peuvent respirer de l'air pur et frais. Ils peuvent renouer avec la nature qui a également disparu de la Terre depuis plusieurs décennies.nQui aurait imaginé qu'un accident effrayant survenu quelque part dans l'espace conduirait à tout cela ?",
 		"italian": "Gli abitanti possono respirare aria pura a pieni polmoni. Possono riconnettersi con la natura che da diversi secoli manca anche sulla Terra.\nChi avrebbe mai immaginato che quello spaventoso incidente nello spazio avrebbe portato a tutto questo?",
 		"chinese": "居民可以呼吸纯净新鲜的空气了。他们可以重新感受自然————那个早已在地球消失几个世纪的东西。谁能想到在宇宙中一场的可怕灾难，可以带来如今的一切？",
 	},
-	
+
 	"message_storyTerraformingDone_2Title": {
 		"english": "Terraforming completed!",
 		"german": "Terraforming abgeschlossen!",
+		"french": "Terraformation terminée !",
 		"italian": "Terraformazione completata!",
 		"chinese": "地球化完成！",
 		"turkish": "Dünyalaştırma tamamlandı!",
@@ -447,6 +474,7 @@
 	"message_storyTerraformingDone_2Desc": {
 		"english": "Your journey has been anything but ordinary.\n\nYou took the crew and passengers of a spaceship and made a community out of it. You made a great industrial city rise out of a desolate desert. And finally, you terraformed the entire planet, bringing in new life forms.",
 		"german": "Deine Reise war alles andere als normal.\n\nDu hast aus der Crew und den Passigieren von Antares eine Gemeinschaft gemacht. Du hat eine große industrielle Stadt aus einer verlassen Wüste gemacht. Und zuletzt hast du auch den Planeten begrünt.",
+		"french": "Votre parcours n'a rien d'ordinaire.\n\nVous avez pris l'équipage et les passagers d'un vaisseau spatial et vous en avez fait une communauté. Vous avez fait surgir une grande ville industrielle d'un désert désolé. Et finalement, vous avez terraformé la planète entière, en y introduisant de nouvelles formes de vie.",
 		"italian": "Il tuo viaggio è stato tutto fuorchè ordinario.\n\nHai preso l'equipaggio di una nave e ne hai fatto una comunità. Hai fatto sorgere una grandiosa città industriale da un deserto desolato. Infine, hai terraformato l'intero pianeta, portando nuove forme di vita.",
 		"chinese": "你经历了一场无与伦比的旅程。\n\n你带着星舰上的舰员和乘客创造了一个星舰之外的社会，在荒漠中建造了一个宏伟的工业化城市。并且最终你地球化了整个星球，带来了新型的生命形式。",
 	},

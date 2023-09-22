@@ -26,7 +26,7 @@
 	"introCinematic_asThePopulationExpanded": {
 		"english": "As the population expanded on earth, the rise of exo-colonies allowed humans to take life beyond natural boundaries.",
 		"german": "Als die Bevölkerung auf der Erde wuchs, konnte die Menschheit mit Weltraumkolonien ihre natürliche Grenzen überschreiten.",
-		"french": "Au fur et à mesure de l'expansion de la population terrestre, l'apparition d'exo-colonies a permis à l'homme d'étendre sa présence au-delà des frontières naturelles.",
+		"french": "Avec l'augmentation de la population sur Terre, l'essor des exo-colonies a permis à l'homme d'étendre sa vie au-delà des frontières naturelles.",
 		"italian": "Con l'espansione della popolazione sulla terra, la fondazione di eso-colonie ha permesso all'umanità di portare la vita oltre ai confini naturali.",
 		"japanese": "地球上の人口増加に伴い、 コロニーを増やして人類が本来の限界を超えて生活できるようにした。",
 		"thai": "เมื่อจำนวนประชากรบนโลกขยายตัวมากขึ้น การเพิ่มขึ้นของอาณานิคมภายนอกทำให้มนุษย์ใช้ชีวิตเกินขอบเขตที่ธรรมชาติมีให้",
@@ -50,7 +50,7 @@
 	"introCinematic_thePassengerShipAntares": {
 		"english": "The passenger ship Antares was carrying thousands of colonists when a pressure valve overheated and failed,\nchanging the destination of the warp jump.",
 		"german": "Das Passagierschiff Antaras trug tausende Kolonisten als ein Ventil überhitzte und zusammenbrach.\nDabei änderte sich das Ziel des Warp-Sprungs.",
-		"french": "Le vaisseau de passagers Antares transportait des milliers de colons lorsqu'une valve de pression a surchauffé et s'est rompue, changeant la destination du saut de distorsion.",
+		"french": "Le vaisseau Antares transportait des milliers de colons lorsqu'une valve de pression a surchauffé et s'est rompue, changeant la destination du saut de distorsion.",
 		"italian": "La navicella Antares stava trasportando migliaia di coloni, quando una valvola a pressione si è surriscaldata e ha ceduto,\ncambiando la destinazione del warp jump.",
 		"japanese": "旅客船アンタレスは数千人の入植者を乗せていた。\nしかし、圧力バルブが過熱・故障し、ワープの目的地が変更されてしまった。",
 		"thai": "ยานโดยสารอันทาเรส กำลังบรรทุกชาวอาณานิคมหลายพันคน และเมื่อวาล์วแรงดันมันร้อนเกินไปและผิดพลาด\nได้ทำการเปลี่ยนปลายทางของการวาร์ป",
@@ -58,7 +58,7 @@
 		"russian": "Пассажирский корабль «Антарес» перевозил тысячи колонистов, как вдруг перегрелся и вышел из строя клапан давления,\nчто изменило пункт назначения варп-прыжка.",
 		"polish": "Statek pasażerski Antares przewoził tysiące kolonistów gdy zawór ciśnienia przegrzał się i uszkodził,\nzmiana miejsca docelowego skoku warp.",
 		"chinese": "当星宿号星舰载着数千名殖民者穿梭于群星之间时，船上的一个压力阀因高温而过载，改变了曲速跳跃的目的地。",
-	},      
+	},
 	"introCinematic_lightyearsFromHome": {
 		"english": "Lightyears from home, the damaged ship now sits stranded.",
 		"german": "Lichtjahre von Zuhause entfernt ist das kaputte Schiff jetzt gestrandet.",
