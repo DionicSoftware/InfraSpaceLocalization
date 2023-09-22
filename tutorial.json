@@ -114,9 +114,9 @@
 		"danish":"Klik på forskningscenteret for at se hvilke ressourcer der skal bruges.",
 	},
 	"tutorial_buildRoad": { // changed iron to oil but didn't want to remove old translations, some languages might be out of date here
-		"english": "Build a road next to sulfur and oil.",
-		"german": "Baue eine Straße neben Schwefel und Öl.",
-		"french": "Placer une route à côté du soufre et du pétrole",
+		"english": "Build a road next to sulfur.",
+		"german": "Baue eine Straße neben Schwefel.",
+		"french": "Placer une route à côté du soufre", //  et du pétrole
 		"dutch": "Bouw een weg naast de zwavel en ijzer.",
 		"russian": "Постройте дорогу рядом с серой и железом.",
 		"spanish": "Construye un camino cerca de Azufre y Hierro.",
