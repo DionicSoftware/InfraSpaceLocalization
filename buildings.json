@@ -2358,7 +2358,7 @@
   "fence1": { //would be better to add "A" in other languages as well
     "english": "Fence A",
     "german": "Zaun A",
-    "french": "Clôture",
+    "french": "Clôture A",
     "japanese": "フェンス",
     "thai": "รั้ว ก",
     "italian": "Recinzione A",
@@ -2382,7 +2382,7 @@
   "fence3": { //would be better to add "B" in other languages as well
     "english": "Fence B",
     "german": "Zaun B",
-    "french": "Clôture",
+    "french": "Clôture B",
     "japanese": "フェンス",
     "thai": "รั้ว ข",
     "italian": "Recinzione B",
