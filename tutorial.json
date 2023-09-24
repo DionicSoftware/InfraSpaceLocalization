@@ -1134,69 +1134,86 @@
 	"tutorial_avoidLeftTurn": {
 		"english": "Tutorial: Avoid Left Turns!",
 		"german": "Tutorial: Vermeide Linksabbiegen!",
+		"ukrainian": "Навчання: Уникайте поворотів ліворуч!",
 	},
 	"tutorial_configLane": {
 		"english": "Tutorial: Lane Configurations!",
 		"german": "Tutorial: Spurkonfiguration!",
+		"ukrainian": "Навчання: Конфігурації смуг руху!",
 	},
 	"tutorial_createTrainLines": {
 		"english": "Tutorial: Train Lines!",
 		"german": "Tutorial: Zuglinien!",
+		"ukrainian": "Навчання: Залізничні лінії!",
 	},
 	"tutorial_firstJam": {
 		"english": "Tutorial: Traffic Jams!",
 		"german": "Tutorial: Stau!",
+		"ukrainian": "Навчання: Затори на дорогах!",
 	},
 	"tutorial_gondolas": {
 		"english": "Tutorial: Gondolas!",
 		"german": "Tutorial: Gondeln!",
+		"ukrainian": "Навчання: Гондоли!",
 	},
 	"tutorial_habitatInfoPanel": {
 		"english": "Tutorial: Habitats!",
 		"german": "Tutorial: Habitats!",
+		"ukrainian": "Навчання: Місця проживання!",
 	},
 	"tutorial_highTraffic": {
 		"english": "Tutorial: High Traffic!",
 		"german": "Tutorial: Viel Verkehr!",
+		"ukrainian": "Навчання: Великий рух!",
 	},
 	"tutorial_highwayTownCenter": {
 		"english": "Tutorial: Road Hierachy!",
 		"german": "Tutorial: Straßenhierarchie!",
+		"ukrainian": "Навчання: Дорожня ієрархія!",
 	},
 	"tutorial_immigration": {
 		"english": "Tutorial: Immigration!",
 		"german": "Tutorial: Immigration!",
+		"ukrainian": "Навчання: Імміграція!",
 	},
 	"tutorial_incomingStorageEmpty": {
 		"english": "Tutorial: Incoming Storage Empty!",
 		"german": "Tutorial: Hereinkommendes Lager leer!",
+		"ukrainian": "Навчання: Вхідне сховище порожнє!",
 	},
 	"tutorial_outgoingStorageFull": {
 		"english": "Tutorial: Outgoing Storage Full!",
 		"german": "Tutorial: Ausgehendes Lager voll!",
+		"ukrainian": "Навчання: Математика смуг!",
 	},
 	"tutorial_laneMath": {
 		"english": "Tutorial: Lane Math!",
 		"german": "Tutorial: Spuren!",
+		"ukrainian": "Навчання: Дорожні знаки",
 	},
 	"tutorial_pipes": {
 		"english": "Tutorial: Pipes!",
 		"german": "Tutorial: Rohre!",
+		"ukrainian": "Навчання: Труби",
 	},
 	"tutorial_trafficSign": {
 		"english": "Tutorial: Traffic Signs!",
 		"german": "Tutorial: Verkehrsschilder!",
+		"ukrainian": "Навчання: Дорожні знаки!",
 	},
 	"tutorial_trafficLight": {
 		"english": "Tutorial: Traffic Lights!",
 		"german": "Tutorial: Ampeln!",
+		"ukrainian": "Навчання: Світлофори!",
 	},
 	"tutorial_trainSignalInterpret": {
 		"english": "Tutorial: Train Signals!",
 		"german": "Tutorial: Zugsignale!",
+		"ukrainian": "Навчання: Сигнали!",
 	},
 	"tutorial_trains": {
 		"english": "Tutorial: Trains!",
 		"german": "Tutorial: Züge!",
+		"ukrainian": "Навчання: Поїзди!",
 	},
 }
