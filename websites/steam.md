@@ -31,7 +31,8 @@ Create an extrasolar efficiency utopia from scratch! In this sci-fi city builder
 
 ### German DONE BY DEVS
 
-
+### Turkish //TODO-Devs
+Sıfırdan bir güneş dışı verimlilik ütopyası yaratın! Bu bilim kurgu şehir kurma oyununda sorunsuz bir tedarik zinciri sağlamak için madencilik faaliyetlerine başlamanız, üretimi planlamanız ve ulaşım yollarını belirlemeniz gerekiyor.
 
 
 # Long Description - Trains, Pipes, and Cargo Lifts Section - RELEASE
@@ -46,7 +47,10 @@ Your road network might be versatile, but it's not the right choice for every ki
 
 ### German DONE BY DEVS
 
+### Turkish //TODO-Devs
+Trenler, Borular ve Kargo Asansörleri
 
+Karayolu ağınız çok yönlü olabilir, ancak her tip kaynak için doğru seçim bu olmayabilir - ya da en eğlenceli olanı. Büyük miktarlarda mal taşımak için raylar ve tren istasyonları inşa edin. Şehrin her yerine sıvı ve gaz pompalamak için yer altı boruları inşa edin. En yüksek dağ zirvelerine ulaşmak ve en engebeli arazileri geçmek için kargo asansörleri inşa edin.
 
 
 # Long Description - Terraform the Planet Section - RELEASE
@@ -61,8 +65,10 @@ Living on a desert planet can be harsh - but you have your eyes set on the dream
 
 ### German DONE BY DEVS
 
+### Turkish //TODO-Devs
+Gezegeni yaşanabilir hale getirin
 
-
+Çölde bir gezegende yaşamak zor olabilir ama gözlerinizi şu hayale dikmişsiniz: Gezegeni yaşanabilir hale getirin, çölü yeşil yapın ve atmosferi solunabilir hale getirin. Bu çok büyük miktarda kaynak gerektiren çok büyük bir girişim. Umutsuzluğa kapılmayın, çünkü bu projeye başladığınızda bu hayali gerçeğe dönüştürmek için gerekli tüm teknolojiye, altyapıya ve insan gücüne sahip olacaksınız!
 
 # Short Description OLD
 *******************
