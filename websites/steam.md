@@ -1,4 +1,4 @@
-
+﻿
 
 These translations will go on the official Steam Store page of InfraSpace.
 
@@ -15,7 +15,56 @@ Please leave 4 lines of whitespace between each section to keep it organized. Th
 
 
 
-# Short Description
+# Short Description - RELEASE
+*******************
+That's the short description on the top right
+
+**DON'T MAKE IT LONGER THAN THE ENGLISH OR GERMAN TEXTS.**
+
+If it's too long, the text is going to be cut by Steam.
+If you can't make it short enough, talk to us.
+
+### English
+Create an extrasolar efficiency utopia from scratch! In this sci-fi city builder you need to start mining operations, plan production, and lay down transportation routes to ensure a smooth supply chain.
+
+### Italian DONE BY DEVS
+
+### German DONE BY DEVS
+
+
+
+
+# Long Description - Trains, Pipes, and Cargo Lifts Section - RELEASE
+***************************************
+
+### English
+Trains, Pipes, and Cargo Lifts
+
+Your road network might be versatile, but it's not the right choice for every kind of resource - or the most fun one. Build rails and train stations to haul massive amounts of goods. Build underground pipes to pump liquids and gases all over the city. Build cargo lifts to reach the highest mountain tops and traverse even the most rugged terrain.
+
+### Italian DONE BY DEVS
+
+### German DONE BY DEVS
+
+
+
+
+# Long Description - Terraform the Planet Section - RELEASE
+***************************************
+
+### English
+Terraform the Planet
+
+Living on a desert planet can be harsh - but you have your eyes set on the dream: Terraform the planet, make the desert green and the atmosphere breathable. It's a huge undertaking, requring a collosal amount of resources. Don't despair, because by the time you're starting this project, you have all the technology, infrastructure, and manpower necessary to make this dream a reality!
+
+### Italian DONE BY DEVS
+
+### German DONE BY DEVS
+
+
+
+
+# Short Description OLD
 *******************
 That's the short description on the top right
 
