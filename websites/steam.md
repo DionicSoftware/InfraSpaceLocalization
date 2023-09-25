@@ -31,6 +31,9 @@ Create an extrasolar efficiency utopia from scratch! In this sci-fi city builder
 
 ### German DONE BY DEVS
 
+### French //TODO-Devs
+Créez une utopie extrasolaire à partir de rien ! Dans ce city builder de science-fiction, vous devez lancer des opérations minières, planifier votre production et tracer des voies de transport pour assurer une chaîne d'approvisionnement fluide.
+
 ### Turkish //TODO-Devs
 Sıfırdan bir güneş dışı verimlilik ütopyası yaratın! Bu bilim kurgu şehir kurma oyununda sorunsuz bir tedarik zinciri sağlamak için madencilik faaliyetlerine başlamanız, üretimi planlamanız ve ulaşım yollarını belirlemeniz gerekiyor.
 
@@ -46,6 +49,11 @@ Your road network might be versatile, but it's not the right choice for every ki
 ### Italian DONE BY DEVS
 
 ### German DONE BY DEVS
+
+### French //TODO-Devs
+Trains, canalisations et monte-charges
+
+Votre réseau routier est peut-être polyvalent, mais ce n'est pas le bon choix pour tous les types de ressources, ni le plus amusant. Construisez des rails et des gares pour transporter d'énormes quantités de marchandises. Construisez des tuyaux souterrains pour pomper du liquide et du gaz dans toute la ville. Construisez des monte-charges pour atteindre les plus hauts sommets des montagnes et traverser les terrains les plus accidentés.
 
 ### Turkish //TODO-Devs
 Trenler, Borular ve Kargo Asansörleri
@@ -64,6 +72,11 @@ Living on a desert planet can be harsh - but you have your eyes set on the dream
 ### Italian DONE BY DEVS
 
 ### German DONE BY DEVS
+
+### French //TODO-Devs
+Terraformer la planète
+
+Vivre sur une planète désertique peut être difficile, mais vous avez les yeux fixés sur un rêve : terraformer la planète, rendre le désert vert et l'atmosphère respirable. C'est une entreprise gigantesque, qui nécessite des ressources colossales. Ne désespérez pas, car au moment où vous commencez ce projet, vous disposez de toute la technologie, de l'infrastructure et de la main-d'œuvre nécessaires pour faire de ce rêve une réalité !
 
 ### Turkish //TODO-Devs
 Gezegeni yaşanabilir hale getirin
@@ -89,7 +102,7 @@ InfraSpace ist ein sci-fi Städtebauspiel - aber jede Ressource und jedes Produk
 InfraSpace est un jeu de construction de villes de science-fiction - mais chaque ressource que vous produisez doit passer par vos infrastructures de transport. Pour prospérer, vous devrez ouvrir des mines et gérer vos chaînes de production, mais aussi vous occuper de votre réseau routier.
 
 ### Spanish
-Infraspace es un constructor de ciudades de ciencia ficción - pero cada recursos que produzcas debe pasar por tu insfraestructura de transporte. Para prosperar en este sistema solar, no solo tendrás que iniciar operaciones mineras y gestionar cadenas de producción, sino también asegurarte que tu red de tráfico está a la altura de la tarea. 
+Infraspace es un constructor de ciudades de ciencia ficción - pero cada recursos que produzcas debe pasar por tu insfraestructura de transporte. Para prosperar en este sistema solar, no solo tendrás que iniciar operaciones mineras y gestionar cadenas de producción, sino también asegurarte que tu red de tráfico está a la altura de la tarea.
 
 ### Russian
 InfraSpace - это научно-фантастический градостроительный симулятор, где каждый производимый ресурс должен проходить через транспортную инфраструктуру. Начните добычу ресурсов, управляйте производством и убедитесь, что дорожная сеть соответствует задаче.
@@ -234,7 +247,7 @@ Sobald du ein bisschen Eisen, Sand, Schwefel und Kohlenstoff hast, wird es Zeit 
 ### French
 Produisez tout ce que vous consommez
 
-Aux confins de l'espace, on ne peut pas construire une ville en dépensant de l'argent. Vous devrez plutôt faire travailler vos premiers astronautes dans des mines et vous procurer des matières premières. 
+Aux confins de l'espace, on ne peut pas construire une ville en dépensant de l'argent. Vous devrez plutôt faire travailler vos premiers astronautes dans des mines et vous procurer des matières premières.
 
 Une fois que vous avez du fer, du carbone, du sable et du soufre, il est temps d'installer votre première aciérie et votre première usine de béton pour commencer à mettre en place des infrastructures. Même les produits de première nécessité comme la nourriture et l'oxygène nécessitent une chaîne de production stable qui ne doit pas être interrompue !
 
@@ -301,7 +314,7 @@ Termelj meg mindent amit felhasználsz
 
 Az emberek által felfedezett űr határain nem építhetsz egy várost kreditekből. Ehelyett neked kell az első asztronautáidat elküldened bányászni, nyersanyagot gyűjteni.
 
-Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomítódat és betongyáradat megépíteni az infrastruktúra alapjainak lefektetése érdekében. Ám más szükségleteknek is eleget kell majd tenned, az étel és oxigén megbízható előállítást igényel, ami nem állhat meg. 
+Amint van némi vasad, szened, homokod és kéned, ideje az első fém finomítódat és betongyáradat megépíteni az infrastruktúra alapjainak lefektetése érdekében. Ám más szükségleteknek is eleget kell majd tenned, az étel és oxigén megbízható előállítást igényel, ami nem állhat meg.
 
 ### Thai
 ผลิตทุกอย่างที่จำเป็น
@@ -596,7 +609,7 @@ Népesedés
 
 Az első lakosaid asztronauták lesznek, a legjobbak, legbátrabbak akiket az emberiség kínálhat. Lásd el őket élelemmel, lakhatással és ők cserébe aktívan tartják az előőrsöd bármi is történjen.
 
-Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hogy tudósokat és mérnököket alkalmazol, akiknek magasabb elvárásaik is lesznek. Bármely város elegendő népességgel előbb utóbb több és több családnak fog helyet adni; érd el, hogy az iskoláid fel legyenek készülve és képesek legyenek a legújabb VR okatóanyagok átadására! 
+Ahogy a településed nő, fedezned kell a növekvő munkaerőhiányt azzal, hogy tudósokat és mérnököket alkalmazol, akiknek magasabb elvárásaik is lesznek. Bármely város elegendő népességgel előbb utóbb több és több családnak fog helyet adni; érd el, hogy az iskoláid fel legyenek készülve és képesek legyenek a legújabb VR okatóanyagok átadására!
 
 ### Thai
 การเติบโตของประชากร
@@ -635,7 +648,7 @@ Nüfus artışı
 
 Yerleşkeniz büyüdükce, kolonistlerinizin git gide artan konfor ihtiyaçlarını karşılamanız gerekir. Yeterli büyüklükteki herhangi bir şehir er ya da geç daha fazla aileye ev sahipliği yapacaktır, bu nedenle okullarınızın bununla başa çıkabildiğinden ve en yeni VR-eğlence ürünlerini de sunabildiğinizden emin olun.
 
-### [WIP] Scottish Gaelic//TODO-Devs 
+### [WIP] Scottish Gaelic//TODO-Devs
 
 ### Japanese //TODO-Devs
 人口拡大
@@ -744,7 +757,7 @@ Du behøver ikke spille hårdt
 Trafikstyring kan være omskiftelig, og overlevelse kan være svær. Du kan justere vanskelighederne for begge for at gøre din oplevelse med byadministration lige så nem - eller så svær - som du vil have den.
 
 
-### [WIP] Scottish Gaelic//TODO-Devs 
+### [WIP] Scottish Gaelic//TODO-Devs
 
 ### Japanese //TODO-Devs
 必ずしも一生懸命プレイする必要は無い
