@@ -2078,6 +2078,7 @@
     "italian": "Cargo cabinovia",
     "scotsgaelic": "Car luchdachadh",
     "russian": "Грузовой лифт",
+    "ukrainian": "Вантажна гондола",
   },
   "gondolaStationPole": {
   "english": "Gondola Lift Pole",
@@ -2092,6 +2093,7 @@
   "scotsgaelic": "Colbhan Càr",
   "russian": "Стойка грузового лифта",
   "hungarian": "Liftoszlop",
+  "ukrainian": "Стовп підйомника гондоли",
   },
   "gondolaPole": { // the poles between gondola stations
     "english": "Gondola Lift Pole",
@@ -2106,6 +2108,7 @@
     "scotsgaelic": "Colbhan Càr",
     "russian": "Стойка грузового лифта",
     "hungarian": "Liftoszlop",
+    "ukrainian": "Стовп для гондоли",
   },
   "targetingStation": {
     "english": "Laser Targeting Station",
@@ -2120,6 +2123,7 @@
     "italian": "Stazione di puntamento laser",
     "scotsgaelic": "Stèisean targaid laser",
     "russian": "Лазерная станция наведения",
+    "ukrainian": "Станція лазерного наведення",
   },
   "filteringMeshFactory": {
     "english": "Filtering Mesh Factory",
@@ -2134,6 +2138,7 @@
     "russian": "Завод фильтровальной ткани",
     "chinese": "滤网厂",
     "hungarian": "Szűrőháló Gyár",
+    "ukrainian": "Фабрика фільтрувальних сіток",
   },
   "advancedFilteringMeshFactory": {
     "english": "Advanced Filtering Mesh Factory",
@@ -2148,6 +2153,7 @@
     "russian": "Передовой завод фильтровальной ткани",
     "chinese": "高级滤网厂",
     "hungarian": "Fejlett Szűrőháló Gyár",
+    "ukrainian": "Удосконалена фабрика фільтрувальних сіток",
   },
   "superconductingCoilFactory": {
     "english": "Superconducting Coil Factory",
@@ -2162,6 +2168,7 @@
     "russian": "Завод по производству сверхпроводящих катушек",
     "chinese": "超导线圈厂",
     "hungarian": "Szupravezetőtekercs Gyár",
+    "ukrainian": "Фабрика надпровідних котушок",
   },
   "dustParticleFilter": {
     "english": "Dust Particle Filter",
@@ -2176,6 +2183,7 @@
     "chinese": "尘埃过滤器",
     "hungarian": "Porszemcseszűrő",
     "czech": "Filtr prachových částic",
+    "ukrainian": "Пиловий фільтр",
   },
   "fertilizerDroneHub": {
     "english": "Fertilizer Drone Hub",
@@ -2190,6 +2198,7 @@
     "chinese": "施肥无人机枢纽",
     "hungarian": "Trágyázó Drón Csomópont",
     "czech": "Hnojivý dron Hub",
+    "ukrainian": "Хаб дронів для удобрення",
   },
   "groundAcidityRegulator": {
     "english": "Ground Acidity Regulator",
@@ -2204,6 +2213,7 @@
     "chinese": "土壤酸度调节设施",
     "hungarian": "Talajsavasság Szabályozó",
     "czech": "Regulátor kyselosti půdy",
+    "ukrainian": "Регулятор кислотності ґрунту",
   },
   "ammoniaExtractor": {
     "english": "Ammonia Extractor",
@@ -2218,6 +2228,7 @@
     "chinese": "氨素提取设施",
     "hungarian": "Ammónia Kinyerő",
     "czech": "Extraktor čpavku",
+    "ukrainian": "Екстрактор аміаку",
   },
   "magneticFieldGenerator": {
     "english": "Magnetic Field Generator",
@@ -2232,6 +2243,7 @@
     "chinese": "电磁场生成设施",
     "hungarian": "Mágneses Mező Generátor",
     "czech": "Generátor magnetického pole",
+    "ukrainian": "Генератор магнітного поля",
   },
   "pixelBuildingCorner": {
     "english": "Pixel Triangle",
@@ -2246,6 +2258,7 @@
     "chinese": "像素三角板",
     "hungarian": "Pixel Háromszög",
     "czech": "Pixelový trojúhelník",
+    "ukrainian": "Піксельний трикутник",
   },
   "pixelBuildingInvertCorner": {
     "english": "Pixel Inverted Corner",
@@ -2259,7 +2272,8 @@
     "russian": "Пиксель: Инвертированный угол",
     "chinese": "像素倒角板",
     "hungarian": "Pixel Fordított Sarok",
-    
+    "ukrainian": "Піксельний перевернутий кут",
+
   },
   "pixelBuildingRound": {
     "english": "Pixel Circle",
@@ -2273,6 +2287,7 @@
     "russian": "Пиксель: Круг",
     "chinese": "像素圆形板",
     "hungarian": "Pixel Kör",
+    "ukrainian": "Піксельне коло",
   },
   "pixelBuildingRoundCorner": {
     "english": "Pixel Rounded Corner",
@@ -2286,6 +2301,7 @@
     "russian": "Пиксель: Закругленный угол",
     "chinese": "像素圆角板",
     "hungarian": "Pixel Lekerekített Sarok",
+    "ukrainian": "Піксель закруглений кут",
   },
   "pixelBuildingSquare": {
     "english": "Pixel",
@@ -2299,6 +2315,7 @@
     "russian": "Пиксель",
     "chinese": "像素方形板",
     "hungarian": "Pixel",
+    "ukrainian": "Піксель",
   },
   "crashedUfo": {
     "english": "Crashed Ufo",
@@ -2312,6 +2329,7 @@
     "russian": "Разбившийся НЛО",
     "chinese": "坠毁的UFO",
     "hungarian": "Becsapódott UFO",
+    "ukrainian": "Розбите НЛО",
   },
   "decorativePark1": {
     "english": "Classic Park",
@@ -2323,6 +2341,7 @@
     "turkish": "Klasik Park",
     "chinese": "经典公园",
     "hungarian": "Klasszikus Park",
+    "ukrainian": "Класичний парк",
   },
   "decorativePark2": {
     "english": "Modern Park",
@@ -2334,11 +2353,12 @@
     "turkish": "Modern Park",
     "chinese": "现代公园",
     "hungarian": "Modern Park",
+    "ukrainian": "Сучасний парк",
   },
   "fence1": { //would be better to add "A" in other languages as well
     "english": "Fence A",
     "german": "Zaun A",
-    "french": "Clôture",
+    "french": "Clôture A",
     "japanese": "フェンス",
     "thai": "รั้ว ก",
     "italian": "Recinzione A",
@@ -2362,7 +2382,7 @@
   "fence3": { //would be better to add "B" in other languages as well
     "english": "Fence B",
     "german": "Zaun B",
-    "french": "Clôture",
+    "french": "Clôture B",
     "japanese": "フェンス",
     "thai": "รั้ว ข",
     "italian": "Recinzione B",
@@ -2638,7 +2658,6 @@
     "french": "Petit parc moderne",
     "italian": "Piccolo Parco Moderno",
     "thai": "สวนทันสมัยขนาดเล็ก",
-    "japanese": "",
     "turkish": "Küçük Modern Park",
     "chinese": "小型现代公园",
     "hungarian": "Kis Modern Park",
@@ -2668,31 +2687,41 @@
   "kindergarten": {
     "english": "Kindergarten",
     "german": "Kindergarten",
+    "french": "Maternelle",
     "turkish": "Anaokulu",
     "thai": "โรงเรียนอนุบาล",
+    "chinese": "幼儿园",
   },
   "sportCenter": {
     "english": "Sport Center",
     "german": "Sportzentrum",
+    "french": "Centre sportif",
     "turkish": "Spor Merkezi",
     "thai": "ศูนย์กีฬา",
+    "chinese": "体育中心",
   },
   "distributionCenter": {
     "english": "Distribution Center",
     "german": "Vertriebszentrum",
+    "french": "Centre de distribution",
     "turkish": "Dağıtım merkezi",
     "thai": "ศูนย์กระจายสินค้า",
+    "chinese": "配送中心",
   },
   "collectionCenter": {
     "english": "Collection Center",
     "german": "Sammelzentrum",
+    "french": "Centre de collecte",
     "turkish": "Toplama Merkezi",
     "thai": "ศูนย์รวบรวม",
+    "chinese": "回收中心",
   },
   "theater": {
     "english": "Theater",
     "german": "Theater",
+    "french": "Théâtre",
     "turkish": "Tiyatro",
     "thai": "โรงภาพยนตร์",
+    "chinese": "剧院",
   },
 }

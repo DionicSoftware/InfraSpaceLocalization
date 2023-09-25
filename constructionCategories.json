@@ -312,7 +312,9 @@
 	"constructionCategory_education": {
 		"english": "Education",
 		"german": "Bildung",
+		"french": "Éducation",
 		"turkish": "Eğitim",
 		"thai": "การศึกษา",
+		"chinese": "教育",
 	},
 }

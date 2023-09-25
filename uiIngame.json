@@ -2262,7 +2262,6 @@
 		"portuguese": "Imigrantes prontos para se mudarem:",
 		"czech": "Imigranti připraveni se přistěhovat:",
 		"hungarian": "Migránsok készen, hogy beköltözzenek:",
-		"thai": "",
 		"turkish": "Taşınmaya hazır göçmenler:",
 		"romanian": "Imigranți gata să se mute în:",
 		"danish": "Indbyggere klar til at flytte ind:",
@@ -3387,6 +3386,7 @@
 	"spaceshipUpgrade_bridge": {
 		"english": "Each time Electronic is produced, you get 1 extra unit.\n\nEach time Plastic is produced, you get 1 extra unit.",
 		"german": "Bei jeder Produktion von Elektronik, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Kunststoff, produziere 1 Einheit zusätzlich.",
+		"french": "Chaque fois qu'un électronique est produit, vous obtenez 1 unité supplémentaire.\n\nChaque fois que du plastique est produit, vous obtenez 1 unité supplémentaire.",
 		"italian": "Per ogni produzione di Moduli Elettronici e Plastica, ricevi 1 unità extra.",
 		"japanese": "電子機器を生産するたびに1ユニットを追加で得られます。\n\nプラスチックを生産するたびに1ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอิเล็กทรอนิกส์คุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตพลาสติกคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
@@ -3395,6 +3395,7 @@
 	"spaceshipUpgrade_communicationArray": {
 		"english": "Each time Neural Processor is produced, you get 1 extra unit.\n\nEach time VR Edutainment and Home Robot are produced, you get 2 extra unit.",
 		"german": "Bei jeder Produktion von Neuronalprozessor, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von VR-Edutainment Brille und Heimroboter, produziere 2 Einheiten zusätzlich.",
+		"french": "Chaque fois qu'un processeur neuronal est produit, vous obtenez 1 unité supplémentaire.\n\nChaque fois que des casques VR et des robots domestiques sont produits, vous obtenez 2 unités supplémentaires.",
 		"italian": "Per ogni produzione di Processori Neurali, ricevi 1 unità extra.\n\nPer ogni produzione di Intrattenimento a Realtà Virtuale e Robot Domestici, ricevi 2 unità extra.",
 		"japanese": "ニューラルプロセッサーを生産するたびに1ユニットを追加で得られます。\n\n教育用VRと家庭用ロボットを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตเครื่องประมวลผลประสาทคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตเครื่องจำลองโลกบันเทิงเสมือนจริงและหุ่นยนต์บ้านคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
@@ -3403,6 +3404,7 @@
 	"spaceshipUpgrade_computerDeck": {
 		"english": "Each time Holo Display is produced, you get 1 extra unit.\n\nEach time Computer is produced, you get 2 extra unit.",
 		"german": "Bei jeder Produktion von Holo-Display, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Computer, produziere 2 Einheiten zusätzlich.",
+		"french": "Chaque fois qu'un écran holo est produit, vous obtenez 1 unité supplémentaire.\n\nChaque fois qu'un ordinateur est produit, vous obtenez 2 unités supplémentaires.",
 		"italian": "Per ogni produzione di Display Olografici, ricevi 1 unità extra.\n\nPer ogni produzione di Computer, ricevi 2 unità extra.",
 		"japanese": "ホロディスプレイを生産するたびに1ユニットを追加で得られます。\n\nコンピューターを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตจอโฮโลแกรมคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตคอมพิวเตอร์คุณจะได้รับหน่วยพิเศษ 2 หน่วย",
@@ -3411,6 +3413,7 @@
 	"spaceshipUpgrade_ftlEngine": {
 		"english": "Each time Reinforced Iridium is produced, you get 1 extra unit.\n\nEach time AI Control Unit and Motor are produced, you get 2 extra unit.",
 		"german": "Bei jeder Produktion von verstärktes Iridium, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von KI-Steuermodul, produziere 2 Einheiten zusätzlich.",
+		"french": "Chaque fois que de l'iridium renforcé est produit, vous obtenez 1 unité supplémentaire.\n\nChaque fois qu'une unité de contrôle IA et qu'un moteur sont produits, vous obtenez 2 unités supplémentaires.",
 		"italian": "Per ogni produzione di Iridio Rinforzato, ricevi 1 unità extra.\n\nPer ogni produzione di Unità di controllo IA e Motori, ricevi 2 unità extra.",
 		"japanese": "強化イリジウムを生産するたびに1ユニットを追加で得られます。\n\nAI制御ユニットとモーターを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอิริเดียมเสริมแกร่งคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตตัวควบคุมปัญญาประดิษฐ์และมอเตอร์คุณจะได้รับหน่วยพิเศษ 2 หน่วย",
@@ -3419,6 +3422,7 @@
 	"spaceshipUpgrade_ftlFuelCells": {
 		"english": "Each time Superconductor and Industrial Chemicals are produced, you get 1 extra unit.",
 		"german": "Bei jeder Produktion von Suptraleiter und Industriechemikalien, produziere 1 Einheit zusätzlich.",
+		"french": "Chaque fois qu'un supraconducteur et des produits chimiques industriels sont produits, vous obtenez 1 unité supplémentaire.",
 		"italian": "Per ogni produzione di Superconduttori e Prodotti Chimici Industriali, ricevi 1 unità extra.",
 		"japanese": "超伝導材料と工業用化学製品を生産するたびに1ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตวัสดุตัวนำยวดยิ่งและเคมีภัณฑ์อุตสาหกรรมคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
@@ -3427,6 +3431,7 @@
 	"spaceshipUpgrade_ftlTurbine": {
 		"english": "Each time Copper Bar and Distilled Water are produced, you get 1 extra unit.\n\nEach time Industrial Robot is produced, you get 2 extra unit.",
 		"german": "Bei jeder Produktion von Holo-Kupfer Barren und destilliertes Wasser, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Industrieroboter, produziere 2 Einheiten zusätzlich.",
+		"french": "Chaque fois qu'une barre de cuivre et de l'eau distillée sont produites, vous obtenez 1 unité supplémentaire.\n\nChaque fois qu'un robot industriel est produit, vous obtenez 2 unités supplémentaires.",
 		"italian": "Per ogni produzione di Lingotti di Rame e Acqua Distillata, ricevi 1 unità extra.\n\nPer ogni produzione di Robot Industriali, ricevi 2 unità extra.",
 		"japanese": "銅の延べ棒と蒸留水を生産するたびに1ユニットを追加で得られます。\n\n工業用ロボットを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตแท่งทองแดงและน้ำกลั่นคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตหุ่นยนต์อุตสาหกรรมคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
@@ -3435,6 +3440,7 @@
 	"spaceshipUpgrade_orbitalScanners": {
 		"english": "Each time Advanced Filtering Mesh and Superconducting Coil are produced, you get 1 extra unit.\n\nEach time Filtering Mesh is produced, you get 2 extra unit.",
 		"german": "Bei jeder Produktion von Fortgeschrittenes Filtergewebe und Supraleitende Spule, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Filtergewebe, produziere 2 Einheiten zusätzlich.",
+		"french": "Chaque fois qu'une maille filtrante avancée et une bobine supraconductrice sont produites, vous obtenez une unité supplémentaire.\n\nChaque fois qu'une maille filtrante est produite, vous obtenez 2 unités supplémentaires.",
 		"italian": "Per ogni produzione di Tessuto Filtrante Avanzato e Bobine Superconduttive, ricevi 1 unità extra.\n\nPer ogni produzione di Tessuto Filtrante, ricevi 2 unità extra.",
 		"japanese": "発展型濾過用メッシュ超伝導コイルを生産するたびに1ユニットを追加で得られます。\n\n濾過用メッシュを生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตตาข่ายกรองและขดลวดตัวนำยิ่งยวดคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตตาข่ายกรองคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
@@ -3443,6 +3449,7 @@
 	"spaceshipUpgrade_passengerDeck": {
 		"english": "Each time Survival Food and Good Food are produced, you get 1 extra unit.\n\nYou get a 15% reduction for all Habitat needs.",
 		"german": "Bei jeder Produktion von Einfache Mahlzeit und Gute Mahlzeit, produziere 1 Einheit zusätzlich.\n\nBewohner haben zusätzlich 15% weniger Bedarf.",
+		"french": "Chaque fois que de la nourriture de survie et de la bonne nourriture sont produites, vous obtenez 1 unité supplémentaire.\n\nVous bénéficiez d'une réduction de 15 % pour tous vos besoins en matière d'habitat.",
 		"italian": "Per ogni produzione di Cibo di Sopravvivenza e Pasti Buoni, ricevi 1 unità extra.\n\nRicevi una riduzione del 15% per tutti i bisogni degli Habitat.",
 		"japanese": "非常食と食料品を生産するたびに1ユニットを追加で得られます。\n\nすべての居住地からの需要を15%削減します。",
 		"thai":"ทุกครั้งที่ผลิตอาหารประทังชีวิตและอาหารที่ดีคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nความต้องการที่อยู่อาศัยทั้งหมดจะลดลง 15%",
@@ -3451,6 +3458,7 @@
 	"spaceshipUpgrade_hull": {
 		"english": "Each time Sensor and Heat Exchanger are produced, you get 2 extra unit.",
 		"german": "Bei jeder Produktion von Sensor und Wärmetauscher, produziere 2 Einheiten zusätzlich.",
+		"french": "Chaque fois qu'un capteur et un échangeur de chaleur sont produits, vous obtenez 2 unités supplémentaires.",
 		"italian": "Per ogni produzione di Sensori e Scambiatori di Calore, ricevi 2 unità extra.",
 		"japanese": "センサーと熱交換器を生産するたびに2ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอุปกรณ์ตรวจจับและเครื่องแลกเปลี่ยนความร้อนคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
@@ -3459,6 +3467,7 @@
 	"spaceshipUpgrade_radiationShield": {
 		"english": "Each time Enriched Uranium is produced, you get 3 extra unit.\n\nEach time Radiation Core is produced, you get 4 extra unit.",
 		"german": "Bei jeder Produktion von angereichertes Uran, produziere 1 Einheit zusätzlich.\n\nBei jeder Produktion von Strahlungskern, produziere 4 Einheiten zusätzlich.",
+		"french": "Chaque fois que de l'uranium enrichi est produit, vous obtenez 3 unités supplémentaires.\n\nChaque fois qu'un noyau de radiation est produit, vous obtenez 4 unités supplémentaires.",
 		"italian": "Per ogni produzione di Uranio Arricchito, ricevi 3 unità extra.\n\nPer ogni produzione di Nuclei di Radiazione, ricevi 4 unità extra.",
 		"japanese": "濃縮ウランを生産するたびに3ユニットを追加で得られます。\n\n放射線コアを生産するたびに4ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตยูเรเนียมสารเจือปนคุณจะได้รับหน่วยพิเศษ 3 หน่วย\n\nทุกครั้งที่ผลิตแกนรังสีคุณจะได้รับหน่วยพิเศษ 4 หน่วย",
@@ -3467,6 +3476,7 @@
 	"spaceshipUpgrade_storageDeck": {
 		"english": "Each time Home Appliance is produced, you get 2 extra unit.\n\nEach time Concrete and Steel are produced, you get 3 extra unit.",
 		"german": "Bei jeder Produktion von Beton und Stahl, produziere 3 Einheiten zusätzlich.\n\nBei jeder Produktion von Hausgerät, produziere 2 Einheiten zusätzlich.",
+		"french": "Chaque fois qu'un appareil ménager est produit, vous obtenez 2 unités supplémentaires.\n\nChaque fois que du béton et de l'acier sont produits, vous obtenez 3 unités supplémentaires.",
 		"italian": "Per ogni produzione di Elettrodomestici, ricevi 2 unità extra.\n\nPer ogni produzione di Cemento e Acciaio, ricevi 3 unità extra.",
 		"japanese": "家電を生産するたびに2ユニットを追加で得られます。\n\nコンクリートと鋼鉄を生産するたびに3ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตเครื่องใช้ภายในบ้านคุณจะได้รับหน่วยพิเศษ 2 หน่วย\n\nทุกครั้งที่ผลิตคอนกรีตและเหล็กกล้าคุณจะได้รับหน่วยพิเศษ 3 หน่วย",
@@ -3475,6 +3485,7 @@
 	"spaceshipUpgrade_telescope": {
 		"english": "Each time Adamantine is produced, you get 5 extra unit.",
 		"german": "Bei jeder Produktion von Adamant, produziere 5 Einheiten zusätzlich.",
+		"french": "Chaque fois que de l'adamantine est produite, vous obtenez 5 unités supplémentaires.",
 		"italian": "Per ogni produzione di Adamantio, ricevi 5 unità extra.",
 		"japanese": "アダマンタイトを生産するたびに5ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตอาดามันเทียมคุณจะได้รับหน่วยพิเศษ 5 หน่วย",
@@ -3483,6 +3494,7 @@
 	"spaceshipUpgrade_thermalSystems": {
 		"english": "Each time Chemicals, Organic Waste and Methane are produced, you get 1 extra unit.",
 		"german": "Bei jeder Produktion von Chemikalien, Organische Abfälle und Methan, produziere 1 Einheit zusätzlich.",
+		"french": "Chaque fois que des produits chimiques, des déchets organiques et du méthane sont produits, vous obtenez 1 unité supplémentaire.",
 		"italian": "Per ogni produzione di Prodotti Chimici, Rifiuti Organici e Metano, ricevi 1 unità extra.",
 		"japanese": "化学製品と有機廃棄物とメタンを生産するたびに1ユニットを追加で得られます。",
 		"thai":"ทุกครั้งที่ผลิตเคมีภัณฑ์และขยะอินทรีย์รวมถึงมีเทนคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
@@ -4002,7 +4014,7 @@
 	"gracePeriodTitle": {
 		"english": "Grace Period to Fix Your City",
 		"german": "Spielpause um Stadt zu ändern",
-		"french": "",
+		"french": "Période de grâce pour réparer votre ville",
 		"italian": "Periodo di Grazia per ribilanciare la tua città",
 		"thai": "ระยะเวลาเผื่อเพื่อแก้ไขเมืองของคุณ",
 		"japanese": "都市を修正するための猶予期間",
@@ -4012,7 +4024,7 @@
 	"gracePeriodDesc": {
 		"english": "Your save has been created in an old version of the game.\n\nYou get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitants will not move in or out and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
 		"german": "Dein Spielstand wurde in einer älteren Version des Spiels erstellt.\n\nDu bekommst etwas Zeit um deine Stadt für die neue Version vorzubereiten.\nIn dieser Zeit werden deine Einwohner nicht ein- oder ausziehen und du kannst keine neuen Technologien erforschen.\n\nKlicke auf diesen Button wenn du bereit bist, normal weiterzuspielen:",
-		"french": "",
+		"french": "Votre sauvegarde a été créée dans une ancienne version du jeu.\n\nVous disposez d'un peu de temps pour réparer votre ville et l'adapter aux nouvelles exigences. Pendant cette période, vos habitants ne peuvent ni entrer ni sortir de la ville et vous ne pouvez pas faire de recherches sur de nouvelles technologies.\n\nCliquez sur ce bouton lorsque vous êtes prêt à poursuivre le jeu comme d'habitude :",
 		"italian": "Il tuo salvataggio è stato creato in una versione del gioco precedente.\n\nHai a disposizione del tempo per ribilanciare la tua città secondo i nuovi parametri.\nDurante il Periodo di Grazia, gli abitanti non possono andarsene o immigrare, e non è possibile ricercare nuove tecnologie.\n\nFai click su questo pulsante quando sarai pronto/a a giocare normalmente.",
 		"thai": "การบันทึกของคุณถูกสร้างขึ้นในเกมเวอร์ชันเก่า\n\nคุณมีระยะเวลาแก้ไขเมืองและปรับให้เข้ากับข้อกำหนดใหม่\nในช่วงเวลานี้ ผู้อยู่อาศัยของคุณจะไม่ย้ายเข้าหรือออกไป และคุณจะไม่สามารถหาข้อมูล เทคโนโลยีใหม่ได้\n\nคลิกปุ่มนี้หากคุณพร้อมที่จะเล่นเกมต่อตามปกติ:",
 		"japanese": "このセーブファイルは旧バージョンで作成されています。\n\n都市を修正し、新しい需要に合わせて調整する時間があります。\nこの間、入植者は移動せず、新たな技術の研究もできません。\n\n通常通りゲームを進める準備ができたら、このボタンを押してください:",
@@ -4069,14 +4081,23 @@
     },
   	"settingsNotice_title": {
     	"english": "Warning!",
+		"french": "Attention !",
 		"italian": "Attenzione!",
+		"turkish": "Uyarı!",
+		"chinese": "警告！",
   	},
   	"settingsNotice_desc": {
     	"english": "By changing these settings, Achievements will be permanently disabled for the entire game. Do you want to proceed?",
+		"french": "En modifiant ces paramètres, les succès seront définitivement désactivés pour l'ensemble du jeu. Voulez-vous continuer ?",
 		"italian": "Cambiando queste impostazioni, gli Achievements saranno disabilitati in modo permanente per l'intera partita. Vuoi procedere?",
+		"turkish": "Bu ayarları değiştirdiğinizde Başarılar oyunun tamamında kalıcı olarak devre dışı bırakılacaktır. Devam etmek istiyor musunuz?",
+		"chinese": "通过更改这些设置，整个游戏的成就将被永久禁用。还想继续吗？",
   	},
   	"revertSettings": {
     	"english": "Revert",
+		"french": "Annuler",
 		"italian": "Ripristina",
+		"turkish": "Geri al",
+		"chinese": "恢复",
   	},
 }
