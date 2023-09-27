@@ -4473,16 +4473,6 @@
 		"chinese": "这张地图是在游戏开始时随机生成的，具有大面积的超平坦地形。",
 		"turkish": "Bu harita oyunun başında rastgele oluşturulur ve mükemmel düzlükte geniş alanlara sahiptir.",
   	},
-    "graphicsSettings": {
-      "english": "Graphics Settings",
-	  "french": "Paramètres graphiques",
-	    "turkish": "Grafik Ayarları",
-    },
-    "preset": {
-      "english": "Preset",
-	  "french": "Prédéfini",
-	    "turkish": "Ön ayar",
-    },
     "antiAliasing": {
       "english": "Anti-Aliasing",
 	  "french": "Anticrénelage",
@@ -4557,5 +4547,16 @@
       "english": "Very Low",
 	  "french": "Très faible",
 	    "turkish": "Çok düşük",
+    },
+    "graphicsPreset": {
+      "english": "Graphics Preset",
+    },
+    "graphicsSettings": {
+      "english": "Graphics Settings",
+      "french": "Paramètres graphiques",
+      "turkish": "Grafik Ayarları",
+    },
+    "advancedGraphicsSettings": {
+      "english": "Advanced Graphics Settings",
     },
 }
