@@ -357,7 +357,7 @@
 		"german": "Die Wissenschaftler sind begeistert ein Vorkommen direkt vor ihnen zu haben. Es gibt Theorien, dass Adamantin für Terraforming verwendet werden könnte! Und viele Experimente haben angefangen die Theorien zu bestätigen",
 		"french": "Tous les scientifiques sont ravis de disposer d'un dépôt. Selon une théorie récente, l'adamantine peut être utilisée pour la terraformation ! Et de nombreuses expériences en conditions réelles commencent à confirmer cette théorie.",
 		"italian": "Tutti gli scienziati sono emozionati all'idea di averne un deposito disponibile. Secondo una recente teoria, l'Adamantio può essere utilizzato per la terraformazione! Molti studi si stanno muovendo in questa direzione.",
-		"chinese": "所有科学家都很兴奋能有如此丰富的矿产。根据最新的理论成果，曼德拉合金可以用作地球化！许多研究已投入这个方向。",
+		"chinese": "所有科学家都很兴奋能有如此丰富的矿产。根据最新的理论成果，曼德拉合金可以用作环境改造！许多研究已投入这个方向。",
 		"turkish": "Tüm bilim adamları bir depozitonun mevcut olmasından heyecan duyuyor. Yeni bir teoriye göre Adamantine dünyalaştırma için kullanılabilir! Birçok çalışma bu yönde ilerlemektedir.",
 	},
 
@@ -417,7 +417,7 @@
 		"german": "Die ersten Schritte beim Terraforming!",
 		"french": "Début de la terraformation !",
 		"italian": "Inizia la terraformazione!",
-		"chinese": "地球化开始！",
+		"chinese": "环境改造开始！",
 		"turkish": "Dünyalaştırma başlıyor!",
 	},
 
@@ -435,7 +435,7 @@
 		"german": "Terraforming abgeschlossen!",
 		"french": "Terraformation terminée !",
 		"italian": "Terraformazione completata!",
-		"chinese": "地球化完成！",
+		"chinese": "环境改造完成！",
 		"turkish": "Dünyalaştırma tamamlandı!",
 	},
 
@@ -444,7 +444,7 @@
 		"german": "Glückwunsch!\n\nDas Terraforming von Neper-3 ist jetzt abgeschlossen. Es war ein langes und schweres Abenteuer, aber es hat sich gelohnt.",
 		"french": "Félicitations !\n\nVous avez réussi à terraformer Neper-3. L'aventure a été longue et complexe, mais elle en valait la peine.",
 		"italian": "Congratulazioni!\n\nHai portato a termine con successo la terraformazione di Neper-3. È stata una lunga e complessa avventura, ma ne è valsa la pena.",
-		"chinese": "恭喜！\n\n你已成功将奈佩尔3号地球化。这是一个漫长艰难的旅途，但它依然值得。",
+		"chinese": "恭喜！\n\n你已成功将奈佩尔3号环境改造。这是一个漫长艰难的旅途，但它依然值得。",
 	},
 
 	"message_storyTerraformingDone_1Title": {
@@ -452,7 +452,7 @@
 		"german": "Terraforming abgeschlossen!",
 		"french": "Terraformation terminée !",
 		"italian": "Terraformazione completata!",
-		"chinese": "地球化完成！",
+		"chinese": "环境改造完成！",
 		"turkish": "Dünyalaştırma tamamlandı!",
 	},
 	"message_storyTerraformingDone_1Desc": {//image
@@ -468,7 +468,7 @@
 		"german": "Terraforming abgeschlossen!",
 		"french": "Terraformation terminée !",
 		"italian": "Terraformazione completata!",
-		"chinese": "地球化完成！",
+		"chinese": "环境改造完成！",
 		"turkish": "Dünyalaştırma tamamlandı!",
 	},
 	"message_storyTerraformingDone_2Desc": {
@@ -476,6 +476,6 @@
 		"german": "Deine Reise war alles andere als normal.\n\nDu hast aus der Crew und den Passigieren von Antares eine Gemeinschaft gemacht. Du hat eine große industrielle Stadt aus einer verlassen Wüste gemacht. Und zuletzt hast du auch den Planeten begrünt.",
 		"french": "Votre parcours n'a rien d'ordinaire.\n\nVous avez pris l'équipage et les passagers d'un vaisseau spatial et vous en avez fait une communauté. Vous avez fait surgir une grande ville industrielle d'un désert désolé. Et finalement, vous avez terraformé la planète entière, en y introduisant de nouvelles formes de vie.",
 		"italian": "Il tuo viaggio è stato tutto fuorchè ordinario.\n\nHai preso l'equipaggio di una nave e ne hai fatto una comunità. Hai fatto sorgere una grandiosa città industriale da un deserto desolato. Infine, hai terraformato l'intero pianeta, portando nuove forme di vita.",
-		"chinese": "你经历了一场无与伦比的旅程。\n\n你带着星舰上的舰员和乘客创造了一个星舰之外的社会，在荒漠中建造了一个宏伟的工业化城市。并且最终你地球化了整个星球，带来了新型的生命形式。",
+		"chinese": "你经历了一场无与伦比的旅程。\n\n你带着星舰上的舰员和乘客创造了一个星舰之外的社会，在荒漠中建造了一个宏伟的工业化城市。并且最终你环境改造了整个星球，带来了新型的生命形式。",
 	},
 }

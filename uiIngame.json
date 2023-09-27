@@ -3974,7 +3974,7 @@
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
 		"italian": "Area terraformata sulla mappa: %area%%",
 		"russian": "Терраформированная территория на карте: %area%%",
-		"chinese": "地图上已地球化区域: %area%%",
+		"chinese": "地图上已环境改造区域: %area%%",
 	},
 	"totalProgress": {
 		"english": "Total Progress: %progress%%",
