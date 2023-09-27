@@ -4476,14 +4476,14 @@
     "graphicsSettings": {
       "english": "Graphics Settings",
 	  "french": "Paramètres graphiques",
-	    "turkish": "Grafik Ayarları",
-		"chinese": "图像设置",
+	  "turkish": "Grafik Ayarları",
+	  "chinese": "图像设置",
     },
     "preset": {
       "english": "Preset",
 	  "french": "Prédéfini",
-	    "turkish": "Ön ayar",
-		"chinese": "预设",
+	  "turkish": "Ön ayar",
+	  "chinese": "预设",
     },
     "antiAliasing": {
       "english": "Anti-Aliasing",
@@ -4574,5 +4574,16 @@
 	  "french": "Très faible",
 	    "turkish": "Çok düşük",
 		"chinese": "极低",
+    },
+    "graphicsPreset": {
+      "english": "Graphics Preset",
+    },
+    "graphicsSettings": {
+      "english": "Graphics Settings",
+      "french": "Paramètres graphiques",
+      "turkish": "Grafik Ayarları",
+    },
+    "advancedGraphicsSettings": {
+      "english": "Advanced Graphics Settings",
     },
 }
