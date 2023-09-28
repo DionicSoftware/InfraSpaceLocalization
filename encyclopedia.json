@@ -117,6 +117,7 @@
     "french": "Parfois, le trafic est tout simplement trop important.\n\nLorsque les embouteillages ne diminuent pas, même en améliorant la route ou en gérant les voies, il peut s'avérer nécessaire de créer une route alternative.\n\nDe cette manière, vous diminuez la pression dans les zones critiques et le trafic peut reprendre son cours normal.\n\nImportant ! Les véhicules choisissent automatiquement l'itinéraire théoriquement le plus rapide, indépendamment des embouteillages.",
     "italian": "A volte il traffico è semplicemente troppo.\n\nQuando gli ingorghi non si riducono nemmeno migliorando la strada o gestendo le corsie, può essere il caso di creare una strada alternativa.\n\nIn questo modo, si riduce la pressione nelle aree critiche e il traffico può riprendere a scorrere normalmente.\n\nImportante! I veicoli scelgono automaticamente il percorso teoricamente più veloce, indipendentemente dagli ingorghi stradali.",
     "chinese": "有时，交通管理非常简单。\n\n当交通堵塞无法通过升级道路或者管理支路减少的时候，或许应该建造另一条可以替代的道路。\n\n这样，你就可以减少这些区域的压力，交通也就可以恢复正常。\n\n最重要的是！车辆会自动选择理论上最快的道路来防止交通堵塞。",
+    "thai": "บางครั้ง การจราจรติดขัดมากเกินไป\n\nเมื่อการจราจรติดขัดไม่ลดลงแม้จะปรับปรุงถนนหรือจัดการเลน ก็อาจเป็นกรณีของการสร้างถนนสายอื่น\n\nด้วยวิธีนี้ คุณจะลดแรงกดดันในภาวะวิกฤตได้ พื้นที่และการจราจรสามารถกลับมาไหลได้ตามปกติ\n\nข้อสำคัญ: ยานพาหนะจะเลือกเส้นทางที่เร็วที่สุดตามหลักทฤษฎีโดยอัตโนมัติ ไม่ว่าการจราจรจะติดขัดก็ตาม",
   },
   "createTrainLinesTutorialTitle": {
     "english": "Create train lines",
@@ -125,6 +126,7 @@
     "italian": "Creazione di linee ferroviarie",
     "chinese": "创建列车线路",
     "turkish": "Tren hatları oluşturun",
+    "thai": "สร้างเส้นทางรถไฟ",
   },
   "createTrainLinesFirstTutorialParagraph": {
     "english": "Let's take a step-by-step look at how to create one or more railway lines.\n\nFirst, build at least two railway stations. They are used for loading and unloading goods, so place them in strategic locations. After that, connect them with a closed rail circuit. Pay attention to the direction of the tracks!",
@@ -132,6 +134,7 @@
     "french": "Voyons étape par étape comment créer une ou plusieurs lignes ferroviaires.\n\nTout d'abord, construisez au moins deux gares. Elles servent à charger et à décharger les marchandises, alors placez-les à des endroits stratégiques. Ensuite, reliez-les avec un circuit ferroviaire fermé. Faites attention à la direction des rails !",
     "italian": "Vediamo passo a passo come creare una o più linee ferroviarie.\n\nInnanzitutto, costruisci almeno due stazioni ferroviarie. Sono utilizzate per il carico e lo scarico delle merci, quindi posizionale in luoghi strategici. Dopodiché, connettile con un circuito ferroviario chiuso. Fai attenzione alla direzione dei binari!",
     "chinese": "让我们逐步地看下如何创建一条或多条列车线路。\n\n首先，建造至少两个列车站。他们通常用来装载和卸载货物，所以要把他们放在战略性的地方。然后，用一条闭合的轨道线路连接他们。注意列车运行的方向！",
+    "thai": "มาดูวิธีสร้างทางรถไฟหนึ่งสายขึ้นไปทีละขั้นตอนกัน\n\nขั้นแรก สร้างสถานีรถไฟอย่างน้อยสองแห่ง ใช้สำหรับการขนถ่ายสินค้า ดังนั้นควรวางไว้ในตำแหน่งเชิงกลยุทธ์ หลังจากนั้นให้ต่อเข้ากับวงจรรางปิด ให้ความสนใจกับทิศทางของรางรถไฟ!",
   },
   "createTrainLinesSecondTutorialParagraph": {
     "english": "Now it's time to put them into operation. On the left side of the game screen, open the \"Train lines\" menu.\n\nAdd a train line on the left side of the panel. After that, select the train stations where you want the train(s) on that line to stop.\n\nPlease note: trains are used exclusively when they are the fastest option.",
@@ -139,6 +142,7 @@
     "french": "Il est maintenant temps de les faire fonctionner. Sur le côté gauche de l'écran de jeu, ouvrez le menu « Lignes de train ».\n\nAjoutez une ligne de train sur le côté gauche du panneau. Ensuite, sélectionnez les gares où vous souhaitez que le(s) train(s) de cette ligne s'arrête(nt).\n\nRemarque : les trains sont utilisés exclusivement lorsqu'ils constituent l'option la plus rapide.",
     "italian": "Ora è il momento di metterle in funzione. Sul lato sinistro della schermata di gioco, apri il menu \"Linee ferroviarie\".\n\nAggiungi una linea ferroviaria sul lato sinistro del pannello. Successivamente, seleziona le stazioni ferroviarie in cui desideri che il treno o i treni di quella linea si fermino.\n\nNota: i treni vengono utilizzati esclusivamente quando sono l'opzione più veloce.",
     "chinese": "现在是时候用上他们了。在游戏界面的左侧，点开“列车”菜单，在其界面左侧添加一条列车线路，再选择你想停靠的列车站。请注意：如果列车可以更快的运输货物，他们通常是首选项。",
+    "thai": "ตอนนี้ถึงเวลาที่จะนำไปปฏิบัติแล้ว ที่ด้านซ้ายของหน้าจอเกม ให้เปิดเมนู \"เส้นทางรถไฟ\"\n\nเพิ่มเส้นทางรถไฟทางด้านซ้ายของแผง หลังจากนั้น ให้เลือกสถานีรถไฟที่คุณต้องการให้รถไฟสายนั้นหยุด\n\nโปรดทราบ: รถไฟจะใช้เฉพาะเมื่อเป็นตัวเลือกที่เร็วที่สุดเท่านั้น",
   },
   "createTrainLinesTutorialHeading": {
     "english": "Be creative!",
@@ -147,6 +151,7 @@
     "italian": "Usa la creatività!",
     "turkish": "Yaratıcı ol",
     "chinese": "保持创造力！",
+    "thai": "มีความคิดสร้างสรรค์!",
   },
   "createTrainLinesThirdTutorialParagraph": {
     "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
@@ -154,6 +159,7 @@
     "french": "N'hésitez pas à utiliser des stations de tailles différentes et à créer des jonctions et des intersections avec des rails.\n\nLe passage de plusieurs trains par intersection est géré automatiquement : voir « Intersections ferroviaires » pour en savoir plus.",
     "italian": "Sentiti libero/a di utilizzare stazioni di dimensioni diverse e di creare bivi e intersezioni con le ferrovie.\n\nIl passaggio di più treni per ogni intersezione viene gestito automaticamente: per saperne di più, consulta la voce \"Intersezioni ferroviarie\"",
     "chinese": "使用不同类型的站点以及列车线路交会时不需要非常谨慎。\n\n各个列车的乘客在线路交会的地方会自动进行调节：更多信息参考“列车线路交会",
+    "thai": "คุณสามารถใช้สถานีขนาดต่างๆ และสร้างทางแยกและทางแยกด้วยรางได้ตามใจชอบ\n\nทางเดินของรถไฟหลายขบวนต่อทางแยกได้รับการจัดการโดยอัตโนมัติ: ดู \"ทางแยกของราง\" เพื่อเรียนรู้เพิ่มเติม",
   },
   "railsIntersectionsTutorialTitle": {
     "english": "Rails intersections",
@@ -162,6 +168,7 @@
     "italian": "Intersezioni ferroviarie",
     "turkish": "Raylı kavşaklar",
     "chinese": "列车线路交会",
+    "thai": "ทางแยกรางรถไฟ",
   },
   "railsIntersectionsFirstTutorialParagraph": {
     "english": "The passage of multiple trains per intersection is handled by an automatic signaling system. To avoid slowdowns on railway lines, it is useful to know how it works! Access the signaling overview by clicking the traffic light icon in the \"Rails\" category.",
@@ -169,6 +176,7 @@
     "french": "Le passage de plusieurs trains par intersection est géré par un système de signalisation automatique. Pour éviter les ralentissements sur les lignes ferroviaires, il est utile de savoir comment cela fonctionne ! Accédez à la vue d'ensemble de la signalisation en cliquant sur l'icône de feu de signalisation dans la catégorie « Rails ».",
     "italian": "Il passaggio di più treni per intersezione è gestito da un sistema di segnalazione automatico. Per evitare rallentamenti sulle linee ferroviarie, è utile conoscerne il funzionamento! Accedi alla panoramica del sistema di segnalamento cliccando sull'icona del semaforo nella categoria \"Binari\".",
     "chinese": "各个列车的乘客在线路交会的地方会被一个自动的信号系统进行调节。为了避免列车线路堵塞，最好知道它是怎么运作的！通过点击“列车线路”中的红绿灯按钮，可以看到信号的概述。",
+    "thai": "ทางเดินของรถไฟหลายขบวนต่อทางแยกได้รับการจัดการโดยระบบส่งสัญญาณอัตโนมัติ เพื่อหลีกเลี่ยงการชะลอตัวของเส้นทางรถไฟ จึงควรทราบวิธีการทำงาน! เข้าถึงภาพรวมการส่งสัญญาณโดยคลิกที่ไอคอนสัญญาณไฟจราจรในหมวด \"รางรถไฟ\"",
   },
   "railsIntersectionsSecondTutorialParagraph": {
     "english": "Intersections are highlighted in red, while orange zones indicate an unsafe area. When a train is in an orange or red zone, no other trains can enter that area.\n\nMake sure there is a green section between intersections, or your trains will have to wait for a long time!",
@@ -176,6 +184,7 @@
     "french": "Les intersections sont mises en évidence en rouge, tandis que les zones orange indiquent une zone dangereuse. Lorsqu'un train se trouve dans une zone orange ou rouge, aucun autre train ne peut entrer dans cette zone.\n\nVeillez à ce qu'il y ait une section verte entre les intersections, sinon vos trains devront attendre longtemps !",
     "italian": "Le intersezioni sono evidenziate in rosso, mentre le zone arancioni indicano un'area non sicura. Quando un treno si trova in una zona arancione o rossa, nessun altro treno può entrare in quell'area.\n\nAssicurati che ci sia una sezione verde tra le intersezioni, o i tuoi treni dovranno aspettare a lungo prima di poter passare!",
     "chinese": "交叉路口用红色标出，橙色区域表示不安全区域。确保交叉路口之间有绿色区域，否则你的列车将不得不长时间等待！",
+    "thai": "ทางแยกจะถูกเน้นด้วยสีแดง ในขณะที่โซนสีส้มแสดงถึงพื้นที่ที่ไม่ปลอดภัย เมื่อรถไฟอยู่ในโซนสีส้มหรือสีแดง จะไม่มีรถไฟขบวนอื่นเข้าไปในพื้นที่นั้นได้\n\nตรวจสอบให้แน่ใจว่ามีส่วนสีเขียวอยู่ระหว่างทางแยก ไม่เช่นนั้นรถไฟของคุณจะต้องรอเป็นเวลานาน!",
   },
   "trafficLightsTutorialTitle": {
     "english": "Traffic lights and yield sign",
@@ -184,6 +193,7 @@
     "italian": "Semafori e segnali di precedenza",
     "turkish": "Trafik ışıkları ve yol işareti",
     "chinese": "交通灯和让行标志",
+    "thai": "สัญญาณไฟจราจรและป้ายผลผลิต",
   },
   "trafficLightsFirstTutorialParagraph": {
     "english": "There are some tools for managing traffic at intersections even more precisely: traffic lights and yield signs. By clicking on in intersection, related buttons will appear.",
@@ -191,6 +201,7 @@
     "french": "Il existe des outils permettant de gérer le trafic aux intersections de manière encore plus précise : les feux de circulation et les panneaux de cédez-le-passage. En cliquant sur une intersection, les boutons correspondants apparaissent.",
     "turkish": "Kavşaklardaki trafiği daha da hassas bir şekilde yönetmek için bazı araçlar vardır: trafik ışıkları ve yol verme işaretleri. Kavşakta tıkladığınızda ilgili butonlar görünecektir.",
     "chinese": "有一些工具可以更精确地管理十字路口的交通：交通信号灯和让行标志。点击交叉点，会出现相关按钮。",
+    "thai": "มีเครื่องมือบางอย่างสำหรับจัดการการจราจรบริเวณทางแยกได้แม่นยำยิ่งขึ้น: สัญญาณไฟจราจรและป้ายทางแยก เมื่อคลิกที่ทางแยก ปุ่มที่เกี่ยวข้องจะปรากฏขึ้น",
   },
   "trafficLightsFirstTutorialHeading": {
     "english": "Traffic lights",
@@ -199,6 +210,7 @@
     "italian": "Semafori",
     "turkish": "Trafik ışıkları",
     "chinese": "交通灯",
+    "thai": "ไฟจราจร",
   },
   "trafficLightsSecondTutorialParagraph": {
     "english": "Click on the button with the traffic light icon. Now you can decide which lanes will be allowed to flow at the same time, and which will have to wait. You can add and remove traffic light phases, and decide their duration. You can also decide to ignore traffic lights when the road is completely clear by activating the box at the top.\n\nWhen you exit the menu, the traffic lights will remain active. If you want to remove them, use the last of the four buttons, or switch to management by yield signs.",
@@ -206,6 +218,7 @@
     "french": "Cliquez sur le bouton avec l'icône du feu de circulation. Vous pouvez maintenant décider quelles voies seront autorisées à circuler en même temps et lesquelles devront attendre. Vous pouvez ajouter et supprimer des phases de feux de circulation et déterminer leur durée. Vous pouvez également décider d'ignorer les feux de circulation lorsque la route est complètement dégagée en activant la case située en haut.\n\nLorsque vous quittez le menu, les feux de signalisation restent actifs. Si vous souhaitez les supprimer, utilisez le dernier des quatre boutons ou passez à la gestion par panneaux de signalisation.",
     "italian": "Clicca sul pulsante con l’icona del semaforo. Ora puoi decidere quali corsie potranno scorrere allo stesso tempo, e quali dovranno attendere. Puoi aggiungere e rimuovere le fasi dei semafori, e deciderne la durata. Puoi anche decidere di ignorare i semafori quando la strada è completamente libera attivando la casella in alto.\n\nUscendo dal menu, i semafori rimarranno attivi. Se vuoi rimuoverli, utilizza l’ultimo dei quattro pulsanti, oppure passa alla gestione per precedenza stradale.",
     "chinese": "点击带有交通灯图标的按钮。现在你可以决定哪些车道可以同时通行，哪些车道需要等候。你可以添加或移除交通灯阶段，并决定其持续时间。\n\n当你退出菜单时，交通信号灯将保持激活状态。如果你想移除交通信号灯，请使用四个按钮中的最后一个，或者切换到通过让行标志进行管理。",
+    "thai": "คลิกที่ปุ่มที่มีไอคอนสัญญาณไฟจราจร ตอนนี้คุณสามารถตัดสินใจได้ว่าเลนใดที่จะได้รับอนุญาตให้ไหลในเวลาเดียวกัน และช่องทางใดที่จะต้องรอ คุณสามารถเพิ่มและลบระยะสัญญาณไฟจราจร และตัดสินใจระยะเวลาได้ คุณยังสามารถเลือกที่จะเพิกเฉยต่อสัญญาณไฟจราจรได้เมื่อถนนโล่งโดยการเปิดใช้งานกล่องที่ด้านบน\n\nเมื่อคุณออกจากเมนู ไฟจราจรจะยังคงทำงานอยู่ หากคุณต้องการลบออก ให้ใช้ปุ่มสุดท้ายจากสี่ปุ่ม หรือสลับไปที่การจัดการตามเครื่องหมายผลตอบแทน",
   },
   "trafficLightsSecondTutorialHeading": {
     "english": "Yield signs",
@@ -214,6 +227,7 @@
     "italian": "Segnali di precedenza",
     "turkish": "Verim işaretleri",
     "chinese": "让行标志",
+    "thai": "ป้ายให้ทาง",
   },
   "trafficLightsThirdTutorialParagraph": {
     "english": "Click on the button with the yield sign icon. Now you can decide which roads will have the right of way in the intersection, and which ones will have to yield it instead. Reverse the right of way by pressing on the large sign that will appear on the road.\n\nBy exiting the menu, the signs will remain. If you want to remove them, use the last of the four buttons, or switch to management by traffic lights.",
@@ -221,6 +235,7 @@
     "french": "Cliquez sur le bouton avec l'icône du cédez-le-passage. Vous pouvez maintenant décider quelles routes auront la priorité à l'intersection, et lesquelles devront la céder à la place. Inversez la priorité en appuyant sur le grand panneau qui apparaîtra sur la route.\n\nEn sortant du menu, les panneaux resteront en place. Si vous souhaitez les supprimer, utilisez le dernier des quatre boutons ou passez à la gestion par feux de signalisation.",
     "italian": "Clicca sul pulsante con l’icona del segnale di precedenza. Ora potrei decidere quali strade avranno la precedenza nell’incrocio, e quali dovranno invece cederla. Inverti la precedenza premendo sul grande segnale che apparirà sulla strada.\n\nUscendo dal menu, i cartelli rimarranno. Se vuoi rimuoverli, utilizza l’ultimo dei quattro pulsanti, oppure passa alla gestione per semafori.",
     "chinese": "点击带有让行标志图标的按钮。现在可以决定哪些道路在交叉路口拥有通行权，哪些道路必须让行。按下道路上出现的大标志，即可反转路权。\n\n退出菜单后，路标将保留。如果你想移除它们，请使用四个按钮中的最后一个，或者切换到交通信号灯管理。",
+    "thai": "คลิกที่ปุ่มที่มีไอคอนป้ายให้ทาง ตอนนี้คุณสามารถตัดสินใจได้ว่าถนนเส้นใดจะมีสิทธิทางแยก และถนนเส้นไหนจะต้องให้ทางแยกแทน กลับทางขวาโดยกดที่ป้ายขนาดใหญ่ที่จะปรากฏบนถนน\n\nเมื่อออกจากเมนู ป้ายจะยังคงอยู่ หากคุณต้องการลบออก ให้ใช้ปุ่มสุดท้ายจากสี่ปุ่ม หรือเปลี่ยนไปใช้การจัดการตามสัญญาณไฟจราจร",
   },
   "pipesTutorialTitle": {
     "english": "Pipes",
@@ -229,6 +244,7 @@
     "italian": "Tubazioni",
     "turkish": "Borular",
     "chinese": "管道",
+    "thai": "ท่อ",
   },
   "pipesTutorialParagraph": {
     "english": "Some resources can be transported via underground pipelines. This is the case for oxygen, water, methane, and crude oil.\n\nThe pipes connect automatically when they are near a building that requires that particular resource. In addition, multiple pipes can be built in the same tiles: each one is at a different depth.\n\nUsing pipelines can greatly reduce road traffic, at a cost: buildings that produce the resources transported by pipelines consume twice as much electricity. Pumping liquids and gas is energy-consuming!",
@@ -236,6 +252,7 @@
     "french": "Certaines ressources peuvent être transportées par des canalisations souterraines. C'est le cas de l'oxygène, de l'eau, du méthane et du pétrole brut.\n\nLes tuyaux se connectent automatiquement lorsqu'ils se trouvent à proximité d'un bâtiment qui nécessite cette ressource particulière. En outre, plusieurs tuyaux peuvent être construits dans les mêmes tuiles : chacun d'entre eux se trouve à une profondeur différente.\n\nL'utilisation des tuyaux permet de réduire considérablement le trafic routier, mais elle a un coût : les bâtiments qui produisent les ressources transportées par les tuyaux consomment deux fois plus d'électricité. Le pompage des liquides et du gaz consomme de l'énergie !",
     "italian": "Alcune risorse possono essere trasportate tramite tubature sotterranee. È il caso di ossigeno, acqua, metano e petrolio grezzo.\n\nI tubi si connettono automaticamente quando sono in prossimità di un edificio che richiede quella determinata risorsa. Inoltre, è possibile costruire più tubi nelle stesse caselle: ognuno di essi si trova a una profondità differente!\n\nL’utilizzo di tubature può ridurre notevolmente il traffico stradale, a un costo: gli edifici che producono le risorse trasportate con le tubature, consumano il doppio dell'energia elettrica. Pompare liquidi e gas è energeticamente dispendioso!",
     "chinese": "有些资源可以通过地下管道运输。氧气、水、甲烷和原油都是如此。\n\n当管道靠近需要特定资源的建筑时，它们就会自动连接起来。此外，可以在同一块地块上建造多个管道：每个管道的深度都不同。\n\n使用管道可以大大减少道路交通，但代价是：生产管道运输的资源的建筑需要消耗两倍的电力。泵送液体和气体需要消耗能源！",
+    "thai": "ทรัพยากรบางส่วนสามารถขนส่งผ่านท่อใต้ดินได้ นี่เป็นกรณีของออกซิเจน น้ำ มีเทน และน้ำมันดิบ\n\nท่อจะเชื่อมต่อโดยอัตโนมัติเมื่ออยู่ใกล้อาคารที่ต้องใช้ทรัพยากรนั้น นอกจากนี้ สามารถสร้างท่อได้หลายท่อในแผ่นเดียวกัน โดยแต่ละท่อมีความลึกต่างกัน\n\nการใช้ท่อส่งสามารถลดการจราจรบนถนนได้อย่างมาก โดยต้องแลกมาด้วยต้นทุน อาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้ามากกว่าสองเท่า การสูบของเหลวและก๊าซสิ้นเปลืองพลังงาน!",
   },
   "outgoingStorageFullTutorialTitle": {
     "english": "Outgoing storage full",
@@ -244,6 +261,7 @@
     "italian": "Magazzino in uscita pieno",
     "turkish": "Giden depolama dolu",
     "chinese": "输出库存已满",
+    "thai": "ที่เก็บข้อมูลขาออกเต็ม",
   },
   "outgoingStorageFullFirstTutorialParagraph": {
     "english": "Each factory has two types of storage. The outgoing storage is where the produced resources are stored for shipment, and can be seen in the bottom right panel.\n\nIf a building's information panel shows that the outgoing storage is full, it is because there are no buildings to which it can deliver goods at that moment. This can have different reasons!",
@@ -251,6 +269,7 @@
     "french": "Chaque bâtiment possède deux entrepôts. Le stockage de sortie est l'endroit où les ressources produites sont stockées avant d'être expédiées ; il est visible dans le panneau en bas à droite.\n\nSi le panneau d'information d'un bâtiment indique que le stock sortant est plein, c'est parce qu'il n'y a aucun bâtiment auquel il peut livrer des marchandises à ce moment-là.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in uscita è dove le risorse prodotte vengono stoccate per la spedizione, e si può visualizzare nel riquadro in basso a destra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in uscita è pieno, è perché in quel momento non ci sono edifici a cui può consegnare la merce.",
     "chinese": "每个建筑都有两个库存。输出库存是储存生产出来的资源以备装运的地方，可以在右下角的面板中看到。\n\n如果某个建筑的信息面板显示输出库存已满，那是因为此时没有建筑可以向其运送货物。",
+    "thai": "โรงงานแต่ละแห่งจะมีพื้นที่จัดเก็บสองประเภท พื้นที่เก็บข้อมูลขาออกคือที่ที่ทรัพยากรที่ผลิตถูกจัดเก็บไว้สำหรับการจัดส่ง และสามารถดูได้ที่แผงด้านล่างขวา\n\nหากแผงข้อมูลของอาคารแสดงว่าพื้นที่เก็บข้อมูลขาออกเต็มแล้ว อาจเป็นเพราะไม่มีอาคารใดที่สามารถทำได้ ส่งสินค้าในขณะนั้น สิ่งนี้อาจมีสาเหตุที่แตกต่างกัน!",
   },
   "outgoingStorageFullSecondTutorialParagraph": {
     "english": "To check the status of your deliveries, click on the arrow in the building information panel.\n\nBlue color indicates the selected building.\n\nGreen color indicates that the delivery is in progress.\n\nYellow color indicates that the incoming storage is already full.\n\nRed color indicates that the building is not reachable.",
@@ -258,6 +277,7 @@
     "french": "Pour vérifier l'état de vos livraisons, cliquez sur la flèche dans le panneau d'information du bâtiment.\n\nLa couleur bleue indique le bâtiment sélectionné.\n\nLa couleur verte indique que la livraison est en cours.\n\nLa couleur jaune indique que le stockage entrant est déjà plein.\n\nLa couleur rouge indique que le bâtiment n'est pas accessible.s",
     "italian": "Per controllare lo stato delle tue consegne, clicca sulla freccia nel pannello informativo dell’edificio.\n\nIl colore blu indica l’edificio selezionato.\n\nIl colore verde indica che la consegna è in corso.\n\nIl colore giallo indica che il magazzino in entrata è già pieno.\n\nIl colore rosso indica che l’edificio non è raggiungibile.",
     "chinese": "要查看交付状态，请单击楼宇信息面板中的箭头。\n\n蓝色表示选定的建筑物。\n\n绿色表示送货正在进行中。\n\n黄色表示输入库存已满。\n\n红色表示无法到达建筑。",
+    "thai": "หากต้องการตรวจสอบสถานะการจัดส่งของคุณ ให้คลิกที่ลูกศรในแผงข้อมูลอาคาร\n\nสีฟ้าหมายถึงอาคารที่เลือก\n\nสีเขียวแสดงว่าอยู่ระหว่างการจัดส่ง\n\nสีเหลืองแสดงว่ามีสินค้าเข้ามา พื้นที่เก็บข้อมูลเต็มแล้ว\n\nสีแดงบ่งบอกว่าไม่สามารถเข้าถึงอาคารได้",
   },
   "incomingStorageEmptyTutorialTitle": {
     "english": "Incoming storage empty",
@@ -266,6 +286,7 @@
     "italian": "Magazzino in entrata vuoto",
     "turkish": "Gelen depolama alanı boş",
     "chinese": "输入库存为空",
+    "thai": "ที่เก็บข้อมูลขาเข้าว่างเปล่า",
   },
   // TODO-french
   // TODO-italian
@@ -275,6 +296,7 @@
     "french": "Chaque bâtiment dispose de deux entrepôts. Le stockage entrant est l'endroit où les ressources reçues sont stockées en vue de leur utilisation.\n\nSi le panneau d'information d'un bâtiment indique que le stockage entrant est vide, c'est qu'une ou plusieurs ressources stockées ne sont pas suffisantes pour la production.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in entrata è dove le risorse ricevute vengono stoccate per essere utilizzate, e si può visualizzare nel riquadro in basso a sinistra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in entrata è vuoto, è perché una o più risorse stoccate non sono sufficienti alla produzione.",
     "chinese": "每个建筑都有两个库存。输入库存是储存接收到的资源以备使用的地方，可以在左下角的面板中看到。\n\n如果某个建筑的信息面板上显示输入库存为空，那是因为一个或多个建筑存储的资源不足以用于生产。",
+    "thai": "แต่ละอาคารมีห้องเก็บของสองประเภท ที่เก็บข้อมูลขาเข้าคือที่ที่ทรัพยากรที่ได้รับถูกเก็บไว้เพื่อใช้ และสามารถดูได้ในแผงด้านซ้ายล่าง\n\nหากแผงข้อมูลของอาคารแสดงว่าพื้นที่เก็บข้อมูลขาเข้าว่างเปล่า อาจเป็นเพราะทรัพยากรที่จัดเก็บอย่างน้อยหนึ่งรายการถูก ไม่เพียงพอต่อการผลิตหรือกำลังจัดส่งอยู่และใช้เวลาเพียงครู่หนึ่ง",
   },
   // TODO-french
   // TODO-italian
@@ -283,7 +305,8 @@
     "german": "Manchmal bleibt das Lager für eine lange Zeit leer während es darauf wartet, bis Ressourcen ankommen. Du kannst die eingehenden Lieferungen anzeigen indem du die Maus über die jeweilige Ressource bewegst.\n\nIn diesem Fall ist es besser, Fabriken nahe beieinander zu platzieren oder schhnellere Routen zu bauen! Stattdessen kannst du auch Lieferzentren verwenden um Materialien in der Nähe zu lagern.",
     "french": "Parfois, le stockage peut rester vide pendant une longue période en attendant l'arrivée des ressources. Vous pouvez vérifier si des livraisons sont en attente en plaçant le curseur sur la ressource souhaitée.\n\nDans ces cas, il est préférable de rapprocher les usines ou de construire des itinéraires plus rapides !",
     "italian": "A volte il magazzino può rimanere vuoto a lungo mentre attende che le risorse arrivino. Puoi controllare se ci sono consegne pendenti posizionando il cursore sulla risorsa desiderata.\n\nIn questi casi, meglio posizionare le industrie più vicine tra loro o costruire strade più veloci!",
-	"chinese": "有时，仓库在等待资源到达时可能会空闲很长时间。你可以将光标悬停在所需的资源上，检查是否有待交付的资源。\n\n在这种情况下，最好把工厂放置在更近的地方，或者建造更快的路线！",
+    "chinese": "有时，仓库在等待资源到达时可能会空闲很长时间。你可以将光标悬停在所需的资源上，检查是否有待交付的资源。\n\n在这种情况下，最好把工厂放置在更近的地方，或者建造更快的路线！",
+    "thai": "บางครั้งที่เก็บข้อมูลอาจยังคงว่างเปล่าเป็นเวลานานในขณะที่รอทรัพยากรมาถึง คุณสามารถตรวจสอบการจัดส่งที่รอดำเนินการได้โดยเลื่อนเคอร์เซอร์ไปเหนือทรัพยากรที่ต้องการ\n\nในกรณีดังกล่าว จะเป็นการดีกว่าถ้าวางโรงงานไว้ใกล้กันหรือสร้างเส้นทางที่เร็วกว่า! หรือคุณสามารถใช้ศูนย์กระจายสินค้าเพื่อจัดเก็บทรัพยากรในบริเวณใกล้เคียงได้",
   },
   "gondolasTutorialTitle": {
     "english": "Gondolas",
@@ -292,6 +315,7 @@
     "italian": "Cabinovie",
     "turkish": "Gondollar",
     "chinese": "缆车",
+    "thai": "กระเช้าลอยฟ้า",
   },
   "gondolasTutorialParagraph": {
     "english": "Cargo gondolas can be used to easily transport resources up and down slopes.\n\nBuild the first gondola station with the cable car side facing the desired direction. The second gondola should face the first so that the cables form a straight path.",
@@ -299,6 +323,7 @@
     "french": "Les nacelles peuvent être utilisées pour transporter facilement des ressources en haut et en bas des pentes.\n\nConstruisez la première nacelle avec le côté du téléphérique orienté dans la direction souhaitée. La deuxième nacelle doit être orientée vers la première de manière à ce que les câbles forment une trajectoire droite.",
     "italian": "Le cabinovie possono essere utilizzate per trasportare agevolmente le risorse lungo le pendenze.\n\nCostruisci la prima gondola con il lato della funivia rivolto verso la direzione desiderata. La seconda gondola dovrà essere rivolta verso la prima, in modo che i cavi formino un percorso rettilineo.",
     "chinese": "货物缆车可以用来轻松地将资源运上或运下山坡。\n\n建造第一个缆车时，缆车的一侧要朝向所需的方向。第二个缆车应该朝向第一个缆车，这样缆绳就会形成一条",
+    "thai": "กระเช้าขนส่งสามารถใช้เพื่อขนส่งทรัพยากรขึ้นและลงทางลาดได้อย่างง่ายดาย\n\nสร้างสถานีกอนโดลาแห่งแรกโดยให้ด้านเคเบิลคาร์หันหน้าไปในทิศทางที่ต้องการ เรือกอนโดลาลำที่สองควรหันไปทางลำแรกเพื่อให้สายเคเบิลเป็นเส้นทางตรง",
   },
   "immigrationTutorialTitle": {
     "english": "Immigration",
@@ -307,6 +332,7 @@
     "italian": "Immigrazione",
     "turkish": "Göçmenlik",
     "chinese": "移民",
+    "thai": "การตรวจคนเข้าเมือง",
   },
   "immigrationTutorialParagraph": {
     "english": "You can check the immigration rate by clicking on the Spaceport. To increase the immigration rate, improve your habitats by meeting their requirements!\n\nPlease note: building multiple Spaceports does not increase the immigration rate. However, it may be a strategy to place them at different points on the map to distribute traffic to the habitats.",
@@ -314,6 +340,7 @@
     "french": "Vous pouvez vérifier le taux d'immigration en cliquant sur le port spatial. Pour augmenter le taux d'immigration, améliorez vos habitats en répondant à leurs exigences !\n\nRemarque : la construction de plusieurs spatioports n'augmente pas le taux d'immigration. Cependant, il peut être stratégique de les placer à différents endroits de la carte afin de répartir le trafic vers les habitats.",
     "italian": "Puoi vedere il tasso d’immigrazione cliccando sullo spazio porto. Per aumentare il tasso d’immigrazione, migliora i tuoi habitat soddisfandone i requisiti!\n\nNota bene: costruire più spazio porti non aumenta il tasso d’immigrazione; tuttavia può essere una strategia posizionarli in diversi punti della mappa per distribuire il traffico verso gli habitat.",
     "chinese": "你可以点击航空港查看移民率。要想提高移民率，请满足居住地的要求来改善居住地！\n\n请注意：建造多个航空港并不会提高移民率。但是，将它们放置在地图上的不同点来为栖息地分配流量可能是一种策略。",
+    "thai": "คุณสามารถตรวจสอบอัตราการอพยพได้โดยคลิกที่ ท่าเรืออวกาศ หากต้องการเพิ่มอัตราการอพยพ ให้ปรับปรุงแหล่งที่อยู่อาศัยของคุณโดยปฏิบัติตามข้อกำหนด!\n\nโปรดทราบ: การสร้างท่าเรืออวกาศหลายแห่งจะไม่เพิ่มอัตราการอพยพ อย่างไรก็ตาม อาจเป็นกลยุทธ์ที่จะวางไว้ที่จุดต่างๆ บนแผนที่เพื่อกระจายการจราจรไปยังแหล่งที่อยู่อาศัย",
   },
   "productionOverviewTutorialTitle": {
     "english": "Production overview",
@@ -322,6 +349,7 @@
     "italian": "Panoramica della produzione",
     "turkish": "Üretime genel bakış",
     "chinese": "生产概况",
+    "thai": "ภาพรวมการผลิต",
   },
   "productionOverviewTutorialParagraph": {
     "english": "Open the Production Overview panel located on the left side of the game screen.\n\nHere you can compare production and consumption. Adjust production per resource via the slider bars. This way, you can decrease the number of workers and reduce production as needed.\n\nHaving a slight overproduction is useful to fill up warehouses and always have a good supply in case of unforeseen events!",
@@ -329,6 +357,7 @@
     "french": "Ouvrez le panneau Vue d'ensemble de la production situé à gauche de l'écran de jeu.\n\nVous pouvez y comparer la production et la consommation. Ajustez la production par ressource à l'aide des barres de défilement. Vous pouvez ainsi diminuer le nombre de travailleurs et réduire la production si nécessaire.\n\nUne légère surproduction est utile pour remplir les entrepôts et toujours disposer d'un bon approvisionnement en cas d'événements imprévus !",
     "italian": "Apri il pannello Panoramica della produzione che si trova a sinistra della schermata di gioco.\n\nQui puoi comparare la produzione e i consumi. Aggiusta la produzione per risorsa tramite le barre di scorrimento. In questo modo, puoi diminuire il numero di lavoratori e ridurre la produzione secondo le tue necessità.\n\nAvere una leggera sovrapproduzione è utile per riempire i magazzini e avere sempre una buona scorta in caso di imprevisti!",
     "chinese": "打开位于游戏屏幕左侧的生产概览面板。\n\n在这里你可以比较生产量和消耗量。通过滑动条调整每种资源的产量。这样，你就可以根据需要减少工人数量，降低生产。\n\n稍微过量生产有助于填满仓库，并在发生意外情况时始终有充足的供应！",
+    "thai": "เปิดแผงภาพรวมการผลิตที่อยู่ทางด้านซ้ายของหน้าจอเกม\n\nคุณสามารถเปรียบเทียบการผลิตและการบริโภคได้ที่นี่ ปรับการผลิตต่อทรัพยากรผ่านแถบเลื่อน ด้วยวิธีนี้ คุณสามารถลดจำนวนคนงานและลดการผลิตได้ตามต้องการ\n\nการมีการผลิตมากเกินไปเล็กน้อยจะเป็นประโยชน์ในการเติมคลังสินค้าและมีอุปทานที่ดีเสมอในกรณีที่เกิดเหตุการณ์ที่ไม่คาดฝัน!",
   },
   "districtsTutorialTitle": {
     "english": "Districts",
@@ -337,6 +366,7 @@
     "italian": "Distretti",
     "turkish": "İlçeler",
     "chinese": "地区",
+    "thai": "แบ่งเขต",
   },
   // TODO-french
   // TODO-italian
@@ -346,6 +376,7 @@
     "french": "Pour que certains de vos bâtiments ne fournissent des ressources qu'à des industries spécifiques, vous pouvez utiliser des quartiers et relier les bâtiments souhaités entre eux.\n\nOuvrez le panneau Quartiers sur le côté gauche de l'écran. Pour créer le premier quartier, sélectionnez la largeur de pinceau souhaitée et peignez la zone située sous les bâtiments à partir desquels vous souhaitez exporter une ressource particulière. Ensuite, peignez la zone située sous les bâtiments à partir desquels vous voulez qu'ils importent la ressource.\n\nSélectionnez ensuite la ressource souhaitée dans le panneau Quartiers. Enfin, cliquez sur le quartier à exporter et faites glisser la flèche qui apparaît vers le quartier à importer.\n\nAinsi, les bâtiments du premier quartier ne seront exportés que vers les bâtiments du deuxième quartier. Vous pouvez également relier un quartier à lui-même en faisant glisser la flèche à l'intérieur de celui-ci !",
     "italian": "Per fare in modo che alcuni edifici consegnino le risorse solo a determinate industrie, puoi usare i Distretti e collegare gli edifici desiderati tra di loro. \n\nApri il pannello “Distretti”, sulla sinistra dello schermo. Per creare il primo distretto, seleziona l’ampiezza del pennello che desideri, e dipingi l’area sottostante agli edifici dai quali vuoi esportare una determinata risorsa. Dopodichè, dipingi l’area sottostante agli edifici che vuoi che la importino.\n\nOra seleziona la risorsa desiderata nel pannello “Distretti”. Infine, clicca sul distretto che deve esportare e trascina la freccia che apparirà fino al distretto che vuole importare.\n\nPuoi anche collegare un distretto con se stesso trascinando la freccia al suo interno!",
     "chinese": "要想让某些建筑只为特定行业提供资源，可以使用地区并将所需的建筑关联在一起。\n\n打开屏幕左侧的地区面板。要创建第一个区域，请选择所需的画笔宽度，并在要输出特定资源的建筑物下方区域涂画。然后，在你希望他们导入资源的建筑物下方绘制区域。\n\n现在在地区面板中选择所需的资源。最后，点击你需要导出的区域，然后将出现的箭头拖到你想要运输的区域。\n\n这样，第一个地区的建筑就只能运输到第二个地区的建筑！",
+    "thai": "เมื่อใช้เขต คุณสามารถจัดการการจัดส่งในเมืองของคุณได้\n\nเปิดแผงเขตทางด้านซ้ายของหน้าจอ หากต้องการสร้างเขตแรก ให้เลือกความกว้างของแปรงที่คุณต้องการ และทาสีพื้นที่ด้านล่างอาคารที่คุณต้องการส่งออกทรัพยากรเฉพาะ หลังจากนั้น ทาสีพื้นที่ด้านล่างอาคารที่คุณต้องการนำเข้า\n\nตอนนี้เลือกทรัพยากรที่ต้องการในแผงเขต สุดท้าย คลิกที่เขตที่คุณต้องการส่งออกแล้วลากลูกศรที่จะปรากฏในเขตที่คุณต้องการนำเข้า\n\nด้วยวิธีนี้ สิ่งปลูกสร้างในเขตแรกจะส่งออกไปยังอาคารในเขตที่สองเท่านั้น\n\nคุณ ยังสามารถเชื่อมโยงเขตเข้ากับตัวเองได้ด้วยการลากลูกศรที่อยู่ด้านใน!",
   },
   "powerTutorialTitle": {
     "english": "Power",
@@ -353,7 +384,8 @@
     "french": "Énergie",
     "italian": "Energia elettrica",
     "chinese": "电力",
-    "turkish": "Enerji"
+    "turkish": "Enerji",
+    "thai": "พลังงาน",
   },
   // TODO-french
   // TODO-italian
@@ -363,6 +395,7 @@
     "french": "L'électricité est essentielle au fonctionnement des bâtiments.\n\nLes poteaux électriques et les sous-stations sont les deux seuls moyens de diffuser l'électricité aux bâtiments environnants, et ils doivent être connectés à une ou plusieurs sources d'énergie.\n\nLes pôles ont un rayon d'action très réduit, mais en se connectant les uns aux autres, ils peuvent couvrir des zones très étendues.",
     "italian": "L’energia elettrica è indispensabile al funzionamento degli edifici.\n\nI pali elettrici e la power substation sono gli unici due modi per diffondere l’energia elettrica agli edifici circostanti, e vanno connessi a una o più fonti di energia. \n\nI pali hanno un raggio molto ridotto, ma connettendosi gli uni agli altri possono coprire aree molto vaste.",
     "chinese": "电力对建筑的运作至关重要。\n\n电线杆和变电站是向周围建筑供电的唯二的方式，它们必须与一个或多个电源相连。\n\n电线杆的半径很小，但通过相互连接，它们可以覆盖很大的区域。",
+    "thai": "ไฟฟ้าเป็นสิ่งสำคัญในการดำเนินงานของอาคาร\n\nคุณสามารถใช้เสาไฟฟ้าและสถานีไฟฟ้าย่อยเพื่อกระจายไฟฟ้าไปยังอาคารโดยรอบได้ โครงข่ายไฟฟ้าจะต้องเชื่อมต่อกับแหล่งพลังงานที่เพียงพอ\n\nเสามีรัศมีเล็กมาก แต่โดยการเชื่อมต่อกันเสาสามารถครอบคลุมพื้นที่ขนาดใหญ่มาก",
   },
   "powerSecondTutorialParagraph": {
     "english": "The set of energy sources connected together is called Power Network. When the power produced is not enough for the buildings that use it, you will have slowed production.",
@@ -370,6 +403,7 @@
     "french": "L'ensemble des sources d'énergie connectées entre elles est appelé réseau électrique. Lorsque l'énergie produite n'est pas suffisante pour les bâtiments qui l'utilisent, il y a ralentissement de la production.",
     "italian": "L’insieme delle fonti di energia connesse tra loro, è chiamato Rete Elettrica. Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
     "chinese": "连接在一起的能源被称为电力网络。当生产的电力不足以满足建筑的使用需求时，就会导致生产放缓。",
+    "thai": "ชุดแหล่งพลังงานที่เชื่อมต่อเข้าด้วยกันเรียกว่า เครือข่ายพลังงงาน เมื่อพลังงานที่ผลิตได้ไม่เพียงพอสำหรับอาคารที่ใช้งาน คุณจะผลิตได้ช้าลง",
   },
   "shapingTheRoadsTutorialTitle": {
     "english": "Shaping the roads",
@@ -377,7 +411,8 @@
     "french": "Façonner les routes",
     "italian": "Modellare le strade",
     "chinese": "塑造道路",
-    "turkish": "Yolları şekillendirmek"
+    "turkish": "Yolları şekillendirmek",
+    "thai": "การสร้างถนน",
   },
   // TODO-french
   // TODO-italian
@@ -387,35 +422,40 @@
     "french": "Vous pouvez façonner votre route comme vous le souhaitez en utilisant les icônes du panneau inférieur, ou en intervenant sur la route déjà construite.\n\nLorsque la grille est désactivée, vous pouvez décider d'ajuster les routes selon des angles de 90°, 135° et 180°, et d'adapter les longueurs à la taille de l'unité de jeu. Vous pouvez également décider de construire une route droite ou courbe, et vous pouvez toujours la modifier ultérieurement en cliquant sur le tronçon de route souhaité.\n\nVous pouvez également régler la hauteur de la route à l'aide des touches R et F !\n\nLes deux dernières icônes permettent d'inverser le sens d'une route à sens unique et de remplacer une route par une autre.s",
     "italian": "Puoi dare la forma desiderata alla tua strada utilizzando le icone nel pannello inferiore o intervenendo sulla strada già costruita.\n\nCon la griglia disattivata, puoi decidere di regolare le strade secondo angoli di 90°, 135° e 180° gradi, e di regolare le lunghezze adattandole alla dimensione dell’unità di misura del gioco. Puoi anche decidere se costruire una strada dritta o curva, e puoi sempre modificarla in seguito cliccando sul tratto di strada desiderato.\n\nLe ultime due icone servono per invertire la direzione di una strada a senso unico e per rimpiazzare una strada con un’altra.\n\nPuoi anche regolare l’altezza della strada tramite i tasti R e F.",
     "chinese": "在关闭网格的情况下，你可以决定按照90°、135°和180°度角调整道路，并根据游戏网格的大小调整长度。你还可以决定修建直路还是弯路，以后可以随时点击所需的路段进行更改。\n\n你还可以使用 R 和 F 键调整道路的高度！\n\n最后两个图标用于反转单行道的方向，以及用另一条道路替换一条道路。",
+    "thai": "คุณสามารถกำหนดรูปร่างถนนได้ตามที่คุณต้องการโดยใช้ไอคอนในแผงด้านล่าง หรือโดยการกำหนดค่าถนนที่สร้างไว้แล้ว\n\nเมื่อปิดตาราง คุณจะตัดสินใจปรับถนนได้ตาม 90°, 135° และ 180 องศา องศา และปรับความยาวให้ตรงกับขนาดของตัวเครื่องเกม คุณยังสามารถตัดสินใจได้ว่าจะสร้างถนนที่เป็นทางตรงหรือทางโค้ง และคุณสามารถเปลี่ยนได้ในภายหลังโดยคลิกที่ถนนที่ต้องการ\n\nคุณยังสามารถปรับความสูงของถนนได้โดยใช้ปุ่มลัด! ตามค่าเริ่มต้น ปุ่มเหล่านี้คือปุ่ม R และ F\n\nไอคอนสองอันสุดท้ายใช้เพื่อกลับทิศทางของถนนเดินรถทางเดียวและเพื่อแทนที่ถนนสายหนึ่งด้วยอีกถนนหนึ่ง",
   },
-    "distributionTutorialTitle": {
+  "distributionTutorialTitle": {
     "english": "Distribution centers",
     "german": "Verteilzentren",
     "french": "Centres de distribution",
     "italian": "Centri di distribuzione",
     "turkish": "Dağıtım merkezleri",
-	  "chinese": "配送中心",
+    "chinese": "配送中心",
+    "thai": "ศูนย์กระจายสินค้า",
   },
-    "distributionTutorialParagraph": {
+  "distributionTutorialParagraph": {
     "english": "These centers are key to managing resources effectively, as they procure a steady supply to industries. Use them to optimize resource management and keep your production chains running smoothly!\n\nThe collection center collects resources from surrounding industries, while the distribution center distributes them to surrounding industries. Click on the building and select the desired resource, then set the delivery radius and storage capacity.\n\nFor them to work, link the desired collection and distribution centers together via the building's information panel.\n\nWhen the demand for resources is exhausted, first, the distribution center storage will be filled, and then the collection center storage.",
     "german": "Verteilzentren sind der Schlüssel zu einem effektiven Ressourcenmanagement, den mit ihnen kannst du eine kontinuierliche Anlieferung sicherstellen. Lasse deine Produktionsketten rund laufen!\n\nDas Sammelzentrum sammelt Ressourcen von Fabriken in der Umgebung, während das Verteilzentrum die Ressourcen an die Fabriken in der Umgebung verteilt. Klicke auf eines der Zentren und wähle die gewünschte Resource aus und passe dann den Radius für Lieferungen und die Lagergröße an.\n\nDamit die Zentren zusammenarbeiten, musst du Sammelzentren und Verteilzentren verbinden, indem du den Plus-Knopf im Informationsfenster drückst.\n\nWenn die Nachfrage nach Ressourcen gesättigt ist, füllt sich erst das Lager des Verteilzentrums, dann das Lager des Sammelzentrums.",
     "french": "Ces centres sont essentiels à la gestion efficace des ressources, car ils assurent l'approvisionnement régulier des industries. Utilisez-les pour optimiser la gestion des ressources et assurer le bon fonctionnement de vos chaînes de production !\n\nLe centre de collecte recueille les ressources des industries environnantes, tandis que le centre de distribution les distribue aux industries environnantes. Cliquez sur le bâtiment et sélectionnez la ressource souhaitée, puis définissez le rayon d'action et la capacité de stockage.\n\nPour qu'ils fonctionnent, il faut relier les centres de collecte et de distribution souhaités via le panneau d'information du bâtiment.\n\nLorsque la demande de ressources est épuisée, le stockage du centre de distribution est d'abord rempli, puis celui du centre de collecte.",
     "italian": "Questi centri sono fondamentali per gestire le risorse in modo efficace, in quanto procurano una fornitura regolare alle industrie. Utilizzali per ottimizzare la gestione delle risorse e far funzionare le tua catene di produzione senza troppi intoppi!\n\nIl centro di raccolta raccoglie le risorse dalle industrie circostanti, mentre il centro di distribuzione le distribuisce alle industrie circostanti. Clicca sull'edificio e seleziona la risorsa desiderata, dopodiché stabilisci il raggio di azione e la capacità di stoccaggio.\n\nAffinché funzionino, collega tra loro i centri di raccolta e i centri di distribuzione desiderati tramite il pannello informativo dell'edificio.\n\nQuando la domanda di risorse si sarà esaurita, si riempirà dapprima il deposito del centro di distribuzione, e poi il deposito del centro di raccolta.",
-	  "chinese": "这些中心是有效管理资源的关键，因为它们为各行业提供稳定的供应。利用它们来优化资源管理，保持生产链顺利运作！\n\n收集中心从周围的工厂收集资源，而配送中心则将资源分配给周围的行业。点击建筑并选择所需的资源，然后设置运作半径和存储容量。\n\n为了让它们发挥作用，通过建筑的信息面板将所需的收集中心和配送中心连接在一起。\n\n当资源需求耗尽时，首先会填满配送中心的存储库存，然后再填满收集中心的存储库存。",
+    "chinese": "这些中心是有效管理资源的关键，因为它们为各行业提供稳定的供应。利用它们来优化资源管理，保持生产链顺利运作！\n\n收集中心从周围的工厂收集资源，而配送中心则将资源分配给周围的行业。点击建筑并选择所需的资源，然后设置运作半径和存储容量。\n\n为了让它们发挥作用，通过建筑的信息面板将所需的收集中心和配送中心连接在一起。\n\n当资源需求耗尽时，首先会填满配送中心的存储库存，然后再填满收集中心的存储库存。",
+    "thai": "ศูนย์เหล่านี้เป็นกุญแจสำคัญในการจัดการทรัพยากรอย่างมีประสิทธิภาพ เนื่องจากศูนย์เหล่านี้จัดหาอุปทานที่มั่นคงให้กับอุตสาหกรรม ใช้สิ่งเหล่านี้เพื่อเพิ่มประสิทธิภาพการจัดการทรัพยากรและทำให้ห่วงโซ่การผลิตของคุณทำงานได้อย่างราบรื่น!\n\nศูนย์รวบรวมรวบรวมทรัพยากรจากอุตสาหกรรมโดยรอบ ในขณะที่ศูนย์กระจายสินค้าจะกระจายทรัพยากรไปยังอุตสาหกรรมโดยรอบ คลิกที่อาคารและเลือกทรัพยากรที่ต้องการ จากนั้นตั้งค่ารัศมีการจัดส่งและความจุในการจัดเก็บ\n\nเพื่อให้สิ่งเหล่านั้นทำงานได้ ให้เชื่อมโยงศูนย์รวบรวมและกระจายสินค้าที่ต้องการเข้าด้วยกันผ่านแผงข้อมูลของอาคาร\n\nเมื่อมีความต้องการทรัพยากร หมดไปแล้ว ขั้นแรกให้เติมคลังศูนย์กระจายสินค้าให้เต็ม แล้วจึงเติมคลังศูนย์รวบรวม",
   },
-    "welcomeTutorialTitle": {
+  "welcomeTutorialTitle": {
     "english": "Welcome!",
     "german": "Willkommen",
     "french": "Bienvenue !",
     "italian": "Benvenuto/a!",
     "turkish": "Hoş geldin!",
-	  "chinese": "欢迎！",
+    "chinese": "欢迎！",
+    "thai": "ยินดีต้อนรับ!",
   },
-    "welcomeTutorialParagraph": {
+  "welcomeTutorialParagraph": {
     "english": "Welcome to the InfraSpace Encyclopedia!\n\nWithin these pages, you will find tutorials covering different aspects of the game, which will assist you step by step in building your city. Furthermore, you will discover some strategic advice on how to make the most of the tools at your disposal.\n\nDon't forget to consult the encyclopedia whenever you have questions or wish to delve deeper into the game.\n\nHappy playing!",
     "german": "Willkomen zur Enzylkopädie von InfraSpace!\n\nAuf diesen Seiten findest du Anleitungen für die verschiedenen Teile des Spiels, die dir dabei helfen, Schritt für Schritt deine Stadt aufzubauen. Außerdem findest du strategische Tips wie du aus den verfügbaren Funktionen das meiste rausholen kannst.\n\n Vergiss nicht die Enzylkopädie zu rate zu ziehen wenn du Fragen hast oder tiefer in das Spiel einsteigen willst\n\nFrohes Spielen!",
     "french": "Bienvenue dans l'encyclopédie d'InfraSpace !\n\nDans ces rubriques, vous trouverez des tutoriels couvrant différents aspects du jeu, qui vous aideront pas à pas à construire votre ville. Vous y trouverez également des conseils stratégiques pour tirer le meilleur parti des outils mis à votre disposition.\n\nN'oubliez pas de consulter l'encyclopédie chaque fois que vous avez des questions ou que vous souhaitez approfondir le jeu.\n\nBon jeu !",
     "italian": "Benvenuto/a nell'enciclopedia di InfraSpace!\n\nIn questi pannelli troverai tutorial riguardanti diversi aspetti del gioco, che ti aiuteranno passo a passo nella costruzione della tua città. Inoltre, troverai qualche consiglio strategico su come sfruttare al meglio gli strumenti a tua disposizione!\n\nNon dimenticare di consultare l'enciclopedia ogni volta che hai dubbi, o se vuoi approfondire la tua conoscenza del gioco.\n\nBuon divertimento!",
-	  "chinese": "欢迎来到InfraSpace百科全书！\n\n在这些面板中，你将找到涵盖游戏不同方面的教程，这将帮助你逐步建设城市。此外，你还会发现一些关于如何充分利用可用工具的策略建议。\n\n每当你有疑问或希望深入研究游戏时，请不要忘记查阅百科全书。\n\n祝您游戏愉快！",
+    "chinese": "欢迎来到InfraSpace百科全书！\n\n在这些面板中，你将找到涵盖游戏不同方面的教程，这将帮助你逐步建设城市。此外，你还会发现一些关于如何充分利用可用工具的策略建议。\n\n每当你有疑问或希望深入研究游戏时，请不要忘记查阅百科全书。\n\n祝您游戏愉快！",
+    "thai": "ยินดีต้อนรับสู่สารานุกรม InfraSpace\n\nภายในหน้าเหล่านี้ คุณจะพบกับบทช่วยสอนที่ครอบคลุมแง่มุมต่างๆ ของเกม ซึ่งจะช่วยคุณสร้างเมืองทีละขั้นตอน นอกจากนี้ คุณจะค้นพบคำแนะนำเชิงกลยุทธ์เกี่ยวกับวิธีการใช้เครื่องมือให้เกิดประโยชน์สูงสุด\n\nอย่าลืมอ่านสารานุกรมทุกครั้งที่คุณมีคำถามหรือต้องการเจาะลึกเข้าไปในเกม\n\nขอให้สนุกกับการเล่น !",
   },
 }
