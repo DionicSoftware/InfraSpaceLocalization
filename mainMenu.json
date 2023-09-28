@@ -4578,9 +4578,11 @@
     "graphicsPreset": {
       "english": "Graphics Preset",
 	  "chinese": "图像预设",
+	    "turkish": "Grafik Ön Ayarı",
     },
     "advancedGraphicsSettings": {
       "english": "Advanced Graphics Settings",
 	  "chinese": "高级图像设置",
+	    "turkish": "Gelişmiş Grafik Ayarları",
     },
 }
