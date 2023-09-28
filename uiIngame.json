@@ -4100,4 +4100,12 @@
 		"turkish": "Geri al",
 		"chinese": "恢复",
   	},
+	"requiredResearch": {
+		"english": "Required Research:",
+		"german": "Benötigte Forschung:",
+	},
+	"roadRailSpeed": {
+		"english": "Speed:",
+		"german": "Geschwindigkeit:",
+	},
 }
