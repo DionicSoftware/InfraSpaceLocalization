@@ -37,6 +37,10 @@ Créez une utopie extrasolaire à partir de rien ! Dans ce city builder de scien
 ### Turkish //TODO-Devs
 Sıfırdan bir güneş dışı verimlilik ütopyası yaratın! Bu bilim kurgu şehir kurma oyununda sorunsuz bir tedarik zinciri sağlamak için madencilik faaliyetlerine başlamanız, üretimi planlamanız ve ulaşım yollarını belirlemeniz gerekiyor.
 
+### Chinese //TODO-Devs
+从零开始创建一个太阳系外高效乌托邦！在这款科幻城市建造游戏中，你需要开始采矿作业、规划生产、铺设运输路线，以确保供应链畅通无阻。
+
+
 
 # Long Description - Trains, Pipes, and Cargo Lifts Section - RELEASE
 ***************************************
@@ -61,6 +65,12 @@ Trenler, Borular ve Kargo Asansörleri
 Karayolu ağınız çok yönlü olabilir, ancak her tip kaynak için doğru seçim bu olmayabilir - ya da en eğlenceli olanı. Büyük miktarlarda mal taşımak için raylar ve tren istasyonları inşa edin. Şehrin her yerine sıvı ve gaz pompalamak için yer altı boruları inşa edin. En yüksek dağ zirvelerine ulaşmak ve en engebeli arazileri geçmek için kargo asansörleri inşa edin.
 
 
+### Chinese //TODO-Devs
+列车、管道和货物缆车
+
+你的公路网是万能的，但只有公路网是万万不能的 - 并非每种资源都适合用公路来运输。建造铁轨和列车站，运输大量货物。建造地下管道，将液体和气体输送到城市的各个角落。建造货运缆车，到达最高的山顶，穿越最崎岖的地形。
+
+
 # Long Description - Terraform the Planet Section - RELEASE
 ***************************************
 
@@ -82,6 +92,12 @@ Vivre sur une planète désertique peut être difficile, mais vous avez les yeux
 Gezegeni yaşanabilir hale getirin
 
 Çölde bir gezegende yaşamak zor olabilir ama gözlerinizi şu hayale dikmişsiniz: Gezegeni yaşanabilir hale getirin, çölü yeşil yapın ve atmosferi solunabilir hale getirin. Bu çok büyük miktarda kaynak gerektiren çok büyük bir girişim. Umutsuzluğa kapılmayın, çünkü bu projeye başladığınızda bu hayali gerçeğe dönüştürmek için gerekli tüm teknolojiye, altyapıya ve insan gücüne sahip olacaksınız!
+
+### Chinese //TODO-Devs
+环境改造
+
+生活在沙漠星球上可能会很艰苦 - 但你的目光已投向梦想：改造环境，让沙漠变绿，让大气适合呼吸。这是一项巨大的工程，需要大量的资源。不要绝望，因为当你开始这个项目时，你已经拥有了实现这个梦想所需的所有技术、基础设施和人力！
+
 
 # Short Description OLD
 *******************
