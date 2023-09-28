@@ -13,7 +13,7 @@
 	},
 	"introCinematic_inTheYear2351": {
 		"english": "In the year 2351, scientists created the first warp drive, kicking off a race for the stars.",
-		"german": "Im Jahr 2351 erfunden Wissenschaftler den erste Warp-Antrieb - und starteten ein Rennen zu den Sternen.",
+		"german": "Im Jahr 2351 erfanden Wissenschaftler den erste Warp-Antrieb - und starteten ein Rennen zu den Sternen.",
 		"french": "En 2351, des scientifiques ont créé le premier moteur à distorsion, donnant ainsi le coup d'envoi d'une course aux étoiles.",
 		"italian": "Nell'anno 2351, gli scienziati hanno inventato il primo Warp Drive, dando inizio a una corsa alle stelle.",
 		"japanese": "2351年、科学者は初のワープ航法を考案した。 これにより、星々を巡る競争が始まった。",
@@ -49,7 +49,7 @@
 	},
 	"introCinematic_thePassengerShipAntares": {
 		"english": "The passenger ship Antares was carrying thousands of colonists when a pressure valve overheated and failed,\nchanging the destination of the warp jump.",
-		"german": "Das Passagierschiff Antaras trug tausende Kolonisten als ein Ventil überhitzte und zusammenbrach.\nDabei änderte sich das Ziel des Warp-Sprungs.",
+		"german": "Das Passagierschiff Antaras trug tausende Kolonisten, als ein Ventil überhitzte und zusammenbrach.\nDabei änderte sich das Ziel des Warp-Sprungs.",
 		"french": "Le vaisseau Antares transportait des milliers de colons lorsqu'une valve de pression a surchauffé et s'est rompue, changeant la destination du saut de distorsion.",
 		"italian": "La navicella Antares stava trasportando migliaia di coloni, quando una valvola a pressione si è surriscaldata e ha ceduto,\ncambiando la destinazione del warp jump.",
 		"japanese": "旅客船アンタレスは数千人の入植者を乗せていた。\nしかし、圧力バルブが過熱・故障し、ワープの目的地が変更されてしまった。",
@@ -121,7 +121,7 @@
 	},
 	"introCinematic_itWasHumanIngenuity": {
 		"english": "It was human ingenuity that got them this far.\nAnd to continue on this journey, they have to rely on it once more.",
-		"german": "Es war menschlicher Einflussreichtum, der sie so weit gebracht hatte.\nUnd jetzt brauchen sie ihn nochmal.",
+		"german": "Es war menschlicher Einfallsreichtum, der sie so weit gebracht hatte.\nUnd jetzt brauchen sie ihn nochmal.",
 		"french": "C'est l'ingéniosité humaine qui les a conduits jusqu'ici.\nEt pour continuer ce voyage, ils doivent s'en remettre une fois de plus à elle.",
 		"italian": "È stato l'ingegno umano che li ha portati così lontano.\nPer continuare questo viaggio, dovranno contare su di esso ancora una volta.",
 		"japanese": "彼らをこの地に到達させたのは人類の創意工夫だった。\nそして、この旅を続けるために今一度それに頼る必要がある。",

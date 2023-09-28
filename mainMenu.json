@@ -4355,20 +4355,23 @@
 		"chinese": "上传",
     },
     "gameCrashTitle": {
-      	"english": "Oh No! Your Game Has Crashed",
+      	"english": "Oh no! Your Game Has Crashed",
+      	"german": "Ups! Dein Spiel ist abgestürzt",
 	  	"french": "Oh non ! Votre partie a planté",
 	  	"turkish": "Hayır! Oyununuz Çöktü",
 	  	"thai":"ไม่นะ! เกมของคุณขัดข้อง",
 		"chinese": "哦不！你的游戏崩溃了",
     },
     "gameCrashDesc": {
-      	"english": "Don't worry we have saved your game in \"Crash-Save\".sav\n\nWe apologize for the crash, we are working on a fix. \n\nIt would mean a lot to us if you could help us by sending us your broken save (also \"Crash-Save\".sav), player.log, player-prev.log to daniel@dionicsoftware.com.\n\nYou can find the saves and logs by going to options -> open saves folder or you can click on the first button:",
-	  	"french": "Ne vous inquiétez pas, nous avons sauvegardé votre partie dans \"Crash-Save\".sav\n\nNous nous excusons pour le plantage, nous travaillons sur un correctif.\n\nCela signifierait beaucoup pour nous si vous pouviez nous aider en nous envoyant votre sauvegarde endommagée (également \"Crash-Save\".sav), player.log, player-prev.log à daniel@dionicsoftware.com.\n\nVous pouvez trouver les sauvegardes et les logs en allant dans options -> ouvrir le dossier de sauvegarde ou en cliquant sur le premier bouton :",
-	  	"thai":"ไม่ต้องห่วงนะ เราได้บันทึกเกมของคุณไว้ใน \"Crash-Save\".sav\n\nเราต้องขออภัยสำหรับความผิดพลาดครั้งนี้ด้วย เรากำลังดำเนินการเพื่อแก้ไข \n\nมันจะมีความหมายมากสำหรับเรามากหากคุณช่วยเราด้วยการส่งไฟล์บันทึกข้อผิดพลาดนี้ (เช่น \"Crash-Save\".sav), player.log, player-prev.log มาที่ daniel@dionicsoftware.com\n\nคุณสามารถค้นหาไฟล์บันทึกข้อผิดพลาดและบันทึกข้อผิดพลาดได้โดยไปที่ตัวเลือก -> เปิดโฟลเดอร์บันทึก หรือคุณสามารถคลิกที่ปุ่มแรกได้:",
-		"chinese": "别担心，我们已经把你的游戏保存在了 \"Crash-Save\".sav 中，\n\n我们对游戏崩溃表示歉意，我们正在努力修复。\n\n如果你能将你的崩溃存档（也就是\"Crash-Save\".savv）、player.log、player-prev.log 发送到 daniel@dionicsoftware.com 邮箱，这将对我们意义重大。\n\n你可以通过设置 -> 打开存档文件夹或点击第一个按钮找到存档和日志文件：",
+      	"english": "Don't worry we have saved your game in \"Crash-Save\".sav\n\nWe apologize for the crash, we are working on a fix.\n\nIt would mean a lot to us if you could help us by sending us your broken save, \"Crash-Save\".sav, and the files Player.log and Player-prev.log to support@dionicsoftware.com.\n\nYou can find the saves and logs by going to options -> open saves folder or you can click on the first button:",
+      	"german": "Keine Sorge, wir haben dein Spiel gespeichert als \"Crash-Save\".sav\n\nWir bitten um Entschuldigung für den Crash, wir arbeiten an einer Lösung.\n\nEs wäre super, wenn du uns dabei helfen könntest indem du uns deinen kaputten Speicherstand, \"Crash-Save\".sav und die Dateien Player.log und Player-prev.log an support@dionicsoftware.com schicken könntest.\n\nDu findest die Dateien in Einstellungen -> Spielstände oder mit dem Klick auf den ersten Knopf:",
+	  	"french": "Ne vous inquiétez pas, nous avons sauvegardé votre partie dans \"Crash-Save\".sav\n\nNous nous excusons pour le plantage, nous travaillons sur un correctif.\n\nCela signifierait beaucoup pour nous si vous pouviez nous aider en nous envoyant votre sauvegarde endommagée (également \"Crash-Save\".sav), player.log, player-prev.log à support@dionicsoftware.com.\n\nVous pouvez trouver les sauvegardes et les logs en allant dans options -> ouvrir le dossier de sauvegarde ou en cliquant sur le premier bouton :",
+	  	"thai":"ไม่ต้องห่วงนะ เราได้บันทึกเกมของคุณไว้ใน \"Crash-Save\".sav\n\nเราต้องขออภัยสำหรับความผิดพลาดครั้งนี้ด้วย เรากำลังดำเนินการเพื่อแก้ไข \n\nมันจะมีความหมายมากสำหรับเรามากหากคุณช่วยเราด้วยการส่งไฟล์บันทึกข้อผิดพลาดนี้ (เช่น \"Crash-Save\".sav), player.log, player-prev.log มาที่ support@dionicsoftware.com\n\nคุณสามารถค้นหาไฟล์บันทึกข้อผิดพลาดและบันทึกข้อผิดพลาดได้โดยไปที่ตัวเลือก -> เปิดโฟลเดอร์บันทึก หรือคุณสามารถคลิกที่ปุ่มแรกได้:",
+		"chinese": "别担心，我们已经把你的游戏保存在了 \"Crash-Save\".sav 中，\n\n我们对游戏崩溃表示歉意，我们正在努力修复。\n\n如果你能将你的崩溃存档（也就是\"Crash-Save\".savv）、player.log、player-prev.log 发送到 support@dionicsoftware.com 邮箱，这将对我们意义重大。\n\n你可以通过设置 -> 打开存档文件夹或点击第一个按钮找到存档和日志文件：",
 	},
 	"openSaveFolder": {
       	"english": "Open Save Folder",
+      	"german": "Öffne Speicherstände",
 	  	"french": "Ouvrir le dossier de sauvegarde",
 	  	"turkish": "Kaydetme Klasörünü Aç",
 	  	"thai":"เปิดโฟลเดอร์บันทึก",
@@ -4376,6 +4379,7 @@
     },
   	"achievementStatus_title": {
     	"english": "Achievement Status",
+    	"german": "Staus von Herausfoderungen",
 		"french": "Statut des succès",
 		"italian": "Achievement Status",
 		"turkish": "Başarı Durumu",
@@ -4383,6 +4387,7 @@
   	},
   	"achievementStatus_lockedDescription": {
     	"english": "Achievements are disabled due to the following reasons:",
+    	"german": "Herausforderungen sind aus folgenden Gründen deaktiviert:",
 		"french": "Les succès sont désactivés pour les raisons suivantes :",
 		"italian": "Gli Achievement sono disabilitati per le seguenti ragioni:",
 		"turkish": "Başarılar aşağıdaki nedenlerden dolayı devre dışı bırakıldı:",
@@ -4390,6 +4395,7 @@
   	},
   	"achievementStatus_unlockableDescription": {
     	"english": "Achievements are enabled.",
+    	"german": "Herausforderungen sind aktiviert.",
 		"french": "Les succès sont activés.",
 		"italian": "Gli achievements sono abilitati.",
 		"turkish": "Başarılar etkinleştirildi.",
@@ -4397,6 +4403,7 @@
   	},
   	"achievementStatus_mods": {
     	"english": "Mods",
+    	"german": "Mods",
 		"french": "Mods",
 		"italian": "Mods",
 		"turkish": "Modlar",
@@ -4404,6 +4411,7 @@
   	},
   	"achievementStatus_creativeSettings": {
     	"english": "One or more creative mode settings are active",
+    	"german": "Es sind eine oder mehrere Kreativ-Modus Optionen aktiv",
 		"french": "Un ou plusieurs réglages du mode créatif sont actifs",
 		"italian": "Una o più impostazioni attive per la modalità creativa",
 		"turkish": "Bir veya daha fazla yaratıcı mod ayarı etkin",
@@ -4411,6 +4419,7 @@
   	},
   	"achievementStatus_modifiedSettings": {
     	"english": "One or more settings have been changed during the game",
+    	"german": "Eine oder mehrere Einstellungen wurden während dem Spiel geändert",
 		"french": "Un ou plusieurs paramètres ont été modifiés pendant le jeu",
 		"italian": "Una o più impostazioni sono state cambiate durante la partita",
 		"turkish": "Oyun sırasında bir veya daha fazla ayar değiştirildi",
@@ -4418,20 +4427,31 @@
   	},
   	"achievementStatus_cheats": {
     	"english": "Cheats",
+    	"german": "Cheats",
 		"french": "Triche",
 		"italian": "Cheats",
 		"turkish": "Hileler",
 		"chinese": "作弊",
   	},
+  	// TODO-french
+  	// TODO-italian
+  	// TODO-chinese
+  	// TODO-turkish
   	"mapSelect": {
-    	"english": "Choose a map",
+    	"english": "Choose a Landing Spot",
+    	"german": "Wähle einen Landeplatz",
 		"french": "Choisir une carte",
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
   	},
+  	// TODO-french
+  	// TODO-italian
+  	// TODO-chinese
+  	// TODO-turkish
   	"mapSelection_title": {
-    	"english": "Choose a map",
+    	"english": "Choose a Landing Spot",
+    	"german": "Wähle einen Landeplatz",
 		"french": "Choisir une carte",
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
@@ -4439,6 +4459,7 @@
 	},
   	"select": {
     	"english": "Select",
+    	"german": "Auswählen",
 		"french": "Sélectionner",
 		"italian": "Seleziona",
 		"chinese": "选择",
@@ -4454,7 +4475,7 @@
   	},
   	"level0_desc": {
     	"english": "A landing spot characterized by a mix between wide open areas and mountainous terrain on the edges.",
-		"german": "Eine Landeplatz mit einer Mischung aus weiten Flächen und bergigem Terrain an den Rändern",
+		"german": "Ein Landeplatz mit einer Mischung aus weiten Flächen und bergigem Terrain an den Rändern.",
 		"french": "Un lieu d'atterrissage caractérisé par un mélange de vastes zones ouvertes et de terrains montagneux sur les bords.",
 		"chinese": "着陆区的特点是广阔的开放区域和边缘的山区地形的混合。",
   	},
@@ -4475,117 +4496,137 @@
   	},
     "graphicsSettings": {
       "english": "Graphics Settings",
+      "german": "Grafikeinstellungen",
 	  "french": "Paramètres graphiques",
 	  "turkish": "Grafik Ayarları",
 	  "chinese": "图像设置",
     },
     "preset": {
       "english": "Preset",
+      "german": "Voreinstellungen",
 	  "french": "Prédéfini",
 	  "turkish": "Ön ayar",
 	  "chinese": "预设",
     },
     "antiAliasing": {
-      "english": "Anti-Aliasing",
+      "english": "Antialiasing",
+      "german": "Kantenglättung",
 	  "french": "Anticrénelage",
 	  "turkish": "Kenar Yumuşatma",
 	  "chinese": "抗锯齿",
     },
     "shadowSettings": {
       "english": "Shadow Settings",
+      "german": "Schatteneinstellungen",
 	  "french": "Paramètres des ombres",
 	  "turkish": "Gölge Ayarları",
 	  "chinese": "阴影设置",
     },
     "shadows": {
       "english": "Shadows",
+      "german": "Schatten",
 	  "french": "Ombres",
 	  "turkish": "Gölgeler",
 	  "chinese": "阴影",
     },
     "shadowDistance": {
       "english": "Shadow Distance",
+      "german": "Schattendistanz",
 	  "french": "Distance des ombres",
 	  "turkish": "Gölge Mesafesi",
 	  "chinese": "阴影距离",
     },
     "shadowResolution": {
       "english": "Shadow Resolution",
+      "german": "Schattenauflösung",
 	  "french": "Résolution des ombres",
 	  "turkish": "Gölge Çözünürlüğü",
 	  "chinese": "阴影分辨率",
     },
     "particles": {
       "english": "Particles",
+      "german": "Partikel",
 	  "french": "Particules",
 	  "turkish": "Parçacıklar",
 	  "chinese": "粒子",
     },
     "animations": {
       "english": "Animations",
+      "german": "Animationen",
     },
     "screenSettings": {
       "english": "Screen Settings",
+      "german": "Bildschirm",
 	  "french": "Réglages de l'écran",
 	  "turkish": "Ekran Ayarları",
 	  "chinese": "屏幕设置",
     },
     "grass": {
       "english": "Grass",
+      "german": "Gras",
 	  "french": "Herbe",
 	  "turkish": "Çimen",
 	  "chinese": "草地",
     },
     "lod": {
       "english": "Level of Detail",
+      "german": "Detail",
 	  "french": "Niveau de détail",
 	  "turkish": "Ayrıntı seviyesi",
 	  "chinese": "精细程度",
     },
     "terrainLOD": {
       "english": "Terrain's Level of Detail",
+      "german": "Terrainauflösung",
 	  "french": "Niveau de détail du terrain",
 	  "turkish": "Arazinin Ayrıntı seviyesi",
 	  "chinese": "地形的精细程度",
     },
     "otherSettings": {
       "english": "Other Settings",
+      "german": "Sonstige Einstellungen",
 	  "french": "Autres paramètres",
 	  "turkish": "Diğer ayarlar",
 	  "chinese": "其他设置",
     },
-    "custom": {
+    "custom": { // personalized
       "english": "Custom",
+      "german": "Personalisiert",
 	  "french": "Personnalisé",
 	  "turkish": "Gelenek",
 	  "chinese": "自定义",
     },
     "textureResolution": {
       "english": "Texture Resolution",
+      "german": "Texturauflösung",
 	  "french": "Résolution des textures",
 	  "turkish": "Texture Resolution",
 	  "chinese": "纹理分辨率",
     },
     "overallQuality": {
       "english": "Overall Quality",
+      "german": "Gesamtqualität",
 	  "french": "Qualité globale",
 	  "turkish": "Genel Kalite",
 	  "chinese": "总体质量",
     },
     "graphicsQualityVeryLow": {
       "english": "Very Low",
+      "german": "Sehr niedrig",
 	  "french": "Très faible",
 	  "turkish": "Çok düşük",
 	  "chinese": "极低",
     },
     "graphicsPreset": {
       "english": "Graphics Preset",
+      "german": "Grafikvoreinstellung",
 	  "chinese": "图像预设",
 	    "turkish": "Grafik Ön Ayarı",
     },
-    "advancedGraphicsSettings": {
+    "advancedGraphicsSettings": { // "advanced" or "more", don't make it too long
       "english": "Advanced Graphics Settings",
+      "german": "Weitere Grafikoptionen",
 	  "chinese": "高级图像设置",
-	    "turkish": "Gelişmiş Grafik Ayarları",
+	  "turkish": "Gelişmiş Grafik Ayarları",
     },
 }

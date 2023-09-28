@@ -203,6 +203,7 @@
 	},
 	"message_storyTutorialDoneDesc": {
 		"english": "Congratulations!\n\nYou have completed the tutorial, but there is still a lot to build. Roll up your sleeves: your adventure begins now!",
+		"german": "Glückwunsch!\"\"Du hast die Einführung abgeschlossen, aber es gibt noch viel zu tun. Krempel die Ärmel hoch: Dein Abenteuer beginnt jetzt!",
 		"french": "Félicitations !\n\nVous avez terminé le tutoriel, mais il reste encore beaucoup à construire. Retroussez vos manches : votre aventure commence maintenant !",
 		"italian": "Congratulazioni!\n\nHai portato a termine il tutorial, ma c'è ancora tanto da costruire. Rimboccati le maniche: la tua avventura inizia adesso!",
 		"chinese": "恭喜！\n\n你完成了教程，但这里依然有很多东西需要去建造。做好准备：你的冒险正式开始！",
@@ -1107,6 +1108,7 @@
 	},
   	"tutorialMessage_research_title": {
     	"english": "Research",
+    	"german": "Forschung",
 		"french": "Recherche",
 	  	"thai": "วิจัย",
 	  	"turkish": "Araştırma",
@@ -1114,6 +1116,7 @@
   	},
   	"tutorialMessage_research_desc": {
     	"english": "Press this button to open the Tech-Tree.",
+      	"german": "Klicke auf diesen Knopf um den Forschungsbaum zu öffnen.",
 		"french": "Appuyez sur ce bouton pour ouvrir l'arbre technologique.",
 	  	"thai": "กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
 	  	"turkish": "Teknoloji Ağacını açmak için bu düğmeye basın",
@@ -1121,12 +1124,14 @@
   	},
   	"tutorialMessage_trains_title": {
     	"english": "Trains Panel",
+    	"german": "Zugübersicht",
 		"french": "Menu Trains",
 	  	"turkish": "Tren Paneli",
 		"chinese": "列车面板",
   	},
   	"tutorialMessage_trains_desc": {
     	"english": "Press this button to open the Trains Panel.",
+    	"german": "Klicke auf diesen Knopf um die Zugübersicht zu öffnen.",
 		"french": "Appuyez sur ce bouton pour ouvrir le Menu Trains.",
 	  	"turkish": "Tren Panelini açmak için bu düğmeye basın",
 		"chinese": "按此按钮打开列车面板。",

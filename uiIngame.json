@@ -4052,6 +4052,7 @@
 	},
   	"noSpaceshipPartSelected": {
     	"english": "No Spaceship Part selected",
+    	"german": "Kein Raumschiffteil ausgewählt",
 		"french": "Pas de partie du vaisseau spatial sélectionnée",
 	  	"thai": "ยังไม่ได้เลือกชิ้นส่วนยานอวกาศ",
 	  	"turkish": "Uzay Gemisi Parçası Seçilmedi",
@@ -4060,6 +4061,7 @@
   	},
   	"tutorial": {
     	"english": "Tutorial",
+    	"german": "Anleitung",
 		"french": "Tutoriel",
 	  	"turkish": "Öğretici",
 		"chinese": "教程",
@@ -4067,6 +4069,7 @@
   	},
   	"trafficFlowTitle": {
     	"english": "Traffic Flow",
+    	"german": "Verkehrsfluss",
 		"french": "Flux de trafic",
 	  	"turkish": "Trafik Akışı",
 		"chinese": "最近使用",
@@ -4074,6 +4077,7 @@
   	},
   	"trafficFlowDesc": {
     	"english": "This value shows the flow of the traffic. The higher, the better!",
+    	"german": "Dieser Wert zeigt den Verkehrsfluss an. Je höher, desto besser!",
 		"french": "Cette valeur indique la fluidité du trafic, plus elle est élevée, mieux c'est.",
 	  	"turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
 		"chinese": "该值显示车辆流量，越高越好",
@@ -4081,6 +4085,7 @@
     },
   	"settingsNotice_title": {
     	"english": "Warning!",
+    	"german": "Achtung!",
 		"french": "Attention !",
 		"italian": "Attenzione!",
 		"turkish": "Uyarı!",
@@ -4088,6 +4093,7 @@
   	},
   	"settingsNotice_desc": {
     	"english": "By changing these settings, Achievements will be permanently disabled for the entire game. Do you want to proceed?",
+    	"german": "Wenn du diese Einstellungen änderst, werden Herausforderungen für dieses Spiel permanent deaktiviert. Willst du fortfahren?",
 		"french": "En modifiant ces paramètres, les succès seront définitivement désactivés pour l'ensemble du jeu. Voulez-vous continuer ?",
 		"italian": "Cambiando queste impostazioni, gli Achievements saranno disabilitati in modo permanente per l'intera partita. Vuoi procedere?",
 		"turkish": "Bu ayarları değiştirdiğinizde Başarılar oyunun tamamında kalıcı olarak devre dışı bırakılacaktır. Devam etmek istiyor musunuz?",
@@ -4095,6 +4101,7 @@
   	},
   	"revertSettings": {
     	"english": "Revert",
+    	"german": "Abbrechen",
 		"french": "Annuler",
 		"italian": "Ripristina",
 		"turkish": "Geri al",
