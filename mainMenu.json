@@ -1481,7 +1481,7 @@
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
-		"german": "Tutorials Zurücksetzen",
+		"german": "Tutorials zurücksetzen",
 		"french": "Réinitialiser les tutoriels connus",
 		"dutch": "Tutorials resetten",
 		"spanish": "Saltar Tutoriales",
@@ -3952,7 +3952,7 @@
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
-		"german": "Beeinflusst, wie viele Produkte Bürger verbrauchen.\nJe höher die Schwierigkeit, desto besser musst du dich um deine Wirtschaft kümmern.",
+		"german": "Beeinflusst, wie viele Produkte von Bürgern verbraucht werden.\nJe höher die Schwierigkeit, desto besser musst du dich um deine Wirtschaft kümmern.",
 		"french": "Contrôle le nombre de produits dont les citoyens ont besoin.\nPlus la difficulté est élevée, mieux vous devez gérer votre économie.",
 		"dutch": "Bepaald hoeveel producten uw inwoners nodig hebben.\nHoe hoger de moeilijkheidsgraad, hoe beter u uw stad moet beheren.",
 		"italian": "Controlla il numero di prodotti di cui i cittadini hanno bisogno. \nPiù è alta la difficoltà, più dovrai gestire al meglio la tua economia.",
@@ -4004,7 +4004,7 @@
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
-		"german": "Ändert wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto weniger Objekte können auf einmal transportiert werden.",
+		"german": "Ändert, wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto weniger Objekte können auf einmal transportiert werden.",
 		"french": "Contrôle le nombre d'objets que les véhicules peuvent transporter.\nPlus la difficulté est élevée, moins il est possible de transporter d'objets à la fois.",
 		"dutch": "Bepaald hoeveel artikelen uw voertuigen kunnen transporteren.\nHoe hoger de moeilijkheidsgraad hoe minder artikelen in een keer vervoerd kunnen worden.",
 		"italian": "Controlla quanti oggetti possono essere trasportati dai veicoli. \nPiù è alta la difficoltà, meno oggetti potranno essere trasportati alla volta.",
