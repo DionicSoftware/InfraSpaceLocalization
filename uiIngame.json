@@ -4114,10 +4114,12 @@
 		"english": "Required Research:",
 		"german": "Benötigte Forschung:",
 		"thai": "การวิจัยที่จำเป็น:",
+		"chinese": "所需研究：",
 	},
 	"roadRailSpeed": {
 		"english": "Speed:",
 		"german": "Geschwindigkeit:",
 		"thai": "ความเร็ว:",
+		"chinese": "速度：",
 	},
 }

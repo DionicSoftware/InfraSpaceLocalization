@@ -4573,7 +4573,8 @@
 	"animations": {
 		"english": "Animations",
 		"german": "Animationen",
-		"thai": "ภาพเคลื่อนไหว"
+		"thai": "ภาพเคลื่อนไหว",
+		"chinese": "动画",
 	},
 	"screenSettings": {
 		"english": "Screen Settings",
@@ -4650,6 +4651,7 @@
 	"graphicsQualityVeryHigh": {
 		"english": "Very High",
 		"german": "Sehr hoch",
+		"chinese": "极高",
 	},
 	"graphicsPreset": {
 		"english": "Graphics Preset",
