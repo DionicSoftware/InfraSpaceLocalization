@@ -4,24 +4,28 @@
     "french": "C'est l'heure du forage !",
     "turkish": "Sondaj zamanı!",
     "thai": "ถึงเวลาเจาะ!":,
+    "czech": "Doba vrtání!",
   },
   "drillingTime_Desc": {
     "english": "Built the Colossal Adamantine Mine.",
     "french": "Construire la foreuse colossale d'adamantine.",
     "turkish": "Devasa Adamantine Madeni'ni inşa etti.",
     "thai": "สร้างเหมืองอดาแมนไทน์ขนาดมหึมา",
+    "czech": "Postavil jsi kolosální Adamantinský důl.",
   },
   "futureNow_Title": {
     "english": "The future is now",
     "french": "Le futur, c'est maintenant",
     "turkish": "Gelecek şimdi",
     "thai": "อนาคตคือตอนนี้",
+    "czech": "Budoucnost je teď",
   },
   "futureNow_Desc": {
     "english": "Build the Magnetic Field Generator.",
     "french": "Construire le générateur de champ magnétique.",
     "turkish": "Manyetik Alan Jeneratörünü oluşturun.",
     "thai": "สร้างเครื่องกำเนิดสนามแม่เหล็ก",
+    "czech": "Sestavte generátor magnetického pole.",
   },
   "reigniteEngine_Title": {
     "english": "Reignite the engine",
