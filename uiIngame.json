@@ -4115,11 +4115,13 @@
 		"german": "Benötigte Forschung:",
 		"thai": "การวิจัยที่จำเป็น:",
 		"chinese": "所需研究：",
+		"turkish": "Gerekli Araştırma:",
 	},
 	"roadRailSpeed": {
 		"english": "Speed:",
 		"german": "Geschwindigkeit:",
 		"thai": "ความเร็ว:",
 		"chinese": "速度：",
+		"turkish": "Hız:",
 	},
 }
