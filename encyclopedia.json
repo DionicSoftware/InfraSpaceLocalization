@@ -474,7 +474,7 @@
 ",
     "turkish": "",
     "chinese": "",
-    "thai": "การซ่อมยานอวกาศ Antares จะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\"",
+    "thai": "การซ่อมยานอวกาศอันทาเรสจะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\"",
   },
   "spaceshipRepairSecondTutorialParagraph": {
     "english": "To select a repair, open the Antares menu at the top left of the screen, clicking on the spaceship icon. Each repair will need many specific resources and will offer a bonus when completed. Select the one you want to start with and click on \"Repair\".",
@@ -483,7 +483,7 @@
     "italian": "Per selezionare una riparazione, apri il menu di Antares in alto a sinistra dello schermo, cliccando sull'icona della nave spaziale. Ogni riparazione richiederà diverse specifiche risorse e offrirà un bonus una volta completata. Seleziona quella con cui desideri iniziare e clicca su \"Ripara\"",
     "turkish": "",
     "chinese": "",
-    "thai": "หากต้องการเลือกการซ่อมแซม ให้เปิดเมนู Antares ที่ด้านซ้ายบนของหน้าจอ โดยคลิกที่ไอคอนยานอวกาศ การซ่อมแซมแต่ละครั้งจะต้องใช้ทรัพยากรเฉพาะจำนวนมาก และจะมอบโบนัสเมื่อเสร็จสิ้น เลือกอันที่คุณต้องการเริ่มต้นและคลิกที่ \"ซ่อมแซม\"",
+    "thai": "หากต้องการเลือกการซ่อมแซม ให้เปิดเมนูอันทาเรสที่ด้านซ้ายบนของหน้าจอ โดยคลิกที่ไอคอนยานอวกาศ การซ่อมแซมแต่ละครั้งจะต้องใช้ทรัพยากรเฉพาะจำนวนมาก และจะมอบโบนัสเมื่อเสร็จสิ้น เลือกอันที่คุณต้องการเริ่มต้นและคลิกที่ \"ซ่อมแซม\"",
   },
   "spaceshipRepairThirdTutorialParagraph": {
     "english": "Once the repair is selected, the Spaceship Construction Facility will request the necessary resources to ship them to Antares.\n\nNote: building multiple Spaceship Construction Facilities does not allow you to select multiple repairs at once.",
@@ -492,7 +492,7 @@
     "italian": "Una volta selezionata la riparazione, l'Impianto per la costruzione della Nave Spaziale richiederà le risorse necessarie per inviarle ad Antares.\n\nNota: la costruzione di più Impianti per la costruzione della Nave Spaziale non ti consente di selezionare più riparazioni contemporaneamente.",
     "turkish": "",
     "chinese": "",
-    "thai": "เมื่อเลือกการซ่อมแซมแล้ว สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศจะขอทรัพยากรที่จำเป็นเพื่อจัดส่งไปยัง Antares\n\nหมายเหตุ: การสร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศหลายรายการไม่อนุญาตให้คุณเลือกการซ่อมแซมหลายรายการในคราวเดียว",
+    "thai": "เมื่อเลือกการซ่อมแซมแล้ว สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศจะขอทรัพยากรที่จำเป็นเพื่อจัดส่งไปยังอันทาเรส\n\nหมายเหตุ: การสร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศหลายรายการไม่อนุญาตให้คุณเลือกการซ่อมแซมหลายรายการในคราวเดียว",
   },
   "spaceshipRepairFourthTutorialParagraph": {
     "english": "Tip: keep in mind that for the complete repair of Antares you will need all kinds of resources. You can choose to place the Spaceship Construction Facility in a focal point, or move/rebuild the building to another area once a repair is complete. You can also build multiple Spaceship Construction Facilities and direct the desired resources through districts or distribution centers. To learn more, see the encyclopedia's \"Districts\" and \"Distribution centers\" articles.",
@@ -501,7 +501,7 @@
     "italian": "Suggerimento: tieni presente che per la completa riparazione di Antares avrai bisogno di tante risorse differenti. Puoi scegliere di posizionare l'Impianto per la costruzione della Nave Spaziale in un punto nevralgico o spostarla/ricostruirla in un'altra area, una volta completata una riparazione. Puoi anche costruire più Impianti per la costruzione della Nave Spaziale e indirizzare le risorse desiderate attraverso distretti o centri di distribuzione. Per saperne di più, consulta le voci \"Distretti\" e \"Centri di distribuzione\" dell'enciclopedia.",
     "turkish": "",
     "chinese": "",
-    "thai": "เคล็ดลับ: โปรดจำไว้ว่าสำหรับการซ่อมแซม Antares โดยสมบูรณ์คุณจะต้องมีทรัพยากรทุกประเภท คุณสามารถเลือกวางสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศไว้ในจุดโฟกัส หรือย้าย/สร้างอาคารใหม่ไปยังพื้นที่อื่นได้เมื่อการซ่อมแซมเสร็จสิ้น คุณยังสามารถสร้างสิ่งอำนวยความสะดวกการก่อสร้างยานอวกาศหลายแห่งและควบคุมทรัพยากรที่ต้องการผ่านเขตหรือศูนย์กระจายสินค้า หากต้องการเรียนรู้เพิ่มเติม โปรดดูบทความ \"เขต\" และ \"ศูนย์กระจายสินค้า\" ของสารานุกรม",
+    "thai": "เคล็ดลับ: โปรดจำไว้ว่าสำหรับการซ่อมแซมอันทาเรสโดยสมบูรณ์คุณจะต้องมีทรัพยากรทุกประเภท คุณสามารถเลือกวางสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศไว้ในจุดโฟกัส หรือย้าย/สร้างอาคารใหม่ไปยังพื้นที่อื่นได้เมื่อการซ่อมแซมเสร็จสิ้น คุณยังสามารถสร้างสิ่งอำนวยความสะดวกการก่อสร้างยานอวกาศหลายแห่งและควบคุมทรัพยากรที่ต้องการผ่านเขตหรือศูนย์กระจายสินค้า หากต้องการเรียนรู้เพิ่มเติม โปรดดูบทความ \"เขต\" และ \"ศูนย์กระจายสินค้า\" ของสารานุกรม",
   },
   "targetingStationTutorialTitle": {
     "english": "Laser Targeting Station",
@@ -519,7 +519,7 @@
     "italian": "Tra le riparazioni disponibili per la nave spaziale Antares c'è il Cannone Laser. Questa riparazione sblocca la capacità di rimuovere certe piante, rocce o risorse dal gioco mediante un potente raggio laser!\n\nUna volta completata la riparazione del Cannone Laser Antares, posiziona la Stazione di puntamento laser. Si trova nella categoria \"Varie\" e non ha bisogno di lavoratori, alimentazione o accesso stradale.\n\nPer saperne di più sulla riparazione della nave spaziale Antares, consulta la voce \"Riparazione della nave spaziale\" nell'enciclopedia.",
     "turkish": "",
     "chinese": "",
-    "thai": "การซ่อมแซมยานอวกาศ Antares ที่มีอยู่คือ Laser Cannon การซ่อมแซมนี้จะปลดล็อกความสามารถในการกำจัดต้นไม้ หิน หรือทรัพยากรบางอย่างออกจากเกมด้วยเลเซอร์อันทรงพลัง!\n\nเมื่อการซ่อมแซมปืนใหญ่เลเซอร์ Antares เสร็จสิ้น ให้วางสถานีกำหนดเป้าหมายด้วยเลเซอร์ ตั้งอยู่ในหมวดหมู่ \"เบ็ดเตล็ด\" และไม่จำเป็นต้องมีคนงาน ไฟฟ้า หรือถนน\n\nหากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการซ่อมยานอวกาศ Antares โปรดดูบทความ \"การซ่อมแซมยานอวกาศ\" ในสารานุกรม",
+    "thai": "การซ่อมแซมยานอวกาศอันทาเรสที่มีอยู่คือ Laser Cannon การซ่อมแซมนี้จะปลดล็อกความสามารถในการกำจัดต้นไม้ หิน หรือทรัพยากรบางอย่างออกจากเกมด้วยเลเซอร์อันทรงพลัง!\n\nเมื่อการซ่อมแซมปืนใหญ่เลเซอร์ Antares เสร็จสิ้น ให้วางสถานีกำหนดเป้าหมายด้วยเลเซอร์ ตั้งอยู่ในหมวดหมู่ \"เบ็ดเตล็ด\" และไม่จำเป็นต้องมีคนงาน ไฟฟ้า หรือถนน\n\nหากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการซ่อมยานอวกาศอันทาเรสโปรดดูบทความ \"การซ่อมแซมยานอวกาศ\" ในสารานุกรม",
   },
   "targetingStationSecondTutorialParagraph": {
     "english": "By clicking on the building, you can select the elements you wish to eliminate. The laser is not immediate, and you can stop the operation at any time before the laser destroys the selected rock, resource, or plant.\n\nWarning: the process is not reversible, so think twice before eliminating resources!",
