@@ -4391,7 +4391,7 @@
 		"italian": "Gli Achievement sono disabilitati per le seguenti ragioni:",
 		"turkish": "Başarılar aşağıdaki nedenlerden dolayı devre dışı bırakıldı:",
 		"chinese": "成就状态",
-		"thai": "ความสำเร็จถูกปิดใช้งานเนื่องจากเหตุผลดังต่อไปนี้:"
+		"thai": "ความสำเร็จถูกปิดใช้งานเนื่องจากเหตุผลดังต่อไปนี้:",
 	},
 	"achievementStatus_unlockableDescription": {
 		"english": "Achievements are enabled.",
@@ -4400,7 +4400,7 @@
 		"italian": "Gli achievements sono abilitati.",
 		"turkish": "Başarılar etkinleştirildi.",
 		"chinese": "成就状态",
-		"thai": "ความสำเร็จเปิดใช้งานแล้ว"
+		"thai": "ความสำเร็จเปิดใช้งานแล้ว",
 	},
 	"achievementStatus_mods": {
 		"english": "Mods",
@@ -4409,7 +4409,7 @@
 		"italian": "Mods",
 		"turkish": "Modlar",
 		"chinese": "模组",
-		"thai": "ม็อด"
+		"thai": "ม็อด",
 	},
 	"achievementStatus_creativeSettings": {
 		"english": "One or more creative mode settings are active",
@@ -4418,7 +4418,7 @@
 		"italian": "Una o più impostazioni attive per la modalità creativa",
 		"turkish": "Bir veya daha fazla yaratıcı mod ayarı etkin",
 		"chinese": "一个或多个创造模式设置处于启用状态",
-		"thai": "มีการตั้งค่าโหมดสร้างสรรค์เปิดใช้งานอยู่"
+		"thai": "มีการตั้งค่าโหมดสร้างสรรค์เปิดใช้งานอยู่",
 	},
 	"achievementStatus_modifiedSettings": {
 		"english": "One or more settings have been changed during the game",
@@ -4427,7 +4427,7 @@
 		"italian": "Una o più impostazioni sono state cambiate durante la partita",
 		"turkish": "Oyun sırasında bir veya daha fazla ayar değiştirildi",
 		"chinese": "游戏过程中一个或多个设置已更改",
-		"thai": "มีการเปลี่ยนการตั้งค่าหนึ่งหรือมากกว่าในระหว่างเกม"
+		"thai": "มีการเปลี่ยนการตั้งค่าหนึ่งหรือมากกว่าในระหว่างเกม",
 	},
 	"achievementStatus_cheats": {
 		"english": "Cheats",
@@ -4436,7 +4436,7 @@
 		"italian": "Cheats",
 		"turkish": "Hileler",
 		"chinese": "作弊",
-		"thai": "สูตรโกง"
+		"thai": "สูตรโกง",
 	},
 	// TODO-french
 	// TODO-italian
@@ -4449,7 +4449,7 @@
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
-		"thai": "เลือกจุดลงจอด"
+		"thai": "เลือกจุดลงจอด",
 	},
 	// TODO-french
 	// TODO-italian
@@ -4462,7 +4462,7 @@
 		"italian": "Scegli una mappa",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
-		"thai": "เลือกจุดลงจอด"
+		"thai": "เลือกจุดลงจอด",
 	},
 	"select": {
 		"english": "Select",
@@ -4471,7 +4471,7 @@
 		"italian": "Seleziona",
 		"chinese": "选择",
 		"turkish": "Seçme",
-		"thai": "เลือก"
+		"thai": "เลือก",
 	},
 	"level0_title": {
 		"english": "Desert Valley",
@@ -4480,14 +4480,14 @@
 		"italian": "Vallata desertica",
 		"turkish": "Çöl Vadisi",
 		"chinese": "沙漠谷",
-		"thai": "หุบเขาทะเลทราย"
+		"thai": "หุบเขาทะเลทราย",
 	},
 	"level0_desc": {
 		"english": "A landing spot characterized by a mix between wide open areas and mountainous terrain on the edges.",
 		"german": "Ein Landeplatz mit einer Mischung aus weiten Flächen und bergigem Terrain an den Rändern.",
 		"french": "Un lieu d'atterrissage caractérisé par un mélange de vastes zones ouvertes et de terrains montagneux sur les bords.",
 		"chinese": "着陆区的特点是广阔的开放区域和边缘的山区地形的混合。",
-		"thai": "จุดลงจอดที่มีลักษณะเป็นพื้นที่เปิดกว้างผสานกับภูมิประเทศแบบภูเขาที่ขอบ"
+		"thai": "จุดลงจอดที่มีลักษณะเป็นพื้นที่เปิดกว้างผสานกับภูมิประเทศแบบภูเขาที่ขอบ",
 	},
 	"level1_title": {
 		"english": "Randomly Generated Map",
@@ -4496,7 +4496,7 @@
 		"italian": "Mappa generata",
 		"turkish": "Oluşturulan harita",
 		"chinese": "随机生成的地图",
-		"thai": "สุ่มสร้างแผนที่"
+		"thai": "สุ่มสร้างแผนที่",
 	},
 	"level1_desc": {
 		"english": "This map is randomly generated at the beginning of the game and features large areas of perfect flatness.",
@@ -4504,7 +4504,7 @@
 		"french": "Cette carte est générée aléatoirement au début du jeu et comporte de vastes zones parfaitement planes.",
 		"chinese": "这张地图是在游戏开始时随机生成的，具有大面积的超平坦地形。",
 		"turkish": "Bu harita oyunun başında rastgele oluşturulur ve mükemmel düzlükte geniş alanlara sahiptir.",
-		"thai": "แผนที่นี้สร้างขึ้นแบบสุ่มเมื่อเริ่มเกมและมีพื้นที่ราบเรียบขนาดใหญ่"
+		"thai": "แผนที่นี้สร้างขึ้นแบบสุ่มเมื่อเริ่มเกมและมีพื้นที่ราบเรียบขนาดใหญ่",
 	},
 	"graphicsSettings": {
 		"english": "Graphics Settings",
@@ -4512,7 +4512,7 @@
 		"french": "Paramètres graphiques",
 		"turkish": "Grafik Ayarları",
 		"chinese": "图像设置",
-		"thai": "การตั้งค่ากราฟิก"
+		"thai": "การตั้งค่ากราฟิก",
 	},
 	"preset": {
 		"english": "Preset",
@@ -4520,7 +4520,7 @@
 		"french": "Prédéfini",
 		"turkish": "Ön ayar",
 		"chinese": "预设",
-		"thai": "ค่าที่ตั้งไว้ล่วงหน้า"
+		"thai": "ค่าที่ตั้งไว้ล่วงหน้า",
 	},
 	"antiAliasing": {
 		"english": "Antialiasing",
@@ -4528,7 +4528,7 @@
 		"french": "Anticrénelage",
 		"turkish": "Kenar Yumuşatma",
 		"chinese": "抗锯齿",
-		"thai": "การลบรอยหยัก"
+		"thai": "การลบรอยหยัก",
 	},
 	"shadowSettings": {
 		"english": "Shadow Settings",
@@ -4536,7 +4536,7 @@
 		"french": "Paramètres des ombres",
 		"turkish": "Gölge Ayarları",
 		"chinese": "阴影设置",
-		"thai": "การตั้งค่าเงา"
+		"thai": "การตั้งค่าเงา",
 	},
 	"shadows": {
 		"english": "Shadows",
@@ -4544,7 +4544,7 @@
 		"french": "Ombres",
 		"turkish": "Gölgeler",
 		"chinese": "阴影",
-		"thai": "เงา"
+		"thai": "เงา",
 	},
 	"shadowDistance": {
 		"english": "Shadow Distance",
@@ -4552,7 +4552,7 @@
 		"french": "Distance des ombres",
 		"turkish": "Gölge Mesafesi",
 		"chinese": "阴影距离",
-		"thai": "ระยะทางของเงา"
+		"thai": "ระยะทางของเงา",
 	},
 	"shadowResolution": {
 		"english": "Shadow Resolution",
@@ -4560,7 +4560,7 @@
 		"french": "Résolution des ombres",
 		"turkish": "Gölge Çözünürlüğü",
 		"chinese": "阴影分辨率",
-		"thai": "ความละเอียดของเงา"
+		"thai": "ความละเอียดของเงา",
 	},
 	"particles": {
 		"english": "Particles",
@@ -4582,7 +4582,7 @@
 		"french": "Réglages de l'écran",
 		"turkish": "Ekran Ayarları",
 		"chinese": "屏幕设置",
-		"thai": "การตั้งค่าหน้าจอ"
+		"thai": "การตั้งค่าหน้าจอ",
 	},
 	"grass": {
 		"english": "Grass",
@@ -4590,7 +4590,7 @@
 		"french": "Herbe",
 		"turkish": "Çimen",
 		"chinese": "草地",
-		"thai": "หญ้า"
+		"thai": "หญ้า",
 	},
 	"lod": {
 		"english": "Level of Detail",
@@ -4598,7 +4598,7 @@
 		"french": "Niveau de détail",
 		"turkish": "Ayrıntı seviyesi",
 		"chinese": "精细程度",
-		"thai": "ระดับของรายละเอียด"
+		"thai": "ระดับของรายละเอียด",
 	},
 	"terrainLOD": {
 		"english": "Terrain's Level of Detail",
@@ -4606,7 +4606,7 @@
 		"french": "Niveau de détail du terrain",
 		"turkish": "Arazinin Ayrıntı seviyesi",
 		"chinese": "地形的精细程度",
-		"thai": "ระดับความละเอียดของภูมิประเทศ"
+		"thai": "ระดับความละเอียดของภูมิประเทศ",
 	},
 	"otherSettings": {
 		"english": "Other Settings",
@@ -4614,7 +4614,7 @@
 		"french": "Autres paramètres",
 		"turkish": "Diğer ayarlar",
 		"chinese": "其他设置",
-		"thai": "การตั้งค่าอื่นๆ"
+		"thai": "การตั้งค่าอื่นๆ",
 	},
 	"custom": { // personalized
 		"english": "Custom",
@@ -4622,7 +4622,7 @@
 		"french": "Personnalisé",
 		"turkish": "Gelenek",
 		"chinese": "自定义",
-		"thai": "แบบกำหนดเอง"
+		"thai": "แบบกำหนดเอง",
 	},
 	"textureResolution": {
 		"english": "Texture Resolution",
@@ -4630,7 +4630,7 @@
 		"french": "Résolution des textures",
 		"turkish": "Texture Resolution",
 		"chinese": "纹理分辨率",
-		"thai": "ความละเอียดของพื้นผิว"
+		"thai": "ความละเอียดของพื้นผิว",
 	},
 	"overallQuality": {
 		"english": "Overall Quality",
@@ -4638,7 +4638,7 @@
 		"french": "Qualité globale",
 		"turkish": "Genel Kalite",
 		"chinese": "总体质量",
-		"thai": "คุณภาพโดยรวม"
+		"thai": "คุณภาพโดยรวม",
 	},
 	"graphicsQualityVeryLow": {
 		"english": "Very Low",
@@ -4646,26 +4646,27 @@
 		"french": "Très faible",
 		"turkish": "Çok düşük",
 		"chinese": "极低",
-		"thai": "ต่ำมาก"
+		"thai": "ต่ำมาก",
 	},
 	"graphicsQualityVeryHigh": {
 		"english": "Very High",
 		"german": "Sehr hoch",
 		"chinese": "极高",
 		"turkish": "Çok yüksek",
+		"thai": "สูงมาก",
 	},
 	"graphicsPreset": {
 		"english": "Graphics Preset",
 		"german": "Grafikvoreinstellung",
 		"chinese": "图像预设",
 		"turkish": "Grafik Ön Ayarı",
-		"thai": "ค่าที่ตั้งไว้ล่วงหน้าของกราฟิก"
+		"thai": "ค่าที่ตั้งไว้ล่วงหน้าของกราฟิก",
 	},
 	"advancedGraphicsSettings": { // "advanced" or "more", don't make it too long
 		"english": "Advanced Graphics Settings",
 		"german": "Weitere Grafikoptionen",
 		"chinese": "高级图像设置",
 		"turkish": "Gelişmiş Grafik Ayarları",
-		"thai": "การตั้งค่ากราฟิกขั้นสูง"
+		"thai": "การตั้งค่ากราฟิกขั้นสูง",
 	}
 }
