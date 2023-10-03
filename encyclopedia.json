@@ -463,7 +463,7 @@
     "italian": "Riparazione della nave spaziale",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "การซ่อมแซมยานอวกาศ",
   },
   "spaceshipRepairFirstTutorialParagraph": {
     "english": "Repairing the spaceship Antares must be done in stages, and for each element you manage to repair you will get a bonus. To repair the spacecraft, you need a Spaceship Construction Facility, which you can find in the \"Transport\" category.",
@@ -474,7 +474,7 @@
 ",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "การซ่อมยานอวกาศ Antares จะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\"",
   },
   "spaceshipRepairSecondTutorialParagraph": {
     "english": "To select a repair, open the Antares menu at the top left of the screen, clicking on the spaceship icon. Each repair will need many specific resources and will offer a bonus when completed. Select the one you want to start with and click on \"Repair\".",
@@ -483,7 +483,7 @@
     "italian": "Per selezionare una riparazione, apri il menu di Antares in alto a sinistra dello schermo, cliccando sull'icona della nave spaziale. Ogni riparazione richiederà diverse specifiche risorse e offrirà un bonus una volta completata. Seleziona quella con cui desideri iniziare e clicca su \"Ripara\"",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "หากต้องการเลือกการซ่อมแซม ให้เปิดเมนู Antares ที่ด้านซ้ายบนของหน้าจอ โดยคลิกที่ไอคอนยานอวกาศ การซ่อมแซมแต่ละครั้งจะต้องใช้ทรัพยากรเฉพาะจำนวนมาก และจะมอบโบนัสเมื่อเสร็จสิ้น เลือกอันที่คุณต้องการเริ่มต้นและคลิกที่ \"ซ่อมแซม\"",
   },
   "spaceshipRepairThirdTutorialParagraph": {
     "english": "Once the repair is selected, the Spaceship Construction Facility will request the necessary resources to ship them to Antares.\n\nNote: building multiple Spaceship Construction Facilities does not allow you to select multiple repairs at once.",
@@ -492,7 +492,7 @@
     "italian": "Una volta selezionata la riparazione, l'Impianto per la costruzione della Nave Spaziale richiederà le risorse necessarie per inviarle ad Antares.\n\nNota: la costruzione di più Impianti per la costruzione della Nave Spaziale non ti consente di selezionare più riparazioni contemporaneamente.",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "เมื่อเลือกการซ่อมแซมแล้ว สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศจะขอทรัพยากรที่จำเป็นเพื่อจัดส่งไปยัง Antares\n\nหมายเหตุ: การสร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศหลายรายการไม่อนุญาตให้คุณเลือกการซ่อมแซมหลายรายการในคราวเดียว",
   },
   "spaceshipRepairFourthTutorialParagraph": {
     "english": "Tip: keep in mind that for the complete repair of Antares you will need all kinds of resources. You can choose to place the Spaceship Construction Facility in a focal point, or move/rebuild the building to another area once a repair is complete. You can also build multiple Spaceship Construction Facilities and direct the desired resources through districts or distribution centers. To learn more, see the encyclopedia's \"Districts\" and \"Distribution centers\" articles.",
@@ -501,7 +501,7 @@
     "italian": "Suggerimento: tieni presente che per la completa riparazione di Antares avrai bisogno di tante risorse differenti. Puoi scegliere di posizionare l'Impianto per la costruzione della Nave Spaziale in un punto nevralgico o spostarla/ricostruirla in un'altra area, una volta completata una riparazione. Puoi anche costruire più Impianti per la costruzione della Nave Spaziale e indirizzare le risorse desiderate attraverso distretti o centri di distribuzione. Per saperne di più, consulta le voci \"Distretti\" e \"Centri di distribuzione\" dell'enciclopedia.",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "เคล็ดลับ: โปรดจำไว้ว่าสำหรับการซ่อมแซม Antares โดยสมบูรณ์คุณจะต้องมีทรัพยากรทุกประเภท คุณสามารถเลือกวางสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศไว้ในจุดโฟกัส หรือย้าย/สร้างอาคารใหม่ไปยังพื้นที่อื่นได้เมื่อการซ่อมแซมเสร็จสิ้น คุณยังสามารถสร้างสิ่งอำนวยความสะดวกการก่อสร้างยานอวกาศหลายแห่งและควบคุมทรัพยากรที่ต้องการผ่านเขตหรือศูนย์กระจายสินค้า หากต้องการเรียนรู้เพิ่มเติม โปรดดูบทความ \"เขต\" และ \"ศูนย์กระจายสินค้า\" ของสารานุกรม",
   },
   "targetingStationTutorialTitle": {
     "english": "Laser Targeting Station",
@@ -510,7 +510,7 @@
     "italian": "Stazione di puntamento laser",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "สถานีกำหนดเป้าหมายด้วยเลเซอร์",
   },
   "targetingStationFirstTutorialParagraph": {
     "english": "Among the available repairs to the Antares spacecraft is the Laser Cannon. This repair unlocks the ability to remove certain plants, rocks or resources from the game by means of a powerful laser!\n\nOnce the Antares Laser Cannon repair is completed, place the Laser Targeting Station. It is located in the \"Miscellaneous\" category, and does not need workers, power, or road access.\n\nTo learn more about the Antares spacecraft repair, see the \"Spaceship repair\" article in the encyclopedia.",
@@ -519,7 +519,7 @@
     "italian": "Tra le riparazioni disponibili per la nave spaziale Antares c'è il Cannone Laser. Questa riparazione sblocca la capacità di rimuovere certe piante, rocce o risorse dal gioco mediante un potente raggio laser!\n\nUna volta completata la riparazione del Cannone Laser Antares, posiziona la Stazione di puntamento laser. Si trova nella categoria \"Varie\" e non ha bisogno di lavoratori, alimentazione o accesso stradale.\n\nPer saperne di più sulla riparazione della nave spaziale Antares, consulta la voce \"Riparazione della nave spaziale\" nell'enciclopedia.",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "การซ่อมแซมยานอวกาศ Antares ที่มีอยู่คือ Laser Cannon การซ่อมแซมนี้จะปลดล็อกความสามารถในการกำจัดต้นไม้ หิน หรือทรัพยากรบางอย่างออกจากเกมด้วยเลเซอร์อันทรงพลัง!\n\nเมื่อการซ่อมแซมปืนใหญ่เลเซอร์ Antares เสร็จสิ้น ให้วางสถานีกำหนดเป้าหมายด้วยเลเซอร์ ตั้งอยู่ในหมวดหมู่ \"เบ็ดเตล็ด\" และไม่จำเป็นต้องมีคนงาน ไฟฟ้า หรือถนน\n\nหากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการซ่อมยานอวกาศ Antares โปรดดูบทความ \"การซ่อมแซมยานอวกาศ\" ในสารานุกรม",
   },
   "targetingStationSecondTutorialParagraph": {
     "english": "By clicking on the building, you can select the elements you wish to eliminate. The laser is not immediate, and you can stop the operation at any time before the laser destroys the selected rock, resource, or plant.\n\nWarning: the process is not reversible, so think twice before eliminating resources!",
@@ -528,7 +528,7 @@
     "italian": "Cliccando sull'edificio, puoi selezionare gli elementi che desideri eliminare. Il laser non è immediato, e puoi interrompere l'operazione in qualsiasi momento prima che il laser distrugga la roccia, la risorsa o la pianta selezionata.\n\nAttenzione: il processo non è reversibile, quindi rifletti attentamente prima di eliminare risorse!",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "เมื่อคลิกที่สิ่งปลูกสร้าง คุณสามารถเลือกองค์ประกอบที่คุณต้องการกำจัดได้ เลเซอร์ไม่ได้เกิดขึ้นทันที และคุณสามารถหยุดการทำงานได้ตลอดเวลาก่อนที่เลเซอร์จะทำลายหิน ทรัพยากร หรือพืชที่เลือก\n\nคำเตือน: กระบวนการนี้ไม่สามารถย้อนกลับได้ ดังนั้นควรคิดให้รอบคอบก่อนจะกำจัดทรัพยากร!",
   },
   "researchTutorialTitle": {
     "english": "Research",
@@ -537,7 +537,7 @@
     "italian": "Ricerca",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "วิจัย",
   },
   "researchFirstTutorialParagraph": {
     "english": "To unlock new buildings or upgrades, you need to develop new technologies through scientific research. This is why you need a Research Lab! Select it in the \"Science\" category and place it on the map.",
@@ -546,7 +546,7 @@
     "italian": "Per sbloccare nuovi edifici o miglioramenti, devi sviluppare nuove tecnologie attraverso la ricerca scientifica. Ecco perché hai bisogno di un Laboratorio di ricerca! Selezionalo nella categoria \"Scienza\" e posizionalo sulla mappa.",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "เพื่อปลดล็อกอาคารหรือการอัพเกรดใหม่ คุณต้องพัฒนาเทคโนโลยีใหม่ผ่านการวิจัยทางวิทยาศาสตร์ นี่คือเหตุผลที่คุณต้องการห้องปฏิบัติการวิจัย! เลือกในหมวดหมู่ \"วิทยาศาสตร์\" และวางไว้บนแผนที่",
   },
   "researchSecondTutorialParagraph": {
     "english": "Now you can select a research. Open the \"Research\" menu by clicking on the microscope icon at the top left of the screen. Select the desired research from those available and close the menu.",
@@ -555,7 +555,7 @@
     "italian": "Ora puoi selezionare una ricerca. Apri il menu \"Ricerca\" cliccando sull'icona del microscopio in alto a sinistra dello schermo. Seleziona la ricerca desiderata tra quelle disponibili e chiudi il menu.",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "ตอนนี้คุณสามารถเลือกงานวิจัยได้ เปิดเมนู \"การวิจัย\" โดยคลิกที่ไอคอนกล้องจุลทรรศน์ที่ด้านซ้ายบนของหน้าจอ เลือกงานวิจัยที่ต้องการจากที่มีอยู่แล้วปิดเมนู",
   },
   "researchThirdTutorialParagraph": {
     "english": "The Research Lab will now request blue, green, yellow, or red science packets depending on the technology selected. Once finished, you will be able to select the next research.\n\nNote: placing multiple Research Lab does not allow you to select multiple research at the same time.",
@@ -564,6 +564,6 @@
     "italian": "Il laboratorio di ricerca richiederà ora moduli scientifici blu, verdi, gialli o rossi a seconda della tecnologia selezionata. Una volta terminato, sarai in grado di selezionare la prossima ricerca.\n\nNota: Posizionare più laboratori scientifici non ti consente di selezionare più ricerche contemporaneamente.",
     "turkish": "",
     "chinese": "",
-    "thai": "",
+    "thai": "ขณะนี้ห้องปฏิบัติการวิจัยจะขอชุดวิทยาศาสตร์สีน้ำเงิน เขียว เหลือง หรือแดง ขึ้นอยู่กับเทคโนโลยีที่เลือก เมื่อเสร็จแล้ว คุณจะสามารถเลือกงานวิจัยถัดไปได้\n\nหมายเหตุ: การวางห้องปฏิบัติการวิจัยหลายรายการไม่อนุญาตให้คุณเลือกงานวิจัยหลายชิ้นในเวลาเดียวกัน",
   },
 }
