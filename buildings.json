@@ -3189,11 +3189,6 @@
     "italian": "Produce una considerevole quantità di elettricità bruciando metano.",
     "thai": "ผลิตไฟฟ้าจำนวนมากโดยการเผาไหม้มีเทน",
   },
-  "powerPole_desc": {
-    "english": "",
-    "italian": "",
-    "thai": "",
-  },
   "powerSubstation_desc": {
     "english": " Supplies power to a large surrounding area. It must be connected to a power source.",
     "italian": "Fornisce energia a un'ampia area circostante. Deve essere collegato a una fonte di alimentazione.",
@@ -3234,11 +3229,6 @@
     "italian": "Cartellone personalizzabile.",
     "thai": "ป้ายโฆษณาที่ปรับแต่งได้",
   },
-  "trainStationWithName_desc": {
-    "english": "",
-    "italian": "",
-    "thai": "",
-  },
   "trainstation_1R_desc": {
     "english": "Goods traveling by freight train are loaded and unloaded here. This station is equipped with one one-way track.\n\nTo manage the trains, click on the train icon on the left side of the screen.",
     "italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di un binaro unidirezionale.\n\nPer gestire i treni, clicca sull'icona del treno sul lato sinistro dello schermo.",
@@ -3268,16 +3258,6 @@
     "english": "Use the cargo gondola to transport resources up and down slopes. The two stations must be placed in front of each other.",
     "italian": "Utilizza la cabinovia per trasportare le risorse lungo i pendii. Le due stazioni devono essere posizionate una di fronte all'altra.",
     "thai": "ใช้กระเช้าลอยฟ้าบรรทุกสินค้าเพื่อขนส่งทรัพยากรขึ้นและลงทางลาดชัน ต้องวางทั้งสองสถานีไว้ด้านหน้ากัน",
-  },
-  "gondolaStationPole_desc": {
-    "english": "",
-    "italian": "",
-    "thai": "",
-  },
-  "gondolaPole_desc": {
-    "english": "",
-    "italian": "",
-    "thai": "",
   },
   "targetingStation_desc": {
     "english": "The Antares' cannon allows for the permanent removal of unwanted plants and rocks. Disintegrate them with a laser! Requires the repair of the Laser Cannon of the Antares spaceship.",
@@ -3350,9 +3330,8 @@
     "thai": "ปลดปล่อยจินตนาการของคุณ! อาคารสีสันสดใสสำหรับประกอบภาพมุมบน",
   },
     "crashedUfo_desc": {
-    "english": "",
-    "italian": "",
-    "thai": "",
+    "english": "Phew, what a clumsy landing!",
+    "italian": "Wow, che atterraggio maldestro!",
   },
   "park_desc": {
     "english": "A place to take a break from the city chaos.\n\nPublic buildings distribute resources to the surrounding habitats.\n\nResource needed to improve habitats at level 4.",
