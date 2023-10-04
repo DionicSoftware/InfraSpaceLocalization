@@ -489,7 +489,7 @@
 		"dutch": "Productie",
 		"spanish": "Producción",
 		"spanish-esp": "Producción",
-		"russian": "Производство:",
+		"russian": "Производство",
 		"chinese": "生产",
 		"italian": "Produzione",
 		"japanese": "生産",
@@ -555,10 +555,10 @@
 		"english": "Storage",
 		"german": "Lager",
 		"french": "Réserve",
-		"dutch": "Opslag",
+		"dutch": "Opslag:",
 		"spanish": "Almacenamiento",
 		"spanish-esp": "Almacenamiento",
-		"russian": "Хранение:",
+		"russian": "Хранение",
 		"chinese": "存储",
 		"italian": "Magazzino",
 		"japanese": "在庫",
@@ -620,8 +620,29 @@
 		"danish": "Prioriter",
 		"greek": "Δώσε προταιρεότητα",
 	},
+    //TODO-german
+    //TODO-french
+    //TODO-dutch
+    //TODO-spanish
+    //TODO-spanish-esp
+    //TODO-ukrainian
+    //TODO-russian
+    //TODO-chinese
+    //TODO-korean
+    //TODO-polish
+    //TODO-italian
+    //TODO-romanian
+    //TODO-czech
+    //TODO-japanese
+    //TODO-slovak
+    //TODO-portuguese
+    //TODO-hungarian
+    //TODO-thai
+    //TODO-turkish
+    //TODO-danish
+    //TODO-greek
 	"price": {
-		"english": "Price",
+		"english": "Requires",
 		"german": "Preis",
 		"french": "Prix",
 		"dutch": "Prijs",
@@ -632,7 +653,7 @@
 		"chinese": "耗材",
 		"korean": "가격",
 		"polish": "Cena",
-		"italian": "Prezzo",
+		"italian": "Richiede",
 		"romanian": "Preț",
 		"czech": "Cena",
 		"japanese": "価格",
@@ -4116,6 +4137,7 @@
 		"thai": "การวิจัยที่จำเป็น:",
 		"chinese": "所需研究：",
 		"turkish": "Gerekli Araştırma:",
+		"italian": "Ricerca richiesta:",
 	},
 	"roadRailSpeed": {
 		"english": "Speed:",
@@ -4123,6 +4145,7 @@
 		"thai": "ความเร็ว:",
 		"chinese": "速度：",
 		"turkish": "Hız:",
+		"italian": "Velocità:",
 	},
 	"inspectStatus": {
 		"english": "Inspect delivery status:",
