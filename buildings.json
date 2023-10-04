@@ -3337,6 +3337,7 @@
     "crashedUfo_desc": {
     "english": "Phew, what a clumsy landing!",
     "italian": "Wow, che atterraggio maldestro!",
+    "thai": "ลงจอดได้ซุ่มซ่ามมาก!",
   },
   "park_desc": {
     "english": "A place to take a break from the city chaos.\n\nPublic buildings distribute resources to the surrounding habitats.\n\nResource needed to improve habitats at level 4.",
