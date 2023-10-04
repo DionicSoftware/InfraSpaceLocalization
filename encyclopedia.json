@@ -289,8 +289,9 @@
     "thai": "ที่เก็บข้อมูลขาเข้าว่างเปล่า",
   },
   // TODO-french
+  // TODO-german (last sentence)
   "incomingStorageEmptyFirstTutorialParagraph": {
-    "english": "Each building has two types of storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production or that delivery are already on the way and they just take a while.",
+    "english": "Each building has two types of storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production. However, it is possible that resources are already on the way.",
     "german": "Jede Fabrik hat zwei Arten von Lager. Im eingehenden Lager liegen die empfangen Materilien bereit für die Weiterverarbeitung. Die Übersicht findet sich links unten im Informationsfenster.\n\nWenn das eingehende Lager leer ist, liegt es daran, dass diese Ressource noch nicht genug produziert wird oder daran, dass die Güter bereits auf dem Weg sind und es eine Weile dauert.",
     "french": "Chaque bâtiment dispose de deux entrepôts. Le stockage entrant est l'endroit où les ressources reçues sont stockées en vue de leur utilisation.\n\nSi le panneau d'information d'un bâtiment indique que le stockage entrant est vide, c'est qu'une ou plusieurs ressources stockées ne sont pas suffisantes pour la production.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in entrata è dove le risorse ricevute vengono stoccate per essere utilizzate, e si può visualizzare nel riquadro in basso a sinistra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in entrata è vuoto, è perché una o più risorse stoccate non sono sufficienti alla produzione. Tuttavia, è possibile che le risorse siano in arrivo.",
@@ -298,7 +299,7 @@
     "thai": "แต่ละอาคารมีห้องเก็บของสองประเภท ที่เก็บข้อมูลขาเข้าคือที่ที่ทรัพยากรที่ได้รับถูกเก็บไว้เพื่อใช้ และสามารถดูได้ในแผงด้านซ้ายล่าง\n\nหากแผงข้อมูลของอาคารแสดงว่าพื้นที่เก็บข้อมูลขาเข้าว่างเปล่า อาจเป็นเพราะทรัพยากรที่จัดเก็บอย่างน้อยหนึ่งรายการถูก ไม่เพียงพอต่อการผลิตหรือกำลังจัดส่งอยู่และใช้เวลาเพียงครู่หนึ่ง",
   },
   // TODO-french
-  // TODO-german
+  // TODO-german (just the last sentence)
   "incomingStorageEmptySecondTutorialParagraph": {
     "english": "Sometimes the storage may remain empty for a long time while it waits for resources to arrive. You can check for pending deliveries by hovering the cursor over the desired resource.\n\nIn those cases, it is better to place factories closer together or built faster routes! Alternatively, you can also use distribution centers to store resources nearby. To learn more, see the encyclopedia article \"Distribution Centers.\"",
     "german": "Manchmal bleibt das Lager für eine lange Zeit leer während es darauf wartet, bis Ressourcen ankommen. Du kannst die eingehenden Lieferungen anzeigen, indem du die Maus über die jeweilige Ressource bewegst.\n\nIn diesem Fall ist es besser, Fabriken nahe beieinander zu platzieren oder schhnellere Routen zu bauen! Stattdessen kannst du auch Lieferzentren verwenden, um Materialien in der Nähe zu lagern.",
@@ -368,12 +369,12 @@
     "thai": "แบ่งเขต",
   },
   // TODO-french
-  // TODO-italian
+  // TODO-german (the selected resource, last sentence)
   "districtsTutorialParagraph": {
-    "english": "With districts, you can manage deliveries in your city.\n\nOpen the Districts panel on the left side of the screen. To create the first district, select the brush width you want, and paint the area below the buildings from which you want to export a particular resource. After that, paint the area below the buildings you want them to import it from.\n\nNow select the desired resource in the Districts panel. Finally, click on the district you need to export and drag the arrow that will appear to the district you want to import.\n\nThis way, buildings in the first district will export only to buildings in the second district.\n\nYou can also link a district with itself by dragging the arrow inside it!",
-    "german": "Mit Bezirken kannst du Lieferungen in deiner Stadt managen.\n\nÖffne das Fenster für Stadtbezirke auf der linken Seite des Bildschirms. Um den ersten Bezirk zu erstellen, musst du eine Pinselgröße auswählen und kannst dann den Bezirk unter die Gebäude malen, wovon du eine bestimmte Ressource exportieren willst. Danach kannst du den Bereich unter den Gebäuden malen, welche die Ressource importieren sollen.\n\nJetzt kannst du die Ressource im Menü auswählen und mit einem Klick deine Maus von einem Bezirk zum anderen ziehen.\n\nMit dieser neuen Exportregel werden Geböude im ersten Bezirk nur Gebäude im zweiten Bezirk beliefern.\n\nDu kannst sogar die Lieferungen eines Bezirks auf sich selbst beschränken, indem du einfach den Pfeil auf sich selbst zeigen lässt!",
+    "english": "With districts, you can manage deliveries in your city.\n\nOpen the Districts panel on the left side of the screen. To create the first district, select the brush width you want, and paint the area below the buildings from which you want to export a particular resource. After that, paint the area below the buildings you want them to import it from.\n\nNow select the desired resource in the Districts panel. Finally, click on the district you need to export and drag the arrow that will appear to the district you want to import.\n\nThis way, buildings in the first district will export only the selected resource to buildings in the second district. You can also link a district with itself by dragging the arrow inside it!",
+    "german": "Mit Bezirken kannst du Lieferungen in deiner Stadt managen.\n\nÖffne das Fenster für Stadtbezirke auf der linken Seite des Bildschirms. Um den ersten Bezirk zu erstellen, musst du eine Pinselgröße auswählen und kannst dann den Bezirk unter die Gebäude malen, wovon du eine bestimmte Ressource exportieren willst. Danach kannst du den Bereich unter den Gebäuden malen, welche die Ressource importieren sollen.\n\nJetzt kannst du die Ressource im Menü auswählen und mit einem Klick deine Maus von einem Bezirk zum anderen ziehen.\n\nMit dieser neuen Exportregel werden Geböude im ersten Bezirk nur Gebäude im zweiten Bezirk beliefern. Du kannst sogar die Lieferungen eines Bezirks auf sich selbst beschränken, indem du einfach den Pfeil auf sich selbst zeigen lässt!",
     "french": "Pour que certains de vos bâtiments ne fournissent des ressources qu'à des industries spécifiques, vous pouvez utiliser des quartiers et relier les bâtiments souhaités entre eux.\n\nOuvrez le panneau Quartiers sur le côté gauche de l'écran. Pour créer le premier quartier, sélectionnez la largeur de pinceau souhaitée et peignez la zone située sous les bâtiments à partir desquels vous souhaitez exporter une ressource particulière. Ensuite, peignez la zone située sous les bâtiments à partir desquels vous voulez qu'ils importent la ressource.\n\nSélectionnez ensuite la ressource souhaitée dans le panneau Quartiers. Enfin, cliquez sur le quartier à exporter et faites glisser la flèche qui apparaît vers le quartier à importer.\n\nAinsi, les bâtiments du premier quartier ne seront exportés que vers les bâtiments du deuxième quartier. Vous pouvez également relier un quartier à lui-même en faisant glisser la flèche à l'intérieur de celui-ci !",
-    "italian": "Per fare in modo che alcuni edifici consegnino le risorse solo a determinate industrie, puoi usare i Distretti e collegare gli edifici desiderati tra di loro. \n\nApri il pannello “Distretti”, sulla sinistra dello schermo. Per creare il primo distretto, seleziona l’ampiezza del pennello che desideri, e dipingi l’area sottostante agli edifici dai quali vuoi esportare una determinata risorsa. Dopodichè, dipingi l’area sottostante agli edifici che vuoi che la importino.\n\nOra seleziona la risorsa desiderata nel pannello “Distretti”. Infine, clicca sul distretto che deve esportare e trascina la freccia che apparirà fino al distretto che vuole importare.\n\nPuoi anche collegare un distretto con se stesso trascinando la freccia al suo interno!",
+    "italian": "Per fare in modo che alcuni edifici consegnino le risorse solo a determinate industrie, puoi usare i Distretti e collegare gli edifici desiderati tra di loro. \n\nApri il pannello “Distretti”, sulla sinistra dello schermo. Per creare il primo distretto, seleziona l’ampiezza del pennello che desideri, e dipingi l’area sottostante agli edifici dai quali vuoi esportare una determinata risorsa. Dopodichè, dipingi l’area sottostante agli edifici che vuoi che la importino.\n\nOra seleziona la risorsa desiderata nel pannello “Distretti”. Infine, clicca sul distretto che deve esportare e trascina la freccia che apparirà fino al distretto che vuole importare.\n\nIn questo modo, gli edifici nel primo distretto esporteranno la risorsa selezionata solo agli edifici del secondo distretto. Puoi anche collegare un distretto con se stesso trascinando la freccia al suo interno!",
     "chinese": "要想让某些建筑只为特定行业提供资源，可以使用地区并将所需的建筑关联在一起。\n\n打开屏幕左侧的地区面板。要创建第一个区域，请选择所需的画笔宽度，并在要输出特定资源的建筑物下方区域涂画。然后，在你希望他们导入资源的建筑物下方绘制区域。\n\n现在在地区面板中选择所需的资源。最后，点击你需要导出的区域，然后将出现的箭头拖到你想要运输的区域。\n\n这样，第一个地区的建筑就只能运输到第二个地区的建筑！",
     "thai": "เมื่อใช้เขต คุณสามารถจัดการการจัดส่งในเมืองของคุณได้\n\nเปิดแผงเขตทางด้านซ้ายของหน้าจอ หากต้องการสร้างเขตแรก ให้เลือกความกว้างของแปรงที่คุณต้องการ และทาสีพื้นที่ด้านล่างอาคารที่คุณต้องการส่งออกทรัพยากรเฉพาะ หลังจากนั้น ทาสีพื้นที่ด้านล่างอาคารที่คุณต้องการนำเข้า\n\nตอนนี้เลือกทรัพยากรที่ต้องการในแผงเขต สุดท้าย คลิกที่เขตที่คุณต้องการส่งออกแล้วลากลูกศรที่จะปรากฏในเขตที่คุณต้องการนำเข้า\n\nด้วยวิธีนี้ สิ่งปลูกสร้างในเขตแรกจะส่งออกไปยังอาคารในเขตที่สองเท่านั้น\n\nคุณ ยังสามารถเชื่อมโยงเขตเข้ากับตัวเองได้ด้วยการลากลูกศรที่อยู่ด้านใน!",
   },
@@ -388,6 +389,7 @@
   },
   // TODO-french
   // TODO-italian
+  //comment
   "powerFirstTutorialParagraph": {
     "english": "Power is essential to the operation of buildings.\n\nYou can use electric poles and power substation to spread electricity to surrounding buildings. The power grid must also be connected to enough power sources.\n\nPoles have a very small radius, but by connecting to each other they can cover very large areas.",
     "german": "Strom ist wichtig um Gebäude zu betreiben.\n\nDu kannst Strommasten und Umspannwerke verwenden, um Gebäude mit dem Stromnetz zu verbinden. Das Netz muss außerdem mit genug Stromquellen verbunden werden.\n\nStrommasten haben einen sehr kleinen Radius, aber wenn du viele verbindest, kannst du auch damit einen großen Bereich abdecken.",
@@ -458,112 +460,63 @@
   },
   "spaceshipRepairTutorialTitle": {
     "english": "Spaceship repair",
-    "german": "",
-    "french": "",
     "italian": "Riparazione della nave spaziale",
-    "turkish": "",
-    "chinese": "",
     "thai": "การซ่อมแซมยานอวกาศ",
   },
   "spaceshipRepairFirstTutorialParagraph": {
     "english": "Repairing the spaceship Antares must be done in stages, and for each element you manage to repair you will get a bonus. To repair the spacecraft, you need a Spaceship Construction Facility, which you can find in the \"Transport\" category.",
-    "german": "",
-    "french": "",
     "italian": "La riparazione della nave spaziale Antares deve essere effettuata in fasi, e per ogni elemento che riuscirai a riparare otterrai un bonus. Per riparare la nave spaziale, hai bisogno dell'Impianto per la costruzione della Nave Spaziale, che puoi trovare nella categoria \"Trasporti\".
-
 ",
-    "turkish": "",
-    "chinese": "",
     "thai": "การซ่อมยานอวกาศอันทาเรสจะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\"",
   },
   "spaceshipRepairSecondTutorialParagraph": {
     "english": "To select a repair, open the Antares menu at the top left of the screen, clicking on the spaceship icon. Each repair will need many specific resources and will offer a bonus when completed. Select the one you want to start with and click on \"Repair\".",
-    "german": "",
-    "french": "",
     "italian": "Per selezionare una riparazione, apri il menu di Antares in alto a sinistra dello schermo, cliccando sull'icona della nave spaziale. Ogni riparazione richiederà diverse specifiche risorse e offrirà un bonus una volta completata. Seleziona quella con cui desideri iniziare e clicca su \"Ripara\"",
-    "turkish": "",
-    "chinese": "",
     "thai": "หากต้องการเลือกการซ่อมแซม ให้เปิดเมนูอันทาเรสที่ด้านซ้ายบนของหน้าจอ โดยคลิกที่ไอคอนยานอวกาศ การซ่อมแซมแต่ละครั้งจะต้องใช้ทรัพยากรเฉพาะจำนวนมาก และจะมอบโบนัสเมื่อเสร็จสิ้น เลือกอันที่คุณต้องการเริ่มต้นและคลิกที่ \"ซ่อมแซม\"",
   },
   "spaceshipRepairThirdTutorialParagraph": {
     "english": "Once the repair is selected, the Spaceship Construction Facility will request the necessary resources to ship them to Antares.\n\nNote: building multiple Spaceship Construction Facilities does not allow you to select multiple repairs at once.",
-    "german": "",
-    "french": "",
     "italian": "Una volta selezionata la riparazione, l'Impianto per la costruzione della Nave Spaziale richiederà le risorse necessarie per inviarle ad Antares.\n\nNota: la costruzione di più Impianti per la costruzione della Nave Spaziale non ti consente di selezionare più riparazioni contemporaneamente.",
-    "turkish": "",
-    "chinese": "",
     "thai": "เมื่อเลือกการซ่อมแซมแล้ว สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศจะขอทรัพยากรที่จำเป็นเพื่อจัดส่งไปยังอันทาเรส\n\nหมายเหตุ: การสร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศหลายรายการไม่อนุญาตให้คุณเลือกการซ่อมแซมหลายรายการในคราวเดียว",
   },
   "spaceshipRepairFourthTutorialParagraph": {
     "english": "Tip: keep in mind that for the complete repair of Antares you will need all kinds of resources. You can choose to place the Spaceship Construction Facility in a focal point, or move/rebuild the building to another area once a repair is complete. You can also build multiple Spaceship Construction Facilities and direct the desired resources through districts or distribution centers. To learn more, see the encyclopedia's \"Districts\" and \"Distribution centers\" articles.",
-    "german": "",
-    "french": "",
     "italian": "Suggerimento: tieni presente che per la completa riparazione di Antares avrai bisogno di tante risorse differenti. Puoi scegliere di posizionare l'Impianto per la costruzione della Nave Spaziale in un punto nevralgico o spostarla/ricostruirla in un'altra area, una volta completata una riparazione. Puoi anche costruire più Impianti per la costruzione della Nave Spaziale e indirizzare le risorse desiderate attraverso distretti o centri di distribuzione. Per saperne di più, consulta le voci \"Distretti\" e \"Centri di distribuzione\" dell'enciclopedia.",
-    "turkish": "",
-    "chinese": "",
     "thai": "เคล็ดลับ: โปรดจำไว้ว่าสำหรับการซ่อมแซมอันทาเรสโดยสมบูรณ์คุณจะต้องมีทรัพยากรทุกประเภท คุณสามารถเลือกวางสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศไว้ในจุดโฟกัส หรือย้าย/สร้างอาคารใหม่ไปยังพื้นที่อื่นได้เมื่อการซ่อมแซมเสร็จสิ้น คุณยังสามารถสร้างสิ่งอำนวยความสะดวกการก่อสร้างยานอวกาศหลายแห่งและควบคุมทรัพยากรที่ต้องการผ่านเขตหรือศูนย์กระจายสินค้า หากต้องการเรียนรู้เพิ่มเติม โปรดดูบทความ \"เขต\" และ \"ศูนย์กระจายสินค้า\" ของสารานุกรม",
   },
   "targetingStationTutorialTitle": {
     "english": "Laser Targeting Station",
-    "german": "",
-    "french": "",
     "italian": "Stazione di puntamento laser",
-    "turkish": "",
-    "chinese": "",
     "thai": "สถานีกำหนดเป้าหมายด้วยเลเซอร์",
   },
   "targetingStationFirstTutorialParagraph": {
     "english": "Among the available repairs to the Antares spacecraft is the Laser Cannon. This repair unlocks the ability to remove certain plants, rocks or resources from the game by means of a powerful laser!\n\nOnce the Antares Laser Cannon repair is completed, place the Laser Targeting Station. It is located in the \"Miscellaneous\" category, and does not need workers, power, or road access.\n\nTo learn more about the Antares spacecraft repair, see the \"Spaceship repair\" article in the encyclopedia.",
-    "german": "",
-    "french": "",
     "italian": "Tra le riparazioni disponibili per la nave spaziale Antares c'è il Cannone Laser. Questa riparazione sblocca la capacità di rimuovere certe piante, rocce o risorse dal gioco mediante un potente raggio laser!\n\nUna volta completata la riparazione del Cannone Laser Antares, posiziona la Stazione di puntamento laser. Si trova nella categoria \"Varie\" e non ha bisogno di lavoratori, alimentazione o accesso stradale.\n\nPer saperne di più sulla riparazione della nave spaziale Antares, consulta la voce \"Riparazione della nave spaziale\" nell'enciclopedia.",
-    "turkish": "",
-    "chinese": "",
     "thai": "การซ่อมแซมยานอวกาศอันทาเรสที่มีอยู่คือ Laser Cannon การซ่อมแซมนี้จะปลดล็อกความสามารถในการกำจัดต้นไม้ หิน หรือทรัพยากรบางอย่างออกจากเกมด้วยเลเซอร์อันทรงพลัง!\n\nเมื่อการซ่อมแซมปืนใหญ่เลเซอร์ Antares เสร็จสิ้น ให้วางสถานีกำหนดเป้าหมายด้วยเลเซอร์ ตั้งอยู่ในหมวดหมู่ \"เบ็ดเตล็ด\" และไม่จำเป็นต้องมีคนงาน ไฟฟ้า หรือถนน\n\nหากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการซ่อมยานอวกาศอันทาเรสโปรดดูบทความ \"การซ่อมแซมยานอวกาศ\" ในสารานุกรม",
   },
   "targetingStationSecondTutorialParagraph": {
     "english": "By clicking on the building, you can select the elements you wish to eliminate. The laser is not immediate, and you can stop the operation at any time before the laser destroys the selected rock, resource, or plant.\n\nWarning: the process is not reversible, so think twice before eliminating resources!",
-    "german": "",
-    "french": "",
     "italian": "Cliccando sull'edificio, puoi selezionare gli elementi che desideri eliminare. Il laser non è immediato, e puoi interrompere l'operazione in qualsiasi momento prima che il laser distrugga la roccia, la risorsa o la pianta selezionata.\n\nAttenzione: il processo non è reversibile, quindi rifletti attentamente prima di eliminare risorse!",
-    "turkish": "",
-    "chinese": "",
     "thai": "เมื่อคลิกที่สิ่งปลูกสร้าง คุณสามารถเลือกองค์ประกอบที่คุณต้องการกำจัดได้ เลเซอร์ไม่ได้เกิดขึ้นทันที และคุณสามารถหยุดการทำงานได้ตลอดเวลาก่อนที่เลเซอร์จะทำลายหิน ทรัพยากร หรือพืชที่เลือก\n\nคำเตือน: กระบวนการนี้ไม่สามารถย้อนกลับได้ ดังนั้นควรคิดให้รอบคอบก่อนจะกำจัดทรัพยากร!",
   },
   "researchTutorialTitle": {
     "english": "Research",
-    "german": "",
-    "french": "",
     "italian": "Ricerca",
-    "turkish": "",
-    "chinese": "",
     "thai": "วิจัย",
   },
   "researchFirstTutorialParagraph": {
     "english": "To unlock new buildings or upgrades, you need to develop new technologies through scientific research. This is why you need a Research Lab! Select it in the \"Science\" category and place it on the map.",
-    "german": "",
-    "french": "",
     "italian": "Per sbloccare nuovi edifici o miglioramenti, devi sviluppare nuove tecnologie attraverso la ricerca scientifica. Ecco perché hai bisogno di un Laboratorio di ricerca! Selezionalo nella categoria \"Scienza\" e posizionalo sulla mappa.",
-    "turkish": "",
-    "chinese": "",
     "thai": "เพื่อปลดล็อกอาคารหรือการอัพเกรดใหม่ คุณต้องพัฒนาเทคโนโลยีใหม่ผ่านการวิจัยทางวิทยาศาสตร์ นี่คือเหตุผลที่คุณต้องการห้องปฏิบัติการวิจัย! เลือกในหมวดหมู่ \"วิทยาศาสตร์\" และวางไว้บนแผนที่",
   },
   "researchSecondTutorialParagraph": {
     "english": "Now you can select a research. Open the \"Research\" menu by clicking on the microscope icon at the top left of the screen. Select the desired research from those available and close the menu.",
-    "german": "",
-    "french": "",
     "italian": "Ora puoi selezionare una ricerca. Apri il menu \"Ricerca\" cliccando sull'icona del microscopio in alto a sinistra dello schermo. Seleziona la ricerca desiderata tra quelle disponibili e chiudi il menu.",
-    "turkish": "",
-    "chinese": "",
     "thai": "ตอนนี้คุณสามารถเลือกงานวิจัยได้ เปิดเมนู \"การวิจัย\" โดยคลิกที่ไอคอนกล้องจุลทรรศน์ที่ด้านซ้ายบนของหน้าจอ เลือกงานวิจัยที่ต้องการจากที่มีอยู่แล้วปิดเมนู",
   },
   "researchThirdTutorialParagraph": {
     "english": "The Research Lab will now request blue, green, yellow, or red science packets depending on the technology selected. Once finished, you will be able to select the next research.\n\nNote: placing multiple Research Lab does not allow you to select multiple research at the same time.",
-    "german": "",
-    "french": "",
     "italian": "Il laboratorio di ricerca richiederà ora moduli scientifici blu, verdi, gialli o rossi a seconda della tecnologia selezionata. Una volta terminato, sarai in grado di selezionare la prossima ricerca.\n\nNota: Posizionare più laboratori scientifici non ti consente di selezionare più ricerche contemporaneamente.",
-    "turkish": "",
-    "chinese": "",
     "thai": "ขณะนี้ห้องปฏิบัติการวิจัยจะขอชุดวิทยาศาสตร์สีน้ำเงิน เขียว เหลือง หรือแดง ขึ้นอยู่กับเทคโนโลยีที่เลือก เมื่อเสร็จแล้ว คุณจะสามารถเลือกงานวิจัยถัดไปได้\n\nหมายเหตุ: การวางห้องปฏิบัติการวิจัยหลายรายการไม่อนุญาตให้คุณเลือกงานวิจัยหลายชิ้นในเวลาเดียวกัน",
   },
 }
