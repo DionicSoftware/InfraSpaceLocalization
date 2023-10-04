@@ -2691,6 +2691,7 @@
     "turkish": "Anaokulu",
     "thai": "โรงเรียนอนุบาล",
     "chinese": "幼儿园",
+    "italian": "Asilo",
   },
   "sportCenter": {
     "english": "Sport Center",
@@ -2699,6 +2700,7 @@
     "turkish": "Spor Merkezi",
     "thai": "ศูนย์กีฬา",
     "chinese": "体育中心",
+    "italian": "Polo Sportivo",
   },
   "distributionCenter": {
     "english": "Distribution Center",
@@ -2707,6 +2709,7 @@
     "turkish": "Dağıtım merkezi",
     "thai": "ศูนย์กระจายสินค้า",
     "chinese": "配送中心",
+    "italian": "Centro di Distribuzione",
   },
   "collectionCenter": {
     "english": "Collection Center",
@@ -2715,6 +2718,7 @@
     "turkish": "Toplama Merkezi",
     "thai": "ศูนย์รวบรวม",
     "chinese": "收集中心",
+    "italian": "Centro di Raccolta",
   },
   "theater": {
     "english": "Theater",
@@ -2723,6 +2727,7 @@
     "turkish": "Tiyatro",
     "thai": "โรงภาพยนตร์",
     "chinese": "剧院",
+    "italian": "Teatro",
   },
   "road_gravel_twoWay_twoLane_desc": {
     "english": "A simple two-way, two-lane road.\nBuildings can connect to it. Use hotkeys to adjust the height (R and F by default).",
