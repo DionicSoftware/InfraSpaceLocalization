@@ -2997,7 +2997,7 @@
   "homeRobotFactory_desc": {
     "english": "There is nothing better than finding breakfast ready. Thank you, domestic robot!\n\nResource needed to improve habitats at level 5.",
     "italian": "Non c'è niente di meglio che trovare la colazione pronta. Grazie, robot domestico!\n\nRisorsa necessaria per migliorare gli habitat al livello 5.",
-    "thai": "ไม่มีอะไรจะดีไปกว่าการหาอาหารเช้าให้พร้อม ขอบคุณ หุ่นยนต์ประจำบ้าน!\in\ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 5",
+    "thai": "ไม่มีอะไรจะดีไปกว่าการหาอาหารเช้าให้พร้อม ขอบคุณ หุ่นยนต์ประจำบ้าน!\n\nทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 5",
   },
   "industrialRobotFactory_desc": {
     "english": "Advanced robotic arms, suitable for any job: from the most tedious, to the most dangerous. Reduce workers by 1.\nA single resource is delivered to industries in order of proximity, and will be used until it is consumed. If you want to target them to specific industries, use districts or distribution centers!",
