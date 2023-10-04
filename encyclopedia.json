@@ -388,14 +388,13 @@
     "thai": "พลังงาน",
   },
   // TODO-french
-  // TODO-italian
-  //comment
+  // TODO-german
   "powerFirstTutorialParagraph": {
-    "english": "Power is essential to the operation of buildings.\n\nYou can use electric poles and power substation to spread electricity to surrounding buildings. The power grid must also be connected to enough power sources.\n\nPoles have a very small radius, but by connecting to each other they can cover very large areas.",
-    "german": "Strom ist wichtig um Gebäude zu betreiben.\n\nDu kannst Strommasten und Umspannwerke verwenden, um Gebäude mit dem Stromnetz zu verbinden. Das Netz muss außerdem mit genug Stromquellen verbunden werden.\n\nStrommasten haben einen sehr kleinen Radius, aber wenn du viele verbindest, kannst du auch damit einen großen Bereich abdecken.",
-    "french": "L'électricité est essentielle au fonctionnement des bâtiments.\n\nLes poteaux électriques et les sous-stations sont les deux seuls moyens de diffuser l'électricité aux bâtiments environnants, et ils doivent être connectés à une ou plusieurs sources d'énergie.\n\nLes pôles ont un rayon d'action très réduit, mais en se connectant les uns aux autres, ils peuvent couvrir des zones très étendues.",
-    "italian": "L’energia elettrica è indispensabile al funzionamento degli edifici.\n\nI pali elettrici e la power substation sono gli unici due modi per diffondere l’energia elettrica agli edifici circostanti, e vanno connessi a una o più fonti di energia. \n\nI pali hanno un raggio molto ridotto, ma connettendosi gli uni agli altri possono coprire aree molto vaste.",
-    "chinese": "电力对建筑的运作至关重要。\n\n电线杆和变电站是向周围建筑供电的唯二的方式，它们必须与一个或多个电源相连。\n\n电线杆的半径很小，但通过相互连接，它们可以覆盖很大的区域。",
+    "english": "Power is essential to the operation of buildings.\n\nYou can use electric poles and power substation to spread electricity to surrounding buildings, and they must be connected to one or more power sources. Poles have a very small radius, but by connecting to each other they can cover very large areas.",
+    "german": "Strom ist wichtig um Gebäude zu betreiben.\n\nDu kannst Strommasten und Umspannwerke verwenden, um Gebäude mit dem Stromnetz zu verbinden. Das Netz muss außerdem mit genug Stromquellen verbunden werden. Strommasten haben einen sehr kleinen Radius, aber wenn du viele verbindest, kannst du auch damit einen großen Bereich abdecken.",
+    "french": "L'électricité est essentielle au fonctionnement des bâtiments.\n\nLes poteaux électriques et les sous-stations sont les deux seuls moyens de diffuser l'électricité aux bâtiments environnants, et ils doivent être connectés à une ou plusieurs sources d'énergie. Les pôles ont un rayon d'action très réduit, mais en se connectant les uns aux autres, ils peuvent couvrir des zones très étendues.",
+    "italian": "L’energia elettrica è indispensabile al funzionamento degli edifici.\n\nÈ possibile utilizzare i pali elettrici e le sottostazioni elettriche per diffondere l'energia elettrica agli edifici circostanti, e vanno connessi a una o più fonti di energia. I pali hanno un raggio molto ridotto, ma connettendosi gli uni agli altri possono coprire aree molto vaste.",
+    "chinese": "电力对建筑的运作至关重要。\n\n电线杆和变电站是向周围建筑供电的唯二的方式，它们必须与一个或多个电源相连。电线杆的半径很小，但通过相互连接，它们可以覆盖很大的区域。",
     "thai": "ไฟฟ้าเป็นสิ่งสำคัญในการดำเนินงานของอาคาร\n\nคุณสามารถใช้เสาไฟฟ้าและสถานีไฟฟ้าย่อยเพื่อกระจายไฟฟ้าไปยังอาคารโดยรอบได้ โครงข่ายไฟฟ้าจะต้องเชื่อมต่อกับแหล่งพลังงานที่เพียงพอ\n\nเสามีรัศมีเล็กมาก แต่โดยการเชื่อมต่อกันเสาสามารถครอบคลุมพื้นที่ขนาดใหญ่มาก",
   },
   "powerSecondTutorialParagraph": {
