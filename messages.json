@@ -251,7 +251,7 @@
 		"french": "Suite à un grave accident dans l'espace, le vaisseau Antares est dans un état désastreux. Il est désormais en orbite autour de Neper-3, une planète inhabitée.\nVotre objectif est d'établir une colonie et de trouver les ressources nécessaires pour réparer le vaisseau spatial et aider les passagers à rentrer chez eux.\n\nBon jeu !",
 		"italian": "In seguito ad un disastroso incidente nello spazio, la nave spaziale Antares si trova in condizioni critiche. Adesso orbita intorno a Neper-3, un pianeta disabitato.\nIl tuo obiettivo è stabilire una colonia e trovare le risorse per riparare la nave spaziale, aiutando i passeggeri a tornare a casa.\n\nBuon divertimento!",
 		"chinese": "经历太空中一场严重的事故后，星宿号正处在一种极其糟糕的状态。现在已经进入了奈佩尔3号的轨道，这是一颗无人居住的行星。\n你的目标是建立一个殖民地，并找到修复飞船必须的资源，帮助乘客返回家园。\n\n游玩愉快！",
-		"thai": "หลังจากเกิดอุบัติเหตุร้ายแรงในอวกาศ ยานอวกาศแอนตาเรสก็อยู่ในสภาพย่ำแย่ ขณะนี้มันโคจรรอบดาวเนเปร-3 ซึ่งเป็นดาวเคราะห์ที่ไม่มีใครอยู่อาศัย\nเป้าหมายของคุณคือการสร้างอาณานิคมและค้นหาทรัพยากรที่จำเป็นในการซ่อมแซมยานอวกาศ เพื่อให้ผู้โดยสารกลับบ้านได้\n\nขอให้สนุก!",
+		"thai": "หลังจากเกิดอุบัติเหตุร้ายแรงในอวกาศ ยานอวกาศแอนตาเรสก็อยู่ในสภาพย่ำแย่ ขณะนี้มันโคจรรอบดาวเนเปอร์-3 ซึ่งเป็นดาวเคราะห์ที่ไม่มีใครอยู่อาศัย\nเป้าหมายของคุณคือการสร้างอาณานิคมและค้นหาทรัพยากรที่จำเป็นในการซ่อมแซมยานอวกาศ เพื่อให้ผู้โดยสารกลับบ้านได้\n\nขอให้สนุก!",
 	},
 	"message_storySpaceshipFacilityTitle": {
 		"english": "You have built the Spaceship Construction Facility",
@@ -260,7 +260,7 @@
 		"italian": "Hai costruito l'impianto per la costruzione della Nave Spaziale!",
 		"chinese": "你建造了星舰建造设施",
 		"turkish": "Uzay Gemisi İnşaat Tesisini inşa ettiniz",
-		"thai": "คุณสร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศแล้ว",
+		"thai": "คุณได้สร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศแล้ว",
 	},
 	"message_storySpaceshipFacilityDesc": {
 		"english": "Finally, the repair work on Antares can begin. The passengers are thrilled to see your progress!",
@@ -286,7 +286,7 @@
 		"french": "Antares vient d'effectuer une analyse du sol afin d'évaluer sa richesse minérale. D'après ces données, il existe un important gisement d'adamantine dans le sous-sol !\nCe minéral précieux et rarissime n'existe pas sur Terre, et le trouver en abondance est un véritable coup de chance.\n\nCertains scientifiques commencent à se demander s'il ne vaudrait pas mieux rester sur place pour l'étudier.",
 		"italian": "Antares ha appena terminato una scansione del terreno per valutarne la ricchezza in minerali. Secondo questi dati, vi è una notevole deposito di Adamantio nel sottosuolo!\nQuesto prezioso e rarissimo minerale non è presente sulla Terra, e trovarne in abbondanza è un vero colpo di fortuna.\nAlcuni scienziati hanno iniziato a chiedersi... forse conviene restare qui e studiarlo?",
 		"chinese": "星宿号刚完成了一次土壤扫描来获取矿物丰度。根据这些数据，在地底发现了大量的曼德拉合金。这是一种地球上没有发现过的极其珍贵稀有的矿物，能发现如此多的Adamantine太走运了。有些科学家想知道...留下来研究它是个好主意吗？",
-		"thai": "ยานอวกาศแอนตาเรสเพิ่งทำการสแกนดินเพื่อประเมินความอุดมสมบูรณ์ของแร่ธาตุ ตามข้อมูลนี้ พบ\nแหล่งแร่แมนเดลาไฮโดรเจนจำนวนมากอยู่ใต้ดิน! แร่ธาตุล้ำค่าและหายากชนิดนี้ไม่มีอยู่บนโลก และพบ\nได้มากมายเป็นโชคดีจริงๆ\n\nนักวิทยาศาสตร์บางคนเริ่มสงสัยว่า...จะดีกว่าไหมที่จะอยู่ต่อและศึกษามัน?",
+		"thai": "ยานอวกาศแอนตาเรสเพิ่งทำการสแกนดินเพื่อประเมินความอุดมสมบูรณ์ของแร่ธาตุ ตามข้อมูลนี้ พบ\nแหล่งแร่อะดาแมนไทน์จำนวนมากอยู่ใต้ดิน! แร่ธาตุล้ำค่าและหายากชนิดนี้ไม่มีอยู่บนโลก และพบ\nได้มากมายเป็นโชคดีจริงๆ\n\nนักวิทยาศาสตร์บางคนเริ่มสงสัยว่า...จะดีกว่าไหมที่จะอยู่ต่อและศึกษามัน?",
 	},
 	"message_storySpaceship_0Title": {
 		"english": "Spaceship Repairs Completed!",
@@ -304,7 +304,7 @@
 		"italian": "Congratulazioni! Antares ha finalmente ripreso a funzionare del tutto. Siamo pronti per tornare sulla Terra!",
 		"chinese": "恭喜！星宿号终于修好了。我们已经做好了返回地球的准备！",
 		"turkish": "Tebrikler! Antares nihayet tamamen işlevsel hale geldi. Dünya'ya dönmeye hazırız!",
-		"thai": "ขอแสดงความยินดี! แอนตาเรสสามารถใช้งานได้เต็มที่แล้ว เราพร้อมที่จะกลับไปที่โลก!",
+		"thai": "ขอแสดงความยินดี! แอนตาเรสสามารถใช้งานได้เต็มที่แล้ว เราพร้อมที่จะกลับไปที่โลกแล้ว!",
 	},
 	"message_storySpaceship_1Title": {
 		"english": "Spaceship Repairs Completed!",
@@ -339,7 +339,7 @@
 		"french": "Mais après tout ce temps, certains habitants se sont pris d'affection pour la vie sur Neper-3... Et surtout, l'abondance d'adamantine sous terre semble être une opportunité plus unique que rare.",
 		"italian": "Certo, dopo tutto questo tempo, molti abitanti si sono affezionati alla vita su Neper-3... E soprattutto, l'abbondanza di Adamantio nel sottosuolo sembra un'opportunità più unica che rara.",
 		"chinese": "当然，经历了这段时间，很多居民喜欢上了在奈佩尔3号生活...最终要的是，地底大量的曼德拉合金与其说是一个难得的机会，不如说是独一无二的。",
-		"thai": "แต่หลังจากเวลาทั้งหมดนี้ บางคนในหมู่ผู้อยู่อาศัยได้เติบโตขึ้นเพื่อรักชีวิตบนเนเปอร์-3 ... และเหนือสิ่งอื่นใด ความอุดมสมบูรณ์ของแมนเดลาไฮโดรเจนใต้ดินดูเหมือนจะเป็นโอกาสที่ไม่เหมือนใครมากกว่าหายาก",
+		"thai": "แต่หลังจากเวลาทั้งหมดนี้ บางคนในหมู่ผู้อยู่อาศัยได้เติบโตขึ้นเและรักการใช้ชีวิตบนเนเปอร์-3 ... และเหนือสิ่งอื่นใด ความอุดมสมบูรณ์ของอะดาแมนไทน์ใต้ดินจำนวนมากเป็นโอกาสที่ไม่เหมือนใครและหายากมาก",
 	},
 	"message_storySpaceship_3Title": {
 		"english": "Spaceship Repairs Completed!",
@@ -357,7 +357,7 @@
 		"italian": "Tutti gli scienziati sono emozionati all'idea di averne un deposito disponibile. Secondo una recente teoria, l'Adamantio può essere utilizzato per la terraformazione! Molti studi si stanno muovendo in questa direzione.",
 		"chinese": "所有科学家都很兴奋能有如此丰富的矿产。根据最新的理论成果，曼德拉合金可以用作环境改造！许多研究已投入这个方向。",
 		"turkish": "Tüm bilim adamları bir depozitonun mevcut olmasından heyecan duyuyor. Yeni bir teoriye göre Adamantine dünyalaştırma için kullanılabilir! Birçok çalışma bu yönde ilerlemektedir.",
-		"thai": "นักวิทยาศาสตร์ทุกคนตื่นเต้นที่จะมีเหมืองที่มีอยู่ ตามทฤษฎีล่าสุด แมนเดลาไฮโดรเจนสามารถใช้สำหรับการการเปลี่ยนแปลงของพื้นผิว! และหลาย ๆ การทดลองในโลกแห่งความเป็นจริงเริ่มที่จะยืนยันทฤษฎี",
+		"thai": "นักวิทยาศาสตร์ทุกคนตื่นเต้นที่จะมีเหมืองที่มีอยู่ ตามทฤษฎีล่าสุด อะดาแมนไทน์สามารถใช้สำหรับการการเปลี่ยนแปลงของพื้นผิว! และหลาย ๆ การทดลองในโลกแห่งความเป็นจริงเริ่มที่จะยืนยันทฤษฎี",
 	},
 	"message_storySpaceship_4Title": {
 		"english": "Spaceship Repairs Completed!",
@@ -383,7 +383,7 @@
 		"italian": "Costruzione della colossale trivella per Adamantio",
 		"chinese": "组建巨型曼德拉合金钻头",
 		"turkish": "Devasa Adamantine matkabının inşaatı",
-		"thai": "เริ่มก่อสร้างเครื่องเจาะอดาแมนไทน์ขนาดใหญ่",
+		"thai": "เริ่มก่อสร้างเครื่องเจาะอะดาแมนไทน์ขนาดใหญ่",
 	},
 	"message_storyDrillStartDesc": {
 		"english": "The construction site for the colossal Adamantine drill is ready to start work! This is an ambitious project. Let’s hope to complete it without too many difficulties.",
@@ -392,7 +392,7 @@
 		"italian": "Il cantiere per la trivella colossale per Adamantio è pronto a cominciare i lavori! Si tratta di un progetto ambizioso, speriamo di portarlo a termine senza troppe difficoltà.",
 		"chinese": "巨型曼德拉合金钻头的组装站准备待命！这是一个极具野心的工程，让我们祈祷能够顺利完成它。",
 		"turkish": "Devasa Adamantine matkabının inşaat alanı çalışmaya başlamaya hazır! Bu iddialı bir proje. Umarız çok fazla zorluk yaşamadan tamamlarız.",
-		"thai": "สถานที่ก่อสร้างเครื่องเจาะอดาแมนไทน์ขนาดใหญ่พร้อมเริ่มงานแล้ว! นี่เป็นโครงการที่ทะเยอทะยาน หวังว่าจะเสร็จสมบูรณ์โดยไม่มีปัญหามากเกินไป",
+		"thai": "สถานที่ก่อสร้างเครื่องเจาะอะดาแมนไทน์ขนาดใหญ่พร้อมเริ่มงานแล้ว! นี่เป็นโครงการที่ทะเยอทะยาน หวังว่าจะเสร็จสมบูรณ์โดยไม่มีปัญหามากเกินไป",
 	},
 	"message_storyDrillDoneTitle": {
 		"english": "Colossal Adamantine drill completed.",
@@ -401,7 +401,7 @@
 		"italian": "Colossale trivella per Adamantio terminata.",
 		"chinese": "巨型曼德拉合金钻头完成。",
 		"turkish": "Devasa Adamantine tatbikatı tamamlandı.",
-		"thai": "เครื่องเจาะอดาแมนไทน์ขนาดใหญ่เสร็จสมบูรณ์",
+		"thai": "เครื่องเจาะอะดาแมนไทน์ขนาดใหญ่เสร็จสมบูรณ์",
 	},
 	"message_storyDrillDoneDesc": { //image
 		"english": "This incredible machine is finally ready to be used! It wasn't easy, but you are one step closer to your goal.\n\nLet the extraction begin!",
@@ -427,7 +427,7 @@
 		"italian": "Grazie all'Adamantio, hai sviluppato la tecnologia per rendere verde questo pianeta. Ora è il momento di realizzare questa impresa titanica.",
 		"chinese": "感谢曼德拉合金，你已经发展了科技来绿化这个星球。是时候了解这个伟大的壮举了。",
 		"turkish": "Adamantine sayesinde bu gezegeni yeşillendirecek teknolojiyi geliştirdiniz. Şimdi bu devasa başarıyı gerçekleştirmenin zamanı geldi.",
-		"thai": "ขอบคุณสำหรับอดาแมนไทน์ คุณได้พัฒนาเทคโนโลยีเพื่อทำให้โลกนี้เป็นสีเขียว ตอนนี้ถึงเวลาที่จะตระหนักถึงความสำเร็จอันยิ่งใหญ่นี้แล้ว",
+		"thai": "ขอบคุณสำหรับอะดาแมนไทน์ คุณได้พัฒนาเทคโนโลยีเพื่อทำให้โลกนี้เป็นสีเขียว ตอนนี้ถึงเวลาที่จะตระหนักถึงความสำเร็จอันยิ่งใหญ่นี้แล้ว",
 	},
 	"message_storyTerraformingDone_0Title": {
 		"english": "Terraforming completed!",
