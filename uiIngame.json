@@ -4151,6 +4151,7 @@
 		"english": "Inspect delivery status:",
 		"italian": "Ispeziona lo stato delle consegne:",
 		"thai": "ตรวจสอบสถานะการจัดส่ง:",
+		"turkish": "Teslimat durumunu inceleyin:",
 	},
 	"colorsDescription": {
 		"english": "- Blue: selected building\n- Green: delivery in progress\n- Yellow: incoming storage full\n- Red: not reachable",
