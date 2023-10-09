@@ -466,8 +466,8 @@
   },
   "spaceshipRepairFirstTutorialParagraph": {
     "english": "Repairing the spaceship Antares must be done in stages, and for each element you manage to repair you will get a bonus. To repair the spacecraft, you need a Spaceship Construction Facility, which you can find in the \"Transport\" category.",
-    "italian": "La riparazione della nave spaziale Antares deve essere effettuata in fasi, e per ogni elemento che riuscirai a riparare otterrai un bonus. Per riparare la nave spaziale, hai bisogno dell'Impianto per la costruzione della Nave Spaziale, che puoi trovare nella categoria \"Trasporti\",
-    "thai": "การซ่อมยานอวกาศอันทาเรสจะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\",
+    "italian": "La riparazione della nave spaziale Antares deve essere effettuata in fasi, e per ogni elemento che riuscirai a riparare otterrai un bonus. Per riparare la nave spaziale, hai bisogno dell'Impianto per la costruzione della Nave Spaziale, che puoi trovare nella categoria \"Trasporti\"",
+    "thai": "การซ่อมยานอวกาศอันทาเรสจะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\"",
     "turkish": "Antares uzay gemisinin onarımı aşamalı olarak yapılmalıdır ve onarmayı başardığınız her öğe için bir bonus alacaksınız. Uzay aracını onarmak için \"Ulaşım\" kategorisinde bulabileceğiniz bir Uzay Gemisi İnşaat Tesisine ihtiyacınız var.",
   },
   "spaceshipRepairSecondTutorialParagraph": {
