@@ -3181,14 +3181,14 @@
 
   },
   "recyclingCenter_desc": {
-    "english": "Recycling is important!\n\nThis building enables resource-free production once in every five production cycles.\nIt applies to industries in the surrounding area that support this improvement.",
-    "italian": "Riciclare è importante!\n\nQuesto edificio consente una produzione senza consumare risorse una volta ogni cinque cicli produttivi.\nSi applica alle industrie dell'area circostante che supportano questo miglioramento.",
+    "english": "Recycling is important!\n\nThis building enables resource-free production once in every five production cycles.\n\nIt applies to industries in the surrounding area that support this improvement.",
+    "italian": "Riciclare è importante!\n\nQuesto edificio consente una produzione senza consumare risorse una volta ogni cinque cicli produttivi.\n\nSi applica alle industrie dell'area circostante che supportano questo miglioramento.",
     "thai": "การรีไซเคิลเป็นสิ่งสำคัญ!\n\nอาคารหลังนี้ช่วยให้สามารถผลิตโดยไม่ต้องใช้ทรัพยากรทุกๆ ห้ารอบการผลิต โดยนำไปใช้กับอุตสาหกรรมในพื้นที่โดยรอบที่สนับสนุนการปรับปรุงนี้",
 
   },
   "soilEnrichmentFacility_desc": {
-    "english": "Soil quality makes a difference.\n\nThis building increases production speed by 50%.\nIt applies to farms in the surrounding area.",
-    "italian": "La qualità del terreno fa la differenza.\n\nQuesto edificio aumenta la velocità di produzione del 50%.\nSi applica alle fattorie nell'area circostante.",
+    "english": "Soil quality makes a difference.\n\nThis building increases production speed by 50%.\n\nIt applies to farms in the surrounding area.",
+    "italian": "La qualità del terreno fa la differenza.\n\nQuesto edificio aumenta la velocità di produzione del 50%.\n\nSi applica alle fattorie nell'area circostante.",
     "thai": "คุณภาพดินสร้างความแตกต่าง อาคารนี้เพิ่มความเร็วในการผลิต 50% ใช้กับฟาร์มในพื้นที่โดยรอบ",
 
   },
