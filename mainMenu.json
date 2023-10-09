@@ -25,8 +25,8 @@
 		"danish": "Nyt Spil",
 		"greek": "Νέο Παιχνίδι",
 		"swiss german": "Neus Spiel",
-		"farsi":"بازی جدید",
-		"scotsgaelic": "Gèam Ùr",
+		"farsi": "بازی جدید",
+		"scotsgaelic": "Gèam Ùr"
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -53,8 +53,8 @@
 		"danish": "Gem Spil",
 		"greek": "Αποθήκευση Παιχνιδιού",
 		"swiss german": "Spiel speicherä",
-		"farsi":"ذخیره بازی",
-		"scotsgaelic": "Gèam a Shàbhaladh",
+		"farsi": "ذخیره بازی",
+		"scotsgaelic": "Gèam a Shàbhaladh"
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -81,8 +81,8 @@
 		"danish": "Indlæs Spil",
 		"greek": "Φόρτωση Παιχνιδιού",
 		"swiss german": "Spiel ladä",
-		"farsi":"وارد شدن به بازی",
-		"scotsgaelic": "Tòisich Gèam",
+		"farsi": "وارد شدن به بازی",
+		"scotsgaelic": "Tòisich Gèam"
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -109,8 +109,8 @@
 		"danish": "Hovedmenu",
 		"greek": "Κύριο Μενού",
 		"swiss german": "Hauftmenü",
-		"farsi":"صفحه اصلی",
-		"scotsgaelic": "Prìomh Chlàr",
+		"farsi": "صفحه اصلی",
+		"scotsgaelic": "Prìomh Chlàr"
 	},
 	"quit": {
 		"english": "Quit",
@@ -137,8 +137,8 @@
 		"danish": "Afslut",
 		"greek": "Έξοδος",
 		"swiss german": "Beändä",
-		"farsi":"خروج",
-		"scotsgaelic": "Stad an Gèam",
+		"farsi": "خروج",
+		"scotsgaelic": "Stad an Gèam"
 	},
 	"back": {
 		"english": "Back",
@@ -147,7 +147,7 @@
 		"hungarian": "Vissza",
 		"french": "Retour",
 		"russian": "Назад",
-		"thai":"กลับ",
+		"thai": "กลับ",
 		"polish": "Wróć",
 		"czech": "Zpět",
 		"ukrainian": "Назад",
@@ -156,11 +156,11 @@
 		"danish": "Tilbage",
 		"greek": "Πίσω",
 		"swiss german": "Zrugg",
-		"farsi":"بازگشت",
+		"farsi": "بازگشت",
 		"japanese": "戻る",
 		"turkish": "Geri",
 		"chinese": "返回",
-		"scotsgaelic": "ais",
+		"scotsgaelic": "ais"
 	},
 	"backToGame": {
 		"english": "Back to Game",
@@ -172,7 +172,7 @@
 		"japanese": "ゲームに戻る",
 		"thai": "กลับไปยังเกม",
 		"arabic": "الرجوع إلى اللعبة",
-		"turkish":"Oyuna Dön",
+		"turkish": "Oyuna Dön",
 		"russian": "Вернуться в игру",
 		"italian": "Ritorna al Gioco",
 		"romanian": "Înapoi la joc",
@@ -183,9 +183,9 @@
 		"danish": "Tilbage til spillet",
 		"greek": "Πίσω στο Παιχνίδι",
 		"swiss german": "zrugg zum Spiel",
-		"farsi":"ادامه بازی",
+		"farsi": "ادامه بازی",
 		"chinese": "返回游戏",
-		"scotsgaelic": "Air ais dhan Ghèam",
+		"scotsgaelic": "Air ais dhan Ghèam"
 	},
 	"website": {
 		"english": "Website",
@@ -212,8 +212,8 @@
 		"danish": "Hjemmeside",
 		"greek": "Ιστοσελίδα",
 		"swiss german": "Websiitä",
-		"farsi":"وب سایت",
-		"scotsgaelic": "Làrach-lìn",
+		"farsi": "وب سایت",
+		"scotsgaelic": "Làrach-lìn"
 	},
 	"forum": {
 		"english": "Forum",
@@ -240,8 +240,8 @@
 		"danish": "Forum",
 		"greek": "Φόρουμ",
 		"swiss german": "Forum",
-		"farsi":"فورم",
-		"scotsgaelic": "Fòram",
+		"farsi": "فورم",
+		"scotsgaelic": "Fòram"
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -268,8 +268,8 @@
 		"danish": "Opdatering Tilgængelig",
 		"greek": "Αμαβάθμιση Διαθέσιμη!",
 		"swiss german": "Update verfüegbar",
-		"farsi":"بروزرسانی در دسترس است",
-		"scotsgaelic": "Ùrachadh ri fhaighinn!",
+		"farsi": "بروزرسانی در دسترس است",
+		"scotsgaelic": "Ùrachadh ri fhaighinn!"
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -296,8 +296,8 @@
 		"danish": "Hent Seneste Version",
 		"greek": "Λάβε την νεότερη έκδοση ",
 		"swiss german": "neuschti Version abelade",
-		"farsi":"گرفتن جدید ترین نسخه",
-		"scotsgaelic": "Faigh an tionndadh as ùire",
+		"farsi": "گرفتن جدید ترین نسخه",
+		"scotsgaelic": "Faigh an tionndadh as ùire"
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -324,8 +324,8 @@
 		"danish": "Din Version",
 		"greek": "Η έκδοσή σου",
 		"swiss german": "dini Version",
-		"farsi":"نسخه شما",
-		"scotsgaelic": "Do Tionndadh",
+		"farsi": "نسخه شما",
+		"scotsgaelic": "Do Tionndadh"
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -352,8 +352,8 @@
 		"danish": "Nuværende Version",
 		"greek": "Τρέχουσα έκδοση",
 		"swiss german": "Aktuelli Version",
-		"farsi":"نسخه فعلی",
-		"scotsgaelic": "Tionndadh As ùire",
+		"farsi": "نسخه فعلی",
+		"scotsgaelic": "Tionndadh As ùire"
 	},
 	"community": { // not all languages might translate this. here, we mean the community of players (title of forum panel in main menu)
 		"english": "Community",
@@ -374,13 +374,13 @@
 		"hungarian": "Közösség",
 		"thai": "ชุมชน",
 		"arabic": "منتدى اللاعبين",
-		"turkish":"Topluluk",
+		"turkish": "Topluluk",
 		"romanian": "Comunitate",
 		"danish": "Fællesskab",
 		"greek": "Κοινότητα",
 		"swiss german": "Community",
-		"farsi":"انجمن",
-		"scotsgaelic": "Coimhearsnachd",
+		"farsi": "انجمن",
+		"scotsgaelic": "Coimhearsnachd"
 	},
 	"alphaNoticeTitle": {
 		"english": "This is an Alpha Version",
@@ -401,13 +401,13 @@
 		"hungarian": "Ez egy alpha verzió",
 		"thai": "นี่คือเวอร์ชันอัลฟ่า",
 		"arabic": "هذا إصدار اختباري",
-		"turkish":"Bu bir Alfa Sürümdür",
+		"turkish": "Bu bir Alfa Sürümdür",
 		"romanian": "Aceasta este o versiune alfa",
 		"danish": "Dette er en Alpha Version",
 		"greek": "Αυτή είναι μία 'Αλφα έκδοση",
 		"swiss german": "Das isch ä Alpha-Version",
-		"farsi":"این یک ورژن الفا است",
-		"scotsgaelic": "Is e seo dreach Alpha",
+		"farsi": "این یک ورژن الفا است",
+		"scotsgaelic": "Is e seo dreach Alpha"
 	},
 	"alphaNoticeText": {
 		"english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -428,13 +428,13 @@
 		"hungarian": "Ez a játék még nincs készen. Lehetnek benne hibák \n\nEzeket a korai verziókat adjuk ki játékosoknak, hogy visszajelzést kapjunk a játékmenetről és mielőbb megtaláljuk a hibákat a hivatalos kiadás előtt.\n\nTudasd velünk, hogy neked hogy tetszik!",
 		"thai": "เกมนี้ยังไม่เสร็จอาจจะมีข้อผิดพลาด\n\nเรากำลังเผยแพร่เวอร์ชันแรกๆ พวกนี้ให้กับผู้เล่น เพื่อให้เราได้รับคำติชมจากการเล่นและค้นหาจุดบกพร่องก่อนการเปิดตัวอย่างเป็นทางการ\n\nแจ้งให้เราทราบว่าคุฯชอบมันหรือไม่!",
 		"arabic": "هذه اللعبة ليست مكتملة بعد.\n\nنحن نقوم بإطلاق تلك الإصدارات المبكرة للاعبين حتى نحصل على بعض التقييمات عن تجربة اللعب  واكتشاف المشاكل قبل إطلاق اللعبة الرسمي بكثير.\n\nأخبرنا كيف تحب اللعبة!",
-		"turkish":"Bu oyun daha tamamlanmamıştır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
+		"turkish": "Bu oyun daha tamamlanmamıştır. Hatalar içerebilir.\n\nBu erken sürümleri oyunculardan geri dönüş alabilmek ve hataları bulabilmek için yayınlıyoruz.\n\nOyun hakkındaki düşüncelerinizi duymak isteriz!",
 		"romanian": "Acest joc nu este încă terminat. Poate conține bug-uri.\n\nLansăm jucătorilor aceste versiuni timpurii, astfel încât să putem obține feedback despre joc și să găsim erori cu mult înainte de lansarea oficială.\n\nSpune-ne cum îți place!",
 		"danish": "Dette spil er ikke færdigt endnu. Det kan indeholde fejl.\n\nVi udsender disse tidlige versioner til spillere så vi kan få feedback på spiloplevelsen og finde fejlene lang tid før den endelige release.\n\nFortæl os endelig hvad du synes!",
 		"greek": "Το παιχνίδι δέν είναι έτοιμο ακόμα.Μπορεί να περιέχει προβλήματα.\n\nΚυκλοφορούμε αυτές τις πρώιμες εκδόσεις στους παίκτες ώστε να λάβουμε σχόλια στο παίξιμο του παιχνιδιού και να εντοπίσουμε προβλήματα πολύ πριν την επίσιμη κυκλοφορία.\n\nΠείτε μας πόσο σας αρέσει!",
 		"swiss german": "Das Spiel isch nonig färtig. Es chönt na Bugs drinn ha.\n\nMir veröffendliched die früenere Versione a Spiler dass mir Feedback zum Gameplay erhalted und Bugs findä chönd lang bevor s Spiel offiziell veröffentlicht wird.",
-		"farsi":"  از این بازی خوشتان امد؟ \n\n ما این نسخه های نسختین رو منتشر کردیم تا بتوانیم نظر بازیکنان را بدانیم و مشکلات را حل کنیم\n\n  این بازی هنوز تمام نشده،امکان دارد خرابی هایی داشته باشد",
-		"scotsgaelic": "Chan eil an geama seo deiseil fhathast. 'S dòcha gu bheil mialan ann.\n\nTha sinn a' sgaoileadh nan dreachan tràtha seo gu cluicheadairean gus am faigh sinn fios air ais mun gheama agus lorg sinn biastagan fada ron fhoillseachadh oifigeil.\n\n Leig fios dhuinn mas toil leat an geama!",
+		"farsi": "  از این بازی خوشتان امد؟ \n\n ما این نسخه های نسختین رو منتشر کردیم تا بتوانیم نظر بازیکنان را بدانیم و مشکلات را حل کنیم\n\n  این بازی هنوز تمام نشده،امکان دارد خرابی هایی داشته باشد",
+		"scotsgaelic": "Chan eil an geama seo deiseil fhathast. 'S dòcha gu bheil mialan ann.\n\nTha sinn a' sgaoileadh nan dreachan tràtha seo gu cluicheadairean gus am faigh sinn fios air ais mun gheama agus lorg sinn biastagan fada ron fhoillseachadh oifigeil.\n\n Leig fios dhuinn mas toil leat an geama!"
 	},
 	// SAVE MENU
 	"loadSave": { // needs to be short
@@ -462,8 +462,8 @@
 		"danish": "Indlæs",
 		"greek": "Φόρτωση",
 		"swiss german": "Ladä",
-		"farsi":"بازکردن",
-		"scotsgaelic": "Luchdaich",
+		"farsi": "بازکردن",
+		"scotsgaelic": "Luchdaich"
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -490,8 +490,8 @@
 		"danish": "Overskriv",
 		"greek": "Εγγραφή",
 		"swiss german": "Überschriibe",
-		"farsi":"رو نویسی؟",
-		"scotsgaelic": "Sgrìobh Thairis",
+		"farsi": "رو نویسی؟",
+		"scotsgaelic": "Sgrìobh Thairis"
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -519,7 +519,7 @@
 		"greek": "Είσαι σίγουρος ότι θες να διαγράψεις την αποθήκευση \"%save%\"; Θα χαθεί για πάντα",
 		"swiss german": "Bisch du dir sicher dass du de Spielstand \"%save%\" lösche wetsch? Er wird nümme widerherstellbar sii.",
 		"farsi": "ایا واقعا میخواهی  \"%save%\" را پاک کنید؟ برای همیشه از دست میرود!",
-		"scotsgaelic": "A bheil thu cinnteach gu bheil thu airson an sàbhaladh \"%save%\" a sguabadh às? Bidh e air falbh gu bràth.",
+		"scotsgaelic": "A bheil thu cinnteach gu bheil thu airson an sàbhaladh \"%save%\" a sguabadh às? Bidh e air falbh gu bràth."
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -547,7 +547,7 @@
 		"greek": "Το παχνίδι δεν έχει αποθηκευτεί για %minutes% λεπτά.Είσαι σίγουρος ότι θες να πας πίσω στο κεντρικό μενού χωρίς αποθήκευση;",
 		"swiss german": "Das Spiel isch sit %minutes% Minutä numme gspeicheret worde. Bisch du sicher, dass du ohni Speichere zum Hauptmenü gah wetsch?",
 		"farsi": "  ذخیره نشده است ایا واقعا میخواهید خارج شوید؟%minutes% این بازی برای ",
-		"scotsgaelic": "Cha deach an geama a shàbhaladh airson %mionaidean% mionaid. A bheil thu cinnteach gu bheil thu airson a dhol air ais dhan phrìomh chlàr gun sàbhaladh?",
+		"scotsgaelic": "Cha deach an geama a shàbhaladh airson %mionaidean% mionaid. A bheil thu cinnteach gu bheil thu airson a dhol air ais dhan phrìomh chlàr gun sàbhaladh?"
 	},
 	"outpostThetaThree": {
 		"english": "Outpost Theta-3",
@@ -556,7 +556,7 @@
 		"dutch": "Kolonie Theta-3",
 		"russian": "Аванпост Тета-3",
 		"chinese": "哨站 Theta-3",
-        	"spanish": "Puesto de Avanzada Theta-3",
+		"spanish": "Puesto de Avanzada Theta-3",
 		"spanish-esp": "Puesto Avanzado Theta-3",
 		"italian": "Avamposto Theta-3",
 		"japanese": "前哨基地 Theta-3",
@@ -568,13 +568,13 @@
 		"hungarian": "Theta-3-as Előőrs",
 		"thai": "ค่ายขนาดเล็ก Theta-3",
 		"arabic": "القاعدة Theta-3",
-		"turkish":"Koloni Theta-3",
+		"turkish": "Koloni Theta-3",
 		"romanian": "Avanpost Theta-3",
-		"danish":"Koloni Theta-3",
+		"danish": "Koloni Theta-3",
 		"greek": "Εγκατάσταση Θήτα-3",
 		"swiss german": "Ussäposchte Theta-3",
-		"farsi":"پایگاه تتا 3",
-		"scotsgaelic": "Campa Theta-3",
+		"farsi": "پایگاه تتا 3",
+		"scotsgaelic": "Campa Theta-3"
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -601,8 +601,8 @@
 		"danish": "Ugyldigt teg i fil navnet!",
 		"greek": "Απαγορευμένοι χαρακτήρες στο όνομα αρχείου",
 		"swiss german": "Verboteni Buächstabä im Dateinamä",
-		"farsi":"حروف ممنوعه در اسم فایل",
-		"scotsgaelic": "Caractaran toirmisgte ann an ainm faidhle",
+		"farsi": "حروف ممنوعه در اسم فایل",
+		"scotsgaelic": "Caractaran toirmisgte ann an ainm faidhle"
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -629,8 +629,8 @@
 		"danish": "Filnavnet er for langt!",
 		"greek": "Όνομα αρχείου πολύ μεγάλο",
 		"swiss german": "zu langä Dateinamä",
-		"farsi":"اسم فایل بیش از حد طولانی است",
-		"scotsgaelic": "Ainm an fhaidhle ro fhada",
+		"farsi": "اسم فایل بیش از حد طولانی است",
+		"scotsgaelic": "Ainm an fhaidhle ro fhada"
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -657,8 +657,8 @@
 		"danish": "Filnavnet er for kort!",
 		"greek": "Όνομα αρχείου πολύ μικρό",
 		"swiss german": "zu churzä Dateinamä",
-		"farsi":"اسم فایل بیش از حد کوتاه است",
-		"scotsgaelic": "Ainm faidhle ro ghoirid",
+		"farsi": "اسم فایل بیش از حد کوتاه است",
+		"scotsgaelic": "Ainm faidhle ro ghoirid"
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -685,8 +685,8 @@
 		"danish": "Filnavnet er allerede i brug!",
 		"greek": "Το όνομα αρχείου ήδη χρησιμοποιείται",
 		"swiss german": "Dateinamä scho bruucht",
-		"farsi":"اسم قبلا استفاده شده",
-		"scotsgaelic": "Ainm faidhle air a chleachdadh mu thràth",
+		"farsi": "اسم قبلا استفاده شده",
+		"scotsgaelic": "Ainm faidhle air a chleachdadh mu thràth"
 	},
 	// SETTINGS
 	"settings": {
@@ -714,8 +714,8 @@
 		"danish": "Indstillinger",
 		"greek": "Ρυθμίσεις",
 		"swiss german": "Iistelligä",
-		"farsi":"تنظیمات",
-		"scotsgaelic": "Suidhichidhean",
+		"farsi": "تنظیمات",
+		"scotsgaelic": "Suidhichidhean"
 	},
 	"graphics": {
 		"english": "Video",
@@ -742,8 +742,8 @@
 		"danish": "Video",
 		"greek": "Γραφικά",
 		"swiss german": "Grafik",
-		"farsi":"تنظیمات ویدیو",
-		"scotsgaelic": "Bhideo",
+		"farsi": "تنظیمات ویدیو",
+		"scotsgaelic": "Bhideo"
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -770,8 +770,8 @@
 		"danish": "Grafik Kvalitet",
 		"greek": "Ποιότητα Γραφικών",
 		"swiss german": "Grafikqualität",
-		"farsi":"کیفیت ویدیو",
-		"scotsgaelic": "Càileachd Grafaigeachd",
+		"farsi": "کیفیت ویدیو",
+		"scotsgaelic": "Càileachd Grafaigeachd"
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -798,8 +798,8 @@
 		"danish": "Lav",
 		"greek": "Χαμηλή",
 		"swiss german": "Tüüf",
-		"farsi":"ضعیف",
-		"scotsgaelic": "Ìosal",
+		"farsi": "ضعیف",
+		"scotsgaelic": "Ìosal"
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -826,8 +826,8 @@
 		"danish": "Middel",
 		"greek": "Μεσαία",
 		"swiss german": "Mittäl",
-		"farsi":"متوسط",
-		"scotsgaelic": "Meadhanach",
+		"farsi": "متوسط",
+		"scotsgaelic": "Meadhanach"
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -854,8 +854,8 @@
 		"danish": "Høj",
 		"greek": "Υψηλή",
 		"swiss german": "Hoch",
-		"farsi":"بالا",
-		"scotsgaelic": "Àrd",
+		"farsi": "بالا",
+		"scotsgaelic": "Àrd"
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -882,8 +882,8 @@
 		"danish": "Opløsning",
 		"greek": "Ανάλυση",
 		"swiss german": "Uflösig",
-		"farsi":"کیفیت",
-		"scotsgaelic": "Rhùn",
+		"farsi": "کیفیت",
+		"scotsgaelic": "Rhùn"
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -910,8 +910,8 @@
 		"danish": "Visningstilstand",
 		"greek": "Λειτουργία εμφάνισης",
 		"swiss german": "Ahzeigemodus",
-		"farsi":"حالت نمایش",
-		"scotsgaelic": "MODE Taisbeanaidh",
+		"farsi": "حالت نمایش",
+		"scotsgaelic": "MODE Taisbeanaidh"
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -938,8 +938,8 @@
 		"danish": "Vindue",
 		"greek": "Σε παράθυρο",
 		"swiss german": "Fenschter",
-		"farsi":"صفحه ای",
-		"scotsgaelic": "Uinneag",
+		"farsi": "صفحه ای",
+		"scotsgaelic": "Uinneag"
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -966,8 +966,8 @@
 		"danish": "Fuldskærm",
 		"greek": "Πλήρης Οθόνη",
 		"swiss german": "Vollbild",
-		"farsi":"تمام صفحه",
-		"scotsgaelic": "Làn-Sgrìn",
+		"farsi": "تمام صفحه",
+		"scotsgaelic": "Làn-Sgrìn"
 	},
 	"exclusiveFullscreen": {
 		"english": "Exclusive Fullscreen",
@@ -988,13 +988,13 @@
 		"hungarian": "Exklúzív teljesképernyős",
 		"thai": "เต็มจอพิเศษ",
 		"arabic": "ملء تام للشاشة",
-		"turkish":"Pencereli Tam Ekran",
+		"turkish": "Pencereli Tam Ekran",
 		"romanian": "Ecran complet exclusiv",
 		"danish": "Eksklusiv fuldskærm",
 		"greek": "Αποκλειστικά Πλήρης Οθόνη",
 		"swiss german": "Exklusivs Vollbild",
-		"farsi":"تمام صفحه خاص",
-		"scotsgaelic": "Làn-Sgrìn sònraichte",
+		"farsi": "تمام صفحه خاص",
+		"scotsgaelic": "Làn-Sgrìn sònraichte"
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -1021,8 +1021,8 @@
 		"danish": "Vsync",
 		"greek": "Vsync",
 		"swiss german": "Vsync",
-		"farsi":"Vsync",
-		"scotsgaelic": "Vsync",
+		"farsi": "Vsync",
+		"scotsgaelic": "Vsync"
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -1049,8 +1049,8 @@
 		"danish": "Langsom",
 		"greek": "Αργό",
 		"swiss german": "Langsam",
-		"farsi":"ارام",
-		"scotsgaelic": "Mall",
+		"farsi": "ارام",
+		"scotsgaelic": "Mall"
 	},
 	"on": {
 		"english": "On",
@@ -1077,8 +1077,8 @@
 		"danish": "Tændt",
 		"greek": "Ενεργοποιημένο",
 		"swiss german": "Ahgstellt",
-		"farsi":"روشن",
-		"scotsgaelic": "Gnìomhach",
+		"farsi": "روشن",
+		"scotsgaelic": "Gnìomhach"
 	},
 	"off": {
 		"english": "Off",
@@ -1105,8 +1105,8 @@
 		"danish": "Slukket",
 		"greek": "Απενεργοποιημένο",
 		"swiss german": "Abgstellt",
-		"farsi":"خاموش",
-		"scotsgaelic": "Neo-ghnìomhach",
+		"farsi": "خاموش",
+		"scotsgaelic": "Neo-ghnìomhach"
 	},
 	"uiScale": {
 		"english": "UI Scale",
@@ -1117,18 +1117,18 @@
 		"russian": "Размер интерфейса",
 		"italian": "Scala dell'interfaccia",
 		"hungarian": "GUI mérete",
-		"thai":"ขนาด UI",
+		"thai": "ขนาด UI",
 		"polish": "Skalowanie interfejsu",
 		"czech": "Uživatelské rozhraní",
 		"ukrainian": "Масштаб інтерфейсу",
 		"danish": "UI Skala",
 		"greek": "Κλίμακα UI",
 		"swiss german": "UI Grössi",
-		"farsi":"اندازه صفحه",
+		"farsi": "اندازه صفحه",
 		"japanese": "UIスケール",
 		"turkish": "Arayüz boyutu",
 		"chinese": "界面尺寸",
-		"scotsgaelic": "UI Sgèile",
+		"scotsgaelic": "UI Sgèile"
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1155,8 +1155,8 @@
 		"danish": "Lysstyrke",
 		"greek": "Φωτεινότητα",
 		"swiss german": "Helligkeit",
-		"farsi":"روشنایی",
-		"scotsgaelic": "Gile",
+		"farsi": "روشنایی",
+		"scotsgaelic": "Gile"
 	},
 	"audio": {
 		"english": "Audio",
@@ -1183,8 +1183,8 @@
 		"danish": "Lyd",
 		"greek": "Ήχος",
 		"swiss german": "Audio",
-		"farsi":"صدا",
-		"scotsgaelic": "Fuaim",
+		"farsi": "صدا",
+		"scotsgaelic": "Fuaim"
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -1211,8 +1211,8 @@
 		"danish": "Total Lydstyrke",
 		"greek": "Συνολική Ένταση",
 		"swiss german": "Gsamtluutstärchi",
-		"farsi":"تمام صدا",
-		"scotsgaelic": "Meud Iomlan Fuaim",
+		"farsi": "تمام صدا",
+		"scotsgaelic": "Meud Iomlan Fuaim"
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -1239,8 +1239,8 @@
 		"danish": "Lydeffekter",
 		"greek": "Ηχιτικά εφέ",
 		"swiss german": "Soundeffekt",
-		"farsi":"افکت های صوتی",
-		"scotsgaelic": "Buaidhean Fuaim",
+		"farsi": "افکت های صوتی",
+		"scotsgaelic": "Buaidhean Fuaim"
 	},
 	"music": {
 		"english": "Music",
@@ -1267,8 +1267,8 @@
 		"danish": "Musik",
 		"greek": "Μουσική",
 		"swiss german": "Musig",
-		"farsi":"اهنگ",
-		"scotsgaelic": "Ceol",
+		"farsi": "اهنگ",
+		"scotsgaelic": "Ceol"
 	},
 	"other": {
 		"english": "Other",
@@ -1295,8 +1295,8 @@
 		"danish": "Andet",
 		"greek": "Άλλα",
 		"swiss german": "Anders",
-		"farsi":"بقیه",
-		"scotsgaelic": "A bharrachd",
+		"farsi": "بقیه",
+		"scotsgaelic": "A bharrachd"
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1323,8 +1323,8 @@
 		"danish": "Kamera Hastighed",
 		"greek": "Ταχύτητα κάμερας",
 		"swiss german": "Kameragschwindigkeit",
-		"farsi":"سرعت دوربین",
-		"scotsgaelic": "Luas Camara",
+		"farsi": "سرعت دوربین",
+		"scotsgaelic": "Luas Camara"
 	},
 	"language": {
 		"english": "Language",
@@ -1351,8 +1351,8 @@
 		"danish": "Sprog",
 		"greek": "Γλώσσα",
 		"swiss german": "Sprach",
-		"farsi":"زبان",
-		"scotsgaelic": "Cànain",
+		"farsi": "زبان",
+		"scotsgaelic": "Cànain"
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1379,14 +1379,14 @@
 		"danish": "musekantsrulning",
 		"greek": "Κύλιση στην άκρη ποντικιού",
 		"swiss german": "Kamerastüürig mit Muus",
-		"farsi":"جابجایی دوربین با نزدیک کردن نشانه‌گر به لبه",
-		"scotsgaelic": "Scroll oir na luchaige",
+		"farsi": "جابجایی دوربین با نزدیک کردن نشانه‌گر به لبه",
+		"scotsgaelic": "Scroll oir na luchaige"
 	},
 	"confinedCursor": {
 		"english": "Confined Cursor",
 		"german": "Maus begrenzt auf Fenster",
 		"french": "Curseur restreint",
-		"farsi":"نشانه‌گر محدود",
+		"farsi": "نشانه‌گر محدود",
 		"japanese": "カーソル移動範囲の制限",
 		"thai": "จำกัดเคอร์เซอร์",
 		"hungarian": "Ablakon belüli egér",
@@ -1394,7 +1394,7 @@
 		"chinese": "限制光标范围",
 		"scotsgaelic": "Luchag Chuingealaichte",
 		"russian": "Ограничение курсора окном игры",
-		"italian": "Cursore Limitato",
+		"italian": "Cursore Limitato"
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1421,8 +1421,8 @@
 		"danish": "Udviklertilstand",
 		"greek": "Λειτουργία προγραμματιστπή",
 		"swiss german": "Entwicklermodus",
-		"farsi":"حالت توسعه دهنده",
-		"scotsgaelic": "Modh Leasaiche",
+		"farsi": "حالت توسعه دهنده",
+		"scotsgaelic": "Modh Leasaiche"
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1449,8 +1449,8 @@
 		"danish": "Spil aktivt i baggrunden",
 		"greek": "Παιχνίδι ενεργό στο υπόβαθρο",
 		"swiss german": "Spiel lauft im Hindergrund",
-		"farsi":"بازی در پیش زمینه فعال باشد",
-		"scotsgaelic": "Geama gnìomhach ann an Cùl-fhiosrachadh",
+		"farsi": "بازی در پیش زمینه فعال باشد",
+		"scotsgaelic": "Geama gnìomhach ann an Cùl-fhiosrachadh"
 	},
 	"showTutorials": {
 		"english": "Show Tutorials",
@@ -1471,17 +1471,17 @@
 		"hungarian": "Oktatóanyag megjelenítése",
 		"thai": "แสดงการสาธิต",
 		"arabic": "إظهار الإرشادات",
-		"turkish":"Öğreticileri Göster",
+		"turkish": "Öğreticileri Göster",
 		"romanian": "Afișați tutoriale",
 		"danish": "Vis tutorial",
 		"greek": "Εμφάνισε Οδηγίες",
 		"swiss german": "Tutorials ahzeigä",
-		"farsi":"نمایش راهنما",
-		"scotsgaelic": "Seall Cobhair",
+		"farsi": "نمایش راهنما",
+		"scotsgaelic": "Seall Cobhair"
 	},
 	"resetKnownTutorials": { // skip "known" if text too large for button
 		"english": "Reset Known Tutorials",
-		"german": "Tutorials Zurücksetzen",
+		"german": "Tutorials zurücksetzen",
 		"french": "Réinitialiser les tutoriels connus",
 		"dutch": "Tutorials resetten",
 		"spanish": "Saltar Tutoriales",
@@ -1498,13 +1498,13 @@
 		"hungarian": "Oktatóanyagok visszaállítása",
 		"thai": "รีเซ็ตบทเรียนที่เรียนแล้ว",
 		"arabic": "تجاوز الإرشادات",
-		"turkish":"Öğreticileri Sıfırla",
+		"turkish": "Öğreticileri Sıfırla",
 		"romanian": "Resetați tutorialele cunoscute",
 		"danish": "Nulstil Tutorial",
 		"greek": "Επαναφορά γνωστών οδηγιών",
 		"swiss german": "Tutorials zruggsetzä",
-		"farsi":"ریست کردن راهنماها",
-		"scotsgaelic": "Ath-shuidhich Cobhair",
+		"farsi": "ریست کردن راهنماها",
+		"scotsgaelic": "Ath-shuidhich Cobhair"
 	},
 	// OTHER
 	"loadingWorld": {
@@ -1532,8 +1532,8 @@
 		"danish": "Indlæser Verden...",
 		"greek": "Φόρτωση Κόσμου...",
 		"swiss german": "Wält ladä...",
-		"farsi":"باز کردن دنیا...",
-		"scotsgaelic": "T-saoghail a luchdadh a-nuas...",
+		"farsi": "باز کردن دنیا...",
+		"scotsgaelic": "T-saoghail a luchdadh a-nuas..."
 	},
 	"reset": {
 		"english": "Reset",
@@ -1560,8 +1560,8 @@
 		"danish": "Nulstil",
 		"greek": "Επαναφορά",
 		"swiss german": "Zruggsetzä",
-		"farsi":"ریست",
-		"scotsgaelic": "Ath-shuidhich",
+		"farsi": "ریست",
+		"scotsgaelic": "Ath-shuidhich"
 	},
 	"ok": {
 		"english": "Ok",
@@ -1587,8 +1587,8 @@
 		"danish": "Ok",
 		"greek": "ΟΚ",
 		"swiss german": "Ok",
-		"farsi":"باشه",
-		"scotsgaelic": "Ceart gu leòr", // All right - does it need to be shorter?
+		"farsi": "باشه",
+		"scotsgaelic": "Ceart gu leòr" // All right - does it need to be shorter?
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1615,8 +1615,8 @@
 		"danish": "Bekræft",
 		"greek": "Επιβεβαίωση",
 		"swiss german": "Beschtätigä",
-		"farsi":"تایید",
-		"scotsgaelic": "Dearbhaich",
+		"farsi": "تایید",
+		"scotsgaelic": "Dearbhaich"
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1643,8 +1643,8 @@
 		"danish": "Annuller",
 		"greek": "Ακύρωση",
 		"swiss german": "Abbrächä",
-		"farsi":"لغو",
-		"scotsgaelic": "Sguir dheth",
+		"farsi": "لغو",
+		"scotsgaelic": "Sguir dheth"
 	},
 	"apply": {
 		"english": "Apply",
@@ -1671,8 +1671,8 @@
 		"danish": "Gem Ændring",
 		"greek": "Εφαρμογή",
 		"swiss german": "Ahwändä",
-		"farsi":"تایید",
-		"scotsgaelic": "Cuir a-steach",
+		"farsi": "تایید",
+		"scotsgaelic": "Cuir a-steach"
 	},
 	"hooray": {
 		"english": "Hooray!",
@@ -1693,13 +1693,13 @@
 		"hungarian": "Hurrá!",
 		"thai": "ไชโย!",
 		"arabic": "مرحى!",
-		"turkish":"Eyooo!",
+		"turkish": "Eyooo!",
 		"romanian": "Ura!",
 		"danish": "Hurra!",
 		"greek": "Γιούπι!",
 		"swiss german": "Juhuu!",
-		"farsi":"هورا!",
-		"scotsgaelic": "Slàinte!",
+		"farsi": "هورا!",
+		"scotsgaelic": "Slàinte!"
 	},
 	// KEYBINDINGS
 	"cameraControl": {
@@ -1727,8 +1727,8 @@
 		"danish": "Kamera Kontrol",
 		"greek": "Έλεχγος Κάμερας",
 		"swiss german": "Kamerastüürig",
-		"farsi":"کنترل دوربین",
-		"scotsgaelic": "Smachd Camara",
+		"farsi": "کنترل دوربین",
+		"scotsgaelic": "Smachd Camara"
 	},
 	"keybindings": {
 		"english": "Key Bindings",
@@ -1755,8 +1755,8 @@
 		"danish": "Tastatur",
 		"greek": "Λειτουργίες Κουμπιών",
 		"swiss german": "Taschtäbelegig",
-		"farsi":"تنظیم دکمه ها",
-		"scotsgaelic": "Ceangail iuchair",
+		"farsi": "تنظیم دکمه ها",
+		"scotsgaelic": "Ceangail iuchair"
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1783,8 +1783,8 @@
 		"danish": "Frem",
 		"greek": "Μπροστά",
 		"swiss german": "Vorwärts",
-		"farsi":"جلو",
-		"scotsgaelic": "Gluais Timcheall",
+		"farsi": "جلو",
+		"scotsgaelic": "Gluais Timcheall"
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1811,8 +1811,8 @@
 		"danish": "Tilbage",
 		"greek": "Πίσω",
 		"swiss german": "Rückwärts",
-		"farsi":"عقب",
-		"scotsgaelic": "Gluais Air ais",
+		"farsi": "عقب",
+		"scotsgaelic": "Gluais Air ais"
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1839,8 +1839,8 @@
 		"danish": "Venstre",
 		"greek": "Αριστερά",
 		"swiss german": "Links",
-		"farsi":"چپ",
-		"scotsgaelic": "Gluais Air chlì",
+		"farsi": "چپ",
+		"scotsgaelic": "Gluais Air chlì"
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1867,8 +1867,8 @@
 		"danish": "Højre",
 		"greek": "Δεξιά",
 		"swiss german": "Rächts",
-		"farsi":"راست",
-		"scotsgaelic": "Gluais Gu deas",
+		"farsi": "راست",
+		"scotsgaelic": "Gluais Gu deas"
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1895,8 +1895,8 @@
 		"danish": "Roter",
 		"greek": "Περιστροφή",
 		"swiss german": "Dräiä",
-		"farsi":"چرخش",
-		"scotsgaelic": "Rothaich",
+		"farsi": "چرخش",
+		"scotsgaelic": "Rothaich"
 	},
   "pan": {
     "english": "Pan",
@@ -1926,8 +1926,8 @@
 		"danish": "Zoom Ind",
 		"greek": "Μεγένθυση",
 		"swiss german": "Inäzoomä",
-		"farsi":"زوم کردن",
-		"scotsgaelic": "Gluais a-steach",
+		"farsi": "زوم کردن",
+		"scotsgaelic": "Gluais a-steach"
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1954,8 +1954,8 @@
 		"danish": "Zoom Ud",
 		"greek": "Σμίκρυνση",
 		"swiss german": "Usäzoomä",
-		"farsi":"زوم کردن به بیرون",
-		"scotsgaelic": "Gluais a-mach",
+		"farsi": "زوم کردن به بیرون",
+		"scotsgaelic": "Gluais a-mach"
 	},
 	"fastCameraMovement": {
 		"english": "Fast Camera Movement",
@@ -1966,16 +1966,15 @@
 		"thai": "ขยับกล้องอย่างรวดเร็ว",
 		"hungarian": "Gyors kameramozgatás",
 		"swiss german": "Schnälli Kamerabewegig",
-		"farsi":"حرکت سریع دوربین",
+		"farsi": "حرکت سریع دوربین",
 		"japanese": "カメラの高速移動",
 		"czech": "Rychlý pohyb kamery",
 		"ukrainian": "Пришвидшений рух камери",
 		"turkish": "Hızlı kamera hareketi",
 		"chinese": "镜头快速移动",
 		"italian": "Movimento rapido della telecamera",
-		"scotsgaelic": "Gluasad Camara luath",
+		"scotsgaelic": "Gluasad Camara luath"
 	},
-
 	"cityShortcuts": {
 		"english": "City Shortcuts",
 		"german": "Stadt Hotkeys",
@@ -1985,14 +1984,14 @@
 		"thai": "ปุ่มลัดเมือง",
 		"hungarian": "Város gyorsgombok",
 		"swiss german": "Stadt-Shortcuts",
-		"farsi":"میانبر های شهر",
+		"farsi": "میانبر های شهر",
 		"japanese": "都市のショートカット",
 		"czech": "Ovládání města",
 		"ukrainian": "Гарячі клавіші",
 		"turkish": "Şehir kısayolları",
 		"chinese": "城市快捷键",
 		"italian": "Tasti rapidi della città",
-		"scotsgaelic": "Ath-ghoiridean Cathair-bhaile",
+		"scotsgaelic": "Ath-ghoiridean Cathair-bhaile"
 	},
 	"research": {
 		"english": "Research",
@@ -2003,14 +2002,14 @@
 		"thai": "การวิจัย",
 		"hungarian": "Kutatás",
 		"swiss german": "Forschig",
-		"farsi":"تحقیق",
+		"farsi": "تحقیق",
 		"japanese": "研究",
 		"czech": "Výzkum",
 		"ukrainian": "Дослідження",
 		"turkish": "Araştırma",
 		"chinese": "研究",
 		"italian": "Ricerca",
-		"scotsgaelic": "Rannsachadh",
+		"scotsgaelic": "Rannsachadh"
 	},
 	"transportLines": {
 		"english": "Transport Lines",
@@ -2021,14 +2020,14 @@
 		"thai": "เส้นทางคมนาคม",
 		"hungarian": "Szállítási útvonalak",
 		"swiss german": "Transportliniänä",
-		"farsi":"خط های جابجایی",
+		"farsi": "خط های جابجایی",
 		"japanese": "輸送ライン",
 		"czech": "Dopravní linky",
 		"ukrainian": "Лінії транспорту",
 		"turkish": "Ulaşım hatları",
 		"chinese": "运输线路",
 		"italian": "Linee di trasporto",
-		"scotsgaelic": "Loidhne Còmhdhail",
+		"scotsgaelic": "Loidhne Còmhdhail"
 	},
 	"constructionKeybindings": {
 		"english": "Construction",
@@ -2049,13 +2048,13 @@
 		"hungarian": "Építkezés",
 		"thai": "งานก่อสร้าง",
 		"arabic": "بناء",
-		"turkish":"İnşaat",
+		"turkish": "İnşaat",
 		"romanian": "Construcție",
 		"danish": "Konstruer",
 		"greek": "Κατασκευή",
 		"swiss german": "Bau",
-		"farsi":"ساخت",
-		"scotsgaelic": "Togail",
+		"farsi": "ساخت",
+		"scotsgaelic": "Togail"
 	},
 	"raiseRoad": {
 		"english": "Raise Road",
@@ -2076,13 +2075,13 @@
 		"hungarian": "Út magasítása",
 		"thai": "ยกถนนขึ้น",
 		"arabic": "رفع الطريق",
-		"turkish":"Yolu Yükselt",
+		"turkish": "Yolu Yükselt",
 		"romanian": "Ridică drumul",
 		"danish": "Løft vej",
 		"greek": "Ανύψωση Δρόμου",
 		"swiss german": "Strass uflupfä",
-		"farsi":"بالا اوردن جاده",
-		"scotsgaelic": "Gluais suas an Rathad",
+		"farsi": "بالا اوردن جاده",
+		"scotsgaelic": "Gluais suas an Rathad"
 	},
 	"lowerRoad": {
 		"english": "Lower Road",
@@ -2102,13 +2101,13 @@
 		"portuguese": "Abaixar a via",
 		"thai": "ลดถนนลง",
 		"arabic": "خفض الطريق",
-		"turkish":"Yolu Alçalt",
+		"turkish": "Yolu Alçalt",
 		"romanian": "Coboară drumul",
 		"danish": "Sænk vej",
 		"greek": "Κτέβασμα Δρόμου",
 		"swiss german": "Strass abeleggä",
-		"farsi":"پایین اوردن جاده",
-		"scotsgaelic": "Gluais sìos an Rathad",
+		"farsi": "پایین اوردن جاده",
+		"scotsgaelic": "Gluais sìos an Rathad"
 	},
 	"precisionConstruction": {
 		"english": "Precision Construction",
@@ -2119,14 +2118,14 @@
 		"thai": "การก่อสร้างที่แม่นยำ",
 		"hungarian": "Pontos építkezés",
 		"swiss german": "Präzisäs Bauä",
-		"farsi":"ساخت دقیق",
-		"japanese": "精密建設",  // 暫定訳 (provisional translation)
+		"farsi": "ساخت دقیق",
+		"japanese": "精密建設", // 暫定訳 (provisional translation)
 		"czech": "Přesná konstrukce",
 		"ukrainian": "Точніше будівництво",
 		"turkish": "Hayalet inşaa modu",
 		"chinese": "精确建造",
 		"italian": "Costruzione di precisione",
-		"scotsgaelic": "Togail Mionaideach",
+		"scotsgaelic": "Togail Mionaideach"
 	},
 	"holdLeftShift": {
 		"english": "Hold Shift (left)",
@@ -2137,13 +2136,13 @@
 		"thai": "กด Shift (ซ้าย)",
 		"hungarian": "Shift nyomva tartva(bal)",
 		"swiss german": "Shift (links) lang druckä",
-		"farsi":"کلید شیفت را نگه دارید(سمت چپ)",
+		"farsi": "کلید شیفت را نگه دارید(سمت چپ)",
 		"japanese": "左Shiftホールド",
 		"czech": "Podržte Shift (levý)",
 		"ukrainian": "Залипання клавіші лівого Shift",
 		"chinese": "按住Shift (左)",
 		"italian": "Tieni premuto Shift (sinistra)",
-		"scotsgaelic": "Cùm Shift (clì)",
+		"scotsgaelic": "Cùm Shift (clì)"
 	},
 	"toggleGrid": {
 		"english": "Toggle Grid",
@@ -2158,13 +2157,13 @@
 		"ukrainian": "Перемкнути сітку",
 		"danish": "Skift Gitter",
 		"greek": "Εναλλαγή Πλέγματος",
-		"thai": "สลับกรอบตะแกรง",
+		"thai": "สลับตาราง",
 		"swiss german": "Gitter umschaltä",
-		"farsi":"روشن کردن شطرنج",
+		"farsi": "روشن کردن شطرنج",
 		"japanese": "グリッド切り替え",
 		"turkish": "Ortala",
 		"chinese": "启用网格",
-		"scotsgaelic": "Toggle Grid", // scotsgaelic does not have a word for Toggle or Grid
+		"scotsgaelic": "Toggle Grid" // scotsgaelic does not have a word for Toggle or Grid
 	},
 	"move": {
 		"english": "Move",
@@ -2175,14 +2174,14 @@
 		"thai": "ย้าย",
 		"hungarian": "Mozgatás",
 		"swiss german": "Verschiäbä",
-		"farsi":"تکان دادن",
+		"farsi": "تکان دادن",
 		"japanese": "移動",
 		"czech": "Přesunout",
 		"ukrainian": "Зсунути",
 		"turkish": "Hareket",
 		"chinese": "移动",
 		"italian": "Muovi",
-		"scotsgaelic": "Gluais",
+		"scotsgaelic": "Gluais"
 	},
 	"delete": {
 		"english": "Delete",
@@ -2193,14 +2192,14 @@
 		"thai": "ลบ",
 		"hungarian": "Törlés",
 		"swiss german": "Löschä",
-		"farsi":"حذف کردن",
+		"farsi": "حذف کردن",
 		"japanese": "削除",
 		"czech": "Smazat",
 		"ukrainian": "Видалити",
 		"turkish": "Sil",
 		"chinese": "删除",
 		"italian": "Cancella",
-		"scotsgaelic": "Sguab às",
+		"scotsgaelic": "Sguab às"
 	},
 	"constructionMenus": {
 		"english": "Construction Menus",
@@ -2211,14 +2210,14 @@
 		"thai": "เมนูก่อสร้าง",
 		"hungarian": "Építkezési menük",
 		"swiss german": "Baumenüs",
-		"farsi":"منو ساخت",
+		"farsi": "منو ساخت",
 		"japanese": "建設メニュー",
 		"czech": "Stavební menu",
 		"ukrainian": "Будівельне меню",
 		"turkish": "İnşaat menüsü",
 		"chinese": "建筑菜单",
 		"italian": "Menu costruzione",
-		"scotsgaelic": "Clàr-taice togail",
+		"scotsgaelic": "Clàr-taice togail"
 	},
 	"leftShiftAndNumber": {
 		"english": "Shift (left) + Number",
@@ -2229,14 +2228,14 @@
 		"thai": "Shift (ซ้าย) + ตัวเลข",
 		"hungarian": "Shift (bal) + szám",
 		"swiss german": "Shift (links) + Zahl",
-		"farsi":"کلید شیفت(سمت چپ) +عدد",
+		"farsi": "کلید شیفت(سمت چپ) +عدد",
 		"japanese": "左Shift + 数字",
 		"czech": "Shift (levý) + číslo",
 		"ukrainian": "Лівий Shift + номер",
 		"turkish": "shift (sol) + rakam",
 		"chinese": "Shift (左) + 数字",
 		"italian": "Shift (sinistra) + Numero",
-		"scotsgaelic": "Shift (clì) + Àireamh",
+		"scotsgaelic": "Shift (clì) + Àireamh"
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -2263,8 +2262,8 @@
 		"danish": "Tids Control",
 		"greek": "Έλεγχος χρόνου",
 		"swiss german": "Ziitkontrollä",
-		"farsi":"کنترل زمان",
-		"scotsgaelic": "Smachd ùine",
+		"farsi": "کنترل زمان",
+		"scotsgaelic": "Smachd ùine"
 	},
 	"pause": {
 		"english": "Pause",
@@ -2291,8 +2290,8 @@
 		"danish": "Pause",
 		"greek": "Παύση",
 		"swiss german": "Pausä",
-		"farsi":"توقف",
-		"scotsgaelic": "Ùine stad",
+		"farsi": "توقف",
+		"scotsgaelic": "Ùine stad"
 	},
 	"normalSimulationSpeed": {
 		"english": "Normal Simulation Speed",
@@ -2303,14 +2302,14 @@
 		"thai": "ความเร็วการจำลองแบบปกติ",
 		"hungarian": "Normális szimulációs sebesség",
 		"swiss german": "Normali Simulations-Gschwindigkeit",
-		"farsi":"سرعت شبیه سازی عادی",
+		"farsi": "سرعت شبیه سازی عادی",
 		"japanese": "シミュレーション速度：標準",
 		"czech": "Normální rychlost simulace",
 		"ukrainian": "Звичайна швидкість симуляції",
 		"turkish": "Normal simulasyon",
 		"chinese": "正常游戏速度",
 		"italian": "Velocità di simulazione normale",
-		"scotsgaelic": "Astar àbhaisteach",
+		"scotsgaelic": "Astar àbhaisteach"
 	},
 	"fastSimulationSpeed": {
 		"english": "Fast Simulation Speed",
@@ -2321,14 +2320,14 @@
 		"thai": "ความเร็วการจำลองแบบเร็ว",
 		"hungarian": "Gyors szimulációs sebesség",
 		"swiss german": "Schnälli Simulations-Gschwindigkeit",
-		"farsi":"سرعت شبیه سازی تند",
+		"farsi": "سرعت شبیه سازی تند",
 		"japanese": "シミュレーション速度：高速",
 		"czech": "Vysoká rychlost simulace",
 		"ukrainian": "Пришвидшення симуляції",
 		"turkish": "hızlı simulasyon",
 		"chinese": "加快游戏速度",
 		"italian": "Velocità di simulazione rapida",
-		"scotsgaelic": "Astar Luath",
+		"scotsgaelic": "Astar Luath"
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2355,8 +2354,8 @@
 		"danish": "Roter til Venstre",
 		"greek": "Περιστροφή Αριστερά",
 		"swiss german": "Links dräiä",
-		"farsi":"چرخش به چپ",
-		"scotsgaelic": "Rothaich Air chlì",
+		"farsi": "چرخش به چپ",
+		"scotsgaelic": "Rothaich Air chlì"
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -2383,8 +2382,8 @@
 		"danish": "Roter til højre",
 		"greek": "Περιστροφή Δεξιά",
 		"swiss german": "Rächts dräiä",
-		"farsi":"چرخش به راست",
-		"scotsgaelic": "Rothaich Deas",
+		"farsi": "چرخش به راست",
+		"scotsgaelic": "Rothaich Deas"
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -2411,8 +2410,8 @@
 		"danish": "Diverse",
 		"greek": "Διάφορα",
 		"swiss german": "Suschtigs",
-		"farsi":"متفرقه",
-		"scotsgaelic": "Rudan Eile",
+		"farsi": "متفرقه",
+		"scotsgaelic": "Rudan Eile"
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -2439,8 +2438,8 @@
 		"danish": "Skærmprint",
 		"greek": "Στιγμυότυπο Οθόνης",
 		"swiss german": "Screenshot",
-		"farsi":"عکس صفحه",
-		"scotsgaelic": "Glacadh-sgrìn",
+		"farsi": "عکس صفحه",
+		"scotsgaelic": "Glacadh-sgrìn"
 	},
 	"screenshotMode": {
 		"english": "Screenshot Mode",
@@ -2461,13 +2460,13 @@
 		"hungarian": "Képernyőkép mód",
 		"thai": "โหมดถ่ายรูปหน้าจอ",
 		"arabic": "وضع التقاط صورة شاشة",
-		"turkish":"Ekran Görüntüsü Modu",
+		"turkish": "Ekran Görüntüsü Modu",
 		"romanian": "Mod captură de ecran",
 		"danish": "Skærmprint Tilstand",
 		"greek": "Λειτουργία Στιγμυότυπου Οθόνης",
 		"swiss german": "Screenschotmodus",
-		"farsi":"حالت عکس صفحه",
-		"scotsgaelic": "Modh Glacadh-sgrìn",
+		"farsi": "حالت عکس صفحه",
+		"scotsgaelic": "Modh Glacadh-sgrìn"
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -2494,8 +2493,8 @@
 		"danish": "Åben Skærmprints Mappe",
 		"greek": "Άνοιγμα Φακέλων Στιγμυοτύπων Οθόνης",
 		"swiss german": "Screenshotordner",
-		"farsi":"باز کردن پوشه عکس های صفحه",
-		"scotsgaelic": "Fosgail am Pasgan glacadh-sgrìn",
+		"farsi": "باز کردن پوشه عکس های صفحه",
+		"scotsgaelic": "Fosgail am Pasgan glacadh-sgrìn"
 	},
 	"showScreenshotsSaves": { // we skip "folder" so that it fits on the button
 		"english": "Open Screenshots / Saves",
@@ -2516,13 +2515,13 @@
 		"hungarian": "Képernyőképek / Mentések",
 		"thai": "เปิดที่เก็บรูปหน้าจอ / บันทึก",
 		"arabic": "افتح لقطات الشاشة / المحفوظات",
-		"turkish":"Ekran Görüntülerini / Dünyaları Aç",
+		"turkish": "Ekran Görüntülerini / Dünyaları Aç",
 		"romanian": "Deschideți dosarul cu capturile de ecran / Salvări",
 		"danish": "Åben Skærmprints / Gemte",
 		"greek": "Άνοιγμα Στιγμυοτύπων/Αποθηκεύσεων",
 		"swiss german": "Screenshots / Spielständ ufmache",
-		"farsi":"باز کردن عکس ها/دنیا ها",
-		"scotsgaelic": "Fosgail glacadh-sgrìn / Sàbhail",
+		"farsi": "باز کردن عکس ها/دنیا ها",
+		"scotsgaelic": "Fosgail glacadh-sgrìn / Sàbhail"
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -2549,8 +2548,8 @@
 		"danish": "Vis Frames per Sekund",
 		"greek": "Εμφάνιση καρέ ανά δευτερόλεπτο",
 		"swiss german": "Zeig Bilder pro Sekundä",
-		"farsi":"فریم بر ثانیه را نشان بده",
-		"scotsgaelic": "Seall Frèamaichean gach diog",
+		"farsi": "فریم بر ثانیه را نشان بده",
+		"scotsgaelic": "Seall Frèamaichean gach diog"
 	},
 	"quicksave": {
 		"english": "Quick Save",
@@ -2561,14 +2560,14 @@
 		"thai": "บันทึกด่วน",
 		"hungarian": "Gyorsmentés",
 		"swiss german": "Schnällspeichere",
-		"farsi":"ذخیره سریع",
+		"farsi": "ذخیره سریع",
 		"japanese": "クイックセーブ",
 		"czech": "Rychlé uložení",
 		"ukrainian": "Швидке збереження",
 		"turkish": "Hızlı Kaydet",
 		"chinese": "快速储存",
 		"italian": "Salvataggio rapido",
-		"scotsgaelic": "Sàbhail Gu sgiobalta",
+		"scotsgaelic": "Sàbhail Gu sgiobalta"
 	},
 	"quickload": {
 		"english": "Quick Load",
@@ -2579,14 +2578,14 @@
 		"thai": "โหลดด่วน",
 		"hungarian": "Gyorstöltés",
 		"swiss german": "Schnällladä",
-		"farsi":"باز کردن سریع",
+		"farsi": "باز کردن سریع",
 		"japanese": "クイックロード",
 		"czech": "Rychlé načtení",
 		"ukrainian": "Швидке завантаження",
 		"turkish": "Hızlı yükle",
 		"chinese": "快速载入",
 		"italian": "Caricamento rapido",
-		"scotsgaelic": "Tòiseachadh Luath",
+		"scotsgaelic": "Tòiseachadh Luath"
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -2613,8 +2612,8 @@
 		"danish": "Venstre Muse Knap",
 		"greek": "Αριστερό κουμπί ποντικιού",
 		"swiss german": "Linggi Muustaschtä",
-	        "farsi":"دکمه سمت چپ موس",
-		"scotsgaelic": "Putan clì na Luchaige",
+		"farsi": "دکمه سمت چپ موس",
+		"scotsgaelic": "Putan clì na Luchaige"
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -2641,8 +2640,8 @@
 		"danish": "Højre Muse Knap",
 		"greek": "Δεξί κουμπί ποντικιού",
 		"swiss german": "Rächti Muustaschtä",
-		"farsi":"کلید سمت راست موس",
-		"scotsgaelic": "Putan deas na Luchaige",
+		"farsi": "کلید سمت راست موس",
+		"scotsgaelic": "Putan deas na Luchaige"
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -2662,15 +2661,15 @@
 		"polish": "ŚPM",
 		"czech": "Prostřední tlačítko myši",
 		"romanian": "Mouse: buton-mijloc",
-		"japanese": "マウス中クリック",  // 枠のサイズの都合で、後ろに［ホイールボタン］と付けても読めない。
+		"japanese": "マウス中クリック", // 枠のサイズの都合で、後ろに［ホイールボタン］と付けても読めない。
 		"slovak": "Prostredné tlačídko myši",
 		"hungarian": "Középső egérgomb",
 		"thai": "ปุ่มเมาส์กลาง",
 		"danish": "Miderste Muse Knap",
 		"greek": "Μεσαίο κουμπί ποντικιού",
 		"swiss german": "Mittleri Muustaschtä",
-		"farsi":"کلید وسط موس",
-		"scotsgaelic": "Putan Meadhanach na Luch",
+		"farsi": "کلید وسط موس",
+		"scotsgaelic": "Putan Meadhanach na Luch"
 	},
 	"key_Space": {
 		"english": "Space",
@@ -2697,8 +2696,8 @@
 		"danish": "Mellemrum",
 		"greek": "Διάστημα",
 		"swiss german": "Läärtschtä",
-		"farsi":"اسپیس",
-		"scotsgaelic": "Bàr-Fànais",
+		"farsi": "اسپیس",
+		"scotsgaelic": "Bàr-Fànais"
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -2725,8 +2724,8 @@
 		"danish": "Shift (Venstre)",
 		"greek": "Shift (αριστερό)",
 		"swiss german": "Shift (links)",
-		"farsi":"کلید شیفت(سمت چپ)'",
-		"scotsgaelic": "Shift (clì)",
+		"farsi": "کلید شیفت(سمت چپ)'",
+		"scotsgaelic": "Shift (clì)"
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -2753,7 +2752,7 @@
 		"danish": "Shift (Højre)",
 		"greek": "Shift (δεξί)",
 		"swiss german": "Shift (rächts)",
-		"scotsgaelic": "Shift (deas)",
+		"scotsgaelic": "Shift (deas)"
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -2780,7 +2779,7 @@
 		"danish": "Alt (Venstre)",
 		"greek": "Alt (αριστερό)",
 		"swiss german": "Alt (links)",
-		"scotsgaelic": "Alt (clì)",
+		"scotsgaelic": "Alt (clì)"
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -2807,7 +2806,7 @@
 		"danish": "Alt (Højre)",
 		"greek": "Alt (δεξί)",
 		"swiss german": "Alt (rächts)",
-		"scotsgaelic": "Alt (deas)",
+		"scotsgaelic": "Alt (deas)"
 	},
 	"key_LeftControl": {
 		"english": "Ctrl (left)",
@@ -2834,7 +2833,7 @@
 		"danish": "Ctrl (Venstre)",
 		"greek": "Ctrl (αριστερό)",
 		"swiss german": "Ctrl (links)",
-		"scotsgaelic": "Ctrl (clì)",
+		"scotsgaelic": "Ctrl (clì)"
 	},
 	"key_RightControl": {
 		"english": "Ctrl (right)",
@@ -2861,7 +2860,7 @@
 		"danish": "Ctrl (Højre)",
 		"greek": "Ctrl (δεξί)",
 		"swiss german": "Ctrl (rächts)",
-		"scotsgaelic": "Ctrl (deas)",
+		"scotsgaelic": "Ctrl (deas)"
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -2888,7 +2887,7 @@
 		"danish": "Caps Lock",
 		"greek": "Caps Lock",
 		"swiss german": "Frschtschtelltaschtä",
-		"scotsgaelic": "Caps Lock",
+		"scotsgaelic": "Caps Lock"
 	},
 	"key_PageUp": {
 		"english": "Page Up",
@@ -2909,12 +2908,12 @@
 		"hungarian": "PageUp",
 		"thai": "PageUp",
 		"arabic": "Page Up",
-		"turkish":"Pg Up",
+		"turkish": "Pg Up",
 		"romanian": "PageUp",
 		"danish": "PageUp",
 		"greek": "Page Up",
 		"swiss german": "Siitä uä",
-		"scotsgaelic": "Duilleag Suas",
+		"scotsgaelic": "Duilleag Suas"
 	},
 	"key_PageDown": {
 		"english": "Page Down",
@@ -2935,23 +2934,23 @@
 		"hungarian": "PageDown",
 		"thai": "PageDown",
 		"arabic": "Page Down",
-		"turkish":"Pg Dn",
+		"turkish": "Pg Dn",
 		"romanian": "PageDown",
 		"danish": "PageDown",
 		"greek": "Page Down",
 		"swiss german": "Siitä abä",
-		"scotsgaelic": "Duilleag Sìos",
+		"scotsgaelic": "Duilleag Sìos"
 	},
 	"saveBarelyCompatibleWithGameVersion": {
 		"english": "This save is only partially compatible with your game version.",
 		"german": "Dieser Speicherstand ist nur zum Teil kompatibel mit deiner Spielversion.",
 		"french": "Cette sauvegarde n'est que partiellement compatible avec votre version du jeu.",
 		"russian": "Это сохранение только частично совместимо с текущей версией.",
-        	"spanish": "Esta partida guardada sólo es compatible con tu versión del juego",
+		"spanish": "Esta partida guardada sólo es compatible con tu versión del juego",
 		"spanish-esp": "Esta partida guardada sólo es parcialmente compatible con tu versión del juego",
 		"italian": "Questo salvataggio è solo parzialmente compatibile con la tua versione del gioco",
 		"hungarian": "Ez a mentés csak részlegesen kompatibilis a játékod verziójával.",
-		"thai":"บันทึกนี้ใช้ได้กับเวอร์ชั่นเกมของคุณเพียงบางเวอร์ชั่นเท่านั้น",
+		"thai": "บันทึกนี้ใช้ได้กับเวอร์ชั่นเกมของคุณเพียงบางเวอร์ชั่นเท่านั้น",
 		"polish": "Ten zapis jest tylko częściowo kompatybilny z twoją wersją gry.",
 		"czech": "Toto uložení je pouze částečně kompatibilní s vaší verzí hry.",
 		"ukrainian": "Це збереження має деякі невідповідності цій версії",
@@ -2961,7 +2960,7 @@
 		"japanese": "このセーブは、 現在のゲームバージョンとは 部分的な互換性しかありません。",
 		"turkish": "Kayıt dosyası oyuna tamamen uyumlu değil",
 		"chinese": "此存档仅与当前游戏版本部分兼容。",
-		"scotsgaelic": "Chan eil an sàbhaladh seo ach gu ìre co-chòrdail ris an tionndadh geama agad.",
+		"scotsgaelic": "Chan eil an sàbhaladh seo ach gu ìre co-chòrdail ris an tionndadh geama agad."
 	},
 	"saveBarelyCompatibleTitle": {
 		"english": "How to play incompatible saves",
@@ -2972,7 +2971,7 @@
 		"spanish-esp": "Cómo jugar partidas guardadas incompatibles",
 		"italian": "Come giocare con salvataggi incompatibili",
 		"hungarian": "Hogyan játssz nem-kompatibilis mentésekkel?",
-		"thai":"วิธีเล่นบันทึกที่เข้ากันกับเกมไม่ได้",
+		"thai": "วิธีเล่นบันทึกที่เข้ากันกับเกมไม่ได้",
 		"polish": "Jak uruchomić niekompatybilne zapisy gry",
 		"czech": "Jak hrát nekompatibilně uloženou hru",
 		"ukrainian": "Як запустити невідповідні збереження",
@@ -2982,18 +2981,18 @@
 		"japanese": "非互換のセーブでプレイする方法",
 		"turkish": "Uyumlu olmayan kayıt dosyası ile nasıl oynarım",
 		"chinese": "如何游玩不兼容存档",
-		"scotsgaelic": "Mar a chluicheas tu sàbhalaidhean neo-fhreagarrach",
+		"scotsgaelic": "Mar a chluicheas tu sàbhalaidhean neo-fhreagarrach"
 	},
 	"saveBarelyCompatibleDesc": {
 		"english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
 		"german": "Wenn wir ein großes Update veröffentlichen sind Speicherstände manchmal nicht vollständig kompatibl.\nDu hast 2 Möglichkeiten:\n\n1. Spiele deinen Speicherstand auf der vorherigen Version weiter. Wir haben eine Anleitung für dich erstellt.\nVersuche deinen Speicherstand zur neuen Version zu konvertieren.\n\nKonvertierungen sind nicht perfekt. Du musst vermutlich das Spiel pausieren und eine Zeit lang Probleme in deiner Stadt beheben.",
 		"french": "Lorsque nous publions une mise à jour importante, il arrive que les sauvegardes ne soient pas entièrement compatibles.\nVous avez deux options :\n\n1. Continuer à jouer avec votre sauvegarde sur la version précédente. Nous avons fait un tutoriel pour vous.\n2. Essayer de convertir votre jeu de sauvegarde dans la nouvelle version.\n\nLes conversions de sauvegarde ne sont pas parfaites. Vous devrez probablement mettre le jeu en pause et passer quelques minutes à résoudre les différents problèmes.",
 		"russian": "Когда мы выпускаем большое обновление, иногда сохранения не остаются совместимыми.\nУ вас есть два выбора:\n\n1. Продолжить играть на предыдущей версии. Мы сделали обучение для вас.\n2. Попробуйте конвертировать свои файлы сохранения на новую версию.\n\nКонвертация сохранения не идеальна. Вам возможно понадобится приостановить игру и потратить немного времени для реения некоторых проблем.",
-        "spanish": "Cuando lanzamos una gran actualización, las partidas guardadas no son siempre completamente compatibles.\nTienes dos opciones:\n\n1. Juega en la versión pasada. Te hicimos un tutorial.\n2. Trata de convertir tu partida guardada a la nueva versión.\n\nLas conversiones no son perfectas. Probablemente necesites pausar el juego y dedicar algo de tiempo arreglando problemas.",
+		"spanish": "Cuando lanzamos una gran actualización, las partidas guardadas no son siempre completamente compatibles.\nTienes dos opciones:\n\n1. Juega en la versión pasada. Te hicimos un tutorial.\n2. Trata de convertir tu partida guardada a la nueva versión.\n\nLas conversiones no son perfectas. Probablemente necesites pausar el juego y dedicar algo de tiempo arreglando problemas.",
 		"spanish-esp": "Cuando lanzamos una gran actualización, las partidas guardadas no son siempre completamente compatibles.\nTienes dos opciones:\n\n1. Juega en la versión pasada. Hay un tutorial para ti.\n2. Trata de convertir tu partida guardada a la nueva versión.\n\nLas conversiones no son perfectas. Probablemente necesites pausar el juego y dedicar algo de tiempo arreglando problemas.",
 		"italian": "Quando rilasciamo un aggiornamento importante del gioco, a volte i salvataggi non sono pienamente compatibili.\nHai due opzioni:\n\n1. Continuare a giocare con la versione precedente. Abbiamo fatto un tutorial per te.\n2. Provare a convertire il tuo salvataggio nella nuova versione.\n\nLe conversioni dei salvataggi non sono perfette. Dovrai mettere in pausa il gioco e spendere un poco di tempo per correggere eventuali problemi.",
 		"hungarian": "Amikor egy nagy frissítést adunk ki, néhány mentés elavulttá válik. \n Ekkor két opció létezik:\n\n1. Folytatod a játékot az előző verzión (készítettünk egy segédletet hozzá).\n2. Megpróbálod megváltoztatni a mentés verzióját az új verzióra.\n\nEzek a verzióváltoztatások nem tökéletesek. Lehetséges, hogy meg kell állítanod a játékot és egy kis időt áldoznod az előkerülő hibák javítására.",
-		"thai":"เมื่อเราปล่อยอัปเดตเกมครั้งใหญ่ บางครั้งบันทึกเกมอาจทำงานได้ไม่เต็มที่\nคุณมีสองตัวเลือก:\n\n1.เล่นบันทึกเกมของคุณในเวอร์ชันก่อนหน้าต่อไป เราได้จัดทำบทแนะนำให้คุณ\n2.ลองแปลงเกมบันทึกเป็นเวอร์ชันใหม่\n\nการแปลงบันทึกยังไม่สมบูรณ์ คุณอาจต้องหยุดเกมชั่วคราวเพื่อใช้เวลาแก้ไขปัญหาต่างๆ",
+		"thai": "เมื่อเราปล่อยอัปเดตเกมครั้งใหญ่ บางครั้งบันทึกเกมอาจทำงานได้ไม่เต็มที่\nคุณมีสองตัวเลือก:\n\n1.เล่นบันทึกเกมของคุณในเวอร์ชันก่อนหน้าต่อไป เราได้จัดทำบทแนะนำให้คุณ\n2.ลองแปลงเกมบันทึกเป็นเวอร์ชันใหม่\n\nการแปลงบันทึกยังไม่สมบูรณ์ คุณอาจต้องหยุดเกมชั่วคราวเพื่อใช้เวลาแก้ไขปัญหาต่างๆ",
 		"polish": "Gdy wypuszczamy duże aktualizacje gry może się zdarzyć, że stare zapisy gry nie są w pełni kompatybilne.\nIstnieją dwa rozwiązania:\n\n1. Możesz grać dalej używając starszej wersji gry. Przygotowaliśmy poradnik opisujący jak to zrobić.\n\n2. Możesz też przekonwertować swój zapis do nowej wersji.\n\nPamiętaj, że konwersje nie są idealne. Oznacza to, że konieczne może być zapauzowanie gry i poświęcenie chwili na ręczną naprawę znalezionych problemów.",
 		"czech": "Když vydáváme velkou aktualizaci hry, někdy uložené hry nejsou plně kompatibilní.\nMáte dvě možnosti:\n\n1. Pokračujte ve hře z předchozí verze. Vytvořili jsme pro vás tutoriál.\n2. Zkuste převést uloženou hru do nové verze.\n\nPřevody uložení nejsou dokonalé. Pravděpodobně budete muset hru pozastavit a strávit nějaký čas řešením případných problémů.",
 		"ukrainian": "Коли з'являється нова версія, старі збереження не завжди корректно процюють з нею.\nУ вас є два варіанти рішення цієї проблеми:\n\n1. Ви можете продовжити грати на минулій версії. У нас є для вас повноцінна інструкція.\n2. Ви можете спробувати конвертувати ваше збереження для нової версії.\n\nКонвертація збережень не ідеальна. Скоріше за все, вам доведеться поставити гру на паузу, та вирішити багато потенцільних проблем з невідповідністю.",
@@ -3003,7 +3002,7 @@
 		"japanese": "ゲームの大規模アップデートをリリースした場合、 セーブに完全な互換性が無いことがあります。\n次の2つの選択肢があります。\n\n1.セーブを旧バージョンで遊び続けます。 そのためのチュートリアルを作成しました。\n2.セーブの新バージョンへの変換を試みます。\n\nセーブの変換は完全ではありません。 おそらく、ゲームをポーズして 問題を修正するために 時間を費やす必要があります。",
 		"turkish": "Oyuna yeni bir güncelleme getirdiğimizde bazen eski kayıt dosyaları versiyonla uyumlu olmayabiliyor.\nBöyle olduğunda iki seçeneğiniz var:\n\n1. olarak eski sürümde oyunu oynamaya devam edebilirsiniz. Size bunun için hazırladığımız öğreticiye bakabilirsiniz.\n2. olarakta Kayıt dosyanızı yeni sürüme yükseltmeyi deneyebilirsiniz.\n\nKayıt dosyası yükseltme işlemleri mükemmel olmayabilir.Bundan dolayı bir süre oyunu durdurup bozulmuş şeyleri düzeltmek zorunda kalabilirsiniz.",
 		"chinese": "当我们发布一个较大的更新时，有时存档只能与游戏部分兼容。\n这里提供两种方案：\n\n1.回滚游戏版本，我们编写了一个教程。\n2.尝试将你的存档转化至当前版本。\n\n存档的转换不会非常完美，你可能需要暂停游戏，然后花点时间去修复出现的问题。",
-		"scotsgaelic": "Nuair a chuireas sinn a-mach ùrachadh geama mòr, uaireannan chan eil sàbhalaidhean gu tur co-chòrdail.\nTha dà roghainn agad:\n\n1. Cùm a’ cluich do shàbhaladh air an tionndadh roimhe. Rinn sinn oideachadh dhut.\n2. Feuch an tionndaidh thu an geama sàbhalaidh agad gu tionndadh ùr.\n\nChan eil na h-atharraichean sàbhalaidh foirfe. Is dòcha gu feum thu stad a chuir air a’ gheama agus beagan ùine a chaitheamh a’ fuasgladh dhuilgheadasan sam bith.",
+		"scotsgaelic": "Nuair a chuireas sinn a-mach ùrachadh geama mòr, uaireannan chan eil sàbhalaidhean gu tur co-chòrdail.\nTha dà roghainn agad:\n\n1. Cùm a’ cluich do shàbhaladh air an tionndadh roimhe. Rinn sinn oideachadh dhut.\n2. Feuch an tionndaidh thu an geama sàbhalaidh agad gu tionndadh ùr.\n\nChan eil na h-atharraichean sàbhalaidh foirfe. Is dòcha gu feum thu stad a chuir air a’ gheama agus beagan ùine a chaitheamh a’ fuasgladh dhuilgheadasan sam bith."
 	},
 	"changeGameVersion": {
 		"english": "Change Game Version",
@@ -3014,7 +3013,7 @@
 		"spanish-esp": "Cambiar la versión del juego",
 		"italian": "Cambia la versione del gioco",
 		"hungarian": "Játék verziójának megváltoztatása",
-		"thai":"เปลี่ยนเวอร์ชั่นเกม",
+		"thai": "เปลี่ยนเวอร์ชั่นเกม",
 		"polish": "Zmień wersję gry",
 		"czech": "Změnit verzi hry",
 		"ukrainian": "Змініть версію гри",
@@ -3024,7 +3023,7 @@
 		"japanese": "ゲームバージョンを変更する",
 		"turkish": "Oyun versiyonunu değiştir",
 		"chinese": "更改游戏版本",
-		"scotsgaelic": "Atharraich Dreach Geama",
+		"scotsgaelic": "Atharraich Dreach Geama"
 	},
 	"tryConversion": {
 		"english": "Try Conversion",
@@ -3035,7 +3034,7 @@
 		"spanish-esp": "Intentar convertir",
 		"italian": "Prova a convertire",
 		"hungarian": "Átalakítás kísérlése",
-		"thai":"ลองแปลง",
+		"thai": "ลองแปลง",
 		"polish": "Podejmij próbę konwersji",
 		"czech": "Zkuste konverzi",
 		"ukrainian": "Спробуйте конвертацію",
@@ -3045,7 +3044,7 @@
 		"japanese": "変換を試みる",
 		"turkish": "Yükseltmeyi dene",
 		"chinese": "尝试转换",
-		"scotsgaelic": "Feuch Tionndadh",
+		"scotsgaelic": "Feuch Tionndadh"
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -3072,7 +3071,7 @@
 		"danish": "Dette gemte spil er ikke kompatibelt med din aktuelle version.\nDu kan spille ældre versioner ved at bruge 'Betas' funktionen gennem steam",
 		"greek": "Αυτή η αποθήκευση παχνιδιού δέν είναι συμβατή με την έκδοση του παιχνιδιού σου.\nΜπορείς να παίξεις παλιές εκδόσεις χρησιμοποιόντας την δυνατότητα 'Betas' στο Steam",
 		"swiss german": "Dä Spielstand isch nöd kompatibel mit dä Version vo dim Spiel. \nDu chasch aber alti Versionä vom Spiel mithilf vo dä 'Beta'-Funktion in Steam spilä.",
-		"scotsgaelic": "Chan eil an sàbhaladh seo co-chòrdail ris an tionndadh geama agad.\n'S urrainn dhut seann dhreachan a chluich leis an fheart 'Betas' air Steam.",
+		"scotsgaelic": "Chan eil an sàbhaladh seo co-chòrdail ris an tionndadh geama agad.\n'S urrainn dhut seann dhreachan a chluich leis an fheart 'Betas' air Steam."
 	},
 	// ROADMAP
 	"roadmap": {
@@ -3094,13 +3093,13 @@
 		"hungarian": "Útiterv",
 		"thai": "แผนงาน",
 		"arabic": "خارطة طريق",
-		"turkish":"Planlar",
+		"turkish": "Planlar",
 		"romanian": "Planuri de viitor",
 		"danish": "Udviklingsplan",
 		"greek": "Οδικός χάρτης",
 		"swiss german": "Roadmap",
-		"farsi":"نقشه پیشروی",
-		"scotsgaelic": "Clàr-Rathaid",
+		"farsi": "نقشه پیشروی",
+		"scotsgaelic": "Clàr-Rathaid"
 	},
 	"noRoadmapFound": {
 		"english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -3109,7 +3108,7 @@
 		"dutch": "Geen stappenplan gevonden.\n\nBen je verbonden met het internet?",
 		"chinese": "未找到路线图。\n\n你是否已连接网络?",
 		"russian": "Дорожная карта не найдена.\n\nВы подключены к интернету?",
-        	"spanish": "Ningún Roadmap encontrado. \n\n¿Estás conectado a internet?",
+		"spanish": "Ningún Roadmap encontrado. \n\n¿Estás conectado a internet?",
 		"spanish-esp": "Ninguna hoja de ruta encontrada. \n\n¿Estás conectado a internet?",
 		"italian": "Nessuna Roadmap trovata. \n\nSei connesso ad internet?",
 		"japanese": "ロードマップが見つかりません。\n\nインターネットに接続されていますか？",
@@ -3121,12 +3120,12 @@
 		"hungarian": "Nem található útiterv.\n\nCsatlakozva vagy az internethez?",
 		"thai": "ไม่พบแผนงาน \n\nคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือยัง?",
 		"arabic": "لم يتم إيجاد خريطة طريق.\n\nهل أنت متصل بالإنترنت؟",
-		"turkish":"Planlar bulunamadı.\n\nİnternete bağlımısınız?",
+		"turkish": "Planlar bulunamadı.\n\nİnternete bağlımısınız?",
 		"romanian": "Nu s-au găsit planurile de viitor.\n\nEști conectat la internet?",
 		"danish": "Ingen udviklings fundet.\n\nHar du forbindelse til internettet?",
 		"greek": "Δεν βρέθηκε οδικός χάρτης.Είσαι συνδεδεμένος στο διαδίκτυο;",
 		"swiss german": "Kei Roadmap gfunde. \n\nBisch du mit äm Internet verbundä?",
-		"scotsgaelic": "Cha deach mapa-rathaid a lorg.\n\nA bheil ceangal agad ris an eadar-lìon?",
+		"scotsgaelic": "Cha deach mapa-rathaid a lorg.\n\nA bheil ceangal agad ris an eadar-lìon?"
 	},
 	"earlyAccessPromises": {
 		"english": "Guaranteed Features for Early Access",
@@ -3135,7 +3134,7 @@
 		"dutch": "Gegarandeerde functionaliteiten voor Vroegtijdige Toegang",
 		"chinese": "抢先体验版本实现功能",
 		"russian": "Гарантированные функции раннего доступа",
-        	"spanish": "Funcionalidades garantizadas por el Accesso Anticipado",
+		"spanish": "Funcionalidades garantizadas por el Accesso Anticipado",
 		"spanish-esp": "Funcionalidades garantizadas para el Accesso Anticipado",
 		"italian": "Caratteristiche Garantite per l'Accesso Anticipato",
 		"japanese": "アーリーアクセスに実装される機能",
@@ -3147,13 +3146,13 @@
 		"hungarian": "Garantált tartalmak a Korai Hozzáféréshez",
 		"thai": "คุณสมบัติที่รับประกันสำหรับการเล่นระหว่างการพัฒนา",
 		"arabic": "مميزات مضمونة في الإصدار الأولي",
-		"turkish":"Erken erişimde garantili",
+		"turkish": "Erken erişimde garantili",
 		"romanian": "Caracteristici garantate pentru access anticipat",
 		"danish": "Garanteret funktioner for Early Access",
 		"greek": "Επιβεβαιωμένες δυνατότητες για πρώιμη πρόσβαση",
 		"swiss german": "Garantirti Features für dä Early Access",
-		"farsi":"چیز هایی که حتما اضافه میشوند",
-		"scotsgaelic": "Feartan Barantaichte airson Ruigsinneachd tràth",
+		"farsi": "چیز هایی که حتما اضافه میشوند",
+		"scotsgaelic": "Feartan Barantaichte airson Ruigsinneachd tràth"
 	},
 	"voteOnExtraFeatures": {
 		"english": "Vote on Extra Features",
@@ -3174,13 +3173,13 @@
 		"hungarian": "Szavazz extra tartalmakra",
 		"thai": "โหวตคุณสมบัติพิเศษ",
 		"arabic": "صوت على مميزات زائدة",
-		"turkish":"Ek özelliklere oy verin",
+		"turkish": "Ek özelliklere oy verin",
 		"romanian": "Votează pentru funcțiile suplimentare",
 		"danish": "Stem på Ekstra Funktioner",
 		"greek": "Ψήφισε για έξτρα δυαντότητες",
 		"swiss german": "Stimm ab für Extrafeatures",
-		"farsi":"به چیز های جدید نظر دهید",
-		"scotsgaelic": "Bhòt air Feartan a bharrachd",
+		"farsi": "به چیز های جدید نظر دهید",
+		"scotsgaelic": "Bhòt air Feartan a bharrachd"
 	},
 	"voteOnExtraFeatures_desc": {
 		"english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -3189,7 +3188,7 @@
 		"dutch": "Stem op jouw favoriete functionaliteiten, zodat wij weten waar we ons op moten focussen.\nWe zullen functionaliteiten uit deze lijst kiezen op basis van de voorkeur van de gemeenschap.",
 		"chinese": "投票选出你最喜欢的功能，让我们知道我们应该关注什么。\n我们将根据社区的期望以及它们在游戏中的适合程度从这个列表中进行选择。",
 		"russian": "Голосуйте за понравившиеся функции, чтобы сообщить нам, на чем мы должны сосредоточиться.\nФункционал, который понравится сообществу и хорошо впишется в игру, будет добавлен.",
-        	"spanish": "Vota por tu contenido favorito, así sabremos sobre cual debemos centrarnos.\nElegiremos en esta lista según los deseos de la comunidad y su prioridad.",
+		"spanish": "Vota por tu contenido favorito, así sabremos sobre cual debemos centrarnos.\nElegiremos en esta lista según los deseos de la comunidad y su prioridad.",
 		"spanish-esp": "Vota por tu contenido favorito para hacernos saber en qué debemos centrarnos.\nEscogeremos el contenido de esta lista basándonos en los deseos de la comunidad y en cómo de bien se ajusten al juego.",
 		"italian": "Vota per le tue caratteristiche preferite per farci sapere su che cosa dovremmo concentrarci.\nSceglieremo dalla lista in base ai desideri della comunità e a come si inserisce nel gioco.",
 		"japanese": "何に注力するかの参考のために 興味のある機能に投票してください。 コミュニティの希望に基づくリストから ゲームに適合しているものを選択する予定です。",
@@ -3201,12 +3200,12 @@
 		"hungarian": "Szavazz a kedvenc funkcióidra, hogy tudasd velünk melyikre figyeljünk jobban.\nEbből a listából választunk a közösség kívánságai és a játékba való illeszkedésük alapján.",
 		"thai": "โหวตคุณลักษณะที่คุณชื่นชอบเพื่อแจ้งให้เราทราบว่าเราควรเน้นเรื่องใด \nเราจะเลือกจากรายการนี้ตามความปรารถนาของชุมชนและความเหมาะสมกับเกม",
 		"arabic": "صوت على المميزات المفضلة لديك لتعلمنا بما يجب علينا التركيز عليه.\nسنختار من هذه القائمة بناء على رغبة الجمهور ومدى إمكانية تطبيقها في اللعبة.",
-		"turkish":"Favori özelliklerinize oyun verin.\nTopluluğun isteklerine ve oyuna uyumuna bağlı olarak bu listedeki özellikleri oyuna ekliyeceğiz.",
+		"turkish": "Favori özelliklerinize oyun verin.\nTopluluğun isteklerine ve oyuna uyumuna bağlı olarak bu listedeki özellikleri oyuna ekliyeceğiz.",
 		"romanian": "Votează funcțiile tale preferate pentru a ne spune pe ce ar trebui să ne concentrăm.\nVom alege din această listă în funcție de dorințele comunității și de cât de bine se potrivesc în joc.",
 		"danish": "Stem på din favorit funktion, så vi ved hvad vi skal focusere på.\nVi vil vælge fra listen, ud fra øsnker og hvor godt de passer ind i spillet.",
 		"greek": "Ψήφισε στις αγαπημένες σου δυνατότητες για να ξέρουμε σε τι να εστιάσουμε.\nΘα διαλέξουμε από αυτήν την λίστα με βάση τις επιθυμίες της κοινότητας και του πόσο καλά ταιριάζουν στο παιχνίδι.",
 		"swiss german": "Stimm für dini Lieblingsfeatures, dass mir wüssed uf was mir üs konzentriärä müend.\nMir wärded Features us därä Lischtä wählä je nachdäm we fest sie vo dä Community gwünscht wärded und we guet sie is Spiel passäd.",
-		"scotsgaelic": "Bhòt air na feartan as fheàrr leat gus innse dhuinn cò air a bu chòir dhuinn fòcas a chuir.\nTaghaidh sinn bhon liosta seo a rèir miann na coimhearsnachd agus dè cho math sa tha iad a’ freagairt air a’ gheama.",
+		"scotsgaelic": "Bhòt air na feartan as fheàrr leat gus innse dhuinn cò air a bu chòir dhuinn fòcas a chuir.\nTaghaidh sinn bhon liosta seo a rèir miann na coimhearsnachd agus dè cho math sa tha iad a’ freagairt air a’ gheama."
 	},
 	"vote": {
 		"english": "Vote",
@@ -3227,13 +3226,13 @@
 		"hungarian": "Szavazás",
 		"thai": "โหวต",
 		"arabic": "صوت",
-		"turkish":"Oy Ver",
+		"turkish": "Oy Ver",
 		"romanian": "Votează",
 		"danish": "Stem",
 		"greek": "Ψήφισε",
 		"swiss german": "Abstimmä",
-		"farsi":"رای",
-		"scotsgaelic": "Bhòt",
+		"farsi": "رای",
+		"scotsgaelic": "Bhòt"
 	},
 	"discuss": {
 		"english": "Discuss",
@@ -3254,13 +3253,13 @@
 		"hungarian": "Fórum",
 		"thai": "พิจารณา",
 		"arabic": "ناقش",
-		"turkish":"Tartış",
+		"turkish": "Tartış",
 		"romanian": "Discută în forum",
 		"danish": "Diskuter",
 		"greek": "Συζήτηση",
 		"swiss german": "Diskutiärä",
-		"farsi":"بحث ها",
-		"scotsgaelic": "Bruidhinn",
+		"farsi": "بحث ها",
+		"scotsgaelic": "Bruidhinn"
 	},
 	"reportBug": {
 		"english": "Report a Bug",
@@ -3281,13 +3280,13 @@
 		"hungarian": "Hiba bejelentése",
 		"thai": "รายงานข้อผิดพลาด",
 		"arabic": "أبلغ عن مشكلة",
-		"turkish":"Hata Bildir",
+		"turkish": "Hata Bildir",
 		"romanian": "Raportează o eroare",
 		"danish": "Rapporter en fejl",
 		"greek": "Ανάφερε ένα πρόβλημα",
 		"swiss german": "Bug mäldä",
-		"farsi":"یک خرابی را گزارش دهید",
-		"scotsgaelic": "Dèan aithris air Bug",
+		"farsi": "یک خرابی را گزارش دهید",
+		"scotsgaelic": "Dèan aithris air Bug"
 	},
 	"translateInfraSpace": {
 		"english": "Translate InfraSpace",
@@ -3308,12 +3307,12 @@
 		"hungarian": "Fordítsd az InfraSpace-t",
 		"thai": "แปลเกม InfraSpace",
 		"arabic": "ترجم InfraSpace",
-		"turkish":"InfraSpace'i çevir",
+		"turkish": "InfraSpace'i çevir",
 		"romanian": "Traducere InfraSpace",
 		"danish": "Oversæt InfraSpace",
 		"swiss german": "InfraSpace übersetzä",
-		"farsi":"بازی را ترجمه کنید!",
-		"scotsgaelic": "Eadar-theangaich InfraSpace",
+		"farsi": "بازی را ترجمه کنید!",
+		"scotsgaelic": "Eadar-theangaich InfraSpace"
 	},
 	"roadmap_trafficTools_title": {
 		"english": "Traffic Signs and Traffic Lights",
@@ -3334,12 +3333,12 @@
 		"hungarian": "Forgalomirányító táblák és fények",
 		"thai": "แปลเกม InfraSpace",
 		"arabic": "إشارات المرور وعلامات المرور",
-		"turkish":"Trafik Işıkları ve Trafik Tabelaları",
+		"turkish": "Trafik Işıkları ve Trafik Tabelaları",
 		"romanian": "Semne de circulație și semafoare",
 		"danish": "Trafikskilte og Trafiklys",
 		"greek": "Σήματα και Φανάρια",
 		"swiss german": "Verchehrsschild und Amplä",
-		"scotsgaelic": "Soidhnichean Trafaic agus Solais Trafaic",
+		"scotsgaelic": "Soidhnichean Trafaic agus Solais Trafaic"
 	},
 	"roadmap_trafficTools_desc": {
 		"english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -3348,7 +3347,7 @@
 		"dutch": "Voorkom dat uw kruisingen verstopt raken en prioriseer welke auto's eerst mogen.",
 		"chinese": "防止十字路口堵塞车辆，\n并优先考虑哪些汽车可以先行。",
 		"russian": "Избегайте пробок на перекрестках и расставляйте приоритеты для машин, которые должны проезжать в первую очередь.",
-        "spanish": "Evita que las intersecciones se atasquen y da prioridades a algunos vehículos.",
+		"spanish": "Evita que las intersecciones se atasquen y da prioridades a algunos vehículos.",
 		"spanish-esp": "Evita que las intersecciones se atasquen y prioriza qué vehículos pueden pasar primero.",
 		"italian": "Evita che i tuoi incroci si congestionino e dai priorità ai veicoli che possono passare prima.",
 		"japanese": "交差点が渋滞しないように 発進する車に優先順位を付けます。",
@@ -3360,12 +3359,12 @@
 		"hungarian": "Ügyelj arra, hogy a kereszteződéseid ne teljenek meg és priorizáld mely autók mehetnek először.",
 		"thai": "ป้องกันไม่ให้เกิดทางแยกที่จะทำให้รถติดและจัดลำดับความสำคัญด้วยว่ารถคันใดต้องไปก่อนได้",
 		"arabic": "حافظ على تقاطعات الطرق الخاصة بك من الاختناق المروري وضع أولويات من يمشي أولا",
-		"turkish":"Yolların tıkanmasını engelle ve araçlara öncelik ver.",
+		"turkish": "Yolların tıkanmasını engelle ve araçlara öncelik ver.",
 		"romanian": "Evită înfundarea intersecțiilor și acordă prioritate mașinilor care pot merge primele.",
 		"danish": "Sørg for, at dine vejkryds ikke bliver tilstoppede, og prioriter, hvilke biler der kan køre først.",
 		"greek": "Απότρεψε τις διασταυρώσεις σου από το μποτιλιάρισμα κολλάνε και όρισε προτεραιότητες.",
 		"swiss german": "Bhalt dini Chrüüzige frei und bevorzug weli Autos zersch fahre dörfed.",
-		"scotsgaelic": "Cùm do rathaidean bho bhith air am bacadh agus cuir prìomhachas air na càraichean as urrainn a dhol an toiseach.",
+		"scotsgaelic": "Cùm do rathaidean bho bhith air am bacadh agus cuir prìomhachas air na càraichean as urrainn a dhol an toiseach."
 	},
 	"roadmap_trains_title": {
 		"english": "Trains",
@@ -3386,12 +3385,12 @@
 		"hungarian": "Vonatok",
 		"thai": "รถไฟ",
 		"arabic": "قطارات",
-		"turkish":"Trenler",
+		"turkish": "Trenler",
 		"romanian": "Trenuri",
 		"danish": "Tog",
 		"greek": "Τρένα",
 		"swiss german": "Züüg",
-		"scotsgaelic": "Trèanaichean",
+		"scotsgaelic": "Trèanaichean"
 	},
 	"roadmap_trains_desc": {
 		"english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -3412,12 +3411,12 @@
 		"hungarian": "Az autópályák jók, de néha anyagok tonnáit kell végigszállítani a városon.",
 		"thai": "ทางหลวงเป็นสิ่งที่ดี แต่บางครั้งคุณต้องขนส่งวัสดุหลายพันตันไปทั่วครึ่งเมือง",
 		"arabic": "الطرق السريعة لطيفة، لكن أحيانا تحتاج لنقل آلاف الأطنان من الموارد عبر المدينة.",
-		"turkish":"Otoyollar güzel bile olsa bazen şehirlerin içinden tonlarca malzeme taşımak için trenler daha iyidir.",
+		"turkish": "Otoyollar güzel bile olsa bazen şehirlerin içinden tonlarca malzeme taşımak için trenler daha iyidir.",
 		"romanian": "Autostrăzile sunt frumoase, dar uneori trebuie să transporți mii de tone de materiale prin jumătate de oraș.",
 		"danish": "Motorveje er fine, men nogle gange skal du transportere tusindvis af tons materialer gennem halvdelen af byen.",
 		"greek": "Οι αυτοκινητόδρομοι καλοί είναι, αλλά μερικές φορές χρειάζεται να μεταφέρεις χιλιάδες τόνους υλικών μέσα από την μισή πόλη",
 		"swiss german": "Autobahnä sind ja schön und guet aber wänn mä tuusigi Tonne Material dur d Stadt bevördere mues, sind Züüg sehr praktisch.",
-		"scotsgaelic": "Tha rathaidean mòra snog, ach uaireannan feumaidh tu mìltean de thunnaichean de stuthan a ghiùlan tro leth a’ bhaile.",
+		"scotsgaelic": "Tha rathaidean mòra snog, ach uaireannan feumaidh tu mìltean de thunnaichean de stuthan a ghiùlan tro leth a’ bhaile."
 	},
 	"roadmap_endgame_title": {
 		"english": "Large Endgame Project",
@@ -3438,12 +3437,12 @@
 		"hungarian": "Hatalmas játék-végi projekt",
 		"thai": "โครงการใหญ่ท้ายเกม",
 		"arabic": "مشروع نهاية اللعبة الكبير",
-		"turkish":"Büyük Oyun Sonu Projeleri",
+		"turkish": "Büyük Oyun Sonu Projeleri",
 		"romanian": "Proiect mare de final de joc",
 		"danish": "Kæmpe Afslutnings Projekt",
 		"greek": "Μεγάλο πρότζεκτ στο τέλος του παχνιδιού",
 		"swiss german": "Grossäs Endgame-Projekt",
-		"scotsgaelic": "Pròiseact Geama Crìochnachaidh Mòr",
+		"scotsgaelic": "Pròiseact Geama Crìochnachaidh Mòr"
 	},
 	"roadmap_endgame_desc": {
 		"english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -3464,12 +3463,12 @@
 		"hungarian": "Teljesen kimaxoltad a városodat és végeztél a kutatásokkal is? Kíváncsi vagy egy utolsó megmérettetésre?",
 		"thai": "คุณได้ขยายเมืองของคุณให้เต็มที่และจบสายวิจัยแล้วหรือยัง? คุณกำลังมองหาความท้าทายครั้งสุดท้ายหรือไม่?",
 		"arabic": "هل وصلت إلى أعلى مستوى في مدينتك وأنهيت الشجرة التقنية؟ هل تبحث عن تحدي أخير؟",
-		"turkish":"Herşeyin üretimini en verimli hale getirdikden ve tüm araştırmaları tamaladıkdan sonra bile bir meydan okumaya hazırmısın?",
+		"turkish": "Herşeyin üretimini en verimli hale getirdikden ve tüm araştırmaları tamaladıkdan sonra bile bir meydan okumaya hazırmısın?",
 		"romanian": "Ți-ai depășit orașul și ai terminat arborele tehnologic? Cauți o ultimă provocare?",
 		"danish": "Har du fået det maximale ud af din by og færdiggjort teknologitræet? Leder du efter en sidste udfordring?",
 		"greek": "Έχεις φτάσει στο αποκορύφωμα την πόλη σου και έχεις τελειώσει το δέντρο τεχνολογίας;Ψάχνεις για μία τελική προκληση;",
 		"swiss german": "Wänn du scho s ganzä Spiel durägspilt häsch, hettisch nd d Chance uf ä letsti Useforderig.",
-		"scotsgaelic": "A bheil thu air do bhaile-mòr a mheudachadh agus a’ chraobh tech a chrìochnachadh? A bheil thu a’ coimhead airson aon dùbhlan mu dheireadh?",
+		"scotsgaelic": "A bheil thu air do bhaile-mòr a mheudachadh agus a’ chraobh tech a chrìochnachadh? A bheil thu a’ coimhead airson aon dùbhlan mu dheireadh?"
 	},
 	"roadmap_gondolas_title": {
 		"english": "Gondolas for Highland Access",
@@ -3490,12 +3489,12 @@
 		"hungarian": "Felvonók a hegyvidékekhez",
 		"thai": "กระเช้าลอยฟ้าสำหรับขึ้นที่สูง",
 		"arabic": "تلفريك للوصول إلى الأراضي المرتفعة",
-		"turkish":"Yüksek eğimler için teleferik",
+		"turkish": "Yüksek eğimler için teleferik",
 		"romanian": "Gondole pentru a face legătura cu platoul",
 		"danish": "Gondoler til Highland Access",
 		"greek": "Γόνδολες για ορεινή πρόσβαση",
 		"swiss german": "Gondlä für Verbindigä zu dä Hochebnä",
-		"scotsgaelic": "Gondolas airson ruigsinneachd Gàidhealach",
+		"scotsgaelic": "Gondolas airson ruigsinneachd Gàidhealach"
 	},
 	"roadmap_gondolas_desc": {
 		"english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -3516,12 +3515,12 @@
 		"hungarian": "A magas tárolóképességű felvonók sziklákon és hegyeken keresztül szállítják az árudat.",
 		"thai": "กระเช้าบรรทุกสินค้าความจุขนาดใหญ่สามารถขนส่งสินค้าผ่านโขดหินและภูเขาได้",
 		"arabic": "عربات موارد تلفريك كبيرة السعة تستطيع حمل بضائعك فوق الصخور والجبال.",
-		"turkish":"Yüksek kapasiteli kargo teleferikleri dik yollardan kargo çıkarmayı mümkün kılıyor",
+		"turkish": "Yüksek kapasiteli kargo teleferikleri dik yollardan kargo çıkarmayı mümkün kılıyor",
 		"romanian": "Gondolele de marfă de mare capacitate care transportă mărfurile peste stânci și munți.",
 		"danish": "Godsgondoler med høj kapacitet kan transportere dine varer over klipper og bjerge.",
 		"greek": "Γόνδολες φορτίου υψηλής χωρητικότητας μπορούν να μεταφέρουν τα αγαθά σου πάνω από πέτρες και βουνά.",
 		"swiss german": "Grossi Gondlä chönd dini Materialie über Felsä und Bärg beförderä.",
-		"scotsgaelic": "Faodaidh gondolas cargo le comas àrd do bhathar a ghiùlan thairis air creagan is beanntan.",
+		"scotsgaelic": "Faodaidh gondolas cargo le comas àrd do bhathar a ghiùlan thairis air creagan is beanntan."
 	},
 	"roadmap_happinessSystem_title": {
 		"english": "Happiness System",
@@ -3542,12 +3541,12 @@
 		"hungarian": "Öröm rendszer",
 		"thai": "ระบบความสุข",
 		"arabic": "نظام سعادة",
-		"turkish":"Mutluluk Sistemi",
+		"turkish": "Mutluluk Sistemi",
 		"romanian": "Sistem de fericire",
 		"danish": "Glædes System",
 		"greek": "Σύστημα χαράς",
 		"swiss german": "Glücklichkeitssystem",
-		"scotsgaelic": "Siostam Sonas",
+		"scotsgaelic": "Siostam Sonas"
 	},
 	"roadmap_happinessSystem_desc": {
 		"english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -3556,7 +3555,7 @@
 		"french": "Système amélioré pour décider quand un habitat peut être mis à niveau. Il prend en compte les bâtiments de service à proximité, le bruit, les réglementations, etc.",
 		"chinese": "改进系统来决定何时升级居住点。\n考虑到附近的服务建筑以及噪音等等。",
 		"russian": "Улучшенная система принятия решения о том, когда улучшать среду обитания. Принимает во внимание близлежащие служебные здания, шум, правила и многое другое.",
-        	"spanish": "Sistema mejorado para decidir cuándo una vivienda se moderniza. Considera los edificios de servicio cercanos, el ruido, las reglamentaciones, etc.",
+		"spanish": "Sistema mejorado para decidir cuándo una vivienda se moderniza. Considera los edificios de servicio cercanos, el ruido, las reglamentaciones, etc.",
 		"spanish-esp": "Sistema mejorado para decidir cuándo una vivienda se moderniza. Considera los edificios de servicio cercanos, el ruido, los reglamentos, y más.",
 		"italian": "Sistema migliorato per decidere quando un habitat sarà migliorato. Tiene conto degli edifici di servizio vicini, del rumore, delle ordinanze, ed altro.",
 		"japanese": "住居地のアップグレードを決める仕組み を改善します。 近くのサービス施設、騒音、条例などを 考慮に入れます。",
@@ -3568,12 +3567,12 @@
 		"hungarian": "Továbbfejlesztett rendszer ami meghatározza, mikor jön el az ideje fejleszteni a lakásokat.\nSzámításba veszi a környező szolgáltatási építményeket, zajt, előírásokat és további tényezőket.",
 		"thai": "แก้ไขระบบการตัดสินใจเมื่อจะปรับปรุงแหล่งที่อยู่อาศัย โดยคำนึงถึงอาคารที่บริการ เสียงรบกวน กฎหมาย และอื่นๆ",
 		"arabic": "نظام مطور ليقرر متى تتطور الوحدات السكنية. يأخذ في عين الاعتبار ما يجوارها من المباني الخدمية، الإزعاج، القوانين، والكثير.",
-		"turkish":"Habitatları yükseltmek için mutluluk sağlanmalı. Servis binaları, ses ve yönetim gibi faktörleri göz önüne alır.",
+		"turkish": "Habitatları yükseltmek için mutluluk sağlanmalı. Servis binaları, ses ve yönetim gibi faktörleri göz önüne alır.",
 		"romanian": "Sistem îmbunătățit pentru a decide când se modernizează habitatele. Ia în considerare clădirile de servicii din apropiere, zgomotul, ordonanțele și multe altele.",
 		"danish": "Forbedret system til at beslutte, hvornår habitater opgraderes. Tager hensyn til nærliggende servicebygninger, støj, bekendtgørelser med mere.",
 		"greek": "Βελτιωμένο σύστημα για να αποφασίζει πότε αναβαθμίζονται οι αποικίες. Λογαριάζει κοντινά κτήρια υπηρεσιών,θόρυβο,κανόνες και άλλα.",
 		"swiss german": "Verbesserts System zum z'entscheidä wänn sich en Wohnort verbesserät. Es Berücksichtigt Servicegebäude i dä Nöchi, Lärn, Verordnige und meh.",
-		"scotsgaelic": "Siostam nas fheàrr gus co-dhùnadh cuin a bhios dachaighean ag ùrachadh. A’ toirt aire do thogalaichean seirbheis faisg air làimh, fuaim, agus barrachd.",
+		"scotsgaelic": "Siostam nas fheàrr gus co-dhùnadh cuin a bhios dachaighean ag ùrachadh. A’ toirt aire do thogalaichean seirbheis faisg air làimh, fuaim, agus barrachd."
 	},
 	"roadmap_modSupport_title": {
 		"english": "Mod Support",
@@ -3594,11 +3593,11 @@
 		"hungarian": "Mod támogatás",
 		"thai": "รองรับม็อด",
 		"arabic": "دعم التعديلات",
-		"turkish":"Modlama desteği",
+		"turkish": "Modlama desteği",
 		"romanian": "Suport pentru mod-uri",
 		"danish": "Mod Understøttelse",
 		"greek": "Υποστίριξη τροποποιήσεων",
-		"swiss german": "Kompatibilität mit Mods",
+		"swiss german": "Kompatibilität mit Mods"
 	},
 	"roadmap_modSupport_desc": {
 		"english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -3619,11 +3618,11 @@
 		"hungarian": "Támogatás egyensúly, építés, alapanyag, felhasználói felület, infrastruktúra és szkript modokhoz.",
 		"thai": "รองรับม็อดสมดุล ม็อดอาคาร ม็อดทรัพยากร ม็อด UI ม็อดโครงสร้างพื้นฐาน และม็อดสคริปต์",
 		"arabic": "دعم تعديلات التوازن، تعديلات المباني، تعديلات الموارد، تعديلات واجهة المستخدم، تعديلات البنية التحتية، وتعديلات النصوص.",
-		"turkish":"Dengeleme, inşaat, kaynak, arayüz, altyapı ve script modları için destek.",
+		"turkish": "Dengeleme, inşaat, kaynak, arayüz, altyapı ve script modları için destek.",
 		"romanian": "Suport pentru mod-uri de echilibru, mod-uri de construcție, mod-uri de resurse, mod-uri de UI, mod-uri de infrastructură și mod-uri de script.",
 		"danish": "Understøttelse af balancemods, byggemods, ressourcemods, UI-mods, infrastrukturmods og scriptmods.",
 		"greek": "Υποστίριξη για τροποποιήσεις ισσοροπίας,τροποποιήσεις κτηρίων,τροποποιήσεις πόρων,τροποποιήσεις UI,τροποποιήσεις υποδομών και τροποποιήσεις σεναρίων",
-		"swiss german": "Unterstützig für Guethabemods, Gebäudemods, Ressourcämods, UI-Mods, Infrastrukturmods und Scriptmods.",
+		"swiss german": "Unterstützig für Guethabemods, Gebäudemods, Ressourcämods, UI-Mods, Infrastrukturmods und Scriptmods."
 	},
 	"roadmap_pipes_title": {
 		"english": "Pipes for Liquids and Gases",
@@ -3644,11 +3643,11 @@
 		"hungarian": "Csövek folyadékokhoz és gázokhoz",
 		"thai": "ท่อสำหรับของเหลวและก๊าซ",
 		"arabic": "أنابيب للسوائل والغازات",
-		"turkish":"Sıvılar Ve Gazlar İÇin Borular",
+		"turkish": "Sıvılar Ve Gazlar İÇin Borular",
 		"romanian": "Conducte pentru lichide si gaze",
 		"danish": "Rørledning til væsker og gasser",
 		"greek": "Σωλήνες για υγρά και αέρια",
-		"swiss german": "Rohr für Flüssigkeitä und Gas",
+		"swiss german": "Rohr für Flüssigkeitä und Gas"
 	},
 	"roadmap_pipes_desc": {
 		"english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -3669,11 +3668,11 @@
 		"hungarian": "Mi lenne ha hatalmas mennyiségben tudnál szállítani anyagokat a föld alatt vagy csőrendszerbven? Mi lenne ha vizet kellene előállítani a túléléshez?",
 		"thai": "จะเกิดอะไรขึ้นถ้าคุณสามารถขนส่งทรัพยากรปริมาณมากในใต้พื้นดินหรือในท่อได้ จะเป็นอย่างไร ถ้าคุณต้องการผลิตน้ำเพื่อความอยู่รอด",
 		"arabic": "ماذا لو كان بإمكانك نقل كميات كبيرة من الموارد تحت الأرض أو خلال خطوط أنابيب؟ ماذا لو احتجت أن تنتج الماء لتنجو؟",
-		"turkish":"Ya yer altından veya borulardan yüksek miktarfa kaynak taşınabilseydi? Veya kolonistlerinize su sağlamak gerekseydi?",
+		"turkish": "Ya yer altından veya borulardan yüksek miktarfa kaynak taşınabilseydi? Veya kolonistlerinize su sağlamak gerekseydi?",
 		"romanian": "Ce ai zice dacă ai putea transporta cantități mari de resurse sub pământ sau în conducte? Ce ai zice dacă ai avea nevoie să produci apă pentru a supraviețui?",
 		"danish": "Hvad hvis du kunne transportere store mængder ressourcer under jorden eller i rørledninger? Hvad hvis du skulle producere vand for at overleve?",
 		"greek": "Τι κι αν μπορύσες να μεταφέρεις μεγάλες ποσότητες πόρων κάτω από το έδαφος ή σε σωληνώσεις; Τι κι αν χρειαζόταν να παράγεις νερό για να επιβιώσεις;",
-		"swiss german": "Was wänn du grossi Mängänä a Flüssigkeite und Gas in Pipelines befördere chöntisch? Was wenns Wasser brüüchti zum Überläbä?",
+		"swiss german": "Was wänn du grossi Mängänä a Flüssigkeite und Gas in Pipelines befördere chöntisch? Was wenns Wasser brüüchti zum Überläbä?"
 	},
 	"roadmap_heatSystem_title": {
 		"english": "Heat System",
@@ -3694,11 +3693,11 @@
 		"hungarian": "Fűtési rendszer",
 		"thai": "ระบบทำความร้อน",
 		"arabic": "نظام تدفئة",
-		"turkish":"Isı Sistemi",
+		"turkish": "Isı Sistemi",
 		"romanian": "Sistem de încălzire",
 		"danish": "Varme System",
 		"greek": "Σύστημα Θέρμανσης",
-		"swiss german": "Wärmesystem",
+		"swiss german": "Wärmesystem"
 	},
 	"roadmap_heatSystem_desc": {
 		"english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -3719,11 +3718,11 @@
 		"hungarian": "A létszükségleti rendszerek fontosak az űrben - melegen tartani vagy hűteni a városod létfontosságú lehet.",
 		"thai": "ระบบช่วยชีวิตมีความสำคัญในอวกาศการทำให้เมืองของคุณอบอุ่นหรือเย็นพอดีนั่นเป็นเรื่องวิกฤต",
 		"arabic": "نظم دعم الحياة مهمة في الفضاء - الحفاظ على مدينتك دافئة أو باردة بشكل كافي قد يكون حرجا.",
-		"turkish":"Yaşam destek üniteleri uzayda yaşam için şart - şehrinizin ısısını doğru ayarlamak ölümle yaşam arasında inci bir çizgi olabilir",
+		"turkish": "Yaşam destek üniteleri uzayda yaşam için şart - şehrinizin ısısını doğru ayarlamak ölümle yaşam arasında inci bir çizgi olabilir",
 		"romanian": "Sistemele de susținere a vieții sunt importante în spațiu - menținerea orașului suficient de cald sau de răcoare ar putea fi esențială.",
 		"danish": "Livsstøttesystemer er vigtige i rummet - at holde din by varm eller kølig nok kan være kritisk.",
 		"greek": "Τα συστήματα υποστήριξης ζωής είναι σημαντικά στο διάστημα - διατηρώντας την πόλη σου αρκετά ζεστή ή κρύα θα μπορύσε να είναι κρίσιμο",
-		"swiss german": "Läbänsunterhaltigssystem sind wichtig im Wältall - dini Stadt gnueg Chüel oder Warm z`bhalte chönt überlebenswichtig sii.",
+		"swiss german": "Läbänsunterhaltigssystem sind wichtig im Wältall - dini Stadt gnueg Chüel oder Warm z`bhalte chönt überlebenswichtig sii."
 	},
 	"roadmap_dayNightCycle_title": {
 		"english": "Day-Night Cycle",
@@ -3744,11 +3743,11 @@
 		"hungarian": "Nappal-éjjel ciklus",
 		"thai": "สลับกลางวัน-กลางคืน",
 		"arabic": "دورة الليل والنهار",
-		"turkish":"Gece-Gündüz döngüsü",
+		"turkish": "Gece-Gündüz döngüsü",
 		"romanian": "Ciclu zi-noapte",
 		"danish": "Dag og Nat cyklus",
 		"greek": "Κύκλος Μέρας-Νύχτας",
-		"swiss german": "Tag-Nacht-Zyklus",
+		"swiss german": "Tag-Nacht-Zyklus"
 	},
 	"roadmap_dayNightCycle_desc": {
 		"english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -3769,11 +3768,11 @@
 		"hungarian": "Elég hidegnek ígérkezik és az elektromos hálózatot is fel kell készíteni az estére. Továbbá jól működhet a fűtési rendszerrel - homokbolygók hamar lehülnek éjjelente.",
 		"thai": "ดูเหมือนจะหนาวนะคุณต้องเตรียมพลังงานสำหรับค่ำคืนนี้ มันทำงานได้ดีกับระบบทำความร้อนเพื่อให้ความหนาวบนดาวเคราะห์นี้หายไปอย่างรวดเร็วในคืนนี้",
 		"arabic": "يبدو الجو باردا ويجب عليك تجهيز شبكة الطاقة الخاصة لقضاء الليلة. تكون جيدة أيضا للعمل مع وجود نظام تدفئة - رمال الكواكب تبرد سريعا خلال الليل.",
-		"turkish":"Havalı duruyor ve geceleri elektrik üretimi için elektrik üretimini gözden geçirmek gerekebilir.Aynı zamanda ısı sistemiyle uyum sağlayabilir.",
+		"turkish": "Havalı duruyor ve geceleri elektrik üretimi için elektrik üretimini gözden geçirmek gerekebilir.Aynı zamanda ısı sistemiyle uyum sağlayabilir.",
 		"romanian": "Arată bine și trebuie să pregatești rețeaua de alimentare pentru noapte. Ar putea funcționa bine și cu sistemul de căldură - planetele de nisip se răcesc rapid noaptea.",
 		"danish": "Ser cool ud, og du skal forberede dit strømnetværk til natten. Kunne også fungere godt med varmesystem - sandplaneter afkøles hurtigt om natten.",
 		"greek": "Φαίνεται ωραίο και χρειάζεται να προετοιμάσεις το ηλεκτρικό σου δίκτυο για την νύχτα.Θα μπορούσε επίσης να δουλέψει καλά με το σύστημα θέρμανσης - οι πλανήτες άμμου κρυώνουν γρήγορα την νύχτα.",
-		"swiss german": "Gseht cool uus und du muesch dis Stromnetz uf d Nacht vorbereitä wenns kei Sunnä meh hät. Es chönt au guet mit äm Wärmesystem funktionierä - Sandplanetä wärded idä Nacht sehr chüel.",
+		"swiss german": "Gseht cool uus und du muesch dis Stromnetz uf d Nacht vorbereitä wenns kei Sunnä meh hät. Es chönt au guet mit äm Wärmesystem funktionierä - Sandplanetä wärded idä Nacht sehr chüel."
 	},
 	"roadmap_firesCrime_title": {
 		"english": "Fires and Crime",
@@ -3794,11 +3793,11 @@
 		"hungarian": "Tüzek és bűnözés",
 		"thai": "ไฟไหม้และอาชญากรรม",
 		"arabic": "الحرائق والجرائم",
-		"turkish":"Yangınlar ve Suçlar",
+		"turkish": "Yangınlar ve Suçlar",
 		"romanian": "Incendii și crimă",
 		"danish": "Brande og kriminalitet",
 		"greek": "Φωτιές και έγκλημα",
-		"swiss german": "Füür und Kriminalität",
+		"swiss german": "Füür und Kriminalität"
 	},
 	"roadmap_firesCrime_desc": {
 		"english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -3819,11 +3818,11 @@
 		"hungarian": "Balesetek történnek és a városodnak szüksége van vészhelyzeti szolgáltatásokra ilyen esetekre - légy felkészült!",
 		"thai": "หากมีอุบัติเหตุเกิดขึ้นเมืองของคุณต้องการบริการฉุกเฉินสำหรับกรณีดังกล่าว - จงเตรียมพร้อม!",
 		"arabic": "الحوادث تحصل ومدينتك تحتاج إلى خدمات طوارئ لتتعامل معها - كن مستعدا!",
-		"turkish":"Kazaların ne zaman yaşabileceği ön görlemez ve şehrinizin bunlarla başa çıkmak için sürekli tetikde olması gerekir - hazırlıklı olun!",
+		"turkish": "Kazaların ne zaman yaşabileceği ön görlemez ve şehrinizin bunlarla başa çıkmak için sürekli tetikde olması gerekir - hazırlıklı olun!",
 		"romanian": "Se întâmplă accidente și orașul tău are nevoie de servicii de urgență pentru a le face față - fii pregătit!",
 		"danish": "Ulykker sker, og din by har brug for nødtjenester til at håndtere dem - vær forberedt!",
 		"greek": "Αυτχήματα συμβαίνουν και η πόλη σου χρειάζεται υπηρεσίες έκτατης ανάγκης για να τις αντιμετωπίσει - ετοιμάσου!",
-		"swiss german": "Umfäll chönd passierä und dini Stadt brucht Rettigspersonal - bi vorbereität!",
+		"swiss german": "Umfäll chönd passierä und dini Stadt brucht Rettigspersonal - bi vorbereität!"
 	},
 	"roadmap_flyingCars_title": {
 		"english": "Flying Cars for Workers",
@@ -3844,11 +3843,11 @@
 		"hungarian": "Repülő autók a munkásoknak",
 		"thai": "รถบินได้สำหรับคนงาน",
 		"arabic": "سيارات طائرة للعمال",
-		"turkish":"İşciler için Uçan Arabalar",
+		"turkish": "İşciler için Uçan Arabalar",
 		"romanian": "Mașini zburătoare pentru muncitori",
 		"danish": "Flyvende biler til arbejere",
 		"greek": "Ιπτάμενα αυτοκίνητα για εργαζόμενους",
-		"swiss german": "Flüügendi Autos für die wo müend go schaffe.",
+		"swiss german": "Flüügendi Autos für die wo müend go schaffe."
 	},
 	"roadmap_flyingCars_desc": {
 		"english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -3857,7 +3856,7 @@
 		"dutch": "Laten we verkeer toevoegen voor werknemers die naar hun werk gaan, maar ook vliegende auto's invoeren om te voorkomen dat uw wegennetwerk niet vast komt te zitten.",
 		"chinese": "让我们为上班的工人增加交通，但也引入\n先进的飞行汽车，以防止你的道路堵塞。",
 		"russian": "Давайте добавим трафик для рабочих, идущих на работу, а также представим апгрейд до летающей машины, чтобы ваша дорожная система не утонула в пробках.",
-     	   	"spanish": "Añadamos al tráfico a los obreros yendo al trabajo, pero también la mejora de coche volador para no sobrecargar la red de transportes.",
+		"spanish": "Añadamos al tráfico a los obreros yendo al trabajo, pero también la mejora de coche volador para no sobrecargar la red de transportes.",
 		"spanish-esp": "Añadamos tráfico para los obreros yendo al trabajo, pero también la mejora de coche volador para no sobrecargar la red de transportes.",
 		"italian": "Aggiungiamo il traffico per i lavoratori che vanno al lavoro, ma introduciamo anche l'aggiornamento alle macchine volanti per evitare che il tuo sistema stradale si blocchi.",
 		"japanese": "労働者の通勤を追加しましょう。 その際、スタックを避けて 道路システムを維持するために 飛行自動車をアップグレードに 取り入れます。",
@@ -3869,11 +3868,11 @@
 		"hungarian": "Adjunk közlekedést a munkába tartó munkásoknak, de vezessük be a 'repülő autók' fejlesztést hogy óvjuk az utainkat a dugótól.",
 		"thai": "มาเพิ่มการจราจรให้คนงานกันเถอะ แต่ก็ยังอยากแนะนำอัปเกรดรถบินได้เพื่อป้องกันไม่ให้ระบบถนนของคุณติดขัด",
 		"arabic": "هيا بنا نضيف حركة مرور للعمال الذاهبين للعمل، ولكن أيضا نقدم تحديث السيارة الطائرة للحفاظ على نظام الطرق الخاص بك من الاكتظاظ.",
-		"turkish":"İşe giden kolonistler için trafik sistemi. Aynı zamanda yolları temiz tutmak için uçan araba yükseltmesi.",
+		"turkish": "İşe giden kolonistler için trafik sistemi. Aynı zamanda yolları temiz tutmak için uçan araba yükseltmesi.",
 		"romanian": "Să adăugăm trafic pentru lucrătorii care merg la muncă, dar să introducem și upgrade-ul mașinii zburătoare pentru a preveni blocarea sistemului rutier.",
 		"danish": "Lad os tilføje trafik til arbejdere, der skal på arbejde, men også introducere den flyvende bilopgradering for at forhindre dit vejsystem i at sidde fast.",
 		"greek": "Ας προσθέσουμε κυκλοφορία για τους εργάτες που πάνε στην δουλεία, αλλά επίσης να εισάγουμε την αναβάθμιση ιπτάμενων αυτοκινήτων για να αποτρέψουμε το οδικό δίκτυο να κολλάει.",
-		"swiss german": "D Lüüt wo müend go schaffe chönd flüügendi Autos näh. Äs Upgrade zu Flugautos wür au de Verchehr entlaschtä.",
+		"swiss german": "D Lüüt wo müend go schaffe chönd flüügendi Autos näh. Äs Upgrade zu Flugautos wür au de Verchehr entlaschtä."
 	},
 	"roadmap_naturalDisasters_title": {
 		"english": "Natural Disasters",
@@ -3894,12 +3893,12 @@
 		"hungarian": "Természeti katasztrófák",
 		"thai": "ภัยพิบัติทางธรรมชาติ",
 		"arabic": "الكوارث الطبيعية",
-		"turkish":"Doğal afetler",
+		"turkish": "Doğal afetler",
 		"romanian": "Dezastre naturale",
 		"danish": "Naturkatastrofer",
 		"greek": "Φυσικές Καταστροφές",
 		"swiss german": "Naturkatastrofä",
-		"farsi":"وقایع طبیعی",
+		"farsi": "وقایع طبیعی"
 	},
 	"roadmap_naturalDisasters_desc": {
 		"english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -3920,12 +3919,12 @@
 		"hungarian": "Mennyire fognak működni az utaid egy homokvihar után? Te fel lennél rá készülve?",
 		"thai": "ถนนของคุณทำงานได้ดีแค่ไหนหลังจากเกิดพายุทราย? เตรียมพร้อมรับมือหรือยัง?",
 		"arabic": "ما مدى كفاءة عمل طرقك بعد أن ضربتها عاصفة رملية؟ هل ستكون مستعدا؟",
-		"turkish":"Bir kum fırtınasının ardından şehriniz hala çalışabilirmi? Hazırlıklı olurmusunuz?",
+		"turkish": "Bir kum fırtınasının ardından şehriniz hala çalışabilirmi? Hazırlıklı olurmusunuz?",
 		"romanian": "Cât de bine vor funcționa drumurile tale după o furtună de nisip? Ai fi pregătit?",
 		"danish": "Hvor godt vil dine veje fungere efter en sandstorm? Ville du være forberedt?",
 		"greek": "Πόσο καλά θα δουλέψουν οι δρόμοι σου μετά από μία αμμοθύελλα; Θα ήσουν προετοιμασμένος;",
 		"swiss german": "Wie guet würded dini Strasse nachemene Sandsturm funktionierä? Wärsch du parat?",
-		"farsi":"ایا خیابان هایتان بعد از طوفان شن چجوری هستن",
+		"farsi": "ایا خیابان هایتان بعد از طوفان شن چجوری هستن"
 	},
 	"gameDifficulty_title": {
 		"english": "Game Difficulty",
@@ -3946,22 +3945,22 @@
 		"hungarian": "Játék nehézsége",
 		"thai": "ความยากของเกม",
 		"arabic": "صعوبة اللعبة",
-		"turkish":"Oyun Zorluğu",
+		"turkish": "Oyun Zorluğu",
 		"romanian": "Dificultatea jocului",
 		"danish": "Sværhedsgrad",
 		"greek": "Δυσκολία Παχνιδιού",
 		"swiss german": "Schwirigkeit vom Spiel",
-		"farsi":"سختی بازی",
+		"farsi": "سختی بازی"
 	},
 	"gameDifficulty_desc": {
 		"english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
-		"german": "Beeinflusst, wie viele Produkte Bürger verbrauchen.\nJe höher die Schwierigkeit, desto besser musst du dich um deine Wirtschaft kümmern.",
+		"german": "Beeinflusst, wie viele Produkte von Bürgern verbraucht werden.\nJe höher die Schwierigkeit, desto besser musst du dich um deine Wirtschaft kümmern.",
 		"french": "Contrôle le nombre de produits dont les citoyens ont besoin.\nPlus la difficulté est élevée, mieux vous devez gérer votre économie.",
 		"dutch": "Bepaald hoeveel producten uw inwoners nodig hebben.\nHoe hoger de moeilijkheidsgraad, hoe beter u uw stad moet beheren.",
 		"italian": "Controlla il numero di prodotti di cui i cittadini hanno bisogno. \nPiù è alta la difficoltà, più dovrai gestire al meglio la tua economia.",
 		"chinese": "决定着居民对产品的需求量。\n难度越高，你需要更好的管理经济能力。",
-        "spanish": "Controla cuantos recursos necesitan tus ciudadanos.\nCuánto más difícil, mejor debes manejar la economía.",
-        "spanish-esp": "Controla cuántos recursos necesitan tus ciudadanos.\nCuanto más difícil, mejor debes gestionar la economía.",
+		"spanish": "Controla cuantos recursos necesitan tus ciudadanos.\nCuánto más difícil, mejor debes manejar la economía.",
+		"spanish-esp": "Controla cuántos recursos necesitan tus ciudadanos.\nCuanto más difícil, mejor debes gestionar la economía.",
 		"russian": "Отвечает за количество еды, необходимое жителям.\nЧем выше сложность, тем лучше вы должны управлять своей экономикой.",
 		"japanese": "住民が必要とする物資の数を変更します。\n難易度が高いほど 経済をより適切に管理する 必要があります。",
 		"polish": "Kontroluje jak dużo produktów potrzebują mieszkańcy.\nIm wyższy poziom trudności, tym lepiej musisz zarządzać swoim miastem.",
@@ -3972,12 +3971,12 @@
 		"hungarian": "Meghatározza, hogy mennyi termékre lesz a lakosoknak szüksége.\nMinél magasabb a nehézség, annál jobban kell figyelned a pénzügyeidre.",
 		"thai": "ควบคุมจำนวนผลิตภัณฑ์ที่พลเมืองต้องการ\nยิ่งความยากสูงเท่าไหร่ คุณก็ยิ่งต้องจัดการเศรษฐกิจได้ดีเท่านั้น",
 		"arabic": "تتحكم في عدد المنتجات التي يحتاج إليها سكانك.\nكلما زادت الصعوبة، زادت المهارة المطلوبة لإدارة الاقتصاد الخاص بك.",
-		"turkish":"Vatandaşların ihtiyaçlarını değiştirir.\n\nZorluk arttıkça ekonomiyi daha iyi ayarlamak gerekir.",
+		"turkish": "Vatandaşların ihtiyaçlarını değiştirir.\n\nZorluk arttıkça ekonomiyi daha iyi ayarlamak gerekir.",
 		"romanian": "Controlează cât de multe produse au nevoie cetățenii.\nCu cât dificultatea este mai mare, cu atât mai bine trebuie de gestionat economia.",
 		"danish": "Styrer, hvor mange produkter borgerne har brug for.\nJo højere sværhedsgrad, jo bedre har du til at styre din økonomi.",
 		"greek": "Ελέγχει πόσα προϊόντα χρειάζονται οι κάτικοι.\nΜΕ μεγαλύτερη δυσκολία, πρέπει να διαχειριστέις καλύτερα την οικονομία σου.",
 		"swiss german": "Beiflusst we vil Produkt d Bewohner bruched. \nJe höcher d Schwirigkeit, desto besser muesch du dich um dini Wirtschaft kümmere.",
-		"farsi":"مقدار نیاز مردم را مشخص میکند./nهرچه سختی کمتر باشد مقدار نیاز بیشتر است",
+		"farsi": "مقدار نیاز مردم را مشخص میکند./nهرچه سختی کمتر باشد مقدار نیاز بیشتر است"
 	},
 	"transportDifficulty_title": {
 		"english": "Transport Difficulty",
@@ -3998,21 +3997,21 @@
 		"hungarian": "Szállítási nehézség",
 		"thai": "ความยากในการขนส่ง",
 		"arabic": "صعوبة النقل",
-		"turkish":"Taşıma Zorluğu",
+		"turkish": "Taşıma Zorluğu",
 		"romanian": "Dificultate de transport",
 		"danish": "Transport Sværhedsgrad",
 		"greek": "Δυσκολία μετακίνησης",
 		"swiss german": "Schwirigkeit vom Transport",
-		"farsi":"سختی حمل و نقل",
+		"farsi": "سختی حمل و نقل"
 	},
 	"transportDifficulty_desc": {
 		"english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
-		"german": "Ändert wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto weniger Objekte können auf einmal transportiert werden.",
+		"german": "Ändert, wie viele Objekte Fahrzeuge transportieren können.\nJe höher die Schwierigkeit, desto weniger Objekte können auf einmal transportiert werden.",
 		"french": "Contrôle le nombre d'objets que les véhicules peuvent transporter.\nPlus la difficulté est élevée, moins il est possible de transporter d'objets à la fois.",
 		"dutch": "Bepaald hoeveel artikelen uw voertuigen kunnen transporteren.\nHoe hoger de moeilijkheidsgraad hoe minder artikelen in een keer vervoerd kunnen worden.",
 		"italian": "Controlla quanti oggetti possono essere trasportati dai veicoli. \nPiù è alta la difficoltà, meno oggetti potranno essere trasportati alla volta.",
 		"chinese": "决定着车辆的货物装载量。\n难度越高，车辆一次运输的物品越少。",
-        "spanish": "Controla cuanto material pueden transportar tus vehículos.\nA mayor dificultad, menos material puede ser transportados en cada viaje.",
+		"spanish": "Controla cuanto material pueden transportar tus vehículos.\nA mayor dificultad, menos material puede ser transportados en cada viaje.",
 		"spanish-esp": "Controla cuánto material pueden transportar tus vehículos.\nA mayor dificultad, menos material puede ser transportado en cada viaje.",
 		"russian": "Отвечает за количество перевозимых предметов машинами.\nЧем выше сложность, тем меньше предметов будет перевозиться за один раз.",
 		"japanese": "車両が輸送できる物資の数を変更します。\n難易度が高いほど輸送できる物資は少なくなります。",
@@ -4021,15 +4020,15 @@
 		"ukrainian": "Відповідає за кількість предметів, що може перевезти машина.\nЩо вища складність, то менше предметів транспорт зможете перевезти за один раз.",
 		"slovak": "Určuje, koľko nákladu môžo vozidla previesť. \nČím vyššia úroveň, tým menej nákladu bude prepravované.",
 		"portuguese": "Controla quantos itens os veículos podem carregar.\nQuanto maior a dificuldade, menos itens podem ser carregados de uma vez.",
-		"hungarian":  "Meghatározza, hogy a járművek mennyi tárgyat szállíthatnak.\nMinél nagyobb a nehézség annál kevesebb tárgyat tudnak egyszerre szállítani.",
+		"hungarian": "Meghatározza, hogy a járművek mennyi tárgyat szállíthatnak.\nMinél nagyobb a nehézség annál kevesebb tárgyat tudnak egyszerre szállítani.",
 		"thai": "ควบคุมจำนวนสิ่งของที่ยานพาหนะสามารถบรรทุกได้\nยิ่งความยากสูงเท่าไหร่ก็ยิ่งสามารถบรรทุกสิ่งของได้น้อยลงในคราวเดียว",
 		"arabic": "تتحكم في كمية البضائع التي تحملها العربات.\nكلما ازدادت الصعوبة، قلت كمية البضائع المحمولة في المرة الواحدة.",
-		"turkish":"Araçların ne kadar eşya taşıyabileceğini değiştirir.\n\nZorluk arttıkça araçlar aynı anda daha az eşya taşır.",
+		"turkish": "Araçların ne kadar eşya taşıyabileceğini değiştirir.\n\nZorluk arttıkça araçlar aynı anda daha az eşya taşır.",
 		"romanian": "Controlează câte articole pot transporta vehiculele.\nCu cât este mai mare dificultatea, cu atât mai puține articole pot fi transportate simultan.",
 		"danish": "Styrer, hvor mange genstande køretøjer kan bære.\nJo højere sværhedsgrad, jo færre genstande kan transporteres på én gang.",
 		"greek": "Ελέγχει πόσα πράγματα μπορούν να μεταφέρουν τα οχήματα.\nΜε μεγαλύτερη δυσκολία, λιγότερα πράγματα μπορούν να μεταφερθούν ταυτόχρονα",
 		"swiss german": "Beiflusst we vil Produkt d Fahrzüg chönd transportierä.\nJe höcher d Schwirigkeit, desto weniger chönds uf eimal transportierä.",
-		"farsi":"/nتعدادی که ماشین ها میتوانند حمل بکنند را مشخص میکند. هر چقدر سختی بیشتر باشد تعداد کمتر است'",
+		"farsi": "/nتعدادی که ماشین ها میتوانند حمل بکنند را مشخص میکند. هر چقدر سختی بیشتر باشد تعداد کمتر است'"
 	},
 	"startGame": {
 		"english": "Start Game",
@@ -4050,12 +4049,12 @@
 		"hungarian": "Játék indítása",
 		"thai": "เริ่มเกม",
 		"arabic": "ابدأ اللعبة",
-		"turkish":"Oyunu Başlat",
+		"turkish": "Oyunu Başlat",
 		"romanian": "Începe jocul",
 		"danish": "Start Spil",
 		"greek": "Έναρξη Παιχνιδιού",
 		"swiss german": "Spiel startä",
-		"farsi":"شروع بازی",
+		"farsi": "شروع بازی"
 	},
 	"difficulty_easy": {
 		"english": "Easy",
@@ -4076,12 +4075,12 @@
 		"hungarian": "Könnyű",
 		"thai": "ง่าย",
 		"arabic": "سهل",
-		"turkish":"Kolay",
+		"turkish": "Kolay",
 		"romanian": "Ușor",
 		"danish": "Begynder",
 		"greek": "Εύκολη",
 		"swiss german": "Eifach",
-		"farsi":"اسان",
+		"farsi": "اسان"
 	},
 	"difficulty_medium": {
 		"english": "Medium",
@@ -4102,12 +4101,12 @@
 		"hungarian": "Közepes",
 		"thai": "กลาง",
 		"arabic": "متوسط",
-		"turkish":"Orta",
+		"turkish": "Orta",
 		"romanian": "Mediu",
 		"danish": "Øvet",
 		"greek": "Μέτρια",
 		"swiss german": "Mittäl",
-		"farsi":"متوسط",
+		"farsi": "متوسط"
 	},
 	"difficulty_hard": {
 		"english": "Hard",
@@ -4128,25 +4127,25 @@
 		"hungarian": "Nehéz",
 		"thai": "ยาก",
 		"arabic": "صعب",
-		"turkish":"Zor",
+		"turkish": "Zor",
 		"romanian": "Greu",
 		"danish": "Expert",
 		"greek": "Δύσκολη",
 		"swiss german": "Schwär",
-		"farsi":"سخت",
+		"farsi": "سخت"
 	},
-    "mods": {
-        "english": "Mods",
-        "german": "Mods",
+	"mods": {
+		"english": "Mods",
+		"german": "Mods",
 		"french": "Mods",
-        "japanese": "MOD",
+		"japanese": "MOD",
 		"thai": "ม็อด",
 		"hunagrian": "Modok",
-	    "turkish": "Modlar",
+		"turkish": "Modlar",
 		"chinese": "模组",
 		"italian": "Mod",
-		"russian": "Моды",
-    },
+		"russian": "Моды"
+	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
 		"german": "Mods könnten inkompatibel sein!\nMods im Speicherstand:",
@@ -4166,7 +4165,7 @@
 		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:",
 		"japanese": "Modは互換性がない可能性があります！\n保存済みのMod:",
 		"thai": "บางทีม็อดอาจไม่จะไม่สอดคล้อง!\nม็อดในตัวบันทึก",
-		"hungarian": "Lehetséges, hogy néhány mod nem kompatibilis!\nEbben a mentésben aktív modok:",
+		"hungarian": "Lehetséges, hogy néhány mod nem kompatibilis!\nEbben a mentésben aktív modok:"
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -4187,7 +4186,7 @@
 		"romanian": "Niciunul",
 		"japanese": "なし",
 		"thai": "ไม่มี",
-		"hungarian": "Egy sem",
+		"hungarian": "Egy sem"
 	},
 	"author": {
 		"english": "Author",
@@ -4208,7 +4207,7 @@
 		"romanian": "Autor",
 		"japanese": "著者",
 		"thai": "ผู้เขียน",
-		"hungarian": "Készítő",
+		"hungarian": "Készítő"
 	},
 	"active": {
 		"english": "Active",
@@ -4229,7 +4228,7 @@
 		"romanian": "Activ",
 		"japanese": "適用",
 		"thai": "ใช้งาน",
-		"hungarian": "Aktív",
+		"hungarian": "Aktív"
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -4250,7 +4249,7 @@
 		"romanian": "Nu aveți niciun mod sau conținut suplimentar instalat.",
 		"japanese": "Modや追加のコンテンツはインストールされていません",
 		"thai": "คุณไม่ได้ติดตั้งม็อดหรือเนื้อหาใดๆเพิ่มเติมเข้ามา",
-		"hungarian": "Nincsenek modok vagy exra tartalom telepítve.",
+		"hungarian": "Nincsenek modok vagy exra tartalom telepítve."
 	},
 	"openModsFolder": {
 		"english": "Open Mod Folder",
@@ -4271,8 +4270,7 @@
 		"romanian": "Deschide dosarul modului",
 		"japanese": "Modフォルダーを開く",
 		"thai": "เปิดโฟลเดอร์ม็อด",
-		"hungarian": "Modokat tartalmazó mappa megnyitása",
-
+		"hungarian": "Modokat tartalmazó mappa megnyitása"
 	},
 	"openInWorkshop": { //steam workshop
 		"english": "Open Workshop",
@@ -4291,7 +4289,7 @@
 		"romanian": "Deschide Atelierul",
 		"japanese": "ワークショップを開く",
 		"thai": "เปิด Workshop",
-		"hungarian": "Műhely megnyitása",
+		"hungarian": "Műhely megnyitása"
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -4312,23 +4310,23 @@
 		"romanian": "Aplică și repornește",
 		"japanese": "適用して再起動する",
 		"thai": "ปรับใช้และเริ่มต้นใหม่",
-		"hungarian": "Alkalmazás és újraindítás",
+		"hungarian": "Alkalmazás és újraindítás"
 	},
-    "exportConfigFiles": {
-        "english": "Export Config Files",
-       	"german": "Konfig-Dateien exportieren",
+	"exportConfigFiles": {
+		"english": "Export Config Files",
+		"german": "Konfig-Dateien exportieren",
 		"french": "Exporter des fichiers de config",
-        "japanese": "設定ファイルをエクスポート",
+		"japanese": "設定ファイルをエクスポート",
 		"thai": "ส่งออกไฟล์กำหนดค่า",
 		"hungarian": "Konfig fájlok exportálása",
 		"turkish": "Konfigürasyon dosyalarını dışa aktar",
 		"chinese": "导出配置文件",
 		"italian": "Esporta i file di configurazione",
-		"russian": "Экспортировать конфигурационные файлы",
-    },
-    "enabled": {
-        "english": "Enabled",
-        "german": "Aktiv",
+		"russian": "Экспортировать конфигурационные файлы"
+	},
+	"enabled": {
+		"english": "Enabled",
+		"german": "Aktiv",
 		"french": "Activé",
 		"thai": "เปิดใช้งานแล้ว",
 		"hungarian": "Aktív",
@@ -4337,258 +4335,368 @@
 		"japanese": "有効",
 		"italian": "Abilitato",
 		"scotsgaelic": "Air a chomasachadh",
-		"russian": "Включено",
-    },
-    "update": {
-        "english": "Update",
-        "german": "Aktualisieren",
+		"russian": "Включено"
+	},
+	"update": {
+		"english": "Update",
+		"german": "Aktualisieren",
 		"french": "Actualiser",
-        "thai": "อัปเดต",
-        "japanese": "更新",
+		"thai": "อัปเดต",
+		"japanese": "更新",
 		"turkish": "Güncelleme",
 		"chinese": "更新",
-    },
-    "upload": {
-        "english": "Upload",
-        "german": "Hochladen",
+		"italian": "Ricarica",
+	},
+	"upload": {
+		"english": "Upload",
+		"german": "Hochladen",
 		"french": "Envoyer",
-        "thai": "อัปโหลด",
-        "japanese": "アップロード",
+		"thai": "อัปโหลด",
+		"japanese": "アップロード",
 		"turkish": "Yükle",
 		"chinese": "上传",
-    },
-    "gameCrashTitle": {
-      	"english": "Oh No! Your Game Has Crashed",
-	  	"french": "Oh non ! Votre partie a planté",
-	  	"turkish": "Hayır! Oyununuz Çöktü",
-	  	"thai":"ไม่นะ! เกมของคุณขัดข้อง",
-		"chinese": "哦不！你的游戏崩溃了",
-    },
-    "gameCrashDesc": {
-      	"english": "Don't worry we have saved your game in \"Crash-Save\".sav\n\nWe apologize for the crash, we are working on a fix. \n\nIt would mean a lot to us if you could help us by sending us your broken save (also \"Crash-Save\".sav), player.log, player-prev.log to daniel@dionicsoftware.com.\n\nYou can find the saves and logs by going to options -> open saves folder or you can click on the first button:",
-	  	"french": "Ne vous inquiétez pas, nous avons sauvegardé votre partie dans \"Crash-Save\".sav\n\nNous nous excusons pour le plantage, nous travaillons sur un correctif.\n\nCela signifierait beaucoup pour nous si vous pouviez nous aider en nous envoyant votre sauvegarde endommagée (également \"Crash-Save\".sav), player.log, player-prev.log à daniel@dionicsoftware.com.\n\nVous pouvez trouver les sauvegardes et les logs en allant dans options -> ouvrir le dossier de sauvegarde ou en cliquant sur le premier bouton :",
-	  	"thai":"ไม่ต้องห่วงนะ เราได้บันทึกเกมของคุณไว้ใน \"Crash-Save\".sav\n\nเราต้องขออภัยสำหรับความผิดพลาดครั้งนี้ด้วย เรากำลังดำเนินการเพื่อแก้ไข \n\nมันจะมีความหมายมากสำหรับเรามากหากคุณช่วยเราด้วยการส่งไฟล์บันทึกข้อผิดพลาดนี้ (เช่น \"Crash-Save\".sav), player.log, player-prev.log มาที่ daniel@dionicsoftware.com\n\nคุณสามารถค้นหาไฟล์บันทึกข้อผิดพลาดและบันทึกข้อผิดพลาดได้โดยไปที่ตัวเลือก -> เปิดโฟลเดอร์บันทึก หรือคุณสามารถคลิกที่ปุ่มแรกได้:",
-		"chinese": "别担心，我们已经把你的游戏保存在了 \"Crash-Save\".sav 中，\n\n我们对游戏崩溃表示歉意，我们正在努力修复。\n\n如果你能将你的崩溃存档（也就是\"Crash-Save\".savv）、player.log、player-prev.log 发送到 daniel@dionicsoftware.com 邮箱，这将对我们意义重大。\n\n你可以通过设置 -> 打开存档文件夹或点击第一个按钮找到存档和日志文件：",
+		"italian": "Carica",
 	},
-	"openSaveFolder": {
-      	"english": "Open Save Folder",
-	  	"french": "Ouvrir le dossier de sauvegarde",
-	  	"turkish": "Kaydetme Klasörünü Aç",
-	  	"thai":"เปิดโฟลเดอร์บันทึก",
-		"chinese": "打开存档文件夹",
+	"gameCrashTitle": {
+		"english": "Oh no! Your Game Has Crashed",
+		"german": "Ups! Dein Spiel ist abgestürzt",
+		"french": "Oh non ! Votre partie a planté",
+		"turkish": "Hayır! Oyununuz Çöktü",
+		"thai": "ไม่นะ! เกมของคุณขัดข้อง",
+		"chinese": "哦不！你的游戏崩溃了",
+		"italian": "Oh no! Il tuo gioco è andato in crash",
+	},
+	"gameCrashDesc": {
+		"english": "Don't worry we have saved your game in \"Crash-Save\".sav\n\nWe apologize for the crash, we are working on a fix.\n\nIt would mean a lot to us if you could help us by sending us your broken save, \"Crash-Save\".sav, and the files Player.log and Player-prev.log to support@dionicsoftware.com.\n\nYou can find the saves and logs by going to options -> open saves folder or you can click on the first button:",
+		"german": "Keine Sorge, wir haben dein Spiel gespeichert als \"Crash-Save\".sav\n\nWir bitten um Entschuldigung für den Crash, wir arbeiten an einer Lösung.\n\nEs wäre super, wenn du uns dabei helfen könntest indem du uns deinen kaputten Speicherstand, \"Crash-Save\".sav und die Dateien Player.log und Player-prev.log an support@dionicsoftware.com schicken könntest.\n\nDu findest die Dateien in Einstellungen -> Spielstände oder mit dem Klick auf den ersten Knopf:",
+		"french": "Ne vous inquiétez pas, nous avons sauvegardé votre partie dans \"Crash-Save\".sav\n\nNous nous excusons pour le plantage, nous travaillons sur un correctif.\n\nCela signifierait beaucoup pour nous si vous pouviez nous aider en nous envoyant votre sauvegarde endommagée (également \"Crash-Save\".sav), player.log, player-prev.log à support@dionicsoftware.com.\n\nVous pouvez trouver les sauvegardes et les logs en allant dans options -> ouvrir le dossier de sauvegarde ou en cliquant sur le premier bouton :",
+		"thai": "ไม่ต้องห่วงนะ เราได้บันทึกเกมของคุณไว้ใน \"Crash-Save\".sav\n\nเราต้องขออภัยสำหรับความผิดพลาดครั้งนี้ด้วย เรากำลังดำเนินการเพื่อแก้ไข \n\nมันจะมีความหมายมากสำหรับเรามากหากคุณช่วยเราด้วยการส่งไฟล์บันทึกข้อผิดพลาดนี้ (เช่น \"Crash-Save\".sav), player.log, player-prev.log มาที่ support@dionicsoftware.com\n\nคุณสามารถค้นหาไฟล์บันทึกข้อผิดพลาดและบันทึกข้อผิดพลาดได้โดยไปที่ตัวเลือก -> เปิดโฟลเดอร์บันทึก หรือคุณสามารถคลิกที่ปุ่มแรกได้:",
+		"chinese": "别担心，我们已经把你的游戏保存在了 \"Crash-Save\".sav 中，\n\n我们对游戏崩溃表示歉意，我们正在努力修复。\n\n如果你能将你的崩溃存档（也就是\"Crash-Save\".savv）、player.log、player-prev.log 发送到 support@dionicsoftware.com 邮箱，这将对我们意义重大。\n\n你可以通过设置 -> 打开存档文件夹或点击第一个按钮找到存档和日志文件：",
+		"italian": "Non preoccuparti, abbiamo salvato il tuo gioco in \"Crash-Save\".sav.\n\nCi scusiamo per il crash, stiamo lavorando a una soluzione.\n\nSarebbe molto utile se potessi aiutarci inviandoci il tuo salvataggio danneggiato, \"Crash-Save\".sav, insieme ai file Player.log e Player-prev.log all'indirizzo support@dionicsoftware.com.\n\nPuoi trovare i salvataggi e i registri andando su Opzioni -> Apri cartella dei salvataggi o puoi fare clic sul primo pulsante:",
     },
-  	"achievementStatus_title": {
-    	"english": "Achievement Status",
+	"openSaveFolder": {
+		"english": "Open Save Folder",
+		"german": "Öffne Speicherstände",
+		"french": "Ouvrir le dossier de sauvegarde",
+		"turkish": "Kaydetme Klasörünü Aç",
+		"thai": "เปิดโฟลเดอร์บันทึก",
+		"chinese": "打开存档文件夹",
+		"italian": "Apri cartella dei salvataggi",
+	},
+	"achievementStatus_title": {
+		"english": "Achievement Status",
+		"german": "Staus von Herausfoderungen",
 		"french": "Statut des succès",
 		"italian": "Achievement Status",
 		"turkish": "Başarı Durumu",
 		"chinese": "成就状态",
-  	},
-  	"achievementStatus_lockedDescription": {
-    	"english": "Achievements are disabled due to the following reasons:",
+		"thai": "สถานะความสำเร็จ",
+	},
+	"achievementStatus_lockedDescription": {
+		"english": "Achievements are disabled due to the following reasons:",
+		"german": "Herausforderungen sind aus folgenden Gründen deaktiviert:",
 		"french": "Les succès sont désactivés pour les raisons suivantes :",
 		"italian": "Gli Achievement sono disabilitati per le seguenti ragioni:",
 		"turkish": "Başarılar aşağıdaki nedenlerden dolayı devre dışı bırakıldı:",
 		"chinese": "成就状态",
-  	},
-  	"achievementStatus_unlockableDescription": {
-    	"english": "Achievements are enabled.",
+		"thai": "ความสำเร็จถูกปิดใช้งานเนื่องจากเหตุผลดังต่อไปนี้:",
+	},
+	"achievementStatus_unlockableDescription": {
+		"english": "Achievements are enabled.",
+		"german": "Herausforderungen sind aktiviert.",
 		"french": "Les succès sont activés.",
 		"italian": "Gli achievements sono abilitati.",
 		"turkish": "Başarılar etkinleştirildi.",
 		"chinese": "成就状态",
-  	},
-  	"achievementStatus_mods": {
-    	"english": "Mods",
+		"thai": "ความสำเร็จเปิดใช้งานแล้ว",
+	},
+	"achievementStatus_mods": {
+		"english": "Mods",
+		"german": "Mods",
 		"french": "Mods",
 		"italian": "Mods",
 		"turkish": "Modlar",
 		"chinese": "模组",
-  	},
-  	"achievementStatus_creativeSettings": {
-    	"english": "One or more creative mode settings are active",
+		"thai": "ม็อด",
+	},
+	"achievementStatus_creativeSettings": {
+		"english": "One or more creative mode settings are active",
+		"german": "Es sind eine oder mehrere Kreativ-Modus Optionen aktiv",
 		"french": "Un ou plusieurs réglages du mode créatif sont actifs",
 		"italian": "Una o più impostazioni attive per la modalità creativa",
 		"turkish": "Bir veya daha fazla yaratıcı mod ayarı etkin",
 		"chinese": "一个或多个创造模式设置处于启用状态",
-  	},
-  	"achievementStatus_modifiedSettings": {
-    	"english": "One or more settings have been changed during the game",
+		"thai": "มีการตั้งค่าโหมดสร้างสรรค์เปิดใช้งานอยู่",
+	},
+	"achievementStatus_modifiedSettings": {
+		"english": "One or more settings have been changed during the game",
+		"german": "Eine oder mehrere Einstellungen wurden während dem Spiel geändert",
 		"french": "Un ou plusieurs paramètres ont été modifiés pendant le jeu",
 		"italian": "Una o più impostazioni sono state cambiate durante la partita",
 		"turkish": "Oyun sırasında bir veya daha fazla ayar değiştirildi",
 		"chinese": "游戏过程中一个或多个设置已更改",
-  	},
-  	"achievementStatus_cheats": {
-    	"english": "Cheats",
+		"thai": "มีการเปลี่ยนการตั้งค่าหนึ่งหรือมากกว่าในระหว่างเกม",
+	},
+	"achievementStatus_cheats": {
+		"english": "Cheats",
+		"german": "Cheats",
 		"french": "Triche",
 		"italian": "Cheats",
 		"turkish": "Hileler",
 		"chinese": "作弊",
-  	},
-  	"mapSelect": {
-    	"english": "Choose a map",
-		"french": "Choisir une carte",
-		"italian": "Scegli una mappa",
-		"chinese": "选择一个地图",
-		"turkish": "Bir harita seçin",
-  	},
-  	"mapSelection_title": {
-    	"english": "Choose a map",
-		"french": "Choisir une carte",
-		"italian": "Scegli una mappa",
-		"chinese": "选择一个地图",
-		"turkish": "Bir harita seçin",
+		"thai": "สูตรโกง",
 	},
-  	"select": {
-    	"english": "Select",
+	// TODO-french
+	// TODO-chinese
+	// TODO-turkish
+	"mapSelect": {
+		"english": "Choose a Landing Spot",
+		"german": "Wähle einen Landeplatz",
+		"french": "Choisir une carte",
+		"italian": "Scegli una zona di atterraggio",
+		"chinese": "选择一个地图",
+		"turkish": "Bir harita seçin",
+		"thai": "เลือกจุดลงจอด",
+	},
+	// TODO-french
+	// TODO-chinese
+	// TODO-turkish
+	"mapSelection_title": {
+		"english": "Choose a Landing Spot",
+		"german": "Wähle einen Landeplatz",
+		"french": "Choisir une carte",
+		"italian": "Scegli una zona di atterraggio",
+		"chinese": "选择一个地图",
+		"turkish": "Bir harita seçin",
+		"thai": "เลือกจุดลงจอด",
+	},
+	"select": {
+		"english": "Select",
+		"german": "Auswählen",
 		"french": "Sélectionner",
 		"italian": "Seleziona",
 		"chinese": "选择",
 		"turkish": "Seçme",
-  	},
-  	"level0_title": {
-    	"english": "Desert Valley",
+		"thai": "เลือก",
+	},
+	"level0_title": {
+		"english": "Desert Valley",
 		"german": "Wüstental",
 		"french": "Vallée désertique",
 		"italian": "Vallata desertica",
 		"turkish": "Çöl Vadisi",
 		"chinese": "沙漠谷",
-  	},
-  	"level0_desc": {
-    	"english": "A landing spot characterized by a mix between wide open areas and mountainous terrain on the edges.",
-		"german": "Eine Landeplatz mit einer Mischung aus weiten Flächen und bergigem Terrain an den Rändern",
+		"thai": "หุบเขาทะเลทราย",
+	},
+	"level0_desc": {
+		"english": "A landing spot characterized by a mix between wide open areas and mountainous terrain on the edges.",
+		"german": "Ein Landeplatz mit einer Mischung aus weiten Flächen und bergigem Terrain an den Rändern.",
 		"french": "Un lieu d'atterrissage caractérisé par un mélange de vastes zones ouvertes et de terrains montagneux sur les bords.",
 		"chinese": "着陆区的特点是广阔的开放区域和边缘的山区地形的混合。",
-  	},
-  	"level1_title": {
-    	"english": "Randomly Generated Map",
+		"thai": "จุดลงจอดที่มีลักษณะเป็นพื้นที่เปิดกว้างผสานกับภูมิประเทศแบบภูเขาที่ขอบ",
+        "italian": "Un punto di atterraggio caratterizzato da un mix tra ampie aree aperte e terreni montuosi ai margini.",
+	},
+	"level1_title": {
+		"english": "Randomly Generated Map",
 		"german": "Zufallsgenerierte Karte",
 		"french": "Carte générée aléatoirement",
 		"italian": "Mappa generata",
 		"turkish": "Oluşturulan harita",
 		"chinese": "随机生成的地图",
-  	},
-  	"level1_desc": {
-    	"english": "This map is randomly generated at the beginning of the game and features large areas of perfect flatness.",
+		"thai": "สุ่มสร้างแผนที่",
+	},
+	"level1_desc": {
+		"english": "This map is randomly generated at the beginning of the game and features large areas of perfect flatness.",
 		"german": "Diese Karte wird beim Start des Spiels zufällig generiert und hat viele Bereiche die perfekt flach sind.",
 		"french": "Cette carte est générée aléatoirement au début du jeu et comporte de vastes zones parfaitement planes.",
 		"chinese": "这张地图是在游戏开始时随机生成的，具有大面积的超平坦地形。",
 		"turkish": "Bu harita oyunun başında rastgele oluşturulur ve mükemmel düzlükte geniş alanlara sahiptir.",
-  	},
-    "graphicsSettings": {
-      "english": "Graphics Settings",
-	  "french": "Paramètres graphiques",
-	  "turkish": "Grafik Ayarları",
-	  "chinese": "图像设置",
-    },
-    "preset": {
-      "english": "Preset",
-	  "french": "Prédéfini",
-	  "turkish": "Ön ayar",
-	  "chinese": "预设",
-    },
-    "antiAliasing": {
-      "english": "Anti-Aliasing",
-	  "french": "Anticrénelage",
-	  "turkish": "Kenar Yumuşatma",
-	  "chinese": "抗锯齿",
-    },
-    "shadowSettings": {
-      "english": "Shadow Settings",
-	  "french": "Paramètres des ombres",
-	  "turkish": "Gölge Ayarları",
-	  "chinese": "阴影设置",
-    },
-    "shadows": {
-      "english": "Shadows",
-	  "french": "Ombres",
-	  "turkish": "Gölgeler",
-	  "chinese": "阴影",
-    },
-    "shadowDistance": {
-      "english": "Shadow Distance",
-	  "french": "Distance des ombres",
-	  "turkish": "Gölge Mesafesi",
-	  "chinese": "阴影距离",
-    },
-    "shadowResolution": {
-      "english": "Shadow Resolution",
-	  "french": "Résolution des ombres",
-	  "turkish": "Gölge Çözünürlüğü",
-	  "chinese": "阴影分辨率",
-    },
-    "particles": {
-      "english": "Particles",
-	  "french": "Particules",
-	  "turkish": "Parçacıklar",
-	  "chinese": "粒子",
-    },
-    "animations": {
-      "english": "Animations",
-    },
-    "screenSettings": {
-      "english": "Screen Settings",
-	  "french": "Réglages de l'écran",
-	  "turkish": "Ekran Ayarları",
-	  "chinese": "屏幕设置",
-    },
-    "grass": {
-      "english": "Grass",
-	  "french": "Herbe",
-	  "turkish": "Çimen",
-	  "chinese": "草地",
-    },
-    "lod": {
-      "english": "Level of Detail",
-	  "french": "Niveau de détail",
-	  "turkish": "Ayrıntı seviyesi",
-	  "chinese": "精细程度",
-    },
-    "terrainLOD": {
-      "english": "Terrain's Level of Detail",
-	  "french": "Niveau de détail du terrain",
-	  "turkish": "Arazinin Ayrıntı seviyesi",
-	  "chinese": "地形的精细程度",
-    },
-    "otherSettings": {
-      "english": "Other Settings",
-	  "french": "Autres paramètres",
-	  "turkish": "Diğer ayarlar",
-	  "chinese": "其他设置",
-    },
-    "custom": {
-      "english": "Custom",
-	  "french": "Personnalisé",
-	  "turkish": "Gelenek",
-	  "chinese": "自定义",
-    },
-    "textureResolution": {
-      "english": "Texture Resolution",
-	  "french": "Résolution des textures",
-	  "turkish": "Texture Resolution",
-	  "chinese": "纹理分辨率",
-    },
-    "overallQuality": {
-      "english": "Overall Quality",
-	  "french": "Qualité globale",
-	  "turkish": "Genel Kalite",
-	  "chinese": "总体质量",
-    },
-    "graphicsQualityVeryLow": {
-      "english": "Very Low",
-	  "french": "Très faible",
-	  "turkish": "Çok düşük",
-	  "chinese": "极低",
-    },
-    "graphicsPreset": {
-      "english": "Graphics Preset",
-	  "chinese": "图像预设",
-	    "turkish": "Grafik Ön Ayarı",
-    },
-    "advancedGraphicsSettings": {
-      "english": "Advanced Graphics Settings",
-	  "chinese": "高级图像设置",
-	    "turkish": "Gelişmiş Grafik Ayarları",
-    },
+		"thai": "แผนที่นี้สร้างขึ้นแบบสุ่มเมื่อเริ่มเกมและมีพื้นที่ราบเรียบขนาดใหญ่",
+        "italian": "Questa mappa viene generata casualmente all'inizio del gioco e presenta ampie zone completamente piane.",
+	},
+	"graphicsSettings": {
+		"english": "Graphics Settings",
+		"german": "Grafikeinstellungen",
+		"french": "Paramètres graphiques",
+		"turkish": "Grafik Ayarları",
+		"chinese": "图像设置",
+		"thai": "การตั้งค่ากราฟิก",
+        "italian": "Impostazioni grafiche",
+	},
+	"preset": {
+		"english": "Preset",
+		"german": "Voreinstellungen",
+		"french": "Prédéfini",
+		"turkish": "Ön ayar",
+		"chinese": "预设",
+		"thai": "ค่าที่ตั้งไว้ล่วงหน้า",
+        "italian": "Predefinito",
+	},
+	"antiAliasing": {
+		"english": "Antialiasing",
+		"german": "Kantenglättung",
+		"french": "Anticrénelage",
+		"turkish": "Kenar Yumuşatma",
+		"chinese": "抗锯齿",
+		"thai": "การลบรอยหยัก",
+        "italian": "Antialiasing",
+	},
+	"shadowSettings": {
+		"english": "Shadow Settings",
+		"german": "Schatteneinstellungen",
+		"french": "Paramètres des ombres",
+		"turkish": "Gölge Ayarları",
+		"chinese": "阴影设置",
+		"thai": "การตั้งค่าเงา",
+        "italian": "Impostazioni delle ombre",
+	},
+	"shadows": {
+		"english": "Shadows",
+		"german": "Schatten",
+		"french": "Ombres",
+		"turkish": "Gölgeler",
+		"chinese": "阴影",
+		"thai": "เงา",
+        "italian": "Ombre",
+	},
+	"shadowDistance": {
+		"english": "Shadow Distance",
+		"german": "Schattendistanz",
+		"french": "Distance des ombres",
+		"turkish": "Gölge Mesafesi",
+		"chinese": "阴影距离",
+		"thai": "ระยะทางของเงา",
+        "italian": "Distanza delle ombre",
+	},
+	"shadowResolution": {
+		"english": "Shadow Resolution",
+		"german": "Schattenauflösung",
+		"french": "Résolution des ombres",
+		"turkish": "Gölge Çözünürlüğü",
+		"chinese": "阴影分辨率",
+		"thai": "ความละเอียดของเงา",
+        "italian": "Risoluzione delle ombre",
+	},
+	"particles": {
+		"english": "Particles",
+		"german": "Partikel",
+		"french": "Particules",
+		"turkish": "Parçacıklar",
+		"chinese": "粒子",
+		"thai": "ความละเอียดของเงา",
+        "italian": "Particelle",
+	},
+	"animations": {
+		"english": "Animations",
+		"german": "Animationen",
+		"thai": "ภาพเคลื่อนไหว",
+		"chinese": "动画",
+        "italian": "Animazioni",
+	},
+	"screenSettings": {
+		"english": "Screen Settings",
+		"german": "Bildschirm",
+		"french": "Réglages de l'écran",
+		"turkish": "Ekran Ayarları",
+		"chinese": "屏幕设置",
+		"thai": "การตั้งค่าหน้าจอ",
+        "italian": "Impostazioni dello schermo",
+	},
+	"grass": {
+		"english": "Grass",
+		"german": "Gras",
+		"french": "Herbe",
+		"turkish": "Çimen",
+		"chinese": "草地",
+		"thai": "หญ้า",
+        "italian": "Erba",
+	},
+	"lod": {
+		"english": "Level of Detail",
+		"german": "Detail",
+		"french": "Niveau de détail",
+		"turkish": "Ayrıntı seviyesi",
+		"chinese": "精细程度",
+		"thai": "ระดับของรายละเอียด",
+        "italian": "Livello di dettaglio",
+	},
+	"terrainLOD": {
+		"english": "Terrain's Level of Detail",
+		"german": "Terrainauflösung",
+		"french": "Niveau de détail du terrain",
+		"turkish": "Arazinin Ayrıntı seviyesi",
+		"chinese": "地形的精细程度",
+		"thai": "ระดับความละเอียดของภูมิประเทศ",
+        "italian": "Dettagli del terreno",
+	},
+	"otherSettings": {
+		"english": "Other Settings",
+		"german": "Sonstige Einstellungen",
+		"french": "Autres paramètres",
+		"turkish": "Diğer ayarlar",
+		"chinese": "其他设置",
+		"thai": "การตั้งค่าอื่นๆ",
+        "italian": "Altre impostazioni",
+	},
+	"custom": { // personalized
+		"english": "Custom",
+		"german": "Personalisiert",
+		"french": "Personnalisé",
+		"turkish": "Gelenek",
+		"chinese": "自定义",
+		"thai": "แบบกำหนดเอง",
+        "italian": "Personalizzato",
+	},
+	"textureResolution": {
+		"english": "Texture Resolution",
+		"german": "Texturauflösung",
+		"french": "Résolution des textures",
+		"turkish": "Texture Resolution",
+		"chinese": "纹理分辨率",
+		"thai": "ความละเอียดของพื้นผิว",
+        "italian": "Risoluzione delle texture",
+	},
+	"overallQuality": {
+		"english": "Overall Quality",
+		"german": "Gesamtqualität",
+		"french": "Qualité globale",
+		"turkish": "Genel Kalite",
+		"chinese": "总体质量",
+		"thai": "คุณภาพโดยรวม",
+        "italian": "Qualità generale",
+	},
+	"graphicsQualityVeryLow": {
+		"english": "Very Low",
+		"german": "Sehr niedrig",
+		"french": "Très faible",
+		"turkish": "Çok düşük",
+		"chinese": "极低",
+		"thai": "ต่ำมาก",
+        "italian": "Molto bassa",
+	},
+	"graphicsQualityVeryHigh": {
+		"english": "Very High",
+		"german": "Sehr hoch",
+		"chinese": "极高",
+		"turkish": "Çok yüksek",
+		"thai": "สูงมาก",
+        "italian": "Molto alta",
+
+	},
+	"graphicsPreset": {
+		"english": "Graphics Preset",
+		"german": "Grafikvoreinstellung",
+		"chinese": "图像预设",
+		"turkish": "Grafik Ön Ayarı",
+		"thai": "ค่าที่ตั้งไว้ล่วงหน้าของกราฟิก",
+        "italian": "Qualità grafica",
+	},
+	"advancedGraphicsSettings": { // "advanced" or "more", don't make it too long
+		"english": "Advanced Graphics Settings",
+		"german": "Weitere Grafikoptionen",
+		"chinese": "高级图像设置",
+		"turkish": "Gelişmiş Grafik Ayarları",
+		"thai": "การตั้งค่ากราฟิกขั้นสูง",
+        "italian": "Impostazioni avanzate",
+	}
 }
