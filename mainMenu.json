@@ -1898,6 +1898,9 @@
 		"farsi":"چرخش",
 		"scotsgaelic": "Rothaich",
 	},
+  "pan": {
+    "english": "Pan",
+  },
 	"zoomIn": {
 		"english": "Zoom In",
 		"german": "Reinzoomen",
