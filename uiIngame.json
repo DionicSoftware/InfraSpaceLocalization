@@ -4168,4 +4168,11 @@
 		"english": "Goods are stored here and shipped at the earliest opportunity.\n\nEach individual load can contain a maximum of 200, 400 or 600 resources depending on the game difficulty.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione.\n\nOgni singolo carico può contenere un massimo di 200, 400 o 600 risorse a seconda della difficoltà di gioco.",
 	},
+	"powerPanelDesc": {
+		"english": "When the power produced is not enough for the buildings that use it, you will have slowed production.",
+		"italian": "Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
+		"german": "Wenn der produzierte Strom in einem Netz nicht für die verbrauchenden Gebäude ausreicht, verlangsamt sich deren Produktion.",
+		"french": "Lorsque l'énergie produite n'est pas suffisante pour les bâtiments qui l'utilisent, il y a ralentissement de la production.",
+	    "chinese": "当生产的电力不足以满足建筑的使用需求时，就会导致生产放缓。",
+	},
 }
