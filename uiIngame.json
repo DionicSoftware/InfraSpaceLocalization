@@ -3894,7 +3894,7 @@
 		"hungarian": "Javítsd meg a lézerágyút, hogy a célzó állomás segítségével eltávolíts akadályokat.",
 		"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
 		"chinese": "修理星舰上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
-		"italian": "Riparate il cannone laser della nave spaziale, in modo da poter utilizzare la stazione di puntamento per eliminare gli ostacoli.",
+		"italian": "Ripara il cannone laser della nave spaziale in modo da poter utilizzare la stazione di puntamento per eliminare gli ostacoli.",
 		"russian": "Отремонтируйте лазерную пушку на космическом корабле, чтобы вы могли использовать станцию наведения для устранения препятствий.",
 	},
 	"terraformingProgress": {
@@ -4174,5 +4174,9 @@
 		"german": "Wenn der produzierte Strom in einem Netz nicht für die verbrauchenden Gebäude ausreicht, verlangsamt sich deren Produktion.",
 		"french": "Lorsque l'énergie produite n'est pas suffisante pour les bâtiments qui l'utilisent, il y a ralentissement de la production.",
 	    "chinese": "当生产的电力不足以满足建筑的使用需求时，就会导致生产放缓。",
+	},
+	"moreInformation": {
+		"english": "More information",
+		"italian": "Maggiori informazioni",
 	},
 }
