@@ -4162,5 +4162,10 @@
 	},
   "productionBonusTooltipDesc": {
     "english": "The %booster% has increased the production by %amount%",
-  },
+	"italian": "%booster% ha incrementato la produzione di %amount%",
+    },
+	"trainStationDesc": {
+		"english": "Goods are stored here and shipped at the earliest opportunity.\n\nEach individual load can contain a maximum of 200, 400 or 600 resources depending on the game difficulty.",
+		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione.\n\nOgni singolo carico può contenere un massimo di 200, 400 o 600 risorse a seconda della difficoltà di gioco.",
+	},
 }
