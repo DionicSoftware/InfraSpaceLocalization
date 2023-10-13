@@ -93,7 +93,7 @@
 	},
 	"researchGoalText2": {
 		"english": "Click on the science pack factory to see which resources are needed.",
-		"german": "Klicke auf die Fabrik für Wissenschaftspakete um herauszufinden welche Ressourcen benötigt werden.",
+		"german": "Klicke auf die Fabrik für Wissenschaftspakete, um herauszufinden welche Ressourcen benötigt werden.",
 		"french": "Cliquez sur l'usine de paquets scientifiques pour voir quelles ressources sont nécessaires.",
 		"dutch": "Klik op de wetenschapspakket fabriek om te zien welke grondstoffen benodigd zijn.",
 		"italian": "Clicca sulla fabbrica del pacchetto scientifico per vedere di quali risorse ha bisogno.",
@@ -393,7 +393,7 @@
 	},
 	"tutorial_roads": {
 		"english": "Use roads to connect the mines with the concrete factory",
-		"german": "Verwende Straßen um die Minen mit der Betonfabrik zu verbinden",
+		"german": "Verwende Straßen, um die Minen mit der Betonfabrik zu verbinden",
 		"french": "Utilisez des routes pour relier les mines à l'usine de béton.",
 		"dutch": "Gebruik wegen om mijnen met de betonfabriek te verbinden.",
 		"russian": "Используйте дороги для соединения шахты с бетонным заводом.",
@@ -415,7 +415,7 @@
 	},
 	"tutorial_power": {
 		"english": "Use power poles to connect all buildings to your wind turbine",
-		"german": "Verwende Strommasten um alle Gebäude mit dem Windrad zu verbinden",
+		"german": "Verwende Strommasten, um alle Gebäude mit dem Windrad zu verbinden",
 		"french": "Utilisez des poteaux électriques pour relier tous les bâtiments à votre éolienne.",
 		"dutch": "Gebruik stroommasten om alle gebouwen met de windturbine te verbinden.",
 		"russian": "Используйте энергетические столбы для подключения всех зданий к ветряной турбине.",
@@ -503,7 +503,7 @@
 	},
 	"tutorialMessage_dashboardInfoPanel_desc": {
 		"english": "This panel gives you a quick overview over your city.\n\nThe top row shows you how much concrete and steel you have available. You need both materials to construct buildings. The third icon shows you if you have enough power in your city.\n\nThe bottom row shows you how many people live in your city, how many workers are needed, and how much housing is available. If you don't have enough workers to fill most jobs your factories won't run efficiently. Also, make sure you have enough free housing for new workers to move in.",
-		"german": "Dieser Bereich gibt dir eine Kurzübersicht zur Stadt.\n\nDie obere Zeile zeigt dir wie viel Beton und Stahl dir Verfügung steht. Du braucht beide Materialien um Gebäude zu platzieren. Das dritte Icon zeigt dir ob du genug Strom produzierst.\n\nDieuntere Zeile zeigt dir wie viele Leute in deiner Stadt leben, wie viele Arbeiter benötigt werden und wie viele Wohnungen verfügbar sind. Wenn du nicht genug Arbeiter für alle Arbeitsplätze haben, werden deine Fabriken nicht effizient laufen. Sorge außerdem dafür, dass genügend Wohnungen für neue Einwohner zur Verfügung stehen.",
+		"german": "Dieser Bereich gibt dir eine Kurzübersicht zur Stadt.\n\nDie obere Zeile zeigt dir wie viel Beton und Stahl dir Verfügung steht. Du braucht beide Materialien, um Gebäude zu platzieren. Das dritte Icon zeigt dir ob du genug Strom produzierst.\n\nDieuntere Zeile zeigt dir wie viele Leute in deiner Stadt leben, wie viele Arbeiter benötigt werden und wie viele Wohnungen verfügbar sind. Wenn du nicht genug Arbeiter für alle Arbeitsplätze haben, werden deine Fabriken nicht effizient laufen. Sorge außerdem dafür, dass genügend Wohnungen für neue Einwohner zur Verfügung stehen.",
 		"french": "Ce panneau vous donne un aperçu rapide de votre ville.\n\nLa rangée du haut vous indique la quantité de béton et d'acier dont vous disposez. Vous avez besoin de ces deux matériaux pour construire des bâtiments. La troisième icône vous signale si votre ville manque d'électricité.\n\nLa rangée du bas vous montre le nombre d'habitants de votre ville, le nombre d'ouvriers nécessaires et le nombre de logements disponibles. Si vous n'avez pas assez d'ouvriers pour occuper la majeure partie des postes, vos usines ne fonctionneront pas efficacement. Assurez-vous également d'avoir assez de logements gratuits pour que les nouveaux travailleurs puissent s'installer.",
 		"dutch": "Dit paneel geeft je een sneloverzicht van je stad.\n\nDe bovenste rijen tonen hoeveel beton en staal je beschikbaar hebt. Je hebt beiden materialen nodig om gebouwen te bouwen. Het derde icoon toont je of je voldoende stroom in jouw stad hebt.\n\nDe onderste rij toont je hoeveel mensen in jouw stad wonen, hoeveel werknemers nodig zijn en hoeveel huisvesting benodigd is. Als je niet voldoende werknemers hebt om alle werplaatsen te vullen, zullen jouw fabrieken minder efficiënt werken. Zorg ook voor voldoende vrije huisvesting voor nieuwe werkenemers.",
 		"chinese": "此面板可让你快速了解所在的城市的信息。\n\n顶行显示你可用的混凝土和钢材数量。 你需要这两种材料来建造建筑。 第三个图标显示你的城市的电力是否充足。\n\n底行显示你的城市有多少人口，需要多少工人以及有多少住房可用。 如果你没有足够的工人来担任大多数工作岗位，你的工厂将无法高效运行。 此外，请确保你有足够的空闲住房供新工人入住。",
@@ -635,7 +635,7 @@
 	},
 	"tutorialMessage_goalPanel_desc": {
 		"english": "This panel will guide you through the necessary steps to create your first stable city and research some tech.",
-		"german": "Dieses Fenster führt dich durch die notwendigen Schritte um deine erste Stadt zu bauen und Technologien zu erforschen.",
+		"german": "Dieses Fenster führt dich durch die notwendigen Schritte, um deine erste Stadt zu bauen und Technologien zu erforschen.",
 		"dutch": "Dit paneel zal je door de noodzakelijke stappen begeleiden om je eerste stabiele stad te bouwen en enige tech te onderzoeken.",
 		"french": "Ce panneau vous guidera à travers les étapes nécessaires pour créer votre première ville stable et faire des recherches technologiques.",
 		"chinese": "该面板将指导你完成建造第一个稳定的城市并研究一些技术的必要步骤。",
@@ -679,7 +679,7 @@
 	},
 	"tutorialMessage_constructionMenu_desc": {
 		"english": "You can click here to construct roads and buildings, move them, and destroy them.",
-		"german": "Du kannst hier klicken um Straßen und Gebäude zu bauen, zu verschieben, und wegzuräumen.",
+		"german": "Du kannst hier klicken, um Straßen und Gebäude zu bauen, zu verschieben, und wegzuräumen.",
 		"french": "Vous pouvez cliquer ici pour construire des routes et des bâtiments, les déplacer et les détruire.",
 		"dutch": "Je kunt hier klikken om wegen en gebouwen te bouwen, verplaatsen en verwijderen.",
 		"chinese": "你可以单击此处建造道路和建筑物，移动它们或拆毁它们。",
@@ -921,7 +921,7 @@
 	},
 	"tutorialMessage_cityLevelPanelProgressBar_desc": {
 		"english": "Check the progress bar to see how many citizens need to get better housing in order to reach the next level.",
-		"german": "In diesem Fortschrittsbalken siehst du wie viele Bürger verbesserte Häuser brauchen um die nächste Stufe zu erreichen.",
+		"german": "In diesem Fortschrittsbalken siehst du wie viele Bürger verbesserte Häuser brauchen, um die nächste Stufe zu erreichen.",
 		"french": "Consultez la barre de progression pour savoir combien de citoyens doivent encore obtenir un meilleur logement pour atteindre le niveau suivant.",
 		"dutch": "Controleer de progressiebalk om te zien hoeveel burgers betere huisvesting nodig hebben om het volgende noveau te bereiken.",
 		"chinese": "检查进度条，看看有多少居民需要获得更好的住房才能达到更高的等级。",
@@ -988,7 +988,7 @@
 	},
 	"tutorialMessage_productionPanel_desc": {
 		"english": "Check the production and consumption numbers for your city to see if you're producing enough to keep up with demand.\n\nIf you want to fill up stockpiles, you need to produce more than you consume!",
-		"german": "Überprüfe die Produktions- und Verbrauchszahlen deiner Stadt, um zu sehen ob du genug herstellst.\n\nWenn du Lager aufbauen willst, musst du mehr produzieren als verbrauchen!",
+		"german": "Überprüfe die Produktions- und Verbrauchszahlen deiner Stadt, um zu sehen, ob du genug herstellst.\n\nWenn du Lager aufbauen willst, musst du mehr produzieren als verbrauchen!",
 		"french": "Vérifiez les chiffres de production et de consommation de votre ville pour voir si vous produisez suffisamment pour répondre à la demande.\n\nSi vous voulez remplir vos réserves, vous devez produire plus que vous ne consommez !",
 		"dutch": "Controleer de productie en consumptie aantallen van jouw stad om te zien of je voldoende produceert om aan de vraag te voldoen.\n\nAls je de voorraden wil aanvullen zul je meer moeten produceren dan je consumeert.",
 		"chinese": "检查你的城市的生产和消耗量，看看你的生产量是否足以满足需求。\n\n如果你想填满库存，你的生产量必须大于消耗量！",
@@ -1032,7 +1032,7 @@
 	},
 	"tutorialMessage_productionPanelPrioBars_desc": {
 		"english": "If you don't have enough workers, use the sliders to move your workforce into the most important jobs.",
-		"german": "Wenn du nicht genug Arbeiter hast, kannst du die Schieberegler verwenden um deine Arbeitskräfte in die wichtigsten Produktionslinien zu schicken.",
+		"german": "Wenn du nicht genug Arbeiter hast, kannst du die Schieberegler verwenden, um deine Arbeitskräfte in die wichtigsten Produktionslinien zu schicken.",
 		"french": "Si vous n'avez pas assez d'ouvriers, utilisez les curseurs pour déplacer vos effectifs vers les emplois les plus importants.",
 		"dutch": "Indien je niet voldoende werknemers hebt kun je de sliders gebruiken om je arbeitskrachten naar de belangrijkste banen te verplaatsen.",
 		"chinese": "如果你没有足够的工人，请使用滑块将你的劳动力转移到最重要的工作中。",
@@ -1090,7 +1090,7 @@
 	},
 	"tutorialMessage_grid_desc": {
 		"english": "Use these buttons to select your grid. You can use grids to align your roads and buildings or turn them off and build freely.",
-		"german": "Wähle mit diesen Buttons dein Gitter aus. Du kannst Gitter verwenden um deine Straßen und Gebäude ordentlich zu platzieren oder du kannst sie ausschalten und frei bauen.",
+		"german": "Wähle mit diesen Buttons dein Gitter aus. Du kannst Gitter verwenden, um deine Straßen und Gebäude ordentlich zu platzieren oder du kannst sie ausschalten und frei bauen.",
 		"french": "Utilisez ces boutons pour sélectionner une grille. Vous pouvez utiliser des grilles pour aligner vos routes et vos bâtiments ou les désactiver et construire librement.",
 		"russian": "Используйте эти кнопки что бы выбрать вид сетки. Вы можете использовать сетку что бы ставить ваши дороги и здания относительно нее или вовсе выключить и строить свободно.",
 		"spanish": "Usa estos botones para seleccionar tu retícula. Puedes usar retículas para alinear las calles y edificios o apágalas y construye libremente.",
@@ -1116,7 +1116,7 @@
   },
   	"tutorialMessage_research_desc": {
     		"english": "Press this button to open the Tech-Tree.",
-      		"german": "Klicke auf diesen Knopf um den Forschungsbaum zu öffnen.",
+      		"german": "Klicke auf diesen Knopf, um den Forschungsbaum zu öffnen.",
 		"french": "Appuyez sur ce bouton pour ouvrir l'arbre technologique.",
 	  	"thai": "กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
 	  	"turkish": "Teknoloji Ağacını açmak için bu düğmeye basın",
@@ -1132,7 +1132,7 @@
   },
   	"tutorialMessage_trains_desc": {
     		"english": "Press this button to open the Trains Panel.",
-    		"german": "Klicke auf diesen Knopf um die Zugübersicht zu öffnen.",
+    		"german": "Klicke auf diesen Knopf, um die Zugübersicht zu öffnen.",
 		"french": "Appuyez sur ce bouton pour ouvrir le Menu Trains.",
 		"turkish": "Tren Panelini açmak için bu düğmeye basın",
 		"chinese": "按此按钮打开列车面板。",

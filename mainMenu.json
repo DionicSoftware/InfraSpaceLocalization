@@ -4699,5 +4699,17 @@
 		"turkish": "Gelişmiş Grafik Ayarları",
 		"thai": "การตั้งค่ากราฟิกขั้นสูง",
         "italian": "Impostazioni avanzate",
-	}
+	},
+	"activeGPU": {
+		"english": "Active GPU",
+		"german": "Aktive Grafikkarte",
+	},
+	"detectedGraphicsCards": {
+		"english": "Detected graphics cards:",
+		"german": "Entdeckte Grafikkarten:",
+	},
+	"youMightBeUsingIntegratedGPU": {
+		"english": "You might be using an integrated graphics card! Switch to your dedicated graphics card for better performance.",
+		"german": "Es kann sein, dass du eine integrierte Grafikkarte verwendest! Wechsle zu deiner dedizierten Grafikkarte, um bessere Spieleperformance zu erreichen.",
+	},
 }
