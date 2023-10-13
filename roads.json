@@ -306,7 +306,7 @@
 	// TODO-thai: pumps
 	"pipe_oxygen_desc": {
 		"english": "These pipes can connect buildings that produce oxygen with all those that need it, including <b>tanks and habitats</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b> because of the pumps!",
-		"german": "Diese Rohre verbinden Gebäude, die Sauererstoff produzieren, mit Gebäuden, die es verbrauchen, Tanks und Wohngebäude.\n\nAngeschlossene Gebäude, die Sauerstoff produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"german": "Diese Rohre verbinden Gebäude, die Sauererstoff produzieren, mit Fabriken, Tanks und Wohngebäuden.\n\nAngeschlossene Gebäude, die Sauerstoff produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
 		"italian": "Questi tubi possono collegare gli edifici che producono ossigeno con tutti quelli che ne hanno bisogno, compresi i serbatoi e gli habitat.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
 		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตออกซิเจนกับทุกสิ่งที่ต้องการ รวมถึงถังเก็บน้ำและที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 	},
@@ -328,7 +328,7 @@
 	// TODO-thai: pumps
 	"pipe_water_desc": {
 		"english": "These pipes can connect buildings that produce water with all those that need it, including <b>tanks and habitats</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b> because of the pumps!",
-		"german": "Diese Rohre verbinden Gebäude, die Wasser produzieren, mit Gebäuden, die es verbrauchen, Tanks und Wohngebäude.\n\nAngeschlossene Gebäude, die Wasser produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"german": "Diese Rohre verbinden Gebäude, die Wasser produzieren, mit Fabriken, Tanks und Wohngebäuden.\n\nAngeschlossene Gebäude, die Wasser produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
 		"italian": "Questi tubi possono collegare gli edifici che producono acqua con tutti quelli che ne hanno bisogno, compresi i serbatoi e gli habitat.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
 		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตน้ำเข้ากับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำและแหล่งที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งน้ำจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 	},
@@ -350,7 +350,7 @@
 	// TODO-thai: no habitats, pumps
 	"pipe_methane_desc": {
 		"english": "These pipes can connect buildings that produce methane with all those that need it, <b>including tanks</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b>!",
-		"german": "Diese Rohre verbinden Gebäude, die Methan produzieren, mit Gebäuden, die es verbrauchen und Tanks.\n\nAngeschlossene Gebäude, die Methan produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"german": "Diese Rohre verbinden Gebäude, die Methan produzieren, mit Fabrikenund Tanks.\n\nAngeschlossene Gebäude, die Methan produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
 		"italian": "Questi tubi possono collegare gli edifici che producono metano con tutti quelli che ne hanno bisogno, compresi i serbatoi.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
 		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตก๊าซมีเทนกับสิ่งอื่นๆ ที่จำเป็น รวมถึงถังเก็บน้ำและที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 	},
@@ -367,7 +367,7 @@
 	// TODO-thai: no habitats, pumps
 	"pipe_crudeOil_desc": {
 		"english": "These pipes can connect buildings that produce crude oil with all those that need it, <b>including tanks</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b>!",
-		"german": "Diese Rohre verbinden Gebäude, die Rohöl produzieren, mit Gebäuden, die es verbrauchen und Tanks.\n\nAngeschlossene Gebäude, die Rohöl produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"german": "Diese Rohre verbinden Gebäude, die Rohöl produzieren, mit Fabriken und Tanks.\n\nAngeschlossene Gebäude, die Rohöl produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
 		"italian": "Questi tubi possono collegare gli edifici che producono petrolio con tutti quelli che ne hanno bisogno, compresi i serbatoi.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
 		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตน้ำมันดิบกับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำมันและแหล่งที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งใช้ไฟฟ้าเป็นสองเท่า!",
 	},

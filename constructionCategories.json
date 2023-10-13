@@ -131,7 +131,7 @@
 	},
 	"constructionCategory_midTechIndustry": {
 		"english": "Mid Tech Industry",
-		"german": "Mid-Tech Industry",
+		"german": "Mid-Tech Industrie",
 		"french": "Industrie Mid-Tech",
 		"italian": "Industrie Mid-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับกลาง",
@@ -141,7 +141,7 @@
 	},
 	"constructionCategory_highTechIndustry": {
 		"english": "High Tech Industry",
-		"german": "High-Tech Industry",
+		"german": "High-Tech Industrie",
 		"french": "Industrie High-Tech",
 		"italian": "Industrie High-Tech",
 		"thai": "อุตสาหกรรมเทคโนโลยีระดับสูง",
