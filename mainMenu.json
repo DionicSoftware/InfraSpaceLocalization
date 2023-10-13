@@ -1898,9 +1898,10 @@
 		"farsi": "چرخش",
 		"scotsgaelic": "Rothaich"
 	},
-  "pan": {
-    "english": "Mouse Dragging",
-  },
+	"pan": {
+		"english": "Mouse Dragging",
+		"german": "Mausziehen",
+	},
 	"zoomIn": {
 		"english": "Zoom In",
 		"german": "Reinzoomen",
