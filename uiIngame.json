@@ -620,7 +620,6 @@
 		"danish": "Prioriter",
 		"greek": "Δώσε προταιρεότητα",
 	},
-    //TODO-german
     //TODO-french
     //TODO-dutch
     //TODO-spanish
@@ -643,7 +642,7 @@
     //TODO-greek
 	"price": {
 		"english": "Requires",
-		"german": "Preis",
+		"german": "Benötigt",
 		"french": "Prix",
 		"dutch": "Prijs",
 		"spanish": "Precio",

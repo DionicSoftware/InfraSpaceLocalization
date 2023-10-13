@@ -154,7 +154,7 @@
     "thai": "มีความคิดสร้างสรรค์!",
   },
   "createTrainLinesThirdTutorialParagraph": {
-    "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rails intersections\" to learn more.",
+    "english": "Feel free to use different sized stations and create junctions and intersections with rails.\n\nThe passage of multiple trains per intersection is handled automatically: see \"Rail intersections\" to learn more.",
     "german": "Du kannst Bahnhöfe unterschiedlicher Größe verwenden und verschiedenste Kreuzungen mit Gleisen bauen.\n\nZugsignale werden automatisch erstellt um Kollisionen zu vermeiden, siehe \"Zugkreuzungen\" um mehr darüber zu erfahren.",
     "french": "N'hésitez pas à utiliser des stations de tailles différentes et à créer des jonctions et des intersections avec des rails.\n\nLe passage de plusieurs trains par intersection est géré automatiquement : voir « Intersections ferroviaires » pour en savoir plus.",
     "italian": "Sentiti libero/a di utilizzare stazioni di dimensioni diverse e di creare bivi e intersezioni con le ferrovie.\n\nIl passaggio di più treni per ogni intersezione viene gestito automaticamente: per saperne di più, consulta la voce \"Intersezioni ferroviarie\"",
@@ -162,7 +162,7 @@
     "thai": "คุณสามารถใช้สถานีขนาดต่างๆ และสร้างทางแยกและทางแยกด้วยรางได้ตามใจชอบ\n\nทางเดินของรถไฟหลายขบวนต่อทางแยกได้รับการจัดการโดยอัตโนมัติ: ดู \"ทางแยกของราง\" เพื่อเรียนรู้เพิ่มเติม",
   },
   "railsIntersectionsTutorialTitle": {
-    "english": "Rails intersections",
+    "english": "Rail intersections",
     "german": "Zugkreuzungen",
     "french": "Intersections ferroviaires",
     "italian": "Intersezioni ferroviarie",
@@ -288,21 +288,22 @@
     "chinese": "输入库存为空",
     "thai": "ที่เก็บข้อมูลขาเข้าว่างเปล่า",
   },
-  // TODO-french
-  // TODO-german (last sentence)
+  // TODO-french: added last sentence
+  // TODO-italian: added last sentence
+  // TODO-chinese: added last sentence
+  // TODO-thai: added last sentence
   "incomingStorageEmptyFirstTutorialParagraph": {
-    "english": "Each building has two types of storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production. However, it is possible that resources are already on the way.",
-    "german": "Jede Fabrik hat zwei Arten von Lager. Im eingehenden Lager liegen die empfangen Materilien bereit für die Weiterverarbeitung. Die Übersicht findet sich links unten im Informationsfenster.\n\nWenn das eingehende Lager leer ist, liegt es daran, dass diese Ressource noch nicht genug produziert wird oder daran, dass die Güter bereits auf dem Weg sind und es eine Weile dauert.",
+    "english": "Each building has two types of storage. The incoming storage is where the received resources are stored for use, and can be seen in the lower left panel.\n\nIf the information panel of a building shows that the incoming storage is empty, it is because one or more stored resources are not sufficient for production.\n\nThis can happen when you don't produce enough resources to satisfy all factories or when the deliveries take too much time.",
+    "german": "Jede Fabrik hat zwei Arten von Lager. Im eingehenden Lager liegen die empfangen Materilien bereit für die Weiterverarbeitung. Die Übersicht findet sich links unten im Informationsfenster.\n\nWenn angezeigt wird, dass das eingehende Lager leer ist, liegt es daran, dass die Menge einer oder mehrerer gelagerten Ressourcen nicht für die Produktion ausreichen.\n\nDas kann passieren wenn du nicht genug produzierst um alle Fabriken zu bedienen oder wenn Lieferungen zu viel Zeit brauchen.",
     "french": "Chaque bâtiment dispose de deux entrepôts. Le stockage entrant est l'endroit où les ressources reçues sont stockées en vue de leur utilisation.\n\nSi le panneau d'information d'un bâtiment indique que le stockage entrant est vide, c'est qu'une ou plusieurs ressources stockées ne sont pas suffisantes pour la production.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in entrata è dove le risorse ricevute vengono stoccate per essere utilizzate, e si può visualizzare nel riquadro in basso a sinistra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in entrata è vuoto, è perché una o più risorse stoccate non sono sufficienti alla produzione. Tuttavia, è possibile che le risorse siano in arrivo.",
     "chinese": "每个建筑都有两个库存。输入库存是储存接收到的资源以备使用的地方，可以在左下角的面板中看到。\n\n如果某个建筑的信息面板上显示输入库存为空，那是因为一个或多个建筑存储的资源不足以用于生产。",
     "thai": "แต่ละอาคารมีห้องเก็บของสองประเภท ที่เก็บข้อมูลขาเข้าคือที่ที่ทรัพยากรที่ได้รับถูกเก็บไว้เพื่อใช้ และสามารถดูได้ในแผงด้านซ้ายล่าง\n\nหากแผงข้อมูลของอาคารแสดงว่าพื้นที่เก็บข้อมูลขาเข้าว่างเปล่า อาจเป็นเพราะทรัพยากรที่จัดเก็บอย่างน้อยหนึ่งรายการถูก ไม่เพียงพอต่อการผลิต อย่างไรก็ตาม อาจเป็นไปได้ว่าทรัพยากรกำลังมาถึงแล้ว",
   },
   // TODO-french
-  // TODO-german (just the last sentence)
   "incomingStorageEmptySecondTutorialParagraph": {
     "english": "Sometimes the storage may remain empty for a long time while it waits for resources to arrive. You can check for pending deliveries by hovering the cursor over the desired resource.\n\nIn those cases, it is better to place factories closer together or built faster routes! Alternatively, you can also use distribution centers to store resources nearby. To learn more, see the encyclopedia article \"Distribution Centers.\"",
-    "german": "Manchmal bleibt das Lager für eine lange Zeit leer während es darauf wartet, bis Ressourcen ankommen. Du kannst die eingehenden Lieferungen anzeigen, indem du die Maus über die jeweilige Ressource bewegst.\n\nIn diesem Fall ist es besser, Fabriken nahe beieinander zu platzieren oder schhnellere Routen zu bauen! Stattdessen kannst du auch Lieferzentren verwenden, um Materialien in der Nähe zu lagern.",
+    "german": "Manchmal bleibt das Lager für eine lange Zeit leer während es darauf wartet, bis Ressourcen ankommen. Du kannst die eingehenden Lieferungen anzeigen, indem du die Maus über die jeweilige Ressource bewegst.\n\nIn diesem Fall ist es besser, Fabriken nahe beieinander zu platzieren oder schhnellere Routen zu bauen! Stattdessen kannst du auch Lieferzentren verwenden, um Materialien in der Nähe zu lagern. Mehr Informationen gibt es im Kapitel \"Verteilzentren\".",
     "french": "Parfois, le stockage peut rester vide pendant une longue période en attendant l'arrivée des ressources. Vous pouvez vérifier si des livraisons sont en attente en plaçant le curseur sur la ressource souhaitée.\n\nDans ces cas, il est préférable de rapprocher les usines ou de construire des itinéraires plus rapides !",
     "italian": "A volte il magazzino può rimanere vuoto a lungo mentre attende che le risorse arrivino. Puoi controllare se ci sono consegne pendenti posizionando il cursore sulla risorsa desiderata.\n\nIn questi casi, meglio posizionare le industrie più vicine tra loro o costruire strade più veloci! In alternativa, è possibile utilizzare i centri di distribuzione per stoccare le risorse nelle vicinanze. Per saperne di più, consulta la voce \"Centri di distribuzione\" dell'enciclopedia.",
     "chinese": "有时，仓库在等待资源到达时可能会空闲很长时间。你可以将光标悬停在所需的资源上，检查是否有待交付的资源。\n\n在这种情况下，最好把工厂放置在更近的地方，或者建造更快的路线！",
@@ -369,7 +370,6 @@
     "thai": "แบ่งเขต",
   },
   // TODO-french
-  // TODO-german (the selected resource, last sentence)
   "districtsTutorialParagraph": {
     "english": "With districts, you can manage deliveries in your city.\n\nOpen the Districts panel on the left side of the screen. To create the first district, select the brush width you want, and paint the area below the buildings from which you want to export a particular resource. After that, paint the area below the buildings you want them to import it from.\n\nNow select the desired resource in the Districts panel. Finally, click on the district you need to export and drag the arrow that will appear to the district you want to import.\n\nThis way, buildings in the first district will export only the selected resource to buildings in the second district. You can also link a district with itself by dragging the arrow inside it!",
     "german": "Mit Bezirken kannst du Lieferungen in deiner Stadt managen.\n\nÖffne das Fenster für Stadtbezirke auf der linken Seite des Bildschirms. Um den ersten Bezirk zu erstellen, musst du eine Pinselgröße auswählen und kannst dann den Bezirk unter die Gebäude malen, wovon du eine bestimmte Ressource exportieren willst. Danach kannst du den Bereich unter den Gebäuden malen, welche die Ressource importieren sollen.\n\nJetzt kannst du die Ressource im Menü auswählen und mit einem Klick deine Maus von einem Bezirk zum anderen ziehen.\n\nMit dieser neuen Exportregel werden Geböude im ersten Bezirk nur Gebäude im zweiten Bezirk beliefern. Du kannst sogar die Lieferungen eines Bezirks auf sich selbst beschränken, indem du einfach den Pfeil auf sich selbst zeigen lässt!",
@@ -388,10 +388,9 @@
     "thai": "พลังงาน",
   },
   // TODO-french
-  // TODO-german
   "powerFirstTutorialParagraph": {
     "english": "Power is essential to the operation of buildings.\n\nYou can use electric poles and power substation to spread electricity to surrounding buildings, and they must be connected to one or more power sources. Poles have a very small radius, but by connecting to each other they can cover very large areas.",
-    "german": "Strom ist wichtig um Gebäude zu betreiben.\n\nDu kannst Strommasten und Umspannwerke verwenden, um Gebäude mit dem Stromnetz zu verbinden. Das Netz muss außerdem mit genug Stromquellen verbunden werden. Strommasten haben einen sehr kleinen Radius, aber wenn du viele verbindest, kannst du auch damit einen großen Bereich abdecken.",
+    "german": "Strom ist wichtig um Gebäude zu betreiben.\n\nDu kannst Strommasten und Umspannwerke verwenden, um nahe Gebäude mit Strom zu beliefern. Das Stromnetz muss außerdem mit genug Stromquellen verbunden werden. Strommasten haben einen sehr kleinen Radius, aber wenn du viele verbindest, kannst du auch damit einen großen Bereich abdecken.",
     "french": "L'électricité est essentielle au fonctionnement des bâtiments.\n\nLes poteaux électriques et les sous-stations sont les deux seuls moyens de diffuser l'électricité aux bâtiments environnants, et ils doivent être connectés à une ou plusieurs sources d'énergie. Les pôles ont un rayon d'action très réduit, mais en se connectant les uns aux autres, ils peuvent couvrir des zones très étendues.",
     "italian": "L’energia elettrica è indispensabile al funzionamento degli edifici.\n\nÈ possibile utilizzare i pali elettrici e le sottostazioni elettriche per diffondere l'energia elettrica agli edifici circostanti, e vanno connessi a una o più fonti di energia. I pali hanno un raggio molto ridotto, ma connettendosi gli uni agli altri possono coprire aree molto vaste.",
     "chinese": "电力对建筑的运作至关重要。\n\n电线杆和变电站是向周围建筑供电的唯二的方式，它们必须与一个或多个电源相连。电线杆的半径很小，但通过相互连接，它们可以覆盖很大的区域。",

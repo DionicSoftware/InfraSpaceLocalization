@@ -3255,6 +3255,10 @@
 		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nอาคารนี้จะถูกวางไว้บนพื้นมืดและมีหนามแหลมซึ่งปกปิดคราบน้ำมัน",
 		"turkish": "Ham petrolü yeraltından çıkarıyor.\n\nBu bina, bir petrol yatağını gizleyen karanlık, çivili bir zemine yerleştirilecek.",
 	},
+	"crudeOilExtractor_desc_proceduralMap": {
+		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed anywhere.",
+		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
+	},
 	"largeCrudeOilExtractor": {
 		"english": "Large Crude Oil Extractor",
 		"german": "Großer Rohölextraktor",
@@ -3305,9 +3309,13 @@
 	},
 	"chemicalsLab_desc": {
 		"english": "Derives basic chemicals from some characteristic alien plants.\n\nThis building should be placed on <b>red grass meadows</b>.",
-		"german": "Stellt grundlegende Chemikalien aus bestimmten außerirdischen Pflanzen her.\n\nDieses Gebäude sollte auf <b>roten Wiesen</b> platziert werden.",
+		"german": "Stellt grundlegende Chemikalien aus bestimmten außerirdischen Pflanzen her.\n\nDieses Gebäude sollte auf <b>Flächen mit rotem Gras</b> platziert werden.",
 		"italian": "Ricava le sostanze chimiche di base da alcune caratteristiche piante aliene.\n\nQuesto edificio deve essere collocato sui <b>prati di erba rossa</b>.",
 		"thai": "ได้มาจากสารเคมีพื้นฐานจากพืชต่างดาวที่มีลักษณะเฉพาะบางชนิด อาคารนี้ควรตั้งอยู่บนทุ่งหญ้าสีแดง",
+	},
+	"chemicalsLab_desc_proceduralMap": {
+		"english": "Derives basic chemicals from some characteristic alien plants.\n\nOn this landing spot, the building can be placed anywhere.",
+		"german": "Stellt grundlegende Chemikalien aus bestimmten außerirdischen Pflanzen her.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
 	},
 	"industrialChemicalsLab": {
 		"english": "Industrial Chemicals Lab",
