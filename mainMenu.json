@@ -4703,13 +4703,16 @@
 	"activeGPU": {
 		"english": "Active GPU",
 		"german": "Aktive Grafikkarte",
+		"turkish": "Aktif GPU",
 	},
 	"detectedGraphicsCards": {
 		"english": "Detected graphics cards:",
 		"german": "Entdeckte Grafikkarten:",
+		"turkish": "Algılanan grafik kartları:",
 	},
 	"youMightBeUsingIntegratedGPU": {
 		"english": "You might be using an integrated graphics card! Switch to your dedicated graphics card for better performance.",
 		"german": "Es kann sein, dass du eine integrierte Grafikkarte verwendest! Wechsle zu deiner dedizierten Grafikkarte, um bessere Spieleperformance zu erreichen.",
+		"turkish": "Entegre bir grafik kartı kullanıyor olabilirsiniz! Daha iyi performans için özel grafik kartınıza geçin.",
 	},
 }
