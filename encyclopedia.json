@@ -487,7 +487,6 @@
   },
   // TODO-italian: don't recommend building multiple facitlies
   // TODO-thai: don't recommend building multiple facitlies
-  // TODO-turkish: don't recommend building multiple facitlies
   "spaceshipRepairFourthTutorialParagraph": {
     "english": "Tip: keep in mind that for the complete repair of Antares you will need all kinds of resources. You can choose to place the Spaceship Construction Facility in a focal point, or move/rebuild the building to another area once a repair is complete. You can also direct the desired resources through districts or distribution centers. To learn more, see the encyclopedia's \"Districts\" and \"Distribution centers\" articles.",
     "german": "Tipp: Bedenke, dass du für die vollständige Reparatur von Antares viele verschiedene Güter benötigen wirst. Du kannst die Raumschiffswerft im Zentrum der Stadt bauen oder sie nach der Reparatur eines Bauteils verschieben. Du kannst außerdem Bezirke und Verteilzentren verwenden um die Verteilung von Ressourcen nach deinen Wünschen zu lenken. Mehr Informationen findest du in den Enzyklopädiekapiteln \"Bezirke\" und \"Verteilzentren\".",
@@ -539,7 +538,6 @@
   },
   // TODO-italian: queue technologie
   // TODO-thai: queue technologie
-  // TODO-turkish: queue technologie
   "researchThirdTutorialParagraph": {
     "english": "The Research Lab will now request blue, green, yellow, or red science packets depending on the technology selected. Once finished, you will be able to select the next technology. You can also put multiple technologies in a queue to research one after the other.\n\nNote: placing multiple Research Lab does not allow you to select multiple research at the same time.",
     "german": "Das Forschungslabor wird jetzt blaue, grüne, gelbe oder rote Wissenschaftspakete anfordern, je nachdem welche Technologie du ausgewählt hast. Wenn die Forschung abgeschlossen ist, kannst du die nächste Technologie auswählen. Du kannst auch mehrere Technologien auswählen, die dann nacheinander erforscht werden.\n\nInfo: Du kannst nur eine Technologie gleichzeitig erforschen, auch mit mehreren Forschungslaboren.",
