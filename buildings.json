@@ -32,6 +32,7 @@
 		"italian": "Questa miniera può essere posizionata <b>ovunque</b>.",
 		"thai": "เหมืองนี้สามารถวางได้ทุกที่",
 		"turkish": "Bu maden her yere yerleştirilebilir.",
+		"polish": "Ta koparka moe być postawiona wszędzie.",
 	},
 	"sulfurMine": {
 		"english": "Sulfur Mine",
@@ -66,7 +67,8 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di zolfo</b>.",
 		"thai": "เหมืองนี้จำเป็นต้องวางบนแหล่งสะสมกำมะถัน",
 		"turkish": "Bu madenin bir kükürt yatağı üzerine yerleştirilmesi gerekiyor.",
-	},
+		"polish": "Ta koparka musi być postawiona na złożu siarki.",
+	},      
 	"ironMine": {
 		"english": "Iron Mine",
 		"german": "Eisenmine",
@@ -100,6 +102,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di ferro</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมเหล็ก",
 		"turkish": "Bu maden bir demir yatağının üzerine yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu żelaza.",
 	},
 	"copperMine": {
 		"english": "Copper Mine",
@@ -134,6 +137,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di rame</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมทองแดง",
 		"turkish": "Bu maden bir bakır yatağının üzerine yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu miedzi.",
 	},
 	"aluminiumMine": {
 		"english": "Aluminum Mine",
@@ -168,6 +172,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di alluminio</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนชั้นอะลูมิเนียม",
 		"turkish": "Bu maden bir alüminyum yatağına yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu aluminium.",
 	},
 	"uraniumMine": {
 		"english": "Uranium Mine",
@@ -202,6 +207,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di uranio</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมยูเรเนียม",
 		"turkish": "Bu maden uranyum yatağının üzerine yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu uranu.",
 	},
 	"iridiumMine": {
 		"english": "Iridium Mine",
@@ -235,6 +241,7 @@
 		"german": "Diese Mine muss auf einem Iridiumvorkommen platziert werden.",
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di iridio</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมอิริเดียม",
+		"polish": "Ta koparka musi być postawiona na złożu irydu.",
 	},
 	"largeSandMine": {
 		"english": "Large Sand Mine",
@@ -269,6 +276,8 @@
 		"italian": "Questa miniera può essere posizionata <b>ovunque</b>.",
 		"thai": "เหมืองนี้สามารถวางได้ทุกที่",
 		"turkish": "Bu maden her yere yerleştirilebilir.",
+		"polish": "Ta koparka moe być postawiona wszędzie.",
+		
 	},
 	"largeSulfurMine": {
 		"english": "Large Sulfur Mine",
@@ -303,6 +312,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di iridio</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งกำมะถัน",
 		"turkish": "Bu maden bir kükürt yatağının üzerine yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu siarki.",
 	},
 	"largeIronMine": {
 		"english": "Large Iron Mine",
@@ -336,6 +346,7 @@
 		"german": "Diese Mine muss auf einem Eisenvorkommen platziert werden.",
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di ferro</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมเหล็ก",
+		"polish": "Ta koparka musi być postawiona na złożu żelaza.",
 	},
 	"largeCopperMine": {
 		"english": "Large Copper Mine",
@@ -370,6 +381,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di rame</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมทองแดง",
 		"turkish": "Bu maden bir demir yatağının üzerine yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu miedzi.",
 	},
 	"largeAluminiumMine": {
 		"english": "Large Aluminum Mine",
@@ -404,6 +416,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di alluminio</b>.",
 		"thai": "เหมืองนี้จะต้องวางอยู่บนชั้นอะลูมิเนียม",
 		"turkish": "Bu maden alüminyum yatağına yerleştirilecek",
+		"polish": "Ta koparka musi być postawiona na złożu aluminium.",
 	},
 	"largeUraniumMine": {
 		"english": "Large Uranium Mine",
@@ -438,6 +451,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di uranio</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมยูเรเนียม",
 		"turkish": "Bu maden uranyum yatağının üzerine yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu uranu.",
 	},
 	"largeIridiumMine": {
 		"english": "Large Iridium Mine",
@@ -472,6 +486,7 @@
 		"italian": "Questa miniera deve essere collocata su un <b>deposito di iridio</b>.",
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมอิริเดียม",
 		"turkish": "Bu maden bir iridyum yatağına yerleştirilecek.",
+		"polish": "Ta koparka musi być postawiona na złożu irydu.",
 	},
 	"electronicsFactory": {
 		"english": "Electronics Factory",
