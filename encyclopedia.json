@@ -275,11 +275,16 @@
     "chinese": "每个建筑都有两个库存。输出库存是储存生产出来的资源以备装运的地方，可以在右下角的面板中看到。\n\n如果某个建筑的信息面板显示输出库存已满，那是因为此时没有建筑可以向其运送货物。",
     "thai": "โรงงานแต่ละแห่งจะมีพื้นที่จัดเก็บสองประเภท พื้นที่เก็บข้อมูลขาออกคือที่ที่ทรัพยากรที่ผลิตถูกจัดเก็บไว้สำหรับการจัดส่ง และสามารถดูได้ที่แผงด้านล่างขวา\n\nหากแผงข้อมูลของอาคารแสดงว่าพื้นที่เก็บข้อมูลขาออกเต็มแล้ว อาจเป็นเพราะไม่มีอาคารใดที่สามารถทำได้ ส่งสินค้าในขณะนั้น สิ่งนี้อาจมีสาเหตุที่แตกต่างกัน!",
   },
+  //TODO-german click on the magnifying glass instead of arrow
+  //TODO-french
+  //TODO-german 
+  //TODO-chinese
+  //TODO-thai
   "outgoingStorageFullSecondTutorialParagraph": {
-    "english": "To check the status of your deliveries, click on the arrow in the building information panel.\n\nBlue color indicates the selected building.\n\nGreen color indicates that the delivery is in progress.\n\nYellow color indicates that the incoming storage is already full.\n\nRed color indicates that the building is not reachable.",
+    "english": "To check the status of your deliveries, click on the magnifying glass in the building information panel.\n\nBlue color indicates the selected building.\n\nGreen color indicates that the delivery is in progress.\n\nYellow color indicates that the incoming storage is already full.\n\nRed color indicates that the building is not reachable.",
     "german": "Um den Status deiner Lieferungen zu überprüfen, kannst du auf den Pfeil im Informationsfenster klicken.\n\n.Blau zeigt das aktuell ausgewählte Gebäude.\n\nGrün zeigt Gebäude die Problemlos beliefert werden können.\n\nGelbe Gebäude könnten zwar beliefert werden, aber ihr Lager ist aktuell schon voll oder es sind schon genug Güter auf dem Weg.\n\nRote Gebäude können mit dem aktuellen Verkehrsnetz nicht erreicht werden.",
     "french": "Pour vérifier l'état de vos livraisons, cliquez sur la flèche dans le panneau d'information du bâtiment.\n\nLa couleur bleue indique le bâtiment sélectionné.\n\nLa couleur verte indique que la livraison est en cours.\n\nLa couleur jaune indique que le stockage entrant est déjà plein.\n\nLa couleur rouge indique que le bâtiment n'est pas accessible.s",
-    "italian": "Per controllare lo stato delle tue consegne, clicca sulla freccia nel pannello informativo dell’edificio.\n\nIl colore blu indica l’edificio selezionato.\n\nIl colore verde indica che la consegna è in corso.\n\nIl colore giallo indica che il magazzino in entrata è già pieno.\n\nIl colore rosso indica che l’edificio non è raggiungibile.",
+    "italian": "Per controllare lo stato delle tue consegne, clicca sulla lente di ingrandimento nel pannello informativo dell’edificio.\n\nIl colore blu indica l’edificio selezionato.\n\nIl colore verde indica che la consegna è in corso.\n\nIl colore giallo indica che il magazzino in entrata è già pieno.\n\nIl colore rosso indica che l’edificio non è raggiungibile.",
     "chinese": "要查看交付状态，请单击楼宇信息面板中的箭头。\n\n蓝色表示选定的建筑物。\n\n绿色表示送货正在进行中。\n\n黄色表示输入库存已满。\n\n红色表示无法到达建筑。",
     "thai": "หากต้องการตรวจสอบสถานะการจัดส่งของคุณ ให้คลิกที่ลูกศรในแผงข้อมูลอาคาร\n\nสีฟ้าหมายถึงอาคารที่เลือก\n\nสีเขียวแสดงว่าอยู่ระหว่างการจัดส่ง\n\nสีเหลืองแสดงว่ามีสินค้าเข้ามา พื้นที่เก็บข้อมูลเต็มแล้ว\n\nสีแดงบ่งบอกว่าไม่สามารถเข้าถึงอาคารได้",
   },
@@ -346,6 +351,10 @@
     "chinese": "你可以点击航空港查看移民率。要想提高移民率，请满足居住地的要求来改善居住地！\n\n请注意：建造多个航空港并不会提高移民率。但是，将它们放置在地图上的不同点来为栖息地分配流量可能是一种策略。",
     "thai": "คุณสามารถตรวจสอบอัตราการอพยพได้โดยคลิกที่ ท่าเรืออวกาศ หากต้องการเพิ่มอัตราการอพยพ ให้ปรับปรุงแหล่งที่อยู่อาศัยของคุณโดยปฏิบัติตามข้อกำหนด!\n\nโปรดทราบ: การสร้างท่าเรืออวกาศหลายแห่งจะไม่เพิ่มอัตราการอพยพ อย่างไรก็ตาม อาจเป็นกลยุทธ์ที่จะวางไว้ที่จุดต่างๆ บนแผนที่เพื่อกระจายการจราจรไปยังแหล่งที่อยู่อาศัย",
   },
+  "immigrationSecondTutorialParagraph": {
+    "english": "Habitats continue to demand new immigrants until they are full. To get more workers, improve them or build more!\n\nTo improve a habitat, one must ensure a supply that meets basic needs and additional needs. For example, to improve basic habitat, you need to ensure oxygen, but also water and survival food.\n\nIf even the basic requirements are not met, the habitat will deteriorate. This results in the loss of workers in case the habitat used to accommodate more than it can accommodate now.",
+    "italian": "Gli habitat continuano a richiedere nuovi immigrati finché non saranno pieni. Per avere più lavoratori, migliorali o costruiscine di più!\n\nPer migliorare un habitat, bisogna garantire una fornitura che soddisfi i bisogni di base e i bisogni aggiuntivi. Per esempio, per migliorare l'habitat di base, bisognerà garantire ossigeno, ma anche acqua e cibo di sopravvivenza.\n\nSe i nemmeno i requisiti di base sono soddisfatti, l'habitat peggiorerà. Questo comporta la perdita di lavoratori nel caso che l'habitat ne ospitava di più di quanti può accoglierne adesso.",
+  }, 
   "productionOverviewTutorialTitle": {
     "english": "Production overview",
     "german": "Produktionsübersicht",
@@ -545,5 +554,13 @@
     "italian": "Il laboratorio di ricerca richiederà ora moduli scientifici blu, verdi, gialli o rossi a seconda della tecnologia selezionata. Una volta terminato, sarai in grado di selezionare la prossima ricerca. Puoi anche mettere più ricerche in coda in modo da ricercarle una dopo l'altra.\n\nNota: Posizionare più laboratori scientifici non ti consente di selezionare più ricerche contemporaneamente.",
     "thai": "ขณะนี้ห้องปฏิบัติการวิจัยจะขอชุดวิทยาศาสตร์สีน้ำเงิน เขียว เหลือง หรือแดง ขึ้นอยู่กับเทคโนโลยีที่เลือก เมื่อเสร็จแล้ว คุณจะสามารถเลือกงานวิจัยถัดไปได้\n\nหมายเหตุ: การวางห้องปฏิบัติการวิจัยหลายรายการไม่อนุญาตให้คุณเลือกงานวิจัยหลายชิ้นในเวลาเดียวกัน",
     "turkish": "Araştırma Laboratuvarı artık seçilen teknolojiye bağlı olarak mavi, yeşil, sarı veya kırmızı bilim paketleri isteyecektir. Bitirdiğinizde sonraki araştırmayı seçebileceksiniz.\n\nNot: Birden fazla Araştırma Laboratuvarı yerleştirmek, aynı anda birden fazla araştırma seçmenize izin vermez.",
+  },
+  "terraformingTutorialTitle": {
+    "english": "Terraforming",
+    "italian": "Terraformazione",
+  },
+  "terraformingFirstTutorialParagraph": {
+    "english": "Terraforming requires special buildings with a range of action. You can find them in the \"Terraforming\" category. Each of them partially terraforms the ground. To make an area fully terraformed, you need the action of four of them at the same time. \n\nBy clicking on the \"Terraforming Progress\" panel, you can see the contribution of each type of building, and what the total terraforming progress is.",
+    "italian": "La terraformazione richiede degli edifici speciali con un raggio d'azione. Li puoi trovare nella categoria \"Terraformazione\". Ognuno di essi terraforma parzialmente il suolo. Per rendere un area completamente terraformata, serve l'azione di quattro di essi contemporaneamente. \n\\nCliccando sul pannello \"Progresso di terraformazione\", puoi consultare il contributo di ogni tipo di edificio, e qual è il progresso totale di terraformazione.",
   },
 }

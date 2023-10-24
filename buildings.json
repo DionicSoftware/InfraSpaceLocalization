@@ -1030,13 +1030,12 @@
 		"chinese": "超导体厂",
 		"hungarian": "Szupravezető Gyár",
 	},
-	// TODO-italian
 	// TODO-thai
 	// TODO-turkish
 	"superconductorFactory_desc": {
 		"english": "It produces a highly conductive material for electromagnetic applications.",
 		"german": "Produziert Supraleiter für elektromagnetische Anwendungen.",
-		"italian": "Produce un materiale altamente conduttivo.",
+		"italian": "Produce un materiale estremamente conduttivo per applicazioni elettromagnetiche.",
 		"thai": "มันผลิตวัสดุที่เป็นสื่อกระแสไฟฟ้าสูง",
 		"turkish": "Oldukça iletken bir malzeme üretir.",
 	},
@@ -1321,12 +1320,11 @@
 		"swiss german": "Wältallhafe",
 		"farsi": "فرودگاه فضا پیما",
 	},
-	// TODO-italian
 	// TODO-thai
 	"spacePort_desc": {
 		"english": "A warm welcome to the newcomers!\n\nThe Spaceport allows the <b>arrival of citizens</b>.\nThe number of spaceports <b>does not affect</b> the speed, frequency, or amount of people arriving. That depends on the quality of your habitats!",
 		"german": "Herzlich Willkommen Neuankömmlinge!\n\nDer Raumhafen erlaubt die <b>Ankunft von Bürgern</b>.\nDie Anzahl von Raumhäfen in der Stadt hat <b>keinen Einfluss</b> auf die Menge der ankommenden Leute. Das hängt von der Qualität deiner Wohngebäude ab!",
-		"italian": "Un benvenuto ai nuovi arrivati!\n\nLo spazioporto consente <b>l'arrivo di migranti</b>.\nIl numero di spazioporti <b>non influisce</b> sulla velocità, sulla frequenza o sulla quantità di persone in arrivo.",
+		"italian": "Un caldo benvenuto ai nuovi arrivati!\n\nLo spazioporto consente <b>l'arrivo di migranti</b>.\nIl numero di spazioporti <b>non influisce</b> sulla velocità, sulla frequenza o sulla quantità di persone in arrivo. Quello dipende dalla qualità dei tuoi habitat!",
 		"thai": "ยินดีต้อนรับผู้มาใหม่!\n\nท่าอวกาศอนุญาตให้ผู้อพยพมาถึงได้\nจำนวนท่าอวกาศไม่ส่งผลต่อความเร็ว ความถี่ หรือจำนวนคนที่มาถึง",
 	},
 	"spaceShipConstructionFacility": {
@@ -1862,7 +1860,7 @@
 		"hungarian": "Nagy Városi Park",
 	},
 	"park_desc": {
-		"english": "A place to take a break from the city chaos.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
+		"english": "A place to take a break from the city chaos.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
@@ -1880,7 +1878,7 @@
 		"ukrainian": "Класичний парк",
 	},
 	"decorativePark1_desc": {
-		"english": "A place to take a break from the city chaos.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
+		"english": "A place to take a break from the city chaos.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
@@ -1898,7 +1896,7 @@
 		"ukrainian": "Сучасний парк",
 	},
 	"decorativePark2_desc": {
-		"english": "A place to take a break from the city chaos.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
+		"english": "A place to take a break from the city chaos.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
@@ -1914,7 +1912,7 @@
 		"hungarian": "Kis Modern Park",
 	},
 	"decorativePark3_desc": {
-		"english": "A place to take a break from the city chaos.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
+		"english": "A place to take a break from the city chaos.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
@@ -1931,7 +1929,7 @@
 		"hungarian": "Kis Klasszikus Park",
 	},
 	"decorativePark4_desc": {
-		"english": "A place to take a break from the city chaos.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
+		"english": "A place to take a break from the city chaos.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
@@ -1948,7 +1946,7 @@
 		"hungarian": "Klasszikus Minipark"
 	},
 	"decorativePark5_desc": {
-		"english": "A place to take a break from the city chaos.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
+		"english": "A place to take a break from the city chaos.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
@@ -1981,7 +1979,7 @@
 		"farsi": "استادیوم",
 	},
 	"arena_desc": {
-		"english": "The gathering and entertainment place for young and old!\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
+		"english": "The gathering and entertainment place for young and old!\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Das Unterhaltungszentrum für jung und alt!\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
@@ -1996,7 +1994,7 @@
 		"italian": "Teatro",
 	},
 	"theater_desc": {
-		"english": "The gathering and entertainment place for young and old!\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
+		"english": "The gathering and entertainment place for young and old!\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Das Unterhaltungszentrum für jung und alt!\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
@@ -2014,7 +2012,7 @@
 		"hungarian": "Holo Mozi",
 	},
 	"holoCinema_desc": {
-		"english": "The gathering and entertainment place for young and old!\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
+		"english": "The gathering and entertainment place for young and old!\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Das Unterhaltungszentrum für jung und alt!\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
@@ -2028,12 +2026,12 @@
 		"chinese": "体育中心",
 		"italian": "Polo Sportivo",
 	},
-	// TODO-italian
+	// TODO-german
 	// TODO-thai
 	"sportCenter_desc": {
-		"english": "Working out can be fun! So they say...\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
+		"english": "Working out can be fun! So they say...\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Workouts können Spaß machen! Sagt man zumindest...\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
-		"italian": "Allenarsi è divertente! Così dicono.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
+		"italian": "Allenarsi è divertente! Così dicono.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "พวกเขาพูดกันว่าการออกกำลังกายก็เป็นเรื่องที่สนุกได้!\n\nทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 5",
 	},
 	"school": {
@@ -2064,7 +2062,7 @@
 		"farsi": "مدرسه",
 	},
 	"school_desc": {
-		"english": "It keeps the level of education high.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 6</b>.",
+		"english": "It keeps the level of education high.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 6</b>.",
 		"german": "Sorgt für ein gutes Bildungsniveau.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 6</b>.",
 		"italian": "Mantiene alto il livello di educazione.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 6</b>",
@@ -2079,7 +2077,7 @@
 		"italian": "Asilo",
 	},
 	"kindergarten_desc": {
-		"english": "It keeps the level of education high.\n\nPublic buildings are accessible by the surrounding habitats.\n\n<b>Needed for habitats at level 6</b>.",
+		"english": "It keeps the level of education high.\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 6</b>.",
 		"german": "Sorgt für ein gutes Bildungsniveau.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 6</b>.",
 		"italian": "Mantiene alto il livello di educazione.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 6</b>",
@@ -2785,12 +2783,11 @@
 		"russian": "Грузовой лифт",
 		"ukrainian": "Вантажна гондола",
 	},
-	// TODO-italian
 	// TODO-thai
 	"gondolaStation_desc": {
 		"english": "Use the cargo gondola to <b>transport resources up and down slopes</b>. The two stations must be placed facing each other for the cables to connect.",
 		"german": "Verwende den Lastenaufzug, um <b>Güter über schweres Terrain zu befördern</b>. Die beiden Stationen müssen sich gegenüber stehen, damit sie mit Drahtseilen verbunden werden können.",
-		"italian": "Utilizza la cabinovia per <b>trasportare le risorse lungo i pendii</b>. Le due stazioni devono essere posizionate una di fronte all'altra.",
+		"italian": "Utilizza la cabinovia per <b>trasportare le risorse lungo i pendii</b>. Le due stazioni devono essere posizionate una di fronte all'altra per far sì che i cavi si connettano.",
 		"thai": "ใช้กระเช้าลอยฟ้าบรรทุกสินค้าเพื่อขนส่งทรัพยากรขึ้นและลงทางลาดชัน ต้องวางทั้งสองสถานีไว้ด้านหน้ากัน",
 	},
 	"gondolaStationPole": {
@@ -2920,12 +2917,11 @@
 		"czech": "Filtr prachových částic",
 		"ukrainian": "Пиловий фільтр",
 	},
-	// TODO-italian
 	// TODO-thai
 	"dustParticleFilter_desc": {
 		"english": "Dust can be a huge problem on a desert planet.\n\nThe dust particle filter purifies the air of fine dust within a moderately-sized area of operation.\n\nTo <b>terraform</b> a portion of land, you need <b>four different terraforming buildings</b> operating on that area.",
 		"german": "Auf einem Wüstenplanet kann Staub zu einem gewaltigen Problem werden.\n\nDer Feinstaubfilter reinigt die Luft von Staub in einem mittelgroßen Bereich.\n\nUm einen Teil des Planeten zu <b>terraformen</b>, müssen sich mindestens <b>vier verschiedene Terraforming-Gebäude</b> um den Bereich kümmern.",
-		"italian": "L'aria sembra meno pesante da queste parti.\n\nPurifica l'aria dalle polveri sottili entro un'area di azione di dimensioni moderate.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
+		"italian": "La polvere può essere un problema serio su un pianeta desertico.\n\nPurifica l'aria dalle polveri sottili entro un'area di azione di dimensioni moderate.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "อากาศที่นี่ดูควบแน่นน้อยลง ช่วยฟอกอากาศด้วยฝุ่นละเอียดภายในพื้นที่การทำงานที่มีขนาดปานกลาง\n\nหากต้องการปรับสภาพดินบางส่วน คุณต้องมีอาคารปรับสภาพที่แตกต่างกัน 4 หลังที่ทำงานในพื้นที่นั้น",
 	},
 	"fertilizerDroneHub": {
@@ -2943,12 +2939,11 @@
 		"czech": "Hnojivý dron Hub",
 		"ukrainian": "Хаб дронів для удобрення",
 	},
-	// TODO-italian
 	// TODO-thai
 	"fertilizerDroneHub_desc": {
 		"english": "Plants can not grow without the right nutrients.\n\nThe drone prepares the ground for vegetation growth, within a considerably large area of operation.\n\nTo <b>terraform</b> a portion of land, you need <b>four different terraforming buildings</b> operating on that area.",
 		"german": "Pflanzen können ohne die richtigen Nährstoffe nicht wachsen.\n\nDie Drohne düngt den Boden in einem großen Bereich.\n\nUm einen Teil des Planeten zu <b>terraformen</b>, müssen sich mindestens <b>vier verschiedene Terraforming-Gebäude</b> um den Bereich kümmern.",
-		"italian": "Qui, un tempo, tutto era deserto!\n\nIl drone prepara il terreno per la crescita della vegetazione, in un'area d'azione considerevolmente ampia.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
+		"italian": "Le piante non possono crescere senza le giuste sostanze nutritive.\n\nIl drone prepara il terreno per la crescita della vegetazione, in un'area d'azione considerevolmente ampia.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "ที่นี่กาลครั้งหนึ่งทุกสิ่งถูกทิ้งร้าง!\n\nโดรนจะเตรียมพื้นที่สำหรับการเจริญเติบโตของพืชพรรณภายในพื้นที่การดำเนินการขนาดใหญ่\n\nหากต้องการปรับสภาพดินบางส่วน คุณต้องมีอาคารปรับสภาพที่แตกต่างกัน 4 หลังที่ปฏิบัติการในพื้นที่นั้น",
 	},
 	"groundAcidityRegulator": {
@@ -2966,12 +2961,11 @@
 		"czech": "Regulátor kyselosti půdy",
 		"ukrainian": "Регулятор кислотності ґрунту",
 	},
-	// TODO-italian
 	// TODO-thai
 	"groundAcidityRegulator_desc": {
 		"english": "Acidity is not conducive to plant growth.\n\nRegulates soil PH, preparing it for terraforming, within a significantly expansive area of operation.\n\nTo <b>terraform</b> a portion of land, you need <b>four different terraforming buildings</b> operating on that area.",
 		"german": "Ein saurer Boden ist nicht gut für das Pflanzenwachstum.\n\nReguliert den ph-Wert des Bodens in einem sehr großen Bereich.\n\nUm einen Teil des Planeten zu <b>terraformen</b>, müssen sich mindestens <b>vier verschiedene Terraforming-Gebäude</b> um den Bereich kümmern.",
-		"italian": "Anche la vegetazione ha bisogno di un nutrimento adeguato.\n\nRegola il PH del suolo, preparandolo per la terraformazione, in un'area d'azione notevolmente estesa.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
+		"italian": "L'acidità del suolo non favorisce la crescita delle piante.\n\nRegola il PH del suolo, preparandolo per la terraformazione, in un'area d'azione notevolmente estesa.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "พืชผักยังต้องการการบำรุงที่เหมาะสม ควบคุมค่าความเป็นกรด-เบสของดิน เพื่อเตรียมดินสำหรับการปรับสภาพพื้นผิวภายในพื้นที่การทำงานที่กว้างขวางมาก\n\nหากต้องการปรับสภาพดินบางส่วน คุณต้องมีอาคารปรับสภาพที่แตกต่างกัน 4 หลังที่ทำงานในพื้นที่นั้น",
 	},
 	"ammoniaExtractor": {
@@ -2989,7 +2983,6 @@
 		"czech": "Extraktor čpavku",
 		"ukrainian": "Екстрактор аміаку",
 	},
-	// TODO-italian
 	// TODO-thai
 	"ammoniaExtractor_desc": {
 		"english": "The air has never been so pure!\n\nThe ammonia extractor removes excess ammonia from the air, making it suitable for the proliferation of life. It has an enormously vast area of operation.\n\nTo <b>terraform</b> a portion of land, you need <b>four different terraforming buildings</b> operating on that area.",
@@ -3271,8 +3264,9 @@
 		"turkish": "Ham petrolü yeraltından çıkarıyor.\n\nBu bina, bir petrol yatağını gizleyen karanlık, çivili bir zemine yerleştirilecek.",
 	},
 	"crudeOilExtractor_desc_proceduralMap": {
-		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed anywhere.",
+		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
 		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
+		"italian": "Estrae petrolio dal sottosuolo.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
 	},
 	"largeCrudeOilExtractor": {
 		"english": "Large Crude Oil Extractor",
@@ -3292,6 +3286,11 @@
 		"italian": "Estrae petrolio dal sottosuolo.\n\nQuesto edificio deve essere collocato su un <b>terreno scuro e spinoso</b>, che cela un <b>deposito di petrolio</b>.",
 		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nอาคารนี้จะถูกวางไว้บนพื้นมืดและมีหนามแหลมซึ่งปกปิดคราบน้ำมัน",
 		"turkish": "Ham petrolü yeraltından çıkarıyor.\n\nBu bina, bir petrol yatağını gizleyen karanlık, çivili bir zemine yerleştirilecek.",
+	},
+	"largeCrudeOilExtractor_desc_proceduralMap": {
+		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
+		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
+		"italian": "Estrae petrolio dal sottosuolo.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
 	},
 	"stemCellLab": {
 		"english": "Stem Cell Lab",
@@ -3329,8 +3328,9 @@
 		"thai": "ได้มาจากสารเคมีพื้นฐานจากพืชต่างดาวที่มีลักษณะเฉพาะบางชนิด อาคารนี้ควรตั้งอยู่บนทุ่งหญ้าสีแดง",
 	},
 	"chemicalsLab_desc_proceduralMap": {
-		"english": "Derives basic chemicals from some characteristic alien plants.\n\nOn this landing spot, the building can be placed anywhere.",
+		"english": "Derives basic chemicals from some characteristic alien plants.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
 		"german": "Stellt grundlegende Chemikalien aus bestimmten außerirdischen Pflanzen her.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
+		"italian": "Ricava le sostanze chimiche di base da alcune caratteristiche piante aliene.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
 	},
 	"industrialChemicalsLab": {
 		"english": "Industrial Chemicals Lab",
