@@ -4183,4 +4183,7 @@
 		"german": "Mehr Informationen",
 		"italian": "Maggiori informazioni",
 	},
+  "speedUnit": {
+    "english": "tiles / minute",
+  },
 }
