@@ -4165,11 +4165,13 @@
 		"english": "The %booster% has increased the production by %amount%",
 		"german": "%booster% hat die Produktion um %amount% erhöht",
 		"italian": "%booster% ha incrementato la produzione di %amount%",
+		"turkish": "%booster%, üretimi %amount% oranında artırdı",
 	},
 	"trainStationDesc": {
 		"english": "Goods are stored here and shipped with the correct train line at the earliest opportunity.\n\nEach individual load can contain a maximum of 200, 400, or 600 resources depending on the selected traffic difficulty.",
 		"german": "Güter werden hier gelagert und bei der ersten Gelegenheit mit der richtigen Zuglinie ausgeliefert.\n\nJede Zugladung besteht aus maximal 200, 400 oder 600 Güter, je nach gewählter Verkehrsschwierigkeitsstufe.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione.\n\nOgni singolo carico può contenere un massimo di 200, 400 o 600 risorse a seconda della difficoltà di gioco.",
+		"turkish": "Ürünler burada depolanır ve ilk fırsatta doğru tren hattıyla gönderilir.\n\nHer bir yük, seçilen trafik zorluğuna bağlı olarak maksimum 200, 400 veya 600 kaynak içerebilir.",
 	},
 	"powerPanelDesc": {
 		"english": "When the power produced is not enough for the buildings that use it, you will have slowed production.",
@@ -4177,11 +4179,13 @@
 		"italian": "Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
 		"french": "Lorsque l'énergie produite n'est pas suffisante pour les bâtiments qui l'utilisent, il y a ralentissement de la production.",
 	    "chinese": "当生产的电力不足以满足建筑的使用需求时，就会导致生产放缓。",
+		"turkish": "Üretilen güç, onu kullanan binalara yetmediğinde üretimi yavaşlatmış olursunuz.",
 	},
 	"moreInformation": {
 		"english": "More information",
 		"german": "Mehr Informationen",
 		"italian": "Maggiori informazioni",
+		"turkish": "Daha fazla bilgi",
 	},
   "speedUnit": {
     "english": "tiles / minute",

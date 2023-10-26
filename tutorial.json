@@ -1109,6 +1109,7 @@
   	"tutorialMessage_research_title": {
     		"english": "Research",
     		"german": "Forschung",
+			"italian":"Ricerca",
 		"french": "Recherche",
 	  	"thai": "วิจัย",
 	  	"turkish": "Araştırma",
@@ -1117,6 +1118,7 @@
   	"tutorialMessage_research_desc": {
     		"english": "Press this button to open the Tech-Tree.",
       		"german": "Klicke auf diesen Knopf, um den Forschungsbaum zu öffnen.",
+			  "italian":"Clicca questo pulsante per aprire l'albero delle tecnologie.",
 		"french": "Appuyez sur ce bouton pour ouvrir l'arbre technologique.",
 	  	"thai": "กดปุ่มนี้เพื่อเปิดผังวิทยาการ",
 	  	"turkish": "Teknoloji Ağacını açmak için bu düğmeye basın",
@@ -1125,6 +1127,7 @@
   	"tutorialMessage_trains_title": {
     		"english": "Trains Panel",
     		"german": "Zugübersicht",
+			"italian":"Pannello dei Treni",
 		"french": "Menu Trains",
 	  	"turkish": "Tren Paneli",
 		"chinese": "列车面板",
@@ -1133,6 +1136,7 @@
   	"tutorialMessage_trains_desc": {
     		"english": "Press this button to open the Trains Panel.",
     		"german": "Klicke auf diesen Knopf, um die Zugübersicht zu öffnen.",
+			"italian":"Premi questo pulsante per aprire il pannello dei Treni.",
 		"french": "Appuyez sur ce bouton pour ouvrir le Menu Trains.",
 		"turkish": "Tren Panelini açmak için bu düğmeye basın",
 		"chinese": "按此按钮打开列车面板。",
@@ -1141,6 +1145,7 @@
 	"tutorial_avoidLeftTurn": {
 		"english": "Tutorial: Avoid Left Turns!",
 		"german": "Tutorial: Vermeide Linksabbiegen!",
+		"italian":"Tutorial: Evita le svolte a sinistra!",
 		"french": "Tutoriel : Éviter les virages à gauche !",
 		"ukrainian": "Навчання: Уникайте поворотів ліворуч!",
 		"chinese": "教程：避免左转！",
@@ -1150,6 +1155,7 @@
 	"tutorial_configLane": {
 		"english": "Tutorial: Lane Configurations!",
 		"german": "Tutorial: Spurkonfiguration!",
+		"italian":"Tutorial: Configurazione delle corsie!",
 		"french": "Tutoriel : Configuration des voies !",
 		"ukrainian": "Навчання: Конфігурації смуг руху!",
 		"chinese": "教程：车道配置！",
@@ -1159,6 +1165,7 @@
 	"tutorial_createTrainLines": {
 		"english": "Tutorial: Train Lines!",
 		"german": "Tutorial: Zuglinien!",
+		"italian":"Tutorial: Linee ferroviarie!",
 		"french": "Tutoriel : Lignes de train !",
 		"ukrainian": "Навчання: Залізничні лінії!",
 		"chinese": "教程：列车线路！",
@@ -1168,6 +1175,7 @@
 	"tutorial_firstJam": {
 		"english": "Tutorial: Traffic Jams!",
 		"german": "Tutorial: Stau!",
+		"italian":"Tutorial: Ingorghi stradali!",
 		"french": "Tutoriel : Embouteillages !",
 		"ukrainian": "Навчання: Затори на дорогах!",
 		"chinese": "教程：交通堵塞！",
@@ -1177,6 +1185,7 @@
 	"tutorial_gondolas": {
 		"english": "Tutorial: Gondolas!",
 		"german": "Tutorial: Gondeln!",
+		"italian":"Tutorial: Cargo gondola!",
 		"french": "Tutoriel : Nacelles !",
 		"ukrainian": "Навчання: Гондоли!",
 		"chinese": "教程：缆车！",
@@ -1186,6 +1195,7 @@
 	"tutorial_habitatInfoPanel": {
 		"english": "Tutorial: Habitats!",
 		"german": "Tutorial: Habitats!",
+		"italian":"Tutorial: Habitats!",
 		"french": "Tutoriel : Habitats !",
 		"ukrainian": "Навчання: Місця проживання!",
 		"chinese": "教程：生活环境！",
@@ -1195,6 +1205,7 @@
 	"tutorial_highTraffic": {
 		"english": "Tutorial: High Traffic!",
 		"german": "Tutorial: Viel Verkehr!",
+		"italian":"Tutorial: Traffico intenso!",
 		"french": "Tutoriel : Trafic élevé !",
 		"ukrainian": "Навчання: Великий рух!",
 		"chinese": "教程：大量车流！",
@@ -1204,6 +1215,7 @@
 	"tutorial_highwayTownCenter": {
 		"english": "Tutorial: Road Hierachy!",
 		"german": "Tutorial: Straßenhierarchie!",
+		"italian":"Tutorial: Gerarchia stradale!",
 		"french": "Tutoriel : Hiérarchie des routes !",
 		"ukrainian": "Навчання: Дорожня ієрархія!",
 		"chinese": "教程：道路车流！",
@@ -1213,6 +1225,7 @@
 	"tutorial_immigration": {
 		"english": "Tutorial: Immigration!",
 		"german": "Tutorial: Immigration!",
+		"italian":"Tutorial: Immigrazione!",
 		"french": "Tutoriel : Immigration !",
 		"ukrainian": "Навчання: Імміграція!",
 		"chinese": "教程：移民！",
@@ -1222,6 +1235,7 @@
 	"tutorial_incomingStorageEmpty": {
 		"english": "Tutorial: Incoming Storage Empty!",
 		"german": "Tutorial: Hereinkommendes Lager leer!",
+		"italian":"Tutorial: Magazzino in entrata vuoto!",
 		"french": "Tutoriel : Stockage entrant vide !",
 		"ukrainian": "Навчання: Вхідне сховище порожнє!",
 		"chinese": "教程：输入库存为空！",
@@ -1231,6 +1245,7 @@
 	"tutorial_outgoingStorageFull": {
 		"english": "Tutorial: Outgoing Storage Full!",
 		"german": "Tutorial: Ausgehendes Lager voll!",
+		"italian":"Tutorial: Magazzino in uscita pieno!",
 		"french": "Tutoriel : Stockage sortant plein !",
 		"ukrainian": "Навчання: Математика смуг!",
 		"chinese": "教程：输出库存已满！",
@@ -1240,6 +1255,7 @@
 	"tutorial_laneMath": {
 		"english": "Tutorial: Lane Math!",
 		"german": "Tutorial: Spuren!",
+		"italian":"Tutorial: Matematica delle corsie!",
 		"french": "Tutoriel : Voies !",
 		"ukrainian": "Навчання: Дорожні знаки",
 		"chinese": "教程：车道搭配！",
@@ -1249,6 +1265,7 @@
 	"tutorial_pipes": {
 		"english": "Tutorial: Pipes!",
 		"german": "Tutorial: Rohre!",
+		"italian":"Tutorial: Tubazioni!",
 		"french": "Tutoriel : Tuyaux !",
 		"ukrainian": "Навчання: Труби",
 		"chinese": "教程：管道！",
@@ -1258,6 +1275,7 @@
 	"tutorial_trafficSign": {
 		"english": "Tutorial: Traffic Signs!",
 		"german": "Tutorial: Verkehrsschilder!",
+		"italian":"Tutorial: Segnali stradali!",
 		"french": "Tutoriel : Signalisation !",
 		"ukrainian": "Навчання: Дорожні знаки!",
 		"chinese": "教程：交通信号！",
@@ -1267,6 +1285,7 @@
 	"tutorial_trafficLight": {
 		"english": "Tutorial: Traffic Lights!",
 		"german": "Tutorial: Ampeln!",
+		"italian":"Tutorial: Semafori!",
 		"french": "Tutoriel : Feux de circulation !",
 		"ukrainian": "Навчання: Світлофори!",
 		"chinese": "教程：交通灯！",
@@ -1276,6 +1295,7 @@
 	"tutorial_trainSignalInterpret": {
 		"english": "Tutorial: Train Signals!",
 		"german": "Tutorial: Zugsignale!",
+		"italian":"Tutorial: Segnalazione dei treni!",
 		"french": "Tutoriel : Signaux de train !",
 		"ukrainian": "Навчання: Сигнали!",
 		"chinese": "教程：列车信号！",
@@ -1285,6 +1305,7 @@
 	"tutorial_trains": {
 		"english": "Tutorial: Trains!",
 		"german": "Tutorial: Züge!",
+		"italian":"Tutorial: Treni!",
 		"french": "Tutoriel : Trains !",
 		"ukrainian": "Навчання: Поїзди!",
 		"chinese": "教程：列车！",
