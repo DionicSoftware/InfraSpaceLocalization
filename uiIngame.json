@@ -4190,4 +4190,10 @@
   "speedUnit": {
     "english": "tiles / minute",
   },
+  "pipetteTitle": {
+    "english": "Building Pipette",
+  },
+  "pipetteDesc": {
+    "english": "With the Pipette tool you can easily copy buildings. The default hotkey for the tool is the G button.",
+  },
 }
