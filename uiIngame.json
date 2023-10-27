@@ -4187,13 +4187,16 @@
 		"italian": "Maggiori informazioni",
 		"turkish": "Daha fazla bilgi",
 	},
-  "speedUnit": {
+  "speedUnit": { // instead of "tile", you can also translate as "unit"
     "english": "tiles / minute",
+	"german": "Einheiten / Minute",
   },
   "pipetteTitle": {
     "english": "Building Pipette",
+	"german": "Gebäudepipette",
   },
   "pipetteDesc": {
     "english": "With the Pipette tool you can easily copy buildings. The default hotkey for the tool is the G button.",
+	"german": "Mit der Pipette kannst du Gebäude einfach kopieren. Das Standard-Tastenkürzel dafür ist G.",
   },
 }
