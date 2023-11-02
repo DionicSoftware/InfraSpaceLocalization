@@ -4190,13 +4190,20 @@
   "speedUnit": { // instead of "tile", you can also translate as "unit"
     "english": "tiles / minute",
 	"german": "Einheiten / Minute",
+	"italian": "Caselle / minuto",
   },
   "pipetteTitle": {
     "english": "Building Pipette",
 	"german": "Gebäudepipette",
+	"italian": "Contagocce per edifici",
   },
   "pipetteDesc": {
     "english": "With the Pipette tool you can easily copy buildings. The default hotkey for the tool is the G button.",
 	"german": "Mit der Pipette kannst du Gebäude einfach kopieren. Das Standard-Tastenkürzel dafür ist G.",
+	"italian": "Con il contagocce puoi copiare facilmente gli edifici. Il tasto di scelta rapida di default è \"G\".",
+  },
+  "singleLoadTooltipDesc": {
+    "english": "Maximum capacity for each individual train or gondola. Depends on the difficulty of the game.",
+	"italian": "Capacità massima per ogni singolo treno o gondola. Dipende dalla difficoltà di gioco.",
   },
 }
