@@ -1242,6 +1242,11 @@
 		"thai": "เรารักวิทยาศาสตร์!\n\nในห้องปฏิบัติการวิจัย มีการพัฒนาเทคโนโลยีใหม่ๆ\nหากต้องการเลือกการวิจัย ให้คลิกไอคอนกล้องจุลทรรศน์ที่ด้านซ้ายบนของหน้าจอ",
 		"turkish": "Bilimi seviyoruz!\n\nAraştırma laboratuvarında yeni teknolojiler geliştirilmektedir.\n\nBir araştırma seçmek için ekranın sol üst köşesindeki mikroskop simgesine tıklayın.",
 	},
+	"researchLab_descAdditional": {
+		"english": "In the research laboratory, new technologies are developed.",
+		"german": "Im Forschungslaboer werden neue Technologien entwickelt.",
+		"italian": "Nel laboratorio di ricerca si sviluppano nuove tecnologie.",
+	},
 	"storehouseSmall": {
 		"english": "Small Construction Material Storage",
 		"german": "Kleines Baumateriallager",
@@ -1382,6 +1387,11 @@
 		"italian": "Riciclare è importante!\n\nQuesto edificio consente una produzione <b>senza consumare risorse</b> una volta ogni <b>cinque cicli produttivi</b>.\n\nSi applica alle industrie dell'area circostante che supportano questo miglioramento.",
 		"thai": "การรีไซเคิลเป็นสิ่งสำคัญ!\n\nอาคารหลังนี้ช่วยให้สามารถผลิตโดยไม่ต้องใช้ทรัพยากรทุกๆ ห้ารอบการผลิต โดยนำไปใช้กับอุตสาหกรรมในพื้นที่โดยรอบที่สนับสนุนการปรับปรุงนี้",
 	},
+	"recyclingCenter_descAdditional": {
+		"english": "This building enables resource-free production once in every five production cycles. It applies to industries in the surrounding area that support this improvement.",
+		"german": "Mit diesem Gebäude in der Nähe verbrauchen umliegende Fabriken in jedem fünften Produktionszyklus keine Ressources.",
+		"italian": "Questo edificio consente una produzione senza consumare risorse una volta ogni cinque cicli produttivi. Si applica alle industrie dell'area circostante che supportano questo miglioramento.",
+	},
 	"soilEnrichmentFacility": {
 		"english": "Soil Enrichment Facility",
 		"german": "Erdanreicherungsanlage",
@@ -1414,6 +1424,11 @@
 		"german": "Bodenqualität macht einen Unterschied.\n\nDiese Gebäude <b>erhöht die Produktionsgeschwindigkeit</b> von Farmen im umliegenden Gebiet.",
 		"italian": "La qualità del terreno fa la differenza.\n\nQuesto edificio <b>aumenta la velocità di produzione</b> del 50%.\n\nSi applica alle fattorie nell'area circostante.",
 		"thai": "คุณภาพดินสร้างความแตกต่าง อาคารนี้เพิ่มความเร็วในการผลิต 50% ใช้กับฟาร์มในพื้นที่โดยรอบ",
+	},
+	"soilEnrichmentFacility_descAdditional": {
+		"english": "This building increases production speed by 50%. It applies to farms in the surrounding area.",
+		"german": "Diese Gebäude erhöht die Produktionsgeschwindigkeit von Farmen im umliegenden Gebiet.",
+		"italian": "Questo edificio aumenta la velocità di produzione del 50%. Si applica alle fattorie nell'area circostante.",
 	},
 	"airProcessor": {
 		"english": "Atmosphere Processor",
@@ -1865,6 +1880,11 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 	},
+	"park_descAdditional": {
+		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
+		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
+		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+	},
 	"decorativePark1": {
 		"english": "Classic Park",
 		"german": "Klassischer Park",
@@ -1882,6 +1902,11 @@
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
+	},
+	"decorativePark1_descAdditional": {
+		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
+		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
+		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 	},
 	"decorativePark2": {
 		"english": "Modern Park",
@@ -1901,6 +1926,11 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 	},
+	"decorativePark2_descAdditional": {
+		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
+		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
+		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+	},
 	"decorativePark3": {
 		"english": "Small Modern Park",
 		"german": "Kleiner moderner Park",
@@ -1916,6 +1946,11 @@
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
+	},
+	"decorativePark3_descAdditional": {
+		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
+		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
+		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 	},
 	"decorativePark4": {
 		"english": "Small Classic Park",
@@ -1934,6 +1969,11 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 	},
+	"decorativePark4_descAdditional": {
+		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
+		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
+		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+	},
 	"decorativePark5": {
 		"english": "Classic Mini-Park",
 		"german": "Klassischer Mini-Park",
@@ -1950,6 +1990,11 @@
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
+	},
+	"decorativePark5_descAdditional": {
+		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
+		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
+		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 	},
 	"arena": {
 		"english": "Stadium",
@@ -1984,6 +2029,11 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
 	},
+	"arena_descAdditional": {
+		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
+		"german": "Das Unterhaltungszentrum für jung und alt!\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
+		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
+	},
 	"theater": {
 		"english": "Theater",
 		"german": "Theater",
@@ -1998,6 +2048,11 @@
 		"german": "Das Unterhaltungszentrum für jung und alt!\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
+	},
+	"theater_descAdditional": {
+		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
+		"german": "Das Unterhaltungszentrum für jung und alt!\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
+		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 	},
 	"holoCinema": {
 		"english": "Holo Cinema",
@@ -2017,6 +2072,11 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
 	},
+	"holoCinema_descAdditional": {
+		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
+		"german": "Das Unterhaltungszentrum für jung und alt!\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
+		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
+	},
 	"sportCenter": {
 		"english": "Sport Center",
 		"german": "Sportzentrum",
@@ -2033,6 +2093,11 @@
 		"german": "Workouts können Spaß machen! Sagt man zumindest...\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Allenarsi è divertente! Così dicono.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "พวกเขาพูดกันว่าการออกกำลังกายก็เป็นเรื่องที่สนุกได้!\n\nทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 5",
+	},
+	"sportCenter_descAdditional": {
+		"english": "Working out can be fun! So they say...\n\n<b>Needed for habitats at level 5</b>.",
+		"german": "Workouts können Spaß machen! Sagt man zumindest...\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
+		"italian": "Allenarsi è divertente! Così dicono.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 	},
 	"school": {
 		"english": "School",
@@ -2067,6 +2132,11 @@
 		"italian": "Mantiene alto il livello di educazione.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 6</b>",
 	},
+	"school_descAdditional": {
+		"english": "It keeps the level of education high.\n\n<b>Needed for habitats at level 6</b>.",
+		"german": "Sorgt für ein gutes Bildungsniveau.\n\n<b>Benötigt für Wohngebäude der Stufe 6</b>.",
+		"italian": "Mantiene alto il livello di educazione.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
+	},
 	"kindergarten": {
 		"english": "Kindergarten",
 		"german": "Kindergarten",
@@ -2081,6 +2151,11 @@
 		"german": "Sorgt für ein gutes Bildungsniveau.\n\nÖffentliche Gebäude können von den umliegenden Wohngebäuden genutzt werden.\n\n<b>Benötigt für Wohngebäude der Stufe 6</b>.",
 		"italian": "Mantiene alto il livello di educazione.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\nอาคารสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 6</b>",
+	},
+	"kindergarten_descAdditional": {
+		"english": "It keeps the level of education high.\n\n<b>Needed for habitats at level 6</b>.",
+		"german": "Sorgt für ein gutes Bildungsniveau.\n\n<b>Benötigt für Wohngebäude der Stufe 6</b>.",
+		"italian": "Mantiene alto il livello di educazione.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 	},
 	"oxygenTank": {
 		"english": "Oxygen Tank",
@@ -2652,6 +2727,10 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>un binaro unidirezionale</b>.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว\n\nหากต้องการจัดการรถไฟ ให้คลิกไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 	},
+	"trainstation_1R_descAdditional": {
+		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+	},
 	"trainstation_2R": {
 		"english": "Small Train Station",
 		"german": "Kleiner Bahnhof",
@@ -2680,6 +2759,10 @@
 		"german": "Güter, die mit einem Zug befördert werden, können hier beladen und entladen werden. Diese Station hat <b>zwei Gleise</b>, eines für jede Richtung.\n\nUm Züge zu konfigurieren, klicke auf das <b>Zugicon</b> an der linken Seite des Bildschirms.",
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>due binari unidirezionali</b>, uno per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียวสองราง หนึ่งรางสำหรับแต่ละทิศทาง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
+	},
+	"trainstation_2R_descAdditional": {
+		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 	},
 	"trainstation_4R": {
 		"english": "Medium Train Station",
@@ -2710,6 +2793,10 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>quattro binari unidirezionali</b>, due per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว 4 ราง รางละ 2 รางสำหรับแต่ละทิศทาง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 	},
+	"trainstation_4R_descAdditional": {
+		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+	},
 	"trainstation_6R": {
 		"english": "Large Train Station",
 		"german": "Großer Bahnhof",
@@ -2738,6 +2825,10 @@
 		"german": "Güter, die mit einem Zug befördert werden, können hier beladen und entladen werden. Diese Station hat <b>sechs Gleise</b>, drei für jede Richtung.\n\nUm Züge zu konfigurieren, klicke auf das <b>Zugicon</b> an der linken Seite des Bildschirms.",
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>sei binari unidirezionali</b>, tre per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว 6 ราง รางละ 2 รางสำหรับแต่ละทิศทาง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
+	},
+	"trainstation_6R_descAdditional": {
+		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 	},
 	"trainstation_8R": {
 		"english": "Main Train Station",
@@ -2768,6 +2859,10 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>otto binari unidirezionali</b>, quattro per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว 8 ราง โดยแต่ละทิศทางมี 4 ราง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 	},
+	"trainstation_8R_descAdditional": {
+		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+	},
 	"gondolaStation": { // cargo gondola, cargo elevator
 		"english": "Cargo gondola",
 	 "czech": "Nákladní gondola",
@@ -2789,6 +2884,10 @@
 		"german": "Verwende den Lastenaufzug, um <b>Güter über schweres Terrain zu befördern</b>. Die beiden Stationen müssen sich gegenüber stehen, damit sie mit Drahtseilen verbunden werden können.",
 		"italian": "Utilizza la cabinovia per <b>trasportare le risorse lungo i pendii</b>. Le due stazioni devono essere posizionate una di fronte all'altra per far sì che i cavi si connettano.",
 		"thai": "ใช้กระเช้าลอยฟ้าบรรทุกสินค้าเพื่อขนส่งทรัพยากรขึ้นและลงทางลาดชัน ต้องวางทั้งสองสถานีไว้ด้านหน้ากัน",
+	},
+	"gondolaStation_descAdditional": {
+		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 	},
 	"gondolaStationPole": {
 	  "english": "Gondola Lift Pole",
