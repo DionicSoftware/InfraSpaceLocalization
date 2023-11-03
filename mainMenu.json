@@ -1901,6 +1901,7 @@
 	"pan": {
 		"english": "Mouse Dragging",
 		"german": "Mausziehen",
+		"french": "Glisser la souris",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -4447,25 +4448,23 @@
 		"chinese": "作弊",
 		"thai": "สูตรโกง",
 	},
-	// TODO-french
 	// TODO-chinese
 	// TODO-turkish
 	"mapSelect": {
 		"english": "Choose a Landing Spot",
 		"german": "Wähle einen Landeplatz",
-		"french": "Choisir une carte",
+		"french": "Choisir un lieu d'atterrissage",
 		"italian": "Scegli una zona di atterraggio",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
 		"thai": "เลือกจุดลงจอด",
 	},
-	// TODO-french
 	// TODO-chinese
 	// TODO-turkish
 	"mapSelection_title": {
 		"english": "Choose a Landing Spot",
 		"german": "Wähle einen Landeplatz",
-		"french": "Choisir une carte",
+		"french": "Choisir un lieu d'atterrissage",
 		"italian": "Scegli una zona di atterraggio",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
@@ -4590,6 +4589,7 @@
 	"animations": {
 		"english": "Animations",
 		"german": "Animationen",
+		"french": "Animations",
 		"thai": "ภาพเคลื่อนไหว",
 		"chinese": "动画",
         "italian": "Animazioni",
@@ -4678,6 +4678,7 @@
 	"graphicsQualityVeryHigh": {
 		"english": "Very High",
 		"german": "Sehr hoch",
+		"french": "Très élevée",
 		"chinese": "极高",
 		"turkish": "Çok yüksek",
 		"thai": "สูงมาก",
@@ -4687,6 +4688,7 @@
 	"graphicsPreset": {
 		"english": "Graphics Preset",
 		"german": "Grafikvoreinstellung",
+		"french": "Préréglage graphique",
 		"chinese": "图像预设",
 		"turkish": "Grafik Ön Ayarı",
 		"thai": "ค่าที่ตั้งไว้ล่วงหน้าของกราฟิก",
@@ -4695,6 +4697,7 @@
 	"advancedGraphicsSettings": { // "advanced" or "more", don't make it too long
 		"english": "Advanced Graphics Settings",
 		"german": "Weitere Grafikoptionen",
+		"french": "Paramètres graphiques avancés",
 		"chinese": "高级图像设置",
 		"turkish": "Gelişmiş Grafik Ayarları",
 		"thai": "การตั้งค่ากราฟิกขั้นสูง",
@@ -4703,18 +4706,21 @@
 	"activeGPU": {
 		"english": "Active GPU",
 		"german": "Aktive Grafikkarte",
+		"french": "GPU actif",
 		"turkish": "Aktif GPU",
         "italian": "GPU attiva",
 	},
 	"detectedGraphicsCards": {
 		"english": "Detected graphics cards:",
 		"german": "Entdeckte Grafikkarten:",
+		"french": "Cartes graphiques détectées :",
 		"turkish": "Algılanan grafik kartları:",
         "italian": "Scheda grafica rilevata:",
 	},
 	"youMightBeUsingIntegratedGPU": {
 		"english": "You might be using an integrated graphics card! Switch to your dedicated graphics card for better performance.",
 		"german": "Es kann sein, dass du eine integrierte Grafikkarte verwendest! Wechsle zu deiner dedizierten Grafikkarte, um bessere Spieleperformance zu erreichen.",
+		"french": "Vous utilisez peut-être une carte graphique intégrée ! Passez à une carte graphique dédiée pour de meilleures performances.",
 		"turkish": "Entegre bir grafik kartı kullanıyor olabilirsiniz! Daha iyi performans için özel grafik kartınıza geçin.",
         "italian": "Sembra che tu stia utilizzando una scheda grafica integrata! Passa alla tua scheda grafica dedicata per una migliore performance.",
 	},

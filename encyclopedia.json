@@ -277,7 +277,7 @@
   },
   //TODO-german click on the magnifying glass instead of arrow
   //TODO-french
-  //TODO-german 
+  //TODO-german
   //TODO-chinese
   //TODO-thai
   "outgoingStorageFullSecondTutorialParagraph": {
@@ -353,8 +353,9 @@
   },
   "immigrationSecondTutorialParagraph": {
     "english": "Habitats continue to demand new immigrants until they are full. To get more workers, improve them or build more!\n\nTo improve a habitat, one must ensure a supply that meets basic needs and additional needs. For example, to improve basic habitat, you need to ensure oxygen, but also water and survival food.\n\nIf even the basic requirements are not met, the habitat will deteriorate. This results in the loss of workers in case the habitat used to accommodate more than it can accommodate now.",
+    "french": "Les habitats continuent à demander de nouveaux immigrants jusqu'à ce qu'ils soient pleins. Pour obtenir plus de travailleurs, améliorez-les ou construisez-en davantage !\n\nPour améliorer un habitat, il faut assurer un approvisionnement qui réponde aux besoins de base et aux besoins complémentaires. Par exemple, pour améliorer l'habitat de base, il faut assurer l'oxygène, mais aussi l'eau et la nourriture de survie.\n\nSi même les exigences de base ne sont pas satisfaites, l'habitat se détériore. Cela entraîne la perte de travailleurs si l'habitat accueillait plus de personnes qu'il ne peut en accueillir aujourd'hui.",
     "italian": "Gli habitat continuano a richiedere nuovi immigrati finché non saranno pieni. Per avere più lavoratori, migliorali o costruiscine di più!\n\nPer migliorare un habitat, bisogna garantire una fornitura che soddisfi i bisogni di base e i bisogni aggiuntivi. Per esempio, per migliorare l'habitat di base, bisognerà garantire ossigeno, ma anche acqua e cibo di sopravvivenza.\n\nSe i nemmeno i requisiti di base sono soddisfatti, l'habitat peggiorerà. Questo comporta la perdita di lavoratori nel caso che l'habitat ne ospitava di più di quanti può accoglierne adesso.",
-  }, 
+  },
   "productionOverviewTutorialTitle": {
     "english": "Production overview",
     "german": "Produktionsübersicht",
@@ -472,6 +473,7 @@
   "spaceshipRepairTutorialTitle": {
     "english": "Spaceship repair",
     "german": "Reparatur des Raumschiffs",
+    "french": "Réparation du vaisseau spatial",
     "italian": "Riparazione della nave spaziale",
     "thai": "การซ่อมแซมยานอวกาศ",
     "turkish": "Uzay gemisi onarımı",
@@ -479,6 +481,7 @@
   "spaceshipRepairFirstTutorialParagraph": {
     "english": "Repairing the spaceship Antares must be done in stages, and for each element you manage to repair you will get a bonus. To repair the spacecraft, you need a Spaceship Construction Facility, which you can find in the \"Transport\" category.",
     "german": "Das Raumschiff Antares wird in mehreren Stufen repariert. Mit jedem reparierten Bauteil schaltest du einen Bonus frei. Um mit der Reparatur zu beginnen, brauchst du die Raumschiffswerft, welche du in der Kategorie \"Transport\" finden kannst.",
+    "french": "La réparation du vaisseau Antares doit se faire par étapes, et pour chaque élément que vous réussirez à réparer, vous obtiendrez un bonus. Pour réparer le vaisseau spatial, vous avez besoin d'une installation de construction de vaisseaux spatiaux, que vous pouvez trouver dans la catégorie \"Transport\".",
     "italian": "La riparazione della nave spaziale Antares deve essere effettuata in fasi, e per ogni elemento che riuscirai a riparare otterrai un bonus. Per riparare la nave spaziale, hai bisogno dell'Impianto per la costruzione della Nave Spaziale, che puoi trovare nella categoria \"Trasporti\"",
     "thai": "การซ่อมยานอวกาศอันทาเรสจะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\"",
     "turkish": "Antares uzay gemisinin onarımı aşamalı olarak yapılmalıdır ve onarmayı başardığınız her öğe için bir bonus alacaksınız. Uzay aracını onarmak için \"Ulaşım\" kategorisinde bulabileceğiniz bir Uzay Gemisi İnşaat Tesisine ihtiyacınız var.",
@@ -486,6 +489,7 @@
   "spaceshipRepairSecondTutorialParagraph": {
     "english": "To select a component to repair, open the Antares menu at the top left of the screen, clicking on the spaceship icon. Each repair will need many specific resources and will offer a bonus when completed. Select the one you want to start with and click on \"Repair\".",
     "german": "Um ein Bauteil zur Reparatur auszuwählen musst du das Raumschiffmenü mit dem Knopf links oben auf dem Bildschirm öffnen. Jede Reparatur benötigt bestimmte Materialien und gibt einen bestimmten Bonus. Wähle ein Bauteil zur Reperatur aus und klicke auf \"Reparieren\".",
+    "french": "Pour sélectionner un composant à réparer, ouvrez le menu Antares en haut à gauche de l'écran, en cliquant sur l'icône du vaisseau spatial. Chaque réparation nécessitera plusieurs ressources spécifiques et offrira un bonus lorsqu'elle sera terminée. Sélectionnez celui par lequel vous voulez commencer et cliquez sur \"Réparer\".",
     "italian": "Per selezionare una riparazione, apri il menu di Antares in alto a sinistra dello schermo, cliccando sull'icona della nave spaziale. Ogni riparazione richiederà diverse specifiche risorse e offrirà un bonus una volta completata. Seleziona quella con cui desideri iniziare e clicca su \"Ripara\"",
     "thai": "หากต้องการเลือกการซ่อมแซม ให้เปิดเมนูอันทาเรสที่ด้านซ้ายบนของหน้าจอ โดยคลิกที่ไอคอนยานอวกาศ การซ่อมแซมแต่ละครั้งจะต้องใช้ทรัพยากรเฉพาะจำนวนมาก และจะมอบโบนัสเมื่อเสร็จสิ้น เลือกอันที่คุณต้องการเริ่มต้นและคลิกที่ \"ซ่อมแซม\"",
     "turkish": "Bir onarım seçmek için ekranın sol üst köşesindeki Antares menüsünü açın ve uzay gemisi simgesine tıklayın. Her onarım birçok özel kaynağa ihtiyaç duyacak ve tamamlandığında bir bonus sunacaktır. Başlamak istediğinizi seçin ve \"Onar\"a tıklayın.",
@@ -493,6 +497,7 @@
   "spaceshipRepairThirdTutorialParagraph": {
     "english": "Once the component to repair is selected, the Spaceship Construction Facility will request the necessary resources to ship them to Antares.\n\nNote: building multiple Spaceship Construction Facilities does not allow you to select multiple repairs at once.",
     "german": "Sobald ein Bauteil zur Reparatur ausgewählt wurde, fängt die Raumschiffswerft an, die notwendigen Materialien anzuforden und zu Antares zu schicken.\n\nInfo: Du kannst nur ein Bauteil gleichzeitig reparieren. Das Bauen von mehreren Raumschiffswerften ändert das nicht.",
+    "french": "Une fois le composant à réparer sélectionné, l'installation de construction de vaisseaux spatiaux demandera les ressources nécessaires pour les acheminer vers Antares.\n\nRemarque : la construction de plusieurs installations de construction de vaisseaux spatiaux ne vous permet pas de sélectionner plusieurs réparations à la fois.",
     "italian": "Una volta selezionata la riparazione, l'Impianto per la costruzione della Nave Spaziale richiederà le risorse necessarie per inviarle ad Antares.\n\nNota: la costruzione di più Impianti per la costruzione della Nave Spaziale non ti consente di selezionare più riparazioni contemporaneamente.",
     "thai": "เมื่อเลือกการซ่อมแซมแล้ว สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศจะขอทรัพยากรที่จำเป็นเพื่อจัดส่งไปยังอันทาเรส\n\nหมายเหตุ: การสร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศหลายรายการไม่อนุญาตให้คุณเลือกการซ่อมแซมหลายรายการในคราวเดียว",
     "turkish": "Onarım seçildikten sonra, Uzay Gemisi İnşaat Tesisi bunları Antares'e göndermek için gerekli kaynakları isteyecektir.\n\nNot: birden fazla Uzay Gemisi İnşaat Tesisi inşa etmek aynı anda birden fazla onarımı seçmenize izin vermez.",
@@ -501,6 +506,7 @@
   "spaceshipRepairFourthTutorialParagraph": {
     "english": "Tip: keep in mind that for the complete repair of Antares you will need all kinds of resources. You can choose to place the Spaceship Construction Facility in a focal point, or move/rebuild the building to another area once a repair is complete. You can also direct the desired resources through districts or distribution centers. To learn more, see the encyclopedia's \"Districts\" and \"Distribution centers\" articles.",
     "german": "Tipp: Bedenke, dass du für die vollständige Reparatur von Antares viele verschiedene Güter benötigen wirst. Du kannst die Raumschiffswerft im Zentrum der Stadt bauen oder sie nach der Reparatur eines Bauteils verschieben. Du kannst außerdem Bezirke und Verteilzentren verwenden um die Verteilung von Ressourcen nach deinen Wünschen zu lenken. Mehr Informationen findest du in den Enzyklopädiekapiteln \"Bezirke\" und \"Verteilzentren\".",
+    "french": "Conseil : gardez à l'esprit que pour la réparation complète d'Antarès, vous aurez besoin de toutes sortes de ressources. Vous pouvez choisir de placer l'usine de construction de vaisseaux spatiaux dans un point central, ou de déplacer/reconstruire le bâtiment dans une autre zone une fois la réparation terminée. Vous pouvez également diriger les ressources souhaitées vers des districts ou des centres de distribution. Pour en savoir plus, voir les articles \"Quartiers\" et \"Centres de distribution\" de l'encyclopédie.",
     "italian": "Suggerimento: tieni presente che per la completa riparazione di Antares avrai bisogno di tante risorse differenti. Puoi scegliere di posizionare l'Impianto per la costruzione della Nave Spaziale in un punto nevralgico o spostarla/ricostruirla in un'altra area, una volta completata una riparazione. Puoi anche indirizzare le risorse desiderate attraverso distretti o centri di distribuzione. Per saperne di più, consulta le voci \"Distretti\" e \"Centri di distribuzione\" dell'enciclopedia.",
     "thai": "เคล็ดลับ: โปรดจำไว้ว่าสำหรับการซ่อมแซมอันทาเรสโดยสมบูรณ์คุณจะต้องมีทรัพยากรทุกประเภท คุณสามารถเลือกวางสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศไว้ในจุดโฟกัส หรือย้าย/สร้างอาคารใหม่ไปยังพื้นที่อื่นได้เมื่อการซ่อมแซมเสร็จสิ้น คุณยังสามารถสร้างสิ่งอำนวยความสะดวกการก่อสร้างยานอวกาศหลายแห่งและควบคุมทรัพยากรที่ต้องการผ่านเขตหรือศูนย์กระจายสินค้า หากต้องการเรียนรู้เพิ่มเติม โปรดดูบทความ \"เขต\" และ \"ศูนย์กระจายสินค้า\" ของสารานุกรม",
     "turkish": "Tavsiye: Antares'in tamamen onarılması için her türlü kaynağa ihtiyacınız olacağını unutmayın. Uzay Gemisi İnşaat Tesisini bir odak noktasına yerleştirmeyi veya onarım tamamlandıktan sonra binayı başka bir alana taşımayı/yeniden inşa etmeyi seçebilirsiniz. Ayrıca birden fazla Uzay Gemisi İnşaat Tesisi inşa edebilir ve istediğiniz kaynakları bölgeler veya dağıtım merkezleri aracılığıyla yönlendirebilirsiniz. Daha fazla bilgi edinmek için ansiklopedideki \"Bölgeler\" ve \"Dağıtım merkezleri\" makalelerine bakın.",
@@ -508,6 +514,7 @@
   "targetingStationTutorialTitle": {
     "english": "Laser Targeting Station",
     "german": "Laserzielstation",
+    "french": "Station de ciblage laser",
     "italian": "Stazione di puntamento laser",
     "thai": "สถานีกำหนดเป้าหมายด้วยเลเซอร์",
     "turkish": "Lazer Hedefleme İstasyonu",
@@ -515,6 +522,7 @@
   "targetingStationFirstTutorialParagraph": {
     "english": "Among the available repairs to the Antares spacecraft is the Laser Cannon. This repair unlocks the ability to remove certain plants, rocks or resources from the game by means of a powerful laser!\n\nOnce the Antares Laser Cannon repair is completed, place the Laser Targeting Station. It is located in the \"Miscellaneous\" category.\n\nTo learn more about the Antares spacecraft repair, see the \"Spaceship repair\" article in the encyclopedia.",
     "german": "Die Laserkanone ist eines der zu reparierenden Komponenten von Antares. Nach der Reparatur kannst du mit dem mächtigen Laser Pflanzen, Felsen und Ressourcen neben deiner Stadt entfernen!\n\nWenn die Reparatur fertiggestellt ist, musst du noch die Laserzielstation platzieren. Du findest sie in der Kategorie \"Sonstiges\".\n\nMehr Informationen zur Reparatur von Raumschiffteilen findest du im Artikel \"Reperatur des Raumschiffs\".",
+    "french": "Parmi les réparations disponibles pour le vaisseau spatial Antares, il y a le canon laser. Cette réparation permet d'éliminer certaines plantes, roches ou ressources de la partie à l'aide d'un puissant laser !\n\nUne fois la réparation du canon laser Antares terminée, placez la station de ciblage laser. Elle se trouve dans la catégorie \"Divers\".\n\nPour en savoir plus sur la réparation du vaisseau spatial Antares, voir l'article \"Réparation du vaisseau spatial\" de l'encyclopédie.",
     "italian": "Tra le riparazioni disponibili per la nave spaziale Antares c'è il Cannone Laser. Questa riparazione sblocca la capacità di rimuovere certe piante, rocce o risorse dal gioco mediante un potente raggio laser!\n\nUna volta completata la riparazione del Cannone Laser Antares, posiziona la Stazione di puntamento laser. Si trova nella categoria \"Varie\" e non ha bisogno di lavoratori, alimentazione o accesso stradale.\n\nPer saperne di più sulla riparazione della nave spaziale Antares, consulta la voce \"Riparazione della nave spaziale\" nell'enciclopedia.",
     "thai": "การซ่อมแซมยานอวกาศอันทาเรสที่มีอยู่คือ Laser Cannon การซ่อมแซมนี้จะปลดล็อกความสามารถในการกำจัดต้นไม้ หิน หรือทรัพยากรบางอย่างออกจากเกมด้วยเลเซอร์อันทรงพลัง!\n\nเมื่อการซ่อมแซมปืนใหญ่เลเซอร์ Antares เสร็จสิ้น ให้วางสถานีกำหนดเป้าหมายด้วยเลเซอร์ ตั้งอยู่ในหมวดหมู่ \"เบ็ดเตล็ด\" และไม่จำเป็นต้องมีคนงาน ไฟฟ้า หรือถนน\n\nหากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการซ่อมยานอวกาศอันทาเรสโปรดดูบทความ \"การซ่อมแซมยานอวกาศ\" ในสารานุกรม",
     "turkish": "Antares uzay aracının mevcut onarımları arasında Lazer Topu da bulunmaktadır. Bu onarım, belirli bitkileri, kayaları veya kaynakları güçlü bir lazer aracılığıyla oyundan kaldırma yeteneğinin kilidini açar!\n\nAntares Lazer Topu onarımı tamamlandığında, Lazer Hedefleme İstasyonunu yerleştirin. \"Çeşitli\" kategorisinde yer alır ve işçiye, enerjiye veya yol erişimine ihtiyaç duymaz.\n\nAntares uzay aracı onarımı hakkında daha fazla bilgi edinmek için ansiklopedideki \"Uzay gemisi onarımı\" makalesine bakın.",
@@ -522,6 +530,7 @@
   "targetingStationSecondTutorialParagraph": {
     "english": "By clicking on the building, you can select the obstacles you wish to eliminate. The laser is not immediate, and you can stop the operation at any time before the laser destroys the selected rock, resource, or plant.\n\nWarning: the process is not reversible, so think twice before eliminating resources!",
     "german": "Wenn du auf das Gebäude klickst, kannst du auswählen, welche Hindernisse du entfernen willst. Der Laser braucht für das zerstückeln einige Zeit und du kannst die Arbeit jederzeit abbrechen.\n\nWarnung: Du kannst die Zerstörung nicht rückgängig machen, also überlege es dir vorher gut!",
+    "french": "En cliquant sur le bâtiment, vous pouvez sélectionner les obstacles que vous souhaitez éliminer. Le laser n'est pas immédiat et vous pouvez interrompre l'opération à tout moment avant que le laser ne détruise la roche, la ressource ou la plante sélectionnée.\n\nAttention : le processus n'est pas réversible, il faut donc réfléchir à deux fois avant d'éliminer des ressources !",
     "italian": "Cliccando sull'edificio, puoi selezionare gli elementi che desideri eliminare. Il laser non è immediato, e puoi interrompere l'operazione in qualsiasi momento prima che il laser distrugga la roccia, la risorsa o la pianta selezionata.\n\nAttenzione: il processo non è reversibile, quindi rifletti attentamente prima di eliminare risorse!",
     "thai": "เมื่อคลิกที่สิ่งปลูกสร้าง คุณสามารถเลือกองค์ประกอบที่คุณต้องการกำจัดได้ เลเซอร์ไม่ได้เกิดขึ้นทันที และคุณสามารถหยุดการทำงานได้ตลอดเวลาก่อนที่เลเซอร์จะทำลายหิน ทรัพยากร หรือพืชที่เลือก\n\nคำเตือน: กระบวนการนี้ไม่สามารถย้อนกลับได้ ดังนั้นควรคิดให้รอบคอบก่อนจะกำจัดทรัพยากร!",
     "turkish": "Binanın üzerine tıklayarak ortadan kaldırmak istediğiniz unsurları seçebilirsiniz. Lazer anında gerçekleşmez ve lazer seçilen kayayı, kaynağı veya bitkiyi yok etmeden önce işlemi istediğiniz zaman durdurabilirsiniz.\n\nUyarı: süreç geri döndürülemez, bu nedenle kaynakları ortadan kaldırmadan önce iki kez düşünün!",
@@ -529,6 +538,7 @@
   "researchTutorialTitle": {
     "english": "Research",
     "german": "Forschung",
+    "french": "Recherche",
     "italian": "Ricerca",
     "thai": "วิจัย",
     "turkish": "Araştırma",
@@ -536,6 +546,7 @@
   "researchFirstTutorialParagraph": {
     "english": "To unlock new buildings, infrastructure, or upgrades, you need to develop new technologies through scientific research. This is why you need a Research Lab! Select it in the \"Science\" category and place it on the map.",
     "german": "Um neue Gebäude, Infrastrukutr oder Upgrades freizuschalten, musst du neue Technologien freischalten. Dafür brauchst du ein Forschungslabor! Wähle es in der Kategorie \"Wissenschaft\" aus und platziere es auf der Karte.",
+    "french": "Pour débloquer de nouveaux bâtiments, infrastructures ou améliorations, vous devez développer de nouvelles technologies grâce à la recherche scientifique. C'est pourquoi vous avez besoin d'un laboratoire de recherche ! Sélectionnez-le dans la catégorie \"Science\" et placez-le sur la carte.",
     "italian": "Per sbloccare nuovi edifici o miglioramenti, devi sviluppare nuove tecnologie attraverso la ricerca scientifica. Ecco perché hai bisogno di un Laboratorio di ricerca! Selezionalo nella categoria \"Scienza\" e posizionalo sulla mappa.",
     "thai": "เพื่อปลดล็อกอาคารหรือการอัพเกรดใหม่ คุณต้องพัฒนาเทคโนโลยีใหม่ผ่านการวิจัยทางวิทยาศาสตร์ นี่คือเหตุผลที่คุณต้องการห้องปฏิบัติการวิจัย! เลือกในหมวดหมู่ \"วิทยาศาสตร์\" และวางไว้บนแผนที่",
     "turkish": "Yeni binaların veya yükseltmelerin kilidini açmak için bilimsel araştırmalar yoluyla yeni teknolojiler geliştirmeniz gerekir. Bu yüzden bir Araştırma Laboratuvarına ihtiyacınız var! \"Bilim\" kategorisinde seçin ve haritaya yerleştirin.",
@@ -543,6 +554,7 @@
   "researchSecondTutorialParagraph": {
     "english": "Now you can select a technology to research. Open the \"Research\" menu by clicking on the microscope icon at the top left of the screen. Select the desired technology from those available and close the menu.",
     "german": "Jetzt kannst du eine Technologie zur Erforschung auswählen. Öffne das Forschungsmenü indem du auf das Mikroskop links oben auf dem Bildschrim klickst. Wähle eine Technologie aus und schließe das Menü.",
+    "french": "Vous pouvez maintenant sélectionner une technologie à étudier. Ouvrez le menu \"Recherche\" en cliquant sur l'icône du microscope en haut à gauche de l'écran. Sélectionnez la technologie souhaitée parmi celles disponibles et fermez le menu.",
     "italian": "Ora puoi selezionare una ricerca. Apri il menu \"Ricerca\" cliccando sull'icona del microscopio in alto a sinistra dello schermo. Seleziona la ricerca desiderata tra quelle disponibili e chiudi il menu.",
     "thai": "ตอนนี้คุณสามารถเลือกงานวิจัยได้ เปิดเมนู \"การวิจัย\" โดยคลิกที่ไอคอนกล้องจุลทรรศน์ที่ด้านซ้ายบนของหน้าจอ เลือกงานวิจัยที่ต้องการจากที่มีอยู่แล้วปิดเมนู",
     "turkish": "Artık bir araştırma seçebilirsiniz. Ekranın sol üst kısmındaki mikroskop simgesine tıklayarak \"Araştırma\" menüsünü açın. Mevcut araştırmalardan istediğiniz araştırmayı seçin ve menüyü kapatın.",
@@ -551,16 +563,19 @@
   "researchThirdTutorialParagraph": {
     "english": "The Research Lab will now request blue, green, yellow, or red science packets depending on the technology selected. Once finished, you will be able to select the next technology. You can also put multiple technologies in a queue to research one after the other.\n\nNote: placing multiple Research Lab does not allow you to select multiple research at the same time.",
     "german": "Das Forschungslabor wird jetzt blaue, grüne, gelbe oder rote Wissenschaftspakete anfordern, je nachdem welche Technologie du ausgewählt hast. Wenn die Forschung abgeschlossen ist, kannst du die nächste Technologie auswählen. Du kannst auch mehrere Technologien auswählen, die dann nacheinander erforscht werden.\n\nInfo: Du kannst nur eine Technologie gleichzeitig erforschen, auch mit mehreren Forschungslaboren.",
+    "french": "Le laboratoire de recherche demandera alors des paquets scientifiques bleus, verts, jaunes ou rouges en fonction de la technologie sélectionnée. Une fois la recherche terminée, vous pourrez sélectionner la technologie suivante. Vous pouvez également placer plusieurs technologies dans une file d'attente pour effectuer des recherches l'une après l'autre.\n\nRemarque : le fait de placer plusieurs laboratoires de recherche ne vous permet pas de sélectionner plusieurs recherches en même temps.",
     "italian": "Il laboratorio di ricerca richiederà ora moduli scientifici blu, verdi, gialli o rossi a seconda della tecnologia selezionata. Una volta terminato, sarai in grado di selezionare la prossima ricerca. Puoi anche mettere più ricerche in coda in modo da ricercarle una dopo l'altra.\n\nNota: Posizionare più laboratori scientifici non ti consente di selezionare più ricerche contemporaneamente.",
     "thai": "ขณะนี้ห้องปฏิบัติการวิจัยจะขอชุดวิทยาศาสตร์สีน้ำเงิน เขียว เหลือง หรือแดง ขึ้นอยู่กับเทคโนโลยีที่เลือก เมื่อเสร็จแล้ว คุณจะสามารถเลือกงานวิจัยถัดไปได้\n\nหมายเหตุ: การวางห้องปฏิบัติการวิจัยหลายรายการไม่อนุญาตให้คุณเลือกงานวิจัยหลายชิ้นในเวลาเดียวกัน",
     "turkish": "Araştırma Laboratuvarı artık seçilen teknolojiye bağlı olarak mavi, yeşil, sarı veya kırmızı bilim paketleri isteyecektir. Bitirdiğinizde sonraki araştırmayı seçebileceksiniz.\n\nNot: Birden fazla Araştırma Laboratuvarı yerleştirmek, aynı anda birden fazla araştırma seçmenize izin vermez.",
   },
   "terraformingTutorialTitle": {
     "english": "Terraforming",
+    "french": "Terraformation",
     "italian": "Terraformazione",
   },
   "terraformingFirstTutorialParagraph": {
     "english": "Terraforming requires special buildings with a range of action. You can find them in the \"Terraforming\" category. Each of them partially terraforms the ground. To make an area fully terraformed, you need the action of four of them at the same time. \n\nBy clicking on the \"Terraforming Progress\" panel, you can see the contribution of each type of building, and what the total terraforming progress is.",
+    "french": "La terraformation nécessite des bâtiments spéciaux dotés d'un champ d'action. Vous pouvez les trouver dans la catégorie \"Terraformation\". Chacun d'entre eux terraforme partiellement le sol. Pour qu'une zone soit entièrement terraformée, il faut l'action de quatre d'entre eux en même temps.\n\nEn cliquant sur le panneau \"Progression de la terraformation\", vous pouvez voir la contribution de chaque type de bâtiment et la progression totale de la terraformation.",
     "italian": "La terraformazione richiede degli edifici speciali con un raggio d'azione. Li puoi trovare nella categoria \"Terraformazione\". Ognuno di essi terraforma parzialmente il suolo. Per rendere un area completamente terraformata, serve l'azione di quattro di essi contemporaneamente. \n\\nCliccando sul pannello \"Progresso di terraformazione\", puoi consultare il contributo di ogni tipo di edificio, e qual è il progresso totale di terraformazione.",
   },
 }

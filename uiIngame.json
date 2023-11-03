@@ -620,7 +620,6 @@
 		"danish": "Prioriter",
 		"greek": "Δώσε προταιρεότητα",
 	},
-    //TODO-french
     //TODO-dutch
     //TODO-spanish
     //TODO-spanish-esp
@@ -643,7 +642,7 @@
 	"price": {
 		"english": "Requires",
 		"german": "Benötigt",
-		"french": "Prix",
+		"french": "Nécessite",
 		"dutch": "Prijs",
 		"spanish": "Precio",
 		"spanish-esp": "Precio",
@@ -4134,6 +4133,7 @@
 	"requiredResearch": {
 		"english": "Required Research:",
 		"german": "Benötigte Forschung:",
+		"french": "Recherche requise :",
 		"thai": "การวิจัยที่จำเป็น:",
 		"chinese": "所需研究：",
 		"turkish": "Gerekli Araştırma:",
@@ -4142,6 +4142,7 @@
 	"roadRailSpeed": {
 		"english": "Speed:",
 		"german": "Geschwindigkeit:",
+		"french": "Vitesse :",
 		"thai": "ความเร็ว:",
 		"chinese": "速度：",
 		"turkish": "Hız:",
@@ -4150,6 +4151,7 @@
 	"inspectStatus": {
 		"english": "Inspect delivery status:",
 		"german": "Zeige Lieferstatus:",
+		"french": "Vérifier l'état des livraisons :",
 		"italian": "Ispeziona lo stato delle consegne:",
 		"thai": "ตรวจสอบสถานะการจัดส่ง:",
 		"turkish": "Teslimat durumunu inceleyin:",
@@ -4157,6 +4159,7 @@
 	"colorsDescription": {
 		"english": "- Blue: selected building\n- Green: delivery in progress\n- Yellow: incoming storage full\n- Red: not reachable",
 		"german": "- Blau: Ausgewähltes Gebäude\n- Grün: Wird beliefert\n- Gelb: Eingehendes Lager voll\n- Rot: nicht erreichbar",
+		"french": "- Bleu : bâtiment sélectionné\n- Vert : livraison en cours\n- Jaune : stockage entrant plein\n- Rouge : non accessible",
 		"italian": "- Blu: edificio selezionato\n- Verde: consegna in corso\n- Giallo: magazzino in entrata vuoto\n- Rosso: non raggiungibile",
 		"thai": "สีน้ำเงิน: อาคารที่เลือก\n- สีเขียว: อยู่ระหว่างการจัดส่ง\n- สีเหลือง: พื้นที่เก็บข้อมูลขาเข้าเต็ม\n- แดง: ไม่สามารถเข้าถึงได้",
 		"turkish": "- Mavi: seçilen bina\n- Yeşil: teslimat devam ediyor\n- Sarı: gelen depolama alanı dolu\n- Kırmızı: ulaşılamıyor",
@@ -4164,52 +4167,61 @@
 	"productionBonusTooltipDesc": {
 		"english": "The %booster% has increased the production by %amount%",
 		"german": "%booster% hat die Produktion um %amount% erhöht",
+		"french": "Le %booster% a augmenté la production de %amount%",
 		"italian": "%booster% ha incrementato la produzione di %amount%",
 		"turkish": "%booster%, üretimi %amount% oranında artırdı",
 	},
 	"trainStationDesc": {
 		"english": "Goods are stored here and shipped with the correct train line at the earliest opportunity.\n\nEach individual load can contain a maximum of 200, 400, or 600 resources depending on the selected traffic difficulty.",
 		"german": "Güter werden hier gelagert und bei der ersten Gelegenheit mit der richtigen Zuglinie ausgeliefert.\n\nJede Zugladung besteht aus maximal 200, 400 oder 600 Güter, je nach gewählter Verkehrsschwierigkeitsstufe.",
+		"french": "Les marchandises y sont stockées et expédiées dès que possible par la ligne ferroviaire appropriée.\n\nChaque chargement individuel peut contenir un maximum de 200, 400 ou 600 ressources, en fonction des difficultés de circulation sélectionnées.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione.\n\nOgni singolo carico può contenere un massimo di 200, 400 o 600 risorse a seconda della difficoltà di gioco.",
 		"turkish": "Ürünler burada depolanır ve ilk fırsatta doğru tren hattıyla gönderilir.\n\nHer bir yük, seçilen trafik zorluğuna bağlı olarak maksimum 200, 400 veya 600 kaynak içerebilir.",
 	},
 	"powerPanelDesc": {
 		"english": "When the power produced is not enough for the buildings that use it, you will have slowed production.",
 		"german": "Wenn der produzierte Strom in einem Netz nicht für die verbrauchenden Gebäude ausreicht, verlangsamt sich deren Produktion.",
-		"italian": "Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
 		"french": "Lorsque l'énergie produite n'est pas suffisante pour les bâtiments qui l'utilisent, il y a ralentissement de la production.",
+		"italian": "Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
 	    "chinese": "当生产的电力不足以满足建筑的使用需求时，就会导致生产放缓。",
 		"turkish": "Üretilen güç, onu kullanan binalara yetmediğinde üretimi yavaşlatmış olursunuz.",
 	},
 	"moreInformation": {
 		"english": "More information",
 		"german": "Mehr Informationen",
+		"french": "Plus d'informations",
 		"italian": "Maggiori informazioni",
 		"turkish": "Daha fazla bilgi",
 	},
-  "speedUnit": { // instead of "tile", you can also translate as "unit"
-    "english": "tiles / minute",
-    "german": "Einheiten / Minute",
-    "italian": "Caselle / minuto",
-  },
-  "pipetteTitle": {
-    "english": "Building Pipette",
-    "german": "Gebäudepipette",
-    "italian": "Contagocce per edifici",
-  },
-  "pipetteDesc": {
-    "english": "With the Pipette tool you can easily copy buildings. The default hotkey for the tool is the G button.",
-    "german": "Mit der Pipette kannst du Gebäude einfach kopieren. Das Standard-Tastenkürzel dafür ist G.",
-    "italian": "Con il contagocce puoi copiare facilmente gli edifici. Il tasto di scelta rapida di default è \"G\".",
-  },
-  "singleLoadTooltipDesc": {
-    "english": "Maximum capacity for each individual train or gondola. Depends on the difficulty of the game.",
-	  "italian": "Capacità massima per ogni singolo treno o gondola. Dipende dalla difficoltà di gioco.",
-  },
-  "currentResearch": {
-    "english": "Current Research:",
-  },
-  "unlocks": {
-    "english": "Unlocks:",
-  },
+  	"speedUnit": { // instead of "tile", you can also translate as "unit"
+    	"english": "tiles / minute",
+    	"german": "Einheiten / Minute",
+		"french": "tuiles / minute",
+    	"italian": "Caselle / minuto",
+  	},
+  	"pipetteTitle": {
+    	"english": "Building Pipette",
+    	"german": "Gebäudepipette",
+		"french": "Pipette de construction",
+    	"italian": "Contagocce per edifici",
+  	},
+  	"pipetteDesc": {
+    	"english": "With the Pipette tool you can easily copy buildings. The default hotkey for the tool is the G button.",
+    	"german": "Mit der Pipette kannst du Gebäude einfach kopieren. Das Standard-Tastenkürzel dafür ist G.",
+		"french": "L'outil Pipette permet de copier facilement des bâtiments. Le raccourci clavier par défaut de l'outil est le bouton G.",
+    	"italian": "Con il contagocce puoi copiare facilmente gli edifici. Il tasto di scelta rapida di default è \"G\".",
+ 	},
+  	"singleLoadTooltipDesc": {
+    	"english": "Maximum capacity for each individual train or gondola. Depends on the difficulty of the game.",
+		"french": "Capacité maximale de chaque train ou télécabine. Dépend de la difficulté du jeu.",
+		"italian": "Capacità massima per ogni singolo treno o gondola. Dipende dalla difficoltà di gioco.",
+  	},
+  	"currentResearch": {
+    	"english": "Current Research:",
+		"french": "Recherche actuelle :",
+  	},
+  	"unlocks": {
+    	"english": "Unlocks:",
+		"french": "Débloque :",
+  	},
 }
