@@ -257,6 +257,7 @@
   "pipesSecondTutorialParagraph": {
     "english":"You can check the status of a pipe network by clicking on it in the \"Pipes\" view, or clicking on a tank connected to it. By consulting the pipe network panel, you can see how many resources are produced or consumed per minute. The bar at the bottom indicates how many resources are stored in the tanks and the available capacity.",
     "italian":"Puoi controllare lo status di una rete idraulica cliccandoci sopra nella visualizzazione \"tubazioni\", oppure cliccando su un serbatoio a essa collegata. Consultando il pannello della rete idraulica, puoi vedere quante risorse vengono prodotte o consumate al minuto. La barra in basso indica quante risorse sono stoccate nei serbatoi e la capienza disponibile.",
+    "thai": "คุณสามารถตรวจสอบสถานะของเครือข่ายท่อได้โดยการคลิกที่เครือข่ายนั้นในมุมมอง \"ท่อ\" หรือคลิกที่แทงค์ที่เชื่อมต่ออยู่ โดยดูคำแนะนำจากแผงเครือข่ายท่อ คุณจะสามารถดูจำนวนทรัพยากรที่ผลิตหรือใช้ต่อนาที แถบด้านล่างระบุจำนวนทรัพยากรที่เก็บอยู่ในถังและความจุที่มีอยู่",
   },
   "outgoingStorageFullTutorialTitle": {
     "english": "Outgoing storage full",
@@ -332,7 +333,7 @@
     "french": "Les nacelles peuvent être utilisées pour transporter facilement des ressources en haut et en bas des pentes.\n\nConstruisez la première nacelle avec le côté du téléphérique orienté dans la direction souhaitée. La deuxième nacelle doit être orientée vers la première de manière à ce que les câbles forment une trajectoire droite.",
     "italian": "Le cabinovie possono essere utilizzate per trasportare agevolmente le risorse lungo le pendenze.\n\nCostruisci la prima gondola con il lato della funivia rivolto verso la direzione desiderata. La seconda gondola dovrà essere rivolta verso la prima, in modo che i cavi formino un percorso rettilineo.",
     "chinese": "货物缆车可以用来轻松地将资源运上或运下山坡。\n\n建造第一个缆车时，缆车的一侧要朝向所需的方向。第二个缆车应该朝向第一个缆车，这样缆绳就会形成一条",
-    "thai": "กระเช้าขนส่งสามารถใช้เพื่อขนส่งทรัพยากรขึ้นและลงทางลาดได้อย่างง่ายดาย\n\nสร้างสถานีกอนโดลาแห่งแรกโดยให้ด้านเคเบิลคาร์หันหน้าไปในทิศทางที่ต้องการ เรือกอนโดลาลำที่สองควรหันไปทางลำแรกเพื่อให้สายเคเบิลเป็นเส้นทางตรง",
+    "thai": "กระเช้าขนส่งสามารถใช้เพื่อขนส่งทรัพยากรขึ้นและลงทางลาดได้อย่างง่ายดาย\n\nสร้างสถานีกระเช้าลอยฟ้าแห่งแรกโดยให้ด้านเคเบิลคาร์หันหน้าไปในทิศทางที่ต้องการ กระเช้าลอยฟ้าเครื่องที่สองควรหันไปทางลำแรกเพื่อให้สายเคเบิลเป็นเส้นทางตรง",
   },
   "immigrationTutorialTitle": {
     "english": "Immigration",
@@ -355,6 +356,7 @@
     "english": "Habitats continue to demand new immigrants until they are full. To get more workers, improve them or build more!\n\nTo improve a habitat, one must ensure a supply that meets basic needs and additional needs. For example, to improve basic habitat, you need to ensure oxygen, but also water and survival food.\n\nIf even the basic requirements are not met, the habitat will deteriorate. This results in the loss of workers in case the habitat used to accommodate more than it can accommodate now.",
     "french": "Les habitats continuent à demander de nouveaux immigrants jusqu'à ce qu'ils soient pleins. Pour obtenir plus de travailleurs, améliorez-les ou construisez-en davantage !\n\nPour améliorer un habitat, il faut assurer un approvisionnement qui réponde aux besoins de base et aux besoins complémentaires. Par exemple, pour améliorer l'habitat de base, il faut assurer l'oxygène, mais aussi l'eau et la nourriture de survie.\n\nSi même les exigences de base ne sont pas satisfaites, l'habitat se détériore. Cela entraîne la perte de travailleurs si l'habitat accueillait plus de personnes qu'il ne peut en accueillir aujourd'hui.",
     "italian": "Gli habitat continuano a richiedere nuovi immigrati finché non saranno pieni. Per avere più lavoratori, migliorali o costruiscine di più!\n\nPer migliorare un habitat, bisogna garantire una fornitura che soddisfi i bisogni di base e i bisogni aggiuntivi. Per esempio, per migliorare l'habitat di base, bisognerà garantire ossigeno, ma anche acqua e cibo di sopravvivenza.\n\nSe i nemmeno i requisiti di base sono soddisfatti, l'habitat peggiorerà. Questo comporta la perdita di lavoratori nel caso che l'habitat ne ospitava di più di quanti può accoglierne adesso.",
+    "thai": "ที่อยู่อาศัยยังคงเรียกร้องผู้อพยพใหม่จนกว่าจะเต็ม หากต้องการรับคนงานเพิ่มขึ้น ปรับปรุงหรือสร้างเพิ่มมากขึ้น!\n\nเพื่อปรับปรุงแหล่งที่อยู่อาศัย เราจะต้องแน่ใจว่ามีอุปทานที่ตรงกับความต้องการขั้นพื้นฐานและความต้องการเพิ่มเติม ตัวอย่างเช่น ในการปรับปรุงแหล่งที่อยู่อาศัยขั้นพื้นฐาน คุณต้องแน่ใจว่ามีออกซิเจน รวมถึงน้ำและอาหารเพื่อการยังชีพ\n\nหากไม่เป็นไปตามข้อกำหนดขั้นพื้นฐาน แหล่งที่อยู่อาศัยก็จะเสื่อมโทรมลง ส่งผลให้ต้องสูญเสียคนงานไปในกรณีที่ถิ่นที่อยู่อาศัยเคยรองรับได้มากกว่าที่จะสามารถรองรับได้ในปัจจุบัน",
   },
   "productionOverviewTutorialTitle": {
     "english": "Production overview",
@@ -572,10 +574,12 @@
     "english": "Terraforming",
     "french": "Terraformation",
     "italian": "Terraformazione",
+    "thai": "การสร้างพื้นผิว",
   },
   "terraformingFirstTutorialParagraph": {
     "english": "Terraforming requires special buildings with a range of action. You can find them in the \"Terraforming\" category. Each of them partially terraforms the ground. To make an area fully terraformed, you need the action of four of them at the same time. \n\nBy clicking on the \"Terraforming Progress\" panel, you can see the contribution of each type of building, and what the total terraforming progress is.",
     "french": "La terraformation nécessite des bâtiments spéciaux dotés d'un champ d'action. Vous pouvez les trouver dans la catégorie \"Terraformation\". Chacun d'entre eux terraforme partiellement le sol. Pour qu'une zone soit entièrement terraformée, il faut l'action de quatre d'entre eux en même temps.\n\nEn cliquant sur le panneau \"Progression de la terraformation\", vous pouvez voir la contribution de chaque type de bâtiment et la progression totale de la terraformation.",
     "italian": "La terraformazione richiede degli edifici speciali con un raggio d'azione. Li puoi trovare nella categoria \"Terraformazione\". Ognuno di essi terraforma parzialmente il suolo. Per rendere un area completamente terraformata, serve l'azione di quattro di essi contemporaneamente. \n\\nCliccando sul pannello \"Progresso di terraformazione\", puoi consultare il contributo di ogni tipo di edificio, e qual è il progresso totale di terraformazione.",
+    "thai": "การสร้างพื้นผิวต้องใช้สิ่งปลูกสร้างพิเศษซึ่งมีระยะการทำงานที่หลากหลาย คุณสามารถค้นหาได้ในหมวดหมู่ \"การสร้างพื้นผิว\" แต่ละส่วนปรับสภาพพื้นดินบางส่วน หากต้องการสร้างพื้นที่ที่มีพื้นผิวทั้งหมด คุณต้องดำเนินการสี่ส่วนพร้อมกัน \n\nเมื่อคลิกที่แผง \"ความคืบหน้าของการสร้างพื้นผิว\" คุณจะเห็นการมีส่วนร่วมของสิ่งปลูกสร้างแต่ละประเภท และความคืบหน้าของการสร้างพื้นผิวทั้งหมด",
   },
 }
