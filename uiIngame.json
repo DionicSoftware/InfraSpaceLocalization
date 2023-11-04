@@ -4222,16 +4222,16 @@
     	"english": "Maximum capacity for each individual train or gondola. Depends on the difficulty of the game.",
 		"french": "Capacité maximale de chaque train ou télécabine. Dépend de la difficulté du jeu.",
 		"italian": "Capacità massima per ogni singolo treno o gondola. Dipende dalla difficoltà di gioco.",
-		"thai": "",
+		"thai": "ความจุสูงสุดของรถไฟหรือกระเช้าลอยฟ้าแต่ละขบวน ขึ้นอยู่กับความยากของเกม",
   	},
   	"currentResearch": {
     	"english": "Current Research:",
 		"french": "Recherche actuelle :",
-		"thai": "",
+		"thai": "การวิจัยปัจจุบัน",
   	},
   	"unlocks": {
     	"english": "Unlocks:",
 		"french": "Débloque :",
-		"thai": "",
+		"thai": "ปลดล็อค",
   	},
 }

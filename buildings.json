@@ -2076,6 +2076,7 @@
 		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Das Unterhaltungszentrum für jung und alt!\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
+		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 5</b>",
 	},
 	"sportCenter": {
 		"english": "Sport Center",
@@ -2098,6 +2099,7 @@
 		"english": "Working out can be fun! So they say...\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Workouts können Spaß machen! Sagt man zumindest...\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Allenarsi è divertente! Così dicono.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
+		"thai": "การออกกำลังกายเป็นเรื่องสนุกได้! พวกเขาบอกอย่างงั้น...\n\n<b>ต้องการแหล่งที่อยู่อาศัยในระดับ 5</b>",
 	},
 	"school": {
 		"english": "School",
@@ -2136,6 +2138,7 @@
 		"english": "It keeps the level of education high.\n\n<b>Needed for habitats at level 6</b>.",
 		"german": "Sorgt für ein gutes Bildungsniveau.\n\n<b>Benötigt für Wohngebäude der Stufe 6</b>.",
 		"italian": "Mantiene alto il livello di educazione.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
+		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\n<b>จำเป็นสำหรับแหล่งที่อยู่อาศัยที่ระดับ 6</b>",
 	},
 	"kindergarten": {
 		"english": "Kindergarten",
@@ -2156,6 +2159,7 @@
 		"english": "It keeps the level of education high.\n\n<b>Needed for habitats at level 6</b>.",
 		"german": "Sorgt für ein gutes Bildungsniveau.\n\n<b>Benötigt für Wohngebäude der Stufe 6</b>.",
 		"italian": "Mantiene alto il livello di educazione.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
+		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\n<b>จำเป็นสำหรับแหล่งที่อยู่อาศัยที่ระดับ 6</b>",
 	},
 	"oxygenTank": {
 		"english": "Oxygen Tank",
@@ -2383,6 +2387,7 @@
 		"english": "Power poles can combine several power sources in one power network.\n\nEach electric pole <b>supplies power</b> to a <b>small surrounding area</b>.",
 		"german": "Strommasten können mehrere Kraftwerke in einem Stromnetz verbinden.\n\nJeder Mast <b>liefert Strom</b> an Gebäude in einem <b>kleinen umliegenden Bereich</b>.",
 		"italian": "Possono unire diverse fonti energetiche in un'unica rete elettrica.\n\nOgni palo elettrico <b>fornisce energia</b> a una <b>piccola area circostante</b>.",
+		"thai": "เสาไฟฟ้าสามารถรวมแหล่งพลังงานหลายแหล่งไว้ในเครือข่ายไฟฟ้าเดียวได้\n\nเสาไฟฟ้าแต่ละต้น<b>จ่ายพลังงาน</b>ให้กับ<b>พื้นที่โดยรอบขนาดเล็ก</b>",
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
@@ -2730,6 +2735,7 @@
 	"trainstation_1R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 	},
 	"trainstation_2R": {
 		"english": "Small Train Station",
