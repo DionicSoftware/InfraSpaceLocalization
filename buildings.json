@@ -1884,6 +1884,7 @@
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 	},
 	"decorativePark1": {
 		"english": "Classic Park",
@@ -1907,6 +1908,7 @@
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 	},
 	"decorativePark2": {
 		"english": "Modern Park",
@@ -1930,6 +1932,7 @@
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 	},
 	"decorativePark3": {
 		"english": "Small Modern Park",
@@ -1951,6 +1954,7 @@
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 	},
 	"decorativePark4": {
 		"english": "Small Classic Park",
@@ -1973,6 +1977,7 @@
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 	},
 	"decorativePark5": {
 		"english": "Classic Mini-Park",
@@ -1995,6 +2000,7 @@
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
 		"german": "Ein Platz, wo man eine Pause vom Chaos der Stadt einlegen kann.\n\n<b>Benötigt für Wohngebäude der Stufe 4</b>.",
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
+		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 	},
 	"arena": {
 		"english": "Stadium",
@@ -2033,7 +2039,7 @@
 		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Das Unterhaltungszentrum für jung und alt!\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
-		"thai": "",
+		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\n<b>ต้องการที่อยู่อาศัยในระดับ 5</b>",
 	},
 	"theater": {
 		"english": "Theater",
@@ -2054,6 +2060,7 @@
 		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
 		"german": "Das Unterhaltungszentrum für jung und alt!\n\n<b>Benötigt für Wohngebäude der Stufe 5</b>.",
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
+		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\n<b>ต้องการที่อยู่อาศัยในระดับ 5</b>",
 	},
 	"holoCinema": {
 		"english": "Holo Cinema",
