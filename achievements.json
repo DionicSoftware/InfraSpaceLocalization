@@ -134,7 +134,7 @@
     "english": "Build your first power-up building.",
     "french": "Construire votre premier bâtiment électrique.",
     "turkish": "İlk güçlendirilmiş binanızı inşa edin.",
-    "thai": "สร้างอาคารเสริมพลังแรกของคุณ",
+    "thai": "สร้างสิ่งก่อสร้างเสริมพลังแรกของคุณ",
   },
   "village_Title": {
     "english": "Village milestone",
@@ -206,7 +206,7 @@
     "english": "Unlock all the buildings in the \"Decorations\" category.",
     "french": "Déverrouiller tous les bâtiments de la catégorie \"Décoration\".",
     "turkish": "Tüm binaların kilidini \"Dekorasyonlar\" kategorisindeki açabilirsiniz",
-    "thai": "ปลดล็อกอาคารทั้งหมดในหมวด \"ตกแต่ง\"",
+    "thai": "ปลดล็อกสิ่งก่อสร้างทั้งหมดในหมวด \"ตกแต่ง\"",
   },
   "steelConcrete_Title": {
     "english": "Packed storehouses",
@@ -350,7 +350,7 @@
     "english": "Place thirty pixel buildings.",
     "french": "Placer des bâtiments de trente pixels.",
     "turkish": "Otuz piksel bina yerleştirin.",
-    "thai": "วางอาคารพิกเซลสามสิบหลัง",
+    "thai": "วางสิ่งก่อสร้างพิกเซลสามสิบหลัง",
   },
   "destroyer_Title": {
     "english": "Now I am become Death, the destroyer of worlds",
@@ -362,7 +362,7 @@
     "english": "Destroy fifty buildings in a row.",
     "french": "Détruire cinquante bâtiments d'affilée.",
     "turkish": "Arka arkaya elli binayı yok edin.",
-    "thai": "ทำลายอาคารห้าสิบหลังติดต่อกัน",
+    "thai": "ทำลายสิ่งก่อสร้างห้าสิบหลังติดต่อกัน",
   },
   "power_Title": {
     "english": "Quite an electrical system!",
