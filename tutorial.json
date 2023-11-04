@@ -207,6 +207,7 @@
 		"french": "Félicitations !\n\nVous avez terminé le tutoriel, mais il reste encore beaucoup à construire. Retroussez vos manches : votre aventure commence maintenant !",
 		"italian": "Congratulazioni!\n\nHai portato a termine il tutorial, ma c'è ancora tanto da costruire. Rimboccati le maniche: la tua avventura inizia adesso!",
 		"chinese": "恭喜！\n\n你完成了教程，但这里依然有很多东西需要去建造。做好准备：你的冒险正式开始！",
+		"thai": "ขอแสดงความยินดีด้วย!\n\nคุณทำบทแนะนำเสร็จแล้ว แต่ยังมีอะไรให้สร้างอีกมาก พับแขนเสื้อของคุณ: การผจญภัยของคุณเริ่มต้นขึ้นแล้ว!",
 	},
 	"tutorialFinishedText": {
 		"english": "Congrats!\n\nYou have completed the tutorial, but there is still a lot to build. Roll up your sleeves: your adventure begins now!",
@@ -214,6 +215,7 @@
 		"french": "Félicitations !\n\nVous avez terminé le tutoriel, mais il reste encore beaucoup à construire. Retroussez vos manches : votre aventure commence maintenant !",
 		"italian": "Congratulazioni!\n\nHai portato a termine il tutorial, ma c'è ancora tanto da costruire. Rimboccati le maniche: la tua avventura inizia adesso!",
 		"chinese": "恭喜！\n\n你完成了教程，但这里依然有很多东西需要去建造。做好准备：你的冒险正式开始！",
+		"thai": "ยินดีด้วย!\n\nคุณทำบทแนะนำเสร็จแล้ว แต่ยังมีอะไรให้สร้างอีกมาก พับแขนเสื้อของคุณ: การผจญภัยของคุณเริ่มต้นขึ้นแล้ว!",
 	},
 	"tutorial_concreteProduction": {
 		"english": "Concrete Production for Roads",
