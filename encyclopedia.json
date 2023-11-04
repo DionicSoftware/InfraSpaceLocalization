@@ -332,7 +332,7 @@
     "french": "Les nacelles peuvent être utilisées pour transporter facilement des ressources en haut et en bas des pentes.\n\nConstruisez la première nacelle avec le côté du téléphérique orienté dans la direction souhaitée. La deuxième nacelle doit être orientée vers la première de manière à ce que les câbles forment une trajectoire droite.",
     "italian": "Le cabinovie possono essere utilizzate per trasportare agevolmente le risorse lungo le pendenze.\n\nCostruisci la prima gondola con il lato della funivia rivolto verso la direzione desiderata. La seconda gondola dovrà essere rivolta verso la prima, in modo che i cavi formino un percorso rettilineo.",
     "chinese": "货物缆车可以用来轻松地将资源运上或运下山坡。\n\n建造第一个缆车时，缆车的一侧要朝向所需的方向。第二个缆车应该朝向第一个缆车，这样缆绳就会形成一条",
-    "thai": "กระเช้าขนส่งสามารถใช้เพื่อขนส่งทรัพยากรขึ้นและลงทางลาดได้อย่างง่ายดาย\n\nสร้างสถานีกอนโดลาแห่งแรกโดยให้ด้านเคเบิลคาร์หันหน้าไปในทิศทางที่ต้องการ เรือกอนโดลาลำที่สองควรหันไปทางลำแรกเพื่อให้สายเคเบิลเป็นเส้นทางตรง",
+    "thai": "กระเช้าขนส่งสามารถใช้เพื่อขนส่งทรัพยากรขึ้นและลงทางลาดได้อย่างง่ายดาย\n\nสร้างสถานีกระเช้าลอยฟ้าแห่งแรกโดยให้ด้านเคเบิลคาร์หันหน้าไปในทิศทางที่ต้องการ กระเช้าลอยฟ้าเครื่องที่สองควรหันไปทางลำแรกเพื่อให้สายเคเบิลเป็นเส้นทางตรง",
   },
   "immigrationTutorialTitle": {
     "english": "Immigration",

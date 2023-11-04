@@ -1246,6 +1246,7 @@
 		"english": "In the research laboratory, new technologies are developed.",
 		"german": "Im Forschungslaboer werden neue Technologien entwickelt.",
 		"italian": "Nel laboratorio di ricerca si sviluppano nuove tecnologie.",
+		"thai": "ในห้องปฏิบัติการวิจัยมีการพัฒนาเทคโนโลยีใหม่ๆ",
 	},
 	"storehouseSmall": {
 		"english": "Small Construction Material Storage",
@@ -1391,6 +1392,7 @@
 		"english": "This building enables resource-free production once in every five production cycles. It applies to industries in the surrounding area that support this improvement.",
 		"german": "Mit diesem Gebäude in der Nähe verbrauchen umliegende Fabriken in jedem fünften Produktionszyklus keine Ressources.",
 		"italian": "Questo edificio consente una produzione senza consumare risorse una volta ogni cinque cicli produttivi. Si applica alle industrie dell'area circostante che supportano questo miglioramento.",
+		"thai": "สิ่งก่อสร้างนี้ช่วยให้สามารถผลิตโดยไม่ต้องใช้ทรัพยากรทุกๆ ห้ารอบการผลิต โดยนำไปใช้กับอุตสาหกรรมในพื้นที่โดยรอบที่สนับสนุนการปรับปรุงนี้",
 	},
 	"soilEnrichmentFacility": {
 		"english": "Soil Enrichment Facility",
@@ -1429,6 +1431,7 @@
 		"english": "This building increases production speed by 50%. It applies to farms in the surrounding area.",
 		"german": "Diese Gebäude erhöht die Produktionsgeschwindigkeit von Farmen im umliegenden Gebiet.",
 		"italian": "Questo edificio aumenta la velocità di produzione del 50%. Si applica alle fattorie nell'area circostante.",
+		"thai": "สิ่งก่อสร้างนี้เพิ่มความเร็วในการผลิต 50% ใช้กับฟาร์มในพื้นที่โดยรอบ",
 	},
 	"airProcessor": {
 		"english": "Atmosphere Processor",
@@ -2777,6 +2780,7 @@
 	"trainstation_2R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 	},
 	"trainstation_4R": {
 		"english": "Medium Train Station",
@@ -2810,6 +2814,7 @@
 	"trainstation_4R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 	},
 	"trainstation_6R": {
 		"english": "Large Train Station",
@@ -2843,6 +2848,7 @@
 	"trainstation_6R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 	},
 	"trainstation_8R": {
 		"english": "Main Train Station",
@@ -2876,6 +2882,7 @@
 	"trainstation_8R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 	},
 	"gondolaStation": { // cargo gondola, cargo elevator
 		"english": "Cargo gondola",
@@ -2902,6 +2909,7 @@
 	"gondolaStation_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
+		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 	},
 	"gondolaStationPole": {
 	  "english": "Gondola Lift Pole",
@@ -2911,7 +2919,7 @@
 	  "turkish": "Teleferik direği,",
 	  "chinese": "缆车升降杆",
 	  "japanese": "ゴンドラの支柱",
-	  "thai": "เสายกยานกอนโดลา",
+	  "thai": "เสายกกระเช้าลอยฟ้า",
 	  "italian": "Palo della Cabinovia",
 	  "scotsgaelic": "Colbhan Càr",
 	  "russian": "Стойка грузового лифта",
@@ -2926,7 +2934,7 @@
 		"turkish": "Teleferik direği,",
 		"chinese": "缆车升降杆",
 		"japanese": "ゴンドラの支柱",
-		"thai": "เสายกยานกอนโดลา",
+		"thai": "เสายกกระเช้าลอยฟ้า",
 		"italian": "Palo della Cabinovia",
 		"scotsgaelic": "Colbhan Càr",
 		"russian": "Стойка грузового лифта",
@@ -3014,6 +3022,7 @@
 	"superconductingCoilFactory_desc": {
 		"english": "Produces powerful coils out of superconducting material for heavy duty electromagnetics.",
 		"german": "Produziert starke Spulen aus supraleitendem Material für Hochleistungs-Elektromagneten.",
+		"thai": "ผลิตขดลวดที่ทรงพลังจากวัสดุตัวนำยิ่งยวดสำหรับแม่เหล็กไฟฟ้าสำหรับงานหนัก",
 	},
 	"dustParticleFilter": {
 		"english": "Dust Particle Filter",
@@ -3380,6 +3389,7 @@
 		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
 		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
 		"italian": "Estrae petrolio dal sottosuolo.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
+		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nจุดวางสิ่งก่อสร้างนี้สามารถวางได้<b>ทุกที่</b>",
 	},
 	"largeCrudeOilExtractor": {
 		"english": "Large Crude Oil Extractor",
@@ -3404,6 +3414,7 @@
 		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
 		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
 		"italian": "Estrae petrolio dal sottosuolo.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
+		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nจุดวางสิ่งก่อสร้างนี้สามารถวางได้<b>ทุกที่</b>",
 	},
 	"stemCellLab": {
 		"english": "Stem Cell Lab",
@@ -3444,6 +3455,7 @@
 		"english": "Derives basic chemicals from some characteristic alien plants.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
 		"german": "Stellt grundlegende Chemikalien aus bestimmten außerirdischen Pflanzen her.\n\nBei diesem Landeplatz kann das Gebäude überall platziert werden.",
 		"italian": "Ricava le sostanze chimiche di base da alcune caratteristiche piante aliene.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
+		"thai": "ได้มาจากสารเคมีพื้นฐานจากพืชต่างดาวที่มีลักษณะเฉพาะ\n\nจุดวางสิ่งก่อสร้างนี้สามารถวางได้<b>ทุกที่</b>",
 	},
 	"industrialChemicalsLab": {
 		"english": "Industrial Chemicals Lab",
