@@ -582,4 +582,28 @@
     "italian": "La terraformazione richiede degli edifici speciali con un raggio d'azione. Li puoi trovare nella categoria \"Terraformazione\". Ognuno di essi terraforma parzialmente il suolo. Per rendere un area completamente terraformata, serve l'azione di quattro di essi contemporaneamente. \n\nCliccando sul pannello \"Progresso di terraformazione\", puoi consultare il contributo di ogni tipo di edificio, e qual è il progresso totale di terraformazione.",
     "thai": "การสร้างพื้นผิวต้องใช้สิ่งปลูกสร้างพิเศษซึ่งมีระยะการทำงานที่หลากหลาย คุณสามารถค้นหาได้ในหมวดหมู่ \"การสร้างพื้นผิว\" แต่ละส่วนปรับสภาพพื้นดินบางส่วน หากต้องการสร้างพื้นที่ที่มีพื้นผิวทั้งหมด คุณต้องดำเนินการสี่ส่วนพร้อมกัน \n\nเมื่อคลิกที่แผง \"ความคืบหน้าของการสร้างพื้นผิว\" คุณจะเห็นการมีส่วนร่วมของสิ่งปลูกสร้างแต่ละประเภท และความคืบหน้าของการสร้างพื้นผิวทั้งหมด",
   },
+  "factoryUpgradesTutorialTitle": {
+    "english": "Factory upgrades",
+    "italian": "Miglioramenti delle industrie",
+  },
+  "factoryUpgradesFirstTutorialParagraph": {
+    "english": "Most industries and power plants can be improved. You can see the upgrade status of each building in the respective information panel.\n\nBuildings that enable these improvements are: Recycling Center, Soil Enrichment Station, Industrial Robot Factory, and High-Tech Tools Factory.",
+    "italian": "La maggior parte delle industrie e delle centrali elettriche possono essere migliorate. È possibile vedere lo stato dei potenziamenti per ogni edificio nel rispettivo pannello informativo.\n\nGli edifici che permettono questi miglioramenti sono: Centro di riciclaggio, stazione di Arricchimento del suolo, fabbrica di Robot industriali e fabbrica di Strumenti ad alta tecnologia.",
+  },
+  "factoryUpgradesFirstTutorialHeading": {
+    "english": "Recycling Center and Soil Enrichment Plant",
+    "italian": "Centro di riciclaggio e impianto di arricchimento del suolo",
+  },
+  "factoryUpgradesSecondTutorialParagraph": {
+    "english": "These upgrades are area-generated from the corresponding buildings:\n\n- The recycling center enables resource-free production once in every five production cycles.\n\n- The soil enrichment plant increases the production rate of surrounding farms by 50 percent.\n\nPlace them near the desired industries and they will continuously increase productivity!",
+    "italian": "Questi potenziamenti sono generati ad area dai corrispettivi edifici:\n\n- Il centro di riciclaggio consente di produrre senza consumare risorse una volta ogni cinque cicli produttivi.\n\n- l'impianto di arricchimento del suolo aumenta del 50% la velocità di produzione delle fattorie circostanti.\n\nPosizionateli vicino alle industrie desiderate e aumenteranno continuamente la produttività!",
+  },
+  "factoryUpgradesSecondTutorialHeading": {
+    "english": "Industrial robots and high-tech tools",
+    "italian": "Robot industriali e strumenti ad alta tecnologia",
+  },
+  "factoryUpgradesThirdTutorialParagraph": {
+    "english": "Industrial robots and high-tech tools must be produced by the relevant industries and will be automatically sent to buildings in order of proximity. Once a single unit of Industrial Robots or High-Tech Tools is received, it will be used until it is consumed. After that, the industry will have to receive another one.\n\n- Industrial Robots will reduce the labor required by 1 unit, and can be used in any industry.\n\n- High-tech tools will increase production speed by 50%.",
+    "italian": "I robot industriali e gli strumenti ad alta tecnologia devono essere prodotti dalle relative industrie e saranno inviati automaticamente agli edifici in ordine di vicinanza. Una volta ricevuta una singola unità di Robot industriali o di strumenti ad alta tecnologia, questa verrà utilizzata fino a quando non sarà consumata. Dopodiché, l'industria dovrà riceverne un'altra.\n\n- I robot industriali ridurranno di 1 unità la manodopera necessaria, e potranno essere utilizzati in qualsiasi settore.\n\n- Gli strumenti ad alta tecnologia aumenteranno la velocità di produzione del 50%.",
+  },
 }
