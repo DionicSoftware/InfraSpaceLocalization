@@ -4212,4 +4212,7 @@
   "unlocks": {
     "english": "Unlocks:",
   },
+  "noAccessToPipe": {
+    "english": "No access to pipe",
+  },
 }
