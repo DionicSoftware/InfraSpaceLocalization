@@ -28,14 +28,16 @@
 	"road_gravel_twoWay_twoLane_desc": {
 		"english": "A simple two-way, two-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine einfache zweispurige Straße, die in beide Richtungen befahrbar ist.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une simple route à deux voies à double sens.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una semplice strada a due corsie, con doppio senso di circolazione.\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถสองเลนที่เรียบง่าย ถนนสองเลน\n\nอาคารสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถสองเลนที่เรียบง่าย ถนนสองเลน\n\nสิ่งก่อสร้างสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	"road_gravel_oneWay_oneLane_desc": {
 		"english": "A simple one-way, one-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine einfache einspurige Einbahnstraße.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une simple route à sens unique et à une seule voie.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una semplice strada a una corsia, a senso unico.\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียวที่เรียบง่าย ถนนสองเลน\n\nอาคารสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียวที่เรียบง่าย ถนนสองเลน\n\nสิ่งก่อสร้างสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	"road_concrete": {
 		"english": "Concrete Road",
@@ -66,38 +68,44 @@
 	"road_concrete_twoWay_twoLane_desc": {
 		"english": "A two-way, two-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine zweispurige Straße, die in beide Richtungen befahrbar ist.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une route à deux voies et à double sens.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una strada a due corsie, con doppio senso di circolazione.\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "ถนนเดินรถสองทาง ถนนสองเลน\n\nอาคารสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "ถนนเดินรถสองทาง ถนนสองเลน\n\nสิ่งก่อสร้างสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_concrete_twoWay_fourLane_desc": {
 		"english": "A two-way, four-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine vierspurige Straße, die in beide Richtungen befahrbar ist.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une route à quatre voies et à double sens.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una strada a quattro corsie, con doppio senso di circolazione.\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถสองทาง ถนนสองทางสี่เลน\n\nอาคารสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถสองทาง ถนนสองทางสี่เลน\n\nสิ่งก่อสร้างสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_concrete_twoWay_sixLane_desc": {
 		"english": "A two-way, six-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine sechsspurige Straße, die in beide Richtungen befahrbar ist.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une route à double sens et à six voies.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una strada a sei corsie, con doppio senso di circolazione.\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
 		"thai": "เดินรถสองทาง ถนนหกเลน",
 	},
 	 "road_concrete_oneWay_oneLane_desc": {
 		"english": "A one-way, one-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine einspurige Einbahnstraße.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une route à sens unique et à une seule voie.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una strada a una corsia, a senso unico.\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ถนนเลนเดียว\n\nอาคารสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ถนนเลนเดียว\n\nสิ่งก่อสร้างสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_concrete_oneWay_twoLane_desc": {
 		"english": "A one-way, two-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine zweispurige Einbahnstraße.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une route à sens unique et à deux voies.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una strada a due corsie, a senso unico .\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ถนนสองเลน\n\nอาคารสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ถนนสองเลน\n\nสิ่งก่อสร้างสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_concrete_oneWay_threeLane_desc": {
 		"english": "A one-way, three-lane road.\n\nBuildings <b>can connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine dreispurige Einbahnstraße.\n\nAn dieser Straße können Gebäude anliegen. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une route à sens unique et à trois voies.\n\nLes bâtiments <b>peuvent se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una strada a tree corsie, a senso unico.\n\nGli edifici possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ถนนสามเลน\n\nอาคารสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ถนนสามเลน\n\nสิ่งก่อสร้างสามารถเชื่อมต่อกับถนนได้ ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	"road_highway": {
 		"english": "Highway",
@@ -128,38 +136,44 @@
 	"road_highway_twoWay_twoLane_desc": {
 		"english": "A two-way, two-lane highway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine zweispurige Autobahn, die in beide Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une autoroute à deux voies et à double sens.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Un'autostrada a due corsie, con doppio senso di circolazione.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถสองทาง ทางหลวงสองเลน\n\nอาคารไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถสองทาง ทางหลวงสองเลน\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_highway_twoWay_fourLane_desc": {
 		"english": "A two-way, four-lane highway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine vierspurige Autobahn, die in beide Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une autoroute à deux voies et à quatre voies.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Un'autostrada a quattro corsie, con doppio senso di circolazione.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถสองทาง ทางหลวงสี่เลน\n\nอาคารไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถสองทาง ทางหลวงสี่เลน\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_highway_twoWay_sixLane_desc": {
 		"english": "A two-way, six-lane highway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine sechsspurige Autobahn, die in beide Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une autoroute à double sens et à six voies.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Un'autostrada a sei corsie, con doppio senso di circolazione.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถสองทาง ทางหลวงหกเลน\n\nอาคารไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถสองทาง ทางหลวงหกเลน\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_highway_oneWay_oneLane_desc": {
 		"english": "A one-way, one-lane highway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine einspurige Autobahn, die nur in eine Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une autoroute à sens unique et à une seule voie.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Un'autostrada a una corsia, a senso unico.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ทางหลวงเลนเดียว\n\nอาคารไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ทางหลวงเลนเดียว\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_highway_oneWay_twoLane_desc": {
 		"english": "A one-way, two-lane highway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine zweispurige Autobahn, die nur in eine Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une autoroute à sens unique et à deux voies.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Un'autostrada a due corsie, a senso unico.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ทางหลวงสองเลน\n\nอาคารไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ทางหลวงสองเลน\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_highway_oneWay_threeLane_desc": {
 		"english": "A one-way, three-lane highway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine dreispurige Autobahn, die nur in eine Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une autoroute à sens unique et à trois voies.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Un'autostrada a tre corsie, a senso unico.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ทางหลวงสามเลน\n\nอาคารไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ทางหลวงสามเลน\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางหลวง ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	"road_superhighway": {
 		"english": "Superhighway",
@@ -190,20 +204,23 @@
 	"road_superhighway_oneWay_oneLane_desc": {
 		"english": "A one-way, one-lane superhighway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine einspurige Superautobahn, die nur in eine Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une super-autoroute à sens unique et à une seule voie.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una super-autostrada a una corsia, a senso unico.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ทางหลวงพิเศษเลนเดียว\n\nอาคารไม่ได้เชื่อมต่อกับทางหลวงดังกล่าว ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ทางหลวงพิเศษเลนเดียว\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางหลวงดังกล่าว ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_superhighway_oneWay_twoLane_desc": {
 		"english": "A one-way, two-lane superhighway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine zweispurige Superautobahn, die nur in eine Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une super-autoroute à sens unique et à deux voies.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una super-autostrada a due corsie, a senso unico.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ทางหลวงพิเศษสองเลน\n\nอาคารไม่ได้เชื่อมต่อถึงกัน ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ทางหลวงพิเศษสองเลน\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อถึงกัน ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	 "road_superhighway_oneWay_threeLane_desc": {
 		"english": "A one-way, three-lane superhighway.\n\nBuildings <b>do not connect</b> to it. Use <b>hotkeys</b> to adjust the height (R and F by default).",
 		"german": "Eine dreispurige Superautobahn, die nur in eine Richtungen befahrbar ist.\n\nGebäude können an diese Straße nicht angeschlossen werden. Verwende Tastenkürzel um die Höhe anzupassen (standardmäßig R und F).",
+		"french": "Une super-autoroute à sens unique et à trois voies.\n\nLes bâtiments <b>ne peuvent pas se connecter</b> à celle-ci. Utilisez les <b>raccourcis</b> pour régler la hauteur (R et F par défaut).",
 		"italian": "Una super-autostrada a tre corsie, a senso unico.\n\nGli edifici non possono collegarsi ad essa. Usa i tasti di scelta rapida per regolare l'altezza (R e F di default).",
-		"thai": "เดินรถทางเดียว ทางหลวงพิเศษสามเลน\n\nอาคารไม่ได้เชื่อมต่อกับทางด่วน ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
+		"thai": "เดินรถทางเดียว ทางหลวงพิเศษสามเลน\n\nสิ่งก่อสร้างไม่ได้เชื่อมต่อกับทางด่วน ใช้ปุ่มลัดเพื่อปรับความสูง (R และ F ตามค่าเริ่มต้น)",
 	},
 	"rail_oneWay": {
 		"english": "Rail",
@@ -230,6 +247,7 @@
 	"rail_oneWay_desc": {
 		"english": "Low-speed train tracks. One-way.\n\nRails are allowed to overlap, but <b>pay attention to intersections</b>! Click on the traffic light icon above to see details.",
 		"german": "Gleise mit Unterstützung für langsame Züge. Befahrbar nur in eine Richtung\n\nGleise dürfen sich kreuzen, aber es erscheinen dann automatische Zugsinale. Klicke auf das Ampelsymbol im Gleismenü für Details.",
+		"french": "Voies ferrées à faible vitesse. Sens unique.\n\nLes rails peuvent se chevaucher, mais <b>faites attention aux intersections</b> ! Cliquez sur l'icône de feu tricolore ci-dessus pour voir les détails.",
 		"italian": "Binari per treni a bassa velocità, a senso unico.\n\nI binari possono sovrapporsi, ma presta attenzione agli incroci! Clicca sull'icona del semaforo qui sopra per supervisionarli.",
 		"thai": "รางรถไฟความเร็วต่ำ. เที่ยวเดียว\n\nรางได้รับอนุญาตให้ทับซ้อนกันได้ แต่ต้องระวังทางแยกด้วย! คลิกที่ไอคอนสัญญาณไฟจราจรด้านบนเพื่อควบคุมดูแล",
 	},
@@ -257,6 +275,7 @@
 	"rail_oneWay_highspeed_desc": {
 		"english": "Medium-speed train tracks. One-way.\n\nRails are allowed to overlap, but <b>pay attention to intersections</b>! Click on the traffic light icon above to see details.",
 		"german": "Gleise mit Unterstützung für mittelschnell Züge. Befahrbar nur in eine Richtung\n\nGleise dürfen sich kreuzen, aber es erscheinen dann automatische Zugsinale. Klicke auf das Ampelsymbol im Gleismenü für Details.",
+		"french": "Voies ferrées à vitesse moyenne. Sens unique.\n\nLes rails peuvent se chevaucher, mais <b>faites attention aux intersections</b> ! Cliquez sur l'icône de feu tricolore ci-dessus pour voir les détails.",
 		"italian": "Binari per treni a media velocità, a senso unico.\n\nI binari possono sovrapporsi, ma presta attenzione agli incroci! Clicca sull'icona del semaforo qui sopra per supervisionarli.",
 		"thai": "รางรถไฟความเร็วปานกลาง เที่ยวเดียว\n\nรางได้รับอนุญาตให้ทับซ้อนกันได้ แต่ต้องระวังทางแยกด้วย! คลิกที่ไอคอนสัญญาณไฟจราจรด้านบนเพื่อควบคุมดูแล",
 	},
@@ -284,6 +303,7 @@
 	"rail_oneWay_superhighspeed_desc": {
 		"english": "High-speed train tracks. One-way.\n\nRails are allowed to overlap, but <b>pay attention to intersections</b>! Click on the traffic light icon above to see details.",
 		"german": "Gleise mit Unterstützung für schnelle Züge. Befahrbar nur in eine Richtung\n\nGleise dürfen sich kreuzen, aber es erscheinen dann automatische Zugsinale. Klicke auf das Ampelsymbol im Gleismenü für Details.",
+		"french": "Voies ferrées à grande vitesse. Aller simple.\n\nLes rails peuvent se chevaucher, mais <b>faites attention aux intersections</b> ! Cliquez sur l'icône de feu tricolore ci-dessus pour voir les détails.",
 		"italian": "Binari per treni ad alta velocità, a senso unico.\n\nI binari possono sovrapporsi, ma presta attenzione agli incroci! Clicca sull'icona del semaforo qui sopra per supervisionarli.",
 		"thai": "รางรถไฟความเร็วสูง. เที่ยวเดียว\n\nรางได้รับอนุญาตให้ทับซ้อนกันได้ แต่ต้องระวังทางแยกด้วย! คลิกที่ไอคอนสัญญาณไฟจราจรด้านบนเพื่อควบคุมดูแล",
 	},
@@ -307,8 +327,9 @@
 	"pipe_oxygen_desc": {
 		"english": "These pipes can connect buildings that produce oxygen with all those that need it, including <b>tanks and habitats</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b> because of the pumps!",
 		"german": "Diese Rohre verbinden Gebäude, die Sauererstoff produzieren, mit Fabriken, Tanks und Wohngebäuden.\n\nAngeschlossene Gebäude, die Sauerstoff produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"french": "Ces tuyaux peuvent relier les bâtiments qui produisent de l'oxygène à tous ceux qui en ont besoin, notamment les <b>réservoirs et les habitats</b>.\n\nLes bâtiments qui produisent la ressource transportée par les tuyaux consomment <b>deux fois plus d'électricité</b> en raison des pompes !",
 		"italian": "Questi tubi possono collegare gli edifici che producono ossigeno con tutti quelli che ne hanno bisogno, compresi i serbatoi e gli habitat.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
-		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตออกซิเจนกับทุกสิ่งที่ต้องการ รวมถึงถังเก็บน้ำและที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
+		"thai": "ท่อเหล่านี้สามารถเชื่อมต่อสิ่งก่อสร้างที่ผลิตออกซิเจนกับทุกสิ่งที่ต้องการ รวมถึงถังเก็บน้ำและที่อยู่อาศัย\n\nสิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 	},
 	"pipe_water": {
 		"english": "Water Pipes",
@@ -329,8 +350,9 @@
 	"pipe_water_desc": {
 		"english": "These pipes can connect buildings that produce water with all those that need it, including <b>tanks and habitats</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b> because of the pumps!",
 		"german": "Diese Rohre verbinden Gebäude, die Wasser produzieren, mit Fabriken, Tanks und Wohngebäuden.\n\nAngeschlossene Gebäude, die Wasser produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"french": "Ces tuyaux peuvent relier les bâtiments qui produisent de l'eau à tous ceux qui en ont besoin, notamment les <b>réservoirs et les habitats</b>.\n\nLes bâtiments qui produisent la ressource transportée par les tuyaux consomment <b>deux fois plus d'électricité</b> en raison des pompes !",
 		"italian": "Questi tubi possono collegare gli edifici che producono acqua con tutti quelli che ne hanno bisogno, compresi i serbatoi e gli habitat.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
-		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตน้ำเข้ากับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำและแหล่งที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งน้ำจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
+		"thai": "ท่อเหล่านี้สามารถเชื่อมต่อสิ่งก่อสร้างที่ผลิตน้ำเข้ากับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำและแหล่งที่อยู่อาศัย\n\nสิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งน้ำจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 	},
 	"pipe_methane": {
 		"english": "Methane Pipes",
@@ -351,8 +373,9 @@
 	"pipe_methane_desc": {
 		"english": "These pipes can connect buildings that produce methane with all those that need it, <b>including tanks</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b>!",
 		"german": "Diese Rohre verbinden Gebäude, die Methan produzieren, mit Fabrikenund Tanks.\n\nAngeschlossene Gebäude, die Methan produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"french": "Ces tuyaux peuvent relier les bâtiments qui produisent du méthane à tous ceux qui en ont besoin, notamment les <b>réservoirs</b>.\n\nLes bâtiments qui produisent la ressource transportée par les tuyaux consomment <b>deux fois plus d'électricité</b> !",
 		"italian": "Questi tubi possono collegare gli edifici che producono metano con tutti quelli che ne hanno bisogno, compresi i serbatoi.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
-		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตก๊าซมีเทนกับสิ่งอื่นๆ ที่จำเป็น รวมถึงถังเก็บน้ำและที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
+		"thai": "ท่อเหล่านี้สามารถเชื่อมต่อสิ่งก่อสร้างที่ผลิตก๊าซมีเทนกับสิ่งอื่นๆ ที่จำเป็น รวมถึงถังเก็บน้ำและที่อยู่อาศัย\n\nสิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 	},
 	"pipe_crudeOil": {
 		"english": "Crude Oil Pipes",
@@ -368,7 +391,8 @@
 	"pipe_crudeOil_desc": {
 		"english": "These pipes can connect buildings that produce crude oil with all those that need it, <b>including tanks</b>.\n\nBuildings that produce the resource transported by pipelines consume <b>twice as much electricity</b>!",
 		"german": "Diese Rohre verbinden Gebäude, die Rohöl produzieren, mit Fabriken und Tanks.\n\nAngeschlossene Gebäude, die Rohöl produzieren, verbrauchen doppelt so viel Strom wegen den Pumpen!",
+		"french": "Ces tuyaux peuvent relier les bâtiments qui produisent du pétrole brut à tous ceux qui en ont besoin, notamment les <b>réservoirs</b>.\n\nLes bâtiments qui produisent la ressource transportée par les tuyaux consomment <b>deux fois plus d'électricité</b> !",
 		"italian": "Questi tubi possono collegare gli edifici che producono petrolio con tutti quelli che ne hanno bisogno, compresi i serbatoi.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
-		"thai": "ท่อเหล่านี้สามารถเชื่อมต่ออาคารที่ผลิตน้ำมันดิบกับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำมันและแหล่งที่อยู่อาศัย\n\nอาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งใช้ไฟฟ้าเป็นสองเท่า!",
+		"thai": "ท่อเหล่านี้สามารถเชื่อมต่อสิ่งก่อสร้างที่ผลิตน้ำมันดิบกับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำมันและแหล่งที่อยู่อาศัย\n\nสิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งใช้ไฟฟ้าเป็นสองเท่า!",
 	},
 }

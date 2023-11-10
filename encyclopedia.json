@@ -252,11 +252,12 @@
     "french": "Certaines ressources peuvent être transportées par des canalisations souterraines. C'est le cas de l'oxygène, de l'eau, du méthane et du pétrole brut.\n\nLes tuyaux se connectent automatiquement lorsqu'ils se trouvent à proximité d'un bâtiment qui nécessite cette ressource particulière. En outre, plusieurs tuyaux peuvent être construits dans les mêmes tuiles : chacun d'entre eux se trouve à une profondeur différente.\n\nL'utilisation des tuyaux permet de réduire considérablement le trafic routier, mais elle a un coût : les bâtiments qui produisent les ressources transportées par les tuyaux consomment deux fois plus d'électricité. Le pompage des liquides et du gaz consomme de l'énergie !",
     "italian": "Alcune risorse possono essere trasportate tramite tubature sotterranee. È il caso di ossigeno, acqua, metano e petrolio grezzo.\n\nI tubi si connettono automaticamente quando sono in prossimità di un edificio che richiede quella determinata risorsa. Inoltre, è possibile costruire più tubi nelle stesse caselle: ognuno di essi si trova a una profondità differente!\n\nL’utilizzo di tubature può ridurre notevolmente il traffico stradale, a un costo: gli edifici che producono le risorse trasportate con le tubature, consumano il doppio dell'energia elettrica. Pompare liquidi e gas è energeticamente dispendioso!",
     "chinese": "有些资源可以通过地下管道运输。氧气、水、甲烷和原油都是如此。\n\n当管道靠近需要特定资源的建筑时，它们就会自动连接起来。此外，可以在同一块地块上建造多个管道：每个管道的深度都不同。\n\n使用管道可以大大减少道路交通，但代价是：生产管道运输的资源的建筑需要消耗两倍的电力。泵送液体和气体需要消耗能源！",
-    "thai": "ทรัพยากรบางส่วนสามารถขนส่งผ่านท่อใต้ดินได้ นี่เป็นกรณีของออกซิเจน น้ำ มีเทน และน้ำมันดิบ\n\nท่อจะเชื่อมต่อโดยอัตโนมัติเมื่ออยู่ใกล้อาคารที่ต้องใช้ทรัพยากรนั้น นอกจากนี้ สามารถสร้างท่อได้หลายท่อในแผ่นเดียวกัน โดยแต่ละท่อมีความลึกต่างกัน\n\nการใช้ท่อส่งสามารถลดการจราจรบนถนนได้อย่างมาก โดยต้องแลกมาด้วยต้นทุน อาคารที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้ามากกว่าสองเท่า การสูบของเหลวและก๊าซสิ้นเปลืองพลังงาน!",
+    "thai": "ทรัพยากรบางส่วนสามารถขนส่งผ่านท่อใต้ดินได้ นี่เป็นกรณีของออกซิเจน น้ำ มีเทน และน้ำมันดิบ\n\nท่อจะเชื่อมต่อโดยอัตโนมัติเมื่ออยู่ใกล้สิ่งก่อสร้างที่ต้องใช้ทรัพยากรนั้น นอกจากนี้ สามารถสร้างท่อได้หลายท่อในแผ่นเดียวกัน โดยแต่ละท่อมีความลึกต่างกัน\n\nการใช้ท่อส่งสามารถลดการจราจรบนถนนได้อย่างมาก โดยต้องแลกมาด้วยต้นทุน สิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้ามากกว่าสองเท่า การสูบของเหลวและก๊าซสิ้นเปลืองพลังงาน!",
   },
   "pipesSecondTutorialParagraph": {
     "english":"You can check the status of a pipe network by clicking on it in the \"Pipes\" view, or clicking on a tank connected to it. By consulting the pipe network panel, you can see how many resources are produced or consumed per minute. The bar at the bottom indicates how many resources are stored in the tanks and the available capacity.",
     "italian":"Puoi controllare lo status di una rete idraulica cliccandoci sopra nella visualizzazione \"tubazioni\", oppure cliccando su un serbatoio a essa collegata. Consultando il pannello della rete idraulica, puoi vedere quante risorse vengono prodotte o consumate al minuto. La barra in basso indica quante risorse sono stoccate nei serbatoi e la capienza disponibile.",
+    "thai": "คุณสามารถตรวจสอบสถานะของเครือข่ายท่อได้โดยการคลิกที่เครือข่ายนั้นในมุมมอง \"ท่อ\" หรือคลิกที่แทงค์ที่เชื่อมต่ออยู่ โดยดูคำแนะนำจากแผงเครือข่ายท่อ คุณจะสามารถดูจำนวนทรัพยากรที่ผลิตหรือใช้ต่อนาที แถบด้านล่างระบุจำนวนทรัพยากรที่เก็บอยู่ในถังและความจุที่มีอยู่",
   },
   "outgoingStorageFullTutorialTitle": {
     "english": "Outgoing storage full",
@@ -273,11 +274,11 @@
     "french": "Chaque bâtiment possède deux entrepôts. Le stockage de sortie est l'endroit où les ressources produites sont stockées avant d'être expédiées ; il est visible dans le panneau en bas à droite.\n\nSi le panneau d'information d'un bâtiment indique que le stock sortant est plein, c'est parce qu'il n'y a aucun bâtiment auquel il peut livrer des marchandises à ce moment-là.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in uscita è dove le risorse prodotte vengono stoccate per la spedizione, e si può visualizzare nel riquadro in basso a destra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in uscita è pieno, è perché in quel momento non ci sono edifici a cui può consegnare la merce.",
     "chinese": "每个建筑都有两个库存。输出库存是储存生产出来的资源以备装运的地方，可以在右下角的面板中看到。\n\n如果某个建筑的信息面板显示输出库存已满，那是因为此时没有建筑可以向其运送货物。",
-    "thai": "โรงงานแต่ละแห่งจะมีพื้นที่จัดเก็บสองประเภท พื้นที่เก็บข้อมูลขาออกคือที่ที่ทรัพยากรที่ผลิตถูกจัดเก็บไว้สำหรับการจัดส่ง และสามารถดูได้ที่แผงด้านล่างขวา\n\nหากแผงข้อมูลของอาคารแสดงว่าพื้นที่เก็บข้อมูลขาออกเต็มแล้ว อาจเป็นเพราะไม่มีอาคารใดที่สามารถทำได้ ส่งสินค้าในขณะนั้น สิ่งนี้อาจมีสาเหตุที่แตกต่างกัน!",
+    "thai": "โรงงานแต่ละแห่งจะมีพื้นที่จัดเก็บสองประเภท พื้นที่เก็บข้อมูลขาออกคือที่ที่ทรัพยากรที่ผลิตถูกจัดเก็บไว้สำหรับการจัดส่ง และสามารถดูได้ที่แผงด้านล่างขวา\n\nหากแผงข้อมูลของสิ่งก่อสร้างแสดงว่าพื้นที่เก็บข้อมูลขาออกเต็มแล้ว อาจเป็นเพราะไม่มีสิ่งก่อสร้างใดที่สามารถทำได้ ส่งสินค้าในขณะนั้น สิ่งนี้อาจมีสาเหตุที่แตกต่างกัน!",
   },
   //TODO-german click on the magnifying glass instead of arrow
   //TODO-french
-  //TODO-german 
+  //TODO-german
   //TODO-chinese
   //TODO-thai
   "outgoingStorageFullSecondTutorialParagraph": {
@@ -286,7 +287,7 @@
     "french": "Pour vérifier l'état de vos livraisons, cliquez sur la flèche dans le panneau d'information du bâtiment.\n\nLa couleur bleue indique le bâtiment sélectionné.\n\nLa couleur verte indique que la livraison est en cours.\n\nLa couleur jaune indique que le stockage entrant est déjà plein.\n\nLa couleur rouge indique que le bâtiment n'est pas accessible.s",
     "italian": "Per controllare lo stato delle tue consegne, clicca sulla lente di ingrandimento nel pannello informativo dell’edificio.\n\nIl colore blu indica l’edificio selezionato.\n\nIl colore verde indica che la consegna è in corso.\n\nIl colore giallo indica che il magazzino in entrata è già pieno.\n\nIl colore rosso indica che l’edificio non è raggiungibile.",
     "chinese": "要查看交付状态，请单击楼宇信息面板中的箭头。\n\n蓝色表示选定的建筑物。\n\n绿色表示送货正在进行中。\n\n黄色表示输入库存已满。\n\n红色表示无法到达建筑。",
-    "thai": "หากต้องการตรวจสอบสถานะการจัดส่งของคุณ ให้คลิกที่ลูกศรในแผงข้อมูลอาคาร\n\nสีฟ้าหมายถึงอาคารที่เลือก\n\nสีเขียวแสดงว่าอยู่ระหว่างการจัดส่ง\n\nสีเหลืองแสดงว่ามีสินค้าเข้ามา พื้นที่เก็บข้อมูลเต็มแล้ว\n\nสีแดงบ่งบอกว่าไม่สามารถเข้าถึงอาคารได้",
+    "thai": "หากต้องการตรวจสอบสถานะการจัดส่งของคุณ ให้คลิกที่ลูกศรในแผงข้อมูลสิ่งก่อสร้าง\n\nสีฟ้าหมายถึงสิ่งก่อสร้างที่เลือก\n\nสีเขียวแสดงว่าอยู่ระหว่างการจัดส่ง\n\nสีเหลืองแสดงว่ามีสินค้าเข้ามา พื้นที่เก็บข้อมูลเต็มแล้ว\n\nสีแดงบ่งบอกว่าไม่สามารถเข้าถึงสิ่งก่อสร้างได้",
   },
   "incomingStorageEmptyTutorialTitle": {
     "english": "Incoming storage empty",
@@ -306,7 +307,7 @@
     "french": "Chaque bâtiment dispose de deux entrepôts. Le stockage entrant est l'endroit où les ressources reçues sont stockées en vue de leur utilisation.\n\nSi le panneau d'information d'un bâtiment indique que le stockage entrant est vide, c'est qu'une ou plusieurs ressources stockées ne sont pas suffisantes pour la production.",
     "italian": "Ogni edificio dispone di due magazzini. Il magazzino in entrata è dove le risorse ricevute vengono stoccate per essere utilizzate, e si può visualizzare nel riquadro in basso a sinistra.\n\nSe nel pannello informativo di un edificio è indicato che il magazzino in entrata è vuoto, è perché una o più risorse stoccate non sono sufficienti alla produzione. Questo può accadere se non produci abbastanza risorse per soddisfare tutte le industrie, o quando la consegna richiede troppo tempo.",
     "chinese": "每个建筑都有两个库存。输入库存是储存接收到的资源以备使用的地方，可以在左下角的面板中看到。\n\n如果某个建筑的信息面板上显示输入库存为空，那是因为一个或多个建筑存储的资源不足以用于生产。",
-    "thai": "แต่ละอาคารมีห้องเก็บของสองประเภท ที่เก็บข้อมูลขาเข้าคือที่ที่ทรัพยากรที่ได้รับถูกเก็บไว้เพื่อใช้ และสามารถดูได้ในแผงด้านซ้ายล่าง\n\nหากแผงข้อมูลของอาคารแสดงว่าพื้นที่เก็บข้อมูลขาเข้าว่างเปล่า อาจเป็นเพราะทรัพยากรที่จัดเก็บอย่างน้อยหนึ่งรายการถูก ไม่เพียงพอต่อการผลิต อย่างไรก็ตาม อาจเป็นไปได้ว่าทรัพยากรกำลังมาถึงแล้ว",
+    "thai": "แต่ละสิ่งก่อสร้างมีห้องเก็บของสองประเภท ที่เก็บข้อมูลขาเข้าคือที่ที่ทรัพยากรที่ได้รับถูกเก็บไว้เพื่อใช้ และสามารถดูได้ในแผงด้านซ้ายล่าง\n\nหากแผงข้อมูลของสิ่งก่อสร้างแสดงว่าพื้นที่เก็บข้อมูลขาเข้าว่างเปล่า อาจเป็นเพราะทรัพยากรที่จัดเก็บอย่างน้อยหนึ่งรายการถูก ไม่เพียงพอต่อการผลิต อย่างไรก็ตาม อาจเป็นไปได้ว่าทรัพยากรกำลังมาถึงแล้ว",
   },
   // TODO-french
   "incomingStorageEmptySecondTutorialParagraph": {
@@ -332,7 +333,7 @@
     "french": "Les nacelles peuvent être utilisées pour transporter facilement des ressources en haut et en bas des pentes.\n\nConstruisez la première nacelle avec le côté du téléphérique orienté dans la direction souhaitée. La deuxième nacelle doit être orientée vers la première de manière à ce que les câbles forment une trajectoire droite.",
     "italian": "Le cabinovie possono essere utilizzate per trasportare agevolmente le risorse lungo le pendenze.\n\nCostruisci la prima gondola con il lato della funivia rivolto verso la direzione desiderata. La seconda gondola dovrà essere rivolta verso la prima, in modo che i cavi formino un percorso rettilineo.",
     "chinese": "货物缆车可以用来轻松地将资源运上或运下山坡。\n\n建造第一个缆车时，缆车的一侧要朝向所需的方向。第二个缆车应该朝向第一个缆车，这样缆绳就会形成一条",
-    "thai": "กระเช้าขนส่งสามารถใช้เพื่อขนส่งทรัพยากรขึ้นและลงทางลาดได้อย่างง่ายดาย\n\nสร้างสถานีกอนโดลาแห่งแรกโดยให้ด้านเคเบิลคาร์หันหน้าไปในทิศทางที่ต้องการ เรือกอนโดลาลำที่สองควรหันไปทางลำแรกเพื่อให้สายเคเบิลเป็นเส้นทางตรง",
+    "thai": "กระเช้าขนส่งสามารถใช้เพื่อขนส่งทรัพยากรขึ้นและลงทางลาดได้อย่างง่ายดาย\n\nสร้างสถานีกระเช้าลอยฟ้าแห่งแรกโดยให้ด้านเคเบิลคาร์หันหน้าไปในทิศทางที่ต้องการ กระเช้าลอยฟ้าเครื่องที่สองควรหันไปทางลำแรกเพื่อให้สายเคเบิลเป็นเส้นทางตรง",
   },
   "immigrationTutorialTitle": {
     "english": "Immigration",
@@ -353,8 +354,10 @@
   },
   "immigrationSecondTutorialParagraph": {
     "english": "Habitats continue to demand new immigrants until they are full. To get more workers, improve them or build more!\n\nTo improve a habitat, one must ensure a supply that meets basic needs and additional needs. For example, to improve basic habitat, you need to ensure oxygen, but also water and survival food.\n\nIf even the basic requirements are not met, the habitat will deteriorate. This results in the loss of workers in case the habitat used to accommodate more than it can accommodate now.",
+    "french": "Les habitats continuent à demander de nouveaux immigrants jusqu'à ce qu'ils soient pleins. Pour obtenir plus de travailleurs, améliorez-les ou construisez-en davantage !\n\nPour améliorer un habitat, il faut assurer un approvisionnement qui réponde aux besoins de base et aux besoins complémentaires. Par exemple, pour améliorer l'habitat de base, il faut assurer l'oxygène, mais aussi l'eau et la nourriture de survie.\n\nSi même les exigences de base ne sont pas satisfaites, l'habitat se détériore. Cela entraîne la perte de travailleurs si l'habitat accueillait plus de personnes qu'il ne peut en accueillir aujourd'hui.",
     "italian": "Gli habitat continuano a richiedere nuovi immigrati finché non saranno pieni. Per avere più lavoratori, migliorali o costruiscine di più!\n\nPer migliorare un habitat, bisogna garantire una fornitura che soddisfi i bisogni di base e i bisogni aggiuntivi. Per esempio, per migliorare l'habitat di base, bisognerà garantire ossigeno, ma anche acqua e cibo di sopravvivenza.\n\nSe i nemmeno i requisiti di base sono soddisfatti, l'habitat peggiorerà. Questo comporta la perdita di lavoratori nel caso che l'habitat ne ospitava di più di quanti può accoglierne adesso.",
-  }, 
+    "thai": "ที่อยู่อาศัยยังคงเรียกร้องผู้อพยพใหม่จนกว่าจะเต็ม หากต้องการรับคนงานเพิ่มขึ้น ปรับปรุงหรือสร้างเพิ่มมากขึ้น!\n\nเพื่อปรับปรุงแหล่งที่อยู่อาศัย เราจะต้องแน่ใจว่ามีอุปทานที่ตรงกับความต้องการขั้นพื้นฐานและความต้องการเพิ่มเติม ตัวอย่างเช่น ในการปรับปรุงแหล่งที่อยู่อาศัยขั้นพื้นฐาน คุณต้องแน่ใจว่ามีออกซิเจน รวมถึงน้ำและอาหารเพื่อการยังชีพ\n\nหากไม่เป็นไปตามข้อกำหนดขั้นพื้นฐาน แหล่งที่อยู่อาศัยก็จะเสื่อมโทรมลง ส่งผลให้ต้องสูญเสียคนงานไปในกรณีที่ถิ่นที่อยู่อาศัยเคยรองรับได้มากกว่าที่จะสามารถรองรับได้ในปัจจุบัน",
+  },
   "productionOverviewTutorialTitle": {
     "english": "Production overview",
     "german": "Produktionsübersicht",
@@ -388,7 +391,7 @@
     "french": "Pour que certains de vos bâtiments ne fournissent des ressources qu'à des industries spécifiques, vous pouvez utiliser des quartiers et relier les bâtiments souhaités entre eux.\n\nOuvrez le panneau Quartiers sur le côté gauche de l'écran. Pour créer le premier quartier, sélectionnez la largeur de pinceau souhaitée et peignez la zone située sous les bâtiments à partir desquels vous souhaitez exporter une ressource particulière. Ensuite, peignez la zone située sous les bâtiments à partir desquels vous voulez qu'ils importent la ressource.\n\nSélectionnez ensuite la ressource souhaitée dans le panneau Quartiers. Enfin, cliquez sur le quartier à exporter et faites glisser la flèche qui apparaît vers le quartier à importer.\n\nAinsi, les bâtiments du premier quartier ne seront exportés que vers les bâtiments du deuxième quartier. Vous pouvez également relier un quartier à lui-même en faisant glisser la flèche à l'intérieur de celui-ci !",
     "italian": "Per fare in modo che alcuni edifici consegnino le risorse solo a determinate industrie, puoi usare i Distretti e collegare gli edifici desiderati tra di loro. \n\nApri il pannello “Distretti”, sulla sinistra dello schermo. Per creare il primo distretto, seleziona l’ampiezza del pennello che desideri, e dipingi l’area sottostante agli edifici dai quali vuoi esportare una determinata risorsa. Dopodichè, dipingi l’area sottostante agli edifici che vuoi che la importino.\n\nOra seleziona la risorsa desiderata nel pannello “Distretti”. Infine, clicca sul distretto che deve esportare e trascina la freccia che apparirà fino al distretto che vuole importare.\n\nIn questo modo, gli edifici nel primo distretto esporteranno la risorsa selezionata solo agli edifici del secondo distretto. Puoi anche collegare un distretto con se stesso trascinando la freccia al suo interno!",
     "chinese": "要想让某些建筑只为特定行业提供资源，可以使用地区并将所需的建筑关联在一起。\n\n打开屏幕左侧的地区面板。要创建第一个区域，请选择所需的画笔宽度，并在要输出特定资源的建筑物下方区域涂画。然后，在你希望他们导入资源的建筑物下方绘制区域。\n\n现在在地区面板中选择所需的资源。最后，点击你需要导出的区域，然后将出现的箭头拖到你想要运输的区域。\n\n这样，第一个地区的建筑就只能运输到第二个地区的建筑！",
-    "thai": "เมื่อใช้การแบ่งเขต คุณสามารถจัดการการจัดส่งในเมืองของคุณได้\n\nเปิดแผงเขตทางด้านซ้ายของหน้าจอ หากต้องการสร้างเขตแรก ให้เลือกความกว้างของแปรงที่คุณต้องการ และทาสีพื้นที่ด้านล่างอาคารที่คุณต้องการส่งออกทรัพยากรเฉพาะ หลังจากนั้น ทาสีพื้นที่ด้านล่างอาคารที่คุณต้องการนำเข้า\n\nตอนนี้เลือกทรัพยากรที่ต้องการในแผงเขต สุดท้าย คลิกที่เขตที่คุณต้องการส่งออกแล้วลากลูกศรที่จะปรากฏในเขตที่คุณต้องการนำเข้า\n\nด้วยวิธีนี้ อาคารในเขตแรกจะส่งออกเฉพาะทรัพยากรที่เลือกไปยังอาคารในเขตที่สอง คุณยังสามารถเชื่อมโยงเขตกับเขตนั้นได้ด้วยการลากลูกศรที่อยู่ด้านใน!",
+    "thai": "เมื่อใช้การแบ่งเขต คุณสามารถจัดการการจัดส่งในเมืองของคุณได้\n\nเปิดแผงเขตทางด้านซ้ายของหน้าจอ หากต้องการสร้างเขตแรก ให้เลือกความกว้างของแปรงที่คุณต้องการ และทาสีพื้นที่ด้านล่างสิ่งก่อสร้างที่คุณต้องการส่งออกทรัพยากรเฉพาะ หลังจากนั้น ทาสีพื้นที่ด้านล่างสิ่งก่อสร้างที่คุณต้องการนำเข้า\n\nตอนนี้เลือกทรัพยากรที่ต้องการในแผงเขต สุดท้าย คลิกที่เขตที่คุณต้องการส่งออกแล้วลากลูกศรที่จะปรากฏในเขตที่คุณต้องการนำเข้า\n\nด้วยวิธีนี้ สิ่งก่อสร้างในเขตแรกจะส่งออกเฉพาะทรัพยากรที่เลือกไปยังสิ่งก่อสร้างในเขตที่สอง คุณยังสามารถเชื่อมโยงเขตกับเขตนั้นได้ด้วยการลากลูกศรที่อยู่ด้านใน!",
   },
   "powerTutorialTitle": {
     "english": "Power",
@@ -406,7 +409,7 @@
     "french": "L'électricité est essentielle au fonctionnement des bâtiments.\n\nLes poteaux électriques et les sous-stations sont les deux seuls moyens de diffuser l'électricité aux bâtiments environnants, et ils doivent être connectés à une ou plusieurs sources d'énergie. Les pôles ont un rayon d'action très réduit, mais en se connectant les uns aux autres, ils peuvent couvrir des zones très étendues.",
     "italian": "L’energia elettrica è indispensabile al funzionamento degli edifici.\n\nÈ possibile utilizzare i pali elettrici e le sottostazioni elettriche per diffondere l'energia elettrica agli edifici circostanti, e vanno connessi a una o più fonti di energia. I pali hanno un raggio molto ridotto, ma connettendosi gli uni agli altri possono coprire aree molto vaste.",
     "chinese": "电力对建筑的运作至关重要。\n\n电线杆和变电站是向周围建筑供电的唯二的方式，它们必须与一个或多个电源相连。电线杆的半径很小，但通过相互连接，它们可以覆盖很大的区域。",
-    "thai": "ไฟฟ้าเป็นสิ่งสำคัญในการดำเนินงานของอาคาร\n\nคุณสามารถใช้เสาไฟฟ้าและสถานีไฟฟ้าย่อยเพื่อกระจายไฟฟ้าไปยังอาคารโดยรอบ และต้องเชื่อมต่อกับแหล่งพลังงานอย่างน้อย 1 แห่ง เสามีรัศมีเล็กมาก แต่เมื่อเชื่อมต่อกันก็สามารถครอบคลุมพื้นที่ขนาดใหญ่มากได้",
+    "thai": "ไฟฟ้าเป็นสิ่งสำคัญในการดำเนินงานของสิ่งก่อสร้าง\n\nคุณสามารถใช้เสาไฟฟ้าและสถานีไฟฟ้าย่อยเพื่อกระจายไฟฟ้าไปยังสิ่งก่อสร้างโดยรอบ และต้องเชื่อมต่อกับแหล่งพลังงานอย่างน้อย 1 แห่ง เสามีรัศมีเล็กมาก แต่เมื่อเชื่อมต่อกันก็สามารถครอบคลุมพื้นที่ขนาดใหญ่มากได้",
   },
   "powerSecondTutorialParagraph": {
     "english": "The set of energy sources connected together is called Power Network. When the power produced is not enough for the buildings that use it, you will have slowed production.",
@@ -414,7 +417,7 @@
     "french": "L'ensemble des sources d'énergie connectées entre elles est appelé réseau électrique. Lorsque l'énergie produite n'est pas suffisante pour les bâtiments qui l'utilisent, il y a ralentissement de la production.",
     "italian": "L’insieme delle fonti di energia connesse tra loro, è chiamato Rete Elettrica. Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
     "chinese": "连接在一起的能源被称为电力网络。当生产的电力不足以满足建筑的使用需求时，就会导致生产放缓。",
-    "thai": "ชุดแหล่งพลังงานที่เชื่อมต่อเข้าด้วยกันเรียกว่า โครงข่ายพลังงงาน เมื่อพลังงานที่ผลิตได้ไม่เพียงพอสำหรับอาคารที่ใช้งาน คุณจะผลิตได้ช้าลง",
+    "thai": "ชุดแหล่งพลังงานที่เชื่อมต่อเข้าด้วยกันเรียกว่า โครงข่ายพลังงงาน เมื่อพลังงานที่ผลิตได้ไม่เพียงพอสำหรับสิ่งก่อสร้างที่ใช้งาน คุณจะผลิตได้ช้าลง",
   },
   "shapingTheRoadsTutorialTitle": {
     "english": "Shaping the roads",
@@ -449,7 +452,7 @@
     "french": "Ces centres sont essentiels à la gestion efficace des ressources, car ils assurent l'approvisionnement régulier des industries. Utilisez-les pour optimiser la gestion des ressources et assurer le bon fonctionnement de vos chaînes de production !\n\nLe centre de collecte recueille les ressources des industries environnantes, tandis que le centre de distribution les distribue aux industries environnantes. Cliquez sur le bâtiment et sélectionnez la ressource souhaitée, puis définissez le rayon d'action et la capacité de stockage.\n\nPour qu'ils fonctionnent, il faut relier les centres de collecte et de distribution souhaités via le panneau d'information du bâtiment.\n\nLorsque la demande de ressources est épuisée, le stockage du centre de distribution est d'abord rempli, puis celui du centre de collecte.",
     "italian": "Questi centri sono fondamentali per gestire le risorse in modo efficace, in quanto procurano una fornitura regolare alle industrie. Utilizzali per ottimizzare la gestione delle risorse e far funzionare le tua catene di produzione senza troppi intoppi!\n\nIl centro di raccolta raccoglie le risorse dalle industrie circostanti, mentre il centro di distribuzione le distribuisce alle industrie circostanti. Clicca sull'edificio e seleziona la risorsa desiderata, dopodiché stabilisci il raggio di azione e la capacità di stoccaggio.\n\nAffinché funzionino, collega tra loro i centri di raccolta e i centri di distribuzione desiderati tramite il pannello informativo dell'edificio.\n\nQuando la domanda di risorse si sarà esaurita, si riempirà dapprima il deposito del centro di distribuzione, e poi il deposito del centro di raccolta.",
     "chinese": "这些中心是有效管理资源的关键，因为它们为各行业提供稳定的供应。利用它们来优化资源管理，保持生产链顺利运作！\n\n收集中心从周围的工厂收集资源，而配送中心则将资源分配给周围的行业。点击建筑并选择所需的资源，然后设置运作半径和存储容量。\n\n为了让它们发挥作用，通过建筑的信息面板将所需的收集中心和配送中心连接在一起。\n\n当资源需求耗尽时，首先会填满配送中心的存储库存，然后再填满收集中心的存储库存。",
-    "thai": "ศูนย์เหล่านี้เป็นกุญแจสำคัญในการจัดการทรัพยากรอย่างมีประสิทธิภาพ เนื่องจากศูนย์เหล่านี้จัดหาอุปทานที่มั่นคงให้กับอุตสาหกรรม ใช้สิ่งเหล่านี้เพื่อเพิ่มประสิทธิภาพการจัดการทรัพยากรและทำให้ห่วงโซ่การผลิตของคุณทำงานได้อย่างราบรื่น!\n\nศูนย์รวบรวมรวบรวมทรัพยากรจากอุตสาหกรรมโดยรอบ ในขณะที่ศูนย์กระจายสินค้าจะกระจายทรัพยากรไปยังอุตสาหกรรมโดยรอบ คลิกที่อาคารและเลือกทรัพยากรที่ต้องการ จากนั้นตั้งค่ารัศมีการจัดส่งและความจุในการจัดเก็บ\n\nเพื่อให้สิ่งเหล่านั้นทำงานได้ ให้เชื่อมโยงศูนย์รวบรวมและกระจายสินค้าที่ต้องการเข้าด้วยกันผ่านแผงข้อมูลของอาคาร\n\nเมื่อมีความต้องการทรัพยากร หมดไปแล้ว ขั้นแรกให้เติมคลังศูนย์กระจายสินค้าให้เต็ม แล้วจึงเติมคลังศูนย์รวบรวม",
+    "thai": "ศูนย์เหล่านี้เป็นกุญแจสำคัญในการจัดการทรัพยากรอย่างมีประสิทธิภาพ เนื่องจากศูนย์เหล่านี้จัดหาอุปทานที่มั่นคงให้กับอุตสาหกรรม ใช้สิ่งเหล่านี้เพื่อเพิ่มประสิทธิภาพการจัดการทรัพยากรและทำให้ห่วงโซ่การผลิตของคุณทำงานได้อย่างราบรื่น!\n\nศูนย์รวบรวมรวบรวมทรัพยากรจากอุตสาหกรรมโดยรอบ ในขณะที่ศูนย์กระจายสินค้าจะกระจายทรัพยากรไปยังอุตสาหกรรมโดยรอบ คลิกที่สิ่งก่อสร้างและเลือกทรัพยากรที่ต้องการ จากนั้นตั้งค่ารัศมีการจัดส่งและความจุในการจัดเก็บ\n\nเพื่อให้สิ่งเหล่านั้นทำงานได้ ให้เชื่อมโยงศูนย์รวบรวมและกระจายสินค้าที่ต้องการเข้าด้วยกันผ่านแผงข้อมูลของสิ่งก่อสร้าง\n\nเมื่อมีความต้องการทรัพยากร หมดไปแล้ว ขั้นแรกให้เติมคลังศูนย์กระจายสินค้าให้เต็ม แล้วจึงเติมคลังศูนย์รวบรวม",
   },
   "welcomeTutorialTitle": {
     "english": "Welcome!",
@@ -472,6 +475,7 @@
   "spaceshipRepairTutorialTitle": {
     "english": "Spaceship repair",
     "german": "Reparatur des Raumschiffs",
+    "french": "Réparation du vaisseau spatial",
     "italian": "Riparazione della nave spaziale",
     "thai": "การซ่อมแซมยานอวกาศ",
     "turkish": "Uzay gemisi onarımı",
@@ -479,6 +483,7 @@
   "spaceshipRepairFirstTutorialParagraph": {
     "english": "Repairing the spaceship Antares must be done in stages, and for each element you manage to repair you will get a bonus. To repair the spacecraft, you need a Spaceship Construction Facility, which you can find in the \"Transport\" category.",
     "german": "Das Raumschiff Antares wird in mehreren Stufen repariert. Mit jedem reparierten Bauteil schaltest du einen Bonus frei. Um mit der Reparatur zu beginnen, brauchst du die Raumschiffswerft, welche du in der Kategorie \"Transport\" finden kannst.",
+    "french": "La réparation du vaisseau Antares doit se faire par étapes, et pour chaque élément que vous réussirez à réparer, vous obtiendrez un bonus. Pour réparer le vaisseau spatial, vous avez besoin d'une installation de construction de vaisseaux spatiaux, que vous pouvez trouver dans la catégorie \"Transport\".",
     "italian": "La riparazione della nave spaziale Antares deve essere effettuata in fasi, e per ogni elemento che riuscirai a riparare otterrai un bonus. Per riparare la nave spaziale, hai bisogno dell'Impianto per la costruzione della Nave Spaziale, che puoi trovare nella categoria \"Trasporti\"",
     "thai": "การซ่อมยานอวกาศอันทาเรสจะต้องดำเนินการเป็นขั้นตอน และสำหรับแต่ละองค์ประกอบที่คุณจัดการเพื่อซ่อมแซม คุณจะได้รับโบนัส ในการซ่อมยานอวกาศ คุณต้องมีสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ ซึ่งคุณสามารถพบได้ในหมวดหมู่ \"การขนส่ง\"",
     "turkish": "Antares uzay gemisinin onarımı aşamalı olarak yapılmalıdır ve onarmayı başardığınız her öğe için bir bonus alacaksınız. Uzay aracını onarmak için \"Ulaşım\" kategorisinde bulabileceğiniz bir Uzay Gemisi İnşaat Tesisine ihtiyacınız var.",
@@ -486,6 +491,7 @@
   "spaceshipRepairSecondTutorialParagraph": {
     "english": "To select a component to repair, open the Antares menu at the top left of the screen, clicking on the spaceship icon. Each repair will need many specific resources and will offer a bonus when completed. Select the one you want to start with and click on \"Repair\".",
     "german": "Um ein Bauteil zur Reparatur auszuwählen musst du das Raumschiffmenü mit dem Knopf links oben auf dem Bildschirm öffnen. Jede Reparatur benötigt bestimmte Materialien und gibt einen bestimmten Bonus. Wähle ein Bauteil zur Reperatur aus und klicke auf \"Reparieren\".",
+    "french": "Pour sélectionner un composant à réparer, ouvrez le menu Antares en haut à gauche de l'écran, en cliquant sur l'icône du vaisseau spatial. Chaque réparation nécessitera plusieurs ressources spécifiques et offrira un bonus lorsqu'elle sera terminée. Sélectionnez celui par lequel vous voulez commencer et cliquez sur \"Réparer\".",
     "italian": "Per selezionare una riparazione, apri il menu di Antares in alto a sinistra dello schermo, cliccando sull'icona della nave spaziale. Ogni riparazione richiederà diverse specifiche risorse e offrirà un bonus una volta completata. Seleziona quella con cui desideri iniziare e clicca su \"Ripara\"",
     "thai": "หากต้องการเลือกการซ่อมแซม ให้เปิดเมนูอันทาเรสที่ด้านซ้ายบนของหน้าจอ โดยคลิกที่ไอคอนยานอวกาศ การซ่อมแซมแต่ละครั้งจะต้องใช้ทรัพยากรเฉพาะจำนวนมาก และจะมอบโบนัสเมื่อเสร็จสิ้น เลือกอันที่คุณต้องการเริ่มต้นและคลิกที่ \"ซ่อมแซม\"",
     "turkish": "Bir onarım seçmek için ekranın sol üst köşesindeki Antares menüsünü açın ve uzay gemisi simgesine tıklayın. Her onarım birçok özel kaynağa ihtiyaç duyacak ve tamamlandığında bir bonus sunacaktır. Başlamak istediğinizi seçin ve \"Onar\"a tıklayın.",
@@ -493,6 +499,7 @@
   "spaceshipRepairThirdTutorialParagraph": {
     "english": "Once the component to repair is selected, the Spaceship Construction Facility will request the necessary resources to ship them to Antares.\n\nNote: building multiple Spaceship Construction Facilities does not allow you to select multiple repairs at once.",
     "german": "Sobald ein Bauteil zur Reparatur ausgewählt wurde, fängt die Raumschiffswerft an, die notwendigen Materialien anzuforden und zu Antares zu schicken.\n\nInfo: Du kannst nur ein Bauteil gleichzeitig reparieren. Das Bauen von mehreren Raumschiffswerften ändert das nicht.",
+    "french": "Une fois le composant à réparer sélectionné, l'installation de construction de vaisseaux spatiaux demandera les ressources nécessaires pour les acheminer vers Antares.\n\nRemarque : la construction de plusieurs installations de construction de vaisseaux spatiaux ne vous permet pas de sélectionner plusieurs réparations à la fois.",
     "italian": "Una volta selezionata la riparazione, l'Impianto per la costruzione della Nave Spaziale richiederà le risorse necessarie per inviarle ad Antares.\n\nNota: la costruzione di più Impianti per la costruzione della Nave Spaziale non ti consente di selezionare più riparazioni contemporaneamente.",
     "thai": "เมื่อเลือกการซ่อมแซมแล้ว สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศจะขอทรัพยากรที่จำเป็นเพื่อจัดส่งไปยังอันทาเรส\n\nหมายเหตุ: การสร้างสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศหลายรายการไม่อนุญาตให้คุณเลือกการซ่อมแซมหลายรายการในคราวเดียว",
     "turkish": "Onarım seçildikten sonra, Uzay Gemisi İnşaat Tesisi bunları Antares'e göndermek için gerekli kaynakları isteyecektir.\n\nNot: birden fazla Uzay Gemisi İnşaat Tesisi inşa etmek aynı anda birden fazla onarımı seçmenize izin vermez.",
@@ -501,13 +508,15 @@
   "spaceshipRepairFourthTutorialParagraph": {
     "english": "Tip: keep in mind that for the complete repair of Antares you will need all kinds of resources. You can choose to place the Spaceship Construction Facility in a focal point, or move/rebuild the building to another area once a repair is complete. You can also direct the desired resources through districts or distribution centers. To learn more, see the encyclopedia's \"Districts\" and \"Distribution centers\" articles.",
     "german": "Tipp: Bedenke, dass du für die vollständige Reparatur von Antares viele verschiedene Güter benötigen wirst. Du kannst die Raumschiffswerft im Zentrum der Stadt bauen oder sie nach der Reparatur eines Bauteils verschieben. Du kannst außerdem Bezirke und Verteilzentren verwenden um die Verteilung von Ressourcen nach deinen Wünschen zu lenken. Mehr Informationen findest du in den Enzyklopädiekapiteln \"Bezirke\" und \"Verteilzentren\".",
+    "french": "Conseil : gardez à l'esprit que pour la réparation complète d'Antarès, vous aurez besoin de toutes sortes de ressources. Vous pouvez choisir de placer l'usine de construction de vaisseaux spatiaux dans un point central, ou de déplacer/reconstruire le bâtiment dans une autre zone une fois la réparation terminée. Vous pouvez également diriger les ressources souhaitées vers des districts ou des centres de distribution. Pour en savoir plus, voir les articles \"Quartiers\" et \"Centres de distribution\" de l'encyclopédie.",
     "italian": "Suggerimento: tieni presente che per la completa riparazione di Antares avrai bisogno di tante risorse differenti. Puoi scegliere di posizionare l'Impianto per la costruzione della Nave Spaziale in un punto nevralgico o spostarla/ricostruirla in un'altra area, una volta completata una riparazione. Puoi anche indirizzare le risorse desiderate attraverso distretti o centri di distribuzione. Per saperne di più, consulta le voci \"Distretti\" e \"Centri di distribuzione\" dell'enciclopedia.",
-    "thai": "เคล็ดลับ: โปรดจำไว้ว่าสำหรับการซ่อมแซมอันทาเรสโดยสมบูรณ์คุณจะต้องมีทรัพยากรทุกประเภท คุณสามารถเลือกวางสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศไว้ในจุดโฟกัส หรือย้าย/สร้างอาคารใหม่ไปยังพื้นที่อื่นได้เมื่อการซ่อมแซมเสร็จสิ้น คุณยังสามารถสร้างสิ่งอำนวยความสะดวกการก่อสร้างยานอวกาศหลายแห่งและควบคุมทรัพยากรที่ต้องการผ่านเขตหรือศูนย์กระจายสินค้า หากต้องการเรียนรู้เพิ่มเติม โปรดดูบทความ \"เขต\" และ \"ศูนย์กระจายสินค้า\" ของสารานุกรม",
+    "thai": "เคล็ดลับ: โปรดจำไว้ว่าสำหรับการซ่อมแซมอันทาเรสโดยสมบูรณ์คุณจะต้องมีทรัพยากรทุกประเภท คุณสามารถเลือกวางสิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศไว้ในจุดโฟกัส หรือย้าย/สร้างสิ่งก่อสร้างใหม่ไปยังพื้นที่อื่นได้เมื่อการซ่อมแซมเสร็จสิ้น คุณยังสามารถสร้างสิ่งอำนวยความสะดวกการก่อสร้างยานอวกาศหลายแห่งและควบคุมทรัพยากรที่ต้องการผ่านเขตหรือศูนย์กระจายสินค้า หากต้องการเรียนรู้เพิ่มเติม โปรดดูบทความ \"เขต\" และ \"ศูนย์กระจายสินค้า\" ของสารานุกรม",
     "turkish": "Tavsiye: Antares'in tamamen onarılması için her türlü kaynağa ihtiyacınız olacağını unutmayın. Uzay Gemisi İnşaat Tesisini bir odak noktasına yerleştirmeyi veya onarım tamamlandıktan sonra binayı başka bir alana taşımayı/yeniden inşa etmeyi seçebilirsiniz. Ayrıca birden fazla Uzay Gemisi İnşaat Tesisi inşa edebilir ve istediğiniz kaynakları bölgeler veya dağıtım merkezleri aracılığıyla yönlendirebilirsiniz. Daha fazla bilgi edinmek için ansiklopedideki \"Bölgeler\" ve \"Dağıtım merkezleri\" makalelerine bakın.",
   },
   "targetingStationTutorialTitle": {
     "english": "Laser Targeting Station",
     "german": "Laserzielstation",
+    "french": "Station de ciblage laser",
     "italian": "Stazione di puntamento laser",
     "thai": "สถานีกำหนดเป้าหมายด้วยเลเซอร์",
     "turkish": "Lazer Hedefleme İstasyonu",
@@ -515,6 +524,7 @@
   "targetingStationFirstTutorialParagraph": {
     "english": "Among the available repairs to the Antares spacecraft is the Laser Cannon. This repair unlocks the ability to remove certain plants, rocks or resources from the game by means of a powerful laser!\n\nOnce the Antares Laser Cannon repair is completed, place the Laser Targeting Station. It is located in the \"Miscellaneous\" category.\n\nTo learn more about the Antares spacecraft repair, see the \"Spaceship repair\" article in the encyclopedia.",
     "german": "Die Laserkanone ist eines der zu reparierenden Komponenten von Antares. Nach der Reparatur kannst du mit dem mächtigen Laser Pflanzen, Felsen und Ressourcen neben deiner Stadt entfernen!\n\nWenn die Reparatur fertiggestellt ist, musst du noch die Laserzielstation platzieren. Du findest sie in der Kategorie \"Sonstiges\".\n\nMehr Informationen zur Reparatur von Raumschiffteilen findest du im Artikel \"Reperatur des Raumschiffs\".",
+    "french": "Parmi les réparations disponibles pour le vaisseau spatial Antares, il y a le canon laser. Cette réparation permet d'éliminer certaines plantes, roches ou ressources de la partie à l'aide d'un puissant laser !\n\nUne fois la réparation du canon laser Antares terminée, placez la station de ciblage laser. Elle se trouve dans la catégorie \"Divers\".\n\nPour en savoir plus sur la réparation du vaisseau spatial Antares, voir l'article \"Réparation du vaisseau spatial\" de l'encyclopédie.",
     "italian": "Tra le riparazioni disponibili per la nave spaziale Antares c'è il Cannone Laser. Questa riparazione sblocca la capacità di rimuovere certe piante, rocce o risorse dal gioco mediante un potente raggio laser!\n\nUna volta completata la riparazione del Cannone Laser Antares, posiziona la Stazione di puntamento laser. Si trova nella categoria \"Varie\" e non ha bisogno di lavoratori, alimentazione o accesso stradale.\n\nPer saperne di più sulla riparazione della nave spaziale Antares, consulta la voce \"Riparazione della nave spaziale\" nell'enciclopedia.",
     "thai": "การซ่อมแซมยานอวกาศอันทาเรสที่มีอยู่คือ Laser Cannon การซ่อมแซมนี้จะปลดล็อกความสามารถในการกำจัดต้นไม้ หิน หรือทรัพยากรบางอย่างออกจากเกมด้วยเลเซอร์อันทรงพลัง!\n\nเมื่อการซ่อมแซมปืนใหญ่เลเซอร์ Antares เสร็จสิ้น ให้วางสถานีกำหนดเป้าหมายด้วยเลเซอร์ ตั้งอยู่ในหมวดหมู่ \"เบ็ดเตล็ด\" และไม่จำเป็นต้องมีคนงาน ไฟฟ้า หรือถนน\n\nหากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการซ่อมยานอวกาศอันทาเรสโปรดดูบทความ \"การซ่อมแซมยานอวกาศ\" ในสารานุกรม",
     "turkish": "Antares uzay aracının mevcut onarımları arasında Lazer Topu da bulunmaktadır. Bu onarım, belirli bitkileri, kayaları veya kaynakları güçlü bir lazer aracılığıyla oyundan kaldırma yeteneğinin kilidini açar!\n\nAntares Lazer Topu onarımı tamamlandığında, Lazer Hedefleme İstasyonunu yerleştirin. \"Çeşitli\" kategorisinde yer alır ve işçiye, enerjiye veya yol erişimine ihtiyaç duymaz.\n\nAntares uzay aracı onarımı hakkında daha fazla bilgi edinmek için ansiklopedideki \"Uzay gemisi onarımı\" makalesine bakın.",
@@ -522,6 +532,7 @@
   "targetingStationSecondTutorialParagraph": {
     "english": "By clicking on the building, you can select the obstacles you wish to eliminate. The laser is not immediate, and you can stop the operation at any time before the laser destroys the selected rock, resource, or plant.\n\nWarning: the process is not reversible, so think twice before eliminating resources!",
     "german": "Wenn du auf das Gebäude klickst, kannst du auswählen, welche Hindernisse du entfernen willst. Der Laser braucht für das zerstückeln einige Zeit und du kannst die Arbeit jederzeit abbrechen.\n\nWarnung: Du kannst die Zerstörung nicht rückgängig machen, also überlege es dir vorher gut!",
+    "french": "En cliquant sur le bâtiment, vous pouvez sélectionner les obstacles que vous souhaitez éliminer. Le laser n'est pas immédiat et vous pouvez interrompre l'opération à tout moment avant que le laser ne détruise la roche, la ressource ou la plante sélectionnée.\n\nAttention : le processus n'est pas réversible, il faut donc réfléchir à deux fois avant d'éliminer des ressources !",
     "italian": "Cliccando sull'edificio, puoi selezionare gli elementi che desideri eliminare. Il laser non è immediato, e puoi interrompere l'operazione in qualsiasi momento prima che il laser distrugga la roccia, la risorsa o la pianta selezionata.\n\nAttenzione: il processo non è reversibile, quindi rifletti attentamente prima di eliminare risorse!",
     "thai": "เมื่อคลิกที่สิ่งปลูกสร้าง คุณสามารถเลือกองค์ประกอบที่คุณต้องการกำจัดได้ เลเซอร์ไม่ได้เกิดขึ้นทันที และคุณสามารถหยุดการทำงานได้ตลอดเวลาก่อนที่เลเซอร์จะทำลายหิน ทรัพยากร หรือพืชที่เลือก\n\nคำเตือน: กระบวนการนี้ไม่สามารถย้อนกลับได้ ดังนั้นควรคิดให้รอบคอบก่อนจะกำจัดทรัพยากร!",
     "turkish": "Binanın üzerine tıklayarak ortadan kaldırmak istediğiniz unsurları seçebilirsiniz. Lazer anında gerçekleşmez ve lazer seçilen kayayı, kaynağı veya bitkiyi yok etmeden önce işlemi istediğiniz zaman durdurabilirsiniz.\n\nUyarı: süreç geri döndürülemez, bu nedenle kaynakları ortadan kaldırmadan önce iki kez düşünün!",
@@ -529,6 +540,7 @@
   "researchTutorialTitle": {
     "english": "Research",
     "german": "Forschung",
+    "french": "Recherche",
     "italian": "Ricerca",
     "thai": "วิจัย",
     "turkish": "Araştırma",
@@ -536,13 +548,15 @@
   "researchFirstTutorialParagraph": {
     "english": "To unlock new buildings, infrastructure, or upgrades, you need to develop new technologies through scientific research. This is why you need a Research Lab! Select it in the \"Science\" category and place it on the map.",
     "german": "Um neue Gebäude, Infrastrukutr oder Upgrades freizuschalten, musst du neue Technologien freischalten. Dafür brauchst du ein Forschungslabor! Wähle es in der Kategorie \"Wissenschaft\" aus und platziere es auf der Karte.",
+    "french": "Pour débloquer de nouveaux bâtiments, infrastructures ou améliorations, vous devez développer de nouvelles technologies grâce à la recherche scientifique. C'est pourquoi vous avez besoin d'un laboratoire de recherche ! Sélectionnez-le dans la catégorie \"Science\" et placez-le sur la carte.",
     "italian": "Per sbloccare nuovi edifici o miglioramenti, devi sviluppare nuove tecnologie attraverso la ricerca scientifica. Ecco perché hai bisogno di un Laboratorio di ricerca! Selezionalo nella categoria \"Scienza\" e posizionalo sulla mappa.",
-    "thai": "เพื่อปลดล็อกอาคารหรือการอัพเกรดใหม่ คุณต้องพัฒนาเทคโนโลยีใหม่ผ่านการวิจัยทางวิทยาศาสตร์ นี่คือเหตุผลที่คุณต้องการห้องปฏิบัติการวิจัย! เลือกในหมวดหมู่ \"วิทยาศาสตร์\" และวางไว้บนแผนที่",
+    "thai": "เพื่อปลดล็อกสิ่งก่อสร้างหรือการอัพเกรดใหม่ คุณต้องพัฒนาเทคโนโลยีใหม่ผ่านการวิจัยทางวิทยาศาสตร์ นี่คือเหตุผลที่คุณต้องการห้องปฏิบัติการวิจัย! เลือกในหมวดหมู่ \"วิทยาศาสตร์\" และวางไว้บนแผนที่",
     "turkish": "Yeni binaların veya yükseltmelerin kilidini açmak için bilimsel araştırmalar yoluyla yeni teknolojiler geliştirmeniz gerekir. Bu yüzden bir Araştırma Laboratuvarına ihtiyacınız var! \"Bilim\" kategorisinde seçin ve haritaya yerleştirin.",
   },
   "researchSecondTutorialParagraph": {
     "english": "Now you can select a technology to research. Open the \"Research\" menu by clicking on the microscope icon at the top left of the screen. Select the desired technology from those available and close the menu.",
     "german": "Jetzt kannst du eine Technologie zur Erforschung auswählen. Öffne das Forschungsmenü indem du auf das Mikroskop links oben auf dem Bildschrim klickst. Wähle eine Technologie aus und schließe das Menü.",
+    "french": "Vous pouvez maintenant sélectionner une technologie à étudier. Ouvrez le menu \"Recherche\" en cliquant sur l'icône du microscope en haut à gauche de l'écran. Sélectionnez la technologie souhaitée parmi celles disponibles et fermez le menu.",
     "italian": "Ora puoi selezionare una ricerca. Apri il menu \"Ricerca\" cliccando sull'icona del microscopio in alto a sinistra dello schermo. Seleziona la ricerca desiderata tra quelle disponibili e chiudi il menu.",
     "thai": "ตอนนี้คุณสามารถเลือกงานวิจัยได้ เปิดเมนู \"การวิจัย\" โดยคลิกที่ไอคอนกล้องจุลทรรศน์ที่ด้านซ้ายบนของหน้าจอ เลือกงานวิจัยที่ต้องการจากที่มีอยู่แล้วปิดเมนู",
     "turkish": "Artık bir araştırma seçebilirsiniz. Ekranın sol üst kısmındaki mikroskop simgesine tıklayarak \"Araştırma\" menüsünü açın. Mevcut araştırmalardan istediğiniz araştırmayı seçin ve menüyü kapatın.",
@@ -551,16 +565,45 @@
   "researchThirdTutorialParagraph": {
     "english": "The Research Lab will now request blue, green, yellow, or red science packets depending on the technology selected. Once finished, you will be able to select the next technology. You can also put multiple technologies in a queue to research one after the other.\n\nNote: placing multiple Research Lab does not allow you to select multiple research at the same time.",
     "german": "Das Forschungslabor wird jetzt blaue, grüne, gelbe oder rote Wissenschaftspakete anfordern, je nachdem welche Technologie du ausgewählt hast. Wenn die Forschung abgeschlossen ist, kannst du die nächste Technologie auswählen. Du kannst auch mehrere Technologien auswählen, die dann nacheinander erforscht werden.\n\nInfo: Du kannst nur eine Technologie gleichzeitig erforschen, auch mit mehreren Forschungslaboren.",
+    "french": "Le laboratoire de recherche demandera alors des paquets scientifiques bleus, verts, jaunes ou rouges en fonction de la technologie sélectionnée. Une fois la recherche terminée, vous pourrez sélectionner la technologie suivante. Vous pouvez également placer plusieurs technologies dans une file d'attente pour effectuer des recherches l'une après l'autre.\n\nRemarque : le fait de placer plusieurs laboratoires de recherche ne vous permet pas de sélectionner plusieurs recherches en même temps.",
     "italian": "Il laboratorio di ricerca richiederà ora moduli scientifici blu, verdi, gialli o rossi a seconda della tecnologia selezionata. Una volta terminato, sarai in grado di selezionare la prossima ricerca. Puoi anche mettere più ricerche in coda in modo da ricercarle una dopo l'altra.\n\nNota: Posizionare più laboratori scientifici non ti consente di selezionare più ricerche contemporaneamente.",
     "thai": "ขณะนี้ห้องปฏิบัติการวิจัยจะขอชุดวิทยาศาสตร์สีน้ำเงิน เขียว เหลือง หรือแดง ขึ้นอยู่กับเทคโนโลยีที่เลือก เมื่อเสร็จแล้ว คุณจะสามารถเลือกงานวิจัยถัดไปได้\n\nหมายเหตุ: การวางห้องปฏิบัติการวิจัยหลายรายการไม่อนุญาตให้คุณเลือกงานวิจัยหลายชิ้นในเวลาเดียวกัน",
     "turkish": "Araştırma Laboratuvarı artık seçilen teknolojiye bağlı olarak mavi, yeşil, sarı veya kırmızı bilim paketleri isteyecektir. Bitirdiğinizde sonraki araştırmayı seçebileceksiniz.\n\nNot: Birden fazla Araştırma Laboratuvarı yerleştirmek, aynı anda birden fazla araştırma seçmenize izin vermez.",
   },
   "terraformingTutorialTitle": {
     "english": "Terraforming",
+    "french": "Terraformation",
     "italian": "Terraformazione",
+    "thai": "การสร้างพื้นผิว",
   },
   "terraformingFirstTutorialParagraph": {
     "english": "Terraforming requires special buildings with a range of action. You can find them in the \"Terraforming\" category. Each of them partially terraforms the ground. To make an area fully terraformed, you need the action of four of them at the same time. \n\nBy clicking on the \"Terraforming Progress\" panel, you can see the contribution of each type of building, and what the total terraforming progress is.",
-    "italian": "La terraformazione richiede degli edifici speciali con un raggio d'azione. Li puoi trovare nella categoria \"Terraformazione\". Ognuno di essi terraforma parzialmente il suolo. Per rendere un area completamente terraformata, serve l'azione di quattro di essi contemporaneamente. \n\\nCliccando sul pannello \"Progresso di terraformazione\", puoi consultare il contributo di ogni tipo di edificio, e qual è il progresso totale di terraformazione.",
+    "french": "La terraformation nécessite des bâtiments spéciaux dotés d'un champ d'action. Vous pouvez les trouver dans la catégorie \"Terraformation\". Chacun d'entre eux terraforme partiellement le sol. Pour qu'une zone soit entièrement terraformée, il faut l'action de quatre d'entre eux en même temps.\n\nEn cliquant sur le panneau \"Progression de la terraformation\", vous pouvez voir la contribution de chaque type de bâtiment et la progression totale de la terraformation.",
+    "italian": "La terraformazione richiede degli edifici speciali con un raggio d'azione. Li puoi trovare nella categoria \"Terraformazione\". Ognuno di essi terraforma parzialmente il suolo. Per rendere un area completamente terraformata, serve l'azione di quattro di essi contemporaneamente. \n\nCliccando sul pannello \"Progresso di terraformazione\", puoi consultare il contributo di ogni tipo di edificio, e qual è il progresso totale di terraformazione.",
+    "thai": "การสร้างพื้นผิวต้องใช้สิ่งปลูกสร้างพิเศษซึ่งมีระยะการทำงานที่หลากหลาย คุณสามารถค้นหาได้ในหมวดหมู่ \"การสร้างพื้นผิว\" แต่ละส่วนปรับสภาพพื้นดินบางส่วน หากต้องการสร้างพื้นที่ที่มีพื้นผิวทั้งหมด คุณต้องดำเนินการสี่ส่วนพร้อมกัน \n\nเมื่อคลิกที่แผง \"ความคืบหน้าของการสร้างพื้นผิว\" คุณจะเห็นการมีส่วนร่วมของสิ่งปลูกสร้างแต่ละประเภท และความคืบหน้าของการสร้างพื้นผิวทั้งหมด",
+  },
+  "factoryUpgradesTutorialTitle": {
+    "english": "Factory upgrades",
+    "italian": "Miglioramenti delle industrie",
+  },
+  "factoryUpgradesFirstTutorialParagraph": {
+    "english": "Most industries and power plants can be improved. You can see the upgrade status of each building in the respective information panel.\n\nBuildings that enable these improvements are: Recycling Center, Soil Enrichment Station, Industrial Robot Factory, and High-Tech Tools Factory.",
+    "italian": "La maggior parte delle industrie e delle centrali elettriche possono essere migliorate. È possibile vedere lo stato dei potenziamenti per ogni edificio nel rispettivo pannello informativo.\n\nGli edifici che permettono questi miglioramenti sono: Centro di riciclaggio, stazione di Arricchimento del suolo, fabbrica di Robot industriali e fabbrica di Strumenti ad alta tecnologia.",
+  },
+  "factoryUpgradesFirstTutorialHeading": {
+    "english": "Recycling Center and Soil Enrichment Plant",
+    "italian": "Centro di riciclaggio e impianto di arricchimento del suolo",
+  },
+  "factoryUpgradesSecondTutorialParagraph": {
+    "english": "These upgrades are area-generated from the corresponding buildings:\n\n- The recycling center enables resource-free production once in every five production cycles.\n\n- The soil enrichment plant increases the production rate of surrounding farms by 50 percent.\n\nPlace them near the desired industries and they will continuously increase productivity!",
+    "italian": "Questi potenziamenti sono generati ad area dai corrispettivi edifici:\n\n- Il centro di riciclaggio consente di produrre senza consumare risorse una volta ogni cinque cicli produttivi.\n\n- l'impianto di arricchimento del suolo aumenta del 50% la velocità di produzione delle fattorie circostanti.\n\nPosizionateli vicino alle industrie desiderate e aumenteranno continuamente la produttività!",
+  },
+  "factoryUpgradesSecondTutorialHeading": {
+    "english": "Industrial robots and high-tech tools",
+    "italian": "Robot industriali e strumenti ad alta tecnologia",
+  },
+  "factoryUpgradesThirdTutorialParagraph": {
+    "english": "Industrial robots and high-tech tools must be produced by the relevant industries and will be automatically sent to buildings in order of proximity. Once a single unit of Industrial Robots or High-Tech Tools is received, it will be used until it is consumed. After that, the industry will have to receive another one.\n\n- Industrial Robots will reduce the labor required by 1 unit, and can be used in any industry.\n\n- High-tech tools will increase production speed by 50%.",
+    "italian": "I robot industriali e gli strumenti ad alta tecnologia devono essere prodotti dalle relative industrie e saranno inviati automaticamente agli edifici in ordine di vicinanza. Una volta ricevuta una singola unità di Robot industriali o di strumenti ad alta tecnologia, questa verrà utilizzata fino a quando non sarà consumata. Dopodiché, l'industria dovrà riceverne un'altra.\n\n- I robot industriali ridurranno di 1 unità la manodopera necessaria, e potranno essere utilizzati in qualsiasi settore.\n\n- Gli strumenti ad alta tecnologia aumenteranno la velocità di produzione del 50%.",
   },
 }

@@ -1901,6 +1901,8 @@
 	"pan": {
 		"english": "Mouse Dragging",
 		"german": "Mausziehen",
+		"french": "Glisser la souris",
+		"thai": "การลากเมาส์",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -3566,7 +3568,7 @@
 		"slovak": "Vylepší systém akými sa domy rozhodujú o vylepšeniach. Berte v úvahe blízkosti služieb, hluk, vyhlásenia a ďalšie",
 		"portuguese": "Sistema aprimorado para decidir quando as moradias são atualizadas. Leva em consideração edifícios de serviço próximos, barulho, portaria e muito mais.",
 		"hungarian": "Továbbfejlesztett rendszer ami meghatározza, mikor jön el az ideje fejleszteni a lakásokat.\nSzámításba veszi a környező szolgáltatási építményeket, zajt, előírásokat és további tényezőket.",
-		"thai": "แก้ไขระบบการตัดสินใจเมื่อจะปรับปรุงแหล่งที่อยู่อาศัย โดยคำนึงถึงอาคารที่บริการ เสียงรบกวน กฎหมาย และอื่นๆ",
+		"thai": "แก้ไขระบบการตัดสินใจเมื่อจะปรับปรุงแหล่งที่อยู่อาศัย โดยคำนึงถึงสิ่งก่อสร้างที่บริการ เสียงรบกวน กฎหมาย และอื่นๆ",
 		"arabic": "نظام مطور ليقرر متى تتطور الوحدات السكنية. يأخذ في عين الاعتبار ما يجوارها من المباني الخدمية، الإزعاج، القوانين، والكثير.",
 		"turkish": "Habitatları yükseltmek için mutluluk sağlanmalı. Servis binaları, ses ve yönetim gibi faktörleri göz önüne alır.",
 		"romanian": "Sistem îmbunătățit pentru a decide când se modernizează habitatele. Ia în considerare clădirile de servicii din apropiere, zgomotul, ordonanțele și multe altele.",
@@ -3617,7 +3619,7 @@
 		"slovak": "Podpora pre balančné módy, nové budovy, infraštruktúru a suroviny, úpravu UI a módy so skriptami.",
 		"portuguese": "Suporte para mods de equilíbrio, mods de construção, mods de recursos, mods de interface do usuário, mods de infraestrutura e mods de script.",
 		"hungarian": "Támogatás egyensúly, építés, alapanyag, felhasználói felület, infrastruktúra és szkript modokhoz.",
-		"thai": "รองรับม็อดสมดุล ม็อดอาคาร ม็อดทรัพยากร ม็อด UI ม็อดโครงสร้างพื้นฐาน และม็อดสคริปต์",
+		"thai": "รองรับม็อดสมดุล ม็อดสิ่งก่อสร้าง ม็อดทรัพยากร ม็อด UI ม็อดโครงสร้างพื้นฐาน และม็อดสคริปต์",
 		"arabic": "دعم تعديلات التوازن، تعديلات المباني، تعديلات الموارد، تعديلات واجهة المستخدم، تعديلات البنية التحتية، وتعديلات النصوص.",
 		"turkish": "Dengeleme, inşaat, kaynak, arayüz, altyapı ve script modları için destek.",
 		"romanian": "Suport pentru mod-uri de echilibru, mod-uri de construcție, mod-uri de resurse, mod-uri de UI, mod-uri de infrastructură și mod-uri de script.",
@@ -4447,25 +4449,23 @@
 		"chinese": "作弊",
 		"thai": "สูตรโกง",
 	},
-	// TODO-french
 	// TODO-chinese
 	// TODO-turkish
 	"mapSelect": {
 		"english": "Choose a Landing Spot",
 		"german": "Wähle einen Landeplatz",
-		"french": "Choisir une carte",
+		"french": "Choisir un lieu d'atterrissage",
 		"italian": "Scegli una zona di atterraggio",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
 		"thai": "เลือกจุดลงจอด",
 	},
-	// TODO-french
 	// TODO-chinese
 	// TODO-turkish
 	"mapSelection_title": {
 		"english": "Choose a Landing Spot",
 		"german": "Wähle einen Landeplatz",
-		"french": "Choisir une carte",
+		"french": "Choisir un lieu d'atterrissage",
 		"italian": "Scegli una zona di atterraggio",
 		"chinese": "选择一个地图",
 		"turkish": "Bir harita seçin",
@@ -4590,6 +4590,7 @@
 	"animations": {
 		"english": "Animations",
 		"german": "Animationen",
+		"french": "Animations",
 		"thai": "ภาพเคลื่อนไหว",
 		"chinese": "动画",
         "italian": "Animazioni",
@@ -4678,6 +4679,7 @@
 	"graphicsQualityVeryHigh": {
 		"english": "Very High",
 		"german": "Sehr hoch",
+		"french": "Très élevée",
 		"chinese": "极高",
 		"turkish": "Çok yüksek",
 		"thai": "สูงมาก",
@@ -4687,6 +4689,7 @@
 	"graphicsPreset": {
 		"english": "Graphics Preset",
 		"german": "Grafikvoreinstellung",
+		"french": "Préréglage graphique",
 		"chinese": "图像预设",
 		"turkish": "Grafik Ön Ayarı",
 		"thai": "ค่าที่ตั้งไว้ล่วงหน้าของกราฟิก",
@@ -4695,6 +4698,7 @@
 	"advancedGraphicsSettings": { // "advanced" or "more", don't make it too long
 		"english": "Advanced Graphics Settings",
 		"german": "Weitere Grafikoptionen",
+		"french": "Paramètres graphiques avancés",
 		"chinese": "高级图像设置",
 		"turkish": "Gelişmiş Grafik Ayarları",
 		"thai": "การตั้งค่ากราฟิกขั้นสูง",
@@ -4703,19 +4707,25 @@
 	"activeGPU": {
 		"english": "Active GPU",
 		"german": "Aktive Grafikkarte",
+		"french": "GPU actif",
 		"turkish": "Aktif GPU",
         "italian": "GPU attiva",
+		"thai": "GPU ที่ใช้งานอยู่",
 	},
 	"detectedGraphicsCards": {
 		"english": "Detected graphics cards:",
 		"german": "Entdeckte Grafikkarten:",
+		"french": "Cartes graphiques détectées :",
 		"turkish": "Algılanan grafik kartları:",
         "italian": "Scheda grafica rilevata:",
+		"thai": "การ์ดแสดงผลที่ตรวจพบ:",
 	},
 	"youMightBeUsingIntegratedGPU": {
 		"english": "You might be using an integrated graphics card! Switch to your dedicated graphics card for better performance.",
 		"german": "Es kann sein, dass du eine integrierte Grafikkarte verwendest! Wechsle zu deiner dedizierten Grafikkarte, um bessere Spieleperformance zu erreichen.",
+		"french": "Vous utilisez peut-être une carte graphique intégrée ! Passez à une carte graphique dédiée pour de meilleures performances.",
 		"turkish": "Entegre bir grafik kartı kullanıyor olabilirsiniz! Daha iyi performans için özel grafik kartınıza geçin.",
         "italian": "Sembra che tu stia utilizzando una scheda grafica integrata! Passa alla tua scheda grafica dedicata per una migliore performance.",
+		"thai": "คุณอาจใช้การ์ดจอออนบอร์ดอยู่! เปลี่ยนไปใช้การ์ดจอเฉพาะทางของคุณเพื่อประสิทธิภาพที่ดีขึ้น",
 	},
 }
