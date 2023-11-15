@@ -4155,6 +4155,7 @@
 		"italian": "Ispeziona lo stato delle consegne:",
 		"thai": "ตรวจสอบสถานะการจัดส่ง:",
 		"turkish": "Teslimat durumunu inceleyin:",
+		"chinese": "检查交付状态：",
 	},
 	"colorsDescription": {
 		"english": "- Blue: selected building\n- Green: delivery in progress\n- Yellow: incoming storage full\n- Red: not reachable",
@@ -4162,7 +4163,7 @@
 		"french": "- Bleu : bâtiment sélectionné\n- Vert : livraison en cours\n- Jaune : stockage entrant plein\n- Rouge : non accessible",
 		"italian": "- Blu: edificio selezionato\n- Verde: consegna in corso\n- Giallo: magazzino in entrata vuoto\n- Rosso: non raggiungibile",
 		"thai": "สีน้ำเงิน: สิ่งก่อสร้างที่เลือก\n- สีเขียว: อยู่ระหว่างการจัดส่ง\n- สีเหลือง: พื้นที่เก็บข้อมูลขาเข้าเต็ม\n- แดง: ไม่สามารถเข้าถึงได้",
-		"turkish": "- Mavi: seçilen bina\n- Yeşil: teslimat devam ediyor\n- Sarı: gelen depolama alanı dolu\n- Kırmızı: ulaşılamıyor",
+		"chinese": "- 蓝色：选定的建筑物\n- 绿色：正在交付\n- 黄色：输入存储已满\n- 红色：无法访问",
 	},
 	"productionBonusTooltipDesc": {
 		"english": "The %booster% has increased the production by %amount%",
@@ -4171,6 +4172,7 @@
 		"italian": "%booster% ha incrementato la produzione di %amount%",
 		"turkish": "%booster%, üretimi %amount% oranında artırdı",
 		"thai": "%booster% ได้เพิ่มการผลิตขึ้น %amount%",
+		"chinese": "%booster% 已将产量增加了 %amount%",
 	},
 	"trainStationDesc": {
 		"english": "Goods are stored here and shipped with the correct train line at the earliest opportunity.\n\nEach individual load can contain a maximum of 200, 400, or 600 resources depending on the selected traffic difficulty.",
@@ -4179,6 +4181,7 @@
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione.\n\nOgni singolo carico può contenere un massimo di 200, 400 o 600 risorse a seconda della difficoltà di gioco.",
 		"turkish": "Ürünler burada depolanır ve ilk fırsatta doğru tren hattıyla gönderilir.\n\nHer bir yük, seçilen trafik zorluğuna bağlı olarak maksimum 200, 400 veya 600 kaynak içerebilir.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจะจัดส่งด้วยเส้นทางรถไฟที่เหมาะสมโดยเร็วที่สุด\n\nการบรรทุกแต่ละครั้งสามารถมีทรัพยากรได้สูงสุด 200, 400 หรือ 600 รายการ ขึ้นอยู่กับความยากลำบากในการจราจรที่เลือก",
+		"chinese": "货物存储在这里，并尽早通过正确的列车线路运输。\n\n每个车厢的载货最多可包含200、400或600个资源，具体取决于所选的交通难度。",
 	},
 	"powerPanelDesc": {
 		"english": "When the power produced is not enough for the buildings that use it, you will have slowed production.",
@@ -4196,6 +4199,7 @@
 		"italian": "Maggiori informazioni",
 		"turkish": "Daha fazla bilgi",
 		"thai": "ข้อมูลมากกว่านี้",
+	    "chinese": "更多信息",
 	},
   "speedUnit": { // instead of "tile", you can also translate as "unit"
         "english": "tiles / minute",
@@ -4203,6 +4207,7 @@
         "italian": "Caselle / minuto",		
         "french": "tuiles / minute",
 	    "thai": "ไทลส์/นาที",
+	    "chinese": "格/分",
   },
   "pipetteTitle": {
         "english": "Building Pipette",
@@ -4210,6 +4215,7 @@
 	    "french": "Pipette de construction",
         "italian": "Contagocce per edifici",
 	    "thai": "สิ่งก่อสร้างปิเปตต์",
+	    "chinese": "建筑吸管",
   },
   "pipetteDesc": {
         "english": "With the Pipette tool you can easily copy buildings. The default hotkey for the tool is the G button.",
@@ -4217,62 +4223,76 @@
 	    "french": "L'outil Pipette permet de copier facilement des bâtiments. Le raccourci clavier par défaut de l'outil est le bouton G.",
         "italian": "Con il contagocce puoi copiare facilmente gli edifici. Il tasto di scelta rapida di default è \"G\".",
 	    "thai": "ด้วยเครื่องมือปิเปตต์ คุณสามารถคัดลอกสิ่งก่อสร้างได้อย่างง่ายดาย ปุ่มลัดเริ่มต้นสำหรับเครื่องมือคือปุ่ม G",
+	    "chinese": "使用吸管工具，你可以轻松复制建筑物。该工具的默认热键是 G 键。",
   },
   "singleLoadTooltipDesc": {
         "english": "Maximum capacity for each individual train or gondola. Depends on the difficulty of the game.",
 	    "french": "Capacité maximale de chaque train ou télécabine. Dépend de la difficulté du jeu.",
 	    "italian": "Capacità massima per ogni singolo treno o gondola. Dipende dalla difficoltà di gioco.",
 	    "thai": "ความจุสูงสุดของรถไฟหรือกระเช้าลอยฟ้าแต่ละขบวน ขึ้นอยู่กับความยากของเกม",
+	    "chinese": "每列列车或缆车的最大载货量。取决于游戏的难度。",
   },
   "currentResearch": {
         "english": "Current Research:",
 	    "french": "Recherche actuelle :",
 	    "thai": "การวิจัยปัจจุบัน",
 	    "italian": "Ricerca attuale:",
+	    "chinese": "当前研究：",
   },
   "unlocks": {
         "english": "Unlocks:",
         "french": "Débloque :",
         "thai": "ปลดล็อค",
 	    "italian": "Sblocca:",
+	    "chinese": "已解锁：",
   },
   "resourceToCollect": {
 	    "english": "Resource to collect",
 	    "italian": "Risorsa da raccogliere",
+	    "chinese": "收集资源",
   },
   "collectionRadius": {
 	    "english": "Collection radius",
 	    "italian": "Area di raccolta",
+	    "chinese": "收集半径",
   },
   "connectedSuppliers": {
 	    "english": "Connected suppliers",
 	    "italian": "Fornitori connessi",
+	    "chinese": "互联供应方",
   },
   "maxStorage": {
 	    "english": "Max storage",
 	    "italian": "Capienza magazzino",
+	    "chinese": "最大存储空间",
   },
   "connectedDistributionCenters": {
 	    "english": "Connected distribution centers",
 	    "italian": "Centri di distribuzione connessi",
+	    "chinese": "互联配送中心",
   },
   "resourceToDistribute": {
 	    "english": "Resource to distribute",
 	    "italian": "Risorsa da distribuire",
+	    "chinese": "资源分配",
   },
   "distributionRadius": {
 	    "english": "Distribution radius",
 	    "italian": "Area di distribuzione",
+	    "chinese": "分配半径",
   },
   "connectedConsumers": {
         "english": "Connected consumers",
         "italian": "Consumatori connessi",
+	    "chinese": "互联消耗方",
   },
   "connectedCollectionCenters": {
 	    "english": "Connected collection centers",
 	    "italian": "Centri di raccolta connessi",
+	    "chinese": "互联收集中心",
   },
   "noAccessToPipe": {
     "english": "No access to pipe",
+	"chinese": "无法访问管道",
   },
 }

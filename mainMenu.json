@@ -1903,6 +1903,7 @@
 		"german": "Mausziehen",
 		"french": "Glisser la souris",
 		"thai": "การลากเมาส์",
+		"chinese": "鼠标拖动",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -4711,6 +4712,7 @@
 		"turkish": "Aktif GPU",
         "italian": "GPU attiva",
 		"thai": "GPU ที่ใช้งานอยู่",
+		"chinese": "当前使用GPU",
 	},
 	"detectedGraphicsCards": {
 		"english": "Detected graphics cards:",
@@ -4719,6 +4721,7 @@
 		"turkish": "Algılanan grafik kartları:",
         "italian": "Scheda grafica rilevata:",
 		"thai": "การ์ดแสดงผลที่ตรวจพบ:",
+		"chinese": "检测到的显卡：",
 	},
 	"youMightBeUsingIntegratedGPU": {
 		"english": "You might be using an integrated graphics card! Switch to your dedicated graphics card for better performance.",
@@ -4727,5 +4730,6 @@
 		"turkish": "Entegre bir grafik kartı kullanıyor olabilirsiniz! Daha iyi performans için özel grafik kartınıza geçin.",
         "italian": "Sembra che tu stia utilizzando una scheda grafica integrata! Passa alla tua scheda grafica dedicata per una migliore performance.",
 		"thai": "คุณอาจใช้การ์ดจอออนบอร์ดอยู่! เปลี่ยนไปใช้การ์ดจอเฉพาะทางของคุณเพื่อประสิทธิภาพที่ดีขึ้น",
+		"chinese": "你可能使用的是集成显卡！切换到独立显卡以获得更好的性能。",
 	},
 }
