@@ -4301,8 +4301,8 @@
 	"italian": "Demolisci",
   },
   "demolishDesc": {
-    "english": "Default hotkey: Delete",
-	"italian": "Tasto di scelta rapida di default: \"Canc\"",
+    "english": "With the demolition of a building you recover half of the original cost.\nDefault hotkey: Delete",
+	"italian": "Con la demolizione di un edificio recuperi metà del costo originale.\nTasto di scelta rapida di default: \"Canc\"",
   },
   "moveTitle": {
     "english": "Move",
