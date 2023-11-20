@@ -4217,11 +4217,11 @@
 	    "thai": "สิ่งก่อสร้างปิเปตต์",
 	    "chinese": "建筑吸管",
   },
-  "pipetteDesc": {
-        "english": "With the Pipette tool you can easily copy buildings. The default hotkey for the tool is the G button.",
+  "pipetteDesc": {//TODO-german TODO-french TODO-thai TODO-chinese
+        "english": "With the Pipette tool you can easily copy buildings.\nDefault hotkey: G",
         "german": "Mit der Pipette kannst du Gebäude einfach kopieren. Das Standard-Tastenkürzel dafür ist G.",
 	    "french": "L'outil Pipette permet de copier facilement des bâtiments. Le raccourci clavier par défaut de l'outil est le bouton G.",
-        "italian": "Con il contagocce puoi copiare facilmente gli edifici. Il tasto di scelta rapida di default è \"G\".",
+        "italian": "Con il contagocce puoi copiare facilmente gli edifici.\nTasto di scelta rapida di default: \"G\"",
 	    "thai": "ด้วยเครื่องมือปิเปตต์ คุณสามารถคัดลอกสิ่งก่อสร้างได้อย่างง่ายดาย ปุ่มลัดเริ่มต้นสำหรับเครื่องมือคือปุ่ม G",
 	    "chinese": "使用吸管工具，你可以轻松复制建筑物。该工具的默认热键是 G 键。",
   },
@@ -4294,5 +4294,54 @@
   "noAccessToPipe": {
     "english": "No access to pipe",
 	"chinese": "无法访问管道",
+	"italian": "Nessun accesso alle tubazioni",
+  },
+  "demolishTitle": {
+    "english": "Demolish",
+	"italian": "Demolisci",
+  },
+  "demolishDesc": {
+    "english": "Default hotkey: Delete",
+	"italian": "Tasto di scelta rapida di default: \"Canc\"",
+  },
+  "moveTitle": {
+    "english": "Move",
+	"italian": "Sposta",
+  },
+  "moveDesc": {
+    "english": "The cost of moving a building depends on its original cost and the distance to which it is moved.\nDefault hotkey: M",
+	"italian": "Il costo per spostare un edificio dipende dal suo costo originale e dalla distanza a cui lo si sposta.\nTasto di scelta rapida di default: \"M\"",
+  },
+  "pauseTitle": {
+    "english": "Pause",
+	"italian": "Pausa",
+  },
+  "pauseDesc": {
+    "english": "Default hotkey: Spacebar",
+	"italian": "Tasto di scelta rapida di default: \"Spazio\"",
+  },
+  "speed1Title": {
+    "english": "Speed x1",
+	"italian": "Velocità x1",
+  },
+  "speed1Desc": {
+    "english": "Default hotkey: 1",
+	"italian": "Tasto di scelta rapida di default: \"1\"",
+  },
+  "speed2Title": {
+    "english": "Speed x2",
+	"italian": "Velocità x2",
+  },
+  "speed2Desc": {
+    "english": "Default hotkey: 2",
+	"italian": "Tasto di scelta rapida di default: \"2\"",
+  },
+  "menuTitle": {
+    "english": "Menu",
+	"italian": "Menù",
+  },
+  "menuDesc": {
+    "english": "Default hotkey: Esc",
+	"italian": "Tasto di scelta rapida di default: \"Esc\"",
   },
 }
