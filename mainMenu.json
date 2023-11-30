@@ -4516,6 +4516,22 @@
 		"thai": "แผนที่นี้สร้างขึ้นแบบสุ่มเมื่อเริ่มเกมและมีพื้นที่ราบเรียบขนาดใหญ่",
         "italian": "Questa mappa viene generata casualmente all'inizio del gioco e presenta ampie zone completamente piane.",
 	},
+	"level2_title": {
+		"english": "Inactive Volcano",
+		"german": "Schlafender Vulkan",
+	},
+	"level2_desc": {
+		"english": "Limited building space and limited resources. This map is a challenge for pros.",
+		"german": "Wenig offene Flächen und begrenzte Ressourcen. Diese Karte ist eine Herausforderung für Profis.",
+	},
+	"level3_title": {
+		"english": "Mountainous Region",
+		"german": "Bergiges Gebiet",
+	},
+	"level3_desc": {
+		"english": "Tons of resources, but tough terrain. Use the space ship's laser on the rocks to unlock more and more areas as you play.",
+		"german": "Viele Ressourcen, aber schweres Terrain. Verwende den Laser des Raumschiffs um Felsen zu entfernen und schalte Stück für Stück mehr Gebiete frei.",
+	},
 	"graphicsSettings": {
 		"english": "Graphics Settings",
 		"german": "Grafikeinstellungen",
