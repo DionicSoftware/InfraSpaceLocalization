@@ -3841,6 +3841,7 @@
 		"thai": "ศูนย์รวบรวม",
 		"chinese": "收集中心",
 		"italian": "Centro di Raccolta",
+		"ukrainian": "Центр Збору",
 	},
 	"collectionCenter_desc": {
 		"english": "Keep your production chains running smoothly!\n\nThis building <b>collects</b> the desired resources <b>from surrounding industries</b>, and then <b>sends</b> them directly to a <b>distribution center connected to it</b>.\n\nDoes not deliver resources directly to industries.",
