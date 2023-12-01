@@ -3850,4 +3850,126 @@
 		"thai": "ช่วยให้ห่วงโซ่การผลิตของคุณทำงานได้อย่างราบรื่น!\n\nสิ่งก่อสร้างนี้รวบรวมทรัพยากรที่ต้องการจากอุตสาหกรรมโดยรอบ และส่งโดยตรงไปยังศูนย์กระจายสินค้าที่เชื่อมต่อกับสิ่งก่อสร้างนั้น\n\nไม่ส่งมอบทรัพยากรโดยตรงไปยังอุตสาหกรรม",
 		"chinese": "让你的生产链平稳运行！\n\n这座建筑<b>从周边行业收集</b>所需的资源</b>，然后<b>将它们直接发送</b>到<b>与之相连的配送中心</b>。\n\n不直接向行业输送资源。",
 	},
+	"upgradePackFactory1": {
+		"english": "Blue Upgrade Pack Factory",
+		"italian": "Fabbrica di Moduli di Miglioramento Blu",
+	},//reference for german "Diese Fabrik produziert Werkzeuge und Reagenzien für <b>grundlegende Forschung</b> and liefert sie in einem praktischen Paket.",
+	"upgradePackFactory1_desc": {
+		"english": "This factory produces tools needed for a <b>basic upgrade</b>, and delivers them in a convenient package.",
+		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento base</b> e li consegna in un pratico pacchetto.",
+	},
+	"upgradePackFactory2": {
+		"english": "Green Upgrade Pack Factory",
+		"italian": "Fabbrica di Moduli di Miglioramento Verdi",
+	},
+	"upgradePackFactory2_desc": {
+		"english": "This factory produces tools needed for a <b>fundamental upgrade</b>, and delivers them in a convenient package.",
+		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento fondamentale</b> e li consegna in un pratico pacchetto.",
+	},
+	"upgradePackFactory3": {
+		"english": "Yellow Upgrade Pack Factory",
+		"italian": "Fabbrica di Moduli di Miglioramento Gialli",
+	},
+	"upgradePackFactory3_desc": {
+		"english": "This factory produces tools needed for an <b>advanced upgrade</b>, and delivers them in a convenient package.",
+		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento avanzato</b> e li consegna in un pratico pacchetto.",
+	},
+	"upgradePackFactory4": {
+		"english": "Red Upgrade Pack Factory",
+		"italian": "Fabbrica di Moduli di Miglioramento Rossi",
+	},
+	"upgradePackFactory4_desc": {
+		"english": "This factory produces tools needed for an <b>ultra-advanced upgrade</b>, and delivers them in a convenient package.",
+		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento ultra-avanzato</b> e li consegna in un pratico pacchetto.",
+	},
+	"heavyCrudeOilExtractor": {
+		"english": "Heavy Crude Oil Extractor",
+		"italian": "Estrattore di Petrolio Pesante",
+	},//ref for german 		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nDieses Gebäude muss auf einem Ölvorkommon platziert werden.",
+	"heavyOilExtractor_desc": {
+		"english": "Extracts heavy crude oil from underground.\n\nThis building is to be placed on <b>dark, spiked ground</b>, which conceals an <b>oil deposit</b>",
+		"italian": "Estrae petrolio pesante dal sottosuolo.\n\nQuesto edificio deve essere collocato su un <b>terreno scuro e spinoso</b>, che cela un <b>deposito di petrolio</b>.",
+	},
+	"ilmeniteMine": {
+		"english": "Ilmenite Mine",
+		"italian": "Miniera di Ilmenite",
+	},//I copy pasted the german desc of sand mine, but many german desc don't have the bold text yet. this one for example
+	"ilmeniteMine_desc": {
+		"english": "This mine can be placed <b>anywhere</b>.",		
+        "german": "Diese Mine kann überall platziert werden.",
+		"italian": "Questa miniera può essere posizionata <b>ovunque</b>."
+	},
+	"magnetiteMine": {
+		"english": "Magnetite Mine",
+		"italian": "Miniera di Magnetite",
+	},
+	"magnetiteMine_desc": {
+		"english": "This mine can be placed <b>anywhere</b>.",		
+        "german": "Diese Mine kann überall platziert werden.",
+		"italian": "Questa miniera può essere posizionata <b>ovunque</b>."
+	},
+	"titaniumManufacturingFacility": {
+		"english": "Titanium Manufacturing Facility",
+		"italian": "Impianto di Produzione del Titanio",
+	},
+	"titaniumManufacturingFacility_desc": {
+		"english": "Produces titanium, a metal with very high mechanical and corrosion resistance, used for high-quality instrumentation.",
+		"italian": "Produce titanio, metallo con elevatissima resistenza meccanica e alla corrosione, utilizzato per strumentazione di alta qualità.",
+	},
+	"hydraulicFluidFactory": {
+		"english": "Hydraulic Fluid Factory",
+		"italian": "Fabbrica di Fluido Idraulico",
+	},
+	"hydraulicFluidFactory_desc": {
+		"english": "Produces hydraulic fluid, indispensable for the operation of machinery for precise metalworking.",
+		"italian": "Produce fluido idraulico, indispensabile al funzionamento dei macchinari per la lavorazione precisa del metallo.",
+	},
+	"metalMatrixCompositeFactory": {
+		"english": "Metal Matrix Composite Factory",
+		"italian": "Fabbrica di Composito a Matrice Metallica",
+	},
+	"metalMatrixCompositeFactory_desc": {
+		"english": "Produces a metal matrix composite, which combines great strength with extraordinary lightness. Used in the production of specialized tools.",
+		"italian": "Produce un composito a matrice metallica, che combina una grande resistenza con una leggerezza straordinaria. Utilizzato nella produzione di attrezzi specializzati.",
+	},
+	"commercialSignExo": {
+		"english": "Exo Labs Commercial Sign",
+		"italian": "Cartellone Pubblicitario di Exo Labs",
+	},
+	"commercialSignExo_desc": {
+		"english": "Exo Labs laboratories proudly carries out scientific research here on Neper-3, and boasts among its employees the best minds in the city.",
+		"italian": "I laboratori Exo Labs portano avanti la ricerca scientifica con orgoglio qui su Neper-3, e vantano tra i loro dipendenti le migliori menti della città.",
+	},
+	"commercialSignFuture": {
+		"english": "Future is Tomorrow Commercial Sign",
+		"italian": "Cartellone Pubblicitario di Future is Tomorrow",
+	},
+	"commercialSignFuture_desc": {
+		"english": "The Future is Tomorrow industries are involved in the production of nutritionally excellent food: from growing meat in the laboratory, to processing and packaging, all the way to the consumer's table.",
+		"italian": "Le industrie di Future is Tomorrow sono coinvolte nella produzione di alimenti eccellenti dal punto di vista nutrizionale: dalla coltivazione della carne in laboratorio, alla lavorazione e al confezionamento, fino alle tavole dei consumatori.",
+	},
+	"commercialSignGreenLeaf": {
+		"english": "LeafGreen Commercial Sign",
+		"italian": "Cartellone Pubblicitario di LeafGreen",
+	},
+	"commercialSignGreenLeaf_desc": {
+		"english": "GreenLeaf is a leading company in the agricultural sector. Their farms produce high quality vegetables in all soil conditions, using the latest technology in the industry.",
+		"italian": "GreenLeaf è un'azienda leader nel settore agricolo. Le sue aziende agricole producono ortaggi di alta qualità in tutte le condizioni del terreno, utilizzando le più recenti tecnologie del settore.",
+	},
+	"commercialSignSolaris": {
+		"english": "Solaris Commercial Sign",
+		"italian": "Cartellone Pubblicitario di Solaris",
+	},
+	"commercialSignSolaris_desc": {
+		"english": "Solaris deals with sustainable energy production. Thanks to the light rays from Neper-3's mother star, it supports numerous industries with solar energy... or more precisely, stellar energy!",
+		"italian": "Solaris si occupa della produzione di energia sostenibile. Grazie ai raggi luminosi dalla stella madre di Neper-3, sostiene numerosissime industrie con l'energia solare... o meglio, stellare!",
+	},
+	"commercialSignVav": {
+		"english": "VAV Technologies Commercial Sign",
+		"italian": "Cartellone Pubblicitario di VAV Technologies",
+	},
+	"commercialSignVav_desc": {
+		"english": "VAV technologies is a key company for the development of the city. From basic habitats, to the production of survival food, mines, and numerous other basic buildings, it helps to make an alien planet welcoming.",
+		"italian": "VAV Technologies è un'azienda fondamentale per lo sviluppo della città. Dagli habitat di base, alla produzione di cibo per la sopravvivenza, alle miniere e a numerosi altri edifici di base, contribuisce a rendere accogliente un pianeta alieno.",
+	},
 }
