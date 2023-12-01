@@ -375,6 +375,7 @@
 		"italian": "Questi tubi possono collegare gli edifici che producono acqua con tutti quelli che ne hanno bisogno, compresi i serbatoi e gli habitat.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
 		"thai": "ท่อเหล่านี้สามารถเชื่อมต่อสิ่งก่อสร้างที่ผลิตน้ำเข้ากับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำและแหล่งที่อยู่อาศัย\n\nสิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งน้ำจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 		"chinese": "这些管道可以将生产水的建筑物与所有需求水的建筑物连接起来，包括<b>储罐和居住地</b>。\n\n生产通过管道运输的资源的建筑物消耗<b>两倍的电力</b> 因为泵！",
+		"ukrainian": "Ці труби можуть з’єднувати будівлі, які виробляють воду, з усіма тими, які її потребують, включно з <b>резервуарами та середовищами існування</b>.\n\nБудівлі, які виробляють ресурси, що транспортуються трубопроводами, споживають <b>удвічі більше електроенергії</b> b> через насоси!",
 	},
 	"pipe_methane": {
 		"english": "Methane Pipes",
@@ -399,6 +400,7 @@
 		"italian": "Questi tubi possono collegare gli edifici che producono metano con tutti quelli che ne hanno bisogno, compresi i serbatoi.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
 		"thai": "ท่อเหล่านี้สามารถเชื่อมต่อสิ่งก่อสร้างที่ผลิตก๊าซมีเทนกับสิ่งอื่นๆ ที่จำเป็น รวมถึงถังเก็บน้ำและที่อยู่อาศัย\n\nสิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งจะใช้พลังงานไฟฟ้าเป็นสองเท่า!",
 		"chinese": "这些管道可以将产生天然气的建筑物与所有需求它的建筑物连接起来，<b>包括储罐</b>。\n\n生产通过管道运输的资源的建筑物消耗<b>两倍的电力</b>！",
+		"ukrainian": Ці труби можуть з’єднувати будівлі, які виробляють метан, з усіма, які його потребують.nm, <b>включно з резервуарами</b>.\n\nБудівлі, які виробляють ресурс, що транспортується трубопроводами, споживають <b>удвічі більше електроенергії</b>!» ,
 	},
 	"pipe_crudeOil": {
 		"english": "Crude Oil Pipes",
@@ -409,6 +411,7 @@
 		"japanese": "原油パイプ",
 		"turkish": "Işlenmemiş Petrol Borusu",
 		"chinese": "原油管道",
+		"ukrainian": "Труби для сирої нафти"
 	},
 	// TODO-thai: no habitats, pumps
 	"pipe_crudeOil_desc": {
@@ -418,5 +421,6 @@
 		"italian": "Questi tubi possono collegare gli edifici che producono petrolio con tutti quelli che ne hanno bisogno, compresi i serbatoi.\n\nGli edifici che producono la risorsa trasportata dai tubi consumano il doppio dell'elettricità a causa delle pompe!",
 		"thai": "ท่อเหล่านี้สามารถเชื่อมต่อสิ่งก่อสร้างที่ผลิตน้ำมันดิบกับสิ่งจำเป็นทั้งหมด รวมถึงถังเก็บน้ำมันและแหล่งที่อยู่อาศัย\n\nสิ่งก่อสร้างที่ผลิตทรัพยากรที่ขนส่งโดยท่อส่งใช้ไฟฟ้าเป็นสองเท่า!",
 		"chinese": "这些管道可以将生产原油的建筑物与所有需求它的建筑物连接起来，<b>包括储罐</b>。\n\n生产通过管道运输的资源的建筑物消耗<b>两倍的电力</b>！",
+		"ukrainian": "Ці труби можуть з’єднувати будівлі, які виробляють сиру нафту, з усіма тими, які її потребують, <b>включаючи резервуари</b>.\n\nБудівлі, які виробляють ресурс, що транспортується трубопроводами, споживають <b>удвічі більше електроенергії</b>! "
 	},
 }
