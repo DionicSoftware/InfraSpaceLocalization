@@ -4519,18 +4519,22 @@
 	"level2_title": {
 		"english": "Inactive Volcano",
 		"german": "Schlafender Vulkan",
+        "italian": "Vulcano inattivo",
 	},
-	"level2_desc": {
-		"english": "Limited building space and limited resources. This map is a challenge for pros.",
+	"level2_desc": {//TODO-german
+		"english": "With its limited resources and small building space, this map is suitable for experienced players.",
 		"german": "Wenig offene Flächen und begrenzte Ressourcen. Diese Karte ist eine Herausforderung für Profis.",
+        "italian": "Con le sue risorse limitate e lo spazio edificabile ridotto, questa mappa è adatta ai giocatori esperti.",
 	},
 	"level3_title": {
 		"english": "Mountainous Region",
 		"german": "Bergiges Gebiet",
+        "italian": "Regione montuosa",
 	},
-	"level3_desc": {
-		"english": "Tons of resources, but tough terrain. Use the space ship's laser on the rocks to unlock more and more areas as you play.",
+	"level3_desc": {//TODO-german
+		"english": "This landing spot has an abundance of resources in the face of difficult terrain. In order to exploit its riches, the use of Antares' laser cannon will be necessary.",
 		"german": "Viele Ressourcen, aber schweres Terrain. Verwende den Laser des Raumschiffs um Felsen zu entfernen und schalte Stück für Stück mehr Gebiete frei.",
+        "italian": "Questo punto di atterraggio presenta un'abbondanza di risorse a fronte di un terreno difficile. Per sfruttare le sue ricchezze, sarà necessario l'uso del cannone laser di Antares.",
 	},
 	"graphicsSettings": {
 		"english": "Graphics Settings",
