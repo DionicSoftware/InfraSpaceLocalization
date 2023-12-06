@@ -4344,4 +4344,16 @@
     "english": "Default hotkey: Esc",
 	"italian": "Tasto di scelta rapida di default: \"Esc\"",
   },
+  "rename": {
+    "english": "Rename",
+	"italian": "Rinomina",
+  },
+  "copy": {
+    "english": "Copy",
+	"italian": "Copia",
+  },
+  "powerRequiredTooltip": {
+    "english": "Power required",
+	"italian": "Energia richiesta",
+  },
 }
