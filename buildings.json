@@ -3850,48 +3850,59 @@
 		"thai": "ช่วยให้ห่วงโซ่การผลิตของคุณทำงานได้อย่างราบรื่น!\n\nสิ่งก่อสร้างนี้รวบรวมทรัพยากรที่ต้องการจากอุตสาหกรรมโดยรอบ และส่งโดยตรงไปยังศูนย์กระจายสินค้าที่เชื่อมต่อกับสิ่งก่อสร้างนั้น\n\nไม่ส่งมอบทรัพยากรโดยตรงไปยังอุตสาหกรรม",
 		"chinese": "让你的生产链平稳运行！\n\n这座建筑<b>从周边行业收集</b>所需的资源</b>，然后<b>将它们直接发送</b>到<b>与之相连的配送中心</b>。\n\n不直接向行业输送资源。",
 	},
-	"upgradePackFactory1": {
+	"upgradePack1Factory": {
 		"english": "Blue Upgrade Pack Factory",
+    "german": "Blaue Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Blu",
 	},//reference for german "Diese Fabrik produziert Werkzeuge und Reagenzien für <b>grundlegende Forschung</b> and liefert sie in einem praktischen Paket.",
-	"upgradePackFactory1_desc": {
+	"upgradePack1Factory_desc": {
 		"english": "This factory produces tools needed for a <b>basic upgrade</b>, and delivers them in a convenient package.",
+    "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>basische Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento base</b> e li consegna in un pratico pacchetto.",
 	},
-	"upgradePackFactory2": {
+	"upgradePack2Factory": {
 		"english": "Green Upgrade Pack Factory",
+    "german": "Grüne Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Verdi",
 	},
-	"upgradePackFactory2_desc": {
+	"upgradePack2Factory_desc": {
 		"english": "This factory produces tools needed for a <b>fundamental upgrade</b>, and delivers them in a convenient package.",
+    "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>grundlegende Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento fondamentale</b> e li consegna in un pratico pacchetto.",
 	},
-	"upgradePackFactory3": {
+	"upgradePack3Factory": {
 		"english": "Yellow Upgrade Pack Factory",
+    "german": "Gelbe Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Gialli",
 	},
-	"upgradePackFactory3_desc": {
+	"upgradePack3Factory_desc": {
 		"english": "This factory produces tools needed for an <b>advanced upgrade</b>, and delivers them in a convenient package.",
+    "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>fortgeschrittene Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento avanzato</b> e li consegna in un pratico pacchetto.",
 	},
-	"upgradePackFactory4": {
+	"upgradePack4Factory": {
 		"english": "Red Upgrade Pack Factory",
+    "german": "Rote Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Rossi",
 	},
-	"upgradePackFactory4_desc": {
+	"upgradePack4Factory_desc": {
 		"english": "This factory produces tools needed for an <b>ultra-advanced upgrade</b>, and delivers them in a convenient package.",
+    "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>extrem fortgeschrittene Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento ultra-avanzato</b> e li consegna in un pratico pacchetto.",
 	},
-	"heavyCrudeOilExtractor": {
-		"english": "Heavy Crude Oil Extractor",
+	"heavyOilExtractor": {
+		"english": "Heavy Oil Extractor",
+    "german": "Schwerölextraktor",
 		"italian": "Estrattore di Petrolio Pesante",
 	},//ref for german 		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nDieses Gebäude muss auf einem Ölvorkommon platziert werden.",
 	"heavyOilExtractor_desc": {
-		"english": "Extracts heavy crude oil from underground.\n\nThis building is to be placed on <b>dark, spiked ground</b>, which conceals an <b>oil deposit</b>",
+		"english": "Extracts heavy oil from underground.\n\nThis building is to be placed on <b>dark, spiked ground</b>, which conceals an <b>oil deposit</b>",
+    "german": "Fördert Schweröl aus dem Untergrund.\n\nDieses Gebäude soll auf <b>dunklem, mit Stacheln versehenem Boden</b> errichtet werden, der ein <b>Ölvorkommen</b> verbirgt",
 		"italian": "Estrae petrolio pesante dal sottosuolo.\n\nQuesto edificio deve essere collocato su un <b>terreno scuro e spinoso</b>, che cela un <b>deposito di petrolio</b>.",
 	},
 	"ilmeniteMine": {
 		"english": "Ilmenite Mine",
+    "german": "Ilmenitmine",
 		"italian": "Miniera di Ilmenite",
 	},//I copy pasted the german desc of sand mine, but many german desc don't have the bold text yet. this one for example
 	"ilmeniteMine_desc": {
@@ -3901,35 +3912,42 @@
 	},
 	"magnetiteMine": {
 		"english": "Magnetite Mine",
+    "german": "Magnetitmine",
 		"italian": "Miniera di Magnetite",
 	},
 	"magnetiteMine_desc": {
-		"english": "This mine can be placed <b>anywhere</b>.",		
-        "german": "Diese Mine kann überall platziert werden.",
+		"english": "This mine must be placed on <b>iron deposit</b>.",		
+        "german": "Diese Mine muss auf einen Eisenvorkommen platziert werden.",
 		"italian": "Questa miniera può essere posizionata <b>ovunque</b>."
 	},
 	"titaniumManufacturingFacility": {
 		"english": "Titanium Manufacturing Facility",
+    "german": "Titan-Produktionsanlage",
 		"italian": "Impianto di Produzione del Titanio",
 	},
 	"titaniumManufacturingFacility_desc": {
 		"english": "Produces titanium, a metal with very high mechanical and corrosion resistance, used for high-quality instrumentation.",
+    "german": "Produziert Titan, ein Metall mit sehr hoher mechanischer Widerstand und Korrosionsbeständigkeit, das für hochwertige Instrumente verwendet wird.",
 		"italian": "Produce titanio, metallo con elevatissima resistenza meccanica e alla corrosione, utilizzato per strumentazione di alta qualità.",
 	},
 	"hydraulicFluidFactory": {
 		"english": "Hydraulic Fluid Factory",
+    "german": "Fabrik für Hydraulikflüssigkeit",
 		"italian": "Fabbrica di Fluido Idraulico",
 	},
 	"hydraulicFluidFactory_desc": {
 		"english": "Produces hydraulic fluid, indispensable for the operation of machinery for precise metalworking.",
+    "german": "Produziert Hydraulikflüssigkeit, die für den Betrieb von Maschinen zur präzisen Metallbearbeitung unverzichtbar ist.",
 		"italian": "Produce fluido idraulico, indispensabile al funzionamento dei macchinari per la lavorazione precisa del metallo.",
 	},
 	"metalMatrixCompositeFactory": {
 		"english": "Metal Matrix Composite Factory",
+    "german": "Fabrik für Metallmatrix-Verbundwerkstoffe",
 		"italian": "Fabbrica di Composito a Matrice Metallica",
 	},
 	"metalMatrixCompositeFactory_desc": {
 		"english": "Produces a metal matrix composite, which combines great strength with extraordinary lightness. Used in the production of specialized tools.",
+    "german": "Erzeugt einen Metallmatrix-Verbundwerkstoff, der große Festigkeit mit außergewöhnlicher Leichtigkeit verbindet. Wird bei der Herstellung von Spezialwerkzeugen verwendet.",
 		"italian": "Produce un composito a matrice metallica, che combina una grande resistenza con una leggerezza straordinaria. Utilizzato nella produzione di attrezzi specializzati.",
 	},
 	"commercialSignExo": {

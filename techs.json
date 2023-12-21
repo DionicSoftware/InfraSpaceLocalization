@@ -1,4 +1,4 @@
-{
+﻿  {
   "tech_farming": {
     "english": "Farming",
     "german": "Landwirtschaft",
@@ -1520,5 +1520,21 @@
     "turkish": "Dağıtım",
     "chinese": "分配",
     "thai": "การแจกจ่าย"
+  },
+  "tech_upgrade1": {
+    "english": "Upgrade 1",
+    "german": "Aufwärtung 1",
+  },
+  "tech_upgrade2": {
+    "english": "Upgrade 2",
+    "german": "Aufwärtung 2",
+  },
+  "tech_upgrade3": {
+    "english": "Upgrade 3",
+    "german": "Aufwärtung 3",
+  },
+  "tech_upgrade4": {
+    "english": "Upgrade 4",
+    "german": "Aufwärtung 4",
   },
 }

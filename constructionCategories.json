@@ -209,6 +209,10 @@
 		"turkish": "Fen",
 		"chinese": "科学",
 	},
+	"constructionCategory_upgrade": {
+		"english": "Upgrade",
+		"german": "Aufwärtung",
+	},
 	"constructionCategory_food": {
 		"english": "Food",
 		"german": "Essen",

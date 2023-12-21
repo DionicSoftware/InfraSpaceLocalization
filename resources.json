@@ -1353,4 +1353,44 @@
         "turkish": "Zenginleştirilmiş Uranyum",
         "chinese": "浓缩铀",
     },
+    "resource_upgradePack1": {
+        "english": "Blue Upgrade Pack",
+        "german": "Blaues Aufwärtungspacket",
+    },
+    "resource_upgradePack2": {
+        "english": "Green Upgrade Pack",
+        "german": "Grünes Aufwärtungspacket",
+    },
+    "resource_upgradePack3": {
+        "english": "Yellow Upgrade Pack",
+        "german": "Gelbes Aufwärtungspacket",
+    },
+    "resource_upgradePack4": {
+        "english": "Red Upgrade Pack",
+        "german": "Rotes Aufwärtungspacket",
+    },
+    "resource_heavyOil": {
+        "english": "Heavy Oil",
+        "german": "Schweröl",
+    },
+    "resource_hydraulicFluid": {
+        "english": "Hydraulic Fluid",
+        "german": "Hydraulikflüssigkeit",
+    },
+    "resource_titanium": {
+        "english": "Titanium",
+        "german": "Titan",
+    },
+    "resource_metalMatrix": {
+        "english": "Metal Matrix",
+        "german": "Metallmatrix",
+    },
+    "resource_magnetite": {
+        "english": "Magnetite",
+        "german": "Magnetit",
+    },
+    "resource_ilmenite": {
+        "english": "Ilmenite",
+        "german": "Ilmenit",
+    },
 }
