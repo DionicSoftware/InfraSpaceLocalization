@@ -1,4 +1,4 @@
-﻿{
+{
 	"sandMine": {
 		"english": "Sand Mine",
 		"german": "Sandmine",
@@ -34,6 +34,7 @@
 		"turkish": "Bu maden her yere yerleştirilebilir.",
 		"polish": "Ta koparka moe być postawiona wszędzie.",
 		"chinese": "该矿机可以放置在<b>任何地方</b>。",
+		"ukrainian": "Цей кар'єр може бути розміщений <b>де завгодно</b>.",
 	},
 	"sulfurMine": {
 		"english": "Sulfur Mine",
@@ -47,7 +48,7 @@
 		"japanese": "硫黄採掘機",
 		"polish": "Kopalnia siarki",
 		"czech": "Důl na síru",
-		"ukrainian": "Сірчаний кар'єр",
+		"ukrainian": "Сірчастий кар'єр",
 		"slovak": "Baňa na síru",
 		"dutch": "Zwavelmijn",
 		"portuguese": "Mina de enxofre",
@@ -70,6 +71,7 @@
 		"turkish": "Bu madenin bir kükürt yatağı üzerine yerleştirilmesi gerekiyor.",
 		"polish": "Ta koparka musi być postawiona na złożu siarki.",
 		"chinese": "该矿机需要放置在<b>硫矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах сірки</b>.",
 	},      
 	"ironMine": {
 		"english": "Iron Mine",
@@ -83,7 +85,7 @@
 		"japanese": "鉄採掘機",
 		"polish": "Kopalnia żelaza",
 		"czech": "Důl na železo",
-		"ukrainian": "Залізний кар'єр",
+		"ukrainian": "Залізнорудний кар'єр",
 		"slovak": "Baňa na železo",
 		"dutch": "IJzermijn",
 		"portuguese": "Mina de ferro",
@@ -106,6 +108,7 @@
 		"turkish": "Bu maden bir demir yatağının üzerine yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu żelaza.",
 		"chinese": "该矿机需要放置在<b>铁矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах залізної руди</b>.",
 	},
 	"copperMine": {
 		"english": "Copper Mine",
@@ -119,7 +122,7 @@
 		"japanese": "銅採掘機",
 		"polish": "Kopalnia miedzi",
 		"czech": "Důl na měď",
-		"ukrainian": "Мідний кар'єр",
+		"ukrainian": "Міднорудний кар'єр",
 		"slovak": "Baňa na meď",
 		"dutch": "Kopermijn",
 		"portuguese": "Mina de cobre",
@@ -142,6 +145,7 @@
 		"turkish": "Bu maden bir bakır yatağının üzerine yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu miedzi.",
 		"chinese": "该矿机需要放置在<b>铜矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах мідної руди</b>.",
 	},
 	"aluminiumMine": {
 		"english": "Aluminum Mine",
@@ -178,6 +182,7 @@
 		"turkish": "Bu maden bir alüminyum yatağına yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu aluminium.",
 		"chinese": "该矿机需要放置在<b>铝矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах алюмінію</b>.",
 	},
 	"uraniumMine": {
 		"english": "Uranium Mine",
@@ -191,7 +196,7 @@
 		"japanese": "ウラン採掘機",
 		"polish": "Kopalnia uranu",
 		"czech": "Důl na uran",
-		"ukrainian": "Урановий кар'єр",
+		"ukrainian": "Уранорудний кар'єр",
 		"slovak": "Baňa na urán",
 		"dutch": "Uraniummijn",
 		"portuguese": "Mina de urânio",
@@ -214,6 +219,7 @@
 		"turkish": "Bu maden uranyum yatağının üzerine yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu uranu.",
 		"chinese": "该矿机需要放置在<b>铀矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах урану</b>.",
 	},
 	"iridiumMine": {
 		"english": "Iridium Mine",
@@ -249,6 +255,7 @@
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมอิริเดียม",
 		"polish": "Ta koparka musi być postawiona na złożu irydu.",
 		"chinese": "该矿机需要放置在<b>铱矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах іридію</b>.",
 	},
 	"largeSandMine": {
 		"english": "Large Sand Mine",
@@ -285,6 +292,7 @@
 		"turkish": "Bu maden her yere yerleştirilebilir.",
 		"polish": "Ta koparka moe być postawiona wszędzie.",
 		"chinese": "该矿机可以放置在<b>任何地方</b>。",
+		"ukrainian": "Цей кар'єр може бути розміщений <b>де завгодно</b>.",
 		
 	},
 	"largeSulfurMine": {
@@ -299,7 +307,7 @@
 		"japanese": "大型硫黄掘機",
 		"polish": "Duża kopalnia siarki",
 		"czech": "Velký důl na síru",
-		"ukrainian": "Гігантський сірчаний кар'єр",
+		"ukrainian": "Гігантський сірчастий кар'єр",
 		"slovak": "Veľká baňa na síru",
 		"dutch": "Grote Zwavelmijn",
 		"portuguese": "Grande mina de enxofre",
@@ -322,6 +330,7 @@
 		"turkish": "Bu maden bir kükürt yatağının üzerine yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu siarki.",
 		"chinese": "该矿机需要放置在<b>硫矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах сірки</b>.",
 	},
 	"largeIronMine": {
 		"english": "Large Iron Mine",
@@ -335,7 +344,7 @@
 		"japanese": "大型鉄採掘機",
 		"polish": "Duża kopalnia żelaza",
 		"czech": "Velký důl na železo",
-		"ukrainian": "Гігантський залізний кар'єр",
+		"ukrainian": "Гігантський залізнорудний кар'єр",
 		"slovak": "Veľká baňa na železo",
 		"dutch": "Grote IJzermijn",
 		"portuguese": "Grande mina de ferro",
@@ -357,6 +366,7 @@
 		"thai": "เหมืองนี้จะถูกวางไว้บนแหล่งสะสมเหล็ก",
 		"polish": "Ta koparka musi być postawiona na złożu żelaza.",
 		"chinese": "该矿机需要放置在<b>铁矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах залізної руди</b>.",
 	},
 	"largeCopperMine": {
 		"english": "Large Copper Mine",
@@ -370,7 +380,7 @@
 		"japanese": "大型銅採掘機",
 		"polish": "Duża kopalnia miedzi",
 		"czech": "Velký důl na měď",
-		"ukrainian": "Гігантський мідний кар'єр",
+		"ukrainian": "Гігантський міднорудний кар'єр",
 		"slovak": "Veľká baňa na meď",
 		"dutch": "Grote Kopermijn",
 		"portuguese": "Grande mina de cobre",
@@ -393,6 +403,7 @@
 		"turkish": "Bu maden bir demir yatağının üzerine yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu miedzi.",
 		"chinese": "该矿机需要放置在<b>铜矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах мідної руди</b>.",
 	},
 	"largeAluminiumMine": {
 		"english": "Large Aluminum Mine",
@@ -429,6 +440,7 @@
 		"turkish": "Bu maden alüminyum yatağına yerleştirilecek",
 		"polish": "Ta koparka musi być postawiona na złożu aluminium.",
 		"chinese": "该矿机需要放置在<b>铝矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах алюмінію</b>.",
 	},
 	"largeUraniumMine": {
 		"english": "Large Uranium Mine",
@@ -442,7 +454,7 @@
 		"japanese": "大型ウラン採掘機",
 		"polish": "Duża kopalnia uranu",
 		"czech": "Velký důl na uran",
-		"ukrainian": "Гігантський урановий кар'єр",
+		"ukrainian": "Гігантський уранорудний кар'єр",
 		"slovak": "Veľká baňa na hliník",
 		"dutch": "Grote Uraniummijn",
 		"portuguese": "Grande mina de urânio",
@@ -465,6 +477,7 @@
 		"turkish": "Bu maden uranyum yatağının üzerine yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu uranu.",
 		"chinese": "该矿机需要放置在<b>铀矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах урану</b>.",
 	},
 	"largeIridiumMine": {
 		"english": "Large Iridium Mine",
@@ -501,6 +514,7 @@
 		"turkish": "Bu maden bir iridyum yatağına yerleştirilecek.",
 		"polish": "Ta koparka musi być postawiona na złożu irydu.",
 		"chinese": "该矿机需要放置在<b>铱矿</b>上。",
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах іридію</b>.",
 	},
 	"electronicsFactory": {
 		"english": "Electronics Factory",
@@ -514,7 +528,7 @@
 		"japanese": "電子部品生産工場",
 		"polish": "Fabryka elektroniki",
 		"czech": "Továrna na elektroniku",
-		"ukrainian": "Фабрика електроних компонентів",
+		"ukrainian": "Фабрика електричних компонентів",
 		"slovak": "Továrna na elektroniku",
 		"dutch": "Electronicafabriek",
 		"portuguese": "Fábrica de eletrônicos",
@@ -536,6 +550,7 @@
 		"thai": "ผลิตชิ้นส่วนอิเล็กทรอนิกส์พื้นฐานทุกชนิด",
 		"turkish": "Her türlü temel elektronik bileşeni üretmektedir.",
 		"chinese": "生产各类基础电子元件。",
+		"ukrainian": "Виготовляє всі типи базових електричних компонентів.",
 	},
 	"microchipFactory": {
 		"english": "Microchip Factory",
@@ -571,6 +586,7 @@
 		"thai": "ผลิตไมโครชิป ซึ่งจำเป็นสำหรับการผลิตสินค้าอิเล็กทรอนิกส์หลายชนิด",
 		"turkish": "Birçok elektronik eşyanın üretimi için gerekli olan mikroçipleri üretir.",
 		"chinese": "生产微芯片，这对许多电子产品的生产至关重要。",
+		"ukrainian": "Виготовляє мікрочіпи, необхідні для подальшого виробництва багатьох електричних виробів.",
 	},
 	"neuralProcessorFactory": {
 		"english": "Neural Processor Factory",
@@ -606,6 +622,7 @@
 		"thai": "ผลิตโปรเซสเซอร์พิเศษที่ออกแบบมาสำหรับแอปพลิเคชันโครงข่ายประสาทเทียม",
 		"turkish": "Sinir ağı uygulamaları için tasarlanmış özel işlemciler üretir.",
 		"chinese": "生产专为神经网络应用而设计的专用处理器。",
+		"ukrainian": "Виготовляє спеціальні процесори, розроблені задля роботи з нейронними мережами.",
 	},
 	"motorFactory": {
 		"english": "Motor Factory",
@@ -641,6 +658,7 @@
 		"thai": "ผลิตมอเตอร์สำหรับทุกความต้องการของอุตสาหกรรม",
 		"turkish": "Her türlü endüstriyel ihtiyaca yönelik motorlar üretmektedir.",
 		"chinese": "生产满足各种工业需求的发动机。",
+		"ukrainian": "Виготовляє мотори для усіх технічних потреб.",
 	},
 	"nanotubesFactory": {
 		"english": "Nanotubes Factory",
@@ -676,6 +694,7 @@
 		"thai": "ผลิตท่อนาโนคาร์บอนที่ใช้ในอุตสาหกรรมเฉพาะทางสูง",
 		"turkish": "Son derece uzmanlaşmış endüstrilerde kullanılan karbon nanotüpleri üretir.",
 		"chinese": "生产碳纳米管，用于高度专业化的行业。",
+		"ukrainian": "Виготовляє вуглецеві нанотрубки, що використовуються на дуже спеціалізованих виробництвах.",
 	},
 	"reinforcedIridiumFactory": {
 		"english": "Reinforced Iridium Factory",
@@ -687,6 +706,7 @@
 		"thai":"โรงงานอิริเดียมเสริมแกร่ง",
 		"turkish": "Güçlendirilmiş İridyum Fabrikası",
 		"chinese": "强化铱厂",
+		"ukrainian": "Фабрика Армованого Іридію.",
 		"hungarian": "Megerősített Irídium Gyár",
 	},
 	"reinforcedIridiumFactory_desc": {
@@ -696,6 +716,7 @@
 		"thai": "ผลิตแท่งอิริเดียมเสริมแรงซึ่งมีคุณสมบัติทำให้เหมาะสำหรับการผลิตผลิตภัณฑ์ที่มีเทคโนโลยีสูง",
 		"turkish": "Özellikleri onu yüksek teknolojili ürünlerin üretimine uygun hale getiren güçlendirilmiş iridyum külçeleri üretir.",
 		"chinese": "生产强化铱锭，其特性使其适合生产高科技产品。",
+		"ukrainian": "Виготовляє злитки армованого іридію, властивості яких роблять їх придатними для використання у високотехнологічних виробах.",
 	},
 	"holoDisplayFactory": {
 		"english": "Holo-Display Factory",
@@ -731,6 +752,7 @@
 		"thai": "ผลิตอุปกรณ์ที่สามารถฉายภาพโฮโลแกรมได้",
 		"turkish": "Hologram yansıtabilen cihazlar üretir.",
 		"chinese": "生产能够投射全息的显示设备。",
+		"ukrainian": "Виготовляє дисплеї здатні проектувати голограми.",
 	},
 	"radiationCoreFactory": {
 		"english": "Radiation Core Factory",
@@ -744,7 +766,7 @@
 		"japanese": "放射線コア生産工場",
 		"polish": "Fabryka rdzeni grzewczych",
 		"czech": "Továrna na radiační jádra",
-		"ukrainian": "Фабрика ядерних сердцевин",
+		"ukrainian": "Фабрика ядерних сердечники",
 		"slovak": "Továrna na radiačné jadrá",
 		"dutch": "Radiatiekernfabriek",
 		"portuguese": "fábrica de núcleo de radiação",
@@ -766,6 +788,7 @@
 		"thai": "ผลิตแกนรังสีซึ่งเป็นส่วนประกอบอันมีค่าที่ใช้ในอุตสาหกรรมเทคโนโลยีขั้นสูง",
 		"turkish": "Radyoaktivite kullanan ileri teknoloji endüstrilerinde kullanılan değerli bir bileşen olan radyasyon çekirdeklerini üretir.",
 		"chinese": "生产辐射核心，这是一种用于使用放射性的高科技行业的核心组件。",
+		"ukrainian": "Виготовляє ядерні сердечники, цінний компонент що використовується у високотехнологічних виробах яким необхідна радіоактивність для роботи.",
 	},
 	"concreteFactory": {
 		"english": "Concrete Factory",
@@ -779,7 +802,7 @@
 		"japanese": "コンクリート生産工場",
 		"polish": "fabryka betonu",
 		"czech": "Betonárka",
-		"ukrainian": "Бетонна фабрика",
+		"ukrainian": "Фабрика бетону",
 		"slovak": "Betonárka",
 		"dutch": "Betonfabriek",
 		"portuguese": "Fábrica de concreto",
@@ -801,6 +824,7 @@
 		"thai": "ผลิตปูนซีเมนต์ซึ่งเป็นทรัพยากรหลักในการก่อสร้าง",
 		"turkish": "İnşaatın ana kaynağı olan betonu üretir.",
 		"chinese": "生产建筑所需的主要资源混凝土。",
+		"ukrainian": "Виготовляє бетон, головний ресурс для будь-якого будівництва.",
 	},
 	"steelMill": {
 		"english": "Steel Mill",
@@ -836,6 +860,7 @@
 		"thai": "ผลิตเหล็กซึ่งเป็นทรัพยากรที่จำเป็นสำหรับการก่อสร้าง",
 		"turkish": "İnşaat için gerekli bir kaynak olan çeliği üretir.",
 		"chinese": "生产钢材，这是建筑的重要资源。",
+		"ukrainian": "Виготовляє сталь, що дуже важлива для будь-якого будівництва.",
 	},
 	"homeAppliancesFactory": {
 		"english": "Home Appliances Factory",
@@ -871,6 +896,7 @@
 		"thai": "เครื่องใช้ไฟฟ้าภายในบ้านถือเป็นสิ่งอำนวยความสะดวกที่จำเป็น ท้ายที่สุดแล้ว เราอยู่ในอนาคต!\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 3</b>",
 		"turkish": "Ev aletleri gerekli bir kolaylıktır. Sonuçta gelecekteyiz!\n\n<b>3. seviyedeki yaşam alanları için kaynak gerekli</b>.",
 		"chinese": "家用电器是必要的便利。毕竟，我们处于未来！\n\n<b>3级居住地所需的资源</b>。",
+		"ukrainian": "Побутова техніка це зручно та необхідно кожному. Зрештою, ми ж у майбутньому!\n\n<b>Необхідний ресурс для 3 рівня жилих модулів</b>.",
 	},
 	"computerFactory": {
 		"english": "Computer Factory",
@@ -884,7 +910,7 @@
 		"japanese": "コンピューター生産工場",
 		"polish": "Fabryka komputerów",
 		"czech": "Továrna na počítače",
-		"ukrainian": "Комп'ютерна фабрика",
+		"ukrainian": "Фабрика комп'ютерів",
 		"slovak": "Továrna na počítače",
 		"dutch": "Computerfabriek",
 		"portuguese": "Fábrica de computadores",
@@ -907,6 +933,7 @@
 		"thai": "ใครบ้างจะไม่ชอบพักผ่อนขณะเล่นวิดีโอเกมโปรด\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 		"turkish": "En sevdiği video oyununu oynarken dinlenmeyi kim sevmez? Ayrıca bunları iş için de kullanabilirsiniz.\n\n<b>4. seviyedeki yaşam alanları için kaynak gerekli</b>.",
 		"chinese": "谁不喜欢在玩自己喜欢的电子游戏时放松身心？噢，你还可以将它们用于工作。\n\n<b>4级居住地所需的资源</b>。",
+		"ukrainian": "Хто ж не любить розслабитися граючи в свою улюблену гру? О, і ще ви можете використовувати їх для роботи\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"homeRobotFactory": {
 		"english": "Home Robot Factory",
@@ -942,6 +969,7 @@
 		"thai": "ไม่มีอะไรจะดีไปกว่าการหาอาหารเช้าให้พร้อม ขอบคุณ หุ่นยนต์ประจำบ้าน!\n\nทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 5",
 		"turkish": "Kahvaltıyı hazır bulmaktan daha iyi bir şey yoktur. Teşekkürler yerli robot!\n\n<b>5. seviyedeki yaşam alanları için kaynak gerekli</b>.",
 		"chinese": "没有什么比发现早餐准备好了更好的了。谢谢你，家用机器人！\n\n<b>5级居住地所需资源</b>。",
+		"ukrainian": "Немає нічого краще ніж як отримати свій сніданок уже готовим. Дякую, домашній робот-кухар!\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"industrialRobotFactory": {
 		"english": "Industrial Robot Factory",
@@ -977,6 +1005,7 @@
 		"thai": "แขนหุ่นยนต์ขั้นสูง เหมาะสำหรับทุกงาน ตั้งแต่งานที่น่าเบื่อที่สุด ไปจนถึงงานที่อันตรายที่สุด ลดคนงานลง 1\n\nทรัพยากรเดียวจะถูกส่งไปยังอุตสาหกรรมตามลำดับความใกล้เคียง และจะถูกใช้จนกว่าจะถูกใช้ไป หากคุณต้องการกำหนดเป้าหมายไปยังอุตสาหกรรมเฉพาะ ให้ใช้เขตหรือศูนย์กระจายสินค้า!",
 		"turkish": "En sıkıcı işlerden en tehlikeli işlere kadar her işe uygun gelişmiş robotik kollar.\nBir fabrikada gerekli işçi sayısını 1 azaltın.\n\nFabrikalara yakınlık sırasına göre tek bir paket teslim edilecek ve tüketilene kadar kullanılacaktır.\nBunları belirli sektörlere hedeflemek istiyorsanız bölgeleri veya dağıtım merkezlerini kullanın!",
 		"chinese": "先进的机械臂，适合任何工作：从最繁琐的工作到最危险的工作。\n将工厂所需工人数量减少 1 个。\n\n单个包裹按照距离远近的顺序运送到工厂，并将一直使用到其被消耗为止。\n如果你想将它们用于到特定工厂，请使用地区或配送中心！",
+		"ukrainian": "Покращені роботизовані руки підходять для будь-якої роботи, від найнуднішої до найнебезпечнішої.\nЗменшують кількість необхідних на Фабриці робітників на 1.\n\nРесурси по одному доставляються на найближчі Фабрики, починаючи з найближчих, та використовуються доти доки не закінчаться.\nЯкщо ви хочете направити їх до конкретних Фабрик використовуйте райони або розподільчі центри!.",
 	},
 	"highTechWorkshop": {
 		"english": "High Tech Workshop",
@@ -1012,6 +1041,7 @@
 		"thai": "เครื่องมือที่ล้ำสมัยอย่างเหลือเชื่อนี้จะนำพาอุตสาหกรรมของคุณไปสู่อีกระดับหนึ่ง เพิ่มความเร็วในการผลิต 50%\n\nทรัพยากรเดียวจะถูกส่งไปยังอุตสาหกรรมตามลำดับความใกล้เคียง และจะถูกใช้จนกว่าจะถูกใช้ไป หากคุณต้องการกำหนดเป้าหมายไปยังอุตสาหกรรมเฉพาะ ให้ใช้เขตหรือศูนย์กระจายสินค้า!",
 		"turkish": "Bu inanılmaz derecede gelişmiş enstrümantasyon, sektörlerinizi yeni bir seviyeye taşıyacak.\nÜretim hızını %50 artırın.\n\nTek bir kaynak, sanayilere yakınlık sırasına göre dağıtılır ve tüketilene kadar kullanılır.\nBunları belirli sektörlere hedeflemek istiyorsanız bölgeleri veya dağıtım merkezlerini kullanın!",
 		"chinese": "这种极其先进的仪器将把你的行业提升到一个新的水平。\n将生产速度提高 50%。\n\n单个资源将按距离远近的顺序交付给工厂，并将一直使用到其被消耗为止。\n如果你想要将它们同于到特定工厂，请使用区域或配送中心！",
+		"ukrainian": "Ці неймовірні, проривні високотехнологічні інструменти піднімуть ваші Фабрики на новий рівень!\nПришвидшують Фабрики на 50%.\n\nРесурси по одному доставляються на найближчі Фабрики, починаючи з найближчих, та використовуються доти доки не закінчаться.\nЯкщо ви хочете направити їх до конкретних Фабрик використовуйте райони або розподільчі центри!.",
 	},
 	"vrEdutainmentFactory": {
 		"english": "VR Edutainment Factory",
@@ -1025,7 +1055,7 @@
 		"japanese": "教育用VR生産工場",
 		"polish": "Fabryka sprzętów edukacyjno-rozrywkowych VR",
 		"czech": "Továrna na zábavní VR",
-		"ukrainian": "Фабрика пристроїв VR-освіти",
+		"ukrainian": "Фабрика пристроїв VR-розваг-та-освіти",
 		"slovak": "Továrna na zábavu VR",
 		"dutch": "VR Edutainmentfabriek",
 		"portuguese": "Fábrica realidade virtual educativa",
@@ -1047,6 +1077,7 @@
 		"thai": "ขยายขอบเขตอันไกลโพ้นของคุณผ่านความเป็นจริงเสริม!\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 6</b>",
 		"turkish": "Artırılmış gerçeklikle ufkunuzu genişletin!\n\n<b>6. seviyedeki yaşam alanları için kaynak gerekli</b>.",
 		"chinese": "通过增强现实拓展你的视野！\n\n<b>6级居住地所需的资源</b>。",
+		"ukrainian": "Вийдіть за рамки звичного світу завдяки доповненій- та віртуальній реальності!\n\n<b>Необхідний ресурс для 6 рівня жилих модулів</b>.",
 	},
 	"superconductorFactory": {
 		"english": "Superconductor Factory",
@@ -1058,6 +1089,7 @@
 		"thai": "โรงงานวัสดุตัวนำยวดยิ่ง",
 		"turkish": "Süper İletken Fabrikası",
 		"chinese": "超导体厂",
+		"ukrainian": "Фабрика надпровідників",
 		"hungarian": "Szupravezető Gyár",
 	},
 	// TODO-thai
@@ -1069,6 +1101,7 @@
 		"thai": "มันผลิตวัสดุที่เป็นสื่อกระแสไฟฟ้าสูง",
 		"turkish": "Oldukça iletken bir malzeme üretir.",
 		"chinese": "它生产用于电磁应用的超导电材料。",
+		"ukrainian": "Виготовляє надпровідники для різноманітних електромагнітних пристроїв.",
 	},
 	"aiControlUnitFactory": {
 		"english": "AI Control Unit Factory",
@@ -1104,6 +1137,7 @@
 		"thai": "ผลิตโปรเซสเซอร์ชนิดพิเศษเฉพาะสำหรับแอปพลิเคชัน AI จำเป็นสำหรับงานคอมพิวเตอร์ที่มีเทคโนโลยีสูงเท่านั้น",
 		"turkish": "Yapay zeka uygulamaları için uzmanlaşmış özel türde bir işlemci üretir. Yalnızca yüksek teknolojili bilgi işlem görevleri için gereklidir.",
 		"chinese": "生产专门用于人工智能应用的特殊处理器。仅需要最高科技的计算任务。",
+		"ukrainian": "Виготовляє спеціальні процесори, розроблені задля ШІ. Необхідні лише у найбільш високотехнологічних обчисленнях.",
 	},
 	"sciencePack1Factory": {
 		"english": "Blue Science Pack Factory",
@@ -1139,6 +1173,7 @@
 		"thai": "โรงงานแห่งนี้ผลิตเครื่องมือและสารที่ใช้เป็นตัวกระทำปฏิกิริยาที่จำเป็นสำหรับการวิจัยทางวิทยาศาสตร์ขั้นพื้นฐาน และจัดส่งในบรรจุภัณฑ์ที่สะดวก",
 		"turkish": "Bu fabrika, temel bilimsel araştırmalar için gerekli araçları ve reaktifleri üretiyor ve bunları uygun bir pakette teslim ediyor.",
 		"chinese": "该工厂生产<b>基础科学研究</b>所需的工具和试剂，并以方便的包裹形式交付。",
+		"ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>базових наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"sciencePack2Factory": {
 		"english": "Green Science Pack Factory",
@@ -1174,6 +1209,7 @@
 		"thai": "โรงงานแห่งนี้ผลิตเครื่องมือและสารที่ใช้เป็นตัวกระทำปฏิกิริยาที่จำเป็นสำหรับการวิจัยทางวิทยาศาสตร์ขั้นพื้นฐาน และจัดส่งในบรรจุภัณฑ์ที่สะดวก",
 		"turkish": "Bu fabrika, temel bilimsel araştırmalar için gerekli araçları ve reaktifleri üretiyor ve bunları uygun bir pakette teslim ediyor.",
 		"chinese": "该工厂生产<b>初级科学研究</b>所需的工具和试剂，并以方便的包裹形式交付。",
+		"ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>більш складних наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"sciencePack3Factory": {
 		"english": "Yellow Science Pack Factory",
@@ -1208,6 +1244,7 @@
 		"italian": "Questa fabbrica produce strumenti e reagenti necessari per la <b>ricerca scientifica avanzata</b> e li consegna in un pratico pacchetto.",
 		"thai": "โรงงานแห่งนี้ผลิตเครื่องมือและสารที่ใช้เป็นตัวกระทำปฏิกิริยาที่จำเป็นสำหรับการวิจัยทางวิทยาศาสตร์ขั้นสูง และจัดส่งในบรรจุภัณฑ์ที่สะดวก",
 		"chinese": "该工厂生产<b>高级础科学研究</b>所需的工具和试剂，并以方便的包裹形式交付。",
+		"ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>складніших наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"sciencePack4Factory": {
 		"english": "Red Science Pack Factory",
@@ -1243,6 +1280,7 @@
 		"thai": "โรงงานแห่งนี้ผลิตเครื่องมือและสารที่ใช้เป็นตัวกระทำปฏิกิริยาที่จำเป็นสำหรับการวิจัยทางวิทยาศาสตร์ขั้นสูงสุด และจัดส่งในบรรจุภัณฑ์ที่สะดวก",
 		"turkish": "Bu fabrika, son derece gelişmiş bilimsel araştırmalar için gerekli araçları ve reaktifleri üretiyor ve bunları uygun bir pakette teslim ediyor.",
 		"chinese": "该工厂生产<b>超高级础科学研究</b>所需的工具和试剂，并以方便的包裹形式交付。",
+		"ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>найскладніших наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"researchLab": {
 		"english": "Research Lab",
@@ -1278,6 +1316,7 @@
 		"thai": "เรารักวิทยาศาสตร์!\n\nในห้องปฏิบัติการวิจัย มีการพัฒนาเทคโนโลยีใหม่ๆ\nหากต้องการเลือกการวิจัย ให้คลิกไอคอนกล้องจุลทรรศน์ที่ด้านซ้ายบนของหน้าจอ",
 		"turkish": "Bilimi seviyoruz!\n\nAraştırma laboratuvarında yeni teknolojiler geliştirilmektedir.\n\nBir araştırma seçmek için ekranın sol üst köşesindeki mikroskop simgesine tıklayın.",
 		"chinese": "我们热爱科学！\n\n在研究实验室中，<b>研发了新技术</b>。\n\n要选择一项研究，请点击屏幕左上角的<b>显微镜图标</b>。",
+		"ukrainian": "Ми всі любимо науку!\n\nТут, у науково-дослідницькіцй лабораторії ми <b>досліджуємо нові технології</b>.\n\nДля вибору дослідження натисніть на <b>мікроскоп</b> у верхньому лівому куті екрану.",
 	},
 	"researchLab_descAdditional": {
 		"english": "In the research laboratory, new technologies are developed.",
@@ -1285,6 +1324,7 @@
 		"italian": "Nel laboratorio di ricerca si sviluppano nuove tecnologie.",
 		"thai": "ในห้องปฏิบัติการวิจัยมีการพัฒนาเทคโนโลยีใหม่ๆ",
 		"chinese": "在研究实验室中，新技术被研发出来。",
+		"ukrainian": "Тут, у науково-дослідницькій лабораторії ми досліджуємо нові технології.",
 	},
 	"storehouseSmall": {
 		"english": "Small Construction Material Storage",
@@ -1296,6 +1336,7 @@
 		"russian": "Малое хранилище строй-материалов",
 		"turkish": "Küçük İnşaat Malzemesi Deposu",
 		"chinese": "小型建材仓库",
+		"ukrainian": "Малий склад будівельних матеріалів",
 		"hungarian": "Kis Építőanyag Raktár",
 	},
 	"storehouseSmall_desc": {
@@ -1304,6 +1345,7 @@
 		"italian": "Qui si possono stoccare cemento, acciaio e adamantio, <b>senza limiti</b>!\n\nQuesti materiali saranno <b>riservati alla costruzione degli edifici</b>.\nI magazzini <b>non esportano mai</b> i materiali stoccati.\n\nSe vuoi indirizzare cemento, acciaio o adamantio verso alcune industrie specifiche, ricordati di connetterle direttamente alle fabbriche che producono questi materiali, utilizzando i distretti o i centri di distribuzione.",
 		"thai": "สามารถจัดเก็บคอนกรีต เหล็ก และอะดาแมนเทียมได้ที่นี่โดยไม่มีขีดจำกัด!\n\nวัสดุเหล่านี้จะถูกสงวนไว้สำหรับการก่อสร้างสิ่งก่อสร้าง\nโรงเก็บของจะไม่ส่งออกวัสดุที่เก็บไว้ หากคุณต้องการส่งซีเมนต์ เหล็ก หรืออะดาแมนเทียมไปยังอุตสาหกรรมเฉพาะบางประเภท อย่าลืมเชื่อมต่ออุตสาหกรรมเหล่านั้นโดยตรงกับโรงงานที่ผลิตวัสดุเหล่านี้ โดยใช้เขตหรือศูนย์กระจายสินค้า",
 		"chinese": "混凝土、钢材和金刚砂可以存储在这里，<b>无上限</b>！\n\n这些材料将<b>保留用于建筑施工</b>。\n仓库<b>绝不出口</b>存储的材料。\n\n如果你想将混凝土、钢材或金刚砂直接输送到某些特定工厂，请记住使用区域或配送中心将它们直接连接到生产这些材料的工厂。",
+		"ukrainian": "Бетон. сталь та адамантій можна зберігати тут, <b>без жодних обмежень</b>!\n\nЦі матеріали будуть <b>зарезервовані для будівництва будівель*</b>.\nСклади <b>ніколи не експортують</b> збережені матеріали.\n\nЯкщо ви хочете перенаправити бетон, сталь, чи адамантій до якихось конкретних Фабрик, пам'ятайте що їх треба підключити прямо до Фабрик та Кар'єрів що виготовляють ці матеріали через райони чи розподільчі центри.",
 	},
 	"storehouse": {
 		"english": "Construction Material Storage",
@@ -1338,6 +1380,7 @@
 		"italian": "Qui si possono stoccare cemento, acciaio e adamantio, <b>senza limiti</b>!\n\nQuesti materiali saranno <b>riservati alla costruzione degli edifici</b>.\nI magazzini <b>non esportano mai</b> i materiali stoccati.\n\nSe vuoi indirizzare cemento, acciaio o adamantio verso alcune industrie specifiche, ricordati di connetterle direttamente alle fabbriche che producono questi materiali, utilizzando i distretti o i centri di distribuzione.",
 		"thai": "สามารถจัดเก็บคอนกรีต เหล็ก และอะดาแมนเทียมได้ที่นี่โดยไม่มีขีดจำกัด!\n\nวัสดุเหล่านี้จะถูกสงวนไว้สำหรับการก่อสร้างสิ่งก่อสร้าง\nโรงเก็บของจะไม่ส่งออกวัสดุที่เก็บไว้ หากคุณต้องการส่งซีเมนต์ เหล็ก หรืออะดาแมนเทียมไปยังอุตสาหกรรมเฉพาะบางประเภท อย่าลืมเชื่อมต่ออุตสาหกรรมเหล่านั้นโดยตรงกับโรงงานที่ผลิตวัสดุเหล่านี้ โดยใช้เขตหรือศูนย์กระจายสินค้า",
 		"chinese": "混凝土、钢材和金刚砂可以存储在这里，<b>无上限</b>！\n\n这些材料将<b>保留用于建筑施工</b>。\n仓库<b>绝不出口</b>存储的材料。\n\n如果你想将混凝土、钢材或金刚砂直接输送到某些特定工厂，请记住使用区域或配送中心将它们直接连接到生产这些材料的工厂。",
+		"ukrainian": "Бетон. сталь та адамантій можна зберігати тут, <b>без жодних обмежень</b>!\n\nЦі матеріали будуть <b>зарезервовані для будівництва будівель*</b>.\nСклади <b>ніколи не експортують</b> збережені матеріали.\n\nЯкщо ви хочете перенаправити бетон, сталь, чи адамантій до якихось конкретних Фабрик, пам'ятайте що їх треба підключити прямо до Фабрик та Кар'єрів що виготовляють ці матеріали через райони чи розподільчі центри.",
 	},
 	"spacePort": {
 		"english": "Spaceport",
@@ -1373,6 +1416,7 @@
 		"italian": "Un caldo benvenuto ai nuovi arrivati!\n\nLo spazioporto consente <b>l'arrivo di migranti</b>.\nIl numero di spazioporti <b>non influisce</b> sulla velocità, sulla frequenza o sulla quantità di persone in arrivo. Quello dipende dalla qualità dei tuoi habitat!",
 		"thai": "ยินดีต้อนรับผู้มาใหม่!\n\nท่าอวกาศอนุญาตให้ผู้อพยพมาถึงได้\nจำนวนท่าอวกาศไม่ส่งผลต่อความเร็ว ความถี่ หรือจำนวนคนที่มาถึง",
 		"chinese": "热烈欢迎新移民！\n\n航天港允许<b>移民到来</b>。\n航天港的数量<b>不会影响</b>移民的速度、频率或人数。这取决于你的居住地的等级！",
+		"ukrainian": "Важливе попередження всім новачкам!\n\nКосмопорт дає можливість <b>поселенцям прибувати</b> у ваше повеселння.\nКількість Космопортів <b>ніяк не впливає</b> на швидкість, частоту або кількість поселенців прибувших до вас. Все це залежить від якості ваших жилих модулів!",
 	},
 	"spaceShipConstructionFacility": {
 		"english": "Spaceship Construction Facility",
@@ -1396,6 +1440,7 @@
 		"italian": "Raccoglie e invia le risorse necessarie per <b>riparare l'astronave Antares</b>.\n\nPer selezionare una riparazione di Antares, clicca sull'<b>icona dell'astronave</b> in alto a sinistra dello schermo.",
 		"thai": "รวบรวมและส่งทรัพยากรที่จำเป็นสำหรับการซ่อมแซมยานอวกาศอันทาเรส\n\nหากต้องการเลือกการซ่อมแซมอันทาเรส ให้คลิกที่ไอคอนยานอวกาศที่ด้านซ้ายบนของหน้าจอ",
 		"chinese": "收集并调度<b>修理星舰</b>所需的资源。\n\n要选择要修理的星舰部件，请点击屏幕左上角的<b>星舰图标</b>。",
+		"ukrainian": "", //TODO UKRAINIAN THERE AND FURTHER! УКРАЇНСЬКА*
 	},
 	"recyclingCenter": {
 		"english": "Recycling Center",
