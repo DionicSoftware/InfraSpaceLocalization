@@ -1425,7 +1425,7 @@
 		"italian": "Impianto per la costruzione della Nave Spaziale",
 		"spanish-esp": "Instalación de Construcción de la Nave Espacial",
 		"russian": "Завод для сборки звездолета",
-		"ukrainian": "Фабрика космічних кораблів",
+		"ukrainian": "Центр ремонту космічнного корабля",
 		"thai": "สิ่งอำนวยความสะดวกในการก่อสร้างยานอวกาศ",
 		"japanese": "宇宙船建設施設",
 		"hungarian": "Űrhajó építő létesítmény",
@@ -1440,7 +1440,7 @@
 		"italian": "Raccoglie e invia le risorse necessarie per <b>riparare l'astronave Antares</b>.\n\nPer selezionare una riparazione di Antares, clicca sull'<b>icona dell'astronave</b> in alto a sinistra dello schermo.",
 		"thai": "รวบรวมและส่งทรัพยากรที่จำเป็นสำหรับการซ่อมแซมยานอวกาศอันทาเรส\n\nหากต้องการเลือกการซ่อมแซมอันทาเรส ให้คลิกที่ไอคอนยานอวกาศที่ด้านซ้ายบนของหน้าจอ",
 		"chinese": "收集并调度<b>修理星舰</b>所需的资源。\n\n要选择要修理的星舰部件，请点击屏幕左上角的<b>星舰图标</b>。",
-		"ukrainian": "", //TODO UKRAINIAN THERE AND FURTHER! УКРАЇНСЬКА*
+		"ukrainian": "Збирає та віправляє у космос ресурси необхідні для <b>ремонту космічного корабля Antares</b>.\n\nДля вибору конкретних частин корабля Antares для ремонту, натисніть на <b>піктограму космічного корабля</b> зверху екрану.",
 	},
 	"recyclingCenter": {
 		"english": "Recycling Center",
@@ -1475,6 +1475,7 @@
 		"italian": "Riciclare è importante!\n\nQuesto edificio consente una produzione <b>senza consumare risorse</b> una volta ogni <b>cinque cicli produttivi</b>.\n\nSi applica alle industrie dell'area circostante che supportano questo miglioramento.",
 		"thai": "การรีไซเคิลเป็นสิ่งสำคัญ!\n\nสิ่งก่อสร้างหลังนี้ช่วยให้สามารถผลิตโดยไม่ต้องใช้ทรัพยากรทุกๆ ห้ารอบการผลิต โดยนำไปใช้กับอุตสาหกรรมในพื้นที่โดยรอบที่สนับสนุนการปรับปรุงนี้",
 		"chinese": "回收很重要！\n\n这座建筑每<b>五个生产周期</b>就会实现一次<b>无资源生产</b>。\n\n它适用于周边地区支持这种改进技术的工厂。",
+		"ukrainian": "Повторне використання матеріалів дуже важливе!\n\nЦей Центр розблоковує можливість <b>безкоштовного виробництва ресурсів</b> один раз з кожних <b>п'яти виробничих циклів</b>.\n\nЦе працює лише для тих Фабрик навколо Центру що підтримують це покращення.",
 	},
 	"recyclingCenter_descAdditional": {
 		"english": "This building enables resource-free production once in every five production cycles. It applies to industries in the surrounding area that support this improvement.",
@@ -1482,6 +1483,7 @@
 		"italian": "Questo edificio consente una produzione senza consumare risorse una volta ogni cinque cicli produttivi. Si applica alle industrie dell'area circostante che supportano questo miglioramento.",
 		"thai": "สิ่งก่อสร้างนี้ช่วยให้สามารถผลิตโดยไม่ต้องใช้ทรัพยากรทุกๆ ห้ารอบการผลิต โดยนำไปใช้กับอุตสาหกรรมในพื้นที่โดยรอบที่สนับสนุนการปรับปรุงนี้",
 		"chinese": "该建筑每五个生产周期即可实现一次无资源生产。它适用于周边地区支持这种改进技术的工厂。",
+		"ukrainian": "Цей Центр розблоковує можливість безкоштовного виробництва ресурсів один раз з кожних п'яти виробничих циклів. Це працює лише для тих Фабрик навколо Центру що підтримують це покращення",
 	},
 	"soilEnrichmentFacility": {
 		"english": "Soil Enrichment Facility",
@@ -1495,7 +1497,7 @@
 		"japanese": "土壌改良施設",
 		"polish": "Zakład wzbogacania gleby",
 		"czech": "Zařízení na obohacování půdy",
-		"ukrainian": "Станція збагачення ґрунту",
+		"ukrainian": "Центр збагачення ґрунту",
 		"slovak": "Zariadenie na obohocovanie pôdy",
 		"dutch": "Bodemverrijkingsfaciliteit",
 		"portuguese": "Instalação de enriquecimento de solo",
@@ -1516,6 +1518,7 @@
 		"italian": "La qualità del terreno fa la differenza.\n\nQuesto edificio <b>aumenta la velocità di produzione</b> del 50%.\n\nSi applica alle fattorie nell'area circostante.",
 		"thai": "คุณภาพดินสร้างความแตกต่าง สิ่งก่อสร้างนี้เพิ่มความเร็วในการผลิต 50% ใช้กับฟาร์มในพื้นที่โดยรอบ",
 		"chinese": "土壤质量会产生影响。\n\n该建筑<b>将生产速度提高</b> 50%。\n\n适用于周边地区的农场。",
+		"ukrainian": "Збагаченність ґрунту теж має значення.\n\nЦей Центр <b>пришвидшує ріст рослин</b> на 50%.\n\nЦе стосується лише Ферм довкола Центру.",
 	},
 	"soilEnrichmentFacility_descAdditional": {
 		"english": "This building increases production speed by 50%. It applies to farms in the surrounding area.",
@@ -1523,6 +1526,7 @@
 		"italian": "Questo edificio aumenta la velocità di produzione del 50%. Si applica alle fattorie nell'area circostante.",
 		"thai": "สิ่งก่อสร้างนี้เพิ่มความเร็วในการผลิต 50% ใช้กับฟาร์มในพื้นที่โดยรอบ",
 		"chinese": "该建筑<b>将生产速度提高</b> 50%。适用于周边地区的农场。",
+		"ukrainian": "Цей Центр пришвидшує ріст рослин на 50%. Це стосується лише Ферм розташованих довкола Центру",
 	},
 	"airProcessor": {
 		"english": "Atmosphere Processor",
@@ -1557,6 +1561,7 @@
 		"italian": "Estrae ossigeno e carbonio dall'atmosfera.",
 		"thai": "ดึงออกซิเจนและคาร์บอนออกจากบรรยากาศ",
 		"chinese": "从大气中提取氧气和碳素。",
+		"ukrainian": "Видобуває кисень та вуглець з атмосфери",
 	},
 	"oxygenProcessor": {
 		"english": "Oxygen Processor",
@@ -1570,7 +1575,7 @@
 		"japanese": "酸素生産施設",
 		"polish": "Jednostka pozyskiwania tlenu",
 		"czech": "Zařízení na výrobu kyslíku",
-		"ukrainian": "Атмосферний конденсатор (Кисень)",
+		"ukrainian": "Кисневий конденсатор",
 		"slovak": "Zariadenie na výrobu kyslíku",
 		"dutch": "Zuurstofverwerker",
 		"portuguese": "Processador de oxigênio",
@@ -1591,6 +1596,7 @@
 		"italian": "Estrae una buona quantità di ossigeno dall'atmosfera.",
 		"thai": "ดึงออกซิเจนออกจากบรรยากาศในปริมาณที่ดี",
 		"chinese": "从大气中提取大量的氧气。",
+		"ukrainian": "Видобуває велику кількість кисню з атмосфери",
 	},
 	"carbonProcessor": {
 		"english": "Carbon Processor",
@@ -1604,7 +1610,7 @@
 		"japanese": "炭素生産施設",
 		"polish": "Jednostka pozyskiwania węgla",
 		"czech": "Zařízení na výrobu uhlíku",
-		"ukrainian": "Атмосферний конденсатор (Карбон)",
+		"ukrainian": "Вуглецевий конденсатор",
 		"slovak": "Zariadenie na výrobu uhlíku",
 		"dutch": "Koolstofverwerker",
 		"portuguese": "Processador de carbono",
@@ -1625,6 +1631,7 @@
 		"italian": "Estrae una buona quantità di carbonio dall'atmosfera.",
 		"thai": "ดึงคาร์บอนออกจากชั้นบรรยากาศได้ดี",
 		"chinese": "从大气中提取大量的碳素。",
+		"ukrainian": "Видобуває велику кількість вуглецю з атмосфери",
 	},
 	"basicFarm": {
 		"english": "Simple Farm",
@@ -1638,7 +1645,7 @@
 		"japanese": "簡易農場",
 		"polish": "Podstawowa farma",
 		"czech": "Základní farma",
-		"ukrainian": "Базова ферма",
+		"ukrainian": "Ферма базових агрокультур",
 		"slovak": "Základná farma",
 		"dutch": "Eenvoudige Boerderij",
 		"portuguese": "Fazenda simples",
@@ -1659,6 +1666,7 @@
 		"italian": "Fornisce il cibo l'essenziale per mantenersi in salute.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 2</b>.",
 		"thai": "จัดหาอาหารที่จำเป็นเพื่อสุขภาพที่ดี\n\nทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 2",
 		"chinese": "提供保持健康所必需的食物。\n\n<b>2级居住地所需的资源</b>。",
+		"ukrainian": "Вирощує найпростіші у догляді види рослин, що необхідні аби залишатися здоровим.\n\n<b>Необхідний ресурс для 2 рівня жилих модулів</b>.",
 	},
 	"fertilizerFactory": {
 		"english": "Fertilizer Factory",
@@ -1693,6 +1701,7 @@
 		"italian": "Produce fertilizzante, usato principalmente nell'agricoltura.",
 		"thai": "ผลิตปุ๋ยใช้เพาะปลูกเป็นหลัก",
 		"chinese": "生产肥料，主要用于农业。",
+		"ukrainian": "Виготволяє добрива, що в основному використовуються при вирощуванні рослин",
 	},
 	"vegetableFarm": {
 		"english": "Vegetable Farm",
@@ -1706,7 +1715,7 @@
 		"japanese": "野菜農場",
 		"polish": "Farma warzywna",
 		"czech": "Zeleninová farma",
-		"ukrainian": "Овочева ферма",
+		"ukrainian": "Ферма овочевих агрокультур",
 		"slovak": "Zeleninová farma",
 		"dutch": "Groenteteler",
 		"portuguese": "Fazenda de vegetais",
@@ -1727,6 +1736,7 @@
 		"italian": "Coltivazioni di ogni genere di verdura commestibile",
 		"thai": "การปลูกพืชผักกินได้ทุกชนิด",
 		"chinese": "种植各类食用蔬菜。",
+		"ukrainian": "Вирощує різноманітні види з'їстних овочів",
 	},
 	"meatLab": {
 		"english": "Meat Lab",
@@ -1761,6 +1771,7 @@
 		"italian": "Coltivazione intensiva di carne. Strettamente sintetica!",
 		"thai": "การปลูกเนื้อสัตว์แบบเข้มข้น สังเคราะห์แท้!",
 		"chinese": "肉类生产。100%实验室合成！",
+		"ukrainian": "Інтенсивно вирощує м'ясо. 100% синтетичне, вирощене у лабораторії!",
 	},
 	"foodFactory": {
 		"english": "Meal Factory",
@@ -1774,7 +1785,7 @@
 		"japanese": "食品生産工場",
 		"polish": "Laboratorium żywności",
 		"czech": "Továrna na jídlo",
-		"ukrainian": "Завод харчових пайків",
+		"ukrainian": "Фабрика готових сніданків",
 		"slovak": "Továrna na jedlo",
 		"dutch": "Maaltijdfabriek",
 		"portuguese": "Fábrica de alimento",
@@ -1795,6 +1806,7 @@
 		"italian": "Piatti pronti direttamente sulle vostre tavole!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "อาหารสำเร็จรูปอยู่บนโต๊ะของคุณ!\n\nทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 5",
 		"chinese": "现成的菜肴就在你的桌子上！\n\n<b>5级居住地所需的资源</b>。",
+		"ukrainian": "Уже готові сніданки прямо до вашого ранкового столу!\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"habitatLevel1": {
 		"english": "Basic Habitat",
@@ -1829,6 +1841,7 @@
 		"italian": "Casa dolce casa!\n\nLe persone vivranno qui. <b>L'edificio migliorerà man mano che le esigenze saranno soddisfatte</b>, accogliendo sempre più residenti.",
 		"thai": "บ้านที่แสนอบอุ่น!\n\nผู้คนจะอาศัยอยู่ที่นี่ สิ่งก่อสร้างจะปรับปรุงตามความต้องการ ต้อนรับผู้พักอาศัยเพิ่มมากขึ้น",
 		"chinese": "家，甜蜜的家！\n\n人们将居住在这里。<b>随着需求的满足，大楼将会得到改善</b>，欢迎越来越多的居民。",
+		"ukrainian": "Дім, милий дім!\n\nТут живуть ваші поселенці. <b>Модуль буде покращуватись, при задоволені його поточних потреб</b>, що дозволить вміщати більше й більше поселенців.",
 	},
 	"habitatLevel2": {
 		"english": "Decent Habitat",
@@ -1950,7 +1963,7 @@
 		"japanese": "最高級居住地 (Lv6)",
 		"polish": "Luksusowy wieżowiec mieszkalny",
 		"czech": "Luxusní věžák",
-		"ukrainian": "Елетарний жилий модуль",
+		"ukrainian": "Елітний жилий модуль",
 		"slovak": "Luxusná veža",
 		"dutch": "Luxe Woonhoogbouw",
 		"portuguese": "Torre residencial luxuosa",
@@ -1975,6 +1988,7 @@
 		"turkish": "Büyük Sehir Parkı",
 		"thai":"สวนเมืองใหญ่",
 		"chinese": "大型城市公园",
+		"ukrainian": "Великий парк",
 		"hungarian": "Nagy Városi Park",
 	},
 	"park_desc": {
@@ -1983,6 +1997,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 		"chinese": "一个远离城市喧嚣的休息场所。\n\n公共建筑仅向周围的居住地开放。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"park_descAdditional": {
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
@@ -1990,6 +2005,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 		"chinese": "远离城市喧嚣的休息场所。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark1": {
 		"english": "Classic Park",
@@ -2009,6 +2025,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 		"chinese": "一个远离城市喧嚣的休息场所。\n\n公共建筑仅向周围的居住地开放。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark1_descAdditional": {
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
@@ -2016,6 +2033,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 		"chinese": "远离城市喧嚣的休息场所。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark2": {
 		"english": "Modern Park",
@@ -2035,6 +2053,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 		"chinese": "一个远离城市喧嚣的休息场所。\n\n公共建筑仅向周围的居住地开放。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark2_descAdditional": {
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
@@ -2042,6 +2061,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 		"chinese": "远离城市喧嚣的休息场所。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark3": {
 		"english": "Small Modern Park",
@@ -2051,6 +2071,7 @@
 		"thai": "สวนทันสมัยขนาดเล็ก",
 		"turkish": "Küçük Modern Park",
 		"chinese": "小型现代公园",
+		"ukrainian": "Малий сучасний парк",
 		"hungarian": "Kis Modern Park",
 	},
 	"decorativePark3_desc": {
@@ -2059,6 +2080,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 		"chinese": "一个远离城市喧嚣的休息场所。\n\n公共建筑仅向周围的居住地开放。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark3_descAdditional": {
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
@@ -2066,6 +2088,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 		"chinese": "远离城市喧嚣的休息场所。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark4": {
 		"english": "Small Classic Park",
@@ -2076,6 +2099,7 @@
 		"japanese": "古典的な小型公園",
 		"turkish": "Küçük Klasik Park",
 		"chinese": "小型经典公园",
+		"ukrainian": "Малий класичний парк",
 		"hungarian": "Kis Klasszikus Park",
 	},
 	"decorativePark4_desc": {
@@ -2084,6 +2108,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 		"chinese": "一个远离城市喧嚣的休息场所。\n\n公共建筑仅向周围的居住地开放。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark4_descAdditional": {
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
@@ -2091,6 +2116,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 		"chinese": "远离城市喧嚣的休息场所。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark5": {
 		"english": "Classic Mini-Park",
@@ -2101,6 +2127,7 @@
 		"japanese": "古典的なミニ公園",
 		"turkish": "Klasik Mini Park",
 		"chinese": "微型经典公园",
+		"ukrainian": "Класичний міні-парк",
 		"hungarian": "Klasszikus Minipark"
 	},
 	"decorativePark5_desc": {
@@ -2109,6 +2136,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความสับสนวุ่นวายในเมือง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 4</b>",
 		"chinese": "一个远离城市喧嚣的休息场所。\n\n公共建筑仅向周围的居住地开放。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"decorativePark5_descAdditional": {
 		"english": "A place to take a break from the city chaos.\n\n<b>Needed for habitats at level 4</b>.",
@@ -2116,6 +2144,7 @@
 		"italian": "Un luogo dove prendersi una pausa dal caos cittadino.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 4</b>.",
 		"thai": "สถานที่หลีกหนีจากความวุ่นวายในเมือง\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 4</b>",
 		"chinese": "远离城市喧嚣的休息场所。\n\n<b>4级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна відпочити від повсякденного міського хаосу.\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
 	},
 	"arena": {
 		"english": "Stadium",
@@ -2150,6 +2179,7 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
 		"chinese": "老少皆宜的聚会娱乐场所！\n\n公共建筑仅向周围的居住地开放。\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна весело провести час і молодим і старим.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"arena_descAdditional": {
 		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
@@ -2157,6 +2187,7 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\n<b>ต้องการที่อยู่อาศัยในระดับ 5</b>",
 		"chinese": "老少皆宜的聚会娱乐场所！\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна весело провести час і молодим і старим.\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"theater": {
 		"english": "Theater",
@@ -2166,6 +2197,7 @@
 		"thai": "โรงภาพยนตร์",
 		"chinese": "剧院",
 		"italian": "Teatro",
+		"ukrainian": "Театр",
 	},
 	"theater_desc": {
 		"english": "The gathering and entertainment place for young and old!\n\nPublic buildings only deliver resources to surrounding habitats.\n\n<b>Needed for habitats at level 5</b>.",
@@ -2173,6 +2205,7 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
 		"chinese": "老少皆宜的聚会娱乐场所！\n\n公共建筑仅向周围的居住地开放。\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна весело провести час і молодим і старим.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"theater_descAdditional": {
 		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
@@ -2180,6 +2213,7 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\n<b>ต้องการที่อยู่อาศัยในระดับ 5</b>",
 		"chinese": "老少皆宜的聚会娱乐场所！\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна весело провести час і молодим і старим.\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"holoCinema": {
 		"english": "Holo Cinema",
@@ -2191,6 +2225,7 @@
 		"russian": "Голо-кинотеатр",
 		"turkish": "Sanal Sinema",
 		"chinese": "全息影院",
+		"ukrainian": "Голографічний кінотеатр",
 		"hungarian": "Holo Mozi",
 	},
 	"holoCinema_desc": {
@@ -2199,6 +2234,7 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 5</b>",
 		"chinese": "老少皆宜的聚会娱乐场所！\n\n公共建筑仅向周围的居住地开放。\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна весело провести час і молодим і старим.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"holoCinema_descAdditional": {
 		"english": "The gathering and entertainment place for young and old!\n\n<b>Needed for habitats at level 5</b>.",
@@ -2206,6 +2242,7 @@
 		"italian": "Il luogo di ritrovo per grandi e piccini!\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "แหล่งรวมตัวและความบันเทิงสำหรับเด็กและผู้ใหญ่!\n\n<b>ต้องการแหล่งที่อยู่อาศัยที่ระดับ 5</b>",
 		"chinese": "老少皆宜的聚会娱乐场所！\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Місце де можна весело провести час і молодим і старим.\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"sportCenter": {
 		"english": "Sport Center",
@@ -2214,6 +2251,7 @@
 		"turkish": "Spor Merkezi",
 		"thai": "ศูนย์กีฬา",
 		"chinese": "体育中心",
+		"ukrainian": "Спортивний центр",
 		"italian": "Polo Sportivo",
 	},
 	// TODO-german
@@ -2224,6 +2262,7 @@
 		"italian": "Allenarsi è divertente! Così dicono.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "พวกเขาพูดกันว่าการออกกำลังกายก็เป็นเรื่องที่สนุกได้!\n\nทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยที่ระดับ 5",
 		"chinese": "锻炼可以很有趣！ 所以他们说...\n\n公共建筑仅向周围的居住地开放。\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Пробіжка на свіжому повітрі — це весело. Принаймні, вони так кажуть...\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"sportCenter_descAdditional": {
 		"english": "Working out can be fun! So they say...\n\n<b>Needed for habitats at level 5</b>.",
@@ -2231,6 +2270,7 @@
 		"italian": "Allenarsi è divertente! Così dicono.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 5</b>.",
 		"thai": "การออกกำลังกายเป็นเรื่องสนุกได้! พวกเขาบอกอย่างงั้น...\n\n<b>ต้องการแหล่งที่อยู่อาศัยในระดับ 5</b>",
 		"chinese": "锻炼可以很有趣！ 所以他们说...\n\n<b>5级居住地所需建筑</b>。",
+		"ukrainian": "Пробіжка на свіжому повітрі — це весело. Принаймні, вони так кажуть...\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
 	},
 	"school": {
 		"english": "School",
@@ -2265,6 +2305,7 @@
 		"italian": "Mantiene alto il livello di educazione.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 6</b>",
 		"chinese": "它保持较高的教育水平。\n\n公共建筑仅向周围的居住地开放。\n\n<b>6级居住地所需建筑</b>。",
+		"ukrainian": "Підтримує рівень грамотності поселенців на високому рівні.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 6 рівня жилих модулів</b>.",
 	},
 	"school_descAdditional": {
 		"english": "It keeps the level of education high.\n\n<b>Needed for habitats at level 6</b>.",
@@ -2272,6 +2313,7 @@
 		"italian": "Mantiene alto il livello di educazione.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\n<b>จำเป็นสำหรับแหล่งที่อยู่อาศัยที่ระดับ 6</b>",
 		"chinese": "它保持较高的教育水平。\n\n<b>6级居住地所需建筑</b>。",
+		"ukrainian": "Підтримує рівень грамотності поселенців на високому рівні.\n\n<b>Необхідний ресурс для 6 рівня жилих модулів</b>.",
 	},
 	"kindergarten": {
 		"english": "Kindergarten",
@@ -2280,6 +2322,7 @@
 		"turkish": "Anaokulu",
 		"thai": "โรงเรียนอนุบาล",
 		"chinese": "幼儿园",
+		"ukrainian": "Дитсадок",
 		"italian": "Asilo",
 	},
 	"kindergarten_desc": {
@@ -2288,6 +2331,7 @@
 		"italian": "Mantiene alto il livello di educazione.\n\nGli edifici pubblici distribuiscono le risorse agli habitat circostanti.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\nสิ่งก่อสร้างสาธารณะกระจายทรัพยากรไปยังแหล่งที่อยู่อาศัยโดยรอบ\n\n<b>ทรัพยากรที่จำเป็นในการปรับปรุงแหล่งที่อยู่อาศัยในระดับ 6</b>",
 		"chinese": "它保持较高的教育水平。\n\n公共建筑仅向周围的居住地开放。\n\n<b>6级居住地所需建筑</b>。",
+		"ukrainian": "Підтримує рівень грамотності поселенців на високому рівні.\n\nБудівлі створені для потреб поселенців задовільняють потреби лише тих, хто проживає у навколишніх жилих модулях.\n\n<b>Необхідний ресурс для 6 рівня жилих модулів</b>.",
 	},
 	"kindergarten_descAdditional": {
 		"english": "It keeps the level of education high.\n\n<b>Needed for habitats at level 6</b>.",
@@ -2295,6 +2339,7 @@
 		"italian": "Mantiene alto il livello di educazione.\n\n<b>Risorsa necessaria per migliorare gli habitat al livello 6</b>.",
 		"thai": "ช่วยให้ระดับการศึกษาอยู่ในระดับสูง\n\n<b>จำเป็นสำหรับแหล่งที่อยู่อาศัยที่ระดับ 6</b>",
 		"chinese": "它保持较高的教育水平。\n\n<b>6级居住地所需建筑</b>。",
+		"ukrainian": "Підтримує рівень грамотності поселенців на високому рівні.\n\n<b>Необхідний ресурс для 6 рівня жилих модулів</b>.", //TODO UKRAINIAN THERE AND FURTHER! УКРАЇНСЬКА*
 	},
 	"oxygenTank": {
 		"english": "Oxygen Tank",
