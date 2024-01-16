@@ -2363,6 +2363,7 @@
 		"italian": "Fornitura extra di ossigeno.\n\nI serbatoi vengono utilizzati per <b>immagazzinare una buona quantità di gas o liquidi</b>, in modo da evitare di esaurire immediatamente le risorse in caso di diminuzione della produzione.\n\n<b>Possono essere collegati solo al sistema di tubature</b> e non richiedono una connessione stradale.",
 		"thai": "แหล่งจ่ายออกซิเจนเสริม\n\nถังใช้เพื่อกักเก็บก๊าซหรือของเหลวในปริมาณที่เหมาะสม เพื่อไม่ให้ทรัพยากรหมดทันทีในกรณีที่การผลิตลดลง สามารถเชื่อมต่อกับระบบท่อเท่านั้นและไม่จำเป็นต้องเชื่อมต่อถนน",
 		"chinese": "额外的氧气供应。\n\n储罐用于<b>储存大量的气体或液体</b>，这样即使产量下降，你也不会立即耗尽资源。\n\n<b>只能连接管道系统</b>，不需要道路连接。",
+		"ukrainian": "Вміщує в собі додаткові запаси кисню.\n\nБаки використовуються для <b>зберігання великої кількості газів або рідин</b>, завдяки чому ваші Фабрики не встануть без роботи тільки через короткочасне падіння рівня продукції.\n\n<b>Може бути підключеним лише до системи трубопроводів</b> а також не потребує з'єднання з дорогою.",
 	},
 	"waterTank": {
 		"english": "Water Tank",
@@ -2386,6 +2387,7 @@
 		"italian": "Fornitura extra di acqua.\n\nI serbatoi vengono utilizzati per <b>immagazzinare una buona quantità di gas o liquidi</b>, in modo da evitare di esaurire immediatamente le risorse in caso di diminuzione della produzione.\n\n<b>Possono essere collegati solo al sistema di tubature</b> e non richiedono una connessione stradale.",
 		"thai": "แหล่งจ่ายน้ำเสริม\n\nถังใช้เพื่อกักเก็บก๊าซหรือของเหลวในปริมาณที่เหมาะสม เพื่อไม่ให้ทรัพยากรหมดทันทีในกรณีที่การผลิตลดลง สามารถเชื่อมต่อกับระบบท่อเท่านั้นและไม่จำเป็นต้องเชื่อมต่อถนน",
 		"chinese": "额外的用水供应。\n\n储罐用于<b>储存大量的气体或液体</b>，这样即使产量下降，你也不会立即耗尽资源。\n\n<b>只能连接管道系统</b>，不需要道路连接。",
+		"ukrainian": "Вміщує в собі додаткові запаси води.\n\nБаки використовуються для <b>зберігання великої кількості газів або рідин</b>, завдяки чому ваші Фабрики не встануть без роботи тільки через короткочасне падіння рівня продукції.\n\n<b>Може бути підключеним лише до системи трубопроводів</b> а також не потребує з'єднання з дорогою.",
 	},
 	"methaneTank": {
 		"english": "Methane Tank",
@@ -2409,6 +2411,7 @@
 		"italian": "Fornitura extra di metano.\n\nI serbatoi vengono utilizzati per <b>immagazzinare una buona quantità di gas o liquidi</b>, in modo da evitare di esaurire immediatamente le risorse in caso di diminuzione della produzione.\n\n<b>Possono essere collegati solo al sistema di tubature</b> e non richiedono una connessione stradale.",
 		"thai": "แหล่งจ่ายมีเทนเสริม\n\nถังใช้เพื่อกักเก็บก๊าซหรือของเหลวในปริมาณที่เหมาะสม เพื่อไม่ให้ทรัพยากรหมดทันทีในกรณีที่การผลิตลดลง สามารถเชื่อมต่อกับระบบท่อเท่านั้นและไม่จำเป็นต้องเชื่อมต่อถนน",
 		"chinese": "额外的天然气供应。\n\n储罐用于<b>储存大量的气体或液体</b>，这样即使产量下降，你也不会立即耗尽资源。\n\n<b>只能连接管道系统</b>，不需要道路连接。",
+		"ukrainian": "Вміщує в собі додаткові запаси метану.\n\nБаки використовуються для <b>зберігання великої кількості газів або рідин</b>, завдяки чому ваші Фабрики не встануть без роботи тільки через короткочасне падіння рівня продукції.\n\n<b>Може бути підключеним лише до системи трубопроводів</b> а також не потребує з'єднання з дорогою.",
 	},
 	"crudeOilTank": {
 		"english": "Crude Oil Tank",
@@ -2420,6 +2423,7 @@
 		"russian": "Цистерна нефти",
 		"turkish": "Işlenmemiş Petrol Tankı",
 		"chinese": "原油储罐",
+		"ukrainian": "Бак з сирою нафтою",
 		"hungarian": "Nyersolaj Tank",
 	},
 	"crudeOilTank_desc": {
@@ -2428,6 +2432,7 @@
 		"italian": "Fornitura extra di petrolio.\n\nI serbatoi vengono utilizzati per <b>immagazzinare una buona quantità di gas o liquidi</b>, in modo da evitare di esaurire immediatamente le risorse in caso di diminuzione della produzione.\n\n<b>Possono essere collegati solo al sistema di tubature</b> e non richiedono una connessione stradale.",
 		"thai": "แหล่งจ่ายน้ำมันดิบเสริม\n\nถังใช้เพื่อกักเก็บก๊าซหรือของเหลวในปริมาณที่เหมาะสม เพื่อไม่ให้ทรัพยากรหมดในทันทีในกรณีที่การผลิตลดลง สามารถเชื่อมต่อกับระบบท่อเท่านั้นและไม่จำเป็นต้องเชื่อมต่อถนน",
 		"chinese": "额外的原油供应。\n\n储罐用于<b>储存大量的气体或液体</b>，这样即使产量下降，你也不会立即耗尽资源。\n\n<b>只能连接管道系统</b>，不需要道路连接。",
+		"ukrainian": "Вміщує в собі додаткові запаси сирої нафти, придатної для подальшої для обробки.\n\nБаки використовуються для <b>зберігання великої кількості газів або рідин</b>, завдяки чому ваші Фабрики не встануть без роботи тільки через короткочасне падіння рівня продукції.\n\n<b>Може бути підключеним лише до системи трубопроводів</b> а також не потребує з'єднання з дорогою.",
 	},
 	"waterAirFilter": {
 		"english": "Water-Air-Filter",
@@ -2440,7 +2445,7 @@
 		"japanese": "吸湿フィルター", // 意訳 (free translation)
 		"hungarian": "Légkörvízszűrő",
 		"czech": "Vodní vzduchový filtr",
-		"ukrainian": "Атмосферний конденсатор водяної пари",
+		"ukrainian": "Водяний конденсатор",
 		"turkish": "Nemden su üretim tesisi",
 		"chinese": "空气滤水器",
 		"scotsgaelic": "Filter adhair uisge",
@@ -2451,6 +2456,7 @@
 		"italian": "Estrae acqua dall'atmosfera.",
 		"thai": "สกัดน้ำจากบรรยากาศ",
 		"chinese": "从大气中提取水。",
+		"ukrainian": "Видобуває (конденсує) воду з атмосфери.",
 	},
 	"waterWellHydraulic": { // translation different than key
 		"english": "Ground Water Extractor",
@@ -2474,6 +2480,7 @@
 		"italian": "Estrae una considerevole quantità di acqua dal sottosuolo.",
 		"thai": "สกัดน้ำปริมาณมากจากใต้ดิน",
 		"chinese": "从地下提取大量的水。",
+		"ukrainian": "Видобуває значну кількість води з під землі.",
 	},
 	"methaneDrill": {
 		"english": "Methane Drill",
@@ -2498,6 +2505,7 @@
 		"thai": "สกัดมีเทนจากใต้ดิน\n\nสิ่งก่อสร้างนี้จะถูกนำไปวางไว้บนแหล่งสะสมมีเทน",
 		"turkish": "Yeraltından metanı çıkarıyor.\n\nBu bina bir metan yatağının üzerine yerleştirilecek.",
 		"chinese": "从地下提取天然气。\n\n这座建筑将建在<b>天然气矿</b>上。",
+		"ukrainian": "Видобува метан з під землі.\n\nМоже бути розміщена лише на <b>залежах метану</b>.",
 	},
 	"methaneFermentationPlant": {
 		"english": "Methane Fermentation Plant",
@@ -2510,7 +2518,7 @@
 		"japanese": "メタン発酵装置",
 		"hungarian": "Metán erjesztő létesítmény",
 		"czech": "Závod na fermentaci metanu",
-		"ukrainian": "Косплекс переробки метану",
+		"ukrainian": "Станція з переробки метану",
 		"turkish": "methan gazı fermente tesisi",
 		"chinese": "沼气发酵池",
 		"scotsgaelic": "Ionad Coipeadh Methan",
@@ -2521,6 +2529,7 @@
 		"italian": "Produce una buona quantità di metano a partire dai rifiuti organici.",
 		"thai": "ผลิตมีเทนในปริมาณที่ดีจากขยะอินทรีย์",
 		"chinese": "从有机废物中产生大量天然气",
+		"ukrainian": "Видобуває непогану кількість метану з органічного сміття",
 	},
 	"methanePowerPlant": {
 		"english": "Methane Power Plant",
@@ -2544,6 +2553,7 @@
 		"italian": "Produce una considerevole quantità di elettricità bruciando metano.",
 		"thai": "ผลิตไฟฟ้าจำนวนมากโดยการเผาไหม้มีเทน",
 		"chinese": "通过燃烧天然气产生大量电力。",
+		"ukrainian": "Виробляє значну кількість електроенергії спалюючи метан",
 	},
 	"powerPole": {
 		"english": "Power Pole",
@@ -2578,6 +2588,7 @@
 		"italian": "Possono unire diverse fonti energetiche in un'unica rete elettrica.\n\nOgni palo elettrico <b>fornisce energia</b> a una <b>piccola area circostante</b>.",
 		"thai": "เสาไฟฟ้าสามารถรวมแหล่งพลังงานหลายแหล่งไว้ในเครือข่ายไฟฟ้าเดียวได้\n\nเสาไฟฟ้าแต่ละต้น<b>จ่ายพลังงาน</b>ให้กับ<b>พื้นที่โดยรอบขนาดเล็ก</b>",
 		"chinese": "电线杆可以将多个电源组合在一个电网中。\n\n每个电线杆<b>向<b>周围的小区域</b>供电</b>。",
+		"ukrainian": "Стопвпи Ліній ЕлектроПередач можуть об'єднувати різні джерела електроенергії у єдину енергосистему.\n\nКожен стовп ЛЕП <b>може живити електроенергією будівлі у невеликій околиці від себе</b>.",
 	},
 	"powerSubstation": {
 		"english": "Power Substation",
@@ -2612,6 +2623,7 @@
 		"italian": "<b>Fornisce energia</b> a <b>un'ampia area circostante</b>.\nDeve essere collegato a una fonte di alimentazione.",
 		"thai": "จ่ายไฟฟ้าให้กับพื้นที่โดยรอบขนาดใหญ่ จะต้องเชื่อมต่อกับแหล่งพลังงาน",
 		"chinese": "<b>为<b>大范围的周围区域</b>供电</b>。\n它必须连接到电源。",
+		"ukrainian": "<b>Може живити електроенергією будівлі у великій зоні довкола себе</b>.\nМає бути підключеною до стовпу ЛЕП або електростанції.",
 	},
 	"windTurbine": {
 		"english": "Wind Turbine",
@@ -2646,6 +2658,7 @@
 		"italian": "Sfrutta il vento per produrre una modesta quantità di energia.\n\nPer un'efficienza ottimale, <b>non sovrapporre</b> le loro aree di azione!",
 		"thai": "ควบคุมลมเพื่อผลิตพลังงานในปริมาณพอเหมาะ เพื่อประสิทธิภาพสูงสุด อย่าทับซ้อนกับขอบเขตการทำงาน!",
 		"chinese": "利用风力产生少量的电力。\n\n为了获得最佳效率，<b>不要重叠</b>它们的运作区域！",
+		"ukrainian": "Використовує силу вітру аби продукувати деяку кількість електроенергії.\n\nДля високоефективної роботи вітряка <b>не розміщуйте їх занадто близько один від одного</b>!",
 	},
 	"solarPowerPlant": {
 		"english": "Solar Power Plant",
@@ -2680,6 +2693,7 @@
 		"italian": "Sfrutta l'energia solare per produrre una buona quantità di energia.",
 		"thai": "ใช้ประโยชน์จากพลังงานแสงอาทิตย์เพื่อผลิตพลังงานในปริมาณที่พอเหมาะ",
 		"chinese": "利用太阳能产生大量的电力。",
+		"ukrainian": "Використовує силу сонця й видає достатнью кількість електроенергії.",
 	},
 	"solarPowerPlant_Variation": {
 		"english": "Solar Power Plant Variation",
@@ -2714,6 +2728,7 @@
 		"italian": "Sfrutta l'energia solare per produrre una buona quantità di energia.",
 		"thai": "ใช้ประโยชน์จากพลังงานแสงอาทิตย์เพื่อผลิตพลังงานในปริมาณที่พอเหมาะ",
 		"chinese": "利用太阳能产生大量的电力。",
+		"ukrainian": "Використовує силу сонця й видає достатнью кількість електроенергії.",
 	},
 	"nuclearPowerPlant": {
 		"english": "Nuclear Power Plant",
@@ -2748,6 +2763,7 @@
 		"italian": "Produce una grande quantità di elettricità sfruttando la fissione nucleare dell'uranio.",
 		"thai": "ผลิตไฟฟ้าปริมาณมากโดยควบคุมการแยกตัวของนิวเคลียสของยูเรเนียม",
 		"chinese": "利用铀的核裂变产生大量电力。",
+		"ukrainian": "Видає величезну кількість електроенергії використовуючи енергії розпаду ядер урану.",
 	},
 	"fastNeutronReactor": {
 		"english": "Fast Neutron Reactor",
@@ -2761,7 +2777,7 @@
 		"japanese": "高速中性子発電所",
 		"polish": "Reaktor prędki", // Fachowa nazwa, może też być Reaktor na prędkich neutronach
 		"czech": "Reaktor na rychlé neutrony",
-		"ukrainian": "Нейтронний реактор", // Визначитися з назвою!
+		"ukrainian": "Нейтронний ядерний реактор", // Визначитися з назвою!
 		"slovak": "Rýchly Neutrónový reaktor",
 		"dutch": "Snelle Neutronenreactor",
 		"portuguese": "Reator rápido de nêutrons",
@@ -2782,6 +2798,7 @@
 		"italian": "Produce una enorme quantità di energia utilizzando la più recente tecnologia di fissione nucleare dell'uranio.",
 		"thai": "ผลิตไฟฟ้าจำนวนมหาศาลโดยใช้เทคโนโลยีการแยกตัวของนิวเคลียร์ยูเรเนียมล่าสุด",
 		"chinese": "利用最新的铀核裂变技术产生大量的电力。",
+		"ukrainian": "Видає величезну кількість електроенергії використовуючи найсучасніші технології контролю розпаду ядер урану.",
 	},
 	"signStanding": {
 		"english": "Great Standing Sign",
@@ -2795,7 +2812,7 @@
 		"japanese": "立て看板",
 		"polish": "Znak stojący",
 		"czech": "Stojící nápis",
-		"ukrainian": "Стоячий напис",
+		"ukrainian": "Великий стоячий напис",
 		"slovak": "Stojáci nápis",
 		"dutch": "Grote Staande Belettering",
 		"portuguese": "Grande placa vertical",
@@ -2816,6 +2833,7 @@
 		"italian": "Cartellone personalizzabile.",
 		"thai": "ป้ายโฆษณาที่ปรับแต่งได้",
 		"chinese": "自定义的标牌。",
+		"ukrainian": "Знак можна змінювати за власним бажанням.",
 	},
 	"signLaying": {
 		"english": "Great Laying Sign",
@@ -2829,7 +2847,7 @@
 		"japanese": "置き看板",
 		"polish": "Znak leżący",
 		"czech": "Ležící nápis",
-		"ukrainian": "Лежачий напис",
+		"ukrainian": "Великий лежачий напис",
 		"slovak": "Ležatý nápis",
 		"dutch": "Grote Liggende Belettering",
 		"portuguese": "Grande placa horizontal",
@@ -2850,6 +2868,7 @@
 		"italian": "Cartellone personalizzabile.",
 		"thai": "ป้ายโฆษณาที่ปรับแต่งได้",
 		"chinese": "自定义的标牌。",
+		"ukrainian": "Знак можна змінювати за власним бажанням.",
 	},
 	"monumentDrill": {
 		"english": "Colossal Adamantine Drill",
@@ -2863,7 +2882,7 @@
 		"japanese": "巨大アダマンタイト採掘機",
 		"polish": "Kolosalne wiertło adamantynowe",
 		"czech": "Obří adamantinový vrták",
-		"ukrainian": "Колоссальний адамантієвий бур",
+		"ukrainian": "Колоссальний адамантієвий кар'єр*/бур",
 		"slovak": "Obrovský Adamantitový vrták",
 		"dutch": "Kolossale Adamantboor",
 		"portuguese": "Broca colossal de adamantina",
@@ -2885,6 +2904,7 @@
 		"thai": "สว่านขนาดมหึมานี้จะต้องใช้ทรัพยากรหลายอย่างเพื่อให้การก่อสร้างเสร็จสมบูรณ์ สามารถวางได้ทุกที่",
 		"turkish": "Bu devasa sondajın inşaatının tamamlanması için çeşitli kaynaklara ihtiyacı olacak. Her yere yerleştirilebilir.",
 		"chinese": "这个巨大的钻探矿机需要<b>一些资源</b>才能完成。它可以放置在任何地方。",
+		"ukrainian": "Цей величезний кар'єр*/бур вимагає <b>декількох різноманітних видів ресурсів</b> для свого будівництва. Може бути розміщений де завгодно.",
 	},
 	"trainStationWithName": { // like "Train Station Alpha"
 		"english": "Train Station %name%",
@@ -2896,7 +2916,7 @@
 		"polish": "Stacja kolejowa %name%",
 		"italian": "Stazione ferroviaria %name%",
 		"czech": "Železniční stanice %name%",
-		"ukrainian": "Станція %name%",
+		"ukrainian": "Залізнична станція %name%",
 		"hungarian": "%name% vasúti megálló",
 		"romanian": "Gara %name%",
 		"scotsgaelic": "Stèisean Rèile %name%",
@@ -2920,7 +2940,7 @@
 		"japanese": "ミニ鉄道駅",
 		"hungarian": "Mini vasútállomás",
 		"czech": "Mini železniční stanice",
-		"ukrainian": "Крихітна станція",
+		"ukrainian": "Крихітна залізнична станція",
 		"turkish": "Minik tren istasyonu",
 		"chinese": "微型列车站",
 		"scotsgaelic": "Stèisean Rèile Glè bheag",
@@ -2931,12 +2951,14 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>un binaro unidirezionale</b>.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว\n\nหากต้องการจัดการรถไฟ ให้คลิกไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 		"chinese": "货运列车运输的货物在此装卸。该车站配备<b>一条单向轨道</b>。\n\n要管理列车，请点击屏幕左侧的<b>列车图标</b>。",
+		"ukrainian": "Товари, що доставляються вантажними поїздами завантажуються та розвантажуються тут. Ця станція обладнана <b>одними односторонніми рейками</b>\n\nДля керівання поїздами натисніть на <b>піктограму потяга</b> у лівій частині екрану.",
 	},
 	"trainstation_1R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 		"chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
+		"ukrainian": "Товари що тут зберігаються будуть відправлені при першій же можливості. Сховище станції не має лімітів.",
 	},
 	"trainstation_2R": {
 		"english": "Small Train Station",
@@ -2948,7 +2970,7 @@
 		"polish": "Mała stacja kolejowa",
 		"italian": "Stazione Ferroviaria Piccola",
 		"czech": "Malá železniční stanice",
-		"ukrainian": "Мала станція",
+		"ukrainian": "Мала залізнична станція",
 		"hungarian": "Kis vasútállomás",
 		"romanian": "Gară mică",
 		"scotsgaelic": "Stèisean Rèile Beag",
@@ -2967,12 +2989,14 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>due binari unidirezionali</b>, uno per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียวสองราง หนึ่งรางสำหรับแต่ละทิศทาง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 		"chinese": "货运列车运输的货物在此装卸。该车站配备<b>两条单向轨道</b>，每个方向各一条。\n\n要管理列车，请点击屏幕左侧的<b>列车图标</b> 。",
+		"ukrainian": "Товари, що доставляються вантажними поїздами завантажуються та розвантажуються тут. Ця станція обладнана <b>двома односторонніми рейками</b>\n\nДля керівання поїздами натисніть на <b>піктограму потяга</b> у лівій частині екрану.",
 	},
 	"trainstation_2R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 		"chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
+		"ukrainian": "Товари що тут зберігаються будуть відправлені при першій же можливості. Сховище станції не має лімітів.",
 	},
 	"trainstation_4R": {
 		"english": "Medium Train Station",
@@ -2984,7 +3008,7 @@
 		"polish": "Średnia stacja kolejowa",
 		"italian": "Stazione Ferroviaria Media",
 		"czech": "Střední železniční stanice",
-		"ukrainian": "Станція середнього розмиру",
+		"ukrainian": "Середня залізнична станція",
 		"hungarian": "Közepes vasútállomás",
 		"romanian": "Gară medie",
 		"scotsgaelic": "Stèisean Rèile",
@@ -3003,12 +3027,14 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>quattro binari unidirezionali</b>, due per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว 4 ราง รางละ 2 รางสำหรับแต่ละทิศทาง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 		"chinese": "货运列车运输的货物在此装卸。该车站配备<b>四条单向轨道</b>，每个方向各两条。\n\n要管理列车，请点击屏幕左侧的<b>列车图标</b> 。",
+		"ukrainian": "Товари, що доставляються вантажними поїздами завантажуються та розвантажуються тут. Ця станція обладнана <b>чотирьма односторонніми рейками</b>\n\nДля керівання поїздами натисніть на <b>піктограму потяга</b> у лівій частині екрану.",
 	},
 	"trainstation_4R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 		"chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
+		"ukrainian": "Товари що тут зберігаються будуть відправлені при першій же можливості. Сховище станції не має лімітів.",
 	},
 	"trainstation_6R": {
 		"english": "Large Train Station",
@@ -3020,7 +3046,7 @@
 		"polish": "Duża stacja kolejowa",
 		"italian": "Stazione Ferroviaria Grande",
 		"czech": "Velká železniční stanice",
-		"ukrainian": "Станція великого розміру",
+		"ukrainian": "Велика залізнична станція",
 		"hungarian": "Nagy vasútállomás",
 		"romanian": "Gară mare",
 		"scotsgaelic": "Rèile Trèana Mòr",
@@ -3039,12 +3065,14 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>sei binari unidirezionali</b>, tre per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว 6 ราง รางละ 2 รางสำหรับแต่ละทิศทาง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 		"chinese": "货运列车运输的货物在此装卸。该车站配备<b>六条单向轨道</b>，每个方向各三条。\n\n要管理列车，请点击屏幕左侧的<b>列车图标</b> 。",
+		"ukrainian": "Товари, що доставляються вантажними поїздами завантажуються та розвантажуються тут. Ця станція обладнана <b>шістьома односторонніми рейками</b>\n\nДля керівання поїздами натисніть на <b>піктограму потяга</b> у лівій частині екрану.",
 	},
 	"trainstation_6R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 		"chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
+		"ukrainian": "Товари що тут зберігаються будуть відправлені при першій же можливості. Сховище станції не має лімітів.",
 	},
 	"trainstation_8R": {
 		"english": "Main Train Station",
@@ -3056,7 +3084,7 @@
 		"polish": "Dworzec główny",
 		"italian": "Stazione Ferroviaria Principale",
 		"czech": "Železniční uzel",
-		"ukrainian": "Величезна станція",
+		"ukrainian": "Величезна залізнична станція",
 		"hungarian": "Fő vasútállomás",
 		"romanian": "Gara principală",
 		"scotsgaelic": "Prìomh Rèile Rèile",
@@ -3075,12 +3103,14 @@
 		"italian": "Qui vengono caricate e scaricate le merci che viaggiano sui treni. Questa stazione è dotata di <b>otto binari unidirezionali</b>, quattro per ciascuna direzione.\n\nPer gestire i treni, clicca sull'<b>icona del treno</b> sul lato sinistro dello schermo.",
 		"thai": "สินค้าที่เดินทางโดยรถไฟบรรทุกสินค้าจะมีการขนถ่ายโอนกันที่นี่ สถานีนี้มีรางเดินรถทางเดียว 8 ราง โดยแต่ละทิศทางมี 4 ราง\n\nหากต้องการจัดการรถไฟ ให้คลิกที่ไอคอนรถไฟทางด้านซ้ายของหน้าจอ",
 		"chinese": "货运列车运输的货物在此装卸。该车站配备<b>八条单向轨道</b>，每个方向各四条。\n\n要管理列车，请点击屏幕左侧的<b>列车图标</b> 。",
+		"ukrainian": "Товари, що доставляються вантажними поїздами завантажуються та розвантажуються тут. Ця станція обладнана <b>вісьмома односторонніми рейками</b>\n\nДля керівання поїздами натисніть на <b>піктограму потяга</b> у лівій частині екрану.",
 	},
 	"trainstation_8R_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 		"chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
+		"ukrainian": "Товари що тут зберігаються будуть відправлені при першій же можливості. Сховище станції не має лімітів.",
 	},
 	"gondolaStation": { // cargo gondola, cargo elevator
 		"english": "Cargo gondola",
@@ -3095,7 +3125,7 @@
 		"italian": "Cargo cabinovia",
 		"scotsgaelic": "Car luchdachadh",
 		"russian": "Грузовой лифт",
-		"ukrainian": "Вантажна гондола",
+		"ukrainian": "Вантажний гірськолижний підйомник",
 	},
 	// TODO-thai
 	"gondolaStation_desc": {
@@ -3104,12 +3134,14 @@
 		"italian": "Utilizza la cabinovia per <b>trasportare le risorse lungo i pendii</b>. Le due stazioni devono essere posizionate una di fronte all'altra per far sì che i cavi si connettano.",
 		"thai": "ใช้กระเช้าลอยฟ้าบรรทุกสินค้าเพื่อขนส่งทรัพยากรขึ้นและลงทางลาดชัน ต้องวางทั้งสองสถานีไว้ด้านหน้ากัน",
 		"chinese": "使用货运缆车<b>在斜坡上运输资源</b>。两个站点必须面对面放置才能连接缆绳。",
+		"ukrainian": "Переправляє <b>товари та ресурси вгору та вниз через схили</b>. Дві станції підйомника мусять біти розташовані лицем одна до одної, аби правильно з'єднати їх канатами.",
 	},
 	"gondolaStation_descAdditional": {
 		"english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
 		"chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
+		"ukrainian": "Товари що тут зберігаються будуть відправлені при першій же можливості. Сховище станції не має лімітів.",
 	},
 	"gondolaStationPole": {
 	  "english": "Gondola Lift Pole",
@@ -3124,7 +3156,7 @@
 	  "scotsgaelic": "Colbhan Càr",
 	  "russian": "Стойка грузового лифта",
 	  "hungarian": "Liftoszlop",
-	  "ukrainian": "Стовп підйомника гондоли",
+	  "ukrainian": "Станційний стовп вантажного підйомника",
 	},
 	"gondolaPole": { // the poles between gondola stations
 		"english": "Gondola Lift Pole",
@@ -3139,7 +3171,7 @@
 		"scotsgaelic": "Colbhan Càr",
 		"russian": "Стойка грузового лифта",
 		"hungarian": "Liftoszlop",
-		"ukrainian": "Стовп для гондоли",
+		"ukrainian": "Проміжний стовп вантажного підйомника",
 	},
 	"targetingStation": {
 		"english": "Laser Targeting Station",
@@ -3162,6 +3194,7 @@
 		"italian": "Il cannone di Antares consente di <b>rimuovere in modo permanente</b> piante e rocce indesiderate. Disintegratele con un laser!\n\nRichiede la <b>riparazione del cannone laser</b> della nave spaziale Antares.",
 		"thai": "ปืนใหญ่ของอันทาเรส ช่วยให้สามารถกำจัดพืชและหินที่ไม่ต้องการได้อย่างถาวร สลายพวกมันด้วยเลเซอร์!\n\nต้องมีการซ่อมแซมปืนใหญ่เลเซอร์ ของยานอวกาศอันทาเรสก่อน",
 		"chinese": "星舰的大炮可以<b>永久清除</b>不需要的植物和岩石。用激光将它们分解！\n\n需要<b>修理星舰的激光炮</b>。",
+		"ukrainian": "Космічний корабель Антарес, завдяки своїй лазерній гарматі, може <b>назавжди знищити</b> такі незрічні для вас камені та рослини. Знищте їх цим потужним лазером!\n\nНеобхідний <b>ремонт відсіку Лазерної Гармати</b> на кораблі Антарес",
 	},
 	"filteringMeshFactory": {
 		"english": "Filtering Mesh Factory",
@@ -3176,7 +3209,7 @@
 		"russian": "Завод фильтровальной ткани",
 		"chinese": "滤网厂",
 		"hungarian": "Szűrőháló Gyár",
-		"ukrainian": "Фабрика фільтрувальних сіток",
+		"ukrainian": "Фабрика тканин-фільтрів",
 	},
 	"filteringMeshFactory_desc": {
 		"english": "Produces a component capable of filtering much of the harmful particles in the air or in liquids.",
@@ -3184,6 +3217,7 @@
 		"italian": "Produce un materiale in grado di trattenere gran parte delle particelle nocive presenti nell'aria.",
 		"thai": "ผลิตวัสดุที่สามารถกักเก็บอนุภาคที่เป็นอันตรายในอากาศได้มาก",
 		"chinese": "生产能够过滤空气或液体中大部分有害颗粒的组件。",
+		"ukrainian": "Виготовляє тканини придатні для фільтрації значної частини небажаних домішок з рідин або газів.",
 	},
 	"advancedFilteringMeshFactory": {
 		"english": "Advanced Filtering Mesh Factory",
@@ -3198,7 +3232,7 @@
 		"russian": "Передовой завод фильтровальной ткани",
 		"chinese": "高级滤网厂",
 		"hungarian": "Fejlett Szűrőháló Gyár",
-		"ukrainian": "Удосконалена фабрика фільтрувальних сіток",
+		"ukrainian": "Удосконалена фабрика тканин-фільтрів",
 	},
 	"advancedFilteringMeshFactory_desc": {
 		"english": "Produces a component capable of filtering absolutely all of the harmful particles in the air or in liquids.",
@@ -3206,6 +3240,7 @@
 		"italian": "Produce un materiale in grado di contenere la totalità delle particelle nocive presenti nell'aria.",
 		"thai": "ผลิตวัสดุที่สามารถบรรจุอนุภาคที่เป็นอันตรายในอากาศได้ทั้งหมด",
 		"chinese": "生产能够过滤空气或液体中所有有害颗粒的组件。",
+		"ukrainian": "Виготовляє тканини придатні для фільтрації абсолютно всіх небажаних домішок з рідин або газів.",
 	},
 	"superconductingCoilFactory": {
 		"english": "Superconducting Coil Factory",
@@ -3227,6 +3262,7 @@
 		"german": "Produziert starke Spulen aus supraleitendem Material für Hochleistungs-Elektromagneten.",
 		"thai": "ผลิตขดลวดที่ทรงพลังจากวัสดุตัวนำยิ่งยวดสำหรับแม่เหล็กไฟฟ้าสำหรับงานหนัก",
 		"chinese": "用超导材料生产用于大型电磁力线圈。",
+		"ukrainian": "Виготовляє потужні магнітні котушки з надпровідників для специфічних потреб у електромагнітах.",
 	},
 	"dustParticleFilter": {
 		"english": "Dust Particle Filter",
@@ -3250,6 +3286,7 @@
 		"italian": "La polvere può essere un problema serio su un pianeta desertico.\n\nPurifica l'aria dalle polveri sottili entro un'area di azione di dimensioni moderate.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "อากาศที่นี่ดูควบแน่นน้อยลง ช่วยฟอกอากาศด้วยฝุ่นละเอียดภายในพื้นที่การทำงานที่มีขนาดปานกลาง\n\nหากต้องการปรับสภาพดินบางส่วน คุณต้องมีสิ่งก่อสร้างปรับสภาพที่แตกต่างกัน 4 หลังที่ทำงานในพื้นที่นั้น",
 		"chinese": "在沙漠星球上，灰尘可能是一个大问题。\n\n灰尘颗粒过滤器可净化中等大小运作区域内的微尘空气。\n\n要<b>改造</b>一部分土地环境，你需要在该区域运行<b>四个不同的环境改造的建筑物</b>。",
+		"ukrainian": "Пил може бути дуже великою проблемою на пустельних планетах.\n\nФільтр повністю очищає повітря від пилу у своїй зоні роботи середнього розміру.\n\nДля <b>повноцінного тераформування</b>якогось клаптика землі вам необхідно аби <b>чотири різних тераформувальних будівлі</b> працювали там.",
 	},
 	"fertilizerDroneHub": {
 		"english": "Fertilizer Drone Hub",
@@ -3264,7 +3301,7 @@
 		"chinese": "施肥无人机枢纽",
 		"hungarian": "Trágyázó Drón Csomópont",
 		"czech": "Hnojivý dron Hub",
-		"ukrainian": "Хаб дронів для удобрення",
+		"ukrainian": "Хаб дронів з добривами",
 	},
 	// TODO-thai
 	"fertilizerDroneHub_desc": {
@@ -3273,6 +3310,7 @@
 		"italian": "Le piante non possono crescere senza le giuste sostanze nutritive.\n\nIl drone prepara il terreno per la crescita della vegetazione, in un'area d'azione considerevolmente ampia.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "ที่นี่กาลครั้งหนึ่งทุกสิ่งถูกทิ้งร้าง!\n\nโดรนจะเตรียมพื้นที่สำหรับการเจริญเติบโตของพืชพรรณภายในพื้นที่การดำเนินการขนาดใหญ่\n\nหากต้องการปรับสภาพดินบางส่วน คุณต้องมีสิ่งก่อสร้างปรับสภาพที่แตกต่างกัน 4 หลังที่ปฏิบัติการในพื้นที่นั้น",
 		"chinese": "没有适当的营养，植物就无法生长。\n\n无人机在相当大的运行区域内为植被生长准备土壤。\n\n要<b>改造</b>一部分土地环境，你需要在该区域运行<b>四个不同的环境改造的建筑物</b>。",
+		"ukrainian": "Рослини не можуть рости на землі що не була попередньо якісно удобрена.\n\nДрон підготує землю до росту рослин, у своїй воістину великій зоні роботи.\n\nДля <b>повноцінного тераформування</b>якогось клаптика землі вам необхідно аби <b>чотири різних тераформувальних будівлі</b> працювали там.",
 	},
 	"groundAcidityRegulator": {
 		"english": "Ground Acidity Regulator",
@@ -3296,6 +3334,7 @@
 		"italian": "L'acidità del suolo non favorisce la crescita delle piante.\n\nRegola il PH del suolo, preparandolo per la terraformazione, in un'area d'azione notevolmente estesa.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "พืชผักยังต้องการการบำรุงที่เหมาะสม ควบคุมค่าความเป็นกรด-เบสของดิน เพื่อเตรียมดินสำหรับการปรับสภาพพื้นผิวภายในพื้นที่การทำงานที่กว้างขวางมาก\n\nหากต้องการปรับสภาพดินบางส่วน คุณต้องมีสิ่งก่อสร้างปรับสภาพที่แตกต่างกัน 4 หลังที่ทำงานในพื้นที่นั้น",
 		"chinese": "酸度不利于植物生长。\n\n在相当广阔的运行区域内调节土壤PH值，为改造做好准备。\n\n要<b>改造</b>一部分土地环境，你需要在该区域运行<b>四个不同的环境改造的建筑物</b>。",
+		"ukrainian": "Значна кислотність ґрунту не надто сприяє росту рослин.\n\nРегулює рН ґрунту, тим самим підготовлюючи землю до тераформування у своїй величезній зоні роботи.\n\nДля <b>повноцінного тераформування</b>якогось клаптика землі вам необхідно аби <b>чотири різних тераформувальних будівлі</b> працювали там.",
 	},
 	"ammoniaExtractor": {
 		"english": "Ammonia Extractor",
@@ -3319,6 +3358,7 @@
 		"italian": "L'aria non è mai stata così pura!\n\nEstrae l'ammoniaca in eccesso dall'aria, rendendola adatta alla proliferazione della vita. Ha un'area d'azione enormemente vasta.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "อากาศไม่เคยบริสุทธิ์ขนาดนี้มาก่อน! สกัดแอมโมเนียส่วนเกินออกจากอากาศ ทำให้เหมาะสมกับการแพร่ขยายของชีวิต มันมีพื้นที่ปฏิบัติการที่กว้างใหญ่ไพศาล\n\nหากต้องการสร้างภูมิประเทศบางส่วน คุณต้องมีสิ่งก่อสร้างปรับพื้นที่แตกต่างกันสี่แห่งที่ทำงานในพื้นที่นั้น",
 		"chinese": "空气从未如此纯净！\n\n氨提取器去除空气中多余的氨，使其适合生命的繁衍。它的运作区域非常广阔。\n\n要<b>改造</b>一部分土地环境，你需要在该区域运行<b>四个不同的环境改造的建筑物</b>。",
+		"ukrainian": "Повітря ще ніколи не було настільки чистим!\n\nЕкстрактор аміаку видаляє надлишок аміаку з атмосфери, роблячи її придатною до життя. Має дуже велику зону дії.\n\nДля <b>повноцінного тераформування</b>якогось клаптика землі вам необхідно аби <b>чотири різних тераформувальних будівлі</b> працювали там.",
 	},
 	"magneticFieldGenerator": {
 		"english": "Magnetic Field Generator",
@@ -3341,6 +3381,7 @@
 		"italian": "La tecnologia ha fatto passi da gigante.\n\nGenera un campo magnetico per proteggere Neper-3 dalle radiazioni e dal vento stellare.\nQuesto edificio colossale avrà bisogno di diverse risorse per la sua costruzione. Il raggio copre l'intera area della mappa.\n\nPer <b>terraformare</b> una porzione di terreno, sono necessari <b>quattro diversi edifici</b> di terraformazione che operano su quell'area.",
 		"thai": "เทคโนโลยีมีความก้าวหน้าอย่างมาก สร้างสนามแม่เหล็กเพื่อปกป้องเนเปอร์-3 จากรังสีและลมดวงดาว\nสิ่งก่อสร้างขนาดมหึมานี้จะต้องใช้ทรัพยากรหลายอย่างในการก่อสร้างให้แล้วเสร็จ รัศมีครอบคลุมพื้นที่แผนที่ทั้งหมด\n\nหากต้องการสร้างภูมิประเทศบางส่วน คุณต้องมีสิ่งก่อสร้างปรับสภาพที่แตกต่างกันสี่แห่งที่ทำงานในพื้นที่นั้น",
 		"chinese": "技术已取得很大进步。\n\n产生磁场来保护Neper-3行星免受辐射和恒星风暴的影响。\n这座巨大的建筑需要<b>若干资源</b>才能完成建造。半径覆盖了整个地图区域。\n\n要<b>改造</b>一部分土地环境，你需要在该区域运行<b>四个不同的环境改造的建筑物</b>。",
+		"ukrainian": "Технології значно покращилися у останні десятиліття.\n\nГенеруйте магнітне поле аби захистити свою планету, Непер-3, від космічної радіації та сонячного вітру.\nЦя величезна будівля вимагає <b>декількох різних видів ресурсів</b>для свого будівництва. Радіус роботи установки покриває всю карту.\n\nДля <b>повноцінного тераформування</b>якогось клаптика землі вам необхідно аби <b>чотири різних тераформувальних будівлі</b> працювали там.",
 	},
 	"pixelBuildingCorner": {
 		"english": "Pixel Triangle",
@@ -3353,9 +3394,9 @@
 		"turkish": "Üçgen pixel",
 		"russian": "Пиксель: Треугольник",
 		"chinese": "像素三角板",
+		"ukrainian": "Піксельний трикутник",
 		"hungarian": "Pixel Háromszög",
 		"czech": "Pixelový trojúhelník",
-		"ukrainian": "Піксельний трикутник",
 	},
 	"pixelBuildingCorner_desc": {
 		"english": "Give free rein to your imagination!\nA colorful building to compose images from above.",
@@ -3363,6 +3404,7 @@
 		"italian": "Dai libero sfogo alla tua fantasia!\nUn edificio colorato per comporre immagini dall'alto.",
 		"thai": "ปลดปล่อยจินตนาการของคุณ!\nสิ่งก่อสร้างสีสันสดใสสำหรับประกอบภาพมุมบน",
 		"chinese": "充分发挥你的想象力！\n色彩缤纷的建筑，可从上方构图。",
+		"ukrainian": "Виставте свою креативність на максимум!\nКольорова будівля для створення зображень з висоти.",
 	},
 	"pixelBuildingInvertCorner": {
 		"english": "Pixel Inverted Corner",
@@ -3376,7 +3418,7 @@
 		"russian": "Пиксель: Инвертированный угол",
 		"chinese": "像素倒角板",
 		"hungarian": "Pixel Fordított Sarok",
-		"ukrainian": "Піксельний перевернутий кут",
+		"ukrainian": "Піксельний інвертований кут",
 	},
 	"pixelBuildingInvertCorner_desc": {
 		"english": "Give free rein to your imagination!\nA colorful building to compose images from above.",
@@ -3384,6 +3426,7 @@
 		"italian": "Dai libero sfogo alla tua fantasia!\nUn edificio colorato per comporre immagini dall'alto.",
 		"thai": "ปลดปล่อยจินตนาการของคุณ!\nสิ่งก่อสร้างสีสันสดใสสำหรับประกอบภาพมุมบน",
 		"chinese": "充分发挥你的想象力！\n色彩缤纷的建筑，可从上方构图。",
+		"ukrainian": "Виставте свою креативність на максимум!\nКольорова будівля для створення зображень з висоти.",
 	},
 	"pixelBuildingRound": {
 		"english": "Pixel Circle",
@@ -3405,6 +3448,7 @@
 		"italian": "Dai libero sfogo alla tua fantasia!\nUn edificio colorato per comporre immagini dall'alto.",
 		"thai": "ปลดปล่อยจินตนาการของคุณ!\nสิ่งก่อสร้างสีสันสดใสสำหรับประกอบภาพมุมบน",
 		"chinese": "充分发挥你的想象力！\n色彩缤纷的建筑，可从上方构图。",
+		"ukrainian": "Виставте свою креативність на максимум!\nКольорова будівля для створення зображень з висоти.",
 	},
 	"pixelBuildingRoundCorner": {
 		"english": "Pixel Rounded Corner",
@@ -3418,7 +3462,7 @@
 		"russian": "Пиксель: Закругленный угол",
 		"chinese": "像素圆角板",
 		"hungarian": "Pixel Lekerekített Sarok",
-		"ukrainian": "Піксель закруглений кут",
+		"ukrainian": "Піксель заокруглений кут",
 	},
 	"pixelBuildingRoundCorner_desc": {
 		"english": "Give free rein to your imagination!\nA colorful building to compose images from above.",
@@ -3426,6 +3470,7 @@
 		"italian": "Dai libero sfogo alla tua fantasia!\nUn edificio colorato per comporre immagini dall'alto.",
 		"thai": "ปลดปล่อยจินตนาการของคุณ!\nสิ่งก่อสร้างสีสันสดใสสำหรับประกอบภาพมุมบน",
 		"chinese": "充分发挥你的想象力！\n色彩缤纷的建筑，可从上方构图。",
+		"ukrainian": "Виставте свою креативність на максимум!\nКольорова будівля для створення зображень з висоти.",
 	},
 	"pixelBuildingSquare": {
 		"english": "Pixel",
@@ -3447,6 +3492,7 @@
 		"italian": "Dai libero sfogo alla tua fantasia!\nUn edificio colorato per comporre immagini dall'alto.",
 		"thai": "ปลดปล่อยจินตนาการของคุณ!\nสิ่งก่อสร้างสีสันสดใสสำหรับประกอบภาพมุมบน",
 		"chinese": "充分发挥你的想象力！\n色彩缤纷的建筑，可从上方构图。",
+		"ukrainian": "Виставте свою креативність на максимум!\nКольорова будівля для створення зображень з висоти.",
 	},
 	"crashedUfo": {
 		"english": "Crashed Ufo",
@@ -3468,6 +3514,7 @@
 		"italian": "Wow, che atterraggio maldestro!",
 		"thai": "ลงจอดได้ซุ่มซ่ามมาก!",
 		"chinese": "唷，着陆多么笨拙啊！",
+		"ukrainian": "Фу, яке ж незграбне вийшло у них приземлення!",
 	},
 	"fence1": { //would be better to add "A" in other languages as well
 		"english": "Fence A",
@@ -3480,6 +3527,7 @@
 		"turkish": "Çit A",
 		"russian": "Забор",
 		"chinese": "围栏A",
+		"ukrainian": "Паркан А",
 		"hungarian": "Kerítés (A)",
 	},
 	"fence1_desc": {
@@ -3488,6 +3536,7 @@
 		"italian": "Una recinzione.",
 		"thai": "รั้วกั้น",
 		"chinese": "围栏",
+		"ukrainian": "Звичайний паркан.",
 	},
 	"fence2": {
 		"english": "Fence Gate",
@@ -3498,6 +3547,7 @@
 		"thai": "ประตูรั้ว",
 		"turkish": "Çit Kapısı",
 		"chinese": "围栏大门",
+		"ukrainian": "Паркан з воротами",
 		"hungarian": "Kerítéskapu",
 	},
 	"fence2_desc": {
@@ -3506,6 +3556,7 @@
 		"italian": "Una recinzione.",
 		"thai": "รั้วกั้น",
 		"chinese": "围栏",
+		"ukrainian": "Звичайний паркан з воротами.",
 	},
 	"fence3": { //would be better to add "B" in other languages as well
 		"english": "Fence B",
@@ -3518,6 +3569,7 @@
 		"turkish": "Çit B",
 		"russian": "Забор",
 		"chinese": "围栏B",
+		"ukrainian": "Паркан Б",
 		"hungarian": "Kerítés (B)",
 	},
 	"fence3_desc": {
@@ -3526,6 +3578,7 @@
 		"italian": "Una recinzione.",
 		"thai": "รั้วกั้น",
 		"chinese": "围栏",
+		"ukrainian": "Звичайний паркан.",
 	},
 	"panoramicWheel": {
 		"english": "Ferris Wheel",
@@ -3538,6 +3591,7 @@
 		"turkish": "Dönme dolap",
 		"russian": "Колесо обозрения",
 		"chinese": "摩天轮",
+		"ukrainian": "Колесо огляду",
 		"hungarian": "Óriáskerék",
 	},
 	"panoramicWheel_desc": {
@@ -3546,6 +3600,7 @@
 		"italian": "Anche i cittadini vogliono vedere la città dall'alto!'",
 		"thai": "ประชาชนก็อยากเห็นเมืองจากมุมบนเหมือนกัน!",
 		"chinese": "居民也想从高空俯瞰这座城市！",
+		"ukrainian": "Жителі теж хочуть побачити місто з висоти!",
 	},
 	"parkingLot1": {
 		"english": "Parking Lot",
@@ -3558,6 +3613,7 @@
 		"turkish": "Park yeri",
 		"russian": "Парковка",
 		"chinese": "停车场",
+		"ukrainian": "Парковка",
 		"hungarian": "Parkoló",
 	},
 	"parkingLot1_desc": {
@@ -3566,6 +3622,7 @@
 		"italian": "Anche i parcheggi possono avere un design accattivante.\n\nSuggerimento: accostalo a una strada diritta, in modalità senza griglia.",
 		"thai": "ลานจอดรถก็ยังสามารถมีการออกแบบที่สวยงามได้ เคล็ดลับ: วางไว้ข้างถนนเส้นตรงในโหมดไม่มีตาราง",
 		"chinese": "停车场也可以有一个有吸引力的设计。\n\n提示：在无网格模式下，将其放在笔直的道路旁边。",
+		"ukrainian": "Парковка теж може бути привабливим місцем.\n\nпідказка: розміщуйте її за прямою ділянкою дороги у режимі будівництва без сітки.",
 	},
 	"eiffelTower": {
 		"english": "Eiffel Tower",
@@ -3578,6 +3635,7 @@
 		"turkish": "Eyfel kulesi",
 		"russian": "Эйфелева башня",
 		"chinese": "埃菲尔铁塔",
+		"ukrainian": "Ейфелева башта",
 		"hungarian": "Eiffel Torony",
 	},
 	"eiffelTower_desc": {
@@ -3586,6 +3644,7 @@
 		"italian": "Proprio come l'originale!",
 		"thai": "เหมือนเดิมเป๊ะ!",
 		"chinese": "和原来的一模一样！",
+		"ukrainian": "Виглядає майже один в один як оригінал!",
 	},
 	"crudeOilExtractor": {
 		"english": "Crude Oil Extractor",
@@ -3597,6 +3656,7 @@
 		"russian": "Экстрактор нефти",
 		"turkish": "Işlenmemiş Petrol Çıkarıcı",
 		"chinese": "原油抽取机",
+		"ukrainian": "Нафтова скважина",
 		"hungarian": "Nyersolaj Kinyerő",
 	},
 	"crudeOilExtractor_desc": {
@@ -3606,6 +3666,7 @@
 		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nสิ่งก่อสร้างนี้จะถูกวางไว้บนพื้นมืดและมีหนามแหลมซึ่งปกปิดคราบน้ำมัน",
 		"turkish": "Ham petrolü yeraltından çıkarıyor.\n\nBu bina, bir petrol yatağını gizleyen karanlık, çivili bir zemine yerleştirilecek.",
 		"chinese": "从地下提取原油。\n\n这座建筑将被放置在<b>黑暗、尖刺的地面</b>上，其中隐藏着<b>油田</b>。",
+		"ukrainian": "Видобуває сиру нафту з під землі.\n\nМає бути розміщена на <b>темній, зрівняній землі</b>, що містить у собі <b>поклади сирої нафти</b>.",
 	},
 	"crudeOilExtractor_desc_proceduralMap": {
 		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
@@ -3613,6 +3674,7 @@
 		"italian": "Estrae petrolio dal sottosuolo.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
 		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nจุดวางสิ่งก่อสร้างนี้สามารถวางได้<b>ทุกที่</b>",
 		"chinese": "从地下提取原油。\n\n在这个着陆点，建筑物可以放置在<b>任何地方</b>。",
+		"ukrainian": "Видобуває сиру нафту з під землі.\n\nТут її можна розмістити <b>будь-де</b>.",
 	},
 	"largeCrudeOilExtractor": {
 		"english": "Large Crude Oil Extractor",
@@ -3624,6 +3686,7 @@
 		"russian": "Большой экстрактор нефти",
 		"turkish": "Büyük Işlenmemiş Petrol Çıkarıcı",
 		"chinese": "大型原油抽取机",
+		"ukrainian": "Велика нафтова скважина",
 		"hungarian": "Nagy Nyersolaj Kinyerő",
 	},
 	"largeCrudeOilExtractor_desc": {
@@ -3633,6 +3696,7 @@
 		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nสิ่งก่อสร้างนี้จะถูกวางไว้บนพื้นมืดและมีหนามแหลมซึ่งปกปิดคราบน้ำมัน",
 		"turkish": "Ham petrolü yeraltından çıkarıyor.\n\nBu bina, bir petrol yatağını gizleyen karanlık, çivili bir zemine yerleştirilecek.",
 		"chinese": "从地下提取原油。\n\n这座建筑将被放置在<b>黑暗、尖刺的地面</b>上，其中隐藏着<b>油田床</b>。",
+		"ukrainian": "Видобуває сиру нафту з під землі.\n\nМає бути розміщена на <b>темній, зрівняній землі</b>, що містить у собі <b>поклади сирої нафти</b>.",
 	},
 	"largeCrudeOilExtractor_desc_proceduralMap": {
 		"english": "Extracts crude oil from underground.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
@@ -3640,6 +3704,7 @@
 		"italian": "Estrae petrolio dal sottosuolo.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
 		"thai": "สกัดน้ำมันดิบจากใต้ดิน\n\nจุดวางสิ่งก่อสร้างนี้สามารถวางได้<b>ทุกที่</b>",
 		"chinese": "从地下提取原油。\n\n在这个着陆点，建筑物可以放置在<b>任何地方</b>。",
+		"ukrainian": "Видобуває сиру нафту з під землі.\n\nТут її можна розмістити <b>будь-де</b>.",
 	},
 	"stemCellLab": {
 		"english": "Stem Cell Lab",
@@ -3650,6 +3715,7 @@
 		"japanese": "幹細胞研究所",
 		"turkish": "Kök Hücre Laboratuvarı",
 		"chinese": "干细胞实验室",
+		"ukrainian": "Лабораторія стовбурових клітин",
 		"hungarian": "Őssejt Labor",
 	},
 	"stemCellLab_desc": {
@@ -3658,6 +3724,7 @@
 		"italian": "Sintetizza cellule staminali, usate per la coltivazione della carne.",
 		"thai": "สังเคราะห์สเต็มเซลล์เพื่อใช้ในการเพาะปลูกเนื้อสัตว์",
 		"chinese": "合成干细胞，用于肉类合成",
+		"ukrainian": "Синтезує стовбурові клітини, що використовуються для штучного вирощування м'яса",
 	},
 	"chemicalsLab": {
 		"english": "Chemicals Lab",
@@ -3669,6 +3736,7 @@
 		"russian": "Лаборатория химикатов",
 		"turkish": "Kimyasal Laboratuvar",
 		"chinese": "化学制品实验室",
+		"ukrainian": "Хімлабораторія",
 		"hungarian": "Vegyszerlabor",
 	},
 	"chemicalsLab_desc": {
@@ -3677,6 +3745,7 @@
 		"italian": "Ricava le sostanze chimiche di base da alcune caratteristiche piante aliene.\n\nQuesto edificio deve essere collocato sui <b>prati di erba rossa</b>.",
 		"thai": "ได้มาจากสารเคมีพื้นฐานจากพืชต่างดาวที่มีลักษณะเฉพาะบางชนิด สิ่งก่อสร้างนี้ควรตั้งอยู่บนทุ่งหญ้าสีแดง",
 		"chinese": "从一些特有的外来植物中提取基本化学物质。\n\n该建筑应位于<b>红草甸</b>上。",
+		"ukrainian": "Видобуває деякі базові хімічні компоненти з довколишніх інопланетних рослин.\n\nМає бути розміщена на <b>червоних полях з рослинами</b>.",
 	},
 	"chemicalsLab_desc_proceduralMap": {
 		"english": "Derives basic chemicals from some characteristic alien plants.\n\nOn this landing spot, the building can be placed <b>anywhere</b>.",
@@ -3684,6 +3753,7 @@
 		"italian": "Ricava le sostanze chimiche di base da alcune caratteristiche piante aliene.\n\nIn questa zona di atterraggio, l'edificio può essere posizionato <b>ovunque</b>.",
 		"thai": "ได้มาจากสารเคมีพื้นฐานจากพืชต่างดาวที่มีลักษณะเฉพาะ\n\nจุดวางสิ่งก่อสร้างนี้สามารถวางได้<b>ทุกที่</b>",
 		"chinese": "从一些特有的外来植物中提取基本化学物质。\n\n在这个着陆点，建筑物可以放置在<b>任何地方</b>。",
+		"ukrainian": "Видобуває деякі базові хімічні компоненти з довколишніх інопланетних рослин.\n\nТут її можна розмістити <b>будь-де</b>.",
 	},
 	"industrialChemicalsLab": {
 		"english": "Industrial Chemicals Lab",
@@ -3695,6 +3765,7 @@
 		"russian": "Лаборатория индустриальных химикатов",
 		"turkish": "Endüstriyel Kimyasal Laboratuvar",
 		"chinese": "工业化品实验室",
+		"ukrainian": "Промислова Хімлабораторія",
 		"hungarian": "Ipari Vegyszerlabor",
 	},
 	"industrialChemicalsLab_desc": {
@@ -3703,6 +3774,7 @@
 		"italian": "Sintetizza un'ampia varietà di prodotti chimici per uso industriale.",
 		"thai": "สังเคราะห์สารเคมีหลากหลายชนิดเพื่อใช้ในอุตสาหกรรม",
 		"chinese": "合成多种工业用化学品。",
+		"ukrainian": "Синтезує велике різноманіття хімікатів для індустріальних потреб.",
 	},
 	"plasticFactory": {
 		"english": "Plastic Factory",
@@ -3714,6 +3786,7 @@
 		"russian": "Завод пластика",
 		"turkish": "Plastik Fabrikası",
 		"chinese": "塑料厂",
+		"ukrainian": "Фабрика пластмаси",
 		"hungarian": "Műanyag Gyár",
 	},
 	"plasticFactory_desc": {
@@ -3722,6 +3795,7 @@
 		"italian": "Produce plastica, usata nelle industrie per diverse applicazioni.",
 		"thai": "ผลิตพลาสติกที่ใช้โดยอุตสาหกรรมเพื่อการใช้งานที่หลากหลาย",
 		"chinese": "生产塑料，供各工厂用于各种生产。",
+		"ukrainian": "Виготовляє пластмасу, що має обширне застосування на довколішніх виробництвах.",
 	},
 	"sensorFactory": {
 		"english": "Sensor Factory",
@@ -3733,6 +3807,7 @@
 		"russian": "Завод сенсоров",
 		"turkish": "Sensör Fabrikası",
 		"chinese": "传感器厂",
+		"ukrainian": "Фабрика сенсорів",
 		"hungarian": "Szenzor Gyár",
 	},
 	"sensorFactory_desc": {
@@ -3741,6 +3816,7 @@
 		"italian": "Produce sensori, importanti dispositivi elettronici ampiamente utilizzati nelle industrie high-tech.",
 		"thai": "ผลิตเซ็นเซอร์อุปกรณ์อิเล็กทรอนิกส์ที่สำคัญที่ใช้กันอย่างแพร่หลายในอุตสาหกรรมไฮเทค",
 		"chinese": "生产传感器，广泛应用于高科技行业的重要电子器件。",
+		"ukrainian": "Виготовляє сенсори, важливий електронний компонент, що широко застосовується у високотехнологічному виробництві.",
 	},
 	"copperMill": {
 		"english": "Copper Mill",
@@ -3751,6 +3827,7 @@
 		"japanese": "銅製作所",
 		"turkish": "Bakır Değirmeni",
 		"chinese": "炼铜厂",
+		"ukrainian": "Мідний комбінат",
 		"hungarian": "Rézmalom",
 	},
 	"copperMill_desc": {
@@ -3759,6 +3836,7 @@
 		"italian": "Processa il rame grezzo per estrarne il metallo puro.",
 		"thai": "แปรรูปและกลั่นทองแดงเพื่อสกัดโลหะบริสุทธิ์",
 		"chinese": "加工和精炼铜以提取纯金属。。",
+		"ukrainian": "Плавить та очищає від домішок мідну руду задля отримання чистого металу.",
 	},
 	"enrichedUraniumFactory": {
 		"english": "Uranium Enrichment Plant",
@@ -3770,6 +3848,7 @@
 		"russian": "Завод обогащенного урана",
 		"turkish": "Uranyum Zenginleştirme Tesisi",
 		"chinese": "铀浓缩厂",
+		"ukrainian": "Урановий комбінат",
 		"hungarian": "Urándúsító Üzem",
 	},
 	"enrichedUraniumFactory_desc": {
@@ -3778,6 +3857,7 @@
 		"italian": "Trasforma l'uranio per prepararlo allo sfruttamento energetico.",
 		"thai": "แปรรูปยูเรเนียมเพื่อเตรียมนำไปใช้ประโยชน์ด้านพลังงาน",
 		"chinese": "加工铀以准备用于发电。",
+		"ukrainian": "Очищає та збагачує уран, задля його подальшого використання.",
 	},
 	"heatExchangerFactory": {
 		"english": "Heat Exchanger Factory",
@@ -3789,6 +3869,7 @@
 		"russian": "Завод тепло-обменников",
 		"turkish": "Eşanjör Fabrikası",
 		"chinese": "热交换器厂",
+		"ukrainian": "Фабрика теплообмінників",
 		"hungarian": "Hőcserélő gyár",
 	},
 	"heatExchangerFactory_desc": {
@@ -3797,6 +3878,7 @@
 		"italian": "Produce scambiatori di calore, utilizzati per il controllo della temperatura nelle grandi industrie.",
 		"thai": "ผลิตเครื่องแลกเปลี่ยนความร้อนใช้ควบคุมอุณหภูมิในอุตสาหกรรมขนาดใหญ่",
 		"chinese": "生产热交换器，用于大型工业的温度控制。",
+		"ukrainian": "Виготовляє теплообмінники, необхідні для контролю температури на великих виробництвах.",
 	},
 	"waterDistillery": {
 		"english": "Water Distillery",
@@ -3807,6 +3889,7 @@
 		"japanese": "水蒸留施設",
 		"turkish": "Su Damıtımevi",
 		"chinese": "蒸馏厂",
+		"ukrainian": "Водяний дистилятор",
 		"hungarian": "Vízlepárló",
 	},
 	"waterDistillery_desc": {
@@ -3815,6 +3898,7 @@
 		"italian": "Rimuove tutte le impurità dell'acqua attraverso il processo di distillazione.",
 		"thai": "ขจัดสิ่งสกปรกในน้ำทั้งหมดผ่านกระบวนการกลั่น",
 		"chinese": "通过蒸馏过程去除所有水的杂质。",
+		"ukrainian": "Очищує воду від всіх можливих домішок завдяки дистиляції.",
 	},
 	"pyramid": {
 		"english": "Pyramid",
@@ -3826,6 +3910,7 @@
 		"russian": "Пирамида",
 		"turkish": "Piramit",
 		"chinese": "金字塔",
+		"ukrainian": "Піраміда",
 		"hungarian": "Piramis",
 	},
 	"pyramid_desc": {
@@ -3834,6 +3919,7 @@
 		"italian": "Il passato che incontra il futuro.",
 		"thai": "อดีตเผชิญอนาคต",
 		"chinese": "过去遇见未来。",
+		"ukrainian": "Минуле зустрічає майбутнє.",
 	},
 	"statue1": {
 		"english": "Statue World",
@@ -3844,6 +3930,7 @@
 		"japanese": "惑星の彫像",
 		"turkish": "Heykel Dünyası",
 		"chinese": "地球的雕像",
+		"ukrainian": "Статуя-світ",
 		"hungarian": "Világ Szobor",
 	},
 	"statue1_desc": {
@@ -3852,6 +3939,7 @@
 		"italian": "\"La complessità del mondo.\"",
 		"thai": "\"ความซับซ้อนของโลก\"",
 		"chinese": "\"世界多样性。\"",
+		"ukrainian": "\"іллюструє всю складність та простоту світу одночасно.\"",
 	},
 	"statue2": {
 		"english": "Statue Rocket",
@@ -3862,6 +3950,7 @@
 		"japanese": "ロケットの彫像",
 		"turkish": "Heykel Roketi",
 		"chinese": "火箭雕像",
+		"ukrainian": "Статуя-ракета",
 		"hungarian": "Rakéta Szobor",
 	},
 	"statue2_desc": {
@@ -3870,6 +3959,7 @@
 		"italian": "\"Gli orizzonti del genere umano.\"",
 		"thai": "\"ขอบเขตอันไกลโพ้นของมวลมนุษยชาติ\"",
 		"chinese": "\"人类的探索。\"",
+		"ukrainian": "\"Іллюструє широту горизонту людських здобутків.\"",
 	},
 	"statue3": {
 		"english": "Statue Laboratory",
@@ -3880,6 +3970,7 @@
 		"japanese": "研究所の彫像",
 		"turkish": "Heykel Laboratuvarı",
 		"chinese": "实验室雕像",
+		"ukrainian": "Статуя-лабораторія",
 		"hungarian": "Labor Szobor",
 	},
 	"statue3_desc": {
@@ -3888,6 +3979,7 @@
 		"italian": "\"La vastità della conoscenza.\"",
 		"thai": "\"ความกว้างใหญ่ของความรู้\"",
 		"chinese": "\"知识的浩瀚。\"",
+		"ukrainian": "\"Про безмежність наших знань.\"",
 	},
 	"ffEasterEgg": {
 		"english": "Statue Founders' Fortune",
@@ -3898,6 +3990,7 @@
 		"japanese": "開拓者の富の彫像",
 		"turkish": "Heykel Kurucularının Serveti",
 		"chinese": "Founders' Fortune雕像",
+		"ukrainian": "Статуя удачі першопоселенців",
 		"hungarian": "Founder's Fortune Szobor",
 	},
 	"ffEasterEgg_desc": {
@@ -3906,6 +3999,7 @@
 		"italian": "Questa strana scultura ha un aspetto famigliare...",
 		"thai": "รูปปั้นแปลกๆ นี่ดูคุ้นตา",
 		"chinese": "这个奇怪的雕塑看起来很眼熟...",
+		"ukrainian": "Ця дивна скульптура здається такою рідною...",
 	},
 	"distributionCenter": {
 		"english": "Distribution Center",
@@ -3915,6 +4009,7 @@
 		"thai": "ศูนย์กระจายสินค้า",
 		"chinese": "配送中心",
 		"italian": "Centro di Distribuzione",
+		"ukrainian": "Розподільчий центр",
 	},
 	"distributionCenter_desc": {
 		"english": "Keep your production chains running smoothly!\n\nThis building <b>receives</b> the desired resources from a <b>collection center connected to it</b>, and <b>distributes</b> them to <b>surrounding buildings</b>.\n\nIt does not receive resources directly to the industries.",
@@ -3922,6 +4017,7 @@
 		"italian": "Mantieni le tue catene di produzione senza intoppi!\n\nQuesto edificio <b>riceve</b> le risorse desiderate da un <b>centro di raccolta ad esso collegato</b>, e le <b>distribuisce</b> alle <b>industrie circostanti</b>.\n\nNon riceve le risorse direttamente alle industrie.",
 		"thai": "ช่วยให้ห่วงโซ่การผลิตของคุณทำงานได้อย่างราบรื่น!\n\nสิ่งก่อสร้างหลังนี้ได้รับทรัพยากรที่ต้องการจากศูนย์รวบรวมที่เชื่อมต่ออยู่ และแจกจ่ายให้กับอุตสาหกรรมโดยรอบ\n\nสิ่งก่อสร้างไม่ได้รับทรัพยากรโดยตรงไปยังอุตสาหกรรม",
 		"chinese": "让你的生产链平稳运行！\n\n这座建筑<b>从与其连接的收集中心</b><b>接收</b>所需的资源，并将它们<b>分配</b>到< b>周围建筑物</b>。\n\n它不直接接收工厂资源。",
+		"ukrainian": "Забезпечте своїм виробництвам стабільність!\n\nЦя будівля <b>отримує</b> необхідні ресурси від <b>підключенного центру збору</b>, та <b>відправляє</b> їх до <b>навколишніх будівель</b>.\n\nНе отримує ресурси напряму від Фабрик.",
 	},
 	"collectionCenter": {
 		"english": "Collection Center",
@@ -3931,7 +4027,7 @@
 		"thai": "ศูนย์รวบรวม",
 		"chinese": "收集中心",
 		"italian": "Centro di Raccolta",
-		"ukrainian": "Центр Збору",
+		"ukrainian": "Центр збору",
 	},
 	"collectionCenter_desc": {
 		"english": "Keep your production chains running smoothly!\n\nThis building <b>collects</b> the desired resources <b>from surrounding industries</b>, and then <b>sends</b> them directly to a <b>distribution center connected to it</b>.\n\nDoes not deliver resources directly to industries.",
@@ -3939,145 +4035,176 @@
 		"italian": "Mantieni le tue catene di produzione senza intoppi!\n\nQuesto edificio <b>raccoglie</b> le risorse desiderate <b>dalle industrie circostanti</b>, e le <b>invia</b> direttamente a un <b>centro di distribuzione ad esso collegato</b>.\n\nNon consegna le risorse direttamente alle industrie.",
 		"thai": "ช่วยให้ห่วงโซ่การผลิตของคุณทำงานได้อย่างราบรื่น!\n\nสิ่งก่อสร้างนี้รวบรวมทรัพยากรที่ต้องการจากอุตสาหกรรมโดยรอบ และส่งโดยตรงไปยังศูนย์กระจายสินค้าที่เชื่อมต่อกับสิ่งก่อสร้างนั้น\n\nไม่ส่งมอบทรัพยากรโดยตรงไปยังอุตสาหกรรม",
 		"chinese": "让你的生产链平稳运行！\n\n这座建筑<b>从周边行业收集</b>所需的资源</b>，然后<b>将它们直接发送</b>到<b>与之相连的配送中心</b>。\n\n不直接向行业输送资源。",
+		"ukrainian": "Забезпечте своїм виробництвам стабільність!\n\nЦя будівля <b>збирає</b> необхідні ресурси <b>від навколишніх виробництв</b>, після чого <b>надсилає</b> їх прямо до <b>підключенного Розподільчого центру</b>.\n\nНе відправляє ресурси одразу на фабрики самостійно.",
 	},
 	"upgradePack1Factory": {
 		"english": "Blue Upgrade Pack Factory",
     "german": "Blaue Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Blu",
+		"ukrainian": "Фабрика синіх пакетів покращення",
 	},//reference for german "Diese Fabrik produziert Werkzeuge und Reagenzien für <b>grundlegende Forschung</b> and liefert sie in einem praktischen Paket.",
 	"upgradePack1Factory_desc": {
 		"english": "This factory produces tools needed for a <b>basic upgrade</b>, and delivers them in a convenient package.",
     "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>basische Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento base</b> e li consegna in un pratico pacchetto.",
+		"ukrainian": "Ця фабрика виготовляє інструменти необхідні для <b>базових вдосконалень</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"upgradePack2Factory": {
 		"english": "Green Upgrade Pack Factory",
     "german": "Grüne Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Verdi",
+		"ukrainian": "Фабрика зелених пакетів покращення",
 	},
 	"upgradePack2Factory_desc": {
 		"english": "This factory produces tools needed for a <b>fundamental upgrade</b>, and delivers them in a convenient package.",
     "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>grundlegende Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento fondamentale</b> e li consegna in un pratico pacchetto.",
+		"ukrainian": "Ця фабрика виготовляє інструменти необхідні для <b>більш складних вдосконалень</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"upgradePack3Factory": {
 		"english": "Yellow Upgrade Pack Factory",
     "german": "Gelbe Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Gialli",
+		"ukrainian": "Фабрика жовтих пакетів покращення",
 	},
 	"upgradePack3Factory_desc": {
 		"english": "This factory produces tools needed for an <b>advanced upgrade</b>, and delivers them in a convenient package.",
     "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>fortgeschrittene Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento avanzato</b> e li consegna in un pratico pacchetto.",
+		"ukrainian": "Ця фабрика виготовляє інструменти необхідні для <b>складніших вдосконалень</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"upgradePack4Factory": {
 		"english": "Red Upgrade Pack Factory",
     "german": "Rote Aufwärtungspacketfabrik",
 		"italian": "Fabbrica di Moduli di Miglioramento Rossi",
+		"ukrainian": "Фабрика червоних пакетів покращення",
 	},
 	"upgradePack4Factory_desc": {
 		"english": "This factory produces tools needed for an <b>ultra-advanced upgrade</b>, and delivers them in a convenient package.",
     "german": "Diese Fabrik produziert Werkzeuge, die für eine <b>extrem fortgeschrittene Aufwärtung</b> benötigt werden, und liefert sie in einer praktischen Verpackung.",
 		"italian": "Questa fabbrica produce strumenti necessari per un <b>miglioramento ultra-avanzato</b> e li consegna in un pratico pacchetto.",
+		"ukrainian": "Ця фабрика виготовляє інструменти необхідні для <b>найскладніших удосконалень</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
 	},
 	"heavyOilExtractor": {
 		"english": "Heavy Oil Extractor",
     "german": "Schwerölextraktor",
 		"italian": "Estrattore di Petrolio Pesante",
+		"ukrainian": "Скважина \"важкої\" нафти",
 	},//ref for german 		"german": "Pumpt Rohöl aus tieferen Gesteinsschichten empor.\n\nDieses Gebäude muss auf einem Ölvorkommon platziert werden.",
 	"heavyOilExtractor_desc": {
 		"english": "Extracts heavy oil from underground.\n\nThis building is to be placed on <b>dark, spiked ground</b>, which conceals an <b>oil deposit</b>",
     "german": "Fördert Schweröl aus dem Untergrund.\n\nDieses Gebäude soll auf <b>dunklem, mit Stacheln versehenem Boden</b> errichtet werden, der ein <b>Ölvorkommen</b> verbirgt",
 		"italian": "Estrae petrolio pesante dal sottosuolo.\n\nQuesto edificio deve essere collocato su un <b>terreno scuro e spinoso</b>, che cela un <b>deposito di petrolio</b>.",
+		"ukrainian": "Видобуває \"важку\" нафту з під землі.\n\nМає бути розміщена на <b>темній, зрівняній землі</b>, що містить у собі <b>поклади сирої нафти</b>.",
 	},
 	"ilmeniteMine": {
 		"english": "Ilmenite Mine",
     "german": "Ilmenitmine",
 		"italian": "Miniera di Ilmenite",
+		"ukrainian": "Ільменітовий кар'єр",
 	},//I copy pasted the german desc of sand mine, but many german desc don't have the bold text yet. this one for example
 	"ilmeniteMine_desc": {
 		"english": "This mine can be placed <b>anywhere</b>.",		
         "german": "Diese Mine kann überall platziert werden.",
 		"italian": "Questa miniera può essere posizionata <b>ovunque</b>."
+		"ukrainian": "Цей кар'єр може бути розміщений <b>де завгодно</b>.",
 	},
 	"magnetiteMine": {
 		"english": "Magnetite Mine",
     "german": "Magnetitmine",
 		"italian": "Miniera di Magnetite",
+		"ukrainian": "Магнетитовий кар'єр",
 	},
 	"magnetiteMine_desc": {
 		"english": "This mine must be placed on <b>iron deposit</b>.",		
         "german": "Diese Mine muss auf einen Eisenvorkommen platziert werden.",
 		"italian": "Questa miniera può essere posizionata <b>ovunque</b>."
+		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах залізної руди</b>.",
 	},
 	"titaniumManufacturingFacility": {
 		"english": "Titanium Manufacturing Facility",
     "german": "Titan-Produktionsanlage",
 		"italian": "Impianto di Produzione del Titanio",
+		"ukrainian": "Титановий комбінат",
 	},
 	"titaniumManufacturingFacility_desc": {
 		"english": "Produces titanium, a metal with very high mechanical and corrosion resistance, used for high-quality instrumentation.",
     "german": "Produziert Titan, ein Metall mit sehr hoher mechanischer Widerstand und Korrosionsbeständigkeit, das für hochwertige Instrumente verwendet wird.",
 		"italian": "Produce titanio, metallo con elevatissima resistenza meccanica e alla corrosione, utilizzato per strumentazione di alta qualità.",
+		"ukrainian": "Виготовляє титан, метал з величезною механічною та корозійною стійкістю, що використовується для високоякісних інструментів.",
 	},
 	"hydraulicFluidFactory": {
 		"english": "Hydraulic Fluid Factory",
     "german": "Fabrik für Hydraulikflüssigkeit",
 		"italian": "Fabbrica di Fluido Idraulico",
+		"ukrainian": "Фабрика гідравлічної рідини",
 	},
 	"hydraulicFluidFactory_desc": {
 		"english": "Produces hydraulic fluid, indispensable for the operation of machinery for precise metalworking.",
     "german": "Produziert Hydraulikflüssigkeit, die für den Betrieb von Maschinen zur präzisen Metallbearbeitung unverzichtbar ist.",
 		"italian": "Produce fluido idraulico, indispensabile al funzionamento dei macchinari per la lavorazione precisa del metallo.",
+		"ukrainian": "Виготовляє гідравлічну рідину, незамінний компонент гідравлічних приводів, що в основному застосовуються у кар'єрах.",
 	},
 	"metalMatrixCompositeFactory": {
 		"english": "Metal Matrix Composite Factory",
     "german": "Fabrik für Metallmatrix-Verbundwerkstoffe",
 		"italian": "Fabbrica di Composito a Matrice Metallica",
+		"ukrainian": "Фабрика металевого матричного композиту",
 	},
 	"metalMatrixCompositeFactory_desc": {
 		"english": "Produces a metal matrix composite, which combines great strength with extraordinary lightness. Used in the production of specialized tools.",
     "german": "Erzeugt einen Metallmatrix-Verbundwerkstoff, der große Festigkeit mit außergewöhnlicher Leichtigkeit verbindet. Wird bei der Herstellung von Spezialwerkzeugen verwendet.",
 		"italian": "Produce un composito a matrice metallica, che combina una grande resistenza con una leggerezza straordinaria. Utilizzato nella produzione di attrezzi specializzati.",
+		"ukrainian": "Виготовляє металевий матричний композит, що поєднує у собі незвичайну легкість з надзвичайною міцністю. Використовується для виготовлення деяких спеціалізованих інструментів.",
 	},
 	"commercialSignExo": {
 		"english": "Exo Labs Commercial Sign",
 		"italian": "Cartellone Pubblicitario di Exo Labs",
+		"ukrainian": "Фірмовий знак \"Exo Labs\"",
 	},
 	"commercialSignExo_desc": {
 		"english": "Exo Labs laboratories proudly carries out scientific research here on Neper-3, and boasts among its employees the best minds in the city.",
 		"italian": "I laboratori Exo Labs portano avanti la ricerca scientifica con orgoglio qui su Neper-3, e vantano tra i loro dipendenti le migliori menti della città.",
+		"ukrainian": "Лабораторії \"Exo Labs\" з величезною гордістю проводять передові наукові дослідження тут, на Непер-3, та можуть похвалитися наявністю найкращих умів нашого міста серед своїх робітників.",
 	},
 	"commercialSignFuture": {
 		"english": "Future is Tomorrow Commercial Sign",
 		"italian": "Cartellone Pubblicitario di Future is Tomorrow",
+		"ukrainian": "Фірмовий знак \"Future is Tomorrow\"",
 	},
 	"commercialSignFuture_desc": {
 		"english": "The Future is Tomorrow industries are involved in the production of nutritionally excellent food: from growing meat in the laboratory, to processing and packaging, all the way to the consumer's table.",
 		"italian": "Le industrie di Future is Tomorrow sono coinvolte nella produzione di alimenti eccellenti dal punto di vista nutrizionale: dalla coltivazione della carne in laboratorio, alla lavorazione e al confezionamento, fino alle tavole dei consumatori.",
+		"ukrainian": "Усі Фабрики та Лабораторії \"Future is Tomorrow\" задійні у невпинному вирощуванні натуральної та корисної їжі: все, від вирощування м'яса в лабораторії до приготування та упаковки, на усьому шляху від лану до столу споживача",
 	},
 	"commercialSignGreenLeaf": {
 		"english": "LeafGreen Commercial Sign",
 		"italian": "Cartellone Pubblicitario di LeafGreen",
+		"ukrainian": "Фірмовий знак \"GreenLeaf\"",
 	},
 	"commercialSignGreenLeaf_desc": {
 		"english": "GreenLeaf is a leading company in the agricultural sector. Their farms produce high quality vegetables in all soil conditions, using the latest technology in the industry.",
 		"italian": "GreenLeaf è un'azienda leader nel settore agricolo. Le sue aziende agricole producono ortaggi di alta qualità in tutte le condizioni del terreno, utilizzando le più recenti tecnologie del settore.",
+		"ukrainian": "\"GreenLeaf\" - це компанія-лідер у тутешньому агрокультурному секторі. Їхні ферми вирощують високоякісні овочі у будь-яких умовах, завдяки використанню останніх наукових досягнень.",
 	},
 	"commercialSignSolaris": {
 		"english": "Solaris Commercial Sign",
 		"italian": "Cartellone Pubblicitario di Solaris",
+		"ukrainian": "Фірмовий знак \"Solaris\"",
 	},
 	"commercialSignSolaris_desc": {
 		"english": "Solaris deals with sustainable energy production. Thanks to the light rays from Neper-3's mother star, it supports numerous industries with solar energy... or more precisely, stellar energy!",
 		"italian": "Solaris si occupa della produzione di energia sostenibile. Grazie ai raggi luminosi dalla stella madre di Neper-3, sostiene numerosissime industrie con l'energia solare... o meglio, stellare!",
+		"ukrainian": "Енергокомпанія \"Solaris\" невпинно виробляє екологічно чисту та бесперебійну електроенергію для всіх нас. Завдяки сонячним променям від сонця Непер-3, \"Solaris\" живить різноманітні Фабрики та Комбінати завдяки сонячній енергії... Хоча, якщо бути точним, зоряної енергії!",
 	},
 	"commercialSignVav": {
 		"english": "VAV Technologies Commercial Sign",
 		"italian": "Cartellone Pubblicitario di VAV Technologies",
+		"ukrainian": "Фірмовий знак \"VAV Technologies\"",
 	},
 	"commercialSignVav_desc": {
 		"english": "VAV technologies is a key company for the development of the city. From basic habitats, to the production of survival food, mines, and numerous other basic buildings, it helps to make an alien planet welcoming.",
 		"italian": "VAV Technologies è un'azienda fondamentale per lo sviluppo della città. Dagli habitat di base, alla produzione di cibo per la sopravvivenza, alle miniere e a numerosi altri edifici di base, contribuisce a rendere accogliente un pianeta alieno.",
+		"ukrainian": "Компанія-універсал \"VAV Technologies\" є ключовою для розвитку нашого міста. Від будівництва житлових модулів, до базових ресурсів для виживання, кар'єрів, та багатьох інших критично необхідних споруд, вони допомагають нам зробити чужу планету привітнішою для людей.",
 	},
 }
