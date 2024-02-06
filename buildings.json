@@ -4105,8 +4105,8 @@
 	},//I copy pasted the german desc of sand mine, but many german desc don't have the bold text yet. this one for example
 	"ilmeniteMine_desc": {
 		"english": "This mine can be placed <b>anywhere</b>.",		
-        "german": "Diese Mine kann überall platziert werden.",
-		"italian": "Questa miniera può essere posizionata <b>ovunque</b>."
+    "german": "Diese Mine kann überall platziert werden.",
+		"italian": "Questa miniera può essere posizionata <b>ovunque</b>.",
 		"ukrainian": "Цей кар'єр може бути розміщений <b>де завгодно</b>.",
 	},
 	"magnetiteMine": {
@@ -4117,8 +4117,8 @@
 	},
 	"magnetiteMine_desc": {
 		"english": "This mine must be placed on <b>iron deposit</b>.",		
-        "german": "Diese Mine muss auf einen Eisenvorkommen platziert werden.",
-		"italian": "Questa miniera può essere posizionata <b>ovunque</b>."
+    "german": "Diese Mine muss auf einen Eisenvorkommen platziert werden.",
+		"italian": "Questa miniera può essere posizionata <b>ovunque</b>.",
 		"ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах залізної руди</b>.",
 	},
 	"titaniumManufacturingFacility": {
