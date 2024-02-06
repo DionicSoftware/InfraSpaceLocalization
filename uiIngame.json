@@ -1480,6 +1480,24 @@
 		"danish": "Ved at blive leveret: %amount%",
 		"greek": "Τώρα διανέμονται:%amount%",
 	},
+  "deliveryMethod": {
+    "english": "Delivery Method",
+  },
+  "deliveryMethod_Pipe": { 
+    "english": "Resource is being delivered with pipes",
+  },
+  "deliveryMethod_Collection": {
+    "english": "Resources are being delivered to a collection center",
+  },
+  "deliveryMethod_Distribution": {
+    "english": "Resources are being delivered from a distribution center",
+  },
+  "deliveryMethod_District": {
+    "english": "Resources are being delivered within a district",
+  },
+  "targetingStation_NotBuilt": {
+    "english": "Build a Targeting Station to unlock targeting environment objects for lasering"
+  },
 	// sign panel
 	"signPanelText": {
 		"english": "Text",
@@ -4354,6 +4372,12 @@
   },
   "powerRequiredTooltip": {
     "english": "Power required",
-	"italian": "Energia richiesta",
+	  "italian": "Energia richiesta",
   },
+  "blur": {
+    "english": "Blur",
+  },
+  "credits": {
+    "english": "Credits",
+  }
 }
