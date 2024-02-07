@@ -1496,7 +1496,13 @@
     "english": "Resources are being delivered within a district",
   },
   "targetingStation_NotBuilt": {
-    "english": "Build a Targeting Station to unlock targeting environment objects for lasering"
+    "english": "Build a Targeting Station to unlock targeting environment objects for lasering."
+  },
+  "clearTraffic_Title": {
+    "english": "Traffic Clearer"
+  },
+  "clearTraffic_Desc": {
+    "english": "With the Traffic Clearer you can clear out cars.\nUseful for clearing deadlocks."
   },
 	// sign panel
 	"signPanelText": {
