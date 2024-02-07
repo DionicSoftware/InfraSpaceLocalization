@@ -1,5 +1,5 @@
-{
-	"sandMine": {
+﻿	{
+  "sandMine": {
 		"english": "Sand Mine",
 		"german": "Sandmine",
 		"french": "Mine de sable",
@@ -1326,6 +1326,18 @@
 		"chinese": "在研究实验室中，新技术被研发出来。",
 		"ukrainian": "Тут, у науково-дослідницькій лабораторії ми досліджуємо нові технології.",
 	},
+  "upgradeLab": {
+    "english": "Upgrade Lab",
+    "german": "Aufwärtungslabor",
+  },
+  "upgradeLab_desc": {
+    "english": "In the upgrade laboratory, <b>new upgrades are developed</b>.\n\nTo select a research, click on the <b>upgrade icon</b> at the top left of the screen.",
+    "german": "Im Aufwärtungslaboer werden <b>neue Aufwärtungen entwickelt</b>.\n\nUm eine Forschung auszuwählen, klicke auf das <b>Aufwärtungs-Icon</b> oben links auf dem Bildschirm.",
+  },
+  "upgradeLab_descAdditional": {
+    "english": "In the upgrade laboratory, new upgrades are developed.",
+    "german": "Im Aufwärtungslaboer werden neue Aufwärtungen entwickelt.",
+  },
 	"storehouseSmall": {
 		"english": "Small Construction Material Storage",
 		"german": "Kleines Baumateriallager",
