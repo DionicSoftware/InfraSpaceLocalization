@@ -2587,6 +2587,9 @@
 		"danish": "Prioritet",
 		"greek": "Προταιρεότητα",
 	},
+  "scale": {
+    "english": "Scale",
+  },
 	"cityLevelOverview": {
 		"english": "City Level",
 		"german": "Stadtstufe",
@@ -3723,6 +3726,9 @@
 		"turkish": "Bütün teknolojiler açık",
 		"chinese": "所有科技已解锁",
 	},
+  "sandbox_upgradesUnlocked_title": {
+    "english": "All upgrades unlocked",
+  },
 	"sandbox_noBuildingCosts_title": {
 		"english": "No construction costs",
 		"italian": "Nessun costo di costruzione",
@@ -4380,7 +4386,7 @@
     "english": "Power required",
 	  "italian": "Energia richiesta",
   },
-  "blur": {
+  "depthOfField": {
     "english": "Blur",
   },
   "credits": {
