@@ -20,7 +20,7 @@
 		"turkish": "Güç Ağı %id%",
 		"romanian": "Rețea de alimentare %id%",
 		"danish": "Elektricitet Netværk %id%",
-		"greek": "Ηλεκτρικό δίκτυο %id%",
+		"greek": "Ηλεκτρικό δίκτυο %id%"
 	},
 	"powerRequired": {
 		"english": "Required: %amount% MW",
@@ -43,7 +43,7 @@
 		"turkish": "Gerekli: %amount% MW",
 		"romanian": "Necesar: %amount% MW",
 		"danish": "Påkrævet: %amount% MW",
-		"greek": "Απαιτούνται: %amount% MW",
+		"greek": "Απαιτούνται: %amount% MW"
 	},
 	"powerConsumed": {
 		"english": "Power consumed:",
@@ -66,7 +66,7 @@
 		"turkish": "Kullanılan elektrik",
 		"romanian": "Curent consumat:",
 		"danish": "Elektricitet forbrug:",
-		"greek": "Καταναλισκόμενη Ισχύς:",
+		"greek": "Καταναλισκόμενη Ισχύς:"
 	},
 	"powerProduced": {
 		"english": "Power produced:",
@@ -89,7 +89,7 @@
 		"turkish": "Üretilen elektrik:",
 		"romanian": "Curent produs:",
 		"danish": "Elektricitet Produceret:",
-		"greek": "Παραγόμενη Ισχύς:",
+		"greek": "Παραγόμενη Ισχύς:"
 	},
 	"incomingStorageEmpty": {
 		"english": "Incoming storage empty",
@@ -112,7 +112,7 @@
 		"turkish": "Gelen depo boş",
 		"romanian": "Depozit de intrare gol",
 		"danish": "Indgående opbevaring tom",
-		"greek": "Άδεια αποθήκη εισαγωγής",
+		"greek": "Άδεια αποθήκη εισαγωγής"
 	},
 	"noAccessToRoad": {
 		"english": "No access to road",
@@ -135,7 +135,7 @@
 		"turkish": "Yola ulaşım yok",
 		"romanian": "Fără acces la drum",
 		"danish": "Ingen adgang til vej",
-		"greek": "Καθόλου πρόσβαση στον δρόμο",
+		"greek": "Καθόλου πρόσβαση στον δρόμο"
 	},
 	"outgoingStorageFull": {
 		"english": "Outgoing storage full",
@@ -158,7 +158,7 @@
 		"turkish": "Hedef depo dolu",
 		"romanian": "Depozit de ieșire plin",
 		"danish": "Udgående opbevaring fyldt",
-		"greek": "Γεμάτη αποθήκη εξαγωγής",
+		"greek": "Γεμάτη αποθήκη εξαγωγής"
 	},
 	"noWorkersInBuilding": {
 		"english": "No workers in building",
@@ -181,7 +181,7 @@
 		"turkish": "Binada çalışan yok",
 		"romanian": "Fără muncitori",
 		"danish": "Ingen arbejdere i bygningen",
-		"greek": "Καθόλου εργάτες στο κτήριο",
+		"greek": "Καθόλου εργάτες στο κτήριο"
 	},
 	"noPower": {
 		"english": "No power",
@@ -204,7 +204,7 @@
 		"turkish": "Elektrik yok",
 		"romanian": "Nu este curent",
 		"danish": "Ingen elektricitet",
-		"greek": "Καθόλου ρεύμα",
+		"greek": "Καθόλου ρεύμα"
 	},
 	"amountOfEfficiency": {
 		"english": "%amount%% Efficiency",
@@ -227,7 +227,7 @@
 		"turkish": "%%amount% Verimlilik",
 		"romanian": "Eficienţă: %amount%%",
 		"danish": "%amount%% Effektivitet",
-		"greek": "%amount%% Αποτελεσματικότητα",
+		"greek": "%amount%% Αποτελεσματικότητα"
 	},
 	"upgradeText": {
 		"english": "Your city will be promoted to \"%cityLevelName%\" once you have at least %amount% Level %nextLevel% citizens.",
@@ -250,7 +250,7 @@
 		"turkish": "En az %amount% tane %nextLevel% Seviye vatandaş olunca şehriniz \"%cityLevelName%\" e yükselicek.",
 		"romanian": "Orașul tău va fi promovat la \"%cityLevelName%\" după ce vei avea cel puțin %amount% cetățeni de nivel %nextLevel%.",
 		"danish": "Din by vil blive opgraderet til \"%cityLevelName%\" når du har mindst %amount% niveau %nextLevel% indbyggere.",
-		"greek": "Η πόλη σου θα αναβαθμιστεί σε \"%cityLevelName%\" μόλις έχεις τουλάχιστον %amount% %nextLevel%ου επιπέδου κατοίκους",
+		"greek": "Η πόλη σου θα αναβαθμιστεί σε \"%cityLevelName%\" μόλις έχεις τουλάχιστον %amount% %nextLevel%ου επιπέδου κατοίκους"
 	},
 	"upgradeTextFinished": {
 		"english": "You have reached the highest city level. Congratulations!",
@@ -273,7 +273,7 @@
 		"turkish": "En yüksek şehir seviyesine ulaştınız. Tebrikler!",
 		"romanian": "Ai atins cel mai înalt nivel de oraș. Felicitări!",
 		"danish": "Du har nået det højeste by niveau. Stærkt Gået!",
-		"greek": "Έφτασες στο υψηλότερο επίπεδο πόλης. Συγχαρητήρια!",
+		"greek": "Έφτασες στο υψηλότερο επίπεδο πόλης. Συγχαρητήρια!"
 	},
 	"downgradeText": {
 		"english": "Your city will be demoted to \"%cityLevelName%\" if you have fewer than %amount% Level %level% citizens.",
@@ -296,7 +296,7 @@
 		"turkish": "Eğer %amount% den az %level% Seviye vatandaşınız olursa \"%citiyLevelName%\" seviyesine düşersiniz",
 		"romanian": "Orașul tău va fi retrogradat la \"%cityLevelName%\" dacă ai mai puțin de %amount% cetățeni de nivel %level%.",
 		"danish": "Din by vil blive nedgraderet til \"%cityLevelName%\" hvis du har mindre end %amount% nivau %level% indbyggere.",
-		"greek": "Η πόλη σου θα υποβαθμιστεί σε \"%cityLevelName%\" εάν έχεις λιγότερους από %amount% %level%ου επιπέδου κατοίκους.",
+		"greek": "Η πόλη σου θα υποβαθμιστεί σε \"%cityLevelName%\" εάν έχεις λιγότερους από %amount% %level%ου επιπέδου κατοίκους."
 	},
 	"researchingSomething": {
 		"english": "Researching %techName%...    %progress%",
@@ -319,7 +319,7 @@
 		"turkish": "%techName% araştırlıyor...    %progress%",
 		"romanian": "Cercetând %techName%...    %progress%",
 		"danish": "Udforsker %techName%...    %progress%",
-		"greek": "Ερευνόντας %techName%...    %progress%",
+		"greek": "Ερευνόντας %techName%...    %progress%"
 	},
 	"selectTech": {
 		"english": "Select technology to research",
@@ -342,7 +342,7 @@
 		"turkish": "Yükseltmek için bir teknoloji seçin",
 		"romanian": "Alege tehnologia de cercetare",
 		"danish": "Vælg en teknologi at forske",
-		"greek": "Επίλεξε τεχνολογία για να ερευνήσεις",
+		"greek": "Επίλεξε τεχνολογία για να ερευνήσεις"
 	},
 	"researchUnlockedNothing": {
 		"english": "Nothing",
@@ -365,7 +365,7 @@
 		"turkish": "Hiç bir şey",
 		"romanian": "Nimic",
 		"danish": "Intet",
-		"greek": "Τίποτα",
+		"greek": "Τίποτα"
 	},
 	"researchUnlockedAndCanBuild": {
 		"english": "We have unlocked %techName% and can now build:",
@@ -388,7 +388,7 @@
 		"turkish": "%techName% araştırması bitti ve artık inşa edilebilir:",
 		"romanian": "Am deblocat %techName% și acum putem construi:",
 		"danish": "Vi har åbnet for %techName% og du kan nu bygge:",
-		"greek": "Ξεκλειδώσαμε %techName% και τώρα μπορούμε να χτίσουμε:",
+		"greek": "Ξεκλειδώσαμε %techName% και τώρα μπορούμε να χτίσουμε:"
 	},
 	"researchUnlocked": {
 		"english": "We have unlocked %techName%.",
@@ -411,7 +411,7 @@
 		"turkish": "%techName% araştırması bitti.",
 		"romanian": "Am deblocat %techName%.",
 		"danish": "Vi har åbnet for %techName%.",
-		"greek": "Έχουμε ξεκλειδώσει %techName%",
+		"greek": "Έχουμε ξεκλειδώσει %techName%"
 	},
 	"techUnlocks": {
 		"english": "This technology unlocks:",
@@ -434,7 +434,7 @@
 		"turkish": "Bu teknolojinin açtıkları:",
 		"romanian": "Această tehnologie deblochează:",
 		"danish": "Denne teknologi åbner for:",
-		"greek": "Αυτή η τεχνολογία ξεκλειδώνει:",
+		"greek": "Αυτή η τεχνολογία ξεκλειδώνει:"
 	},
 	"techUnlocksNothing": {
 		"english": "This technology unlocks nothing.",
@@ -457,7 +457,7 @@
 		"turkish": "BU teknoloji hiç bir şey açmıyor.",
 		"romanian": "Această tehnologie nu deblochează nimic.",
 		"danish": "Denne teknologi åbner ikke for noget",
-		"greek": "Αυτή η τεχνολογία δεν ξεκλειδώνει τίποτα.",
+		"greek": "Αυτή η τεχνολογία δεν ξεκλειδώνει τίποτα."
 	},
 	"researchCompleted": {
 		"english": "Research completed!",
@@ -480,7 +480,7 @@
 		"turkish": "Araştırma tamamlandı!",
 		"romanian": "Cercetare finalizată!",
 		"danish": "Forskning Færdig!",
-		"greek": "Η έρευνα ολοκληρώθηκε!",
+		"greek": "Η έρευνα ολοκληρώθηκε!"
 	},
 	"production": {
 		"english": "Production",
@@ -503,7 +503,7 @@
 		"turkish": "Üretim",
 		"romanian": "Producție",
 		"danish": "Produktion",
-		"greek": "Παραγωγή",
+		"greek": "Παραγωγή"
 	},
 	"consumption": {
 		"english": "Consumption",
@@ -526,7 +526,7 @@
 		"turkish": "Tüketim",
 		"romanian": "Consum",
 		"danish": "Forbrug",
-		"greek": "Κατανάλωση",
+		"greek": "Κατανάλωση"
 	},
 	"workers": {
 		"english": "Workers",
@@ -549,7 +549,7 @@
 		"turkish": "Çalışanlar",
 		"romanian": "Muncitori",
 		"danish": "Arbejdere",
-		"greek": "Εργάτες",
+		"greek": "Εργάτες"
 	},
 	"storage": {
 		"english": "Storage",
@@ -572,7 +572,7 @@
 		"turkish": "Depo",
 		"romanian": "Depozit",
 		"danish": "Lager",
-		"greek": "Αποθήκη",
+		"greek": "Αποθήκη"
 	},
 	"upgrades": {
 		"english": "Upgrades",
@@ -595,7 +595,7 @@
 		"turkish": "Yükseltmeler",
 		"romanian": "Upgrade-uri",
 		"danish": "Opgraderinger",
-		"greek": "Αναβαθμίσεις",
+		"greek": "Αναβαθμίσεις"
 	},
 	"prioritize": {
 		"english": "Prioritize",
@@ -618,7 +618,7 @@
 		"turkish": "Önceliğe Al",
 		"romanian": "Prioritizează",
 		"danish": "Prioriter",
-		"greek": "Δώσε προταιρεότητα",
+		"greek": "Δώσε προταιρεότητα"
 	},
     //TODO-dutch
     //TODO-spanish
@@ -661,7 +661,7 @@
 		"thai": "ต้องใช้",
 		"turkish": "Fiyat",
 		"danish": "Pris",
-		"greek": "Τιμή",
+		"greek": "Τιμή"
 	},
 	// habitat info panel
 	"habitatUpgradingIn": {
@@ -685,7 +685,7 @@
 		"turkish": "Habitat %seconds%sn sonra yükeslicek.",
 		"romanian": "Habitatul modernizează în %seconds%s.",
 		"danish": "Habitat opgraderes om %seconds%s",
-		"greek": "Ο οικισμός αναβαθμίζεται σε %seconds%δευτ",
+		"greek": "Ο οικισμός αναβαθμίζεται σε %seconds%δευτ"
 	},
 	"habitatDowngradingIn": {
 		"english": "Habitat downgrading in %seconds%s.",
@@ -708,7 +708,7 @@
 		"turkish": "Habitat %seconds%sn sonra bir alt seviyeye inecek.",
 		"romanian": "Habitatul degradează în %seconds%s.",
 		"danish": "Habitat nedgraderes om %seconds%s",
-		"greek": "Ο οικισμός υποβαθμίζεται σε %seconds%δευτ.",
+		"greek": "Ο οικισμός υποβαθμίζεται σε %seconds%δευτ."
 	},
 	"habitatFullMeetNeeds": {
 		"english": "Habitat is full. Fulfill the additional needs to upgrade.",
@@ -731,7 +731,7 @@
 		"turkish": "Habitat dolu. Yükseltmek için gereksinimleri tamamla.",
 		"romanian": "Habitatul este plin. Îndepliniți nevoile suplimentare pentru upgrade.",
 		"danish": "Habitatet er fyldt. Opfyld de yderligere behov for at opgradere.",
-		"greek": "Ο οικισμός είναι γεμάτος.Ικανοποίησε τις επιπλέον ανάγκες για να αναβαθμιστεί.",
+		"greek": "Ο οικισμός είναι γεμάτος.Ικανοποίησε τις επιπλέον ανάγκες για να αναβαθμιστεί."
 	},
 	"peopleAreMovingIn": {
 		"english": "People are moving in.",
@@ -754,7 +754,7 @@
 		"turkish": "İnsanlar yerleşiyor.",
 		"romanian": "Oamenii se mută înăuntru.",
 		"danish": "indbyggere flytter ind.",
-		"greek": "Οι άνθρωποι έρχονται",
+		"greek": "Οι άνθρωποι έρχονται"
 	},
 	"peopleAreMovingOut": {
 		"english": "People are moving out.",
@@ -777,7 +777,7 @@
 		"turkish": "İnsanlar taşnıyor.",
 		"romanian": "Locuitorii pleacă.",
 		"danish": "Indbyggere flytter ud.",
-		"greek": "Οι άνθρωποι φεύγουν",
+		"greek": "Οι άνθρωποι φεύγουν"
 	},
 	"needsAreNotMet": {
 		"english": "Needs are not met.",
@@ -800,7 +800,7 @@
 		"turkish": "Gereksinimler sağlanmadı.",
 		"romanian": "Nevoile nu sunt satisfăcute.",
 		"danish": "Behov er ikke opfyldt.",
-		"greek": "Οι ανάγκες δεν ικανοποιούνται",
+		"greek": "Οι ανάγκες δεν ικανοποιούνται"
 	},
 	"inhabitantsOk": {
 		"english": "Inhabitants are ok.",
@@ -823,7 +823,7 @@
 		"turkish": "Oturanlar iyi.",
 		"romanian": "Locuitorii sunt ok.",
 		"danish": "Indbyggere har det okay.",
-		"greek": "Οι κάτικοι είναι οκ.",
+		"greek": "Οι κάτικοι είναι οκ."
 	},
 	"noResearchSelected": {
 		"english": "No research selected",
@@ -846,7 +846,7 @@
 		"turkish": "Yükseltme seçilmedi.",
 		"romanian": "Nicio cercetare selectată",
 		"danish": "Ingen forskning valgt",
-		"greek": "Δεν έχει επιλεγεί έρευνα",
+		"greek": "Δεν έχει επιλεγεί έρευνα"
 	},
 	"resourcesInStorage": {
 		"english": "Resources in storage:",
@@ -869,7 +869,7 @@
 		"turkish": "Depodaki kaynaklar:",
 		"romanian": "Resurse în depozit:",
 		"danish": "Resourcer på lager:",
-		"greek": "Πόροι σε αποθήκευση:",
+		"greek": "Πόροι σε αποθήκευση:"
 	},
 	"citizenLevel": {
 		"english": "Level %level% Citizens",
@@ -892,7 +892,7 @@
 		"turkish": "%level% Seviye vatandaşlar",
 		"romanian": "Cetăţeni de nivel %level%",
 		"danish": "Niveau %level% indbyggere",
-		"greek": "Επιπέδου %level% κάτικοι",
+		"greek": "Επιπέδου %level% κάτικοι"
 	},
 	"population": {
 		"english": "Population",
@@ -915,7 +915,7 @@
 		"turkish": "Nüfus",
 		"romanian": "Populație",
 		"danish": "Befolkning",
-		"greek": "Πληθυσμός",
+		"greek": "Πληθυσμός"
 	},
 	"jobs": {
 		"english": "Jobs",
@@ -938,7 +938,7 @@
 		"turkish": "İşler",
 		"romanian": "Locuri de muncă",
 		"danish": "Job",
-		"greek": "Δουλειές",
+		"greek": "Δουλειές"
 	},
 	"housing": {
 		"english": "Housing",
@@ -961,7 +961,7 @@
 		"turkish": "Konutlar",
 		"romanian": "Locuințe",
 		"danish": "Bolig",
-		"greek": "Στέγαση",
+		"greek": "Στέγαση"
 	},
 	"cityStatistics": { // can also use "charts". this is to describe the city statistics panel where it shows you charts
 		"english": "City Statistics",
@@ -984,7 +984,7 @@
 		"italian": "Statistiche della città",
 		"romanian": "Statistica orașului",
 		"danish": "By Statistik",
-		"greek": "Στατιστικά πόλης",
+		"greek": "Στατιστικά πόλης"
 	},
 	"statistics_population": {
 		"english": "Population",
@@ -1007,7 +1007,7 @@
 		"turkish": "Nüfüs",
 		"romanian": "Populație",
 		"danish": "Befolkning",
-		"greek": "Πληθυσμός",
+		"greek": "Πληθυσμός"
 	},
 	"statistics_jobs": {
 		"english": "Jobs",
@@ -1030,7 +1030,7 @@
 		"turkish": "İşler",
 		"romanian": "Locuri de muncă",
 		"danish": "Job",
-		"greek": "Δουλειές",
+		"greek": "Δουλειές"
 	},
 	"statistics_housing": {
 		"english": "Housing",
@@ -1053,7 +1053,7 @@
 		"turkish": "Konutlar",
 		"romanian": "Locuințe",
 		"danish": "Bolig",
-		"greek": "Στέγαση",
+		"greek": "Στέγαση"
 	},
 	"statistics_immigrationRate": {
 		"english": "Immigration Rate",
@@ -1076,7 +1076,7 @@
 		"turkish": "Yerleşme Oranı",
 		"romanian": "Rata de imigrare",
 		"danish": "Indvandringsrate",
-		"greek": "Ποσοστό Μετανάστευσης",
+		"greek": "Ποσοστό Μετανάστευσης"
 	},
 	"efficiencyTitle": {
 		"english": "Efficiency",
@@ -1099,7 +1099,7 @@
 		"turkish": "Verimlilik",
 		"romanian": "Eficienţă",
 		"danish": "Effektivitet",
-		"greek": "Αποτελεσματικότητα",
+		"greek": "Αποτελεσματικότητα"
 	},
 	"notEnoughWorkers": {
 		"english": "Not enough workers:",
@@ -1122,7 +1122,7 @@
 		"turkish": "Yetersiz Çalışan:",
 		"romanian": "Nu sunt destui muncitori:",
 		"danish": "Ikke nok arbejdere:",
-		"greek": "Ανεπαρκείς εργάτες:",
+		"greek": "Ανεπαρκείς εργάτες:"
 	},
 	"boostedByNeighbors": {
 		"english": "Boosted by neighbor buildings:",
@@ -1145,7 +1145,7 @@
 		"turkish": "Komşu binalardan güçlendirilmiş",
 		"romanian": "Amplificat de clădirile vecine",
 		"danish": "Boostet af nærliggende bygninger",
-		"greek": "Ενισχύθηκε από γειτονικά κτήρια",
+		"greek": "Ενισχύθηκε από γειτονικά κτήρια"
 	},
 	"notEnoughPower": {
 		"english": "Not enough power:",
@@ -1168,7 +1168,7 @@
 		"turkish": "Yetersiz elektrik:",
 		"romanian": "Energie insuficientă:",
 		"danish": "Ikke nok elektricitet:",
-		"greek": "Ανεπαρκής ρεύμα:",
+		"greek": "Ανεπαρκής ρεύμα:"
 	},
 	"disturbedAirflow": {
 		"english": "Disturbed airflow:",
@@ -1191,7 +1191,7 @@
 		"turkish": "Bozuk hava akışı:",
 		"romanian": "Flux de aer perturbat:",
 		"danish": "Forstyrret luftstrøm:",
-		"greek": "Αναταραγμένη ροή αέρα:",
+		"greek": "Αναταραγμένη ροή αέρα:"
 	},
 	"pipelineOperation": { // efficiency costs for operating pipeline
 		"english": "Pipeline Operation:",
@@ -1206,7 +1206,7 @@
 		"czech": "Provoz potrubí:",
 		"turkish": "Boru hatları",
 		"chinese": "管道运行：",
-		"italian": "Funzionamento del gasdotto:",
+		"italian": "Funzionamento del gasdotto:"
 	},
 	"spaceshipEfficiencyBoost": {
 		"english": "Spaceship Tech:",
@@ -1221,7 +1221,7 @@
 		"czech": "Technologie kosmické lodi:",
 		"turkish": "Uzay gemisi teknolojisi",
 		"chinese": "星舰技术：",
-		"italian": "Tecnologia dell'astronave",
+		"italian": "Tecnologia dell'astronave"
 	},
 	"gridOff": {
 		"english": "No Grid",
@@ -1239,7 +1239,7 @@
 		"japanese": "グリッドなし",
 		"hungarian": "Nincs négyzetháló",
 		"turkish": "Kılavuz kapalı",
-		"chinese": "关闭网格",
+		"chinese": "关闭网格"
 	},
 	"gridStraight": {
 		"english": "0° Grid",
@@ -1257,7 +1257,7 @@
 		"japanese": "0° グリッド",
 		"hungarian": "0° Négyzetháló",
 		"turkish": "0° Kılavuz",
-		"chinese": "0° 网格",
+		"chinese": "0° 网格"
 	},
 	"gridDiagonal": {
 		"english": "45° Grid",
@@ -1275,7 +1275,7 @@
 		"japanese": "45° グリッド",
 		"hungarian": "45° Négyzetháló",
 		"turkish": "45° Kılavuz",
-		"chinese": "45° 网格",
+		"chinese": "45° 网格"
 	},
 	"buildCurvedRoad": {
 		"english": "Build Curved Road",
@@ -1298,7 +1298,7 @@
 		"turkish": "Kavisli Yol",
 		"romanian": "Construiește un drum curbat",
 		"danish": "Byg buet vej",
-		"greek": "Χτίσε κυρτό δρόμο",
+		"greek": "Χτίσε κυρτό δρόμο"
 	},
 	"snapRoadLength": {
 		"english": "Snap Road Length",
@@ -1321,7 +1321,7 @@
 		"turkish": "Yol Uzunluğunu Daya",
 		"romanian": "Lungimea drumului",
 		"danish": "Snap Vejlængde",
-		"greek": " Ταίριαξε μήκος δρόμου",
+		"greek": " Ταίριαξε μήκος δρόμου"
 	},
 	"snapRoadAngle": {
 		"english": "Snap Road Angle",
@@ -1344,7 +1344,7 @@
 		"turkish": "Yol Açısını Daya",
 		"romanian": "Unghiul drumului",
 		"danish": "Snap Vejvinkel",
-		"greek": "Ταίριαξε γωνία δρόμου",
+		"greek": "Ταίριαξε γωνία δρόμου"
 	},
 	"replaceRoad": {
 		"english": "Replace Road",
@@ -1367,7 +1367,7 @@
 		"turkish": "Yolu Değiştir",
 		"romanian": "Înlocuiește drumul",
 		"danish": "Erstat Vej",
-		"greek": "Αντικατάστησε δρόμο",
+		"greek": "Αντικατάστησε δρόμο"
 	},
 	"replaceRoadDesc": {
 		"english": "Also reverses road direction if you don't have a replacement road selected",
@@ -1390,7 +1390,7 @@
 		"italian": "Inverte anche la direzione della strada se non hai selezionato una strada alternativa",
 		"romanian": "Inversează direcția drumului dacă nu ai selectat un drum de înlocuire",
 		"danish": "Vender også vejretningen, hvis du ikke har valgt en erstatningsvej",
-		"greek": "Αλλάζει την κατεύθυνση του δρόμο επίσης αν δεν έχεις επιλέξει δρόμο προς αντικατάσταση",
+		"greek": "Αλλάζει την κατεύθυνση του δρόμο επίσης αν δεν έχεις επιλέξει δρόμο προς αντικατάσταση"
 	},
 	"reverseRoad": {
 		"english": "Reverse Road",
@@ -1413,7 +1413,7 @@
 		"romanian": "Drum invers",
 		"danish": "Omvend Vej",
 		"greek": "Άλλαξε κατεύθυνση δρόμου",
-		"chinese": "反转道路方向",
+		"chinese": "反转道路方向"
 	},
 	"snapToRoad": { // snapping building to road
 		"english": "Snap to Road",
@@ -1436,7 +1436,7 @@
 		"turkish": "Yola Daya",
 		"romanian": "Lipește lângă drum",
 		"danish": "Fikser til vej",
-		"greek": "Κούμπωσε στον δρόμο",
+		"greek": "Κούμπωσε στον δρόμο"
 	},
 	"trainSignalsView": {
 		"english": "Train Signals View",
@@ -1455,7 +1455,7 @@
 		"thai": "ตัวแสดงสัญญาณรถไฟ",
 		"japanese": "鉄道信号ビュー",
 		"hungarian": "Vonatjelzések nézet",
-		"chinese": "铁路信号视图",
+		"chinese": "铁路信号视图"
 	},
 	"resourcesOnWay": { // tooltip when showing factory details
 		"english": "Currently being delivered: %amount%",
@@ -1478,22 +1478,22 @@
 		"turkish": "Şuanda iletiliyor: %amount%",
 		"romanian": "În curs de livrare: %amount%",
 		"danish": "Ved at blive leveret: %amount%",
-		"greek": "Τώρα διανέμονται:%amount%",
+		"greek": "Τώρα διανέμονται:%amount%"
 	},
   "deliveryMethod": {
-    "english": "Delivery Method",
+    "english": "Delivery Method"
   },
   "deliveryMethod_Pipe": { 
-    "english": "Resource is being delivered with pipes",
+    "english": "Resource is being delivered with pipes"
   },
   "deliveryMethod_Collection": {
-    "english": "Resources are being delivered to a collection center",
+    "english": "Resources are being delivered to a collection center"
   },
   "deliveryMethod_Distribution": {
-    "english": "Resources are being delivered from a distribution center",
+    "english": "Resources are being delivered from a distribution center"
   },
   "deliveryMethod_District": {
-    "english": "Resources are being delivered within a district",
+    "english": "Resources are being delivered within a district"
   },
   "targetingStation_NotBuilt": {
     "english": "Build a Targeting Station to unlock targeting environment objects for lasering."
@@ -1526,7 +1526,7 @@
 		"turkish": "Metin",
 		"romanian": "Text",
 		"danish": "Tekst",
-		"greek": "Κείμενο",
+		"greek": "Κείμενο"
 	},
 	"fontSize": {
 		"english": "Font Size",
@@ -1549,7 +1549,7 @@
 		"turkish": "Yazı Boyu",
 		"romanian": "Mărimea fontului",
 		"danish": "Skriftstørrelse",
-		"greek": "Μέγεθος Γραμματισειράς",
+		"greek": "Μέγεθος Γραμματισειράς"
 	},
 	"font": {
 		"english": "Font",
@@ -1572,7 +1572,7 @@
 		"turkish": "Yazı Tipi",
 		"romanian": "Font",
 		"danish": "Skrifttype",
-		"greek": "Γραμματοσειρά",
+		"greek": "Γραμματοσειρά"
 	},
 	"notConnectedToPowerNetwork": {
 		"english": "Not connected to power network",
@@ -1595,7 +1595,7 @@
 		"turkish": "Güç ağına bağlı değil",
 		"romanian": "Nu este conectat la rețeaua de alimentare",
 		"danish": "Ikke forbundet til elektricitet netværk",
-		"greek": "Μη συνδεδεμένο στο ηλεκτρικό δίκτυο",
+		"greek": "Μη συνδεδεμένο στο ηλεκτρικό δίκτυο"
 	},
 	"buildingColliding": {
 		"english": "Building is colliding with something",
@@ -1618,7 +1618,7 @@
 		"turkish": "Bina birşeyle çakışıyor",
 		"romanian": "Clădirea se ciocnește de ceva",
 		"danish": "Bygningen kolidere med noget",
-		"greek": "Το κτήριο ακουμπάει με κάτι",
+		"greek": "Το κτήριο ακουμπάει με κάτι"
 	},
 	"buildingNotPlacedOnResourceDeposit": {
 		"english": "Building not placed on resource deposit",
@@ -1641,7 +1641,7 @@
 		"turkish": "Bina kaynağın üstünde değil",
 		"romanian": "Clădirea nu este plasată pe depozitul de resurse",
 		"danish": "Bygningen er ikke placeret på et resource område",
-		"greek": "Το κτήριο δεν τοποθετήθηκε σε απόθεμα πόρων",
+		"greek": "Το κτήριο δεν τοποθετήθηκε σε απόθεμα πόρων"
 	},
 	"roadColliding": {
 		"english": "Road is colliding with something",
@@ -1664,7 +1664,7 @@
 		"turkish": "Yol birşeyle çakışıyor",
 		"romanian": "Drumul se ciocnește de ceva",
 		"danish": "Vej kolidere med noget",
-		"greek": "Ο δρόμος ακουμπάει με κάτι",
+		"greek": "Ο δρόμος ακουμπάει με κάτι"
 	},
 	"roadNeighborAngleTooClose": { // at an intersection, two neighboring roads are going in the similar direction. Not enough space between them
 		"english": "Too close to neighboring road",
@@ -1687,7 +1687,7 @@
 		"turkish": "Başka bir yola çok yakın",
 		"romanian": "Prea aproape de drumul vecin",
 		"danish": "For tæt på nærtliggende vej",
-		"greek": "Πολύ κοντά σε γειτονικό δρόμο",
+		"greek": "Πολύ κοντά σε γειτονικό δρόμο"
 	},
 	"roadTooShort": {
 		"english": "Road segment too short",
@@ -1710,7 +1710,7 @@
 		"turkish": "Yol çok kısa",
 		"romanian": "Segment de drum prea scurt",
 		"danish": "Vej stykke er for kort",
-		"greek": "Κομμάτι δρόμου πολύ κοντό",
+		"greek": "Κομμάτι δρόμου πολύ κοντό"
 	},
 	"roadTooSteep": {
 		"english": "Road too steep",
@@ -1733,7 +1733,7 @@
 		"turkish": "Yol çok dik",
 		"romanian": "Drum prea abrupt",
 		"danish": "Vej er for stejl",
-		"greek": "Δρόμος πολύ απότομος",
+		"greek": "Δρόμος πολύ απότομος"
 	},
 	"roadTooFarFromGround": {
 		"english": "Road too far from the ground",
@@ -1756,7 +1756,7 @@
 		"turkish": "Yol zeminden çok uzak",
 		"romanian": "Drum prea departe de sol",
 		"danish": "Vej er for langt fra jorden",
-		"greek": "Δρόμος πολύ μακριά από το έδαφος",
+		"greek": "Δρόμος πολύ μακριά από το έδαφος"
 	},
 	"roadDeadEnd": {
 		"english": "Dead End",
@@ -1775,7 +1775,7 @@
 		"greek": "Αδιέξοδος",
 		"thai": "ทางตัน",
 		"japanese": "行き止まり",
-		"chinese": "死路",
+		"chinese": "死路"
 	},
 	"highAngleBetweenGondolas": {
 		"english": "Can't connect to other station. Gondola lines can not curve!",
@@ -1787,7 +1787,7 @@
 		"turkish": "Diğer istasyonlara bağlanılamıyor. Teleferik hatları kavis alamaz",
 		"chinese": "无法连接到其他车站。缆车线路不能弯曲！",
 		"italian": "Non è possibile collegarsi ad altre stazioni. Le linee della cabinovia non possono curvare!",
-		"russian": "Невозможно соединиться с другой станцией. Линии грузового лифта не могут изгибаться!",
+		"russian": "Невозможно соединиться с другой станцией. Линии грузового лифта не могут изгибаться!"
 	},
 	"buildingConnectorTooSteep": {
 		"english": "Too steep",
@@ -1799,7 +1799,7 @@
 		"turkish": "Çok dik",
 		"chinese": "太陡了",
 		"italian": "Troppo ripido",
-		"russian": "Слишком крутой",
+		"russian": "Слишком крутой"
 	},
 	"buildingConnectorColliding": {
 		"english": "Colliding with something",
@@ -1811,7 +1811,7 @@
 		"turkish": "Bir şey ile çarpışıyor",
 		"chinese": "与其他物体冲突",
 		"italian": "Collisione con qualcosa",
-		"russian": "Сталкивается с чем-то",
+		"russian": "Сталкивается с чем-то"
 	},
 	"visualizations": {
 		"english": "Visualizations",
@@ -1834,7 +1834,7 @@
 		"turkish": "Görselleştirmeler",
 		"romanian": "Vizualizări",
 		"danish": "Visualiseringer",
-		"greek": "Απεικονήσεις",
+		"greek": "Απεικονήσεις"
 	},
 	"visualization_Efficiency": {
 		"english": "Building Efficiency",
@@ -1857,7 +1857,7 @@
 		"turkish": "Bina Verimliliği",
 		"romanian": "Eficiența construcției",
 		"danish": "Bygning Effektivitet",
-		"greek": "Αποτελεσματικότητα κτηρίων",
+		"greek": "Αποτελεσματικότητα κτηρίων"
 	},
 	"visualization_Occupancy": {
 		"english": "Building Occupancy (Workers & Inhabitants)",
@@ -1880,7 +1880,7 @@
 		"turkish": "Bina Doluluğu (Çalışanlar & Oturanlar)",
 		"romanian": "Ocuparea clădirilor (muncitori și locuitori)",
 		"danish": "Bygningsbelægning (arbejdere og indbyggere)",
-		"greek": "Πληρότητα κτηρίων (Εργάτες & Κάτικοι)",
+		"greek": "Πληρότητα κτηρίων (Εργάτες & Κάτικοι)"
 	},
 	"visualization_Power": {
 		"english": "Power",
@@ -1903,7 +1903,7 @@
 		"turkish": "Elektrik",
 		"romanian": "Energie",
 		"danish": "Elektricitet",
-		"greek": "Ρεύμα",
+		"greek": "Ρεύμα"
 	},
 	"visualization_Wind": {
 		"english": "Wind Turbines",
@@ -1926,7 +1926,7 @@
 		"turkish": "Rüzgar Türbinleri",
 		"romanian": "Turbine eoliene",
 		"danish": "Vindmølle",
-		"greek": "Ανεμογεννήτριες",
+		"greek": "Ανεμογεννήτριες"
 	},
 	"visualization_SoilEnrichment": {
 		"english": "Soil Enrichment Facilities",
@@ -1949,7 +1949,7 @@
 		"turkish": "Toprak Zenginleştirme Tesisleri",
 		"romanian": "Facilități de îmbogățire a solului",
 		"danish": "Jordberigelsesfaciliteter",
-		"greek": "Εγκαταστάσεις εμπολυτισμού εδάφους",
+		"greek": "Εγκαταστάσεις εμπολυτισμού εδάφους"
 	},
 	"visualization_Recycling": {
 		"english": "Recycling Centers",
@@ -1972,7 +1972,7 @@
 		"turkish": "Geri Dönüşüm Merkezleri",
 		"romanian": "Centre de reciclare",
 		"danish": "Genbrugsstationer",
-		"greek": "Κέντρα ανακύκλωσης",
+		"greek": "Κέντρα ανακύκλωσης"
 	},
 	"visualization_HighTechTools": {
 		"english": "Buildings with High Tech Tools",
@@ -1995,7 +1995,7 @@
 		"turkish": "Yüksek Teknoloji Ekipmanlı Binalar",
 		"romanian": "Clădiri cu instrumente de înaltă tehnologie",
 		"danish": "Bygninger med højteknologiske værktøjer",
-		"greek": "Κτήρια με εργαλεία υψηλής τεχνολογίας",
+		"greek": "Κτήρια με εργαλεία υψηλής τεχνολογίας"
 	},
 	"visualization_IndustrialRobots": {
 		"english": "Buildings with Industrial Robots",
@@ -2018,7 +2018,7 @@
 		"turkish": "Endüstriyel Robotlu Binalar",
 		"romanian": "Clădiri cu roboți industriali",
 		"danish": "Bygninger med Industriroboter",
-		"greek": "Κτήρια με βιομηχανικά ρομπότ",
+		"greek": "Κτήρια με βιομηχανικά ρομπότ"
 	},
 	"visualization_Cars": {
 		"english": "Cars",
@@ -2041,7 +2041,7 @@
 		"turkish": "Arabalar",
 		"romanian": "Mașini",
 		"danish": "Biler",
-		"greek": "Αυτοκίνητα",
+		"greek": "Αυτοκίνητα"
 	},
 	"visualization_Roads": {
 		"english": "Roads",
@@ -2064,7 +2064,7 @@
 		"turkish": "Yollar",
 		"romanian": "Drumuri",
 		"danish": "Veje",
-		"greek": "Δρόμοι",
+		"greek": "Δρόμοι"
 	},
 	"visualization_Parks": {
 		"english": "Parks",
@@ -2082,7 +2082,7 @@
 		"japanese": "公園",
 		"hungarian": "Parkok",
 		"turkish": "Parklar",
-		"chinese": "公园",
+		"chinese": "公园"
 	},
 	"visualization_Culture": { // changed to entertainment
 		"english": "Entertainment",
@@ -2092,7 +2092,7 @@
 		"thai": "ความบันเทิง",
 		"japanese": "娯楽",
 		"turkish": "Eğlence",
-		"chinese": "娱乐",
+		"chinese": "娱乐"
 	},
 	"visualization_Schools": {
 		"english": "Schools",
@@ -2110,7 +2110,7 @@
 		"japanese": "学校",
 		"hungarian": "Iskolák",
 		"turkish": "Okullar",
-		"chinese": "学校",
+		"chinese": "学校"
 	},
 	"visualization_Pipes": {
 		"english": "Pipes",
@@ -2125,7 +2125,7 @@
 		"czech": "Trubky",
 		"turkish": "Borular",
 		"chinese": "管道",
-		"italian": "Tubi",
+		"italian": "Tubi"
 	},
 	"requiredResources": { // when construction site needs stuff
 		"english": "Required Resources:",
@@ -2148,7 +2148,7 @@
 		"turkish": "Gerekli Malzemeler:",
 		"romanian": "Resurse necesare:",
 		"danish": "Manglende Resourcer:",
-		"greek": "Απαιτούμενοι πόροι:",
+		"greek": "Απαιτούμενοι πόροι:"
 	},
 	"miningResourcePerMinute": {
 		"english": "Mining %amount% %resourceName% per Minute",
@@ -2171,7 +2171,7 @@
 		"turkish": "Dakikada %amount% adet %resourceName% kazılıyor",
 		"romanian": "Extrage %amount% %resourceName% pe minut",
 		"danish": "Udvinder %amount% %resourceName% i minutet",
-		"greek": "Κάνοντας εξόρυξη %amount% %resourceName% ανά λεπτό",
+		"greek": "Κάνοντας εξόρυξη %amount% %resourceName% ανά λεπτό"
 	},
 	"minedResourcesTotal": {
 		"english": "Total amount mined until now: %amount%",
@@ -2194,7 +2194,7 @@
 		"turkish": "Şimdiye kadar toplam kazılan: %amount%",
 		"romanian": "Suma totală extrasă până acum: %amount%",
 		"danish": "Total mængde udvundet indtil videre: %amount%",
-		"greek": "Συνολικό ποσό έγινε εξόρυξη μ;eχρι τώρα:%amount%",
+		"greek": "Συνολικό ποσό έγινε εξόρυξη μ;eχρι τώρα:%amount%"
 	},
 	"districts": {
 		"english": "Districts",
@@ -2217,7 +2217,7 @@
 		"turkish": "Bölgeler",
 		"romanian": "Districte",
 		"danish": "Distrikter",
-		"greek": "Περιοχές",
+		"greek": "Περιοχές"
 	},
 	"districtsPaintingExplanation": {
 		"english": "Left click to paint\nRight click to erase",
@@ -2240,7 +2240,7 @@
 		"turkish": "Sol tıkla çiz\nSağ tıkla sil",
 		"romanian": "Clic stânga pentru a picta\nClic dreapta pentru a șterge",
 		"danish": "Venstre-klik for at male\nHøjre-klik for at slette",
-		"greek": "Αριστερό κλικ για ζωγραφική\nΔεξί κλικ για διαγραφή",
+		"greek": "Αριστερό κλικ για ζωγραφική\nΔεξί κλικ για διαγραφή"
 	},
 	"districtsRulesExplanation": {
 		"english": "Drag the mouse cursor between districts to create an export rule.\n\nDistricts without export rules can export goods anywhere.",
@@ -2263,7 +2263,7 @@
 		"turkish": "Bir ihracat kuralı yaratmak için fare imlecini bölgeler arasında oynat.\n\nİhracat kuralı olmayan bölgeler heryere ihracat yapabilirler",
 		"romanian": "Trage cursorul mouse-ului între districte pentru a crea o regulă de export.\n\nDistrictele fără reguli de export pot exporta mărfuri oriunde.",
 		"danish": "Træk musemarkøren mellem distrikter for at oprette en eksportregel.\n\nDistrikter uden exportregler, kan exportere varer overalt.",
-		"greek": "Σύρε τον κέρσορα του ποντικιού μεταξύ περιοχών για να δημιοργήσεις έναν κανόνα εξαγωγής.\n\nΠεριοχές χωρίς κανόνες εξαγωγής μπορούν να εξάγουν αγαθά οπουδήποτε.",
+		"greek": "Σύρε τον κέρσορα του ποντικιού μεταξύ περιοχών για να δημιοργήσεις έναν κανόνα εξαγωγής.\n\nΠεριοχές χωρίς κανόνες εξαγωγής μπορούν να εξάγουν αγαθά οπουδήποτε."
 	},
 	"populationInfo": {
 		"english": "Population Info",
@@ -2286,7 +2286,7 @@
 		"turkish": "Nüfus Bilgisi",
 		"romanian": "Informații despre populație",
 		"danish": "Befolkningsoplysninger",
-		"greek": "Πληροφορίες Πληθυσμού",
+		"greek": "Πληροφορίες Πληθυσμού"
 	},
 	"immigrantsReadyToMoveIn": {
 		"english": "Immigrants ready to move in:",
@@ -2309,7 +2309,7 @@
 		"romanian": "Imigranți gata să se mute în:",
 		"danish": "Indbyggere klar til at flytte ind:",
 		"greek": "Μετανάστες έτοιμοι να έρθουν:",
-		"thai": "ผู้อพยพพร้อมที่จะย้ายเข้า:",
+		"thai": "ผู้อพยพพร้อมที่จะย้ายเข้า:"
 	},
 	"immigrationRate": {
 		"english": "Immigration rate:",
@@ -2332,7 +2332,7 @@
 		"turkish": "Göç oranı:",
 		"romanian": "Rata de imigrare:",
 		"danish": "Immigrationsrate:",
-		"greek": "Ποσοστό μετανάστευσης:",
+		"greek": "Ποσοστό μετανάστευσης:"
 	},
 	"upgradeHabitatsForImmigrants": {
 		"english": "Upgrade your habitats to make your city attractive to newcomers.",
@@ -2355,7 +2355,7 @@
 		"turkish": "Habitatları yüksleterek şehri yeni gelenler için daha çekici yap.",
 		"romanian": "Îmbunătățind habitatele vei face orașul atractiv pentru noii veniți.",
 		"danish": "Opgrader dine habitater, for at tiltrække nye indbyggere.",
-		"greek": "Αναβάθμισε τις κατοικίες σου για να κάνεις την πόλη σου ελκυστική στους νεοφερμένους",
+		"greek": "Αναβάθμισε τις κατοικίες σου για να κάνεις την πόλη σου ελκυστική στους νεοφερμένους"
 	},
 	"low": {
 		"english": "Low",
@@ -2378,7 +2378,7 @@
 		"turkish": "Düşük",
 		"romanian": "Scăzut",
 		"danish": "Lav",
-		"greek": "Χαμηλή",
+		"greek": "Χαμηλή"
 	},
 	"moderate": {
 		"english": "Moderate",
@@ -2401,7 +2401,7 @@
 		"turkish": "Orta",
 		"romanian": "Moderat",
 		"danish": "Middel",
-		"greek": "Μεσαία",
+		"greek": "Μεσαία"
 	},
 	"high": {
 		"english": "High",
@@ -2424,7 +2424,7 @@
 		"turkish": "Yüksek",
 		"romanian": "Înalt",
 		"danish": "Høj",
-		"greek": "Υψηλή",
+		"greek": "Υψηλή"
 	},
 	"habitatUpgraded": {
 		"english": "Habitat Upgraded",
@@ -2447,7 +2447,7 @@
 		"turkish": "Habitat Yükseltildi",
 		"romanian": "Habitat modernizat",
 		"danish": "Habitat opgraderet",
-		"greek": "Οικισμός αναβαθμίστηκε",
+		"greek": "Οικισμός αναβαθμίστηκε"
 	},
 	"habitatDowngraded": {
 		"english": "Habitat Downgraded",
@@ -2470,7 +2470,7 @@
 		"turkish": "Habitat Düşürüldü",
 		"romanian": "Habitat degradat",
 		"danish": "Habitat nedgraderet",
-		"greek": "Οικισμός υποβαθμίστηκε",
+		"greek": "Οικισμός υποβαθμίστηκε"
 	},
 	"megawatts_short": {
 		"english": "MW",
@@ -2493,7 +2493,7 @@
 		"turkish": "MW",
 		"romanian": "MW",
 		"danish": "MW",
-		"greek": "MW",
+		"greek": "MW"
 	},
 	"percentageEfficiency": {
 		"english": "%percentage%% Efficiency",
@@ -2516,7 +2516,7 @@
 		"turkish": "%%percentage% Verimlilik",
 		"romanian": "Eficienţă %percentage%%",
 		"danish": "%percentage%% Effektivitet",
-		"greek": "%percentage%% Αποτελεσματικότητα",
+		"greek": "%percentage%% Αποτελεσματικότητα"
 	},
 	"productionOverview": {
 		"english": "Production Overview",
@@ -2539,7 +2539,7 @@
 		"italian": "Panoramica della Produzione",
 		"romanian": "Prezentare generală a producției",
 		"danish": "Produktionsoverblik",
-		"greek": "Συνολική Παραγωγή",
+		"greek": "Συνολική Παραγωγή"
 	},
 	"resource": { // means iron, copper, etc. but also stuff like computers, meals. "product" could also work
 		"english": "Resource",
@@ -2562,7 +2562,7 @@
 		"italian": "Risorsa",
 		"romanian": "Resursă",
 		"danish": "Ressource",
-		"greek": "Πόρος",
+		"greek": "Πόρος"
 	},
 	"priority": {
 		"english": "Priority",
@@ -2585,10 +2585,10 @@
 		"italian": "Priorità",
 		"romanian": "Prioritate",
 		"danish": "Prioritet",
-		"greek": "Προταιρεότητα",
+		"greek": "Προταιρεότητα"
 	},
   "scale": {
-    "english": "Scale",
+    "english": "Scale"
   },
 	"cityLevelOverview": {
 		"english": "City Level",
@@ -2611,7 +2611,7 @@
 		"italian": "Livello della Città",
 		"romanian": "Nivel de oraș",
 		"danish": "By Niveau",
-		"greek": "Επίπεδο πόλης",
+		"greek": "Επίπεδο πόλης"
 	},
 	"averageHabitatLevel": {
 		"english": "Average habitat level",
@@ -2630,7 +2630,7 @@
 		"danish": "Gennemsnitlig habitat niveau",
 		"greek": "Μέσο επίπεδο οικισμού",
 		"japanese": "平均住宅レベル",
-		"chinese": "平均住宅等级",
+		"chinese": "平均住宅等级"
 	},
 	"requiredHabitatLevel": {
 		"english": "Required habitat level",
@@ -2649,7 +2649,7 @@
 		"danish": "Krævet habitat niveau",
 		"greek": "Απαιτούμενο επίπεδο οικισμού",
 		"japanese": "要求住宅レベル",
-		"chinese": "要求住宅等级",
+		"chinese": "要求住宅等级"
 	},
 	"globalStorage": {
 		"english": "Global Storage",
@@ -2668,7 +2668,7 @@
 		"danish": "Global Opbevaring",
 		"greek": "Παγκόσμια αποθήκη",
 		"japanese": "全体在庫",
-		"chinese": "总库存",
+		"chinese": "总库存"
 	},
 	"constructionStorageDescription": { //need to add ADAMANTINE in all languages - Thanks!
 		"english": "The storehouse for construction materials stores concrete, steel and adamantine, which you need to construct buildings and infrastructure.",
@@ -2687,7 +2687,7 @@
 		"danish": "Lageret til byggematerialer opbevarer beton og stål, som du skal bruge til bygninger og infrastruktur.",
 		"greek": "Η αποθήκη για οικοδομικά υλικά αποθηκεύει μπετό και ατσάλι, που χρειάζεσαι για να κατασκευάσεις κτήρια και υποδομές.",
 		"japanese": "建築材料用の倉庫は、 コンクリートと鉄を貯蔵する。 これらは、 施設やインフラを 建設するために 必要になる。",
-		"chinese": "建筑材料仓库储存混凝土和钢材，用于建筑和基础设施。",
+		"chinese": "建筑材料仓库储存混凝土和钢材，用于建筑和基础设施。"
 	},
 	// train info panel
 	"train": {
@@ -2707,7 +2707,7 @@
 		"danish": "Tog",
 		"greek": "Τρένο",
 		"japanese": "列車",
-		"chinese": "列车",
+		"chinese": "列车"
 	},
 	"transporting": {
 		"english": "Transporting",
@@ -2726,7 +2726,7 @@
 		"danish": "Transportere",
 		"greek": "Μεταφέρει",
 		"japanese": "輸送中",
-		"chinese": "运输中",
+		"chinese": "运输中"
 	},
 	"nextStation": {
 		"english": "Next station",
@@ -2745,7 +2745,7 @@
 		"danish": "Næste station",
 		"greek": "Επόμενος Σταθμός",
 		"japanese": "次の駅",
-		"chinese": "下一站",
+		"chinese": "下一站"
 	},
 	// car info panel
 	"deliveryTruck": {
@@ -2765,7 +2765,7 @@
 		"danish": "Varevogn",
 		"greek": "Φορτηγό διανομής",
 		"japanese": "輸送トラック",
-		"chinese": "转运货车",
+		"chinese": "转运货车"
 	},
 	"carTarget": {
 		"english": "Target",
@@ -2784,7 +2784,7 @@
 		"danish": "Mål",
 		"greek": "Προορισμός",
 		"japanese": "目的地",
-		"chinese": "目的地",
+		"chinese": "目的地"
 	},
 	// train line info panel
 	"trainLines": {
@@ -2804,7 +2804,7 @@
 		"danish": "Tog Linjer",
 		"greek": "Γραμμές τρένου",
 		"japanese": "鉄道",
-		"chinese": "列车线路",
+		"chinese": "列车线路"
 	},
 	"totalGoodsTransported": {
 		"english": "Total goods transported: %amount%",
@@ -2842,7 +2842,7 @@
 		"danish": "Tog på linjen: %amount%",
 		"greek": "Τρένα στην γραμμή:%amount%",
 		"japanese": "路線の列車数: %amount%",
-		"chinese": "在轨列车数：%amount%",
+		"chinese": "在轨列车数：%amount%"
 	},
 	"trainColor": {
 		"english": "Train color",
@@ -2861,7 +2861,7 @@
 		"danish": "Tog farve",
 		"greek": "Χρώμα τρένου",
 		"japanese": "列車の色",
-		"chinese": "列车颜色",
+		"chinese": "列车颜色"
 	},
 	// train signaling info panel
 	"trainSignaling": {
@@ -2881,7 +2881,7 @@
 		"danish": "Togsignalering",
 		"greek": "Σήμανση τρένων",
 		"japanese": "鉄道信号",
-		"chinese": "列车信号",
+		"chinese": "列车信号"
 	},
 	"trainSignaling_red": {
 		"english": "Red rails indicate segments where trains could collide.",
@@ -2900,7 +2900,7 @@
 		"danish": "Røde skinner angiver segmenter, hvor tog kan støde sammen.",
 		"greek": "Οι κόκκινες γραμμές υποδεικνύουν κομμάτια που τα τρένα μπορεί να συγκρουστούν.",
 		"japanese": "赤色のレールは、 列車が衝突する可能性がある セグメントを示す。",
-		"chinese": "红色轨道表示列车可能相撞的路段。",
+		"chinese": "红色轨道表示列车可能相撞的路段。"
 	},
 	"trainSignaling_orange": {
 		"english": "Orange rails show rail intersections. These are created around red segments. In most cases only one train can enter an intersection at a time.",
@@ -2919,7 +2919,7 @@
 		"danish": "Orange skinner viser skinnekryds. Disse er skabt omkring røde segmenter. I de fleste tilfælde kan kun ét tog køre ind i et vejkryds ad gangen.",
 		"greek": "Οι πορτοκαλί γραμμές δείχνουν διασταυρώσεις ραγών.Δημιουργούνται γύρω από κόκκινα κομμάτια.Στις περισσότερες περιπτώσεις μόνο ένα τρένο μπορεί να μπει σε μία διασταύρωση τη φορά.",
 		"japanese": "橙色のレールはレール分岐点を示す。 赤色のセグメントの周りに作られる。 大抵の場合、 1編成の列車のみが 分岐点に進入できる。",
-		"chinese": "橙色轨道显示轨道交叉点。这些是围绕红色轨道路段创建的。在大多数情况下，一次只能有一列列车进入交叉轨道口。",
+		"chinese": "橙色轨道显示轨道交叉点。这些是围绕红色轨道路段创建的。在大多数情况下，一次只能有一列列车进入交叉轨道口。"
 	},
 	"trainSignaling_green": {
 		"english": "Green rails are straight segments with no risk of collision.",
@@ -2938,7 +2938,7 @@
 		"danish": "Grønne skinner er lige segmenter uden risiko for kollision.",
 		"greek": "Οι πράσινες γραμμές είναι ευθεία κομμάτια χωρίς πιθανότητα σύγκρουσης",
 		"japanese": "緑色のレールは直進セグメントを指し、 衝突のリスクが無い。",
-		"chinese": "绿色轨道是直线路段，没有碰撞风险。",
+		"chinese": "绿色轨道是直线路段，没有碰撞风险。"
 	},
 	"trainSignaling_other1": {
 		"english": "The train signaling system prevents your trains from colliding or deadlocking each other.",
@@ -2957,7 +2957,7 @@
 		"danish": "Togsignalsystemet forhindrer dine tog i at kollidere eller blokere hinanden.",
 		"greek": "Το σύστημα σήμανσης τρένων αποτρέπει τα τρένα από να συγκρούονται και να καθυστερούν το ένα το άλλο",
 		"japanese": "鉄道信号システムは、 列車の衝突やデッドロックを 防止する。",
-		"chinese": "列车信号系统可防止列车发生碰撞或停车。",
+		"chinese": "列车信号系统可防止列车发生碰撞或停车。"
 	},
 	"trainSignaling_other2": {
 		"english": "For maximum throughput, make sure you have enough space with long green segments between intersections.",
@@ -2976,7 +2976,7 @@
 		"danish": "For maksimal gennemstrømning skal du sørge for at have nok plads med lange grønne segmenter mellem krydsene.",
 		"greek": "Για μέγιστη διακίνηση, σιγουρέψου ότι έχεις αρκετό χώρο με μακρυά πράσινα κομμάτια μεταξύ διασταυρώσεων.",
 		"japanese": "スループットを最大化するには、 長い緑色のレールにより 十分な間隔を分岐点間に設ける必要がある。",
-		"chinese": "为了实现最大吞吐量，请确保在轨道交叉口之间有足够的空间和较长的绿色路段。",
+		"chinese": "为了实现最大吞吐量，请确保在轨道交叉口之间有足够的空间和较长的绿色路段。"
 	},
 	"rails": {
 		"english": "Rails",
@@ -2995,7 +2995,7 @@
 		"danish": "Skinner",
 		"greek": "Ράγες",
 		"japanese": "レール",
-		"chinese": "列车",
+		"chinese": "列车"
 	},
 	"trafficLightSettings": {
 		"english": "Traffic Light Settings",
@@ -3013,7 +3013,7 @@
 		"japanese": "信号設定",
 		"hungarian": "Jelzőlámpa beállítások",
 		"turkish": "Trafik ışığı ayarları",
-		"chinese": "交通信号设置",
+		"chinese": "交通信号设置"
 	},
 	"customMarker": { // used like "Traffic Light Settings - Custom" when player changed them
 		"english": "Custom",
@@ -3031,7 +3031,7 @@
 		"japanese": "編集済み",
 		"hungarian": "Egyedi",
 		"turkish": "Özel",
-		"chinese": "已设定",
+		"chinese": "已设定"
 	},
 	"phaseNumber": {
 		"english": "Phase %number%",
@@ -3049,7 +3049,7 @@
 		"japanese": "フェーズ%number%",
 		"hungarian": "Fázis %number%",
 		"turkish": "Aşama %number%",
-		"chinese": "相位 %number%",
+		"chinese": "相位 %number%"
 	},
 	"skipToNextPhaseWhenRoadsAreEmpty": {
 		"english": "Skip to next phase when roads are empty",
@@ -3067,7 +3067,7 @@
 		"japanese": "道路が空の場合、ただちに次のフェーズに進む。",
 		"hungarian": "Ugrás a következő fázisra, ha az utak üresek",
 		"turkish": "Yol boş ise bir sonraki aşamaya geç",
-		"chinese": "道路为空时跳过当前阶段",
+		"chinese": "道路为空时跳过当前阶段"
 	},
 	"providing": { // like a school provides schooling
 		"english": "Providing",
@@ -3085,7 +3085,7 @@
 		"japanese": "供給",
 		"hungarian": "Biztosít",
 		"turkish": "Sunuyor",
-		"chinese": "供给",
+		"chinese": "供给"
 	},
 	"radius": {
 		"english": "Radius",
@@ -3103,7 +3103,7 @@
 		"japanese": "半径",
 		"hungarian": "Rádiusz",
 		"turkish": "Alan",
-		"chinese": "半径",
+		"chinese": "半径"
 	},
 	"speed": {
 		"english": "Speed",
@@ -3121,7 +3121,7 @@
 		"japanese": "速度",
 		"hungarian": "Sebesség",
 		"turkish": "Hız",
-		"chinese": "速度",
+		"chinese": "速度"
 	},
 	"pipeNetwork": {
 		"english": "Pipe Network",
@@ -3135,7 +3135,7 @@
 		"hungarian": "Csőhálózat",
 		"czech": "Potrubní síť",
 		"turkish": "Boru ağı",
-		"chinese": "管道网",
+		"chinese": "管道网"
 	},
 	"pipeNetworkInputPerMinute": { // can use produced instead of input or inflow
 		"english": "Inflow per minute: %amount%",
@@ -3149,7 +3149,7 @@
 		"hungarian": "Percenkénti bemenet: %amount%",
 		"czech": "Přítok za minutu: %amount%",
 		"turkish": "Dakikadaki üretim: %amount%",
-		"chinese": "每分钟流入量：%amount%",
+		"chinese": "每分钟流入量：%amount%"
 	},
 	"pipeNetworkOutputPerMinute": { // can use consumed instead of output or outflow
 		"english": "Outflow per minute: %amount%",
@@ -3163,7 +3163,7 @@
 		"hungarian": "Percenkénti kimenet: %amount%",
 		"czech": "Odtok za minutu: %amount%",
 		"turkish": "Akış hızı: %amount%",
-		"chinese": "每分钟流出量：%amount%",
+		"chinese": "每分钟流出量：%amount%"
 	},
 	"totalAmountInPipeNetwork": {
 		"english": "Total resources in pipe network",
@@ -3177,7 +3177,7 @@
 		"hungarian": "Összes forrás a csőhálózatban",
 		"czech": "Celkové zdroje v potrubní síti",
 		"turkish": "boru hattındaki toplam miktar",
-		"chinese": "管道网内总资源数",
+		"chinese": "管道网内总资源数"
 	},
 	"pipes": {
 		"english": "Pipes",
@@ -3191,7 +3191,7 @@
 		"hungarian": "Csövek",
 		"czech": "Potrubí",
 		"turkish": "Borular",
-		"chinese": "管道",
+		"chinese": "管道"
 	},
 	"buildings": {
 		"english": "Buildings",
@@ -3205,7 +3205,7 @@
 		"hungarian": "Épületek",
 		"czech": "Budovy",
 		"turkish": "Yapılar",
-		"chinese": "建筑",
+		"chinese": "建筑"
 	},
 	"spaceship": {
 		"english": "Spaceship",
@@ -3219,7 +3219,7 @@
 		"hungarian": "Űrhajó",
 		"czech": "Kosmická loď",
 		"turkish": "Uzay gemisi",
-		"chinese": "星舰详情",
+		"chinese": "星舰详情"
 	},
 	"planet": {
 		"english": "Planet",
@@ -3233,7 +3233,7 @@
 		"hungarian": "Bolygó",
 		"czech": "Planeta",
 		"turkish": "Gezegen",
-		"chinese": "返回星球",
+		"chinese": "返回星球"
 	},
 	"spaceship_bridge": {
 		"english": "Bridge",
@@ -3247,7 +3247,7 @@
 		"hungarian": "Híd",
 		"czech": "Můstek",
 		"turkish": "Köprü",
-		"chinese": "舰桥",
+		"chinese": "舰桥"
 	},
 	"spaceship_communicationArray": { // can use "antenna" instead of "array"
 		"english": "Communication Array",
@@ -3261,7 +3261,7 @@
 		"hungarian": "Kommunikációs antenna",
 		"czech": "Komunikační anténa",
 		"turkish": "İletişim Anteni",
-		"chinese": "通信矩阵",
+		"chinese": "通信矩阵"
 	},
 	"spaceship_computerDeck": {
 		"english": "Computer Deck",
@@ -3275,7 +3275,7 @@
 		"hungarian": "Számítógépes rendszerek",
 		"czech": "Počítačová paluba",
 		"turkish": "Bilgisayar güvertesi",
-		"chinese": "计算机面板",
+		"chinese": "计算机面板"
 	},
 	"spaceship_ftlEngine": {
 		"english": "FTL Engine",
@@ -3289,7 +3289,7 @@
 		"hungarian": "FTL motor",
 		"czech": "FTL Pohon",
 		"turkish": "FTL Motoru",
-		"chinese": "FTL引擎",
+		"chinese": "FTL引擎"
 	},
 	"spaceship_ftlFuelCells": {
 		"english": "FTL Fuel Cells",
@@ -3303,7 +3303,7 @@
 		"hungarian": "FTL üzemanyagcellák",
 		"czech": "FTL palivové články",
 		"turkish": "FTL Yakıt hücresi",
-		"chinese": "FTL燃料电池",
+		"chinese": "FTL燃料电池"
 	},
 	"spaceship_ftlTurbine": {
 		"english": "FTL Turbine",
@@ -3331,7 +3331,7 @@
 		"hungarian": "Orbitális radar",
 		"czech": "Orbitální skenery",
 		"turkish": "Yörünge tarayıcı",
-		"chinese": "轨道扫描仪",
+		"chinese": "轨道扫描仪"
 	},
 	"spaceship_passengerDeck": {
 		"english": "Passenger Deck",
@@ -3345,7 +3345,7 @@
 		"hungarian": "Utasfedélzet",
 		"czech": "Paluba pro cestující",
 		"turkish": "Yolcu Güvertesi",
-		"chinese": "乘客面板",
+		"chinese": "乘客面板"
 	},
 	"spaceship_hull": {
 		"english": "Hull",
@@ -3359,7 +3359,7 @@
 		"hungarian": "Hajótest",
 		"czech": "Trup",
 		"turkish": "Gövde",
-		"chinese": "舰体",
+		"chinese": "舰体"
 	},
 	"spaceship_radiationShield": {
 		"english": "Radiation Shield",
@@ -3373,7 +3373,7 @@
 		"hungarian": "Sugárzás elleni pajzs",
 		"czech": "Radiační štít",
 		"turkish": "Radyasyon Kalkanı",
-		"chinese": "辐射屏蔽",
+		"chinese": "辐射屏蔽"
 	},
 	"spaceship_storageDeck": {
 		"english": "Storage Deck",
@@ -3387,7 +3387,7 @@
 		"hungarian": "Raktér",
 		"czech": "Skladovací paluba",
 		"turkish": "Depolama Güvertesi",
-		"chinese": "仓库面板",
+		"chinese": "仓库面板"
 	},
 	"spaceship_telescope": {
 		"english": "Telescope",
@@ -3401,7 +3401,7 @@
 		"hungarian": "Teleszkóp",
 		"czech": "Teleskop",
 		"turkish": "Teleskop",
-		"chinese": "望远镜",
+		"chinese": "望远镜"
 	},
 	"spaceship_thermalSystems": {
 		"english": "Thermal Systems",
@@ -3415,7 +3415,7 @@
 		"hungarian": "Termikus rendszerek",
 		"czech": "Tepelné systémy",
 		"turkish": "Termal sistemler",
-		"chinese": "热力系统",
+		"chinese": "热力系统"
 	},
 	"spaceship_laserCannon": {
 		"english": "Laser Cannon",
@@ -3427,7 +3427,7 @@
 		"turkish": "Lazer silahı",
 		"chinese": "激光炮",
 		"italian": "Cannone Laser",
-		"russian": "Лазерная пушка",
+		"russian": "Лазерная пушка"
 	},
 	"spaceshipUpgrade_bridge": {
 		"english": "Each time Electronics is produced, you get 1 extra unit.\n\nEach time Plastic is produced, you get 1 extra unit.",
@@ -3436,7 +3436,7 @@
 		"italian": "Per ogni produzione di Moduli Elettronici e Plastica, ricevi 1 unità extra.",
 		"japanese": "電子機器を生産するたびに1ユニットを追加で得られます。\n\nプラスチックを生産するたびに1ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตอิเล็กทรอนิกส์คุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตพลาสติกคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
-		"chinese": "每生产一个电子产品，你将额外多获得1个产物。\n\n每生产一个塑料，你将额外多获得1个产物。",
+		"chinese": "每生产一个电子产品，你将额外多获得1个产物。\n\n每生产一个塑料，你将额外多获得1个产物。"
 	},
 	"spaceshipUpgrade_communicationArray": {
 		"english": "Each time a Neural Processor is produced, you get 1 extra unit.\n\nEach time VR Edutainment and Home Robot are produced, you get 2 extra units.",
@@ -3445,7 +3445,7 @@
 		"italian": "Per ogni produzione di Processori Neurali, ricevi 1 unità extra.\n\nPer ogni produzione di Intrattenimento a Realtà Virtuale e Robot Domestici, ricevi 2 unità extra.",
 		"japanese": "ニューラルプロセッサーを生産するたびに1ユニットを追加で得られます。\n\n教育用VRと家庭用ロボットを生産するたびに2ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตเครื่องประมวลผลประสาทคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตเครื่องจำลองโลกบันเทิงเสมือนจริงและหุ่นยนต์บ้านคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
-		"chinese": "每生产一个神经处理器，你将额外多获得1个产物。\n\n每生产一个VR娱乐设备和家用机器人，你将额外多获得2个产物。",
+		"chinese": "每生产一个神经处理器，你将额外多获得1个产物。\n\n每生产一个VR娱乐设备和家用机器人，你将额外多获得2个产物。"
 	},
 	"spaceshipUpgrade_computerDeck": {
 		"english": "Each time a Holo Display is produced, you get 1 extra unit.\n\nEach time a Computer is produced, you get 2 extra units.",
@@ -3454,7 +3454,7 @@
 		"italian": "Per ogni produzione di Display Olografici, ricevi 1 unità extra.\n\nPer ogni produzione di Computer, ricevi 2 unità extra.",
 		"japanese": "ホロディスプレイを生産するたびに1ユニットを追加で得られます。\n\nコンピューターを生産するたびに2ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตจอโฮโลแกรมคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตคอมพิวเตอร์คุณจะได้รับหน่วยพิเศษ 2 หน่วย",
-		"chinese": "每生产一个全息显示屏，你将额外多获得1个产物。\n\n每生产一个计算机，你将额外多获得2个产物。",
+		"chinese": "每生产一个全息显示屏，你将额外多获得1个产物。\n\n每生产一个计算机，你将额外多获得2个产物。"
 	},
 	"spaceshipUpgrade_ftlEngine": {
 		"english": "Each time Reinforced Iridium is produced, you get 1 extra unit.\n\nEach time AI Control Unit and Motor are produced, you get 2 extra units.",
@@ -3463,7 +3463,7 @@
 		"italian": "Per ogni produzione di Iridio Rinforzato, ricevi 1 unità extra.\n\nPer ogni produzione di Unità di controllo IA e Motori, ricevi 2 unità extra.",
 		"japanese": "強化イリジウムを生産するたびに1ユニットを追加で得られます。\n\nAI制御ユニットとモーターを生産するたびに2ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตอิริเดียมเสริมแกร่งคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตตัวควบคุมปัญญาประดิษฐ์และมอเตอร์คุณจะได้รับหน่วยพิเศษ 2 หน่วย",
-		"chinese": "每生产一个强化铱，你将额外多获得1个产物。\n\n每生产一个AI控制单元和发动机，你将额外多获得2个产物。",
+		"chinese": "每生产一个强化铱，你将额外多获得1个产物。\n\n每生产一个AI控制单元和发动机，你将额外多获得2个产物。"
 	},
 	"spaceshipUpgrade_ftlFuelCells": {
 		"english": "Each time Superconductors and Industrial Chemicals are produced, you get 1 extra unit.",
@@ -3472,7 +3472,7 @@
 		"italian": "Per ogni produzione di Superconduttori e Prodotti Chimici Industriali, ricevi 1 unità extra.",
 		"japanese": "超伝導材料と工業用化学製品を生産するたびに1ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตวัสดุตัวนำยวดยิ่งและเคมีภัณฑ์อุตสาหกรรมคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
-		"chinese": "每生产一个超导体和工业化品，你将额外多获得1个产物。",
+		"chinese": "每生产一个超导体和工业化品，你将额外多获得1个产物。"
 	},
 	"spaceshipUpgrade_ftlTurbine": {
 		"english": "Each time Copper Bars and Distilled Water are produced, you get 1 extra unit.\n\nEach time Industrial Robots are produced, you get 2 extra units.",
@@ -3481,7 +3481,7 @@
 		"italian": "Per ogni produzione di Lingotti di Rame e Acqua Distillata, ricevi 1 unità extra.\n\nPer ogni produzione di Robot Industriali, ricevi 2 unità extra.",
 		"japanese": "銅の延べ棒と蒸留水を生産するたびに1ユニットを追加で得られます。\n\n工業用ロボットを生産するたびに2ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตแท่งทองแดงและน้ำกลั่นคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตหุ่นยนต์อุตสาหกรรมคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
-		"chinese": "每生产一个铜锭和蒸馏水，你将额外多获得1个产物。\n\n每生产一个工业机器人，你将额外多获得2个产物。",
+		"chinese": "每生产一个铜锭和蒸馏水，你将额外多获得1个产物。\n\n每生产一个工业机器人，你将额外多获得2个产物。"
 	},
 	"spaceshipUpgrade_orbitalScanners": {
 		"english": "Each time Advanced Filtering Mesh and Superconducting Coil are produced, you get 1 extra unit.\n\nEach time Filtering Mesh is produced, you get 2 extra unit.",
@@ -3490,7 +3490,7 @@
 		"italian": "Per ogni produzione di Tessuto Filtrante Avanzato e Bobine Superconduttive, ricevi 1 unità extra.\n\nPer ogni produzione di Tessuto Filtrante, ricevi 2 unità extra.",
 		"japanese": "発展型濾過用メッシュ超伝導コイルを生産するたびに1ユニットを追加で得られます。\n\n濾過用メッシュを生産するたびに2ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตตาข่ายกรองและขดลวดตัวนำยิ่งยวดคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nทุกครั้งที่ผลิตตาข่ายกรองคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
-		"chinese": "每生产一个高级滤网和超导线圈，你将额外多获得1个产物。\n\n每生产一个滤网，你将额外多获得2个产物。",
+		"chinese": "每生产一个高级滤网和超导线圈，你将额外多获得1个产物。\n\n每生产一个滤网，你将额外多获得2个产物。"
 	},
 	"spaceshipUpgrade_passengerDeck": {
 		"english": "Each time Survival Food and Good Food are produced, you get 1 extra unit.\n\nYou get a 15% reduction for all Habitat needs.",
@@ -3499,7 +3499,7 @@
 		"italian": "Per ogni produzione di Cibo di Sopravvivenza e Pasti Buoni, ricevi 1 unità extra.\n\nRicevi una riduzione del 15% per tutti i bisogni degli Habitat.",
 		"japanese": "非常食と食料品を生産するたびに1ユニットを追加で得られます。\n\nすべての居住地からの需要を15%削減します。",
 		"thai": "ทุกครั้งที่ผลิตอาหารประทังชีวิตและอาหารที่ดีคุณจะได้รับหน่วยพิเศษ 1 หน่วย\n\nความต้องการที่อยู่อาศัยทั้งหมดจะลดลง 15%",
-		"chinese": "每生产一个生存食品和优质食品，你将额外多获得1个产物。\n\n你可以享受满足居住的所有需求减15%。",
+		"chinese": "每生产一个生存食品和优质食品，你将额外多获得1个产物。\n\n你可以享受满足居住的所有需求减15%。"
 	},
 	"spaceshipUpgrade_hull": {
 		"english": "Each time Sensor and Heat Exchanger are produced, you get 2 extra units.",
@@ -3508,7 +3508,7 @@
 		"italian": "Per ogni produzione di Sensori e Scambiatori di Calore, ricevi 2 unità extra.",
 		"japanese": "センサーと熱交換器を生産するたびに2ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตอุปกรณ์ตรวจจับและเครื่องแลกเปลี่ยนความร้อนคุณจะได้รับหน่วยพิเศษ 2 หน่วย",
-		"chinese": "每生产一个传感器和热交换器，你将额外多获得2个产物。",
+		"chinese": "每生产一个传感器和热交换器，你将额外多获得2个产物。"
 	},
 	"spaceshipUpgrade_radiationShield": {
 		"english": "Each time Enriched Uranium is produced, you get 3 extra unit.\n\nEach time Radiation Core is produced, you get 4 extra unit.",
@@ -3517,7 +3517,7 @@
 		"italian": "Per ogni produzione di Uranio Arricchito, ricevi 3 unità extra.\n\nPer ogni produzione di Nuclei di Radiazione, ricevi 4 unità extra.",
 		"japanese": "濃縮ウランを生産するたびに3ユニットを追加で得られます。\n\n放射線コアを生産するたびに4ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตยูเรเนียมสารเจือปนคุณจะได้รับหน่วยพิเศษ 3 หน่วย\n\nทุกครั้งที่ผลิตแกนรังสีคุณจะได้รับหน่วยพิเศษ 4 หน่วย",
-		"chinese": "每生产一个浓缩铀，你将额外多获得3个产物。\n\n每生产一个辐射核心，你将额外多获得2个产物。",
+		"chinese": "每生产一个浓缩铀，你将额外多获得3个产物。\n\n每生产一个辐射核心，你将额外多获得2个产物。"
 	},
 	"spaceshipUpgrade_storageDeck": {
 		"english": "Each time Home Appliance is produced, you get 2 extra unit.\n\nEach time Concrete and Steel are produced, you get 3 extra unit.",
@@ -3526,7 +3526,7 @@
 		"italian": "Per ogni produzione di Elettrodomestici, ricevi 2 unità extra.\n\nPer ogni produzione di Cemento e Acciaio, ricevi 3 unità extra.",
 		"japanese": "家電を生産するたびに2ユニットを追加で得られます。\n\nコンクリートと鋼鉄を生産するたびに3ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตเครื่องใช้ภายในบ้านคุณจะได้รับหน่วยพิเศษ 2 หน่วย\n\nทุกครั้งที่ผลิตคอนกรีตและเหล็กกล้าคุณจะได้รับหน่วยพิเศษ 3 หน่วย",
-		"chinese": "每生产一个家电，你将额外多获得2个产物。\n\n每生产一个混凝土和钢材，你将额外多获得3个产物。",
+		"chinese": "每生产一个家电，你将额外多获得2个产物。\n\n每生产一个混凝土和钢材，你将额外多获得3个产物。"
 	},
 	"spaceshipUpgrade_telescope": {
 		"english": "Each time Adamantine is produced, you get 5 extra unit.",
@@ -3535,7 +3535,7 @@
 		"italian": "Per ogni produzione di Adamantio, ricevi 5 unità extra.",
 		"japanese": "アダマンタイトを生産するたびに5ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตอาดามันเทียมคุณจะได้รับหน่วยพิเศษ 5 หน่วย",
-		"chinese": "每生产一个金刚砂，你将额外多获得5个产物。",
+		"chinese": "每生产一个金刚砂，你将额外多获得5个产物。"
 	},
 	"spaceshipUpgrade_thermalSystems": {
 		"english": "Each time Chemicals, Organic Waste and Methane are produced, you get 1 extra unit.",
@@ -3544,7 +3544,7 @@
 		"italian": "Per ogni produzione di Prodotti Chimici, Rifiuti Organici e Metano, ricevi 1 unità extra.",
 		"japanese": "化学製品と有機廃棄物とメタンを生産するたびに1ユニットを追加で得られます。",
 		"thai": "ทุกครั้งที่ผลิตเคมีภัณฑ์และขยะอินทรีย์รวมถึงมีเทนคุณจะได้รับหน่วยพิเศษ 1 หน่วย",
-		"chinese": "每生产一个化学制品、有机废料和甲烷，你将额外多获得5个产物。",
+		"chinese": "每生产一个化学制品、有机废料和甲烷，你将额外多获得5个产物。"
 	},
 	/*"spaceshipUpgrade_immigrationRateBoost": {
 		"english": "Your progress convinces crew members to trust you. Permanent 5% immigration boost.",
@@ -3626,7 +3626,7 @@
 		"turkish": "Lazer silahı kayaları eritecek kadar güçlü. haritadaki engelleri yöründegen temizleyebilirsin",
 		"chinese": "安塔利斯激光炮威力足以熔化岩石。清除你地图上轨道的障碍物！",
 		"italian": "Il cannone laser di Antares è così potente da fondere le rocce. Liberate la vostra mappa dagli ostacoli dall'orbita!",
-		"russian": "Лазерная пушка Антареса достаточно мощная, чтобы расплавить скалы. Очистите свою карту от препятствий с орбиты!",
+		"russian": "Лазерная пушка Антареса достаточно мощная, чтобы расплавить скалы. Очистите свою карту от препятствий с орбиты!"
 	},
 	"necessaryResources": {
 		"english": "Necessary Resources",
@@ -3640,7 +3640,7 @@
 		"hungarian": "Szükséges nyersanyagok",
 		"czech": "Potřebné zdroje",
 		"turkish": "Gerekli kaynaklar",
-		"chinese": "必需资源",
+		"chinese": "必需资源"
 	},
 	"progress": {
 		"english": "Progress",
@@ -3654,7 +3654,7 @@
 		"hungarian": "Előrehaladás",
 		"czech": "Pokrok",
 		"turkish": "İlerleme",
-		"chinese": "进程",
+		"chinese": "进程"
 	},
 	"bonusWhenCompleted": {
 		"english": "Bonus when completed",
@@ -3668,7 +3668,7 @@
 		"hungarian": "Bónusz, ha befejezett",
 		"czech": "Bonus po dokončení",
 		"turkish": "tamamlandığında alacağın bonus",
-		"chinese": "完成后给予奖金",
+		"chinese": "完成后给予奖金"
 	},
 	"repair": {
 		"english": "Repair",
@@ -3682,7 +3682,7 @@
 		"hungarian": "Javítás",
 		"czech": "Opravit",
 		"turkish": "Tamir",
-		"chinese": "维修",
+		"chinese": "维修"
 	},
 	"worldSettings": {
 		"english": "World Settings",
@@ -3696,7 +3696,7 @@
 		"hungarian": "Világ beállításai",
 		"czech": "Nastavení světa",
 		"turkish": "Dünya Ayarları",
-		"chinese": "世界设定",
+		"chinese": "世界设定"
 	},
 	"sandbox": {
 		"english": "Creative Mode",
@@ -3710,7 +3710,7 @@
 		"hungarian": "Kreatív mód",
 		"czech": "Kreativní režim",
 		"turkish": "Yaratıcı mod",
-		"chinese": "创造模式",
+		"chinese": "创造模式"
 	},
 	"sandbox_researchUnlocked_title": {
 		"english": "All technologies unlocked",
@@ -3724,10 +3724,10 @@
 		"hungarian": "Összes technológia feloldva",
 		"czech": "Všechny technologie jsou odemčeny",
 		"turkish": "Bütün teknolojiler açık",
-		"chinese": "所有科技已解锁",
+		"chinese": "所有科技已解锁"
 	},
   "sandbox_upgradesUnlocked_title": {
-    "english": "All upgrades unlocked",
+    "english": "All upgrades unlocked"
   },
 	"sandbox_noBuildingCosts_title": {
 		"english": "No construction costs",
@@ -3741,7 +3741,7 @@
 		"hungarian": "Nincs építési költség",
 		"czech": "Žádné stavební náklady",
 		"turkish": "İnşaa ücreti yok",
-		"chinese": "建造无成本",
+		"chinese": "建造无成本"
 	},
 	"sandbox_needsFulfilled_title": {
 		"english": "All citizen needs fulfilled",
@@ -3755,7 +3755,7 @@
 		"hungarian": "Összes lakos igénye kielégítve",
 		"czech": "Všechny potřeby občanů splněny",
 		"turkish": "Bina ihtiyaçları otomatik tamamlanmış",
-		"chinese": "所有市民都感到满足",
+		"chinese": "所有市民都感到满足"
 	},
 	"trafficVisualsOnly_title": {
 		"english": "Cars ignore traffic",
@@ -3769,7 +3769,7 @@
 		"hungarian": "Az autók figyelmen kívül hagyják a közlekedést",
 		"czech": "Auta dopravu ignorují",
 		"turkish": "Araçlar trafiğe takılmaz",
-		"chinese": "车辆无视交通",
+		"chinese": "车辆无视交通"
 	},
 	"trafficVisualsOnly_desc": {
 		"english": "This setting eliminates traffic difficulty!\nSelect this if you are not interested in InfraSpace's traffic gameplay.",
@@ -3783,7 +3783,7 @@
 		"hungarian": "Ennél a beállításnál nincsenek közlekedési problémák!\nEzt akkor válaszd ki, ha nem érdekel az InfraSpace közlekedéssel kapcsolatos játékmenete.",
 		"czech": "Toto nastavení eliminuje potíže s provozem!\nVyberte toto, pokud vás nezajímá herní režim InfraSpace.",
 		"turkish": "Bu ayar trafik zorluğunu tamamen kaldırır\nEğer oyunun trafik sistemi ilginizi çekmiyorsa açabilirsiniz.",
-		"chinese": "该选项将使道路交通不再堵塞！\n如果你对InfraSpace中的道路\n交通规划不感兴趣，请选择此项。",
+		"chinese": "该选项将使道路交通不再堵塞！\n如果你对InfraSpace中的道路\n交通规划不感兴趣，请选择此项。"
 	},
 	"truckRoundTrip_title": {
 		"english": "Cars make round trips", // or: cars drive back after delivery
@@ -3797,7 +3797,7 @@
 		"hungarian": "Az autók visszafordulnak a kézbesítés után",
 		"czech": "Auta po dodání jezdí zpět",
 		"turkish": "Araçlar teslimattan sonra geri dönerler.",
-		"chinese": "交货后车辆需要返回",
+		"chinese": "交货后车辆需要返回"
 	},
 	"truckRoundTrip_desc": {
 		"english": "This setting makes traffic a lot more difficult.\nSelect this if you are looking for a challenge.",
@@ -3811,7 +3811,7 @@
 		"hungarian": "Ez a beállítás jelentősen megnehezíti a közlekedést.\nEzt akkor válaszd ki, ha kihívást akarsz.",
 		"czech": "Toto nastavení značně ztěžuje provoz.\nVyberte toto, pokud hledáte výzvu.",
 		"turkish": "Bu ayar trafik zorluğunu arttırır.\nEğer yeni bir zorluk arıyorsanız açabilirsiniz",
-		"chinese": "该选项将会使道路交通规划变得更加困难。\n如果你想找点乐子，请选择此项。",
+		"chinese": "该选项将会使道路交通规划变得更加困难。\n如果你想找点乐子，请选择此项。"
 	},
 	"introText_1": {
 		"english": "After a failed warp jump, your damaged spaceship is stranded somewhere in the galaxy.",
@@ -3825,7 +3825,7 @@
 		"hungarian": "Egy sikertelen hiperűrugrás következtében az űhajód megsérült és egy ismeretlen galaxisba érkeztél.",
 		"czech": "Po neúspěšném warp skoku vaše poškozená vesmírná loď uvízne někde v galaxii.",
 		"turkish": "Yıldız atlaması başarısız oldu, hasar almış geminle birlikte galaksinin bir yerinde kaldın",
-		"chinese": "在一次失败的折跃后，你损坏的飞船被困在了这个星系的某处。",
+		"chinese": "在一次失败的折跃后，你损坏的飞船被困在了这个星系的某处。"
 	},
 	"introText_2": {
 		"english": "Your communication systems can't reach human space.",
@@ -3839,7 +3839,7 @@
 		"hungarian": "A kommunikációs rendszerek nem tudják elérni az emberi űrt.",
 		"czech": "Vaše komunikační systémy nemohou dosáhnout lidského prostoru.",
 		"turkish": "iletişim sistemlerin diğer insanlarla bağlantı kuramıyor",
-		"chinese": "你的通讯系统无法到达有人类的地方。",
+		"chinese": "你的通讯系统无法到达有人类的地方。"
 	},
 	"introText_3": {
 		"english": "You need to settle on one of the nearby planets to get the necessary resources and technology to repair your ship.",
@@ -3853,7 +3853,7 @@
 		"hungarian": "Kénytelen vagy letelepedni egy közeli bolgyón, hogy megszerezd a szükséges nyersanyagokat és technológiákat az űrhajód megjavításához.",
 		"czech": "Musíte se usadit na jedné z blízkých planet, abyste získali potřebné zdroje a technologii k opravě své lodi.",
 		"turkish": "Yakında bulunan bir gezeni kolonize edip gerekli kaynakları ve teknolojileri toplamalı ve gemini tamir etmelisin",
-		"chinese": "你需要在邻近的某个行星定居，以此来获得必要的资源和科技来修复你的飞船。",
+		"chinese": "你需要在邻近的某个行星定居，以此来获得必要的资源和科技来修复你的飞船。"
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -3875,7 +3875,7 @@
 		"czech": "Ok",
 		"romanian": "Ok",
 		"japanese": "閉じる",
-		"thai": "ตกลง",
+		"thai": "ตกลง"
 	},
 	"laserDestructionProgress": {
 		"english": "Destruction Progress",
@@ -3887,7 +3887,7 @@
 		"turkish": "İmha beklemede",
 		"chinese": "摧毁进度",
 		"italian": "Progressi della distruzione",
-		"russian": "Процесс разрушения",
+		"russian": "Процесс разрушения"
 	},
 	"laserSelectedForDestruction": { // or "next targets"
 		"english": "Selected for Destruction",
@@ -3899,7 +3899,7 @@
 		"turkish": "İmha için seçili",
 		"chinese": "下个目标",
 		"italian": "Selezionato per la distruzione",
-		"russian": "Следующие цели",
+		"russian": "Следующие цели"
 	},
 	"multiSelectTutorial": {
 		"english": "Click on the objects you want to destroy with the laser.",
@@ -3911,7 +3911,7 @@
 		"turkish": "Lazerle imha etmek istedğin objelerin üstüne tıkla.",
 		"chinese": "单击要用激光炮摧毁的对象。",
 		"italian": "Clicca sugli oggetti che si desidera distruggere con il laser.",
-		"russian": "Нажмите на объекты, которые вы хотите уничтожить с помощью лазера.",
+		"russian": "Нажмите на объекты, которые вы хотите уничтожить с помощью лазера."
 	},
 	"buildLaserCannonTutorial": {
 		"english": "Repair the laser cannon on the space ship, so you can use the targeting station to remove obstacles.",
@@ -3923,7 +3923,7 @@
 		"turkish": "Uzay gemisindeki lazer silahını tamir et, böylece lazer hedefleme istasyonu ile engelleri kaldırabilirsin",
 		"chinese": "修理星舰上的激光炮，这样你就可以使用目瞄准站来清除障碍物。",
 		"italian": "Ripara il cannone laser della nave spaziale in modo da poter utilizzare la stazione di puntamento per eliminare gli ostacoli.",
-		"russian": "Отремонтируйте лазерную пушку на космическом корабле, чтобы вы могли использовать станцию наведения для устранения препятствий.",
+		"russian": "Отремонтируйте лазерную пушку на космическом корабле, чтобы вы могли использовать станцию наведения для устранения препятствий."
 	},
 	"terraformingProgress": {
 		"english": "Terraforming Progress",
@@ -3934,7 +3934,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว",
 		"italian": "Progressi di terraformazione",
 		"russian": "Прогресс терраформирования",
-		"chinese": "地球化进度",
+		"chinese": "地球化进度"
 	},
 	"terraformingProgressPercentage": {
 		"english": "Terraforming Progress: %progress%%",
@@ -3945,7 +3945,7 @@
 		"thai": "ความคืบหน้าปรับสภาพพื้นผิวดาว: %progress%%",
 		"italian": "Progressi di terraformazione: %progress%%",
 		"russian": "Прогресс терраформирования: %progress%%",
-		"chinese": "地球化进度: %progress%%",
+		"chinese": "地球化进度: %progress%%"
 	},
 	"dustParticleFiltering": {
 		"english": "Dust Particle Filtering",
@@ -3956,7 +3956,7 @@
 		"thai": "การกรองอนุภาคฝุ่น",
 		"italian": "Filtrazione delle polveri sottili",
 		"russian": "Фильтрация частиц пыли",
-		"chinese": "尘埃过滤",
+		"chinese": "尘埃过滤"
 	},
 	"fertilization": {
 		"english": "Soil Fertilization",
@@ -3967,7 +3967,7 @@
 		"thai": "การให้ปุ๋ยทางดิน",
 		"italian": "Distribuzione di fertilizzanti",
 		"russian": "Удобрение почвы",
-		"chinese": "土壤肥沃度",
+		"chinese": "土壤肥沃度"
 	},
 	"groundAcidity": {
 		"english": "Ground Acidity Regulation",
@@ -3978,7 +3978,7 @@
 		"thai": "การควบคุมความเป็นกรดของดิน",
 		"italian": "Regolazione dell'acidità del suolo",
 		"russian": "Регулирование кислотности грунта",
-		"chinese": "土壤酸度调节",
+		"chinese": "土壤酸度调节"
 	},
 	"ammoniaExtraction": {
 		"english": "Atmosphere Ammonia Extraction",
@@ -3989,7 +3989,7 @@
 		"thai": "การสกัดแอมโมเนียในบรรยากาศ",
 		"italian": "Estrazione di ammoniaca in atmosfera",
 		"russian": "Атмосферная экстракция аммиака",
-		"chinese": "大气氨素提取",
+		"chinese": "大气氨素提取"
 	},
 	"magneticField": {
 		"english": "Magnetic Field",
@@ -4000,7 +4000,7 @@
 		"thai": "สนามแม่เหล็ก",
 		"italian": "Campo magnetico",
 		"russian": "Магнитное поле",
-		"chinese": "电磁场",
+		"chinese": "电磁场"
 	},
 	"terraformingPoints": {
 		"english": "Terraforming Points: %points%",
@@ -4011,7 +4011,7 @@
 		"thai": "จุดปรับสภาพพื้นผิวดาว: %points%",
 		"italian": "Punti di terraformazione: %points%",
 		"russian": "Очки терраформирования: %points%",
-		"chinese": "地球化点数: %points%",
+		"chinese": "地球化点数: %points%"
 	},
 	"terraformedAreaOnMap": {
 		"english": "Terraformed area on map: %area%%",
@@ -4022,7 +4022,7 @@
 		"thai": "พื้นที่หลังปรับสภาพพื้นผิวแล้วบนแผนที่: %area%%",
 		"italian": "Area terraformata sulla mappa: %area%%",
 		"russian": "Терраформированная территория на карте: %area%%",
-		"chinese": "地图上已环境改造区域: %area%%",
+		"chinese": "地图上已环境改造区域: %area%%"
 	},
 	"totalProgress": {
 		"english": "Total Progress: %progress%%",
@@ -4033,7 +4033,7 @@
 		"thai": "ความคืบหน้าทั้งหมด: %progress%%",
 		"italian": "Progressi totali: %progress%%",
 		"russian": "Общий прогресс: %progress%%",
-		"chinese": "总进度: %progress%%",
+		"chinese": "总进度: %progress%%"
 	},
 	"view": {
 		"english": "View",
@@ -4044,7 +4044,7 @@
 		"thai": "มุมมอง",
 		"italian": "Visualizza",
 		"russian": "Посмотреть",
-		"chinese": "查看",
+		"chinese": "查看"
 	},
 	"recentlyUsed": {
 		"english": "Recently Used",
@@ -4055,7 +4055,7 @@
 		"italian": "Usato di recente",
 		"russian": "Последнее использование",
 		"turkish": "Son Zamanlarda Kullanılmış",
-		"chinese": "最近使用",
+		"chinese": "最近使用"
 	},
 	"gracePeriodTitle": {
 		"english": "Grace Period to Fix Your City",
@@ -4065,7 +4065,7 @@
 		"thai": "ระยะเวลาเผื่อเพื่อแก้ไขเมืองของคุณ",
 		"japanese": "都市を修正するための猶予期間",
 		"turkish": "Şehrinizi Düzeltmek İçin Ek Süre",
-		"chinese": "修复城市的宽限期",
+		"chinese": "修复城市的宽限期"
 	},
 	"gracePeriodDesc": {
 		"english": "Your save has been created in an old version of the game.\n\nYou get some time to fix your city and adjust it to the new requirements.\nDuring this time, your habitants will not move in or out and you can not research new technologies.\n\nClick this button when you are ready to continue with the game as usual:",
@@ -4075,7 +4075,7 @@
 		"thai": "การบันทึกของคุณถูกสร้างขึ้นในเกมเวอร์ชันเก่า\n\nคุณมีระยะเวลาแก้ไขเมืองและปรับให้เข้ากับข้อกำหนดใหม่\nในช่วงเวลานี้ ผู้อยู่อาศัยของคุณจะไม่ย้ายเข้าหรือออกไป และคุณจะไม่สามารถหาข้อมูล เทคโนโลยีใหม่ได้\n\nคลิกปุ่มนี้หากคุณพร้อมที่จะเล่นเกมต่อตามปกติ:",
 		"japanese": "このセーブファイルは旧バージョンで作成されています。\n\n都市を修正し、新しい需要に合わせて調整する時間があります。\nこの間、入植者は移動せず、新たな技術の研究もできません。\n\n通常通りゲームを進める準備ができたら、このボタンを押してください:",
 		"chinese": "你的存档数据是在旧版本的游戏中创建的。\n\n你有一些时间来修复你的城市，使其适应新的要求。\n在这段时间内，你的居民不会迁入或迁出，你也不能研究新技术。\n\n当你准备好继续游戏时，请单击此按钮：",
-		"turkish": "Kaydınız oyunun eski bir sürümünde oluşturuldu.\n\nŞehrinizi düzeltmek ve yeni gereksinimlere göre ayarlamak için biraz zamanınız olacak.\nBu süre zarfında sakinleriniz içeri girip çıkmayacak ve araştırma yapamazsınız. yeni teknolojiler.\n\nOyuna her zamanki gibi devam etmeye hazır olduğunuzda bu düğmeyi tıklayın:",
+		"turkish": "Kaydınız oyunun eski bir sürümünde oluşturuldu.\n\nŞehrinizi düzeltmek ve yeni gereksinimlere göre ayarlamak için biraz zamanınız olacak.\nBu süre zarfında sakinleriniz içeri girip çıkmayacak ve araştırma yapamazsınız. yeni teknolojiler.\n\nOyuna her zamanki gibi devam etmeye hazır olduğunuzda bu düğmeyi tıklayın:"
 	},
 	"gracePeriodButton": {
 		"english": "Continue Game",
@@ -4085,7 +4085,7 @@
 		"thai": "เล่นเกมต่อ",
 		"japanese": "ゲーム再開",
 		"turkish": "Oyuna Devam Et",
-		"chinese": "继续游戏",
+		"chinese": "继续游戏"
 	},
 	"color": {
 		"english": "Color",
@@ -4095,7 +4095,7 @@
 		"thai": "สี",
 		"japanese": "色",
 		"turkish": "Renk",
-		"chinese": "颜色",
+		"chinese": "颜色"
 	},
 	"noSpaceshipPartSelected": {
 		"english": "No Spaceship Part selected",
@@ -4113,7 +4113,7 @@
 		"turkish": "Öğretici",
 		"chinese": "教程",
 		"italian": "Tutorial",
-		"thai": "บทสอน",
+		"thai": "บทสอน"
 	},
 	"trafficFlowTitle": {
 		"english": "Traffic Flow",
@@ -4122,7 +4122,7 @@
 		"turkish": "Trafik Akışı",
 		"chinese": "最近使用",
 		"italian": "Flusso del Traffico",
-		"thai": "การไหลของจราจร",
+		"thai": "การไหลของจราจร"
 	},
 	"trafficFlowDesc": {
 		"english": "This value shows the flow of the traffic. The higher, the better!",
@@ -4131,7 +4131,7 @@
 		"turkish": "Bu trafiğin akışını gösterir, ne kadar yüksekse o kadar iyidir",
 		"chinese": "该值显示车辆流量，越高越好",
 		"italian": "Questo valore indica lo scorrimento del traffico. Più è alto, meglio è!",
-		"thai": "ค่านี้แสดงการไหลของจราจร ยิ่งสูงยิ่งดี!",
+		"thai": "ค่านี้แสดงการไหลของจราจร ยิ่งสูงยิ่งดี!"
 	},
 	"settingsNotice_title": {
 		"english": "Warning!",
@@ -4140,7 +4140,7 @@
 		"italian": "Attenzione!",
 		"turkish": "Uyarı!",
 		"chinese": "警告！",
-		"thai": "คำเตือน!",
+		"thai": "คำเตือน!"
 	},
 	"settingsNotice_desc": {
 		"english": "By changing these settings, Achievements will be permanently disabled for the entire game. Do you want to proceed?",
@@ -4149,7 +4149,7 @@
 		"italian": "Cambiando queste impostazioni, gli Achievements saranno disabilitati in modo permanente per l'intera partita. Vuoi procedere?",
 		"turkish": "Bu ayarları değiştirdiğinizde Başarılar oyunun tamamında kalıcı olarak devre dışı bırakılacaktır. Devam etmek istiyor musunuz?",
 		"chinese": "通过更改这些设置，整个游戏的成就将被永久禁用。还想继续吗？",
-		"thai": "หากเปลี่ยนการตั้งค่าเหล่านี้ ความสำเร็จทั้งหมดจะถูกปิดใช้งานอย่างถาวรตลอดทั้งเกม คุณต้องการดำเนินการต่อหรือไม่?",
+		"thai": "หากเปลี่ยนการตั้งค่าเหล่านี้ ความสำเร็จทั้งหมดจะถูกปิดใช้งานอย่างถาวรตลอดทั้งเกม คุณต้องการดำเนินการต่อหรือไม่?"
 	},
 	"revertSettings": {
 		"english": "Revert",
@@ -4158,7 +4158,7 @@
 		"italian": "Ripristina",
 		"turkish": "Geri al",
 		"chinese": "恢复",
-		"thai": "ย้อนกลับ",
+		"thai": "ย้อนกลับ"
 	},
 	"requiredResearch": {
 		"english": "Required Research:",
@@ -4167,7 +4167,7 @@
 		"thai": "การวิจัยที่จำเป็น:",
 		"chinese": "所需研究：",
 		"turkish": "Gerekli Araştırma:",
-		"italian": "Ricerca richiesta:",
+		"italian": "Ricerca richiesta:"
 	},
 	"roadRailSpeed": {
 		"english": "Speed:",
@@ -4176,7 +4176,7 @@
 		"thai": "ความเร็ว:",
 		"chinese": "速度：",
 		"turkish": "Hız:",
-		"italian": "Velocità:",
+		"italian": "Velocità:"
 	},
 	"inspectStatus": {
 		"english": "Inspect delivery status:",
@@ -4185,7 +4185,7 @@
 		"italian": "Ispeziona lo stato delle consegne:",
 		"thai": "ตรวจสอบสถานะการจัดส่ง:",
 		"turkish": "Teslimat durumunu inceleyin:",
-		"chinese": "检查交付状态：",
+		"chinese": "检查交付状态："
 	},
 	"colorsDescription": {
 		"english": "- Blue: selected building\n- Green: delivery in progress\n- Yellow: incoming storage full\n- Red: not reachable",
@@ -4193,16 +4193,16 @@
 		"french": "- Bleu : bâtiment sélectionné\n- Vert : livraison en cours\n- Jaune : stockage entrant plein\n- Rouge : non accessible",
 		"italian": "- Blu: edificio selezionato\n- Verde: consegna in corso\n- Giallo: magazzino in entrata vuoto\n- Rosso: non raggiungibile",
 		"thai": "สีน้ำเงิน: สิ่งก่อสร้างที่เลือก\n- สีเขียว: อยู่ระหว่างการจัดส่ง\n- สีเหลือง: พื้นที่เก็บข้อมูลขาเข้าเต็ม\n- แดง: ไม่สามารถเข้าถึงได้",
-		"chinese": "- 蓝色：选定的建筑物\n- 绿色：正在交付\n- 黄色：输入存储已满\n- 红色：无法访问",
+		"chinese": "- 蓝色：选定的建筑物\n- 绿色：正在交付\n- 黄色：输入存储已满\n- 红色：无法访问"
 	},
 	"productionBonusTooltipDesc": {
-		"english": "The %booster% has increased the production by %amount%",
-		"german": "%booster% hat die Produktion um %amount% erhöht",
-		"french": "Le %booster% a augmenté la production de %amount%",
-		"italian": "%booster% ha incrementato la produzione di %amount%",
-		"turkish": "%booster%, üretimi %amount% oranında artırdı",
-		"thai": "%booster% ได้เพิ่มการผลิตขึ้น %amount%",
-		"chinese": "%booster% 已将产量增加了 %amount%",
+		"english": "The %booster% has increased the production by %amount%\n",
+		"german": "%booster% hat die Produktion um %amount% erhöht\n",
+		"french": "Le %booster% a augmenté la production de %amount%\n",
+		"italian": "%booster% ha incrementato la produzione di %amount%\n",
+		"turkish": "%booster%, üretimi %amount% oranında artırdı\n",
+		"thai": "%booster% ได้เพิ่มการผลิตขึ้น %amount%\n",
+		"chinese": "%booster% 已将产量增加了 %amount%\n"
 	},
 	"trainStationDesc": {
 		"english": "Goods are stored here and shipped with the correct train line at the earliest opportunity.\n\nEach individual load can contain a maximum of 200, 400, or 600 resources depending on the selected traffic difficulty.",
@@ -4211,7 +4211,7 @@
 		"italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione.\n\nOgni singolo carico può contenere un massimo di 200, 400 o 600 risorse a seconda della difficoltà di gioco.",
 		"turkish": "Ürünler burada depolanır ve ilk fırsatta doğru tren hattıyla gönderilir.\n\nHer bir yük, seçilen trafik zorluğuna bağlı olarak maksimum 200, 400 veya 600 kaynak içerebilir.",
 		"thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจะจัดส่งด้วยเส้นทางรถไฟที่เหมาะสมโดยเร็วที่สุด\n\nการบรรทุกแต่ละครั้งสามารถมีทรัพยากรได้สูงสุด 200, 400 หรือ 600 รายการ ขึ้นอยู่กับความยากลำบากในการจราจรที่เลือก",
-		"chinese": "货物存储在这里，并尽早通过正确的列车线路运输。\n\n每个车厢的载货最多可包含200、400或600个资源，具体取决于所选的交通难度。",
+		"chinese": "货物存储在这里，并尽早通过正确的列车线路运输。\n\n每个车厢的载货最多可包含200、400或600个资源，具体取决于所选的交通难度。"
 	},
 	"powerPanelDesc": {
 		"english": "When the power produced is not enough for the buildings that use it, you will have slowed production.",
@@ -4220,7 +4220,7 @@
 		"italian": "Quando l’energia prodotta non è sufficiente per gli edifici che ne usufruiscono, avrai una produzione rallentata.",
 	    "chinese": "当生产的电力不足以满足建筑的使用需求时，就会导致生产放缓。",
 		"turkish": "Üretilen güç, onu kullanan binalara yetmediğinde üretimi yavaşlatmış olursunuz.",
-		"thai": "เมื่อพลังงานที่ผลิตได้นั้นไม่เพียงพอกับพลังงานที่สิ่งก่อสร้างต้องใช้ คุณจะผลิตได้ช้าลง",
+		"thai": "เมื่อพลังงานที่ผลิตได้นั้นไม่เพียงพอกับพลังงานที่สิ่งก่อสร้างต้องใช้ คุณจะผลิตได้ช้าลง"
 	},
 	"moreInformation": {
 		"english": "More information",
@@ -4229,7 +4229,7 @@
 		"italian": "Maggiori informazioni",
 		"turkish": "Daha fazla bilgi",
 		"thai": "ข้อมูลมากกว่านี้",
-	    "chinese": "更多信息",
+	    "chinese": "更多信息"
 	},
   "speedUnit": { // instead of "tile", you can also translate as "unit"
         "english": "tiles / minute",
@@ -4237,7 +4237,7 @@
         "italian": "Caselle / minuto",		
         "french": "tuiles / minute",
 	    "thai": "ไทลส์/นาที",
-	    "chinese": "格/分",
+	    "chinese": "格/分"
   },
   "pipetteTitle": {
         "english": "Building Pipette",
@@ -4245,7 +4245,7 @@
 	    "french": "Pipette de construction",
         "italian": "Contagocce per edifici",
 	    "thai": "สิ่งก่อสร้างปิเปตต์",
-	    "chinese": "建筑吸管",
+	    "chinese": "建筑吸管"
   },
   "pipetteDesc": {//TODO-german TODO-french TODO-thai TODO-chinese
         "english": "With the Pipette tool you can easily copy buildings.\nDefault hotkey: G",
@@ -4253,143 +4253,143 @@
 	    "french": "L'outil Pipette permet de copier facilement des bâtiments. Le raccourci clavier par défaut de l'outil est le bouton G.",
         "italian": "Con il contagocce puoi copiare facilmente gli edifici.\nTasto di scelta rapida di default: \"G\"",
 	    "thai": "ด้วยเครื่องมือปิเปตต์ คุณสามารถคัดลอกสิ่งก่อสร้างได้อย่างง่ายดาย ปุ่มลัดเริ่มต้นสำหรับเครื่องมือคือปุ่ม G",
-	    "chinese": "使用吸管工具，你可以轻松复制建筑物。该工具的默认热键是 G 键。",
+	    "chinese": "使用吸管工具，你可以轻松复制建筑物。该工具的默认热键是 G 键。"
   },
   "singleLoadTooltipDesc": {
         "english": "Maximum capacity for each individual train or gondola. Depends on the difficulty of the game.",
 	    "french": "Capacité maximale de chaque train ou télécabine. Dépend de la difficulté du jeu.",
 	    "italian": "Capacità massima per ogni singolo treno o gondola. Dipende dalla difficoltà di gioco.",
 	    "thai": "ความจุสูงสุดของรถไฟหรือกระเช้าลอยฟ้าแต่ละขบวน ขึ้นอยู่กับความยากของเกม",
-	    "chinese": "每列列车或缆车的最大载货量。取决于游戏的难度。",
+	    "chinese": "每列列车或缆车的最大载货量。取决于游戏的难度。"
   },
   "currentResearch": {
         "english": "Current Research:",
 	    "french": "Recherche actuelle :",
 	    "thai": "การวิจัยปัจจุบัน",
 	    "italian": "Ricerca attuale:",
-	    "chinese": "当前研究：",
+	    "chinese": "当前研究："
   },
   "unlocks": {
         "english": "Unlocks:",
         "french": "Débloque :",
         "thai": "ปลดล็อค",
 	    "italian": "Sblocca:",
-	    "chinese": "已解锁：",
+	    "chinese": "已解锁："
   },
   "resourceToCollect": {
 	    "english": "Resource to collect",
 	    "italian": "Risorsa da raccogliere",
-	    "chinese": "收集资源",
+	    "chinese": "收集资源"
   },
   "collectionRadius": {
 	    "english": "Collection radius",
 	    "italian": "Area di raccolta",
-	    "chinese": "收集半径",
+	    "chinese": "收集半径"
   },
   "connectedSuppliers": {
 	    "english": "Connected suppliers",
 	    "italian": "Fornitori connessi",
-	    "chinese": "互联供应方",
+	    "chinese": "互联供应方"
   },
   "maxStorage": {
 	    "english": "Max storage",
 	    "italian": "Capienza magazzino",
-	    "chinese": "最大存储空间",
+	    "chinese": "最大存储空间"
   },
   "connectedDistributionCenters": {
 	    "english": "Connected distribution centers",
 	    "italian": "Centri di distribuzione connessi",
-	    "chinese": "互联配送中心",
+	    "chinese": "互联配送中心"
   },
   "resourceToDistribute": {
 	    "english": "Resource to distribute",
 	    "italian": "Risorsa da distribuire",
-	    "chinese": "资源分配",
+	    "chinese": "资源分配"
   },
   "distributionRadius": {
 	    "english": "Distribution radius",
 	    "italian": "Area di distribuzione",
-	    "chinese": "分配半径",
+	    "chinese": "分配半径"
   },
   "connectedConsumers": {
         "english": "Connected consumers",
         "italian": "Consumatori connessi",
-	    "chinese": "互联消耗方",
+	    "chinese": "互联消耗方"
   },
   "connectedCollectionCenters": {
 	    "english": "Connected collection centers",
 	    "italian": "Centri di raccolta connessi",
-	    "chinese": "互联收集中心",
+	    "chinese": "互联收集中心"
   },
   "noAccessToPipe": {
     "english": "No access to pipe",
 	"chinese": "无法访问管道",
-	"italian": "Nessun accesso alle tubazioni",
+	"italian": "Nessun accesso alle tubazioni"
   },
   "demolishTitle": {
     "english": "Demolish",
-	"italian": "Demolisci",
+	"italian": "Demolisci"
   },
   "demolishDesc": {
     "english": "With the demolition of a building you recover half of the original cost.\nDefault hotkey: Delete",
-	"italian": "Con la demolizione di un edificio recuperi metà del costo originale.\nTasto di scelta rapida di default: \"Canc\"",
+	"italian": "Con la demolizione di un edificio recuperi metà del costo originale.\nTasto di scelta rapida di default: \"Canc\""
   },
   "moveTitle": {
     "english": "Move",
-	"italian": "Sposta",
+	"italian": "Sposta"
   },
   "moveDesc": {
     "english": "The cost of moving a building depends on its original cost and the distance to which it is moved.\nDefault hotkey: M",
-	"italian": "Il costo per spostare un edificio dipende dal suo costo originale e dalla distanza a cui lo si sposta.\nTasto di scelta rapida di default: \"M\"",
+	"italian": "Il costo per spostare un edificio dipende dal suo costo originale e dalla distanza a cui lo si sposta.\nTasto di scelta rapida di default: \"M\""
   },
   "pauseTitle": {
     "english": "Pause",
-	"italian": "Pausa",
+	"italian": "Pausa"
   },
   "pauseDesc": {
     "english": "Default hotkey: Spacebar",
-	"italian": "Tasto di scelta rapida di default: \"Spazio\"",
+	"italian": "Tasto di scelta rapida di default: \"Spazio\""
   },
   "speed1Title": {
     "english": "Speed x1",
-	"italian": "Velocità x1",
+	"italian": "Velocità x1"
   },
   "speed1Desc": {
     "english": "Default hotkey: 1",
-	"italian": "Tasto di scelta rapida di default: \"1\"",
+	"italian": "Tasto di scelta rapida di default: \"1\""
   },
   "speed2Title": {
     "english": "Speed x2",
-	"italian": "Velocità x2",
+	"italian": "Velocità x2"
   },
   "speed2Desc": {
     "english": "Default hotkey: 2",
-	"italian": "Tasto di scelta rapida di default: \"2\"",
+	"italian": "Tasto di scelta rapida di default: \"2\""
   },
   "menuTitle": {
     "english": "Menu",
-	"italian": "Menù",
+	"italian": "Menù"
   },
   "menuDesc": {
     "english": "Default hotkey: Esc",
-	"italian": "Tasto di scelta rapida di default: \"Esc\"",
+	"italian": "Tasto di scelta rapida di default: \"Esc\""
   },
   "rename": {
     "english": "Rename",
-	"italian": "Rinomina",
+	"italian": "Rinomina"
   },
   "copy": {
     "english": "Copy",
-	"italian": "Copia",
+	"italian": "Copia"
   },
   "powerRequiredTooltip": {
     "english": "Power required",
-	  "italian": "Energia richiesta",
+	  "italian": "Energia richiesta"
   },
   "depthOfField": {
-    "english": "Blur",
+    "english": "Blur"
   },
   "credits": {
-    "english": "Credits",
+    "english": "Credits"
   }
 }
