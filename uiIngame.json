@@ -4391,5 +4391,14 @@
   },
   "credits": {
     "english": "Credits"
+  },
+  "boostedByUpgrade": {
+    "english": "Boosted by %upgrade%:"
+  }, 
+  "increased": {
+    "english": "increased by ",
+  },
+  "decreased": {
+    "english": "decreased by ",
   }
 }
