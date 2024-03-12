@@ -4396,9 +4396,9 @@
     "english": "Boosted by %upgrade%:"
   }, 
   "increased": {
-    "english": "increased by ",
+    "english": "increased by %amount%",
   },
   "decreased": {
-    "english": "decreased by ",
+    "english": "decreased by %amount%",
   }
 }
