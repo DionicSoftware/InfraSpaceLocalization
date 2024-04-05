@@ -1462,7 +1462,7 @@
   },
   "deliveryMethod": {
     "english": "Delivery Method",
-    "german": "Anlieferung",
+    "german": "Transport",
     "japanese": "輸送方法",
     "russian": "Способ доставки",
     "spanishesp": "Método de entrega"
@@ -1476,7 +1476,7 @@
   },
   "deliveryMethod_Collection": {
     "english": "Resources are being delivered to a collection center",
-    "german": "Die Ressource werden an ein Sammelzentrum geliefert",
+    "german": "Die Ressource wird an ein Sammelzentrum geliefert",
     "japanese": "資源を収集センターに輸送中",
     "russian": "Ресурсы доставляются в центр сбора",
     "spanishesp": "Los recursos se entregan en un centro de recogida."
@@ -4438,6 +4438,14 @@
     "russian": "Стоимость перемещения здания зависит от его первоначальной стоимости и расстояния, на которое оно будет перемещено.\nГорячая клавиша по умолчанию: M",
     "spanishesp": "El coste de mover un edificio depende de su coste original y de la distancia a la que se mueva.\nTecla de acceso directo predeterminada: M"
   },
+  "clearTraffic_Title": {
+    "english": "Clear Traffic",
+    "german": "Verkehr löschen",
+  },
+  "clearTraffic_Desc": {
+    "english": "You can manually delete cars to clear traffic jams. If the jam keeps reappearing, you should change your road layout. Check the encyclopedia for tips!",
+    "german": "Du kannst per Hand Autos löschen um Staus aufzulösen. Wenn Staus wieder kommen, solltest du dein Straßenlayout ändern. Schau in die Enzyklopädie, um Tipps zu finden!",
+  },
   "pauseTitle": {
     "english": "Pause",
     "german": "Pause",
@@ -4525,5 +4533,9 @@
     "japanese": "必須電力",
     "russian": "Требуется энергия",
     "spanishesp": "Energía necesaria"
+  },
+  "scale": { // production overview
+    "english": "Worker Priority",
+    "german": "Arbeiterpriorität"
   }
 }
