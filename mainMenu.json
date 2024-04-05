@@ -4894,5 +4894,13 @@
     "japanese": "統合型グラフィックカードを使用している可能性があります！より良いパフォーマンスを得るには専用グラフィックカードに切り替えてください。",
     "russian": "Возможно, вы используете интегрированную видеокарту! Для повышения производительности переключитесь на выделенную видеокарту.",
     "spanishesp": "¡Puede que estés utilizando una tarjeta gráfica integrada! Cambia a tu tarjeta gráfica dedicada para obtener un mejor rendimiento."
-  }
+  },
+  "credits": {
+    "english": "Credits",
+    "german": "Credits",
+    "italian": "Crediti",
+    "japanese": "クレジット",
+    "russian": "Кредиты",
+    "spanishesp": "Créditos"
+  },
 }

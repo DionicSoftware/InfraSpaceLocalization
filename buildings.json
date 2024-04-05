@@ -3274,6 +3274,7 @@
   },
   "trainstation_1R_descAdditional": {
     "english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+    "german": "Güter werden hier gelagert und bei der ersten Möglichkeit weitertransportiert. Unlimitierte Lagerkapazität.",
     "thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
     "italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
     "chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
@@ -3318,6 +3319,7 @@
   },
   "trainstation_2R_descAdditional": {
     "english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+    "german": "Güter werden hier gelagert und bei der ersten Möglichkeit weitertransportiert. Unlimitierte Lagerkapazität.",
     "thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
     "italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
     "chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
@@ -3362,6 +3364,7 @@
   },
   "trainstation_4R_descAdditional": {
     "english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+    "german": "Güter werden hier gelagert und bei der ersten Möglichkeit weitertransportiert. Unlimitierte Lagerkapazität.",
     "thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
     "italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
     "chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
@@ -3406,6 +3409,7 @@
   },
   "trainstation_6R_descAdditional": {
     "english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+    "german": "Güter werden hier gelagert und bei der ersten Möglichkeit weitertransportiert. Unlimitierte Lagerkapazität.",
     "thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
     "italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
     "chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
@@ -3450,6 +3454,7 @@
   },
   "trainstation_8R_descAdditional": {
     "english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+    "german": "Güter werden hier gelagert und bei der ersten Möglichkeit weitertransportiert. Unlimitierte Lagerkapazität.",
     "thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
     "italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
     "chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
@@ -3487,6 +3492,7 @@
   },
   "gondolaStation_descAdditional": {
     "english": "Goods are stored here and shipped at the earliest opportunity. Unlimited storage capacity.",
+    "german": "Güter werden hier gelagert und bei der ersten Möglichkeit weitertransportiert. Unlimitierte Lagerkapazität.",
     "thai": "สินค้าจะถูกจัดเก็บไว้ที่นี่และจัดส่งโดยเร็วที่สุด ความจุไม่จำกัด",
     "italian": "Le merci vengono immagazzinate qui e spedite alla prima occasione. Capienza di immagazzinamento illimitata.",
     "chinese": "货物存储在这里并尽早发货。无上限的存储容量。",
@@ -4567,7 +4573,7 @@
   "upgradePack1Factory": {
     "english": "Blue Upgrade Pack Factory",
     "italian": "Fabbrica di Moduli di Miglioramento Blu",
-    "german": "Blaue Aufwärtungspacketfabrik",
+    "german": "Blaue Aufwertungspaketfabrik",
     "japanese": "ブルーアップグレードパック生産工場",
     "russian": "Завод синих пакетов улучшений",
     "ukrainian": "Фабрика синіх пакетів покращення",
@@ -4585,7 +4591,7 @@
   "upgradePack2Factory": {
     "english": "Green Upgrade Pack Factory",
     "italian": "Fabbrica di Moduli di Miglioramento Verdi",
-    "german": "Grüne Aufwärtungspacketfabrik",
+    "german": "Grüne Aufwertungspaketfabrik",
     "japanese": "グリーンアップグレードパック生産工場",
     "russian": "Завод зеленых пакетов улучшений",
     "ukrainian": "Фабрика зелених пакетів покращення",
@@ -4603,7 +4609,7 @@
   "upgradePack3Factory": {
     "english": "Yellow Upgrade Pack Factory",
     "italian": "Fabbrica di Moduli di Miglioramento Gialli",
-    "german": "Gelbe Aufwärtungspacketfabrik",
+    "german": "Gelbe Aufwertungspaketfabrik",
     "japanese": "イエローアップグレードパック生産工場",
     "russian": "Завод желтых пакетов улучшений",
     "ukrainian": "Фабрика жовтих пакетів покращення",
@@ -4621,7 +4627,7 @@
   "upgradePack4Factory": {
     "english": "Red Upgrade Pack Factory",
     "italian": "Fabbrica di Moduli di Miglioramento Rossi",
-    "german": "Rote Aufwärtungspacketfabrik",
+    "german": "Rote Aufwertungspaketfabrik",
     "japanese": "レッドアップグレードパック生産工場",
     "russian": "Завод красных пакетов улучшений",
     "ukrainian": "Фабрика червоних пакетів покращення",
@@ -4746,6 +4752,7 @@
   },
   "commercialSignExo": {
     "english": "Exo Labs Commercial Sign",
+    "german": "Werbeschild für Exo Labs",
     "italian": "Cartellone Pubblicitario di Exo Labs",
     "japanese": "EXO研究所の看板",
     "russian": "Коммерческий знак Exo Labs",
@@ -4753,7 +4760,8 @@
     "spanishesp": "Cartel comercial de Exo Labs"
   },
   "commercialSignExo_desc": {
-    "english": "Exo Labs laboratories proudly carries out scientific research here on Neper-3, and boasts among its employees the best minds in the city.",
+    "english": "Exo Labs proudly carries out scientific research here on Neper-3, and boasts among its employees the best minds in the city.",
+    "german": "Exo Labs ist stolz auf ihre Forschungen auf Neper-3 und zu ihren Mitarbeitern gehören die klügsten Köpfe der Stadt.",
     "italian": "I laboratori Exo Labs portano avanti la ricerca scientifica con orgoglio qui su Neper-3, e vantano tra i loro dipendenti le migliori menti della città.",
     "japanese": "街で最高の頭脳を持つ科学者が集い、Neper-3の科学研究を行っているエクソ研究所。",
     "russian": "Лаборатории Exo Labs с гордостью проводят научные исследования на Neper-3 и могут похвастаться тем, что в числе их сотрудников — лучшие умы города.",
@@ -4762,6 +4770,7 @@
   },
   "commercialSignFuture": {
     "english": "Future is Tomorrow Commercial Sign",
+    "german": "Werbeschild für Future is Tomorrow",
     "italian": "Cartellone Pubblicitario di Future is Tomorrow",
     "japanese": "「Future is Tomorrow」の看板",
     "russian": "Коммерческий знак Future is Tomorrow",
@@ -4770,6 +4779,7 @@
   },
   "commercialSignFuture_desc": {
     "english": "The Future is Tomorrow industries are involved in the production of nutritionally excellent food: from growing meat in the laboratory, to processing and packaging, all the way to the consumer's table.",
+    "german": "Der \"Future is Tomorrow\"-Konzern produziert Lebensmittel mit exzellenten Nährwerten: Von Fleisch aus dem Labor, über die Weiterverarbeitung und Verpackung bis zum Endverbraucher.",
     "italian": "Le industrie di Future is Tomorrow sono coinvolte nella produzione di alimenti eccellenti dal punto di vista nutrizionale: dalla coltivazione della carne in laboratorio, alla lavorazione e al confezionamento, fino alle tavole dei consumatori.",
     "japanese": "「Future is Tomorrow」は、栄養価の高い食料を生産するために、あらゆる産業を駆使し、研究室での食肉栽培から加工、包装まで行い、消費者の食卓に届けている。",
     "russian": "Компания Future is Tomorrow занимается производством еды с высокими питательными свойствами. Под ее контролем все этапы: от выращивания мяса в лаборатории, переработки и упаковки до попадания на стол потребителя.",
@@ -4777,23 +4787,26 @@
     "spanishesp": "Las industrias Future is Tomorrow participan en la producción de excelentes alimentos nutritivos: desde la creación de la carne en el laboratorio hasta llegar a la mesa del consumidor, pasando por su procesamiento y envasado."
   },
   "commercialSignGreenLeaf": {
-    "english": "LeafGreen Commercial Sign",
-    "italian": "Cartellone Pubblicitario di LeafGreen",
-    "japanese": "「LeafGreen」の看板",
-    "russian": "Коммерческий знак LeafGreen",
-    "ukrainian": "Фірмовий знак \"GreenLeaf\"",
-    "spanishesp": "Cartel comercial de LeafGreen"
+    "english": "leafGreen Commercial Sign",
+    "german": "Werbeschild für leafGreen",
+    "italian": "Cartellone Pubblicitario di leafGreen",
+    "japanese": "「leafGreen」の看板",
+    "russian": "Коммерческий знак leafGreen",
+    "ukrainian": "Фірмовий знак \"leafGreen\"",
+    "spanishesp": "Cartel comercial de leafGreen"
   },
   "commercialSignGreenLeaf_desc": {
-    "english": "GreenLeaf is a leading company in the agricultural sector. Their farms produce high quality vegetables in all soil conditions, using the latest technology in the industry.",
-    "italian": "GreenLeaf è un'azienda leader nel settore agricolo. Le sue aziende agricole producono ortaggi di alta qualità in tutte le condizioni del terreno, utilizzando le più recenti tecnologie del settore.",
+    "english": "leafGreen is a leading company in the agricultural sector. Their farms produce high quality vegetables in all soil conditions, using the latest technology in the industry.",
+    "german": "leafGreen is ein führendes Unternehmen in der Agrarwirtschaft. Ihre Farmen produzieren hochwertiges Gemüse in allen Bodenumgebungen.",
+    "italian": "leafGreen è un'azienda leader nel settore agricolo. Le sue aziende agricole producono ortaggi di alta qualità in tutte le condizioni del terreno, utilizzando le più recenti tecnologie del settore.",
     "japanese": "農業分野の第一線を走るLeafGreen社。。同社の農場では、業界の最新技術を駆使し、あらゆる土壌条件下で高品質の野菜が生産されている。",
-    "russian": "LeafGreen — ведущая компания сельскохозяйственного сектора. На их фермах выращивают высококачественные овощи на любых почвах — благодаря применению новейших технологий.",
-    "ukrainian": "\"GreenLeaf\" - це компанія-лідер у тутешньому агрокультурному секторі. Їхні ферми вирощують високоякісні овочі у будь-яких умовах, завдяки використанню останніх наукових досягнень.",
-    "spanishesp": "LeafGreen es una empresa líder en el sector agrícola. Sus granjas producen verduras de alta calidad en todas las condiciones de suelo, empleando la tecnología más avanzada de la industria."
+    "russian": "leafGreen — ведущая компания сельскохозяйственного сектора. На их фермах выращивают высококачественные овощи на любых почвах — благодаря применению новейших технологий.",
+    "ukrainian": "\"leafGreen\" - це компанія-лідер у тутешньому агрокультурному секторі. Їхні ферми вирощують високоякісні овочі у будь-яких умовах, завдяки використанню останніх наукових досягнень.",
+    "spanishesp": "leafGreen es una empresa líder en el sector agrícola. Sus granjas producen verduras de alta calidad en todas las condiciones de suelo, empleando la tecnología más avanzada de la industria."
   },
   "commercialSignSolaris": {
     "english": "Solaris Commercial Sign",
+    "german": "Werbeschild für Solaris",
     "italian": "Cartellone Pubblicitario di Solaris",
     "japanese": "「Solaris」の看板",
     "russian": "Коммерческий знак Solaris",
@@ -4802,6 +4815,7 @@
   },
   "commercialSignSolaris_desc": {
     "english": "Solaris deals with sustainable energy production. Thanks to the light rays from Neper-3's mother star, it supports numerous industries with solar energy... or more precisely, stellar energy!",
+    "german": "Solaris steht für erneuerbare Energieproduktion. Dank den starken Strahlung von Neper-3's Stern, kann es mehrere Industrien mit Solarenergie versorgen... oder genauer: Stellarenergie!",
     "italian": "Solaris si occupa della produzione di energia sostenibile. Grazie ai raggi luminosi dalla stella madre di Neper-3, sostiene numerosissime industrie con l'energia solare... o meglio, stellare!",
     "japanese": "サステナブルなエネルギー生産を行うSolaris社。Neper-3の母星からの光線のおかげで、恒星エネルギー（地球でいう太陽エネルギー）で数多くの産業を支えている！",
     "russian": "Solaris занимается устойчивой выработкой энергии. Благодаря излучению материнской звезды Neper-3, компания поддерживает многочисленные отрасли промышленности с помощью солнечной энергии... или, если точнее, звездной энергии!",
@@ -4810,6 +4824,7 @@
   },
   "commercialSignVav": {
     "english": "VAV Technologies Commercial Sign",
+    "german": "Werbeschild für VAV Technologies",
     "italian": "Cartellone Pubblicitario di VAV Technologies",
     "japanese": "「VAV Technologies」の看板",
     "russian": "Коммерческий знак VAV Technologies",
@@ -4817,7 +4832,8 @@
     "spanishesp": "Cartel comercial de VAV Technologies"
   },
   "commercialSignVav_desc": {
-    "english": "VAV technologies is a key company for the development of the city. From basic habitats, to the production of survival food, mines, and numerous other basic buildings, it helps to make an alien planet welcoming.",
+    "english": "VAV Technologies is a key company for the development of the city. From basic habitats, to the production of survival food, mines, and numerous other basic buildings, it helps to make an alien planet welcoming.",
+    "german": "VAV Technologies ist ein wichtiges Unternehmen für die Entwicklung der Stadt. Von einfachen Habitats zur Produktion von Essen, Minen und vielen anderen grundlegenden Gebäuden, hilft das Unternhemen dabei, das Leben auf außerirdischen Planeten etwas angenehmer zu machen.",
     "italian": "VAV Technologies è un'azienda fondamentale per lo sviluppo della città. Dagli habitat di base, alla produzione di cibo per la sopravvivenza, alle miniere e a numerosi altri edifici di base, contribuisce a rendere accogliente un pianeta alieno.",
     "japanese": "都市開発の鍵を握るVAV Technologies。基本的な居住地から、非常食の生産、採掘機、その他数多くの基本的な建物に至るまで、惑星に人を受け入れる態勢を整えている。",
     "russian": "VAV Technologies — ключевая компания, вовлеченная в развитие города. Начиная с базовых сред обитания и заканчивая производством еды для выживания, шахт и множества других базовых зданий, она помогает сделать чужую планету пригодной для жизни.",

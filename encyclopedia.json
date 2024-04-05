@@ -346,6 +346,7 @@
   },
   "pipesSecondTutorialParagraph": {
     "english": "You can check the status of a pipe network by clicking on it in the \"Pipes\" view, or clicking on a tank connected to it. By consulting the pipe network panel, you can see how many resources are produced or consumed per minute. The bar at the bottom indicates how many resources are stored in the tanks and the available capacity.",
+    "german": "Du kannst den Status eines Rohrnetzes einsehen, indem du es entweder in der Übersicht \"Rohre\" anklickst, oder indem du einen verbundenen Tank anklickst. In der Rohrnetzübersicht kannst du sehen, wie viele Ressourcen pro Minute produziert oder konsumiert werden. Die untere Leiste zeigt den aktuellen Füllstand und die maximale Kapazität der Tanks an.",
     "thai": "คุณสามารถตรวจสอบสถานะของเครือข่ายท่อได้โดยการคลิกที่เครือข่ายนั้นในมุมมอง \"ท่อ\" หรือคลิกที่แทงค์ที่เชื่อมต่ออยู่ โดยดูคำแนะนำจากแผงเครือข่ายท่อ คุณจะสามารถดูจำนวนทรัพยากรที่ผลิตหรือใช้ต่อนาที แถบด้านล่างระบุจำนวนทรัพยากรที่เก็บอยู่ในถังและความจุที่มีอยู่",
     "italian": "Puoi controllare lo status di una rete idraulica cliccandoci sopra nella visualizzazione \"tubazioni\", oppure cliccando su un serbatoio a essa collegata. Consultando il pannello della rete idraulica, puoi vedere quante risorse vengono prodotte o consumate al minuto. La barra in basso indica quante risorse sono stoccate nei serbatoi e la capienza disponibile.",
     "chinese": "你可以通过在\"管道\"视图中点击管网或点击与其连接的储罐来检查管网的状态。通过查看管网面板，你可以看到每分钟生产或消耗了多少资源。底部的条形指示储罐中存储了多少资源以及可用容量。",
@@ -468,7 +469,8 @@
     "spanishesp": "Puedes comprobar la tasa de inmigración haciendo clic en el puerto espacial. Para aumentar la tasa de inmigración, ¡mejora tus hábitats cumpliendo sus requisitos!\n\nAtención: construir varios puertos espaciales no aumenta la tasa de inmigración. Sin embargo, puedes emplear la estrategia de colocarlos en distintos puntos del mapa para distribuir el tráfico hacia los hábitats."
   },
   "immigrationSecondTutorialParagraph": {
-    "english": "Habitats continue to demand new immigrants until they are full. To get more workers, improve them or build more!\n\nTo improve a habitat, one must ensure a supply that meets basic needs and additional needs. For example, to improve basic habitat, you need to ensure oxygen, but also water and survival food.\n\nIf even the basic requirements are not met, the habitat will deteriorate. This results in the loss of workers in case the habitat used to accommodate more than it can accommodate now.",
+    "english": "Habitats continue to demand new immigrants until they are full. To get more workers, improve them or build more!\n\nTo improve a habitat, one must ensure a supply that meets basic needs and additional needs. For example, to improve basic habitat, you need to ensure oxygen supply, but also water and survival food.\n\nIf even the basic requirements are not met, the habitat will deteriorate. This results in the loss of workers in case the habitat used to accommodate more than it can accommodate now.",
+    "german": "Habitats fordern neue Einwanderer an, bis sie voll sind. Um mehr Arbeiter zu bekommen, musst du die Habitats verbessern oder mehr bauen.\n\nUm eine Habitat zu verbessern, mussst du sowohl die grundlegenden als auch die zusätzlichen Bedürfnisse erfüllen. Zum Beispiel musst du zum Ausbauen eines einfachen Habitats nicht nur Sauerstoff, sondern auch Wasser und einfache Mahlzeiten bereitstellen.\n\nWenn nicht mal die grundlegenden Bedürfnisse erfüllt sind, wird das Habitat absteigen. Dadurch können in dem Habitat weniger Arbeiter wohnen und deine Stadt verliert Einwohner.",
     "thai": "ที่อยู่อาศัยยังคงเรียกร้องผู้อพยพใหม่จนกว่าจะเต็ม หากต้องการรับคนงานเพิ่มขึ้น ปรับปรุงหรือสร้างเพิ่มมากขึ้น!\n\nเพื่อปรับปรุงแหล่งที่อยู่อาศัย เราจะต้องแน่ใจว่ามีอุปทานที่ตรงกับความต้องการขั้นพื้นฐานและความต้องการเพิ่มเติม ตัวอย่างเช่น ในการปรับปรุงแหล่งที่อยู่อาศัยขั้นพื้นฐาน คุณต้องแน่ใจว่ามีออกซิเจน รวมถึงน้ำและอาหารเพื่อการยังชีพ\n\nหากไม่เป็นไปตามข้อกำหนดขั้นพื้นฐาน แหล่งที่อยู่อาศัยก็จะเสื่อมโทรมลง ส่งผลให้ต้องสูญเสียคนงานไปในกรณีที่ถิ่นที่อยู่อาศัยเคยรองรับได้มากกว่าที่จะสามารถรองรับได้ในปัจจุบัน",
     "italian": "Gli habitat continuano a richiedere nuovi immigrati finché non saranno pieni. Per avere più lavoratori, migliorali o costruiscine di più!\n\nPer migliorare un habitat, bisogna garantire una fornitura che soddisfi i bisogni di base e i bisogni aggiuntivi. Per esempio, per migliorare l'habitat di base, bisognerà garantire ossigeno, ma anche acqua e cibo di sopravvivenza.\n\nSe i nemmeno i requisiti di base sono soddisfatti, l'habitat peggiorerà. Questo comporta la perdita di lavoratori nel caso che l'habitat ne ospitava di più di quanti può accoglierne adesso.",
     "chinese": "居住地不断需要新移民，直到满为止。为了获得更多工人，升级它们或建造更多！\n\n为了改善居住地，必须确保供应满足基本需求和额外需求。 例如，升级基本居住地，需要保证氧气，还需要水和生存食物。\n\n如果连基本要求都满足不了，居住地就会恶化。 如果居住地过去的容纳量超过了现在的容纳量，就会导致工人的流失。",
@@ -773,6 +775,7 @@
   },
   "terraformingTutorialTitle": {
     "english": "Terraforming",
+    "german": "Terraformen",
     "thai": "การสร้างพื้นผิว",
     "italian": "Terraformazione",
     "chinese": "环境改造",
@@ -782,7 +785,8 @@
     "spanishesp": "Terraformación"
   },
   "terraformingFirstTutorialParagraph": {
-    "english": "Terraforming requires special buildings with a range of action. You can find them in the \"Terraforming\" category. Each of them partially terraforms the ground. To make an area fully terraformed, you need the action of four of them at the same time. \n\nBy clicking on the \"Terraforming Progress\" panel, you can see the contribution of each type of building, and what the total terraforming progress is.",
+    "english": "Terraforming requires special buildings with a range of effect. You can find them in the \"Terraforming\" category. Each of them partially terraforms the area. To make an area fully terraformed, you need the effects of four of them at the same time. \n\nBy clicking on the \"Terraforming Progress\" panel, you can see the contribution of each type of building, and what the total terraforming progress is.",
+    "german": "Zum Terraformen benötigst du spezielle Gebäude, die einen Radius um sie herum beeinflussen. Du kannst sie in der \"Terraforming\"-Kategorie finden. Jedes Gebäude terraformt einen Bereich nur teilweise. Um ein Gebiet vollständig zu terraformen, musst du mindestens 4 verschiedene Aspekte gleichzeitig erfüllen.\n\nIm Fenster \"Terraforming\" kannst du den Beitrag jedes Gebäudetyps und den Gesamtfortschritt einsehen.",
     "thai": "การสร้างพื้นผิวต้องใช้สิ่งปลูกสร้างพิเศษซึ่งมีระยะการทำงานที่หลากหลาย คุณสามารถค้นหาได้ในหมวดหมู่ \"การสร้างพื้นผิว\" แต่ละส่วนปรับสภาพพื้นดินบางส่วน หากต้องการสร้างพื้นที่ที่มีพื้นผิวทั้งหมด คุณต้องดำเนินการสี่ส่วนพร้อมกัน \n\nเมื่อคลิกที่แผง \"ความคืบหน้าของการสร้างพื้นผิว\" คุณจะเห็นการมีส่วนร่วมของสิ่งปลูกสร้างแต่ละประเภท และความคืบหน้าของการสร้างพื้นผิวทั้งหมด",
     "italian": "La terraformazione richiede degli edifici speciali con un raggio d'azione. Li puoi trovare nella categoria \"Terraformazione\". Ognuno di essi terraforma parzialmente il suolo. Per rendere un area completamente terraformata, serve l'azione di quattro di essi contemporaneamente. \n\nCliccando sul pannello \"Progresso di terraformazione\", puoi consultare il contributo di ogni tipo di edificio, e qual è il progresso totale di terraformazione.",
     "chinese": "环境改造需要具有一系列作用的特殊建筑物。你可以在\"环境改造\"分类中找到它们。它们每个都部分地改造了环境。要使一个区域完全适合生存，你需要其中四个建筑同时运作。\n\n通过点击\"环境改造进度\"面板，你可以看到每种建筑的贡献，以及环境改造的总进度。",
@@ -793,6 +797,7 @@
   },
   "factoryUpgradesTutorialTitle": {
     "english": "Factory upgrades",
+    "german": "Fabrikupgrades",
     "italian": "Miglioramenti delle industrie",
     "chinese": "工厂升级",
     "japanese": "工場のアップグレード",
@@ -800,7 +805,8 @@
     "spanishesp": "Mejoras de fábrica"
   },
   "factoryUpgradesFirstTutorialParagraph": {
-    "english": "Most industries and power plants can be improved. You can see the upgrade status of each building in the respective information panel.\n\nBuildings that enable these improvements are: Recycling Center, Soil Enrichment Station, Industrial Robot Factory, and High-Tech Tools Factory.",
+    "english": "Most industries and power plants can be improved. You can see the upgrade status of each building in the respective information panel.\n\nBuildings that enable these improvements are: Recycling Center, Soil Enrichment Facility, Industrial Robot Factory, and High-Tech Tools Factory.",
+    "german": "Die meisten Fabriken und Kraftwerke können verbessert werden. Du kannst den Upgrade-Status jedes Gebäudes im Info-Fenster sehen.\n\nFolgende Gebäude schalten diese Upgrades frei: Recycling Center, Erdanreicherungsanlage, Industrieroboterfabrik und High Tech Werkstatt.",
     "italian": "La maggior parte delle industrie e delle centrali elettriche possono essere migliorate. È possibile vedere lo stato dei potenziamenti per ogni edificio nel rispettivo pannello informativo.\n\nGli edifici che permettono questi miglioramenti sono: Centro di riciclaggio, stazione di Arricchimento del suolo, fabbrica di Robot industriali e fabbrica di Strumenti ad alta tecnologia.",
     "chinese": "大多数工厂和发电厂都可以得到升级。你可以在各自的信息面板中查看每个建筑物的升级状态。\n\n可以升级的建筑物有：回收中心、土壤富集站、工业机器人工厂和高科技工具工厂。",
     "japanese": "多くの工業施設や発電所はアップグレードが可能です各建物のアップグレードの進捗はそれぞれの情報パネルで確認できます。\n\nアップグレードを可能にする建物：リサイクルセンター、土壌改良施設、工業用ロボット生産工場、ハイテクツール工場。",
@@ -809,6 +815,7 @@
   },
   "factoryUpgradesFirstTutorialHeading": {
     "english": "Recycling Center and Soil Enrichment Plant",
+    "german": "Recycling Center und Erdanreicherungsanlage",
     "italian": "Centro di riciclaggio e impianto di arricchimento del suolo",
     "chinese": "回收中心和土壤富集设施",
     "japanese": "リサイクルセンターと土壌改良施設",
@@ -817,6 +824,7 @@
   },
   "factoryUpgradesSecondTutorialParagraph": {
     "english": "These upgrades are area-generated from the corresponding buildings:\n\n- The recycling center enables resource-free production once in every five production cycles.\n\n- The soil enrichment plant increases the production rate of surrounding farms by 50 percent.\n\nPlace them near the desired industries and they will continuously increase productivity!",
+    "german": "Diese Upgrades werden im Umkreis der passenden Gebäude verliehen:\n\n- Der Recycling Center verwertet Eingehende Ressourcen wieder um alle fünf Produktionszkylen eine kostenlose Extraproduktion zu ermöglichen.\n\n- Die Erdanreicherungsanlage erhöht die Produktionsgeschwindigkeit von umliegenden Farmen um 50%.\n\nPlatziere sie neben den gewünschten Fabriken und erhöhe die Produktivität!",
     "italian": "Questi potenziamenti sono generati ad area dai corrispettivi edifici:\n\n- Il centro di riciclaggio consente di produrre senza consumare risorse una volta ogni cinque cicli produttivi.\n\n- l'impianto di arricchimento del suolo aumenta del 50% la velocità di produzione delle fattorie circostanti.\n\nPosizionateli vicino alle industrie desiderate e aumenteranno continuamente la produttività!",
     "chinese": "这些升级是从相应的建筑物区域生成的：\n\n- 回收中心每五个生产周期实现一次无资源生产。\n\n- 土壤富集设施将周围农场的生产率提高 50% .\n\n将它们放置在所需工厂附近，它们将不断提高生产力！",
     "japanese": "これらのアップグレードは、対応する建物からエリア生成される。\n\n- リサイクルセンターは、5回の生産サイクルに1回、無資源生産を可能にする。\n\n- 土壌改良施設は、周辺の農場の生産率を50%増加させる。\n\n工業施設の付近に設置すると、生産率が継続的にアップします！",
@@ -825,6 +833,7 @@
   },
   "factoryUpgradesSecondTutorialHeading": {
     "english": "Industrial robots and high-tech tools",
+    "german": "Industrieroboter und High Tech Werkzeuge",
     "italian": "Robot industriali e strumenti ad alta tecnologia",
     "chinese": "工业机器人和高科技工具",
     "japanese": "工業用ロボットとハイテクツール",
@@ -832,7 +841,8 @@
     "spanishesp": "Robots industriales y herramientas de alta tecnología"
   },
   "factoryUpgradesThirdTutorialParagraph": {
-    "english": "Industrial robots and high-tech tools must be produced by the relevant industries and will be automatically sent to buildings in order of proximity. Once a single unit of Industrial Robots or High-Tech Tools is received, it will be used until it is consumed. After that, the industry will have to receive another one.\n\n- Industrial Robots will reduce the labor required by 1 unit, and can be used in any industry.\n\n- High-tech tools will increase production speed by 50%.",
+    "english": "Industrial robots and high-tech tools must be produced by their factories and will be automatically sent to buildings in order of proximity. Once a single unit of Industrial Robots or High-Tech Tools is received, it will be used until it is consumed. After that, the factory will have to receive another one.\n\n- Industrial Robots will reduce the labor required by 1 worker, and can be used in any factory.\n\n- High-tech tools will increase production speed by 50%.",
+    "german": "Industrieroboter und High Tech Werkzeuge müssen in ihren Fabriken hergestellt werden und werden automatisch an umliegende Fabriken gesendent. Dabei werden nähere Fabriken priorisiert. Sobald ein Industrieroboter oder ein Satz High Tech Werkzeuge von einer Fabrik empfangen wurde, wird dieser verwedet werden, bis er aufgebraucht ist. Danach muss die Fabrik eine neue Lieferung erhalten.\n\n- Industrieroboter reduzieren die Anzahl der benötigten Arbeiter um 1 und können in jeder Fabrik verwendet werden.\n\n- High Tech Werkzeuge erhöhen die Produktionsgeschwindigkeit um 50%.",
     "italian": "I robot industriali e gli strumenti ad alta tecnologia devono essere prodotti dalle relative industrie e saranno inviati automaticamente agli edifici in ordine di vicinanza. Una volta ricevuta una singola unità di Robot industriali o di strumenti ad alta tecnologia, questa verrà utilizzata fino a quando non sarà consumata. Dopodiché, l'industria dovrà riceverne un'altra.\n\n- I robot industriali ridurranno di 1 unità la manodopera necessaria, e potranno essere utilizzati in qualsiasi settore.\n\n- Gli strumenti ad alta tecnologia aumenteranno la velocità di produzione del 50%.",
     "chinese": "工业机器人和高科技工具必须由相关工厂生产，并按照距离远近的顺序自动发送到建筑物。一旦收到单个工业机器人或高科技工具，它被使用直到被消耗完之前，该工厂将不得不接收另一台。\n\n- 工业机器人将减少 1 单位所需的劳动力，并且可以用于任何工厂。\n\n- 高科技工具将提高生产速度 50%。",
     "japanese": "工業用ロボットやハイテクツールは関連工業施設でなければ生産できず、自動的に建物に近い順で送られていきます。工業用ロボットまたはハイテクツールが1ユニット届くと、消費されるまで使用されます。使い切った後は、新しいユニットが必要になります。\n\n- 工業用ロボットは必要な労働者を1ユニット減らします。どの工業施設でも使用可能です。\n\n- ハイテクツールは生産速度を50%アップさせます。",

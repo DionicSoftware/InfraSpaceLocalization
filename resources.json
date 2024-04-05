@@ -1331,28 +1331,28 @@
   },
   "resource_upgradePack1": {
     "english": "Blue Upgrade Pack",
-    "german": "Blaues Aufwärtungspacket",
+    "german": "Blaues Aufwertungspaket",
     "japanese": "ブルーアップグレードパック",
     "russian": "Синий пакет улучшений",
     "spanishesp": "Paquete de mejora azul"
   },
   "resource_upgradePack2": {
     "english": "Green Upgrade Pack",
-    "german": "Grünes Aufwärtungspacket",
+    "german": "Grünes Aufwertungspaket",
     "japanese": "グリーンアップグレードパック",
     "russian": "Зеленый пакет улучшений",
     "spanishesp": "Paquete de mejora verde"
   },
   "resource_upgradePack3": {
     "english": "Yellow Upgrade Pack",
-    "german": "Gelbes Aufwärtungspacket",
+    "german": "Gelbes Aufwertungspaket",
     "japanese": "イエローアップグレードパック",
     "russian": "Желтый пакет улучшений",
     "spanishesp": "Paquete de mejora amarillo"
   },
   "resource_upgradePack4": {
     "english": "Red Upgrade Pack",
-    "german": "Rotes Aufwärtungspacket",
+    "german": "Rotes Aufwertungspaket",
     "japanese": "レッドアップグレードパック",
     "russian": "Красный пакет улучшений",
     "spanishesp": "Paquete de mejora rojo"
