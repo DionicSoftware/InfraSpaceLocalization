@@ -4538,7 +4538,7 @@
   },
   "scale": { // production overview
     "english": "Worker Priority",
-    "german": "Arbeiterpriorität"
+    "german": "Arbeiterpriorität",
     "japanese": "スケール",
   }
 }
