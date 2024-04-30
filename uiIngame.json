@@ -4441,10 +4441,12 @@
   "clearTraffic_Title": {
     "english": "Clear Traffic",
     "german": "Verkehr löschen",
+    "japanese": "車両の削除",
   },
   "clearTraffic_Desc": {
     "english": "You can manually delete cars to clear traffic jams. If the jam keeps reappearing, you should change your road layout. Check the encyclopedia for tips!",
     "german": "Du kannst per Hand Autos löschen um Staus aufzulösen. Wenn Staus wieder kommen, solltest du dein Straßenlayout ändern. Schau in die Enzyklopädie, um Tipps zu finden!",
+    "japanese": "交通の詰まりを解消するために手動で車両を削除できます。 もしつまりが再発し続けるなら、 道路のレイアウトを変更するべきです。 TIPSを見るには百科事典を参照してください。",
   },
   "pauseTitle": {
     "english": "Pause",
