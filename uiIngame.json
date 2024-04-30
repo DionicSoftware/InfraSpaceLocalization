@@ -4446,7 +4446,7 @@
   "clearTraffic_Desc": {
     "english": "You can manually delete cars to clear traffic jams. If the jam keeps reappearing, you should change your road layout. Check the encyclopedia for tips!",
     "german": "Du kannst per Hand Autos löschen um Staus aufzulösen. Wenn Staus wieder kommen, solltest du dein Straßenlayout ändern. Schau in die Enzyklopädie, um Tipps zu finden!",
-    "japanese": "交通の詰まりを解消するために手動で車両を削除できます。 もしつまりが再発し続けるなら、 道路のレイアウトを変更するべきです。 TIPSを見るには百科事典を参照してください。",
+    "japanese": "交通の詰まりを解消するために手動で車両を削除できます。もしつまりが再発し続けるなら、道路のレイアウトを変更するべきです。TIPSを見るには百科事典を参照してください。",
   },
   "pauseTitle": {
     "english": "Pause",
@@ -4532,12 +4532,13 @@
     "english": "Power required",
     "german": "Benötigter Strom",
     "italian": "Energia richiesta",
-    "japanese": "必須電力",
+    "japanese": "要求電力",
     "russian": "Требуется энергия",
     "spanishesp": "Energía necesaria"
   },
   "scale": { // production overview
     "english": "Worker Priority",
     "german": "Arbeiterpriorität"
+    "japanese": "スケール",
   }
 }
