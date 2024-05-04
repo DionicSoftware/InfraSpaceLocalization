@@ -37,7 +37,8 @@
     "russian": "Эту шахту можно разместить <b>в любом месте</b>.",
     "polish": "Ta koparka moe być postawiona wszędzie.",
     "ukrainian": "Цей кар'єр може бути розміщений <b>де завгодно</b>.",
-    "spanishesp": "Esta mina se puede colocar <b>en cualquier parte</b>."
+    "spanishesp": "Esta mina se puede colocar <b>en cualquier parte</b>.",
+    "czech": "Pískovnu lze umístit <b>kamkoli</b>.",
   },
   "sulfurMine": {
     "english": "Sulfur Mine",
@@ -77,7 +78,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении серы</b>.",
     "polish": "Ta koparka musi być postawiona na złożu siarki.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах сірки</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de azufre</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de azufre</b>.",
+    "czech": "Tento důl musí být umístěn na <b>ložisku síry</b>.",
   },
   "ironMine": {
     "english": "Iron Mine",
@@ -117,7 +119,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении железа</b>.",
     "polish": "Ta koparka musi być postawiona na złożu żelaza.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах залізної руди</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de hierro</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de hierro</b>.",
+    "czech": "Tento důl musí být umístěn na <b></b>ložisku železa.",
   },
   "copperMine": {
     "english": "Copper Mine",
@@ -157,7 +160,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении меди</b>.",
     "polish": "Ta koparka musi być postawiona na złożu miedzi.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах мідної руди</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de cobre</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de cobre</b>.",
+    "czech": "Tento důl musí být umístěn na <b>ložisku mědi</b>.",
   },
   "aluminiumMine": {
     "english": "Aluminum Mine",
@@ -197,7 +201,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении алюминия</b>.",
     "polish": "Ta koparka musi być postawiona na złożu aluminium.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах алюмінію</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de aluminio</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de aluminio</b>.",
+    "czech": "Tento důl musí být umístěn na <b>nalezišti hliníku</b>.",
   },
   "uraniumMine": {
     "english": "Uranium Mine",
@@ -237,7 +242,8 @@
     "russian": "Этот рудник необходимо разместить на <b>месторождении урана</b>.",
     "polish": "Ta koparka musi być postawiona na złożu uranu.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах урану</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de uranio</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de uranio</b>.",
+    "czech": "Tento důl musí být umístěn na <b>ložisku uranu</b>.",
   },
   "iridiumMine": {
     "english": "Iridium Mine",
@@ -276,7 +282,8 @@
     "russian": "Этот рудник необходимо разместить на <b>месторождении иридия</b>.",
     "polish": "Ta koparka musi być postawiona na złożu irydu.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах іридію</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de iridio</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de iridio</b>.",
+    "czech": "Tento důl musí být umístěn na <b>ložisku iridia</b>.",
   },
   "largeSandMine": {
     "english": "Large Sand Mine",
@@ -316,7 +323,8 @@
     "russian": "Эту шахту можно разместить <b>в любом месте</b>.",
     "polish": "Ta koparka moe być postawiona wszędzie.",
     "ukrainian": "Цей кар'єр може бути розміщений <b>де завгодно</b>.",
-    "spanishesp": "Esta mina se puede colocar <b>en cualquier parte</b>."
+    "spanishesp": "Esta mina se puede colocar <b>en cualquier parte</b>.",
+    "czech": "Pískovnu lze umístit <b>kamkoli</b>.",
   },
   "largeSulfurMine": {
     "english": "Large Sulfur Mine",
@@ -356,7 +364,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении серы</b>.",
     "polish": "Ta koparka musi być postawiona na złożu siarki.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах сірки</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de azufre</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de azufre</b>.",
+    "czech": "Tento důl musí být umístěn na <b>nalezišti síry</b>.",
   },
   "largeIronMine": {
     "english": "Large Iron Mine",
@@ -395,7 +404,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении железа</b>.",
     "polish": "Ta koparka musi być postawiona na złożu żelaza.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах залізної руди</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de hierro</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de hierro</b>.",
+    "czech": "Tento důl musí být umístěn na <b>nalezišti železa</b>.",
   },
   "largeCopperMine": {
     "english": "Large Copper Mine",
@@ -435,7 +445,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении меди</b>.",
     "polish": "Ta koparka musi być postawiona na złożu miedzi.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах мідної руди</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de cobre</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de cobre</b>.",
+    "czech": "Tento důl musí být umístěn na <b>ložisku mědi</b>.",
   },
   "largeAluminiumMine": {
     "english": "Large Aluminum Mine",
@@ -475,7 +486,8 @@
     "russian": "Эту шахту необходимо разместить на <b>месторождении алюминия</b>.",
     "polish": "Ta koparka musi być postawiona na złożu aluminium.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах алюмінію</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de aluminio</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de aluminio</b>.",
+    "czech": "Tento důl musí být umístěn na <b>nalezišti hliníku</b>.",
   },
   "largeUraniumMine": {
     "english": "Large Uranium Mine",
@@ -515,7 +527,8 @@
     "russian": "Этот рудник необходимо разместить на <b>месторождении урана</b>.",
     "polish": "Ta koparka musi być postawiona na złożu uranu.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах урану</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de uranio</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de uranio</b>.",
+    "czech": "Tento důl musí být umístěn na <b>ložisku uranu</b>.",
   },
   "largeIridiumMine": {
     "english": "Large Iridium Mine",
@@ -555,7 +568,8 @@
     "russian": "Этот рудник необходимо разместить на <b>месторождении иридия</b>.",
     "polish": "Ta koparka musi być postawiona na złożu irydu.",
     "ukrainian": "Цей кар'єр може бути розміщений лише на <b>покладах іридію</b>.",
-    "spanishesp": "Esta mina se debe colocar en un <b>depósito de iridio</b>."
+    "spanishesp": "Esta mina se debe colocar en un <b>depósito de iridio</b>.",
+    "czech": "Tento důl musí být umístěn na <b>ložisku iridia</b>.",
   },
   "electronicsFactory": {
     "english": "Electronics Factory",
@@ -594,7 +608,8 @@
     "japanese": "あらゆる種類の基本的な電子部品を生産する。",
     "russian": "Производит все виды базовых электронных деталей.",
     "ukrainian": "Виготовляє всі типи базових електричних компонентів.",
-    "spanishesp": "Produce todo tipo de componentes electrónicos básicos."
+    "spanishesp": "Produce todo tipo de componentes electrónicos básicos.",
+    "czech": "Vyrábí všechny druhy základních elektronických součástek.",
   },
   "microchipFactory": {
     "english": "Microchip Factory",
@@ -633,7 +648,8 @@
     "japanese": "多くの電子製品生産に不可欠なマイクロチップを生産する。",
     "russian": "Производит микрочипы, необходимые для дальнейшего производства многих электронных устройств.",
     "ukrainian": "Виготовляє мікрочіпи, необхідні для подальшого виробництва багатьох електричних виробів.",
-    "spanishesp": "Produce microchips, esenciales para la producción de muchos artículos electrónicos."
+    "spanishesp": "Produce microchips, esenciales para la producción de muchos artículos electrónicos.",
+    "czech": "Vyrábí mikročipy nezbytné pro výrobu mnoha elektronických předmětů.",
   },
   "neuralProcessorFactory": {
     "english": "Neural Processor Factory",
@@ -672,7 +688,8 @@
     "japanese": "ニューラルネットワークアプリケーション向けに設計された専用プロセッサを生産する。",
     "russian": "Производит специализированные процессоры, необходимые для работы нейронных сетей.",
     "ukrainian": "Виготовляє спеціальні процесори, розроблені задля роботи з нейронними мережами.",
-    "spanishesp": "Produce procesadores especializados, diseñados para aplicaciones de redes neuronales."
+    "spanishesp": "Produce procesadores especializados, diseñados para aplicaciones de redes neuronales.",
+    "czech": "Vyrábí specializované procesory určené pro aplikace neuronových sítí.",
   },
   "motorFactory": {
     "english": "Motor Factory",
@@ -711,7 +728,8 @@
     "japanese": "あらゆる産業ニーズに対応するモーターを生産する。",
     "russian": "Производит моторы для любых промышленных нужд.",
     "ukrainian": "Виготовляє мотори для усіх технічних потреб.",
-    "spanishesp": "Produce motores para cualquier necesidad industrial."
+    "spanishesp": "Produce motores para cualquier necesidad industrial.",
+    "czech": "Vyrábí motory pro každou průmyslovou potřebu.",
   },
   "nanotubesFactory": {
     "english": "Nanotubes Factory",
@@ -738,7 +756,7 @@
     "farsi": "کارخانه لوله های نانو",
     "scotsgaelic": "Factaraidh Nanotubes",
     "korean": "나노튜브 공장",
-    "spanishesp": "Fábrica de nanotubos"
+    "spanishesp": "Fábrica de nanotubos",
   },
   "nanotubesFactory_desc": {
     "english": "Produces carbon nanotubes, used in highly specialized industries.",
@@ -750,7 +768,8 @@
     "japanese": "高度な特化型産業で使用されるカーボンナノチューブを生産する。",
     "russian": "Производит углеродные нанотрубки, используемые в узкоспециализированных отраслях промышленности.",
     "ukrainian": "Виготовляє вуглецеві нанотрубки, що використовуються на дуже спеціалізованих виробництвах.",
-    "spanishesp": "Produce nanotubos de carbono que se emplean en industrias altamente especializadas."
+    "spanishesp": "Produce nanotubos de carbono que se emplean en industrias altamente especializadas.",
+    "czech": "Vyrábí uhlíkové nanotrubice používané ve vysoce specializovaných průmyslových odvětvích.",
   },
   "reinforcedIridiumFactory": {
     "english": "Reinforced Iridium Factory",
@@ -777,7 +796,8 @@
     "japanese": "ハイテク製品の製造に適した特性を持つ強化イリジウム塊を生産する。",
     "russian": "Производит слитки обогащенного иридия, которым благодаря своим свойствам используется для производства высокотехнологичной продукции.",
     "ukrainian": "Виготовляє злитки армованого іридію, властивості яких роблять їх придатними для використання у високотехнологічних виробах.",
-    "spanishesp": "Produce lingotes de iridio reforzado, cuyas propiedades lo hacen apropiado para la producción de productos de alta tecnología."
+    "spanishesp": "Produce lingotes de iridio reforzado, cuyas propiedades lo hacen apropiado para la producción de productos de alta tecnología.",
+    "czech": "Vyrábí vyztužené iridiové ingoty, které jsou díky svým vlastnostem vhodné pro výrobu high-tech produktů.",
   },
   "holoDisplayFactory": {
     "english": "Holo-Display Factory",
@@ -816,7 +836,8 @@
     "japanese": "ホログラム投影装置を生産する。",
     "russian": "Производит устройства, способные проецировать голограммы.",
     "ukrainian": "Виготовляє дисплеї здатні проектувати голограми.",
-    "spanishesp": "Produce dispositivos capaces de proyectar hologramas."
+    "spanishesp": "Produce dispositivos capaces de proyectar hologramas.",
+    "czech": "Vyrábí zařízení schopná promítat hologramy.",
   },
   "radiationCoreFactory": {
     "english": "Radiation Core Factory",
@@ -855,7 +876,8 @@
     "japanese": "放射能を使用するハイテク産業で使用される貴重な部品の放射線コアを生産する。",
     "russian": "Производит радиационные ядра — ценный компонент для высокотехнологичных отраслей, основанных на радиоактивности.",
     "ukrainian": "Виготовляє ядерні сердечники, цінний компонент що використовується у високотехнологічних виробах яким необхідна радіоактивність для роботи.",
-    "spanishesp": "Produce núcleos de radiación, un valioso componente empleado en industrias de alta tecnología que utilizan radiactividad."
+    "spanishesp": "Produce núcleos de radiación, un valioso componente empleado en industrias de alta tecnología que utilizan radiactividad.",
+    "czech": "Vyrábí radiační jádra, cennou součást používanou v high-tech odvětvích, která využívají radioaktivitu.",
   },
   "concreteFactory": {
     "english": "Concrete Factory",
@@ -894,7 +916,8 @@
     "japanese": "建設の主要資源のコンクリートを生産する。",
     "russian": "Производит бетон, основной строительный ресурс.",
     "ukrainian": "Виготовляє бетон, головний ресурс для будь-якого будівництва.",
-    "spanishesp": "Produce hormigón, el principal recurso para la construcción."
+    "spanishesp": "Produce hormigón, el principal recurso para la construcción.",
+    "czech": "Vyrábí beton, hlavní zdroj pro stavebnictví.",
   },
   "steelMill": {
     "english": "Steel Mill",
@@ -933,7 +956,8 @@
     "japanese": "建設に不可欠な資源の鋼鉄を生産する。",
     "russian": "Производит сталь, основной строительный ресурс.",
     "ukrainian": "Виготовляє сталь, що дуже важлива для будь-якого будівництва.",
-    "spanishesp": "Produce acero, un recurso esencial para la construcción."
+    "spanishesp": "Produce acero, un recurso esencial para la construcción.",
+    "czech": "Vyrábí ocel, základní zdroj pro stavebnictví.",
   },
   "homeAppliancesFactory": {
     "english": "Home Appliances Factory",
@@ -972,7 +996,8 @@
     "japanese": "未来ではなおさら家電製品ほど必要性が高く便利なものはない！\n\n<b>居住地レベル3へのアップグレードに必要</b>。",
     "russian": "Бытовая техника — это необходимое удобство. В конце концов, мы же в будущем!\n\n<b>Ресурс, необходимый для среды обитания ур. 3</b>.",
     "ukrainian": "Побутова техніка це зручно та необхідно кожному. Зрештою, ми ж у майбутньому!\n\n<b>Необхідний ресурс для 3 рівня жилих модулів</b>.",
-    "spanishesp": "Los electrodomésticos son una comodidad necesaria. Al fin y al cabo, ¡estamos en el futuro!\n\n<b>Recurso necesario para hábitats de nivel 3</b>."
+    "spanishesp": "Los electrodomésticos son una comodidad necesaria. Al fin y al cabo, ¡estamos en el futuro!\n\n<b>Recurso necesario para hábitats de nivel 3</b>.",
+    "czech": "Domácí spotřebiče jsou nezbytnou vymožeností. Jsme přece v budoucnosti!\n\n<b>Zdroje potřebné pro domovy na úrovni 3</b>.",
   },
   "computerFactory": {
     "english": "Computer Factory",
@@ -1011,7 +1036,8 @@
     "japanese": "大好きなゲームをしながらリラックスするのが嫌いな人はこの世に存在しない。仕事でも大活躍。\n\n<b>居住地レベル4へのアップグレードに必要</b> 。",
     "russian": "Кто же не любит расслабиться за интересной видеоигрой? А еще компьютеры можно использовать для работы.\n\n<b>Ресурс, необходимый для среды обитания ур. 4</b>.",
     "ukrainian": "Хто ж не любить розслабитися граючи в свою улюблену гру? О, і ще ви можете використовувати їх для роботи\n\n<b>Необхідний ресурс для 4 рівня жилих модулів</b>.",
-    "spanishesp": "¿A quién no le gusta relajarse mientras juega a su videojuego favorito? Ah, y también sirven para trabajar.\n\n<b>Recurso necesario para hábitats de nivel 4</b>."
+    "spanishesp": "¿A quién no le gusta relajarse mientras juega a su videojuego favorito? Ah, y también sirven para trabajar.\n\n<b>Recurso necesario para hábitats de nivel 4</b>.",
+    "czech": "Kdo nemiluje relaxovat při hraní své oblíbené videohry? Jo, a můžete je použít i k práci.\n\n<b>Zdroje potřebné pro domovy na úrovni 4</b>." ,
   },
   "homeRobotFactory": {
     "english": "Home Robot Factory",
@@ -1050,7 +1076,8 @@
     "japanese": "毎朝、朝食が用意されていることほど幸せなことはない。すべて家庭用ロボットのおかげ！\n\n<b>居住地レベル5へのアップグレードに必要</b>。",
     "russian": "Нет ничего лучше, чем завтрак в постель. Спасибо, домашний робот!\n\n<b>Ресурс, необходимый для среды обитания ур. 5</b>.",
     "ukrainian": "Немає нічого краще ніж як отримати свій сніданок уже готовим. Дякую, домашній робот-кухар!\n\n<b>Необхідний ресурс для 5 рівня жилих модулів</b>.",
-    "spanishesp": "No hay nada mejor que encontrarse el desayuno listo. ¡Gracias, robot doméstico!\n\n<b>Recurso necesario para hábitats de nivel 5</b>."
+    "spanishesp": "No hay nada mejor que encontrarse el desayuno listo. ¡Gracias, robot doméstico!\n\n<b>Recurso necesario para hábitats de nivel 5</b>.",
+    "czech": "Není nic lepšího než najít hotovou snídani. Děkuji, robote!\n\n<b>Potřebné zdroje pro domovy na úrovni 5</b>.",
   },
   "industrialRobotFactory": {
     "english": "Industrial Robot Factory",
@@ -1089,7 +1116,8 @@
     "japanese": "どんな面倒な作業も危険な仕事も高度なロボットアームにお任せ。\n工場に必要な作業員が1人減る。\n\nロボットは一体ずつ近い工場から順に送られ、消費されるまで使用される。\n地区または流通センターを使って特定の工業施設に送ることができる。",
     "russian": "Улучшенные роборуки, пригодные для любой работы: от самой утомительной до самой опасной.\nСокращает число необходимых рабочих на заводе на 1.\n\nОдин набор доставляется на ближайшие заводы и используется, пока не будет израсходован.\nЧтобы направить на конкретные производства, используйте районы или центры распределения.",
     "ukrainian": "Покращені роботизовані руки підходять для будь-якої роботи, від найнуднішої до найнебезпечнішої.\nЗменшують кількість необхідних на Фабриці робітників на 1.\n\nРесурси по одному доставляються на найближчі Фабрики, починаючи з найближчих, та використовуються доти доки не закінчаться.\nЯкщо ви хочете направити їх до конкретних Фабрик використовуйте райони або розподільчі центри!.",
-    "spanishesp": "Brazos robóticos avanzados, aptos para cualquier trabajo, desde el más tedioso hasta el más peligroso.\nReduce en 1 la cantidad de trabajadores necesarios en una fábrica.\n\nSe entrega un único paquete a las fábricas por orden de proximidad, que se utilizará hasta que se consuma.\nSi quieres dirigirlos a industrias concretas, ¡usa distritos o centros de distribución!"
+    "spanishesp": "Brazos robóticos avanzados, aptos para cualquier trabajo, desde el más tedioso hasta el más peligroso.\nReduce en 1 la cantidad de trabajadores necesarios en una fábrica.\n\nSe entrega un único paquete a las fábricas por orden de proximidad, que se utilizará hasta que se consuma.\nSi quieres dirigirlos a industrias concretas, ¡usa distritos o centros de distribución!",
+    "czech": "Pokročilá robotická ramena, vhodná pro jakoukoli práci: od nejnudnějších po nejnebezpečnější.\nSnížení počtu pracovníků v továrně o 1.\n\nJeden balíček je dodán do továren v pořadí podle blízkosti a budou používány, dokud nebudou spotřebovány.\nPokud je chcete zacílit na konkrétní odvětví, použijte okresy nebo distribuční centra!",
   },
   "highTechWorkshop": {
     "english": "High Tech Workshop",
@@ -1128,7 +1156,8 @@
     "japanese": "工業施設を新たなレベルに押し上げる驚異のハイテクツール。\n生産速度が50%アップする。\n\n1セットずつ近い工場から順に送られ、消費されるまで使用される。\n地区または流通センターを使って特定の工業施設に送ることができる。",
     "russian": "Суперпередовое оборудование выведет ваши отрасли на новый уровень.\nУвеличивает скорость производства на 50%.\n\nОдин ресурс доставляется в ближайшие отрасли и используется, пока не будет израсходован.\nЧтобы направить на конкретные производства, используйте районы или центры распределения.",
     "ukrainian": "Ці неймовірні, проривні високотехнологічні інструменти піднімуть ваші Фабрики на новий рівень!\nПришвидшують Фабрики на 50%.\n\nРесурси по одному доставляються на найближчі Фабрики, починаючи з найближчих, та використовуються доти доки не закінчаться.\nЯкщо ви хочете направити їх до конкретних Фабрик використовуйте райони або розподільчі центри!.",
-    "spanishesp": "Esta equipamiento increíblemente avanzado llevará tus industrias a un nuevo nivel.\nAumenta la velocidad de producción un 50 %.\n\nSe entrega un único recurso a las industrias por orden de proximidad, que se utilizará hasta que se consuma.\nSi quieres dirigirlos a industrias concretas, ¡usa distritos o centros de distribución!"
+    "spanishesp": "Esta equipamiento increíblemente avanzado llevará tus industrias a un nuevo nivel.\nAumenta la velocidad de producción un 50 %.\n\nSe entrega un único recurso a las industrias por orden de proximidad, que se utilizará hasta que se consuma.\nSi quieres dirigirlos a industrias concretas, ¡usa distritos o centros de distribución!",
+    "czech": "Toto neuvěřitelně pokročilé vybavení posune vaše odvětví na novou úroveň.\nZvyšuje rychlost výroby o 50%.\n\nJeden zdroj je dodáván průmyslovým budovám v pořadí podle blízkosti a bude používán, dokud nebude spotřebován. \nPokud je chcete zacílit na konkrétní odvětví, použijte okresy nebo distribuční centra!",
   },
   "vrEdutainmentFactory": {
     "english": "VR Edutainment Factory",
@@ -1167,7 +1196,8 @@
     "japanese": "拡張現実で視野を広げよう！\n\n<b>居住地レベル6へのアップグレードに必要</b>。",
     "russian": "Расширьте свои горизонты с помощью дополненной реальности!\n\n<b>Ресурс, необходимый для среды обитания ур. 6</b>.",
     "ukrainian": "Вийдіть за рамки звичного світу завдяки доповненій- та віртуальній реальності!\n\n<b>Необхідний ресурс для 6 рівня жилих модулів</b>.",
-    "spanishesp": "¡Amplía tus horizontes gracias a la realidad aumentada!\n\n<b>Recurso necesario para hábitats de nivel 6</b>."
+    "spanishesp": "¡Amplía tus horizontes gracias a la realidad aumentada!\n\n<b>Recurso necesario para hábitats de nivel 6</b>.",
+    "czech": "Rozšiřte své obzory prostřednictvím virtuální reality!\n\n<b>Potřebné zdroje pro domovy na úrovni 6</b>.",
   },
   "superconductorFactory": {
     "english": "Superconductor Factory",
@@ -1194,7 +1224,8 @@
     "japanese": "電磁波用の高導電性材料を生産する。",
     "russian": "Производит материал с высокой проводимостью для применения в электромагнитной сфере.",
     "ukrainian": "Виготовляє надпровідники для різноманітних електромагнітних пристроїв.",
-    "spanishesp": "Produce un material altamente conductor para aplicaciones electromagnéticas."
+    "spanishesp": "Produce un material altamente conductor para aplicaciones electromagnéticas.",
+    "czech": "Vyrábí vysoce vodivý materiál pro elektromagnetické aplikace.",
   },
   "aiControlUnitFactory": {
     "english": "AI Control Unit Factory",
@@ -1233,7 +1264,8 @@
     "japanese": "AIに特化した特殊なプロセッサを生産する。高度にハイテクな演算タスクにのみ必要。",
     "russian": "Производит особый вид процессоров для искусственного интеллекта. Необходим только для самых высокотехнологичных вычислительных задач.",
     "ukrainian": "Виготовляє спеціальні процесори, розроблені задля ШІ. Необхідні лише у найбільш високотехнологічних обчисленнях.",
-    "spanishesp": "Produce un tipo especial de procesador especializado para aplicaciones de IA. Solo se necesita para las tareas informáticas de tecnología más avanzada."
+    "spanishesp": "Produce un tipo especial de procesador especializado para aplicaciones de IA. Solo se necesita para las tareas informáticas de tecnología más avanzada.",
+    "czech": "Vyrábí speciální druh procesoru specializovaného na aplikace umělé inteligence. Potřebný pouze pro ty nejmodernější výpočetní úlohy.",
   },
   "sciencePack1Factory": {
     "english": "Blue Science Pack Factory",
@@ -1272,7 +1304,8 @@
     "japanese": "<b>初歩科学研究</b>に必要なツールや試薬を生産して便利なパックで届けてくれる。",
     "russian": "Этот завод производит инструменты и реагенты, необходимые для <b>базовых научных исследований</b>, и поставляет их в удобном наборе.",
     "ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>базових наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
-    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica básica</b> y los entrega en un práctico paquete."
+    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica básica</b> y los entrega en un práctico paquete.",
+    "czech": "Tato továrna vyrábí nástroje a činidla potřebná pro <b>základní vědecký výzkum</b> a dodává je ve výhodném balení.",
   },
   "sciencePack2Factory": {
     "english": "Green Science Pack Factory",
@@ -1311,7 +1344,8 @@
     "japanese": "<b>基礎科学研究</b>に必要なツールや試薬を生産して便利なパックで届けてくれる。",
     "russian": "Этот завод производит инструменты и реагенты, необходимые для <b>основных научных исследований</b>, и поставляет их в удобном наборе.",
     "ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>більш складних наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
-    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica fundamental</b> y los entrega en un práctico paquete."
+    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica fundamental</b> y los entrega en un práctico paquete.",
+    "czech": "Tato továrna vyrábí nástroje a činidla potřebná pro <b>základní vědecký výzkum</b> a dodává je ve výhodném balení.",
   },
   "sciencePack3Factory": {
     "english": "Yellow Science Pack Factory",
@@ -1349,7 +1383,8 @@
     "japanese": "<b>先端科学研究</b>に必要なツールや試薬を生産して便利なパックで届けてくれる。",
     "russian": "Этот завод производит инструменты и реагенты, необходимые для <b>передовых научных исследований</b>, и поставляет их в удобном наборе.",
     "ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>складніших наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
-    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica avanzada</b> y los entrega en un práctico paquete."
+    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica avanzada</b> y los entrega en un práctico paquete.",
+    "czech": "Tato továrna vyrábí nástroje a činidla potřebná pro <b>základní vědecký výzkum</b> a dodává je ve výhodném balení.",
   },
   "sciencePack4Factory": {
     "english": "Red Science Pack Factory",
@@ -1388,7 +1423,8 @@
     "japanese": "<b>超先端科学研究</b>に必要なツールや試薬を生産して便利なパックで届けてくれる。",
     "russian": "Этот завод производит инструменты и реагенты, необходимые для <b>суперпередовых научных исследований</b>, и поставляет их в удобном наборе.",
     "ukrainian": "Ця фабрика виготовляє інструменти та реагенти необхідні для <b>найскладніших наукових дослідів</b>, та доставляє їх усі у об'єднаному пакеті, зі зручною упаковкою.",
-    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica ultraavanzada</b> y los entrega en un práctico paquete."
+    "spanishesp": "Esta fábrica produce herramientas y reactivos necesarios para la <b>investigación científica ultraavanzada</b> y los entrega en un práctico paquete.",
+    "czech": "Tato továrna vyrábí nástroje a činidla potřebná pro <b>základní vědecký výzkum</b> a dodává je ve výhodném balení.",
   },
   "researchLab": {
     "english": "Research Lab",
@@ -1427,7 +1463,8 @@
     "japanese": "科学最高！\n\n<b>新しい技術</b>が開発される研究室。\n\n画面左上の<b>顕微鏡アイコン</b>をクリックして研究を選択する。",
     "russian": "Мы любим науку!\n\nВ исследовательской лаборатории <b>разрабатываются новые технологии</b>.\n\nДля выбора исследования нажмите на <b>значок микроскопа</b> в верхней левой части экрана.",
     "ukrainian": "Ми всі любимо науку!\n\nТут, у науково-дослідницькіцй лабораторії ми <b>досліджуємо нові технології</b>.\n\nДля вибору дослідження натисніть на <b>мікроскоп</b> у верхньому лівому куті екрану.",
-    "spanishesp": "¡Nos encanta la ciencia!\n\nEn el laboratorio de investigación <b>se desarrollan nuevas tecnologías</b>.\n\nPara seleccionar una investigación, haz clic en el <b>icono de microscopio</b> de la parte superior izquierda de la pantalla."
+    "spanishesp": "¡Nos encanta la ciencia!\n\nEn el laboratorio de investigación <b>se desarrollan nuevas tecnologías</b>.\n\nPara seleccionar una investigación, haz clic en el <b>icono de microscopio</b> de la parte superior izquierda de la pantalla.",
+    "czech": "Milujeme vědu!\n\nVe výzkumné laboratoři se <b>vyvíjejí nové technologie</b>.\n\nPro výběr výzkumu klikněte na <b>ikonu mikroskopu</b> v levém horním rohu obrazovky.",
   },
   "researchLab_descAdditional": {
     "english": "In the research laboratory, new technologies are developed.",
@@ -1438,7 +1475,8 @@
     "japanese": "新しい技術が開発される研究室。",
     "russian": "В исследовательской лаборатории разрабатываются новые технологии.",
     "ukrainian": "Тут, у науково-дослідницькій лабораторії ми досліджуємо нові технології.",
-    "spanishesp": "En el laboratorio de investigación se desarrollan nuevas tecnologías."
+    "spanishesp": "En el laboratorio de investigación se desarrollan nuevas tecnologías.",
+    "czech": "Ve výzkumné laboratoři se vyvíjejí nové technologie.",
   },
   "storehouseSmall": {
     "english": "Small Construction Material Storage",
@@ -1452,7 +1490,8 @@
     "russian": "Малое хранилище стройматериалов",
     "hungarian": "Kis Építőanyag Raktár",
     "ukrainian": "Малий склад будівельних матеріалів",
-    "spanishesp": "Almacén de material de construcción pequeño"
+    "spanishesp": "Almacén de material de construcción pequeño",
+    "czech": "Sklad drobného stavebního materiálu",
   },
   "storehouseSmall_desc": {
     "english": "Concrete, steel and adamantium can be stored here, <b>without limit</b>!\n\nThese materials will be <b>reserved for building construction</b>.\nStorehouses <b>never export</b> stored materials.\n\nIf you want to direct concrete, steel or adamantium to some specific industries, remember to connect them directly to the factories that produce these materials, using districts or distribution centers.",
@@ -1463,7 +1502,8 @@
     "japanese": "<b>無制限</b>にコンクリート、鋼鉄、アダマンタイトを保管できる！\n\nこれらの資源は<b>建物の建設用に保管される</b>。\n倉庫自体は保管されている資源を<b>輸出することはできない</b>。\n\nコンクリート、鋼鉄、アダマンタイトを特定の工業施設に届けたい場合は、地区や流通センターを使って、これらの資源を生産する工場と直接つなげること。",
     "russian": "Здесь можно хранить бетон, сталь и адамантин <b>без ограничений</b>!\n\nЭти материалы будут <b>зарезервированы для строительства зданий</b>.\nСклады <b>никогда не экспортируют</b> хранящиеся материалы.\n\nЕсли вы хотите направить бетон, сталь или адамантин на определенные производства, соедините хранилище напрямую с заводами, производящими эти материалы, используя районы или центры распределения.",
     "ukrainian": "Бетон. сталь та адамантій можна зберігати тут, <b>без жодних обмежень</b>!\n\nЦі матеріали будуть <b>зарезервовані для будівництва будівель*</b>.\nСклади <b>ніколи не експортують</b> збережені матеріали.\n\nЯкщо ви хочете перенаправити бетон, сталь, чи адамантій до якихось конкретних Фабрик, пам'ятайте що їх треба підключити прямо до Фабрик та Кар'єрів що виготовляють ці матеріали через райони чи розподільчі центри.",
-    "spanishesp": "Aquí se puede almacenar hormigón, acero y adamantina, ¡<b>sin límite</b>!\n\nEstos materiales <b>se reservarán para la construcción de edificios</b>.\nLos almacenes <b>nunca exportan</b> materiales almacenados.\n\nSi quieres dirigir el hormigón, el acero o la adamantina a industrias concretas, recuerda conectarlas directamente a las fábricas que producen estos materiales usando distritos o centros de distribución."
+    "spanishesp": "Aquí se puede almacenar hormigón, acero y adamantina, ¡<b>sin límite</b>!\n\nEstos materiales <b>se reservarán para la construcción de edificios</b>.\nLos almacenes <b>nunca exportan</b> materiales almacenados.\n\nSi quieres dirigir el hormigón, el acero o la adamantina a industrias concretas, recuerda conectarlas directamente a las fábricas que producen estos materiales usando distritos o centros de distribución.",
+    "czech": "Beton, ocel a adamantium zde lze skladovat <b>bez omezení</b>!\n\nTyto materiály budou <b>rezervovány pro stavbu budov</b>.\nSklad <b>nebude nikdy vyskladňovat</b> uskladněné materiály.\n\nPokud chcete beton, ocel nebo adamantium nasměrovat do některých konkrétních odvětví, nezapomeňte je připojit přímo k továrnám, které tyto materiály vyrábějí, pomocí okresů nebo distribučních center.",
   },
   "storehouse": {
     "english": "Construction Material Storage",
@@ -1501,7 +1541,8 @@
     "japanese": "<b>無制限</b>にコンクリート、鋼鉄、アダマンタイトを保管できる！\n\nこれらの資源は<b>建物の建設用に保管される</b>。\n倉庫自体は保管されている資源を<b>輸出することはできない</b>。\n\nコンクリート、鋼鉄、アダマンタイトを特定の工業施設に届けたい場合は、地区や流通センターを使って、これらの資源を生産する工場と直接つなげること。",
     "russian": "Здесь можно хранить бетон, сталь и адамантин <b>без ограничений</b>!\n\nЭти материалы будут <b>зарезервированы для строительства зданий</b>.\nСклады <b>никогда не экспортируют</b> хранящиеся материалы.\n\nЕсли вы хотите направить бетон, сталь или адамантин на определенные производства, соедините хранилище напрямую с заводами, производящими эти материалы, используя районы или центры распределения.",
     "ukrainian": "Бетон. сталь та адамантій можна зберігати тут, <b>без жодних обмежень</b>!\n\nЦі матеріали будуть <b>зарезервовані для будівництва будівель*</b>.\nСклади <b>ніколи не експортують</b> збережені матеріали.\n\nЯкщо ви хочете перенаправити бетон, сталь, чи адамантій до якихось конкретних Фабрик, пам'ятайте що їх треба підключити прямо до Фабрик та Кар'єрів що виготовляють ці матеріали через райони чи розподільчі центри.",
-    "spanishesp": "Aquí se puede almacenar hormigón, acero y adamantina, ¡<b>sin límite</b>!\n\nEstos materiales <b>se reservarán para la construcción de edificios</b>.\nLos almacenes <b>nunca exportan</b> materiales almacenados.\n\nSi quieres dirigir el hormigón, el acero o la adamantina a industrias concretas, recuerda conectarlas directamente a las fábricas que producen estos materiales usando distritos o centros de distribución."
+    "spanishesp": "Aquí se puede almacenar hormigón, acero y adamantina, ¡<b>sin límite</b>!\n\nEstos materiales <b>se reservarán para la construcción de edificios</b>.\nLos almacenes <b>nunca exportan</b> materiales almacenados.\n\nSi quieres dirigir el hormigón, el acero o la adamantina a industrias concretas, recuerda conectarlas directamente a las fábricas que producen estos materiales usando distritos o centros de distribución.",
+    "czech": "Beton, ocel a adamantium zde lze skladovat <b>bez omezení</b>!\n\nTyto materiály budou <b>rezervovány pro stavbu budov</b>.\nSklad <b>nebude nikdy exportovat</b> uskladněné materiály.\n\nPokud chcete beton, ocel nebo adamantium nasměrovat do některých konkrétních odvětví, nezapomeňte je připojit přímo k továrnám, které tyto materiály vyrábějí, pomocí okresů nebo distribučních center.",
   },
   "spacePort": {
     "english": "Spaceport",
@@ -1539,7 +1580,8 @@
     "japanese": "新たな入植者たちのウェルカムセンター！\n\n宇宙港では<b>到着した市民</b>を受け入れることができる。\n宇宙港をいくつ建設しても、到着速度、頻度、人数は<b>変化しない</b>。これらの要素は居住地の質で左右される！",
     "russian": "Привет новичкам!\n\nНа космодром <b>прибывают жители</b>.\nЧисло космодромов <b>не влияет</b> на скорость, частоту или количество прибывающих людей — оно зависит от качества вашей среды обитания!",
     "ukrainian": "Важливе попередження всім новачкам!\n\nКосмопорт дає можливість <b>поселенцям прибувати</b> у ваше повеселння.\nКількість Космопортів <b>ніяк не впливає</b> на швидкість, частоту або кількість поселенців прибувших до вас. Все це залежить від якості ваших жилих модулів!",
-    "spanishesp": "¡Una calurosa bienvenida a los recién llegados!\n\nEl puerto espacial permite la <b>llegada de ciudadanos</b>.\nLa cantidad de puertos espaciales <b>no afecta</b> a la velocidad, frecuencia o cantidad de personas que llegan. ¡Eso depende de la calidad de tus hábitats!"
+    "spanishesp": "¡Una calurosa bienvenida a los recién llegados!\n\nEl puerto espacial permite la <b>llegada de ciudadanos</b>.\nLa cantidad de puertos espaciales <b>no afecta</b> a la velocidad, frecuencia o cantidad de personas que llegan. ¡Eso depende de la calidad de tus hábitats!",
+    "czech": "Srdečně vítáme nováčky!\n\nKosmický přístav umožňuje <b>příchod nových obyvatel</b>.\nPočet kosmodromů <b>neovlivňuje</b> rychlost, frekvenci, nebo množství přijíždějících lidí, to závisí na kvalitě a úrovni vašich domovů!",
   },
   "spaceShipConstructionFacility": {
     "english": "Spaceship Construction Facility",
@@ -1566,7 +1608,8 @@
     "japanese": "<b>宇宙船アンタレス号の修理</b>に必要な資源を集めて出荷する。\n\n修理するアンタレス号の部品を選択するには、画面左上の<b>宇宙船アイコン</b>をクリックする。",
     "russian": "Собирает и отправляет ресурсы, необходимые для <b>ремонта звездолета «Антарес»</b>.\n\nЧтобы выбрать отсек «Антареса» для ремонта, нажмите на значок <b>звездолета</b> в верхней левой части экрана.",
     "ukrainian": "Збирає та віправляє у космос ресурси необхідні для <b>ремонту космічного корабля Antares</b>.\n\nДля вибору конкретних частин корабля Antares для ремонту, натисніть на <b>піктограму космічного корабля</b> зверху екрану.",
-    "spanishesp": "Reúne y envía los recursos necesarios para <b>reparar la nave espacial Antares</b>.\n\nPara seleccionar una parte de la Antares para reparar, haz clic en el <b>icono de nave espacial</b> de la parte superior izquierda de la pantalla."
+    "spanishesp": "Reúne y envía los recursos necesarios para <b>reparar la nave espacial Antares</b>.\n\nPara seleccionar una parte de la Antares para reparar, haz clic en el <b>icono de nave espacial</b> de la parte superior izquierda de la pantalla.",
+    "czech": "Shromažďuje a odesílá zdroje potřebné k <b>opravě vesmírné lodi Antares</b>.\n\nChcete-li vybrat součást Antares k opravě, klikněte na <b>ikonu vesmírné lodi</b> vlevo nahoře na obrazovce.",
   },
   "recyclingCenter": {
     "english": "Recycling Center",
@@ -1604,7 +1647,8 @@
     "japanese": "リサイクルは大切です！\n\n生産サイクルの<b>5回に1回</b>、<b>無資源生産</b>が可能になる。\n\nこのアップグレードに対応する付近の工業施設に適用される。",
     "russian": "Переработка — это важно!\n\nЭто здание делает возможным <b>производство без использования ресурсов</b> раз в каждые <b>пять производственных циклов</b>.\n\nДействие распространяется на близлежащие производства, поддерживающие это улучшение.",
     "ukrainian": "Повторне використання матеріалів дуже важливе!\n\nЦей Центр розблоковує можливість <b>безкоштовного виробництва ресурсів</b> один раз з кожних <b>п'яти виробничих циклів</b>.\n\nЦе працює лише для тих Фабрик навколо Центру що підтримують це покращення.",
-    "spanishesp": "¡El reciclaje es importante!\n\nEste edificio permite <b>una producción sin recursos</b> una vez cada <b>cinco ciclos de producción</b>.\n\nSe aplica a las industrias de la zona circundante compatibles con esta mejora."
+    "spanishesp": "¡El reciclaje es importante!\n\nEste edificio permite <b>una producción sin recursos</b> una vez cada <b>cinco ciclos de producción</b>.\n\nSe aplica a las industrias de la zona circundante compatibles con esta mejora.",
+    "czech": "Recyklace je důležitá!\n\nTato budova umožňuje <b>výrobu bez zdrojů</b> jednou za <b>pět výrobních cyklů</b>.\n\nPlatí pro průmyslová odvětví v okolí oblast, která toto zlepšení podporují.",
   },
   "recyclingCenter_descAdditional": {
     "english": "This building enables resource-free production once in every five production cycles. It applies to industries in the surrounding area that support this improvement.",
@@ -1615,7 +1659,8 @@
     "japanese": "生産サイクルの5回に1回、無資源生産が可能になる。このアップグレードに対応する付近の工業施設に適用される。",
     "russian": "Это здание делает возможным производство без использования ресурсов раз в каждые пять производственных циклов. Действие распространяется на близлежащие производства, поддерживающие это улучшение.",
     "ukrainian": "Цей Центр розблоковує можливість безкоштовного виробництва ресурсів один раз з кожних п'яти виробничих циклів. Це працює лише для тих Фабрик навколо Центру що підтримують це покращення",
-    "spanishesp": "Este edificio permite una producción sin recursos una vez cada cinco ciclos de producción. Se aplica a las industrias de la zona circundante compatibles con esta mejora."
+    "spanishesp": "Este edificio permite una producción sin recursos una vez cada cinco ciclos de producción. Se aplica a las industrias de la zona circundante compatibles con esta mejora.",
+    "czech": "Recyklace je důležitá!\n\nTato budova umožňuje <b>výrobu bez zdrojů</b> jednou za <b>pět výrobních cyklů</b>.\n\nPlatí pro průmyslová odvětví v okolí oblast, která toto zlepšení podporuje.",
   },
   "soilEnrichmentFacility": {
     "english": "Soil Enrichment Facility",
@@ -1653,7 +1698,8 @@
     "japanese": "土壌でその土地の価値が決まる。\n\n<b>生産速度が50%アップ</b>する。\n\n周辺の農場に適用される。",
     "russian": "Качество почвы имеет значение.\n\nЭто здание <b>увеличивает скорость производства</b> на 50%.\n\nДействие распространяется на близлежащие фермы.",
     "ukrainian": "Збагаченність ґрунту теж має значення.\n\nЦей Центр <b>пришвидшує ріст рослин</b> на 50%.\n\nЦе стосується лише Ферм довкола Центру.",
-    "spanishesp": "La calidad del suelo marca la diferencia.\n\nEste edificio <b>aumenta la velocidad de producción</b> un 50 %.\n\nSe aplica a las granjas de la zona circundante."
+    "spanishesp": "La calidad del suelo marca la diferencia.\n\nEste edificio <b>aumenta la velocidad de producción</b> un 50 %.\n\nSe aplica a las granjas de la zona circundante.",
+    "czech": "Kvalita půdy je rozdílná.\n\nTato budova <b>zvyšuje rychlost produkce</b> o 50 %.\n\nPlatí pro farmy v jejím v okolí.",
   },
   "soilEnrichmentFacility_descAdditional": {
     "english": "This building increases production speed by 50%. It applies to farms in the surrounding area.",
@@ -1664,7 +1710,8 @@
     "japanese": "生産速度が50%アップする。周辺の農場に適用される。",
     "russian": "Это здание увеличивает скорость производства на 50%. Действие распространяется на близлежащие фермы.",
     "ukrainian": "Цей Центр пришвидшує ріст рослин на 50%. Це стосується лише Ферм розташованих довкола Центру",
-    "spanishesp": "Este edificio aumenta la velocidad de producción un 50 %. Se aplica a las granjas de la zona circundante."
+    "spanishesp": "Este edificio aumenta la velocidad de producción un 50 %. Se aplica a las granjas de la zona circundante.",
+    "czech": "Tato budova zvyšuje rychlost výroby o 50 %. Platí pro farmy v okolí.",
   },
   "airProcessor": {
     "english": "Atmosphere Processor",
@@ -1702,7 +1749,8 @@
     "japanese": "大気から酸素と炭素を抽出する。",
     "russian": "Извлекает из атмосферы кислород и углерод.",
     "ukrainian": "Видобуває кисень та вуглець з атмосфери",
-    "spanishesp": "Extrae oxígeno y carbono de la atmósfera."
+    "spanishesp": "Extrae oxígeno y carbono de la atmósfera.",
+    "czech": "Extrahuje kyslík a uhlík z atmosféry.",
   },
   "oxygenProcessor": {
     "english": "Oxygen Processor",
@@ -1740,7 +1788,8 @@
     "japanese": "大気から大量の酸素を抽出する。",
     "russian": "Извлекает из атмосферы большое количество кислорода.",
     "ukrainian": "Видобуває велику кількість кисню з атмосфери",
-    "spanishesp": "Extrae una buena cantidad de oxígeno de la atmósfera."
+    "spanishesp": "Extrae una buena cantidad de oxígeno de la atmósfera.",
+    "czech": "Extrahuje velké množství kyslíku z atmosféry.",
   },
   "carbonProcessor": {
     "english": "Carbon Processor",
@@ -1778,7 +1827,8 @@
     "japanese": "大気中から大量の炭素を抽出する。",
     "russian": "Извлекает из атмосферы большое количество углерода.",
     "ukrainian": "Видобуває велику кількість вуглецю з атмосфери",
-    "spanishesp": "Extrae una buena cantidad de carbono de la atmósfera."
+    "spanishesp": "Extrae una buena cantidad de carbono de la atmósfera.",
+    "czech": "Extrahuje značné množství uhlíku z atmosféry.",
   },
   "basicFarm": {
     "english": "Simple Farm",
