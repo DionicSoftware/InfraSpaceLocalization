@@ -22,7 +22,8 @@
     "turkish": "Ucuz Yollar",
     "japanese": "安価な道路",
     "russian": "Дешевые дороги",
-    "spanishesp": "Carreteras baratas"
+    "spanishesp": "Carreteras baratas",
+    "czech": "Levné silnice",
   },
   "constructionCategory_midTierRoads": {
     "english": "Normal Roads",
@@ -34,7 +35,8 @@
     "turkish": "Normal Yollar",
     "japanese": "普通の道路",
     "russian": "Обычные дороги",
-    "spanishesp": "Carreteras normales"
+    "spanishesp": "Carreteras normales",
+    "czech": "Normální silnice",
   },
   "constructionCategory_highwayRoads": {
     "english": "Highways",
@@ -46,7 +48,8 @@
     "turkish": "Otoban",
     "japanese": "高速道路",
     "russian": "Шоссе",
-    "spanishesp": "Autopistas"
+    "spanishesp": "Autopistas",
+    "czech": "Dálnice",
   },
   "constructionCategory_superhighwayRoads": {
     "english": "Superhighways",
@@ -58,7 +61,8 @@
     "turkish": "Süperotoban",
     "japanese": "アウトバーン",
     "russian": "Супермагистрали",
-    "spanishesp": "Superautopistas"
+    "spanishesp": "Superautopistas",
+    "czech": "Superdálnice",
   },
   "constructionCategory_rails": {
     "english": "Rails",
@@ -70,7 +74,8 @@
     "turkish": "Demiryolu",
     "japanese": "線路",
     "russian": "Рельсы",
-    "spanishesp": "Vías"
+    "spanishesp": "Vías",
+    "czech": "Kolejnice",
   },
   "constructionCategory_pipes": {
     "english": "Pipes",
@@ -82,7 +87,8 @@
     "turkish": "Boru",
     "japanese": "パイプ",
     "russian": "Трубы",
-    "spanishesp": "Tuberías"
+    "spanishesp": "Tuberías",
+    "czech": "Trubky",
   },
   "constructionCategory_fundamentals": {
     "english": "Fundamentals",
@@ -94,7 +100,8 @@
     "turkish": "Temel Bilgiler",
     "japanese": "基本",
     "russian": "Основное",
-    "spanishesp": "Fundamentos"
+    "spanishesp": "Fundamentos",
+    "czech": "Základy",
   },
   "constructionCategory_mines": {
     "english": "Mines",
@@ -106,7 +113,8 @@
     "turkish": "Maden",
     "japanese": "採掘",
     "russian": "Шахты",
-    "spanishesp": "Minas"
+    "spanishesp": "Minas",
+    "czech": "Doly",
   },
   "constructionCategory_smallMines": {
     "english": "Small Mines",
@@ -118,7 +126,8 @@
     "turkish": "Küçük Maden",
     "japanese": "小型採掘機",
     "russian": "Маленькие шахты",
-    "spanishesp": "Minas pequeñas"
+    "spanishesp": "Minas pequeñas",
+    "czech": "Malé doly",
   },
   "constructionCategory_largeMines": {
     "english": "Large Mines",
@@ -130,7 +139,8 @@
     "turkish": "Büyük Maden",
     "japanese": "大型採掘機",
     "russian": "Большие шахты",
-    "spanishesp": "Minas grandes"
+    "spanishesp": "Minas grandes",
+    "czech": "Velké doly",
   },
   "constructionCategory_industry": {
     "english": "Industry",
@@ -142,7 +152,8 @@
     "turkish": "Endüstri",
     "japanese": "工業施設",
     "russian": "Промышленность",
-    "spanishesp": "Industria"
+    "spanishesp": "Industria",
+    "czech": "Průmysl",
   },
   "constructionCategory_lowTechIndustry": {
     "english": "Low Tech Industry",
@@ -154,7 +165,8 @@
     "turkish": "Düşük Teknoloji Endüstrisi",
     "japanese": "低技術工業",
     "russian": "Низкотехнологичная промышленность",
-    "spanishesp": "Industria de baja tecnología"
+    "spanishesp": "Industria de baja tecnología",
+    "czech": "Low Tech průmysl",
   },
   "constructionCategory_midTechIndustry": {
     "english": "Mid Tech Industry",
@@ -166,7 +178,8 @@
     "turkish": "Orta Teknoloji Endüstrisi",
     "japanese": "中技術工業",
     "russian": "Среднетехнологичная промышленность",
-    "spanishesp": "Industria de tecnología media"
+    "spanishesp": "Industria de tecnología media",
+    "czech": "Mid Tech průmysl",
   },
   "constructionCategory_highTechIndustry": {
     "english": "High Tech Industry",
@@ -178,7 +191,8 @@
     "turkish": "Yüksek Teknoloji Endüstrisi",
     "japanese": "高技術工業",
     "russian": "Высокотехнологичная промышленность",
-    "spanishesp": "Industria de alta tecnología"
+    "spanishesp": "Industria de alta tecnología",
+    "czech": "High Tech průmysl",
   },
   "constructionCategory_gasAndLiquids": {
     "english": "Gas and Liquids",
@@ -190,7 +204,8 @@
     "turkish": "Gaz ve Sıvılar",
     "japanese": "気体と液体",
     "russian": "Газ и жидкости",
-    "spanishesp": "Gases y líquidos"
+    "spanishesp": "Gases y líquidos",
+    "czech": "Plyn a kapaliny",
   },
   "constructionCategory_tanks": {
     "english": "Tanks",
@@ -202,7 +217,8 @@
     "turkish": "Tank",
     "japanese": "タンク",
     "russian": "Жидкостные баки",
-    "spanishesp": "Tanques"
+    "spanishesp": "Tanques",
+    "czech": "Nádrže",
   },
   "constructionCategory_terraforming": {
     "english": "Terraforming",
@@ -214,7 +230,8 @@
     "turkish": "Dünyalaştırma",
     "japanese": "テラフォーミング",
     "russian": "Терраформирование",
-    "spanishesp": "Terraformación"
+    "spanishesp": "Terraformación",
+    "czech": "Terraformace",
   },
   "constructionCategory_transport": {
     "english": "Transport",
@@ -226,7 +243,8 @@
     "turkish": "Taşıt",
     "japanese": "輸送",
     "russian": "Транспорт",
-    "spanishesp": "Transporte"
+    "spanishesp": "Transporte",
+    "czech": "Doprava",
   },
   "constructionCategory_miscellaneous": {
     "english": "Miscellaneous",
@@ -238,7 +256,8 @@
     "turkish": "Çeşitli",
     "japanese": "その他",
     "russian": "Разное",
-    "spanishesp": "Varios"
+    "spanishesp": "Varios",
+    "czech": "Různé",
   },
   "constructionCategory_science": {
     "english": "Science",
@@ -250,14 +269,16 @@
     "turkish": "Fen",
     "japanese": "科学",
     "russian": "Наука",
-    "spanishesp": "Ciencia"
+    "spanishesp": "Ciencia",
+    "czech": "Věda",
   },
   "constructionCategory_upgrade": {
     "english": "Upgrade",
     "german": "Aufwertung",
     "japanese": "アップグレード",
     "russian": "Улучшение",
-    "spanishesp": "Mejora"
+    "spanishesp": "Mejora",
+    "czech": "Upgrade",
   },
   "constructionCategory_food": {
     "english": "Food",
@@ -269,7 +290,8 @@
     "turkish": "Yemek",
     "japanese": "食料",
     "russian": "Еда",
-    "spanishesp": "Alimentos"
+    "spanishesp": "Alimentos",
+    "czech": "Jídlo",
   },
   "constructionCategory_services": {
     "english": "Public Services",
@@ -281,7 +303,8 @@
     "turkish": "Toplum Servisi",
     "japanese": "公共サービス",
     "russian": "Социальные объекты",
-    "spanishesp": "Servicios públicos"
+    "spanishesp": "Servicios públicos",
+    "czech": "Veřejné služby",
   },
   "constructionCategory_parks": {
     "english": "Parks",
@@ -293,7 +316,8 @@
     "turkish": "Park",
     "japanese": "公園",
     "russian": "Парки",
-    "spanishesp": "Parques"
+    "spanishesp": "Parques",
+    "czech": "Parky",
   },
   "constructionCategory_entertainment": {
     "english": "Entertainment",
@@ -305,7 +329,8 @@
     "turkish": "Eğlence",
     "japanese": "娯楽",
     "russian": "Развлечения",
-    "spanishesp": "Entretenimiento"
+    "spanishesp": "Entretenimiento",
+    "czech": "Zábava",
   },
   "constructionCategory_decoration": {
     "english": "Decoration",
@@ -317,7 +342,8 @@
     "turkish": "Dekorasyon",
     "japanese": "装飾",
     "russian": "Украшения",
-    "spanishesp": "Decoración"
+    "spanishesp": "Decoración",
+    "czech": "Dekorace",
   },
   "constructionCategory_sights": {
     "english": "Sights",
@@ -329,7 +355,8 @@
     "turkish": "Manzaralar",
     "japanese": "観光地",
     "russian": "Достопримечательности",
-    "spanishesp": "Vistas"
+    "spanishesp": "Vistas",
+    "czech": "Památky",
   },
   "constructionCategory_signs": {
     "english": "Signs",
@@ -341,7 +368,8 @@
     "turkish": "Tabela",
     "japanese": "看板",
     "russian": "Надписи",
-    "spanishesp": "Carteles"
+    "spanishesp": "Carteles",
+    "czech": "Označení",
   },
   "constructionCategory_fences": {
     "english": "Fences",
@@ -353,7 +381,8 @@
     "turkish": "Çit",
     "japanese": "フェンス",
     "russian": "Заборы",
-    "spanishesp": "Vallas"
+    "spanishesp": "Vallas",
+    "czech": "Ploty",
   },
   "constructionCategory_pixelBuildings": {
     "english": "Pixel Signs",
@@ -365,7 +394,8 @@
     "turkish": "Piksel Tabela",
     "japanese": "ピクセル看板",
     "russian": "Пиксельные знаки",
-    "spanishesp": "Carteles de píxeles"
+    "spanishesp": "Carteles de píxeles",
+    "czech": "Pixelové označení",
   },
   "constructionCategory_power": {
     "english": "Power",
@@ -377,7 +407,8 @@
     "turkish": "Enerji",
     "japanese": "発電",
     "russian": "Энергия",
-    "spanishesp": "Energía"
+    "spanishesp": "Energía",
+    "czech": "Energie",
   },
   "constructionCategory_education": {
     "english": "Education",
@@ -389,6 +420,7 @@
     "turkish": "Eğitim",
     "japanese": "教育",
     "russian": "Образование",
-    "spanishesp": "Educación"
+    "spanishesp": "Educación",
+    "czech": "Vzdělávání",
   }
 }
