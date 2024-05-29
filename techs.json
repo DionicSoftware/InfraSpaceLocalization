@@ -1570,5 +1570,166 @@
     "japanese": "アップグレード4",
     "russian": "Улучшение 4",
     "spanishesp": "Mejora 4"
-  }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // UPGRADES
+
+  // transport speed
+  "tech_carSpeed": {
+    "english": "Car Speed",
+    "german": "Geschwindigkeit von Autos",
+  },
+  "tech_gondolaSpeed": {
+    "english": "Gondola Speed",
+    "german": "Geschwindigkeit von Gondeln",
+  },
+  "tech_trainSpeed": {
+    "english": "Train Speed",
+    "german": "Geschwindigkeit von Zügen",
+  },
+  "tech_trainStationWaitDecrease": {
+    "english": "Waiting Time at Train Stations",
+    "german": "Wartezeit an Zugstationen",
+  },
+
+
+  // production
+
+  "tech_productionTimeUpgrade": {
+    "english": "Production Speed",
+    "german": "Produktionsgeschwindigkeit",
+  },
+  "tech_efficiencyBoostRange": {
+    "english": "Range of Neighbor Efficiency Boosts",
+    "german": "Reichweite von Nachbarschaftsbonus",
+  },
+  "tech_efficiencyBoostMultiplier": {
+    "english": "Multiplier of Neighbor Efficiency Boosts",
+    "german": "Stärke von Nachbarschaftsbonus",
+  },
+
+  // misc
+
+  "tech_laserSpeed": {
+    "english": "Laser Speed",
+    "german": "Geschwindigkeit des Lasers",
+  },
+
+
+  // habitats
+
+  // "tech_habitatsMoveOutRate": {
+  //   "english": "",
+  //   "german": "",
+  // },
+  // "tech_habitatsDowngradeTime": {
+  //   "english": "",
+  //   "german": "",
+  // },
+  "tech_habitatsConsumptionRate": {
+    "english": "Habitat Consumption Rate",
+    "german": "Verbrauchsgeschwindigkeit von Habitats",
+  },
+  // "tech_roadCostDiscount": {
+  //   "english": "",
+  //   "german": "",
+  // },
+  // "tech_railCostDiscount": {
+  //   "english": "",
+  //   "german": "",
+  // },
+  // "tech_pipeCostDiscount": {
+  //   "english": "",
+  //   "german": "",
+  // },
+  // "tech_buildCost": {
+  //   "english": "",
+  //   "german": "",
+  // },
+  "tech_extraCollectionDistributionStorage": {
+    "english": "Logistics Center Storage Size",
+    "german": "Lagerkapazität von Logistikcentern",
+  },
+  "tech_extraCollectionDistributionRadius": {
+    "english": "Logistics Center Maximum Delivery Range",
+    "german": "Maximale Reichweite von Logistikcentern",
+  },
+  "tech_stackSizeUpgrade": {
+    "english": "Factory Storage Size",
+    "german": "Lagerkapazität von Fabriken",
+  },
+  "tech_adamantineUpgrade": {
+    "english": "Adamantine Production Boost",
+    "german": "Produktionsbonus für Adamant",
+  },
+  // "tech_steelUpgrade": {
+  //   "english": "Steel Production Boost",
+  //   "german": "",
+  // },
+  // "tech_concreteUpgrade": {
+  //   "english": "Concrete Production Boost",
+  //   "german": "",
+  // },
+  "tech_industrialRobotUpgrade": {
+    "english": "Industrial Robot Production Boost",
+    "german": "Produktionsbonus für Industrieroboter",
+  },
+  "tech_sciencePack1Upgrade": {
+    "english": "Blue Science Pack Production Boost",
+    "german": "Produktionsbonus für blaue Wissenschaftspakete",
+  },
+  "tech_sciencePack2Upgrade": {
+    "english": "Green Science Pack Production Boost",
+    "german": "Produktionsbonus für grüne Wissenschaftspakete",
+  },
+  "tech_sciencePack3Upgrade": {
+    "english": "Yellow Science Pack Production Boost",
+    "german": "Produktionsbonus für gelbe Wissenschaftspakete",
+  },
+  "tech_sciencePack4Upgrade": {
+    "english": "Red Science Pack Production Boost",
+    "german": "Produktionsbonus für rote Wissenschaftspakete",
+  },
+  "tech_parkRadiusUpgrade": {
+    "english": "Park Radius Upgrade",
+    "german": "Reichweite von Parks",
+  },
+  "tech_cultureRadiusUpgrade": {
+    "english": "Culture Radius Upgrade",
+    "german": "Reichweite von Kulturgebäuden",
+  },
+  "tech_schoolRadiusUpgrade": {
+    "english": "School Radius Upgrade",
+    "german": "Reichweite von Schulen",
+  },
+  "tech_terraformingRadiusUpgrade": {
+    "english": "Terraforming Radius Upgrade",
+    "german": "Reichweite von Terraforming-Gebäuden",
+  },
+  "tech_powerRadiusUpgrade": {
+    "english": "Power Distribution Radius Upgrade",
+    "german": "Reichweite von Stromverteilern",
+  },
+  "tech_recyclingCenterRadiusUpgrade": {
+    "english": "Recycling Center Radius Upgrade",
+    "german": "Reichweite von Recyclingcentern",
+  },
+  "tech_soilEnrichmentFacilityRadiusUpgrade": {
+    "english": "Soil Enrichment Facility Radius Upgrade",
+    "german": "Reichweite von Erdanreicherungsanlagen",
+  },
 }
