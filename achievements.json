@@ -8,7 +8,7 @@
     "russian": "Время бурить!",
     "czech": "Doba vrtání!",
     "ukrainian": "Час свердлити!",
-    "spanishesp": "¡Hora de perforar!"
+    "spanishesp": "¡Hora de perforar!",
   },
   "drillingTime_Desc": {
     "english": "Built the Colossal Adamantine Mine.",
@@ -17,9 +17,9 @@
     "turkish": "Devasa Adamantine Madeni'ni inşa etti.",
     "japanese": "巨大アダマンタイト採掘機を建設する。",
     "russian": "Постройте огромную адамантиновую шахту.",
-    "czech": "Postavil jsi kolosální Adamantinský důl.",
+    "czech": "Postavil jsi kolosální Adamantinový důl.",
     "ukrainian": "Збудуйте Колосальний Адамантієвий Кар'єр.",
-    "spanishesp": "Has construido la mina de adamantina colosal."
+    "spanishesp": "Has construido la mina de adamantina colosal.",
   },
   "futureNow_Title": {
     "english": "The future is now",
@@ -28,9 +28,9 @@
     "turkish": "Gelecek şimdi",
     "japanese": "未来は今",
     "russian": "Будущее наступило",
-    "czech": "Budoucnost je teď",
+    "czech": "Budoucnost je teď!",
     "ukrainian": "Майбутнє вже зараз",
-    "spanishesp": "El futuro es ahora"
+    "spanishesp": "El futuro es ahora",
   },
   "futureNow_Desc": {
     "english": "Build the Magnetic Field Generator.",
@@ -41,7 +41,7 @@
     "russian": "Постройте генератор магнитного поля.",
     "czech": "Sestavte generátor magnetického pole.",
     "ukrainian": "Збудуйте Генератор Магнітного Поля",
-    "spanishesp": "Construye el generador de campo magnético."
+    "spanishesp": "Construye el generador de campo magnético.",
   },
   "reigniteEngine_Title": {
     "english": "Reignite the engine",
@@ -51,7 +51,8 @@
     "japanese": "エンジン再点火",
     "russian": "Повторный пуск двигателя",
     "ukrainian": "Повторне запалювання двигуна*",
-    "spanishesp": "Volver a encender el motor"
+    "spanishesp": "Volver a encender el motor",
+    "czech": "Zažehněte motory",
   },
   "reigniteEngine_Desc": {
     "english": "Finish repairing the spaceship.",
@@ -61,7 +62,8 @@
     "japanese": "宇宙船の修理を終わらせる。",
     "russian": "Завершите ремонт звездолета.",
     "ukrainian": "Завершіть ремонт космічного корабля.",
-    "spanishesp": "Termina de reparar la nave espacial."
+    "spanishesp": "Termina de reparar la nave espacial.",
+    "czech": "Dokončete opravu vesmírné lodi.",
   },
   "greenPlanet_Title": {
     "english": "Green planet",
@@ -71,7 +73,8 @@
     "japanese": "緑の惑星",
     "russian": "Зеленая планета",
     "ukrainian": "Зелена планета",
-    "spanishesp": "Planeta verde"
+    "spanishesp": "Planeta verde",
+    "czech": "Zelená planeta",
   },
   "greenPlanet_Desc": {
     "english": "Complete terraforming.",
@@ -81,7 +84,8 @@
     "japanese": "テラフォーミングを完了する。",
     "russian": "Завершите терраформирование.",
     "ukrainian": "Завершіть тераформування.",
-    "spanishesp": "Completa la terraformación."
+    "spanishesp": "Completa la terraformación.",
+    "czech": "Kompletní terraformace.",
   },
   "elbowGrease_Title": {
     "english": "Green planet",
@@ -91,7 +95,8 @@
     "japanese": "肉体労働",
     "russian": "Тяжелая работа",
     "ukrainian": "Зелена планета",
-    "spanishesp": "Planeta verde"
+    "spanishesp": "Planeta verde",
+    "czech": "Zelená planeta",
   },
   "elbowGrease_Desc": {
     "english": "Repair your first spaceship part.",
@@ -101,7 +106,8 @@
     "japanese": "最初の宇宙船部品を修理する。",
     "russian": "Отремонтируйте первый отсек звездолета.",
     "ukrainian": "Відремонтуйте перший відсік* космічного корабля.",
-    "spanishesp": "Repara tu primera parte de nave espacial."
+    "spanishesp": "Repara tu primera parte de nave espacial.",
+    "czech": "Opravte svůj první díl vesmírné lodi.",
   },
   "strictlyDistrict_Title": {
     "english": "Strictly in the district",
@@ -111,7 +117,8 @@
     "japanese": "地区制限",
     "russian": "Строго по району",
     "ukrainian": "Районування по району",
-    "spanishesp": "Estrictamente en el distrito"
+    "spanishesp": "Estrictamente en el distrito",
+    "czech": "Přísně v okrsku",
   },
   "strictlyDistrict_Desc": {
     "english": "Use districts for the first time.",
@@ -121,7 +128,8 @@
     "japanese": "はじめて地区を使用する。",
     "russian": "Впервые разграничьте районы.",
     "ukrainian": "Намітьте район в перший раз.",
-    "spanishesp": "Usa distritos por primera vez."
+    "spanishesp": "Usa distritos por primera vez.",
+    "czech": "Poprvé v okrese.",
   },
   "undergroundTransportation_Title": {
     "english": "Underground Transportation",
@@ -131,7 +139,8 @@
     "japanese": "地下交通",
     "russian": "Подземные перевозки",
     "ukrainian": "Підземна доставка",
-    "spanishesp": "Transporte subterráneo"
+    "spanishesp": "Transporte subterráneo",
+    "czech": "Podzemní doprava",
   },
   "undergroundTransportation_Desc": {
     "english": "Connect a Habitat to the piping system.",
@@ -141,7 +150,8 @@
     "japanese": "居住地をパイプシステムに繋げる。",
     "russian": "Подключите среду обитания к системе трубопроводов.",
     "ukrainian": "Підключіть жилий модуль до підземної труби.",
-    "spanishesp": "Conecta un hábitat al sistema de tuberías."
+    "spanishesp": "Conecta un hábitat al sistema de tuberías.",
+    "czech": "Připojte domovinu k potrubnímu systému.",
   },
   "renovationTime_Title": {
     "english": "Underground Transportation",
@@ -151,7 +161,8 @@
     "japanese": "リノベーション",
     "russian": "Время реноваций",
     "ukrainian": "Підземна доставка",
-    "spanishesp": "Transporte subterráneo"
+    "spanishesp": "Transporte subterráneo",
+    "czech": "Podzemní transport",
   },
   "renovationTime_Desc": {
     "english": "Connect a Habitat to the piping system.",
@@ -161,7 +172,8 @@
     "japanese": "道路を別の道路で置き換える。",
     "russian": "Замените одну дорогу другой.",
     "ukrainian": "Підключіть жилий модуль до підземної труби.",
-    "spanishesp": "Conecta un hábitat al sistema de tuberías."
+    "spanishesp": "Conecta un hábitat al sistema de tuberías.",
+    "czech": "Připojte domovinu k potrubnímu systému.",
   },
   "train_Title": {
     "english": "Choo-choo!",
@@ -171,7 +183,8 @@
     "japanese": "Choo-Choo TRAIN！",
     "russian": "Чух-чух!",
     "ukrainian": "Чух-чух!",
-    "spanishesp": "¡Chu, chu!"
+    "spanishesp": "¡Chu, chu!",
+    "czech": "Chaa-cháá!",
   },
   "train_Desc": {
     "english": "Build and operate your first train line.",
@@ -181,7 +194,8 @@
     "japanese": "はじめて線路を建設して運行する。",
     "russian": "Постройте и запустите первую линию поездов.",
     "ukrainian": "Збудуйте та запустіть ваш перший залізнийчний маршрут*.",
-    "spanishesp": "Construye y opera tu primera línea de tren."
+    "spanishesp": "Construye y opera tu primera línea de tren.",
+    "czech": "Postavte a provozujte svou první vlakovou linku.",
   },
   "gondola_Title": {
     "english": "Ain't No Mountain High Enough",
@@ -191,7 +205,8 @@
     "japanese": "登れぬ山などない",
     "russian": "Покорение всех вершин",
     "ukrainian": "Будь-які Гори По Плечу",
-    "spanishesp": "No hay montaña lo bastante alta"
+    "spanishesp": "No hay montaña lo bastante alta",
+    "czech": "Žádná hora není dostatečně vysoká",
   },
   "gondola_Desc": {
     "english": "Built and operate your first gondolas.",
@@ -201,7 +216,8 @@
     "japanese": "はじめてゴンドラを建設して運行する。",
     "russian": "Постройте и запустите первые грузовые лифты.",
     "ukrainian": "Збудуйте ваш перший підйомник.",
-    "spanishesp": "Construye y opera tus primeras telecabinas."
+    "spanishesp": "Construye y opera tus primeras telecabinas.",
+    "czech": "Postavte a provozujte své první gondoly.",
   },
   "efficiency_Title": {
     "english": "Efficiency is your motto",
@@ -211,7 +227,8 @@
     "japanese": "効率至上主義",
     "russian": "Эффективность — ваш девиз",
     "ukrainian": "Ефективність — ваш девіз",
-    "spanishesp": "Lo tuyo es la eficiencia"
+    "spanishesp": "Lo tuyo es la eficiencia",
+    "czech": "Vaším heslem je efektivita",
   },
   "efficiency_Desc": {
     "english": "Build your first power-up building.",
@@ -221,7 +238,8 @@
     "japanese": "付近をパワーアップさせる建物を建設する。",
     "russian": "Постройте первое вспомогательное здание.",
     "ukrainian": "Збудуйте своє перше покращення.",
-    "spanishesp": "Construye tu primer edificio potenciador."
+    "spanishesp": "Construye tu primer edificio potenciador.",
+    "czech": "Postavte si svou první budovu s napájením.",
   },
   "village_Title": {
     "english": "Village milestone",
@@ -231,7 +249,8 @@
     "japanese": "「村」達成",
     "russian": "Поселение",
     "ukrainian": "Село",
-    "spanishesp": "Hito de aldea"
+    "spanishesp": "Hito de aldea",
+    "czech": "Milník vesnice",
   },
   "village_Desc": {
     "english": "Reach a population of 500.",
@@ -241,7 +260,8 @@
     "japanese": "人口を500人にする。",
     "russian": "Достигните населения в 500 человек.",
     "ukrainian": "Досягніть населення у 500 поселенців.",
-    "spanishesp": "Alcanza una población de 500."
+    "spanishesp": "Alcanza una población de 500.",
+    "czech": "Dosáhněte 500 populace.",
   },
   "town_Title": {
     "english": "Town milestone",
@@ -251,7 +271,8 @@
     "japanese": "「町」達成",
     "russian": "Городок",
     "ukrainian": "Селище міського типу",
-    "spanishesp": "Hito de pueblo"
+    "spanishesp": "Hito de pueblo",
+    "czech": "Městský milník",
   },
   "town_Desc": {
     "english": "Reach a population of 2000.",
@@ -261,7 +282,8 @@
     "japanese": "人口を2,000人にする。",
     "russian": "Достигните населения в 2000 человек.",
     "ukrainian": "Досягніть населення у 2 000 поселенців.",
-    "spanishesp": "Alcanza una población de 2000."
+    "spanishesp": "Alcanza una población de 2000.",
+    "czech": "Dosáhněte 2000 obyvatel.",
   },
   "city_Title": {
     "english": "City milestone",
@@ -271,7 +293,8 @@
     "japanese": "「都市」達成",
     "russian": "Город",
     "ukrainian": "Місто",
-    "spanishesp": "Hito de ciudad"
+    "spanishesp": "Hito de ciudad",
+    "czech": "Velkoměstský milník",
   },
   "city_Desc": {
     "english": "Reach a population of 5,000.",
@@ -281,7 +304,8 @@
     "japanese": "人口を5,000人にする。",
     "russian": "Достигните населения в 5000 человек.",
     "ukrainian": "Досягніть населення у 5 000 поселенців.",
-    "spanishesp": "Alcanza una población de 5000."
+    "spanishesp": "Alcanza una población de 5000.",
+    "czech": "Dosáhněte 5 000 obyvatel.",
   },
   "metropolis_Title": {
     "english": "Metropolis milestone",
@@ -291,7 +315,8 @@
     "japanese": "「大都市」達成",
     "russian": "Столица",
     "ukrainian": "Міська агломерація",
-    "spanishesp": "Hito de metrópolis"
+    "spanishesp": "Hito de metrópolis",
+    "czech": "Metropolitní milník",
   },
   "metropolis_Desc": {
     "english": "Reach a population of 10,000.",
@@ -301,7 +326,8 @@
     "japanese": "人口を10,000人にする。",
     "russian": "Достигните населения в 10 000 человек.",
     "ukrainian": "Досягніть населення у 10 000 поселенців.",
-    "spanishesp": "Alcanza una población de 10 000."
+    "spanishesp": "Alcanza una población de 10 000.",
+    "czech": "Dosáhněte 10 000 populace.",
   },
   "megacity_Title": {
     "english": "Megacity milestone",
@@ -311,7 +337,8 @@
     "japanese": "「巨大都市」達成",
     "russian": "Мегаполис",
     "ukrainian": "Мегаполіс",
-    "spanishesp": "Hito de megaciudad"
+    "spanishesp": "Hito de megaciudad",
+    "czech": "Milník megaměsta",
   },
   "megacity_Desc": {
     "english": "Reach a population of 20,000.",
@@ -321,7 +348,8 @@
     "japanese": "人口を20,000人にする。",
     "russian": "Достигните населения в 20 000 человек.",
     "ukrainian": "Досягніть населення у 20 000 поселенців.",
-    "spanishesp": "Alcanza una población de 20 000."
+    "spanishesp": "Alcanza una población de 20 000.",
+    "czech": "Dosáhněte 20 000 obyvatel.",
   },
   "decorations_Title": {
     "english": "Let's make this city shine",
@@ -331,7 +359,8 @@
     "japanese": "輝く街並み",
     "russian": "Преображение города",
     "ukrainian": "Нехай місто сяє",
-    "spanishesp": "Hagamos brillar esta ciudad"
+    "spanishesp": "Hagamos brillar esta ciudad",
+    "czech": "Nechme toto město zazářit",
   },
   "decorations_Desc": {
     "english": "Unlock all the buildings in the \"Decorations\" category.",
@@ -341,7 +370,8 @@
     "japanese": "「装飾」カテゴリーのすべての建物をアンロックする。",
     "russian": "Разблокируйте все здания в категории «Украшения».",
     "ukrainian": "Розблокуйте всі будівлі з категорії \"Декорації\".",
-    "spanishesp": "Desbloquea todos los edificios de la categoría «Decoración»."
+    "spanishesp": "Desbloquea todos los edificios de la categoría «Decoración».",
+    "czech": "Odemkněte všechny budovy v kategorii \"Dekorace\".",
   },
   "steelConcrete_Title": {
     "english": "Packed storehouses",
@@ -351,7 +381,8 @@
     "japanese": "備えあれば憂いなし",
     "russian": "Заполненные склады",
     "ukrainian": "Склади під зв'язку",
-    "spanishesp": "Almacenes abarrotados"
+    "spanishesp": "Almacenes abarrotados",
+    "czech": "Zabaleno ve skladech",
   },
   "steelConcrete_Desc": {
     "english": "Have at least 50000 steel and 50000 concrete stored.",
@@ -361,7 +392,8 @@
     "japanese": "鋼鉄とコンクリートをそれぞれ50,000個以上貯蔵する。",
     "russian": "Накопите не менее 50 000 ед. стали и 50 000 ед. бетона.",
     "ukrainian": "запасіть як мінімум 50 000 сталі та 50 000 бетону на складах.",
-    "spanishesp": "Ten almacenados al menos 50 000 de acero y 50 000 de hormigón."
+    "spanishesp": "Ten almacenados al menos 50 000 de acero y 50 000 de hormigón.",
+    "czech": "Mějte uskladněno alespoň 50 000 oceli a 50 000 betonu.",
   },
   "resources_Title": {
     "english": "Total industrialization",
@@ -371,7 +403,8 @@
     "japanese": "完全なる工業化",
     "russian": "Всеобщая индустриализация",
     "ukrainian": "Глобальна індуструалізація",
-    "spanishesp": "Industrialización total"
+    "spanishesp": "Industrialización total",
+    "czech": "Totální industrializace",
   },
   "resources_Desc": {
     "english": "Produce all kinds of existing resources.",
@@ -381,7 +414,8 @@
     "japanese": "全種類の既存資源を生産する。",
     "russian": "Произведите все возможные виды ресурсов.",
     "ukrainian": "Видобувайте та виготовляйте всі існіючі види ресурсів.",
-    "spanishesp": "Produce todos los tipos de recursos que existen."
+    "spanishesp": "Produce todos los tipos de recursos que existen.",
+    "czech": "Produkujte všechny druhy existujících zdrojů.",
   },
   "green_Title": {
     "english": "The green one",
@@ -391,7 +425,8 @@
     "japanese": "グリーンパック",
     "russian": "Зеленый",
     "ukrainian": "А оці зелені...",
-    "spanishesp": "El verde"
+    "spanishesp": "El verde",
+    "czech": "Ta zelená...",
   },
   "green_Desc": {
     "english": "Unlock the green science packs.",
@@ -401,7 +436,8 @@
     "japanese": "グリーンサイエンスパックをアンロックする。",
     "russian": "Разблокируйте зеленые научные пакеты.",
     "ukrainian": "Розблокуйте зелені наукові пакети.",
-    "spanishesp": "Desbloquea los paquetes científicos verdes."
+    "spanishesp": "Desbloquea los paquetes científicos verdes.",
+    "czech": "Odemkněte zelené vědecké balíčky.",
   },
   "yellow_Title": {
     "english": "The yellow one",
@@ -411,7 +447,8 @@
     "japanese": "イエローパック",
     "russian": "Желтый",
     "ukrainian": "Осі і жовтенькі...",
-    "spanishesp": "El amarillo"
+    "spanishesp": "El amarillo",
+    "czech": "Ta žlutá...",
   },
   "yellow_Desc": {
     "english": "Unlock the yellow science packs.",
@@ -421,7 +458,8 @@
     "japanese": "イエローサイエンスパックをアンロックする。",
     "russian": "Разблокируйте желтые научные пакеты.",
     "ukrainian": "Розблокуйте жовті наукові пакети.",
-    "spanishesp": "Desbloquea los paquetes científicos amarillos."
+    "spanishesp": "Desbloquea los paquetes científicos amarillos.",
+    "czech": "Odemkněte žluté vědecké balíčky.",
   },
   "red_Title": {
     "english": "The red one",
@@ -431,7 +469,8 @@
     "japanese": "レッドパック",
     "russian": "Красный",
     "ukrainian": "І навіть червоні...",
-    "spanishesp": "El rojo"
+    "spanishesp": "El rojo",
+    "czech": "Ta červená...",
   },
   "red_Desc": {
     "english": "Unlock the red science packs.",
@@ -441,7 +480,8 @@
     "japanese": "レッドサイエンスパックをアンロックする。",
     "russian": "Разблокируйте красные научные пакеты.",
     "ukrainian": "Розблокуйте червоні наукові пакети.",
-    "spanishesp": "Desbloquea los paquetes científicos rojos."
+    "spanishesp": "Desbloquea los paquetes científicos rojos.",
+    "czech": "Odemkněte červené vědecké balíčky.",
   },
   "science_Title": {
     "english": "Science!",
@@ -451,7 +491,8 @@
     "japanese": "科学の進化！",
     "russian": "Наука!",
     "ukrainian": "Наука!",
-    "spanishesp": "¡Ciencia!"
+    "spanishesp": "¡Ciencia!",
+    "czech": "Věda!",
   },
   "science_Desc": {
     "english": "Complete the research tree.",
@@ -461,7 +502,8 @@
     "japanese": "研究ツリーを全開放する。",
     "russian": "Завершите дерево исследований.",
     "ukrainian": "Завершіть дерево досліджень.",
-    "spanishesp": "Completa el árbol de investigación."
+    "spanishesp": "Completa el árbol de investigación.",
+    "czech": "Dokončete celý výzkumný strom.",
   },
   "habitat_Title": {
     "english": "Next-generation skyscrapers",
@@ -471,7 +513,8 @@
     "japanese": "次世代の超高層ビル",
     "russian": "Небоскребы нового поколения",
     "ukrainian": "Хмарочоси нового покоління",
-    "spanishesp": "Rascacielos de nueva generación"
+    "spanishesp": "Rascacielos de nueva generación",
+    "czech": "Mrakodrapy nové generace",
   },
   "habitat_Desc": {
     "english": "Improve a Habitat to its maximum.",
@@ -481,7 +524,8 @@
     "japanese": "居住地を最大限まで改良する。",
     "russian": "Улучшите среду обитания до максимума.",
     "ukrainian": "Покращіть жилий модуль до максимального рівня",
-    "spanishesp": "Mejora un hábitat al máximo."
+    "spanishesp": "Mejora un hábitat al máximo.",
+    "czech": "Vylepšené stanoviště na maximum.",
   },
   "laser_Title": {
     "english": "Passion for explosions",
@@ -491,7 +535,8 @@
     "japanese": "爆破への情熱",
     "russian": "Тяга к взрывам",
     "ukrainian": "Любитель Байрактарів*",
-    "spanishesp": "Pasión por las explosiones"
+    "spanishesp": "Pasión por las explosiones",
+    "czech": "Vášeň pro výbuchy",
   },
   "laser_Desc": {
     "english": "Destroy 30 objects with the Laser Cannon.",
@@ -501,7 +546,8 @@
     "japanese": "レーザー砲で30個のオブジェクトを破壊する。",
     "russian": "Уничтожьте 30 объектов с помощью лазерной пушки.",
     "ukrainian": "Знищ 30 об'єктів за допомогою Лазера.",
-    "spanishesp": "Destruye 30 objetos con el cañón láser."
+    "spanishesp": "Destruye 30 objetos con el cañón láser.",
+    "czech": "Zničte 30 objektů pomocí laserového děla.",
   },
   "ff_Title": {
     "english": "I wonder where it came from?",
@@ -511,7 +557,8 @@
     "japanese": "起源不明。",
     "russian": "Откуда это взялось?",
     "ukrainian": "То звідки ж воно взялося?",
-    "spanishesp": "¿De dónde habrá salido?"
+    "spanishesp": "¿De dónde habrá salido?",
+    "czech": "Zajímalo by mě, kde se to tu vzalo?",
   },
   "ff_Desc": {
     "english": "Place the statue with mysterious origins.",
@@ -521,7 +568,8 @@
     "japanese": "謎の彫像を設置する。",
     "russian": "Разместите статую таинственного происхождения.",
     "ukrainian": "Побудуйте таємничу статую.",
-    "spanishesp": "Coloca la estatua de origen misterioso."
+    "spanishesp": "Coloca la estatua de origen misterioso.",
+    "czech": "Umístěte sochu s tajemným původem.",
   },
   "degrowth_Title": {
     "english": "Happy degrowth. Or maybe not?",
@@ -531,7 +579,8 @@
     "japanese": "吉凶の脱成長",
     "russian": "Счастливого ухудшения. Или нет?",
     "ukrainian": "З щасливим виселенням...",
-    "spanishesp": "Feliz decrecimiento. ¿O tal vez no?"
+    "spanishesp": "Feliz decrecimiento. ¿O tal vez no?",
+    "czech": "Šťastný růst. Nebo možná ne?",
   },
   "degrowth_Desc": {
     "english": "Two-hundreds of your Habitats downgraded in a single game.",
@@ -541,7 +590,8 @@
     "japanese": "1回のプレイで200カ所の居住地がダウングレードする。",
     "russian": "Двести ваших сред обитания ухудшились за одну игру.",
     "ukrainian": "Дві сотні ваших жилих модулів зменшили свій рівень за одну гру.",
-    "spanishesp": "Doscientos de tus hábitats degradados en una misma partida."
+    "spanishesp": "Doscientos de tus hábitats degradados en una misma partida.",
+    "czech": "V jediné hře byly sníženy úrovně dvěma stovkám vašich stanovišť.",
   },
   "sign_Title": {
     "english": "InfraSpace is welcoming you",
@@ -551,7 +601,8 @@
     "japanese": "InfraSpaceへようこそ",
     "russian": "InfraSpace приветствует вас",
     "ukrainian": "InfraSpace вітає вас",
-    "spanishesp": "InfraSpace te da la bienvenida"
+    "spanishesp": "InfraSpace te da la bienvenida",
+    "czech": "InfraSpace tě vítá",
   },
   "sign_Desc": {
     "english": "Build a sign.",
@@ -561,7 +612,8 @@
     "japanese": "看板を建設する。",
     "russian": "Постройте надпись.",
     "ukrainian": "Побудуйте свій перший знак.",
-    "spanishesp": "Construye un cartel."
+    "spanishesp": "Construye un cartel.",
+    "czech": "Postavte ceduli.",
   },
   "pixel_Title": {
     "english": "Make way for creativity!",
@@ -571,7 +623,8 @@
     "japanese": "クリエイティブ！",
     "russian": "Дорогу творчеству!",
     "ukrainian": "Креативність на максимум!",
-    "spanishesp": "¡Abran paso a la creatividad!"
+    "spanishesp": "¡Abran paso a la creatividad!",
+    "czech": "Uvolněte cestu kreativitě!",
   },
   "pixel_Desc": {
     "english": "Place thirty pixel buildings.",
@@ -581,7 +634,8 @@
     "japanese": "30棟のピクセル建造物を建設する。",
     "russian": "Разместите тридцать пиксельных зданий.",
     "ukrainian": "Побудуйте тридцять піксельних будівель.",
-    "spanishesp": "Coloca treinta edificios de píxeles."
+    "spanishesp": "Coloca treinta edificios de píxeles.",
+    "czech": "Umístění budov s třiceti pixely.",
   },
   "destroyer_Title": {
     "english": "Now I am become Death, the destroyer of worlds",
@@ -591,7 +645,8 @@
     "japanese": "世界の破壊者",
     "russian": "И имя мне Смерть, разрушительница миров",
     "ukrainian": "Я став Смертю, руйнівником світів",
-    "spanishesp": "Me he convertido en la muerte, el destructor de mundos"
+    "spanishesp": "Me he convertido en la muerte, el destructor de mundos",
+    "czech": "Stal jsem se Smrtí...ničitelem světů",
   },
   "destroyer_Desc": {
     "english": "Destroy fifty buildings in a row.",
@@ -601,7 +656,8 @@
     "japanese": "50棟の建物を連続で破壊する。",
     "russian": "Уничтожьте пятьдесят зданий подряд.",
     "ukrainian": "Знищ п'ятдесят будівель за раз.",
-    "spanishesp": "Destruye cincuenta edificios seguidos."
+    "spanishesp": "Destruye cincuenta edificios seguidos.",
+    "czech": "Zničte padesát budov v řadě.",
   },
   "power_Title": {
     "english": "Quite an electrical system!",
@@ -611,7 +667,8 @@
     "japanese": "電力システム快調！",
     "russian": "Отличная электросистема!",
     "ukrainian": "Здається, енергії достатньо!",
-    "spanishesp": "¡Menudo sistema de electricidad!"
+    "spanishesp": "¡Menudo sistema de electricidad!",
+    "czech": "Docela dobrý elektrický systém!",
   },
   "power_Desc": {
     "english": "Generate 10000 Power.",
@@ -621,7 +678,8 @@
     "japanese": "電力を10,000パワー発電する。",
     "russian": "Выработайте 10 000 ед. энергии.",
     "ukrainian": "Виробляйте 10 000 енергії.",
-    "spanishesp": "Genera 10 000 de energía."
+    "spanishesp": "Genera 10 000 de energía.",
+    "czech": "Generujte 10 000 energie.",
   },
   "adamantine_Title": {
     "english": "Miner of the Year",
@@ -631,7 +689,8 @@
     "japanese": "採掘MVP",
     "russian": "Шахтер года",
     "ukrainian": "Кар'єрист року!",
-    "spanishesp": "Minero del año"
+    "spanishesp": "Minero del año",
+    "czech": "Horník roku",
   },
   "adamantine_Desc": {
     "english": "Drill 1000 Adamantine.",
@@ -641,6 +700,7 @@
     "japanese": "アダマンタイトを1,000個採掘する。",
     "russian": "Добудьте 1000 ед. адамантина.",
     "ukrainian": "Видобудь 1 000 Адамантію.",
-    "spanishesp": "Perfora 1000 de adamantina."
+    "spanishesp": "Perfora 1000 de adamantina.",
+    "czech": "Vyvrtáno 1000 adamancia.",
   }
 }

@@ -25,7 +25,7 @@
     "scotsgaelic": "Gèam Ùr",
     "arabic": "لعبة جديدة",
     "korean": "새 게임",
-    "spanishesp": "Partida nueva"
+    "spanishesp": "Partida nueva",
   },
   "saveGame": {
     "english": "Save Game",
@@ -53,7 +53,7 @@
     "scotsgaelic": "Gèam a Shàbhaladh",
     "arabic": "حفظ اللعبة",
     "korean": "저장하기",
-    "spanishesp": "Guardar partida"
+    "spanishesp": "Guardar partida",
   },
   "loadGame": {
     "english": "Load Game",
@@ -81,7 +81,7 @@
     "scotsgaelic": "Tòisich Gèam",
     "arabic": "تحميل اللعبة",
     "korean": "불러오기",
-    "spanishesp": "Cargar partida"
+    "spanishesp": "Cargar partida",
   },
   "mainMenu": {
     "english": "Main Menu",
@@ -109,7 +109,7 @@
     "scotsgaelic": "Prìomh Chlàr",
     "arabic": "القائمة الرئيسية",
     "korean": "메인 메뉴",
-    "spanishesp": "Menú principal"
+    "spanishesp": "Menú principal",
   },
   "quit": {
     "english": "Quit",
@@ -137,7 +137,7 @@
     "scotsgaelic": "Stad an Gèam",
     "arabic": "خروج",
     "korean": "종료",
-    "spanishesp": "Salir"
+    "spanishesp": "Salir",
   },
   "back": {
     "english": "Back",
@@ -159,7 +159,7 @@
     "swiss german": "Zrugg",
     "farsi": "بازگشت",
     "scotsgaelic": "ais",
-    "spanishesp": "Atrás"
+    "spanishesp": "Atrás",
   },
   "backToGame": {
     "english": "Back to Game",
@@ -184,7 +184,7 @@
     "farsi": "ادامه بازی",
     "scotsgaelic": "Air ais dhan Ghèam",
     "arabic": "الرجوع إلى اللعبة",
-    "spanishesp": "Volver al juego"
+    "spanishesp": "Volver al juego",
   },
   "website": {
     "english": "Website",
@@ -212,7 +212,7 @@
     "scotsgaelic": "Làrach-lìn",
     "arabic": "الموقع",
     "korean": "홈페이지",
-    "spanishesp": "Página web"
+    "spanishesp": "Página web",
   },
   "forum": {
     "english": "Forum",
@@ -240,7 +240,7 @@
     "scotsgaelic": "Fòram",
     "arabic": "المنتدى",
     "korean": "게시판",
-    "spanishesp": "Foro"
+    "spanishesp": "Foro",
   },
   "updateAvailable": {
     "english": "Update Available!",
@@ -268,7 +268,7 @@
     "scotsgaelic": "Ùrachadh ri fhaighinn!",
     "arabic": "يتوفر تحديث!",
     "korean": "업데이트 가능!",
-    "spanishesp": "¡Actualización disponible!"
+    "spanishesp": "¡Actualización disponible!",
   },
   "getNewestVersion": {
     "english": "Get newest Version",
@@ -296,7 +296,7 @@
     "scotsgaelic": "Faigh an tionndadh as ùire",
     "arabic": "احصل على أحدث إصدار",
     "korean": "최신 버전 다운받기",
-    "spanishesp": "Obtén la versión más reciente"
+    "spanishesp": "Obtén la versión más reciente",
   },
   "yourVersion": {
     "english": "Your Version",
@@ -324,7 +324,7 @@
     "scotsgaelic": "Do Tionndadh",
     "arabic": "إصدارك",
     "korean": "설치된 버전",
-    "spanishesp": "Tu versión"
+    "spanishesp": "Tu versión",
   },
   "currentVersion": {
     "english": "Current Version",
@@ -352,7 +352,7 @@
     "scotsgaelic": "Tionndadh As ùire",
     "arabic": "الإصدار الحالي",
     "korean": "현재 버전",
-    "spanishesp": "Versión actual"
+    "spanishesp": "Versión actual",
   },
   "community": {
     "english": "Community",
@@ -379,7 +379,7 @@
     "farsi": "انجمن",
     "scotsgaelic": "Coimhearsnachd",
     "arabic": "منتدى اللاعبين",
-    "spanishesp": "Comunidad"
+    "spanishesp": "Comunidad",
   },
   "alphaNoticeTitle": {
     "english": "This is an Alpha Version",
@@ -406,7 +406,7 @@
     "farsi": "این یک ورژن الفا است",
     "scotsgaelic": "Is e seo dreach Alpha",
     "arabic": "هذا إصدار اختباري",
-    "spanishesp": "Esto es una versión alfa"
+    "spanishesp": "Esto es una versión alfa",
   },
   "alphaNoticeText": {
     "english": "This game is not finished yet. It may contain bugs.\n\nWe are releasing these early versions to players so that we can get some feedback on the gameplay and find bugs long before the official release.\n\nLet us know how you like it!",
@@ -433,7 +433,7 @@
     "farsi": "  از این بازی خوشتان امد؟ \n\n ما این نسخه های نسختین رو منتشر کردیم تا بتوانیم نظر بازیکنان را بدانیم و مشکلات را حل کنیم\n\n  این بازی هنوز تمام نشده،امکان دارد خرابی هایی داشته باشد",
     "scotsgaelic": "Chan eil an geama seo deiseil fhathast. 'S dòcha gu bheil mialan ann.\n\nTha sinn a' sgaoileadh nan dreachan tràtha seo gu cluicheadairean gus am faigh sinn fios air ais mun gheama agus lorg sinn biastagan fada ron fhoillseachadh oifigeil.\n\n Leig fios dhuinn mas toil leat an geama!",
     "arabic": "هذه اللعبة ليست مكتملة بعد.\n\nنحن نقوم بإطلاق تلك الإصدارات المبكرة للاعبين حتى نحصل على بعض التقييمات عن تجربة اللعب  واكتشاف المشاكل قبل إطلاق اللعبة الرسمي بكثير.\n\nأخبرنا كيف تحب اللعبة!",
-    "spanishesp": "Este juego aún no está terminado. Puede contener errores.\n\nEstamos proporcionando estas versiones tempranas a los jugadores para que puedan realizar comentarios sobre el juego y podamos encontrar errores mucho antes del lanzamiento oficial.\n\n¡Cuéntanos qué te parece!"
+    "spanishesp": "Este juego aún no está terminado. Puede contener errores.\n\nEstamos proporcionando estas versiones tempranas a los jugadores para que puedan realizar comentarios sobre el juego y podamos encontrar errores mucho antes del lanzamiento oficial.\n\n¡Cuéntanos qué te parece!",
   },
   "loadSave": {
     "english": "Load",
@@ -461,7 +461,7 @@
     "scotsgaelic": "Luchdaich",
     "arabic": "تحميل",
     "korean": "불러오기",
-    "spanishesp": "Cargar"
+    "spanishesp": "Cargar",
   },
   "overwriteSave": {
     "english": "Overwrite",
@@ -489,7 +489,7 @@
     "scotsgaelic": "Sgrìobh Thairis",
     "arabic": "إستبدال",
     "korean": "덮어쓰기",
-    "spanishesp": "Sobrescribir"
+    "spanishesp": "Sobrescribir",
   },
   "reallyDeleteSave": {
     "english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -517,7 +517,7 @@
     "scotsgaelic": "A bheil thu cinnteach gu bheil thu airson an sàbhaladh \"%save%\" a sguabadh às? Bidh e air falbh gu bràth.",
     "arabic": "هل أنت متأكد من رغبتك في مسح \"%save%\"؟ سيتم التخلص منها نهائيا.",
     "korean": "정말로 \"%save\"를 지우시길 원하십니까? 저장 파일이 영원히 사라지게 됩니다.",
-    "spanishesp": "¿Seguro que quieres borrar el archivo «%save%»? Se perderá para siempre."
+    "spanishesp": "¿Seguro que quieres borrar el archivo «%save%»? Se perderá para siempre.",
   },
   "reallyQuitGame": {
     "english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -545,7 +545,7 @@
     "scotsgaelic": "Cha deach an geama a shàbhaladh airson %mionaidean% mionaid. A bheil thu cinnteach gu bheil thu airson a dhol air ais dhan phrìomh chlàr gun sàbhaladh?",
     "arabic": "اللعبة لم يتم حفظها منذ %minutes% دقائق. هل أنت متأكد من رغبتك في الرجوع للقائمة الرئيسية بدون الحفظ؟",
     "korean": "게임이 %minutes% 분 동안 저장되지 않았습니다. 정말로 저장하지 않고 메인 메뉴로 나가시겠습니까?",
-    "spanishesp": "La partida no se ha guardado desde hace %minutes% minutos. ¿Seguro que quieres volver al menú principal sin guardar?"
+    "spanishesp": "La partida no se ha guardado desde hace %minutes% minutos. ¿Seguro que quieres volver al menú principal sin guardar?",
   },
   "outpostThetaThree": {
     "english": "Outpost Theta-3",
@@ -572,7 +572,7 @@
     "farsi": "پایگاه تتا 3",
     "scotsgaelic": "Campa Theta-3",
     "arabic": "القاعدة Theta-3",
-    "spanishesp": "Puesto avanzado Theta-3"
+    "spanishesp": "Puesto avanzado Theta-3",
   },
   "invalidFileNameCharacters": {
     "english": "Forbidden characters in file name",
@@ -600,7 +600,7 @@
     "scotsgaelic": "Caractaran toirmisgte ann an ainm faidhle",
     "arabic": "أحرف غير صالحة لإسم الملف",
     "korean": "사용할 수 없는 문자가 포함되어 있습니다",
-    "spanishesp": "Caracteres prohibidos en el nombre del archivo"
+    "spanishesp": "Caracteres prohibidos en el nombre del archivo",
   },
   "fileNameTooLong": {
     "english": "File name too long",
@@ -628,7 +628,7 @@
     "scotsgaelic": "Ainm an fhaidhle ro fhada",
     "arabic": "اسم الملف طويل جدا",
     "korean": "파일 이름이 너무 깁니다",
-    "spanishesp": "El nombre del archivo es demasiado largo"
+    "spanishesp": "El nombre del archivo es demasiado largo",
   },
   "fileNameTooShort": {
     "english": "File name too short",
@@ -656,7 +656,7 @@
     "scotsgaelic": "Ainm faidhle ro ghoirid",
     "arabic": "اسم الملف قصير جدا",
     "korean": "파일 이름이 너무 짧습니다",
-    "spanishesp": "El nombre del archivo es demasiado corto"
+    "spanishesp": "El nombre del archivo es demasiado corto",
   },
   "fileNameAlreadyUsed": {
     "english": "File name already used",
@@ -684,7 +684,7 @@
     "scotsgaelic": "Ainm faidhle air a chleachdadh mu thràth",
     "arabic": "اسم الملف مستعمل مسبقا",
     "korean": "이미 같은 이름의 파일이 있습니다",
-    "spanishesp": "El nombre del archivo ya está en uso"
+    "spanishesp": "El nombre del archivo ya está en uso",
   },
   "settings": {
     "english": "Settings",
@@ -712,7 +712,7 @@
     "scotsgaelic": "Suidhichidhean",
     "arabic": "الإعدادات",
     "korean": "설정",
-    "spanishesp": "Ajustes"
+    "spanishesp": "Ajustes",
   },
   "graphics": {
     "english": "Video",
@@ -740,7 +740,7 @@
     "scotsgaelic": "Bhideo",
     "arabic": "فيديو",
     "korean": "화면",
-    "spanishesp": "Vídeo"
+    "spanishesp": "Vídeo",
   },
   "graphicsQuality": {
     "english": "Graphics Quality",
@@ -768,7 +768,7 @@
     "scotsgaelic": "Càileachd Grafaigeachd",
     "arabic": "جودة الرسومات",
     "korean": "그래픽 품질",
-    "spanishesp": "Calidad gráfica"
+    "spanishesp": "Calidad gráfica",
   },
   "graphicsQualityLow": {
     "english": "Low",
@@ -796,7 +796,7 @@
     "scotsgaelic": "Ìosal",
     "arabic": "منخفض",
     "korean": "낮음",
-    "spanishesp": "Baja"
+    "spanishesp": "Baja",
   },
   "graphicsQualityMedium": {
     "english": "Medium",
@@ -824,7 +824,7 @@
     "scotsgaelic": "Meadhanach",
     "arabic": "متوسط",
     "korean": "보통",
-    "spanishesp": "Normal"
+    "spanishesp": "Normal",
   },
   "graphicsQualityHigh": {
     "english": "High",
@@ -852,7 +852,7 @@
     "scotsgaelic": "Àrd",
     "arabic": "عالي",
     "korean": "높음",
-    "spanishesp": "Alta"
+    "spanishesp": "Alta",
   },
   "resolution": {
     "english": "Resolution",
@@ -880,7 +880,7 @@
     "scotsgaelic": "Rhùn",
     "arabic": "الدقة",
     "korean": "해상도",
-    "spanishesp": "Resolución"
+    "spanishesp": "Resolución",
   },
   "displayMode": {
     "english": "Display Mode",
@@ -908,7 +908,7 @@
     "scotsgaelic": "MODE Taisbeanaidh",
     "arabic": "نمط الشاشة",
     "korean": "화면 모드",
-    "spanishesp": "Modo de visualización"
+    "spanishesp": "Modo de visualización",
   },
   "windowed": {
     "english": "Windowed",
@@ -936,7 +936,7 @@
     "scotsgaelic": "Uinneag",
     "arabic": "نافذة",
     "korean": "창 모드",
-    "spanishesp": "Ventana"
+    "spanishesp": "Ventana",
   },
   "fullscreen": {
     "english": "Fullscreen",
@@ -964,7 +964,7 @@
     "scotsgaelic": "Làn-Sgrìn",
     "arabic": "ملء الشاشة",
     "korean": "전체화면 모드",
-    "spanishesp": "Pantalla completa"
+    "spanishesp": "Pantalla completa",
   },
   "exclusiveFullscreen": {
     "english": "Exclusive Fullscreen",
@@ -991,7 +991,7 @@
     "farsi": "تمام صفحه خاص",
     "scotsgaelic": "Làn-Sgrìn sònraichte",
     "arabic": "ملء تام للشاشة",
-    "spanishesp": "Pantalla completa exclusiva"
+    "spanishesp": "Pantalla completa exclusiva",
   },
   "vsync": {
     "english": "Vsync",
@@ -1019,7 +1019,7 @@
     "scotsgaelic": "Vsync",
     "arabic": "Vsync",
     "korean": "수직동기화",
-    "spanishesp": "Sincronización virtual"
+    "spanishesp": "Sincronización virtual",
   },
   "slowVsync": {
     "english": "Slow",
@@ -1047,7 +1047,7 @@
     "scotsgaelic": "Mall",
     "arabic": "بطيئ",
     "korean": "느리게",
-    "spanishesp": "Lenta"
+    "spanishesp": "Lenta",
   },
   "on": {
     "english": "On",
@@ -1075,7 +1075,7 @@
     "scotsgaelic": "Gnìomhach",
     "arabic": "تشغيل",
     "korean": "켬",
-    "spanishesp": "Sí"
+    "spanishesp": "Sí",
   },
   "off": {
     "english": "Off",
@@ -1103,7 +1103,7 @@
     "scotsgaelic": "Neo-ghnìomhach",
     "arabic": "تعطيل",
     "korean": "끔",
-    "spanishesp": "No"
+    "spanishesp": "No",
   },
   "uiScale": {
     "english": "UI Scale",
@@ -1125,7 +1125,7 @@
     "swiss german": "UI Grössi",
     "farsi": "اندازه صفحه",
     "scotsgaelic": "UI Sgèile",
-    "spanishesp": "Escala de IU"
+    "spanishesp": "Escala de IU",
   },
   "brightness": {
     "english": "Brightness",
@@ -1153,7 +1153,7 @@
     "scotsgaelic": "Gile",
     "arabic": "السطوع",
     "korean": "밝기",
-    "spanishesp": "Brillo"
+    "spanishesp": "Brillo",
   },
   "audio": {
     "english": "Audio",
@@ -1181,7 +1181,7 @@
     "scotsgaelic": "Fuaim",
     "arabic": "الصوت",
     "korean": "소리",
-    "spanishesp": "Audio"
+    "spanishesp": "Audio",
   },
   "totalVolume": {
     "english": "Total Volume",
@@ -1209,7 +1209,7 @@
     "scotsgaelic": "Meud Iomlan Fuaim",
     "arabic": "الصوت الكلي",
     "korean": "전체 볼륨",
-    "spanishesp": "Volumen global"
+    "spanishesp": "Volumen global",
   },
   "soundEffects": {
     "english": "Sound Effects",
@@ -1237,7 +1237,7 @@
     "scotsgaelic": "Buaidhean Fuaim",
     "arabic": "التأثيرات الصوتية",
     "korean": "음향 효과",
-    "spanishesp": "Efectos de sonido"
+    "spanishesp": "Efectos de sonido",
   },
   "music": {
     "english": "Music",
@@ -1265,7 +1265,7 @@
     "scotsgaelic": "Ceol",
     "arabic": "الموسيقى",
     "korean": "배경음악",
-    "spanishesp": "Música"
+    "spanishesp": "Música",
   },
   "other": {
     "english": "Other",
@@ -1293,7 +1293,7 @@
     "scotsgaelic": "A bharrachd",
     "arabic": "أخرى",
     "korean": "기타",
-    "spanishesp": "Otros"
+    "spanishesp": "Otros",
   },
   "cameraSpeed": {
     "english": "Camera Speed",
@@ -1321,7 +1321,7 @@
     "scotsgaelic": "Luas Camara",
     "arabic": "سرعة الكاميرا",
     "korean": "카메라 스피드",
-    "spanishesp": "Velocidad de cámara"
+    "spanishesp": "Velocidad de cámara",
   },
   "language": {
     "english": "Language",
@@ -1349,7 +1349,7 @@
     "scotsgaelic": "Cànain",
     "arabic": "اللغة",
     "korean": "언어",
-    "spanishesp": "Idioma"
+    "spanishesp": "Idioma",
   },
   "mouseEdgeScrolling": {
     "english": "Mouse Edge Scrolling",
@@ -1377,7 +1377,7 @@
     "scotsgaelic": "Scroll oir na luchaige",
     "arabic": "تحريك الشاشة بوضع الفأرة على الأطراف",
     "korean": "가장자리에서 화면 끌기",
-    "spanishesp": "Control de cámara con ratón"
+    "spanishesp": "Control de cámara con ratón",
   },
   "confinedCursor": {
     "english": "Confined Cursor",
@@ -1392,7 +1392,8 @@
     "hungarian": "Ablakon belüli egér",
     "farsi": "نشانه‌گر محدود",
     "scotsgaelic": "Luchag Chuingealaichte",
-    "spanishesp": "Cursor confinado"
+    "spanishesp": "Cursor confinado",
+    "czech": "Omezení kurzoru",
   },
   "developerMode": {
     "english": "Developer Mode",
@@ -1420,7 +1421,7 @@
     "scotsgaelic": "Modh Leasaiche",
     "arabic": "وضع المبرمج",
     "korean": "개발자 모드",
-    "spanishesp": "Modo de desarrollador"
+    "spanishesp": "Modo de desarrollador",
   },
   "runningInBackground": {
     "english": "Game active in Background",
@@ -1448,7 +1449,7 @@
     "scotsgaelic": "Geama gnìomhach ann an Cùl-fhiosrachadh",
     "arabic": "اللعبة نشطة في الخلفية",
     "korean": "백그라운드에서 게임 활성화",
-    "spanishesp": "Juego activo en segundo plano"
+    "spanishesp": "Juego activo en segundo plano",
   },
   "showTutorials": {
     "english": "Show Tutorials",
@@ -1475,7 +1476,7 @@
     "farsi": "نمایش راهنما",
     "scotsgaelic": "Seall Cobhair",
     "arabic": "إظهار الإرشادات",
-    "spanishesp": "Mostrar tutoriales"
+    "spanishesp": "Mostrar tutoriales",
   },
   "resetKnownTutorials": {
     "english": "Reset Known Tutorials",
@@ -1502,7 +1503,7 @@
     "farsi": "ریست کردن راهنماها",
     "scotsgaelic": "Ath-shuidhich Cobhair",
     "arabic": "تجاوز الإرشادات",
-    "spanishesp": "Reiniciar tutoriales conocidos"
+    "spanishesp": "Reiniciar tutoriales conocidos",
   },
   "loadingWorld": {
     "english": "Loading World...",
@@ -1530,7 +1531,7 @@
     "scotsgaelic": "T-saoghail a luchdadh a-nuas...",
     "arabic": "تحميل العالم..",
     "korean": "세상을 불러오는 중...",
-    "spanishesp": "Cargando mundo..."
+    "spanishesp": "Cargando mundo...",
   },
   "reset": {
     "english": "Reset",
@@ -1558,7 +1559,7 @@
     "scotsgaelic": "Ath-shuidhich",
     "arabic": "إعادة تعيين",
     "korean": "초기화",
-    "spanishesp": "Reiniciar"
+    "spanishesp": "Reiniciar",
   },
   "ok": {
     "english": "Ok",
@@ -1585,7 +1586,7 @@
     "farsi": "باشه",
     "scotsgaelic": "Ceart gu leòr",
     "arabic": "تم",
-    "spanishesp": "Aceptar"
+    "spanishesp": "Aceptar",
   },
   "confirm": {
     "english": "Confirm",
@@ -1613,7 +1614,7 @@
     "scotsgaelic": "Dearbhaich",
     "arabic": "تأكيد",
     "korean": "확인",
-    "spanishesp": "Confirmar"
+    "spanishesp": "Confirmar",
   },
   "cancel": {
     "english": "Cancel",
@@ -1641,7 +1642,7 @@
     "scotsgaelic": "Sguir dheth",
     "arabic": "إلغاء",
     "korean": "취소",
-    "spanishesp": "Cancelar"
+    "spanishesp": "Cancelar",
   },
   "apply": {
     "english": "Apply",
@@ -1696,7 +1697,7 @@
     "farsi": "هورا!",
     "scotsgaelic": "Slàinte!",
     "arabic": "مرحى!",
-    "spanishesp": "¡Hurra!"
+    "spanishesp": "¡Hurra!",
   },
   "cameraControl": {
     "english": "Camera Control",
@@ -1724,7 +1725,7 @@
     "scotsgaelic": "Smachd Camara",
     "arabic": "التحكم بالكاميرا",
     "korean": "카메라 컨트롤",
-    "spanishesp": "Control de la cámara"
+    "spanishesp": "Control de la cámara",
   },
   "keybindings": {
     "english": "Key Bindings",
@@ -1752,7 +1753,7 @@
     "scotsgaelic": "Ceangail iuchair",
     "arabic": "اختصارات لوحة المفاتيح",
     "korean": "키보드 매핑",
-    "spanishesp": "Asignaciones de teclas"
+    "spanishesp": "Asignaciones de teclas",
   },
   "cameraGoForward": {
     "english": "Forward",
@@ -1780,7 +1781,7 @@
     "scotsgaelic": "Gluais Timcheall",
     "arabic": "أمام",
     "korean": "앞으로",
-    "spanishesp": "Adelante"
+    "spanishesp": "Adelante",
   },
   "cameraGoBack": {
     "english": "Back",
@@ -1808,7 +1809,7 @@
     "scotsgaelic": "Gluais Air ais",
     "arabic": "خلف",
     "korean": "뒤로",
-    "spanishesp": "Atrás"
+    "spanishesp": "Atrás",
   },
   "cameraGoLeft": {
     "english": "Left",
@@ -1836,7 +1837,7 @@
     "scotsgaelic": "Gluais Air chlì",
     "arabic": "يسار",
     "korean": "왼쪽으로",
-    "spanishesp": "Izquierda"
+    "spanishesp": "Izquierda",
   },
   "cameraGoRight": {
     "english": "Right",
@@ -1864,7 +1865,7 @@
     "scotsgaelic": "Gluais Gu deas",
     "arabic": "يمين",
     "korean": "오른쪽으로",
-    "spanishesp": "Derecha"
+    "spanishesp": "Derecha",
   },
   "rotate": {
     "english": "Rotate",
@@ -1892,7 +1893,7 @@
     "scotsgaelic": "Rothaich",
     "arabic": "التفاف",
     "korean": "회전",
-    "spanishesp": "Girar"
+    "spanishesp": "Girar",
   },
   "pan": {
     "english": "Mouse Dragging",
@@ -1903,6 +1904,7 @@
     "japanese": "マウスドラッグ",
     "russian": "Перетаскивание мышью",
     "spanishesp": "Arrastrar ratón"
+    "czech": "Tažení myší",
   },
   "zoomIn": {
     "english": "Zoom In",
@@ -1930,7 +1932,7 @@
     "scotsgaelic": "Gluais a-steach",
     "arabic": "تكبير",
     "korean": "줌인",
-    "spanishesp": "Acercar vista"
+    "spanishesp": "Acercar vista",
   },
   "zoomOut": {
     "english": "Zoom Out",
@@ -1958,7 +1960,7 @@
     "scotsgaelic": "Gluais a-mach",
     "arabic": "تصغير",
     "korean": "줌아웃",
-    "spanishesp": "Alejar vista"
+    "spanishesp": "Alejar vista",
   },
   "fastCameraMovement": {
     "english": "Fast Camera Movement",
@@ -1976,7 +1978,7 @@
     "swiss german": "Schnälli Kamerabewegig",
     "farsi": "حرکت سریع دوربین",
     "scotsgaelic": "Gluasad Camara luath",
-    "spanishesp": "Movimiento de cámara rápido"
+    "spanishesp": "Movimiento de cámara rápido",
   },
   "cityShortcuts": {
     "english": "City Shortcuts",
@@ -1994,7 +1996,7 @@
     "swiss german": "Stadt-Shortcuts",
     "farsi": "میانبر های شهر",
     "scotsgaelic": "Ath-ghoiridean Cathair-bhaile",
-    "spanishesp": "Atajos de ciudad"
+    "spanishesp": "Atajos de ciudad",
   },
   "research": {
     "english": "Research",
@@ -2012,7 +2014,7 @@
     "swiss german": "Forschig",
     "farsi": "تحقیق",
     "scotsgaelic": "Rannsachadh",
-    "spanishesp": "Investigación"
+    "spanishesp": "Investigación",
   },
   "transportLines": {
     "english": "Transport Lines",
@@ -2030,7 +2032,7 @@
     "swiss german": "Transportliniänä",
     "farsi": "خط های جابجایی",
     "scotsgaelic": "Loidhne Còmhdhail",
-    "spanishesp": "Líneas de transporte"
+    "spanishesp": "Líneas de transporte",
   },
   "constructionKeybindings": {
     "english": "Construction",
@@ -2057,7 +2059,7 @@
     "farsi": "ساخت",
     "scotsgaelic": "Togail",
     "arabic": "بناء",
-    "spanishesp": "Construcción"
+    "spanishesp": "Construcción",
   },
   "raiseRoad": {
     "english": "Raise Road",
@@ -2084,7 +2086,7 @@
     "farsi": "بالا اوردن جاده",
     "scotsgaelic": "Gluais suas an Rathad",
     "arabic": "رفع الطريق",
-    "spanishesp": "Elevar carretera"
+    "spanishesp": "Elevar carretera",
   },
   "lowerRoad": {
     "english": "Lower Road",
@@ -2110,7 +2112,7 @@
     "farsi": "پایین اوردن جاده",
     "scotsgaelic": "Gluais sìos an Rathad",
     "arabic": "خفض الطريق",
-    "spanishesp": "Bajar carretera"
+    "spanishesp": "Bajar carretera",
   },
   "precisionConstruction": {
     "english": "Precision Construction",
@@ -2128,7 +2130,7 @@
     "swiss german": "Präzisäs Bauä",
     "farsi": "ساخت دقیق",
     "scotsgaelic": "Togail Mionaideach",
-    "spanishesp": "Construcción de precisión"
+    "spanishesp": "Construcción de precisión",
   },
   "holdLeftShift": {
     "english": "Hold Shift (left)",
@@ -2145,7 +2147,7 @@
     "swiss german": "Shift (links) lang druckä",
     "farsi": "کلید شیفت را نگه دارید(سمت چپ)",
     "scotsgaelic": "Cùm Shift (clì)",
-    "spanishesp": "Mantener Mayús (izquierda)"
+    "spanishesp": "Mantener Mayús (izquierda)",
   },
   "toggleGrid": {
     "english": "Toggle Grid",
@@ -2166,7 +2168,7 @@
     "swiss german": "Gitter umschaltä",
     "farsi": "روشن کردن شطرنج",
     "scotsgaelic": "Toggle Grid",
-    "spanishesp": "Alternar cuadrícula"
+    "spanishesp": "Alternar cuadrícula",
   },
   "move": {
     "english": "Move",
@@ -2184,7 +2186,7 @@
     "swiss german": "Verschiäbä",
     "farsi": "تکان دادن",
     "scotsgaelic": "Gluais",
-    "spanishesp": "Mover"
+    "spanishesp": "Mover",
   },
   "delete": {
     "english": "Delete",
@@ -2202,7 +2204,7 @@
     "swiss german": "Löschä",
     "farsi": "حذف کردن",
     "scotsgaelic": "Sguab às",
-    "spanishesp": "Borrar"
+    "spanishesp": "Borrar",
   },
   "constructionMenus": {
     "english": "Construction Menus",
@@ -2220,7 +2222,7 @@
     "swiss german": "Baumenüs",
     "farsi": "منو ساخت",
     "scotsgaelic": "Clàr-taice togail",
-    "spanishesp": "Menús de construcción"
+    "spanishesp": "Menús de construcción",
   },
   "leftShiftAndNumber": {
     "english": "Shift (left) + Number",
@@ -2238,7 +2240,7 @@
     "swiss german": "Shift (links) + Zahl",
     "farsi": "کلید شیفت(سمت چپ) +عدد",
     "scotsgaelic": "Shift (clì) + Àireamh",
-    "spanishesp": "Mayús (izquierda) + Número"
+    "spanishesp": "Mayús (izquierda) + Número",
   },
   "timeControl": {
     "english": "Time Control",
@@ -2266,7 +2268,7 @@
     "scotsgaelic": "Smachd ùine",
     "arabic": "التحكم بالوقت",
     "korean": "빠르기 조절",
-    "spanishesp": "Control del tiempo"
+    "spanishesp": "Control del tiempo",
   },
   "pause": {
     "english": "Pause",
@@ -2294,7 +2296,7 @@
     "scotsgaelic": "Ùine stad",
     "arabic": "إيقاف",
     "korean": "일시정지",
-    "spanishesp": "Pausa"
+    "spanishesp": "Pausa",
   },
   "normalSimulationSpeed": {
     "english": "Normal Simulation Speed",
@@ -2312,7 +2314,7 @@
     "swiss german": "Normali Simulations-Gschwindigkeit",
     "farsi": "سرعت شبیه سازی عادی",
     "scotsgaelic": "Astar àbhaisteach",
-    "spanishesp": "Velocidad de simulación normal"
+    "spanishesp": "Velocidad de simulación normal",
   },
   "fastSimulationSpeed": {
     "english": "Fast Simulation Speed",
@@ -2330,7 +2332,7 @@
     "swiss german": "Schnälli Simulations-Gschwindigkeit",
     "farsi": "سرعت شبیه سازی تند",
     "scotsgaelic": "Astar Luath",
-    "spanishesp": "Velocidad de simulación rápida"
+    "spanishesp": "Velocidad de simulación rápida",
   },
   "rotateLeft": {
     "english": "Rotate Left",
@@ -2358,7 +2360,7 @@
     "scotsgaelic": "Rothaich Air chlì",
     "arabic": "إالتفاف لليسار",
     "korean": "왼쪽으로 회전",
-    "spanishesp": "Girar a la izquierda"
+    "spanishesp": "Girar a la izquierda",
   },
   "rotateRight": {
     "english": "Rotate Right",
@@ -2386,7 +2388,7 @@
     "scotsgaelic": "Rothaich Deas",
     "arabic": "إلتفاف لليمين",
     "korean": "오른쪽으로 회전",
-    "spanishesp": "Girar a la derecha"
+    "spanishesp": "Girar a la derecha",
   },
   "miscellaneous": {
     "english": "Miscellaneous",
@@ -2414,7 +2416,7 @@
     "scotsgaelic": "Rudan Eile",
     "arabic": "متعدد",
     "korean": "기타",
-    "spanishesp": "Varios"
+    "spanishesp": "Varios",
   },
   "screenshot": {
     "english": "Screenshot",
@@ -2442,7 +2444,7 @@
     "scotsgaelic": "Glacadh-sgrìn",
     "arabic": "صورة للشاشة",
     "korean": "스크린샷",
-    "spanishesp": "Captura de pantalla"
+    "spanishesp": "Captura de pantalla",
   },
   "screenshotMode": {
     "english": "Screenshot Mode",
@@ -2469,7 +2471,7 @@
     "farsi": "حالت عکس صفحه",
     "scotsgaelic": "Modh Glacadh-sgrìn",
     "arabic": "وضع التقاط صورة شاشة",
-    "spanishesp": "Modo de captura de pantalla"
+    "spanishesp": "Modo de captura de pantalla",
   },
   "openScreenshotsFolder": {
     "english": "Open Screenshots Folder",
@@ -2497,7 +2499,7 @@
     "scotsgaelic": "Fosgail am Pasgan glacadh-sgrìn",
     "arabic": "افتح مجلد لقطات الشاشة",
     "korean": "스크린샷 폴더 열기",
-    "spanishesp": "Abrir carpeta de capturas de pantalla"
+    "spanishesp": "Abrir carpeta de capturas de pantalla",
   },
   "showScreenshotsSaves": {
     "english": "Open Screenshots / Saves",
@@ -2524,7 +2526,7 @@
     "farsi": "باز کردن عکس ها/دنیا ها",
     "scotsgaelic": "Fosgail glacadh-sgrìn / Sàbhail",
     "arabic": "افتح لقطات الشاشة / المحفوظات",
-    "spanishesp": "Abrir capturas de pantalla/partidas guardadas"
+    "spanishesp": "Abrir capturas de pantalla/partidas guardadas",
   },
   "showfps": {
     "english": "Show Frames per Second",
@@ -2552,7 +2554,7 @@
     "scotsgaelic": "Seall Frèamaichean gach diog",
     "arabic": "إظهار معدل الإطارات في الثانية",
     "korean": "FPS 확인",
-    "spanishesp": "Mostrar FPS"
+    "spanishesp": "Mostrar FPS",
   },
   "quicksave": {
     "english": "Quick Save",
@@ -2570,7 +2572,7 @@
     "swiss german": "Schnällspeichere",
     "farsi": "ذخیره سریع",
     "scotsgaelic": "Sàbhail Gu sgiobalta",
-    "spanishesp": "Guardado rápido"
+    "spanishesp": "Guardado rápido",
   },
   "quickload": {
     "english": "Quick Load",
@@ -2588,7 +2590,7 @@
     "swiss german": "Schnällladä",
     "farsi": "باز کردن سریع",
     "scotsgaelic": "Tòiseachadh Luath",
-    "spanishesp": "Carga rápida"
+    "spanishesp": "Carga rápida",
   },
   "key_Mouse0": {
     "english": "Left Mouse Button",
@@ -2616,7 +2618,7 @@
     "scotsgaelic": "Putan clì na Luchaige",
     "arabic": "زر الفأرة الأيسر",
     "korean": "마우스 왼쪽 버튼",
-    "spanishesp": "Botón izquierdo del ratón"
+    "spanishesp": "Botón izquierdo del ratón",
   },
   "key_Mouse1": {
     "english": "Right Mouse Button",
@@ -2644,7 +2646,7 @@
     "scotsgaelic": "Putan deas na Luchaige",
     "arabic": "زر الفأرة الأيمن",
     "korean": "마우스 오른쪽 버튼",
-    "spanishesp": "Botón derecho del ratón"
+    "spanishesp": "Botón derecho del ratón",
   },
   "key_Mouse2": {
     "english": "Middle Mouse Button",
@@ -2672,7 +2674,7 @@
     "scotsgaelic": "Putan Meadhanach na Luch",
     "arabic": "زر الفأرة الأوسط",
     "korean": "마우스 가운데 버튼",
-    "spanishesp": "Rueda del ratón"
+    "spanishesp": "Rueda del ratón",
   },
   "key_Space": {
     "english": "Space",
@@ -2700,7 +2702,7 @@
     "scotsgaelic": "Bàr-Fànais",
     "arabic": "مسافة",
     "korean": "스페이스",
-    "spanishesp": "Espacio"
+    "spanishesp": "Espacio",
   },
   "key_LeftShift": {
     "english": "Shift (left)",
@@ -2728,7 +2730,7 @@
     "scotsgaelic": "Shift (clì)",
     "arabic": "Shift (يسار)",
     "korean": "Shift (왼쪽)",
-    "spanishesp": "Mayús (izquierda)"
+    "spanishesp": "Mayús (izquierda)",
   },
   "key_RightShift": {
     "english": "Shift (right)",
@@ -2755,7 +2757,7 @@
     "scotsgaelic": "Shift (deas)",
     "arabic": "Shift (يمين)",
     "korean": "Shift (오른쪽)",
-    "spanishesp": "Mayús (derecha)"
+    "spanishesp": "Mayús (derecha)",
   },
   "key_LeftAlt": {
     "english": "Alt (left)",
@@ -2782,7 +2784,7 @@
     "scotsgaelic": "Alt (clì)",
     "arabic": "Alt (يسار)",
     "korean": "Alt (왼쪽)",
-    "spanishesp": "Alt (izquierda)"
+    "spanishesp": "Alt (izquierda)",
   },
   "key_RightAlt": {
     "english": "Alt (right)",
@@ -2809,7 +2811,7 @@
     "scotsgaelic": "Alt (deas)",
     "arabic": "Alt (يمين)",
     "korean": "Alt (오른쪽)",
-    "spanishesp": "Alt (derecha)"
+    "spanishesp": "Alt (derecha)",
   },
   "key_LeftControl": {
     "english": "Ctrl (left)",
@@ -2836,7 +2838,7 @@
     "scotsgaelic": "Ctrl (clì)",
     "arabic": "Ctrl (يسار)",
     "korean": "Ctrl (왼쪽)",
-    "spanishesp": "Ctrl (izquierda)"
+    "spanishesp": "Ctrl (izquierda)",
   },
   "key_RightControl": {
     "english": "Ctrl (right)",
@@ -2863,7 +2865,7 @@
     "scotsgaelic": "Ctrl (deas)",
     "arabic": "Ctrl (يمين)",
     "korean": "Ctrl (오른쪽)",
-    "spanishesp": "Ctrl (derecha)"
+    "spanishesp": "Ctrl (derecha)",
   },
   "key_CapsLock": {
     "english": "Caps Lock",
@@ -2890,7 +2892,7 @@
     "scotsgaelic": "Caps Lock",
     "arabic": "Caps Lock",
     "korean": "Caps Lock",
-    "spanishesp": "Bloq Mayús"
+    "spanishesp": "Bloq Mayús",
   },
   "key_PageUp": {
     "english": "Page Up",
@@ -2916,7 +2918,7 @@
     "swiss german": "Siitä uä",
     "scotsgaelic": "Duilleag Suas",
     "arabic": "Page Up",
-    "spanishesp": "RePág"
+    "spanishesp": "RePág",
   },
   "key_PageDown": {
     "english": "Page Down",
@@ -2942,7 +2944,7 @@
     "swiss german": "Siitä abä",
     "scotsgaelic": "Duilleag Sìos",
     "arabic": "Page Down",
-    "spanishesp": "AvPág"
+    "spanishesp": "AvPág",
   },
   "saveBarelyCompatibleWithGameVersion": {
     "english": "This save is only partially compatible with your game version.",
@@ -2963,7 +2965,7 @@
     "greek": "Η αποθήκευση είναι μόνο μερικώς συμβατή με την έκδοση παιχνιδιού σου",
     "swiss german": "Dä Schpielstand isch numä zum Teil Kompatibäl mit dinärä Spielversion",
     "scotsgaelic": "Chan eil an sàbhaladh seo ach gu ìre co-chòrdail ris an tionndadh geama agad.",
-    "spanishesp": "Esta partida guardada solo es parcialmente compatible con tu versión del juego."
+    "spanishesp": "Esta partida guardada solo es parcialmente compatible con tu versión del juego.",
   },
   "saveBarelyCompatibleTitle": {
     "english": "How to play incompatible saves",
@@ -2984,7 +2986,7 @@
     "greek": "Πως να παίξεις μη συμβατές αποθηκεύσεις",
     "swiss german": "Wie mä kampatibli Schpielständ spilt",
     "scotsgaelic": "Mar a chluicheas tu sàbhalaidhean neo-fhreagarrach",
-    "spanishesp": "Cómo jugar con partidas guardadas incompatibles"
+    "spanishesp": "Cómo jugar con partidas guardadas incompatibles",
   },
   "saveBarelyCompatibleDesc": {
     "english": "When we release a big game update, sometimes saves are not fully compatible.\nYou have two options:\n\n1. Keep playing your save on the previous version. We made a tutorial for you.\n2. Try converting your save game into the new version.\n\nSave conversions are not perfect. You probably need to pause the game and spend some time fixing any problems.",
@@ -3005,7 +3007,7 @@
     "greek": "Όταν κυκλοφορούμε μία μεγάλη αναβάθμιση παιχνιδιου, μερικές φορές οι αποθηκεύσεις παιχνιδιών δεν είναι εντλεώς συμβατές.\n Έχεις δύο επιλογές:\n\n1.Συνέχισε να παίζεις το αποθηκευμένο σου παχνίδι στην προηγούμενη έκδοση.Έχουμε φτιάξει έναν οδηγό για 'σένα.\n2.Δοκίμασε να μετατρέψεις την αποθήκευση του παιχνιδιού σου στην νέα έκδοση.\n\nΜερικές μετατροπές δεν είναι τέλειες.Πιθανόν χρείαζεται να κάνεις παύση το παχνίδι και να χρειαστείς χρόνο να επιδιορθώσεις διάφορα προβλήματα.",
     "swiss german": "Wänn mir es grossäs Update veröffentlichäd, sind Spielständ mängisch nöd voll kompatibel.\nDu häsch 2 Möglichkeitä:\n\n1. Spil din Spielstand uf dä vorherige Version wiiter. Mir händ ä Ahleitig für dich erstellt.\nVersuech din Spielstand uf di neuscht Version z`konvertiere.\n\nKonvertierigä sind nöd pärfäkt. Du muäsch warschindlich s`Spiel pausiärä und d Problem i dinere Stadt behebä.",
     "scotsgaelic": "Nuair a chuireas sinn a-mach ùrachadh geama mòr, uaireannan chan eil sàbhalaidhean gu tur co-chòrdail.\nTha dà roghainn agad:\n\n1. Cùm a’ cluich do shàbhaladh air an tionndadh roimhe. Rinn sinn oideachadh dhut.\n2. Feuch an tionndaidh thu an geama sàbhalaidh agad gu tionndadh ùr.\n\nChan eil na h-atharraichean sàbhalaidh foirfe. Is dòcha gu feum thu stad a chuir air a’ gheama agus beagan ùine a chaitheamh a’ fuasgladh dhuilgheadasan sam bith.",
-    "spanishesp": "Cuando lanzamos una gran actualización del juego, en ocasiones las partidas guardadas no son completamente compatibles.\nTienes dos opciones:\n\n1. Seguir jugando con tu partida guardada en la versión anterior. Hemos creado un tutorial para ti.\n2. Intentar convertir tu partida guardada a la nueva versión.\n\nLas conversiones de partidas guardadas no son perfectas. Probablemente tengas que pausar el juego y dedicar algo de tiempo a solucionar algunos problemas."
+    "spanishesp": "Cuando lanzamos una gran actualización del juego, en ocasiones las partidas guardadas no son completamente compatibles.\nTienes dos opciones:\n\n1. Seguir jugando con tu partida guardada en la versión anterior. Hemos creado un tutorial para ti.\n2. Intentar convertir tu partida guardada a la nueva versión.\n\nLas conversiones de partidas guardadas no son perfectas. Probablemente tengas que pausar el juego y dedicar algo de tiempo a solucionar algunos problemas.",
   },
   "changeGameVersion": {
     "english": "Change Game Version",
@@ -3026,7 +3028,7 @@
     "greek": "Άλλαξε την έκδοση παχνιδιου",
     "swiss german": "Spielversion wächslä",
     "scotsgaelic": "Atharraich Dreach Geama",
-    "spanishesp": "Cambiar la versión del juego"
+    "spanishesp": "Cambiar la versión del juego",
   },
   "tryConversion": {
     "english": "Try Conversion",
@@ -3047,7 +3049,7 @@
     "greek": "Δοκίμασε μετατροπή",
     "swiss german": "Konvertierig versueche",
     "scotsgaelic": "Feuch Tionndadh",
-    "spanishesp": "Probar la conversión"
+    "spanishesp": "Probar la conversión",
   },
   "saveNotCompatibleWithGameVersion": {
     "english": "This save is not compatible with your game version.\nYou can play old versions using the 'Betas' feature in Steam.",
@@ -3074,7 +3076,7 @@
     "scotsgaelic": "Chan eil an sàbhaladh seo co-chòrdail ris an tionndadh geama agad.\n'S urrainn dhut seann dhreachan a chluich leis an fheart 'Betas' air Steam.",
     "arabic": "هذا الحفظ غير متوافق مع إصدار اللعبة الخاص بك.\nيمكنك لعب الإصدارات القديمة باستخدام خاصية 'Betas' بمتجر Steam.",
     "korean": "이 저장 파일은 게임 버전과 호환되지 않습니다.\n공지사항에서 구 버전에서 저장된 게임을 이어하는 방법에 대한 튜토리얼을 찾아볼 수 있습니다.",
-    "spanishesp": "Esta partida guardada no es compatible con tu versión del juego.\nPuedes jugar en versiones antiguas usando la opción «Betas» de Steam."
+    "spanishesp": "Esta partida guardada no es compatible con tu versión del juego.\nPuedes jugar en versiones antiguas usando la opción «Betas» de Steam.",
   },
   "roadmap": {
     "english": "Roadmap",
@@ -3101,7 +3103,7 @@
     "farsi": "نقشه پیشروی",
     "scotsgaelic": "Clàr-Rathaid",
     "arabic": "خارطة طريق",
-    "spanishesp": "Hoja de ruta"
+    "spanishesp": "Hoja de ruta",
   },
   "noRoadmapFound": {
     "english": "No Roadmap found.\n\nAre you connected to the internet?",
@@ -3127,7 +3129,7 @@
     "swiss german": "Kei Roadmap gfunde. \n\nBisch du mit äm Internet verbundä?",
     "scotsgaelic": "Cha deach mapa-rathaid a lorg.\n\nA bheil ceangal agad ris an eadar-lìon?",
     "arabic": "لم يتم إيجاد خريطة طريق.\n\nهل أنت متصل بالإنترنت؟",
-    "spanishesp": "No se ha encontrado ninguna hoja de ruta.\n\n¿Tienes conexión a internet?"
+    "spanishesp": "No se ha encontrado ninguna hoja de ruta.\n\n¿Tienes conexión a internet?",
   },
   "earlyAccessPromises": {
     "english": "Guaranteed Features for Early Access",
@@ -3154,7 +3156,7 @@
     "farsi": "چیز هایی که حتما اضافه میشوند",
     "scotsgaelic": "Feartan Barantaichte airson Ruigsinneachd tràth",
     "arabic": "مميزات مضمونة في الإصدار الأولي",
-    "spanishesp": "Características garantizadas para el acceso anticipado"
+    "spanishesp": "Características garantizadas para el acceso anticipado",
   },
   "voteOnExtraFeatures": {
     "english": "Vote on Extra Features",
@@ -3181,7 +3183,7 @@
     "farsi": "به چیز های جدید نظر دهید",
     "scotsgaelic": "Bhòt air Feartan a bharrachd",
     "arabic": "صوت على مميزات زائدة",
-    "spanishesp": "Votar por características adicionales"
+    "spanishesp": "Votar por características adicionales",
   },
   "voteOnExtraFeatures_desc": {
     "english": "Vote on your favorite features to let us know what we should focus on.\nWe will pick from this list based on community wishes and how well they fit in the game.",
@@ -3207,7 +3209,7 @@
     "swiss german": "Stimm für dini Lieblingsfeatures, dass mir wüssed uf was mir üs konzentriärä müend.\nMir wärded Features us därä Lischtä wählä je nachdäm we fest sie vo dä Community gwünscht wärded und we guet sie is Spiel passäd.",
     "scotsgaelic": "Bhòt air na feartan as fheàrr leat gus innse dhuinn cò air a bu chòir dhuinn fòcas a chuir.\nTaghaidh sinn bhon liosta seo a rèir miann na coimhearsnachd agus dè cho math sa tha iad a’ freagairt air a’ gheama.",
     "arabic": "صوت على المميزات المفضلة لديك لتعلمنا بما يجب علينا التركيز عليه.\nسنختار من هذه القائمة بناء على رغبة الجمهور ومدى إمكانية تطبيقها في اللعبة.",
-    "spanishesp": "Vota por tus características favoritas para hacernos saber en qué deberíamos centrarnos.\nEscogeremos el contenido de esta lista en función de los deseos de la comunidad y de lo bien que encajen en el juego."
+    "spanishesp": "Vota por tus características favoritas para hacernos saber en qué deberíamos centrarnos.\nEscogeremos el contenido de esta lista en función de los deseos de la comunidad y de lo bien que encajen en el juego.",
   },
   "vote": {
     "english": "Vote",
@@ -3234,7 +3236,7 @@
     "farsi": "رای",
     "scotsgaelic": "Bhòt",
     "arabic": "صوت",
-    "spanishesp": "Votar"
+    "spanishesp": "Votar",
   },
   "discuss": {
     "english": "Discuss",
@@ -3261,7 +3263,7 @@
     "farsi": "بحث ها",
     "scotsgaelic": "Bruidhinn",
     "arabic": "ناقش",
-    "spanishesp": "Comentar"
+    "spanishesp": "Comentar",
   },
   "reportBug": {
     "english": "Report a Bug",
@@ -3274,7 +3276,7 @@
     "japanese": "バグを報告",
     "russian": "Сообщить об ошибке",
     "hungarian": "Hiba bejelentése",
-    "czech": "Nahlásit bug",
+    "czech": "Nahlásit chybu",
     "ukrainian": "Повідомити про помилку",
     "polish": "Zgłoś błąd",
     "spanish": "Señalar un bug",
@@ -3288,7 +3290,7 @@
     "farsi": "یک خرابی را گزارش دهید",
     "scotsgaelic": "Dèan aithris air Bug",
     "arabic": "أبلغ عن مشكلة",
-    "spanishesp": "Informar de un error"
+    "spanishesp": "Informar de un error",
   },
   "translateInfraSpace": {
     "english": "Translate InfraSpace",
@@ -3314,7 +3316,7 @@
     "farsi": "بازی را ترجمه کنید!",
     "scotsgaelic": "Eadar-theangaich InfraSpace",
     "arabic": "ترجم InfraSpace",
-    "spanishesp": "Traducir InfraSpace"
+    "spanishesp": "Traducir InfraSpace",
   },
   "roadmap_trafficTools_title": {
     "english": "Traffic Signs and Traffic Lights",
@@ -3340,7 +3342,7 @@
     "swiss german": "Verchehrsschild und Amplä",
     "scotsgaelic": "Soidhnichean Trafaic agus Solais Trafaic",
     "arabic": "إشارات المرور وعلامات المرور",
-    "spanishesp": "Señales de tráfico y semáforos"
+    "spanishesp": "Señales de tráfico y semáforos",
   },
   "roadmap_trafficTools_desc": {
     "english": "Keep your intersections from getting clogged and prioritize which cars can go first.",
@@ -3366,7 +3368,7 @@
     "swiss german": "Bhalt dini Chrüüzige frei und bevorzug weli Autos zersch fahre dörfed.",
     "scotsgaelic": "Cùm do rathaidean bho bhith air am bacadh agus cuir prìomhachas air na càraichean as urrainn a dhol an toiseach.",
     "arabic": "حافظ على تقاطعات الطرق الخاصة بك من الاختناق المروري وضع أولويات من يمشي أولا",
-    "spanishesp": "Evita los atascos en las intersecciones y prioriza qué coches pueden pasar primero."
+    "spanishesp": "Evita los atascos en las intersecciones y prioriza qué coches pueden pasar primero.",
   },
   "roadmap_trains_title": {
     "english": "Trains",
@@ -3392,7 +3394,7 @@
     "swiss german": "Züüg",
     "scotsgaelic": "Trèanaichean",
     "arabic": "قطارات",
-    "spanishesp": "Trenes"
+    "spanishesp": "Trenes",
   },
   "roadmap_trains_desc": {
     "english": "Highways are nice, but sometimes you need to transport thousands of tons of materials through half the city.",
@@ -3418,7 +3420,7 @@
     "swiss german": "Autobahnä sind ja schön und guet aber wänn mä tuusigi Tonne Material dur d Stadt bevördere mues, sind Züüg sehr praktisch.",
     "scotsgaelic": "Tha rathaidean mòra snog, ach uaireannan feumaidh tu mìltean de thunnaichean de stuthan a ghiùlan tro leth a’ bhaile.",
     "arabic": "الطرق السريعة لطيفة، لكن أحيانا تحتاج لنقل آلاف الأطنان من الموارد عبر المدينة.",
-    "spanishesp": "Las autopistas están bien, pero a veces hay que transportar miles de toneladas de materiales por media ciudad."
+    "spanishesp": "Las autopistas están bien, pero a veces hay que transportar miles de toneladas de materiales por media ciudad.",
   },
   "roadmap_endgame_title": {
     "english": "Large Endgame Project",
@@ -3444,7 +3446,7 @@
     "swiss german": "Grossäs Endgame-Projekt",
     "scotsgaelic": "Pròiseact Geama Crìochnachaidh Mòr",
     "arabic": "مشروع نهاية اللعبة الكبير",
-    "spanishesp": "Gran proyecto de fin de partida"
+    "spanishesp": "Gran proyecto de fin de partida",
   },
   "roadmap_endgame_desc": {
     "english": "Have you maxed out your city and finished the tech tree? Are you looking for one final challenge?",
@@ -3470,7 +3472,7 @@
     "swiss german": "Wänn du scho s ganzä Spiel durägspilt häsch, hettisch nd d Chance uf ä letsti Useforderig.",
     "scotsgaelic": "A bheil thu air do bhaile-mòr a mheudachadh agus a’ chraobh tech a chrìochnachadh? A bheil thu a’ coimhead airson aon dùbhlan mu dheireadh?",
     "arabic": "هل وصلت إلى أعلى مستوى في مدينتك وأنهيت الشجرة التقنية؟ هل تبحث عن تحدي أخير؟",
-    "spanishesp": "¿Tu ciudad ha llegado al máximo y has terminado el árbol tecnológico? ¿Buscas un último reto?"
+    "spanishesp": "¿Tu ciudad ha llegado al máximo y has terminado el árbol tecnológico? ¿Buscas un último reto?",
   },
   "roadmap_gondolas_title": {
     "english": "Gondolas for Highland Access",
@@ -3496,7 +3498,7 @@
     "swiss german": "Gondlä für Verbindigä zu dä Hochebnä",
     "scotsgaelic": "Gondolas airson ruigsinneachd Gàidhealach",
     "arabic": "تلفريك للوصول إلى الأراضي المرتفعة",
-    "spanishesp": "Telecabinas para acceder a terreno elevado"
+    "spanishesp": "Telecabinas para acceder a terreno elevado",
   },
   "roadmap_gondolas_desc": {
     "english": "High capacity cargo gondolas can carry your goods over rocks and mountains.",
@@ -3522,7 +3524,7 @@
     "swiss german": "Grossi Gondlä chönd dini Materialie über Felsä und Bärg beförderä.",
     "scotsgaelic": "Faodaidh gondolas cargo le comas àrd do bhathar a ghiùlan thairis air creagan is beanntan.",
     "arabic": "عربات موارد تلفريك كبيرة السعة تستطيع حمل بضائعك فوق الصخور والجبال.",
-    "spanishesp": "Las telecabinas de carga de gran capacidad pueden transportar tus productos sobre rocas y montañas."
+    "spanishesp": "Las telecabinas de carga de gran capacidad pueden transportar tus productos sobre rocas y montañas.",
   },
   "roadmap_happinessSystem_title": {
     "english": "Happiness System",
@@ -3548,7 +3550,7 @@
     "swiss german": "Glücklichkeitssystem",
     "scotsgaelic": "Siostam Sonas",
     "arabic": "نظام سعادة",
-    "spanishesp": "Sistema de felicidad"
+    "spanishesp": "Sistema de felicidad",
   },
   "roadmap_happinessSystem_desc": {
     "english": "Improved system to decide when habitats upgrade. Takes into account nearby service buildings, noise, ordinances, and more.",
@@ -3574,7 +3576,7 @@
     "swiss german": "Verbesserts System zum z'entscheidä wänn sich en Wohnort verbesserät. Es Berücksichtigt Servicegebäude i dä Nöchi, Lärn, Verordnige und meh.",
     "scotsgaelic": "Siostam nas fheàrr gus co-dhùnadh cuin a bhios dachaighean ag ùrachadh. A’ toirt aire do thogalaichean seirbheis faisg air làimh, fuaim, agus barrachd.",
     "arabic": "نظام مطور ليقرر متى تتطور الوحدات السكنية. يأخذ في عين الاعتبار ما يجوارها من المباني الخدمية، الإزعاج، القوانين، والكثير.",
-    "spanishesp": "Sistema mejorado para decidir cuándo se mejoran los hábitats. Tiene en cuenta los edificios de servicio cercanos, el ruido, los reglamentos y más cosas."
+    "spanishesp": "Sistema mejorado para decidir cuándo se mejoran los hábitats. Tiene en cuenta los edificios de servicio cercanos, el ruido, los reglamentos y más cosas.",
   },
   "roadmap_modSupport_title": {
     "english": "Mod Support",
@@ -3599,7 +3601,7 @@
     "greek": "Υποστίριξη τροποποιήσεων",
     "swiss german": "Kompatibilität mit Mods",
     "arabic": "دعم التعديلات",
-    "spanishesp": "Soporte de mods"
+    "spanishesp": "Soporte de mods",
   },
   "roadmap_modSupport_desc": {
     "english": "Support for balance mods, building mods, resource mods, UI mods, infrastructure mods, and script mods.",
@@ -3624,7 +3626,7 @@
     "greek": "Υποστίριξη για τροποποιήσεις ισσοροπίας,τροποποιήσεις κτηρίων,τροποποιήσεις πόρων,τροποποιήσεις UI,τροποποιήσεις υποδομών και τροποποιήσεις σεναρίων",
     "swiss german": "Unterstützig für Guethabemods, Gebäudemods, Ressourcämods, UI-Mods, Infrastrukturmods und Scriptmods.",
     "arabic": "دعم تعديلات التوازن، تعديلات المباني، تعديلات الموارد، تعديلات واجهة المستخدم، تعديلات البنية التحتية، وتعديلات النصوص.",
-    "spanishesp": "Soporte para mods de equilibrio, mods de construcción, mods de recursos, mods de IU, mods de infraestructura y mods de scripts."
+    "spanishesp": "Soporte para mods de equilibrio, mods de construcción, mods de recursos, mods de IU, mods de infraestructura y mods de scripts.",
   },
   "roadmap_pipes_title": {
     "english": "Pipes for Liquids and Gases",
@@ -3649,7 +3651,7 @@
     "greek": "Σωλήνες για υγρά και αέρια",
     "swiss german": "Rohr für Flüssigkeitä und Gas",
     "arabic": "أنابيب للسوائل والغازات",
-    "spanishesp": "Tuberías para líquidos y gases"
+    "spanishesp": "Tuberías para líquidos y gases",
   },
   "roadmap_pipes_desc": {
     "english": "What if you could transport large quantities of resources below ground or in pipelines? What if you needed to produce water to survive?",
@@ -3674,7 +3676,7 @@
     "greek": "Τι κι αν μπορύσες να μεταφέρεις μεγάλες ποσότητες πόρων κάτω από το έδαφος ή σε σωληνώσεις; Τι κι αν χρειαζόταν να παράγεις νερό για να επιβιώσεις;",
     "swiss german": "Was wänn du grossi Mängänä a Flüssigkeite und Gas in Pipelines befördere chöntisch? Was wenns Wasser brüüchti zum Überläbä?",
     "arabic": "ماذا لو كان بإمكانك نقل كميات كبيرة من الموارد تحت الأرض أو خلال خطوط أنابيب؟ ماذا لو احتجت أن تنتج الماء لتنجو؟",
-    "spanishesp": "¿Y si pudieras transportar grandes cantidades de recursos por el subsuelo o mediante canalizaciones? ¿Y si tuvieras que producir agua para sobrevivir?"
+    "spanishesp": "¿Y si pudieras transportar grandes cantidades de recursos por el subsuelo o mediante canalizaciones? ¿Y si tuvieras que producir agua para sobrevivir?",
   },
   "roadmap_heatSystem_title": {
     "english": "Heat System",
@@ -3699,7 +3701,7 @@
     "greek": "Σύστημα Θέρμανσης",
     "swiss german": "Wärmesystem",
     "arabic": "نظام تدفئة",
-    "spanishesp": "Sistema de calor"
+    "spanishesp": "Sistema de calor",
   },
   "roadmap_heatSystem_desc": {
     "english": "Life support systems are important in space - keeping your city warm or cool enough could be critical.",
@@ -3724,7 +3726,7 @@
     "greek": "Τα συστήματα υποστήριξης ζωής είναι σημαντικά στο διάστημα - διατηρώντας την πόλη σου αρκετά ζεστή ή κρύα θα μπορύσε να είναι κρίσιμο",
     "swiss german": "Läbänsunterhaltigssystem sind wichtig im Wältall - dini Stadt gnueg Chüel oder Warm z`bhalte chönt überlebenswichtig sii.",
     "arabic": "نظم دعم الحياة مهمة في الفضاء - الحفاظ على مدينتك دافئة أو باردة بشكل كافي قد يكون حرجا.",
-    "spanishesp": "Los sistemas de soporte vital son cruciales en el espacio. Mantener tu ciudad lo suficientemente fría o caliente podría ser crítico."
+    "spanishesp": "Los sistemas de soporte vital son cruciales en el espacio. Mantener tu ciudad lo suficientemente fría o caliente podría ser crítico.",
   },
   "roadmap_dayNightCycle_title": {
     "english": "Day-Night Cycle",
@@ -3749,7 +3751,7 @@
     "greek": "Κύκλος Μέρας-Νύχτας",
     "swiss german": "Tag-Nacht-Zyklus",
     "arabic": "دورة الليل والنهار",
-    "spanishesp": "Ciclo de día y noche"
+    "spanishesp": "Ciclo de día y noche",
   },
   "roadmap_dayNightCycle_desc": {
     "english": "Looks cool and you need to prepare your power network for the night. Could also work well with heat system - sand planets cool off quickly at night.",
@@ -3774,7 +3776,7 @@
     "greek": "Φαίνεται ωραίο και χρειάζεται να προετοιμάσεις το ηλεκτρικό σου δίκτυο για την νύχτα.Θα μπορούσε επίσης να δουλέψει καλά με το σύστημα θέρμανσης - οι πλανήτες άμμου κρυώνουν γρήγορα την νύχτα.",
     "swiss german": "Gseht cool uus und du muesch dis Stromnetz uf d Nacht vorbereitä wenns kei Sunnä meh hät. Es chönt au guet mit äm Wärmesystem funktionierä - Sandplanetä wärded idä Nacht sehr chüel.",
     "arabic": "يبدو الجو باردا ويجب عليك تجهيز شبكة الطاقة الخاصة لقضاء الليلة. تكون جيدة أيضا للعمل مع وجود نظام تدفئة - رمال الكواكب تبرد سريعا خلال الليل.",
-    "spanishesp": "Luce de maravilla y tienes que preparar tu red de energía para la noche. Podría complementarse bien con el sistema de calor, porque los planetas de arena se enfrían rápidamente de noche."
+    "spanishesp": "Luce de maravilla y tienes que preparar tu red de energía para la noche. Podría complementarse bien con el sistema de calor, porque los planetas de arena se enfrían rápidamente de noche.",
   },
   "roadmap_firesCrime_title": {
     "english": "Fires and Crime",
@@ -3799,7 +3801,7 @@
     "greek": "Φωτιές και έγκλημα",
     "swiss german": "Füür und Kriminalität",
     "arabic": "الحرائق والجرائم",
-    "spanishesp": "Incendios y delitos"
+    "spanishesp": "Incendios y delitos",
   },
   "roadmap_firesCrime_desc": {
     "english": "Accidents happen and your city need emergency services to deal with them - be prepared!",
@@ -3824,7 +3826,7 @@
     "greek": "Αυτχήματα συμβαίνουν και η πόλη σου χρειάζεται υπηρεσίες έκτατης ανάγκης για να τις αντιμετωπίσει - ετοιμάσου!",
     "swiss german": "Umfäll chönd passierä und dini Stadt brucht Rettigspersonal - bi vorbereität!",
     "arabic": "الحوادث تحصل ومدينتك تحتاج إلى خدمات طوارئ لتتعامل معها - كن مستعدا!",
-    "spanishesp": "Puede haber accidentes, y tu ciudad necesita servicios de emergencia para lidiar con ellos, ¡así que prepárate!"
+    "spanishesp": "Puede haber accidentes, y tu ciudad necesita servicios de emergencia para lidiar con ellos, ¡así que prepárate!",
   },
   "roadmap_flyingCars_title": {
     "english": "Flying Cars for Workers",
@@ -3849,7 +3851,7 @@
     "greek": "Ιπτάμενα αυτοκίνητα για εργαζόμενους",
     "swiss german": "Flüügendi Autos für die wo müend go schaffe.",
     "arabic": "سيارات طائرة للعمال",
-    "spanishesp": "Coches voladores para trabajadores"
+    "spanishesp": "Coches voladores para trabajadores",
   },
   "roadmap_flyingCars_desc": {
     "english": "Let's add traffic for workers going to work, but also introduce the flying car upgrade to keep your road system from getting stuck.",
@@ -3874,7 +3876,7 @@
     "greek": "Ας προσθέσουμε κυκλοφορία για τους εργάτες που πάνε στην δουλεία, αλλά επίσης να εισάγουμε την αναβάθμιση ιπτάμενων αυτοκινήτων για να αποτρέψουμε το οδικό δίκτυο να κολλάει.",
     "swiss german": "D Lüüt wo müend go schaffe chönd flüügendi Autos näh. Äs Upgrade zu Flugautos wür au de Verchehr entlaschtä.",
     "arabic": "هيا بنا نضيف حركة مرور للعمال الذاهبين للعمل، ولكن أيضا نقدم تحديث السيارة الطائرة للحفاظ على نظام الطرق الخاص بك من الاكتظاظ.",
-    "spanishesp": "Añadamos tráfico para los trabajadores que van al trabajo, pero también la mejora de coches voladores para no sobrecargar tu sistema de carreteras."
+    "spanishesp": "Añadamos tráfico para los trabajadores que van al trabajo, pero también la mejora de coches voladores para no sobrecargar tu sistema de carreteras.",
   },
   "roadmap_naturalDisasters_title": {
     "english": "Natural Disasters",
@@ -3900,7 +3902,7 @@
     "swiss german": "Naturkatastrofä",
     "farsi": "وقایع طبیعی",
     "arabic": "الكوارث الطبيعية",
-    "spanishesp": "Desastres naturales"
+    "spanishesp": "Desastres naturales",
   },
   "roadmap_naturalDisasters_desc": {
     "english": "How well are your roads going to work after a sand storm? Would you be prepared?",
@@ -3926,7 +3928,7 @@
     "swiss german": "Wie guet würded dini Strasse nachemene Sandsturm funktionierä? Wärsch du parat?",
     "farsi": "ایا خیابان هایتان بعد از طوفان شن چجوری هستن",
     "arabic": "ما مدى كفاءة عمل طرقك بعد أن ضربتها عاصفة رملية؟ هل ستكون مستعدا؟",
-    "spanishesp": "¿Qué tal funcionarán tus carreteras después de una tormenta de arena? ¿Podrías lidiar con ello?"
+    "spanishesp": "¿Qué tal funcionarán tus carreteras después de una tormenta de arena? ¿Podrías lidiar con ello?",
   },
   "gameDifficulty_title": {
     "english": "Game Difficulty",
@@ -3952,7 +3954,7 @@
     "swiss german": "Schwirigkeit vom Spiel",
     "farsi": "سختی بازی",
     "arabic": "صعوبة اللعبة",
-    "spanishesp": "Dificultad del juego"
+    "spanishesp": "Dificultad del juego",
   },
   "gameDifficulty_desc": {
     "english": "Controls how many products citizens need.\nThe higher the difficulty, the better you have to manage your economy.",
@@ -3978,7 +3980,7 @@
     "swiss german": "Beiflusst we vil Produkt d Bewohner bruched. \nJe höcher d Schwirigkeit, desto besser muesch du dich um dini Wirtschaft kümmere.",
     "farsi": "مقدار نیاز مردم را مشخص میکند./nهرچه سختی کمتر باشد مقدار نیاز بیشتر است",
     "arabic": "تتحكم في عدد المنتجات التي يحتاج إليها سكانك.\nكلما زادت الصعوبة، زادت المهارة المطلوبة لإدارة الاقتصاد الخاص بك.",
-    "spanishesp": "Controla cuántos productos necesitan tus ciudadanos.\nCuanto mayor sea la dificultad, mejor tendrás que gestionar la economía."
+    "spanishesp": "Controla cuántos productos necesitan tus ciudadanos.\nCuanto mayor sea la dificultad, mejor tendrás que gestionar la economía.",
   },
   "transportDifficulty_title": {
     "english": "Transport Difficulty",
@@ -4004,7 +4006,7 @@
     "swiss german": "Schwirigkeit vom Transport",
     "farsi": "سختی حمل و نقل",
     "arabic": "صعوبة النقل",
-    "spanishesp": "Dificultad del transporte"
+    "spanishesp": "Dificultad del transporte",
   },
   "transportDifficulty_desc": {
     "english": "Controls how many items vehicles can carry.\nThe higher the difficulty, the fewer items can be carried at once.",
@@ -4030,7 +4032,7 @@
     "swiss german": "Beiflusst we vil Produkt d Fahrzüg chönd transportierä.\nJe höcher d Schwirigkeit, desto weniger chönds uf eimal transportierä.",
     "farsi": "/nتعدادی که ماشین ها میتوانند حمل بکنند را مشخص میکند. هر چقدر سختی بیشتر باشد تعداد کمتر است'",
     "arabic": "تتحكم في كمية البضائع التي تحملها العربات.\nكلما ازدادت الصعوبة، قلت كمية البضائع المحمولة في المرة الواحدة.",
-    "spanishesp": "Controla cuántos objetos pueden transportar los vehículos.\nCuanto mayor sea la dificultad, menos objetos se podrán transportar a la vez."
+    "spanishesp": "Controla cuántos objetos pueden transportar los vehículos.\nCuanto mayor sea la dificultad, menos objetos se podrán transportar a la vez.",
   },
   "startGame": {
     "english": "Start Game",
@@ -4056,7 +4058,7 @@
     "swiss german": "Spiel startä",
     "farsi": "شروع بازی",
     "arabic": "ابدأ اللعبة",
-    "spanishesp": "Comenzar partida"
+    "spanishesp": "Comenzar partida",
   },
   "difficulty_easy": {
     "english": "Easy",
@@ -4082,7 +4084,7 @@
     "swiss german": "Eifach",
     "farsi": "اسان",
     "arabic": "سهل",
-    "spanishesp": "Fácil"
+    "spanishesp": "Fácil",
   },
   "difficulty_medium": {
     "english": "Medium",
@@ -4108,7 +4110,7 @@
     "swiss german": "Mittäl",
     "farsi": "متوسط",
     "arabic": "متوسط",
-    "spanishesp": "Normal"
+    "spanishesp": "Normal",
   },
   "difficulty_hard": {
     "english": "Hard",
@@ -4134,7 +4136,7 @@
     "swiss german": "Schwär",
     "farsi": "سخت",
     "arabic": "صعب",
-    "spanishesp": "Difícil"
+    "spanishesp": "Difícil",
   },
   "mods": {
     "english": "Mods",
@@ -4147,7 +4149,8 @@
     "japanese": "MOD",
     "russian": "Моды",
     "hunagrian": "Modok",
-    "spanishesp": "Mods"
+    "spanishesp": "Mods",
+    "czech": "Módy",
   },
   "modsMayBeIncompatible": {
     "english": "Mods may be incompatible!\nMods in save:",
@@ -4160,7 +4163,7 @@
     "japanese": "Modは互換性がない可能性があります！\n保存済みのMod:",
     "russian": "Моды могут быть несовместимы!\nМоды в сохранении:",
     "hungarian": "Lehetséges, hogy néhány mod nem kompatibilis!\nEbben a mentésben aktív modok:",
-    "czech": "Mody mohou být nekompatibilní!\nMody v uložené hře:",
+    "czech": "Módy mohou být nekompatibilní!\nMódy v uložené hře:",
     "ukrainian": "Моди можуть бути несумісними!\nМоди в збережених:",
     "polish": "Mody mogą być niekompatybilne\nMody w zapisie:",
     "spanish": "¡Los Mods pueden ser incompatibles!\nMods en guardado:",
@@ -4169,7 +4172,7 @@
     "portuguese": "Mods podem ser incompatíveis!\nMods em salvar:",
     "arabic": "!ﺔﻘﻓﺍﻮﺘﻣ ﺮﻴﻏ ﻥﻮﻜﺗ ﺪﻗ ﺕﻼﻳﺪﻌﺘﻟﺍ\n ﻆﻔﺤﻟﺍ ﻲﻓ ﺕﻼﻳﺪﻌﺗ",
     "korean": "모드가 호환되지 않을 수 있습니다!\n모드:",
-    "spanishesp": "¡Los mods pueden ser incompatibles!\nMods en la partida guardada:"
+    "spanishesp": "¡Los mods pueden ser incompatibles!\nMods en la partida guardada:",
   },
   "noMods": {
     "thai": "ไม่มี",
@@ -4191,7 +4194,7 @@
     "arabic": "ﺪﺟﻮﻳ ﻻ",
     "korean": "없음",
     "english": "None",
-    "spanishesp": "Ninguno"
+    "spanishesp": "Ninguno",
   },
   "author": {
     "english": "Author",
@@ -4213,7 +4216,7 @@
     "portuguese": "Autor",
     "arabic": "ﻒﻟﺆﻤﻟﺍ",
     "korean": "작성자",
-    "spanishesp": "Autor"
+    "spanishesp": "Autor",
   },
   "active": {
     "english": "Active",
@@ -4235,7 +4238,7 @@
     "portuguese": "Ativo",
     "arabic": "ﻂﺸﻧ",
     "korean": "활성화",
-    "spanishesp": "Activo"
+    "spanishesp": "Activo",
   },
   "noModsInstalled": {
     "english": "You don't have any mods or extra content installed.",
@@ -4248,7 +4251,7 @@
     "japanese": "Modや追加のコンテンツはインストールされていません",
     "russian": "У вас нет установленных модов или доп. контента.",
     "hungarian": "Nincsenek modok vagy exra tartalom telepítve.",
-    "czech": "Nemáte nainstalovány žádné mody ani dodatečný obsah.",
+    "czech": "Nemáte nainstalovány žádné módy ani dodatečný obsah.",
     "ukrainian": "У вас немає встановлених модифікацій або дод. контенту.",
     "polish": "Nie masz zainstalowanych żadnych modów ani dodatkowej zawartości.",
     "spanish": "No tienes ningún mod ni contenido adicional instalado.",
@@ -4257,7 +4260,7 @@
     "portuguese": "Você não tem nenhum mod ou conteúdo extra instalado.",
     "arabic": "ﺖﺒﺜﻣ ﻲﻓﺎﺿﺇ ﻯﻮﺘﺤﻣ ﻭﺃ ﺕﻼﻳﺪﻌﺗ ﻱﺃ ﻚﻠﻤﺗ ﻻ",
     "korean": "설치된 모드나 부가 콘텐츠가 없습니다.",
-    "spanishesp": "No tienes ningún mod o contenido extra instalado."
+    "spanishesp": "No tienes ningún mod o contenido extra instalado.",
   },
   "openModsFolder": {
     "english": "Open Mod Folder",
@@ -4270,7 +4273,7 @@
     "japanese": "Modフォルダーを開く",
     "russian": "Открыть каталог",
     "hungarian": "Modokat tartalmazó mappa megnyitása",
-    "czech": "Otevřít adresář s mody",
+    "czech": "Otevřít adresář s módy",
     "ukrainian": "Відкрити папку з модом",
     "polish": "Otwórz folder z modami",
     "spanish": "Abrir Carpeta de Mods",
@@ -4279,7 +4282,7 @@
     "portuguese": "Abra a pasta Mod",
     "arabic": "ﺕﻼﻳﺪﻌﺘﻟﺍ ﺪﻠﺠﻣ ﺢﺘﻓﺍ",
     "korean": "모드 폴더 열기",
-    "spanishesp": "Abrir carpeta de mods"
+    "spanishesp": "Abrir carpeta de mods",
   },
   "openInWorkshop": {
     "english": "Open Workshop",
@@ -4299,7 +4302,7 @@
     "dutch": "Open Workshop",
     "portuguese": "Workshop aberto",
     "korean": "창작마당 열기",
-    "spanishesp": "Abrir Workshop"
+    "spanishesp": "Abrir Workshop",
   },
   "applyAndRestart": {
     "english": "Apply and Restart",
@@ -4321,7 +4324,7 @@
     "portuguese": "Aplicar e reiniciar",
     "arabic": "ﻞﻴﻐﺸﺗ ﺓﺩﺎﻋﺇﻭ ﻖﻴﺒﻄﺗ",
     "korean": "적용 후 재시작",
-    "spanishesp": "Aplicar y reiniciar"
+    "spanishesp": "Aplicar y reiniciar",
   },
   "exportConfigFiles": {
     "english": "Export Config Files",
@@ -4334,7 +4337,8 @@
     "japanese": "設定ファイルをエクスポート",
     "russian": "Экспортировать конфигурационные файлы",
     "hungarian": "Konfig fájlok exportálása",
-    "spanishesp": "Exportar archivos de configuración"
+    "spanishesp": "Exportar archivos de configuración",
+    "czech": "Export konfiguračních souborů",
   },
   "enabled": {
     "english": "Enabled",
@@ -4348,7 +4352,8 @@
     "russian": "Включено",
     "hungarian": "Aktív",
     "scotsgaelic": "Air a chomasachadh",
-    "spanishesp": "Activado"
+    "spanishesp": "Activado",
+    "english": "Povoleno",
   },
   "update": {
     "english": "Update",
@@ -4360,7 +4365,8 @@
     "turkish": "Güncelleme",
     "japanese": "更新",
     "russian": "Обновить",
-    "spanishesp": "Actualizar"
+    "spanishesp": "Actualizar",
+    "czech": "Aktualizovat",
   },
   "upload": {
     "english": "Upload",
@@ -4372,7 +4378,8 @@
     "turkish": "Yükle",
     "japanese": "アップロード",
     "russian": "Загрузить",
-    "spanishesp": "Subir"
+    "spanishesp": "Subir",
+    "czech": "Nahrát",
   },
   "gameCrashTitle": {
     "english": "Oh no! Your Game Has Crashed",
@@ -4384,7 +4391,8 @@
     "turkish": "Hayır! Oyununuz Çöktü",
     "japanese": "ゲームがクラッシュしました",
     "russian": "О нет! В игре произошел сбой",
-    "spanishesp": "¡Oh, no! Tu juego se ha colgado"
+    "spanishesp": "¡Oh, no! Tu juego se ha colgado",
+    "czech": "Ach ne! Vaše hra spadla",
   },
   "gameCrashDesc": {
     "english": "Don't worry we have saved your game in \"Crash-Save\".sav\n\nWe apologize for the crash, we are working on a fix.\n\nIt would mean a lot to us if you could help us by sending us your broken save, \"Crash-Save\".sav, and the files Player.log and Player-prev.log to support@dionicsoftware.com.\n\nYou can find the saves and logs by going to options -> open saves folder or you can click on the first button:",
@@ -4395,7 +4403,8 @@
     "french": "Ne vous inquiétez pas, nous avons sauvegardé votre partie dans \"Crash-Save\".sav\n\nNous nous excusons pour le plantage, nous travaillons sur un correctif.\n\nCela signifierait beaucoup pour nous si vous pouviez nous aider en nous envoyant votre sauvegarde endommagée (également \"Crash-Save\".sav), player.log, player-prev.log à support@dionicsoftware.com.\n\nVous pouvez trouver les sauvegardes et les logs en allant dans options -> ouvrir le dossier de sauvegarde ou en cliquant sur le premier bouton :",
     "japanese": "ご心配なく。「Crash-Save」.savにゲームを保存しました。\n\nクラッシュしたことをお詫びします。現在修正に取り掛かっています。\n\n破損したセーブデータ、「Crash-Save」.sav、Player.logファイル、Player-prev.logファイルをsupport@dionicsoftware.comまで送っていただけると大変助かります。\n\nセーブおよびログファイルは「オプション」から「セーブフォルダを開く」か、一つ目のボタンをクリックするとアクセスできます：",
     "russian": "Не волнуйтесь, мы сохранили вашу игру в файле \"Crash-Save\".sav\n\nПриносим извинения за сбой, мы постараемся все исправить.\n\nНам очень поможет, если вы пришлете ваше сохранение \"Crash-Save\".sav и файлы Player.log и Player-prev.log на адрес support@dionicsoftware.com.\n\nВы найдете сохранения и лог-файлы, зайдя в «Опции -> Папка saves» или нажав на первую кнопку:",
-    "spanishesp": "No te preocupes, hemos guardado tu partida en Crash-Save.sav\n\nTe pedimos disculpas por el cuelgue, estamos trabajando en una solución.\n\nSignificaría mucho para nosotros que pudieras ayudarnos enviándonos tu archivo de guardado estropeado, Crash-Save.sav, y los archivos Player.log y Player-prev.log a la dirección de correo electrónico support@dionicsoftware.com.\n\nPuedes encontrar los archivos guardados y logs si vas a opciones -> abrir carpeta de guardado, o bien puedes hacer clic en el primer botón:"
+    "spanishesp": "No te preocupes, hemos guardado tu partida en Crash-Save.sav\n\nTe pedimos disculpas por el cuelgue, estamos trabajando en una solución.\n\nSignificaría mucho para nosotros que pudieras ayudarnos enviándonos tu archivo de guardado estropeado, Crash-Save.sav, y los archivos Player.log y Player-prev.log a la dirección de correo electrónico support@dionicsoftware.com.\n\nPuedes encontrar los archivos guardados y logs si vas a opciones -> abrir carpeta de guardado, o bien puedes hacer clic en el primer botón:",
+    "czech": "Nedělejte si starosti, uložili jsme vaši hru do \"Crash-Save\".sav\n\nOmlouváme se za toto selhání, pracujeme na opravě.\n\nZnamenalo by to pro nás hodně, pokud byste nám mohli pomoci zasláním svého nefunkčního uložení, \"Crash-Save\".sav a souborů Player.log a Player-prev.log na adresu support@dionicsoftware.com.\n\nUložené a protokoly tak, že přejdete na Možnosti -> otevřete složku uložení nebo můžete kliknout na první tlačítko:",
   },
   "openSaveFolder": {
     "english": "Open Save Folder",
@@ -4407,7 +4416,8 @@
     "turkish": "Kaydetme Klasörünü Aç",
     "japanese": "セーブフォルダを開く",
     "russian": "Открыть папку сохранений",
-    "spanishesp": "Abrir carpeta de guardado"
+    "spanishesp": "Abrir carpeta de guardado",
+    "czech": "Otevřít složku pro uložení",
   },
   "achievementStatus_title": {
     "english": "Achievement Status",
@@ -4419,7 +4429,8 @@
     "turkish": "Başarı Durumu",
     "japanese": "実績達成状況",
     "russian": "Статус достижения",
-    "spanishesp": "Estado de logros"
+    "spanishesp": "Estado de logros",
+    "czech": "Stav Achievementu",
   },
   "achievementStatus_lockedDescription": {
     "english": "Achievements are disabled due to the following reasons:",
@@ -4431,7 +4442,8 @@
     "turkish": "Başarılar aşağıdaki nedenlerden dolayı devre dışı bırakıldı:",
     "japanese": "以下の理由により、実績は無効です。",
     "russian": "Достижения отключены по следующим причинам:",
-    "spanishesp": "Los logros están desactivados por estos motivos:"
+    "spanishesp": "Los logros están desactivados por estos motivos:",
+    "czech": "Achievementy jsou zakázány z následujících důvodů:",
   },
   "achievementStatus_unlockableDescription": {
     "english": "Achievements are enabled.",
@@ -4443,7 +4455,8 @@
     "turkish": "Başarılar etkinleştirildi.",
     "japanese": "実績は有効です。",
     "russian": "Достижения включены.",
-    "spanishesp": "Los logros están activados."
+    "spanishesp": "Los logros están activados.",
+    "czech": "Achievementy jsou povoleny.",
   },
   "achievementStatus_mods": {
     "english": "Mods",
@@ -4455,7 +4468,8 @@
     "turkish": "Modlar",
     "japanese": "MOD",
     "russian": "Моды",
-    "spanishesp": "Mods"
+    "spanishesp": "Mods",
+    "czech": "Módy",
   },
   "achievementStatus_creativeSettings": {
     "english": "One or more creative mode settings are active",
@@ -4467,7 +4481,8 @@
     "turkish": "Bir veya daha fazla yaratıcı mod ayarı etkin",
     "japanese": "1つ以上のクリエイティブモード設定が有効",
     "russian": "Активна одна или несколько настроек креативного режима",
-    "spanishesp": "Hay uno o varios ajustes del modo creativo activados."
+    "spanishesp": "Hay uno o varios ajustes del modo creativo activados.",
+    "czech": "Jedno nebo více nastavení kreativního režimu je aktivní",
   },
   "achievementStatus_modifiedSettings": {
     "english": "One or more settings have been changed during the game",
@@ -4479,7 +4494,8 @@
     "turkish": "Oyun sırasında bir veya daha fazla ayar değiştirildi",
     "japanese": "ゲーム中に1つ以上の設定が変更された",
     "russian": "Одна или несколько настроек были изменены во время игры",
-    "spanishesp": "Se han modificado uno o varios ajustes durante la partida."
+    "spanishesp": "Se han modificado uno o varios ajustes durante la partida.",
+    "czech": "Během hry bylo změněno jedno nebo více nastavení",
   },
   "achievementStatus_cheats": {
     "english": "Cheats",
@@ -4491,7 +4507,8 @@
     "turkish": "Hileler",
     "japanese": "チート",
     "russian": "Читы",
-    "spanishesp": "Trucos."
+    "spanishesp": "Trucos.",
+    "czech": "Cheaty",
   },
   "mapSelect": {
     "english": "Choose a Landing Spot",
@@ -4503,7 +4520,8 @@
     "turkish": "Bir harita seçin",
     "japanese": "着陸地点の選択",
     "russian": "Выберите место для посадки",
-    "spanishesp": "Elige un lugar de aterrizaje"
+    "spanishesp": "Elige un lugar de aterrizaje",
+    "czech": "Vyberte místo přistání",
   },
   "mapSelection_title": {
     "english": "Choose a Landing Spot",
@@ -4515,7 +4533,8 @@
     "turkish": "Bir harita seçin",
     "japanese": "着陸地点の選択",
     "russian": "Выбор места для посадки",
-    "spanishesp": "Elige un lugar de aterrizaje"
+    "spanishesp": "Elige un lugar de aterrizaje",
+    "czech": "Vyberte místo přistání",
   },
   "select": {
     "english": "Select",
@@ -4527,7 +4546,8 @@
     "turkish": "Seçme",
     "japanese": "選択",
     "russian": "Выбрать",
-    "spanishesp": "Seleccionar"
+    "spanishesp": "Seleccionar",
+    "czech": "Vybrat",
   },
   "level0_title": {
     "english": "Desert Valley",
@@ -4539,7 +4559,8 @@
     "turkish": "Çöl Vadisi",
     "japanese": "砂漠の谷",
     "russian": "Пустынная долина",
-    "spanishesp": "Valle desértico"
+    "spanishesp": "Valle desértico",
+    "czech": "Pouštní údolí",
   },
   "level0_desc": {
     "english": "A landing spot characterized by a mix between wide open areas and mountainous terrain on the edges.",
@@ -4550,7 +4571,8 @@
     "french": "Un lieu d'atterrissage caractérisé par un mélange de vastes zones ouvertes et de terrains montagneux sur les bords.",
     "japanese": "広大な土地と端に山地が混在している着陸地点。",
     "russian": "Это место для посадки представляет собой сочетание широких открытых пространств и гористой местности по краям.",
-    "spanishesp": "Un lugar de aterrizaje caracterizado por una mezcla entre amplias zonas abiertas y terreno montañoso en los bordes."
+    "spanishesp": "Un lugar de aterrizaje caracterizado por una mezcla entre amplias zonas abiertas y terreno montañoso en los bordes.",
+    "czech": "Toto místo přistání je charakteristické kombinací širokých otevřených plání a horským terénem po okrajích.",
   },
   "level1_title": {
     "english": "Randomly Generated Map",
@@ -4562,7 +4584,8 @@
     "turkish": "Oluşturulan harita",
     "japanese": "ランダム生成マップ",
     "russian": "Случайно созданная карта",
-    "spanishesp": "Mapa generado aleatoriamente"
+    "spanishesp": "Mapa generado aleatoriamente",
+    "czech": "Náhodně vygenerovaná mapa",
   },
   "level1_desc": {
     "english": "This map is randomly generated at the beginning of the game and features large areas of perfect flatness.",
@@ -4574,7 +4597,8 @@
     "turkish": "Bu harita oyunun başında rastgele oluşturulur ve mükemmel düzlükte geniş alanlara sahiptir.",
     "japanese": "ゲーム開始時にランダムに生成され、完全な平地が広がっている。",
     "russian": "Эта карта будет случайным образом создана в начале игры. Она отличается большими, идеально ровными участками.",
-    "spanishesp": "Este mapa se genera aleatoriamente al principio de la partida y contiene grandes zonas de planicie perfecta."
+    "spanishesp": "Este mapa se genera aleatoriamente al principio de la partida y contiene grandes zonas de planicie perfecta.",
+    "czech": "Tato mapa je náhodně vygenerována na začátku hry a obsahuje velké rovné plochy.",
   },
   "level2_title": {
     "english": "Inactive Volcano",
@@ -4582,7 +4606,8 @@
     "german": "Schlafender Vulkan",
     "japanese": "不活性火山",
     "russian": "Спящий вулкан",
-    "spanishesp": "Volcán inactivo"
+    "spanishesp": "Volcán inactivo",
+    "czech": "Neaktivní sopka",
   },
   "level2_desc": {
     "english": "With its limited resources and small building space, this map is suitable for experienced players.",
@@ -4590,7 +4615,8 @@
     "german": "Wenig offene Flächen und begrenzte Ressourcen. Diese Karte ist eine Herausforderung für Profis.",
     "japanese": "限られた資源と小さな建設スペース。上級者向け。",
     "russian": "Это карта для опытных игроков: ресурсы на ней ограничены, а места для строительства немного.",
-    "spanishesp": "Con sus recursos limitados y su reducido espacio para construir, este mapa es adecuado para jugadores experimentados."
+    "spanishesp": "Con sus recursos limitados y su reducido espacio para construir, este mapa es adecuado para jugadores experimentados.",
+    "czech": "S omezenými zdroji a malým stavebním prostorem je tato mapa vhodná spíše pro zkušené hráče.",
   },
   "level3_title": {
     "english": "Mountainous Region",
@@ -4598,7 +4624,8 @@
     "german": "Bergiges Gebiet",
     "japanese": "山岳地帯",
     "russian": "Гористый регион",
-    "spanishesp": "Región montañosa"
+    "spanishesp": "Región montañosa",
+    "czech": "Horský region",
   },
   "level3_desc": {
     "english": "This landing spot has an abundance of resources in the face of difficult terrain. In order to exploit its riches, the use of Antares' laser cannon will be necessary.",
@@ -4606,7 +4633,8 @@
     "german": "Viele Ressourcen, aber schweres Terrain. Verwende den Laser des Raumschiffs um Felsen zu entfernen und schalte Stück für Stück mehr Gebiete frei.",
     "japanese": "地形は複雑だが資源が非常に豊富。その資源を開発するにはアンタレス号のレーザー砲が必要になる。",
     "russian": "В этом месте для посадки сложный рельеф, но имеются и огромные залежи ресурсов. Чтобы добыть все богатства из недр земли, понадобится лазерная пушка «Антареса».",
-    "spanishesp": "Este lugar de aterrizaje cuenta con abundantes recursos frente a un terreno difícil. Para explotar sus riquezas, será necesario usar el cañón láser de la Antares."
+    "spanishesp": "Este lugar de aterrizaje cuenta con abundantes recursos frente a un terreno difícil. Para explotar sus riquezas, será necesario usar el cañón láser de la Antares.",
+    "czech": "Toto místo přistání má dostatek zdrojů tváří v tvář obtížnému terénu. Aby bylo možné využít jeho bohatství, bude nutné použít laserové dělo Antares.",
   },
   "graphicsSettings": {
     "english": "Graphics Settings",
@@ -4618,7 +4646,8 @@
     "turkish": "Grafik Ayarları",
     "japanese": "グラフィック設定",
     "russian": "Настройки графики",
-    "spanishesp": "Ajustes gráficos"
+    "spanishesp": "Ajustes gráficos",
+    "czech": "Nastavení grafiky",
   },
   "preset": {
     "english": "Preset",
@@ -4630,7 +4659,8 @@
     "turkish": "Ön ayar",
     "japanese": "プリセット",
     "russian": "Предустановки",
-    "spanishesp": "Predeterminado"
+    "spanishesp": "Predeterminado",
+    "czech": "Přednastaveno",
   },
   "antiAliasing": {
     "english": "Antialiasing",
@@ -4642,7 +4672,8 @@
     "turkish": "Kenar Yumuşatma",
     "japanese": "アンチエイリアス",
     "russian": "Сглаживание",
-    "spanishesp": "Suavizado de bordes"
+    "spanishesp": "Suavizado de bordes",
+    "czech": "Antialiasing",
   },
   "shadowSettings": {
     "english": "Shadow Settings",
@@ -4654,7 +4685,8 @@
     "turkish": "Gölge Ayarları",
     "japanese": "シャドウの設定",
     "russian": "Настройки теней",
-    "spanishesp": "Ajustes de sombras"
+    "spanishesp": "Ajustes de sombras",
+    "czech": "Nastavení stínů",
   },
   "shadows": {
     "english": "Shadows",
@@ -4666,7 +4698,8 @@
     "turkish": "Gölgeler",
     "japanese": "シャドウ",
     "russian": "Тени",
-    "spanishesp": "Sombras"
+    "spanishesp": "Sombras",
+    "czech": "Stíny",
   },
   "shadowDistance": {
     "english": "Shadow Distance",
@@ -4678,7 +4711,8 @@
     "turkish": "Gölge Mesafesi",
     "japanese": "シャドウの距離",
     "russian": "Расстояние тени",
-    "spanishesp": "Distancia de sombras"
+    "spanishesp": "Distancia de sombras",
+    "czech": "Vzdálenost stínů",
   },
   "shadowResolution": {
     "english": "Shadow Resolution",
@@ -4690,7 +4724,8 @@
     "turkish": "Gölge Çözünürlüğü",
     "japanese": "シャドウの解像度",
     "russian": "Разрешение теней",
-    "spanishesp": "Resolución de sombras"
+    "spanishesp": "Resolución de sombras",
+    "czech": "Rozlišení stínů",
   },
   "particles": {
     "english": "Particles",
@@ -4702,7 +4737,8 @@
     "turkish": "Parçacıklar",
     "japanese": "粒子",
     "russian": "Частицы",
-    "spanishesp": "Partículas"
+    "spanishesp": "Partículas",
+    "czech": "Částice",
   },
   "animations": {
     "english": "Animations",
@@ -4713,7 +4749,8 @@
     "french": "Animations",
     "japanese": "アニメーション",
     "russian": "Анимация",
-    "spanishesp": "Animaciones"
+    "spanishesp": "Animaciones",
+    "czech": "Animace",
   },
   "screenSettings": {
     "english": "Screen Settings",
@@ -4725,7 +4762,8 @@
     "turkish": "Ekran Ayarları",
     "japanese": "画面設定",
     "russian": "Настройки экрана",
-    "spanishesp": "Ajustes de pantalla"
+    "spanishesp": "Ajustes de pantalla",
+    "czech": "Nastavení obrazovky",
   },
   "grass": {
     "english": "Grass",
@@ -4737,7 +4775,8 @@
     "turkish": "Çimen",
     "japanese": "グラス",
     "russian": "Трава",
-    "spanishesp": "Hierba"
+    "spanishesp": "Hierba",
+    "czech": "Tráva",
   },
   "lod": {
     "english": "Level of Detail",
@@ -4749,7 +4788,8 @@
     "turkish": "Ayrıntı seviyesi",
     "japanese": "詳細レベル",
     "russian": "Уровень детализации",
-    "spanishesp": "Nivel de detalle"
+    "spanishesp": "Nivel de detalle",
+    "czech": "Úroveň detailů",
   },
   "terrainLOD": {
     "english": "Terrain's Level of Detail",
@@ -4761,7 +4801,8 @@
     "turkish": "Arazinin Ayrıntı seviyesi",
     "japanese": "地形の詳細度",
     "russian": "Уровень детализации местности",
-    "spanishesp": "Nivel de detalle del terreno"
+    "spanishesp": "Nivel de detalle del terreno",
+    "czech": "Úroveň detailů terénu",
   },
   "otherSettings": {
     "english": "Other Settings",
@@ -4773,7 +4814,8 @@
     "turkish": "Diğer ayarlar",
     "japanese": "その他の設定",
     "russian": "Другие настройки",
-    "spanishesp": "Otros ajustes"
+    "spanishesp": "Otros ajustes",
+    "czech": "Další nastavení",
   },
   "custom": {
     "english": "Custom",
@@ -4785,7 +4827,8 @@
     "turkish": "Gelenek",
     "japanese": "カスタム",
     "russian": "Пользовательские",
-    "spanishesp": "Personalizado"
+    "spanishesp": "Personalizado",
+    "czech": "Vlastní",
   },
   "textureResolution": {
     "english": "Texture Resolution",
@@ -4797,7 +4840,8 @@
     "turkish": "Texture Resolution",
     "japanese": "テクスチャ解像度",
     "russian": "Разрешение текстур",
-    "spanishesp": "Resolución de texturas"
+    "spanishesp": "Resolución de texturas",
+    "czech": "Rozlišení textury",
   },
   "overallQuality": {
     "english": "Overall Quality",
@@ -4809,7 +4853,8 @@
     "turkish": "Genel Kalite",
     "japanese": "総合画質",
     "russian": "Общее качество",
-    "spanishesp": "Calidad general"
+    "spanishesp": "Calidad general",
+    "czech": "Celková kvalita",
   },
   "graphicsQualityVeryLow": {
     "english": "Very Low",
@@ -4821,7 +4866,8 @@
     "turkish": "Çok düşük",
     "japanese": "非常に低い",
     "russian": "Очень низкое",
-    "spanishesp": "Muy baja"
+    "spanishesp": "Muy baja",
+    "czech": "Velmi nízká",
   },
   "graphicsQualityVeryHigh": {
     "english": "Very High",
@@ -4833,7 +4879,8 @@
     "turkish": "Çok yüksek",
     "japanese": "非常に高い",
     "russian": "Очень высокое",
-    "spanishesp": "Muy alta"
+    "spanishesp": "Muy alta",
+    "czech": "Velmi vysoká",
   },
   "graphicsPreset": {
     "english": "Graphics Preset",
@@ -4845,7 +4892,8 @@
     "turkish": "Grafik Ön Ayarı",
     "japanese": "グラフィックプリセット",
     "russian": "Предустановки графики",
-    "spanishesp": "Gráficos predeterminados"
+    "spanishesp": "Gráficos predeterminados",
+    "czech": "Grafická předvolba",
   },
   "advancedGraphicsSettings": {
     "english": "Advanced Graphics Settings",
@@ -4857,7 +4905,8 @@
     "turkish": "Gelişmiş Grafik Ayarları",
     "japanese": "高度なグラフィック設定",
     "russian": "Дополнительные настройки графики",
-    "spanishesp": "Ajustes gráficos avanzados"
+    "spanishesp": "Ajustes gráficos avanzados",
+    "czech": "Pokročilé nastavení grafiky",
   },
   "activeGPU": {
     "english": "Active GPU",
@@ -4869,7 +4918,8 @@
     "turkish": "Aktif GPU",
     "japanese": "アクティブGPU",
     "russian": "Активный графический процессор",
-    "spanishesp": "GPU activa"
+    "spanishesp": "GPU activa",
+    "czech": "Aktivní GPU",
   },
   "detectedGraphicsCards": {
     "english": "Detected graphics cards:",
@@ -4881,7 +4931,8 @@
     "turkish": "Algılanan grafik kartları:",
     "japanese": "検出されたグラフィックカード：",
     "russian": "Обнаруженные видеокарты:",
-    "spanishesp": "Tarjetas gráficas detectadas:"
+    "spanishesp": "Tarjetas gráficas detectadas:",
+    "czech": "Detekované grafické karty:",
   },
   "youMightBeUsingIntegratedGPU": {
     "english": "You might be using an integrated graphics card! Switch to your dedicated graphics card for better performance.",
@@ -4893,7 +4944,8 @@
     "turkish": "Entegre bir grafik kartı kullanıyor olabilirsiniz! Daha iyi performans için özel grafik kartınıza geçin.",
     "japanese": "統合型グラフィックカードを使用している可能性があります！より良いパフォーマンスを得るには専用グラフィックカードに切り替えてください。",
     "russian": "Возможно, вы используете интегрированную видеокарту! Для повышения производительности переключитесь на выделенную видеокарту.",
-    "spanishesp": "¡Puede que estés utilizando una tarjeta gráfica integrada! Cambia a tu tarjeta gráfica dedicada para obtener un mejor rendimiento."
+    "spanishesp": "¡Puede que estés utilizando una tarjeta gráfica integrada! Cambia a tu tarjeta gráfica dedicada para obtener un mejor rendimiento.",
+    "czech": "Možná používáte integrovanou grafickou kartu! Chcete-li dosáhnout lepšího výkonu, přepněte na dedikovanou grafickou kartu.",
   },
   "credits": {
     "english": "Credits",
@@ -4901,10 +4953,13 @@
     "italian": "Crediti",
     "japanese": "クレジット",
     "russian": "Кредиты",
-    "spanishesp": "Créditos"
+    "spanishesp": "Créditos",
+    "czech": "Kredity",
   },
   "blur": {
     "english": "Depth of Field",
     "german": "Tiefenunschärfe",
+    "japanese": "フィールドの深さ",
+    "czech": "Hloubka ostrosti",
   },
 }

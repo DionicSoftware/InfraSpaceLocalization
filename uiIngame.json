@@ -4368,7 +4368,8 @@
     "chinese": "资源分配",
     "japanese": "流通する資源",
     "russian": "Ресурс для распределения",
-    "spanishesp": "Recurso para distribuir"
+    "spanishesp": "Recurso para distribuir",
+    "czech": "Zdroj k distribuci",
   },
   "distributionRadius": {
     "english": "Distribution radius",
@@ -4377,7 +4378,8 @@
     "chinese": "分配半径",
     "japanese": "流通半径",
     "russian": "Радиус распределения",
-    "spanishesp": "Radio de distribución"
+    "spanishesp": "Radio de distribución",
+    "czech": "Distribuční rádius",
   },
   "connectedConsumers": {
     "english": "Connected consumers",
@@ -4386,7 +4388,8 @@
     "chinese": "互联消耗方",
     "japanese": "接続コンシューマー",
     "russian": "Подключенные потребители",
-    "spanishesp": "Consumidores conectados"
+    "spanishesp": "Consumidores conectados",
+    "czech": "Připojení spotřebitelé",
   },
   "connectedCollectionCenters": {
     "english": "Connected collection centers",
@@ -4395,7 +4398,8 @@
     "chinese": "互联收集中心",
     "japanese": "接続収集センター",
     "russian": "Подключенные центры сбора",
-    "spanishesp": "Centros de recogida conectados"
+    "spanishesp": "Centros de recogida conectados",
+    "czech": "Připojená sběrná střediska",
   },
   "noAccessToPipe": {
     "english": "No access to pipe",
@@ -4404,7 +4408,8 @@
     "chinese": "无法访问管道",
     "japanese": "パイプへのアクセスなし",
     "russian": "Нет доступа к трубе",
-    "spanishesp": "Sin acceso a tubería"
+    "spanishesp": "Sin acceso a tubería",
+    "czech": "Žádný přístup k potrubí",
   },
   "demolishTitle": {
     "english": "Demolish",
@@ -4412,7 +4417,8 @@
     "italian": "Demolisci",
     "japanese": "解体",
     "russian": "Снос",
-    "spanishesp": "Demoler"
+    "spanishesp": "Demoler",
+    "czech": "Zbourat",
   },
   "demolishDesc": {
     "english": "With the demolition of a building you recover half of the original cost.\nDefault hotkey: Delete",
@@ -4420,7 +4426,8 @@
     "italian": "Con la demolizione di un edificio recuperi metà del costo originale.\nTasto di scelta rapida di default: \"Canc\"",
     "japanese": "建物を解体すると元の価格の半分が返金されます。\nデフォルトのホットキー：Delete",
     "russian": "При сносе здания вам вернется половина его первоначальной стоимости.\nГорячая клавиша по умолчанию: Delete",
-    "spanishesp": "Con la demolición de un edificio, recuperas la mitad del coste original.\nTecla de acceso directo predeterminada: Supr"
+    "spanishesp": "Con la demolición de un edificio, recuperas la mitad del coste original.\nTecla de acceso directo predeterminada: Supr",
+    "czech": "S demolicí budovy získáte zpět polovinu původních nákladů.\nVýchozí klávesová zkratka: Delete",
   },
   "moveTitle": {
     "english": "Move",
@@ -4428,7 +4435,8 @@
     "italian": "Sposta",
     "japanese": "移動",
     "russian": "Передвинуть",
-    "spanishesp": "Mover"
+    "spanishesp": "Mover",
+    "czech": "Přesunout",
   },
   "moveDesc": {
     "english": "The cost of moving a building depends on its original cost and the distance to which it is moved.\nDefault hotkey: M",
@@ -4436,15 +4444,20 @@
     "italian": "Il costo per spostare un edificio dipende dal suo costo originale e dalla distanza a cui lo si sposta.\nTasto di scelta rapida di default: \"M\"",
     "japanese": "建物の移動にかかるコストは、その建物の価格と移動距離により変化します。\nデフォルトのホットキー：M",
     "russian": "Стоимость перемещения здания зависит от его первоначальной стоимости и расстояния, на которое оно будет перемещено.\nГорячая клавиша по умолчанию: M",
-    "spanishesp": "El coste de mover un edificio depende de su coste original y de la distancia a la que se mueva.\nTecla de acceso directo predeterminada: M"
+    "spanishesp": "El coste de mover un edificio depende de su coste original y de la distancia a la que se mueva.\nTecla de acceso directo predeterminada: M",
+    "czech": "Náklady na přesun budovy závisí na její původní ceně a vzdálenosti, na kterou se přesune.\nVýchozí klávesová zkratka: M",
   },
   "clearTraffic_Title": {
     "english": "Clear Traffic",
     "german": "Verkehr löschen",
+    "japanese": "車両の削除",
+    "czech": "Odstranit provoz"
   },
   "clearTraffic_Desc": {
     "english": "You can manually delete cars to clear traffic jams. If the jam keeps reappearing, you should change your road layout. Check the encyclopedia for tips!",
     "german": "Du kannst per Hand Autos löschen um Staus aufzulösen. Wenn Staus wieder kommen, solltest du dein Straßenlayout ändern. Schau in die Enzyklopädie, um Tipps zu finden!",
+    "japanese": "交通の詰まりを解消するために手動で車両を削除できます。もしつまりが再発し続けるなら、道路のレイアウトを変更するべきです。TIPSを見るには百科事典を参照してください。",
+    "czech": "Auta můžete ručně odstranit, abyste uvolnili dopravní zácpy. Pokud se zácpa stále objevuje, měli byste změnit rozvržení silnice. Tipy najdete v encyklopedii!"
   },
   "pauseTitle": {
     "english": "Pause",
@@ -4452,7 +4465,8 @@
     "italian": "Pausa",
     "japanese": "一時停止",
     "russian": "Пауза",
-    "spanishesp": "Pausa"
+    "spanishesp": "Pausa",
+    "czech": "Pozastavit",
   },
   "pauseDesc": {
     "english": "Default hotkey: Spacebar",
@@ -4460,7 +4474,8 @@
     "italian": "Tasto di scelta rapida di default: \"Spazio\"",
     "japanese": "デフォルトのホットキー：Space",
     "russian": "Горячая клавиша по умолчанию: Пробел",
-    "spanishesp": "Tecla de acceso directo predeterminada: Barra espaciadora"
+    "spanishesp": "Tecla de acceso directo predeterminada: Barra espaciadora",
+    "czech": "Výchozí klávesová zkratka: Mezerník",
   },
   "speed1Title": {
     "english": "Speed x1",
@@ -4468,7 +4483,8 @@
     "italian": "Velocità x1",
     "japanese": "スピード x1",
     "russian": "Скорость х1",
-    "spanishesp": "Velocidad x1"
+    "spanishesp": "Velocidad x1",
+    "czech": "Rychlost x1",
   },
   "speed1Desc": {
     "english": "Default hotkey: 1",
@@ -4476,7 +4492,8 @@
     "italian": "Tasto di scelta rapida di default: \"1\"",
     "japanese": "デフォルトのホットキー：1",
     "russian": "Горячая клавиша по умолчанию: 1",
-    "spanishesp": "Tecla de acceso directo predeterminada: 1"
+    "spanishesp": "Tecla de acceso directo predeterminada: 1",
+    "czech": "Výchozí klávesová zkratka: 1",
   },
   "speed2Title": {
     "english": "Speed x2",
@@ -4484,7 +4501,8 @@
     "italian": "Velocità x2",
     "japanese": "スピード x2",
     "russian": "Скорость х2",
-    "spanishesp": "Velocidad x2"
+    "spanishesp": "Velocidad x2",
+    "czech": "Rychlost x2",
   },
   "speed2Desc": {
     "english": "Default hotkey: 2",
@@ -4492,7 +4510,8 @@
     "italian": "Tasto di scelta rapida di default: \"2\"",
     "japanese": "デフォルトのホットキー：2",
     "russian": "Горячая клавиша по умолчанию: 2",
-    "spanishesp": "Tecla de acceso directo predeterminada: 2"
+    "spanishesp": "Tecla de acceso directo predeterminada: 2",
+    "czech": "Výchozí klávesová zkratka: 2",
   },
   "menuTitle": {
     "english": "Menu",
@@ -4500,7 +4519,8 @@
     "italian": "Menù",
     "japanese": "メニュー",
     "russian": "Меню",
-    "spanishesp": "Menú"
+    "spanishesp": "Menú",
+    "czech": "Menu",
   },
   "menuDesc": {
     "english": "Default hotkey: Esc",
@@ -4508,7 +4528,8 @@
     "italian": "Tasto di scelta rapida di default: \"Esc\"",
     "japanese": "デフォルトのホットキー：Esc",
     "russian": "Горячая клавиша по умолчанию: Esc",
-    "spanishesp": "Tecla de acceso directo predeterminada: Esc"
+    "spanishesp": "Tecla de acceso directo predeterminada: Esc",
+    "czech": "Výchozí klávesová zkratka: Esc",
   },
   "rename": {
     "english": "Rename",
@@ -4516,7 +4537,8 @@
     "italian": "Rinomina",
     "japanese": "名前変更",
     "russian": "Переименовать",
-    "spanishesp": "Renombrar"
+    "spanishesp": "Renombrar",
+    "czech": "Přejmenovat",
   },
   "copy": {
     "english": "Copy",
@@ -4524,18 +4546,22 @@
     "italian": "Copia",
     "japanese": "コピー",
     "russian": "Копировать",
-    "spanishesp": "Copiar"
+    "spanishesp": "Copiar",
+    "czech": "Kopírovat",
   },
   "powerRequiredTooltip": {
     "english": "Power required",
     "german": "Benötigter Strom",
     "italian": "Energia richiesta",
-    "japanese": "必須電力",
+    "japanese": "要求電力",
     "russian": "Требуется энергия",
-    "spanishesp": "Energía necesaria"
+    "spanishesp": "Energía necesaria",
+    "czech": "Požadováno napájení",
   },
   "scale": { // production overview
     "english": "Worker Priority",
-    "german": "Arbeiterpriorität"
+    "german": "Arbeiterpriorität",
+    "japanese": "スケール",
+    "czech": "Priorita pracovníka",
   }
 }
