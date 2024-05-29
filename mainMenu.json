@@ -1903,7 +1903,7 @@
     "french": "Glisser la souris",
     "japanese": "マウスドラッグ",
     "russian": "Перетаскивание мышью",
-    "spanishesp": "Arrastrar ratón"
+    "spanishesp": "Arrastrar ratón",
     "czech": "Tažení myší",
   },
   "zoomIn": {
@@ -4353,7 +4353,7 @@
     "hungarian": "Aktív",
     "scotsgaelic": "Air a chomasachadh",
     "spanishesp": "Activado",
-    "english": "Povoleno",
+    "czech": "Povoleno",
   },
   "update": {
     "english": "Update",
