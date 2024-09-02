@@ -4564,10 +4564,4 @@
     "japanese": "スケール",
     "czech": "Priorita pracovníka",
   },
-  "increased": {
-    "english": "+ %amount%%",
-  },
-  "decreased": {
-    "english": "- %amount%%",
-  },
 }

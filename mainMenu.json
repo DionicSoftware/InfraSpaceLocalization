@@ -4956,10 +4956,11 @@
     "spanishesp": "Créditos",
     "czech": "Kredity",
   },
-  "blur": {
+  "depthOfField": {
     "english": "Depth of Field",
     "german": "Tiefenunschärfe",
     "japanese": "フィールドの深さ",
     "czech": "Hloubka ostrosti",
+    "spensihesp": "Profundidad de Campo"
   },
 }
