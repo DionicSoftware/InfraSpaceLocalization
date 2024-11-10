@@ -800,6 +800,7 @@
     "german": "Fabrikupgrades",
     "italian": "Miglioramenti delle industrie",
     "chinese": "工厂升级",
+    "french": "Améliorations d'usine",
     "japanese": "工場のアップグレード",
     "russian": "Улучшения заводов",
     "spanishesp": "Mejoras de fábrica"
@@ -809,6 +810,7 @@
     "german": "Die meisten Fabriken und Kraftwerke können verbessert werden. Du kannst den Upgrade-Status jedes Gebäudes im Info-Fenster sehen.\n\nFolgende Gebäude schalten diese Upgrades frei: Recycling Center, Erdanreicherungsanlage, Industrieroboterfabrik und High Tech Werkstatt.",
     "italian": "La maggior parte delle industrie e delle centrali elettriche possono essere migliorate. È possibile vedere lo stato dei potenziamenti per ogni edificio nel rispettivo pannello informativo.\n\nGli edifici che permettono questi miglioramenti sono: Centro di riciclaggio, stazione di Arricchimento del suolo, fabbrica di Robot industriali e fabbrica di Strumenti ad alta tecnologia.",
     "chinese": "大多数工厂和发电厂都可以得到升级。你可以在各自的信息面板中查看每个建筑物的升级状态。\n\n可以升级的建筑物有：回收中心、土壤富集站、工业机器人工厂和高科技工具工厂。",
+    "french": "La plupart des industries et des centrales électriques peuvent être améliorées. Vous pouvez voir l'état d'avancement de chaque bâtiment dans le panneau d'information correspondant.\n\nLes bâtiments qui permettent ces améliorations sont les suivants : centre de recyclage, usine d'enrichissement des sols, usine de robots industriels et usine d'outils de haute technologie.",
     "japanese": "多くの工業施設や発電所はアップグレードが可能です各建物のアップグレードの進捗はそれぞれの情報パネルで確認できます。\n\nアップグレードを可能にする建物：リサイクルセンター、土壌改良施設、工業用ロボット生産工場、ハイテクツール工場。",
     "russian": "Большинство производств и электростанций можно улучшить. Статус улучшения каждого здания показан на соответствующей информационной панели.\n\nСледующие здания дают возможность улучшения: центр переработки, завод по обогащению почвы, завод промышленных роботов и завод высокотехнологичных инструментов.",
     "spanishesp": "Es posible mejorar la mayoría de industrias y plantas de energía. Puedes ver el estado de mejora de cada edificio en el panel de información correspondiente.\n\nLos edificios que permiten estas mejoras son: el centro de reciclaje, la instalación de enriquecimiento del suelo, la fábrica de robots industriales y la fábrica de herramientas de alta tecnología."
@@ -818,6 +820,7 @@
     "german": "Recycling Center und Erdanreicherungsanlage",
     "italian": "Centro di riciclaggio e impianto di arricchimento del suolo",
     "chinese": "回收中心和土壤富集设施",
+    "french": "Centre de recyclage et usine d'enrichissement des sols",
     "japanese": "リサイクルセンターと土壌改良施設",
     "russian": "Центр переработки и завод по обогащению почвы",
     "spanishesp": "Centro de reciclaje e instalación de enriquecimiento del suelo"
@@ -827,6 +830,7 @@
     "german": "Diese Upgrades werden im Umkreis der passenden Gebäude verliehen:\n\n- Der Recycling Center verwertet Eingehende Ressourcen wieder um alle fünf Produktionszkylen eine kostenlose Extraproduktion zu ermöglichen.\n\n- Die Erdanreicherungsanlage erhöht die Produktionsgeschwindigkeit von umliegenden Farmen um 50%.\n\nPlatziere sie neben den gewünschten Fabriken und erhöhe die Produktivität!",
     "italian": "Questi potenziamenti sono generati ad area dai corrispettivi edifici:\n\n- Il centro di riciclaggio consente di produrre senza consumare risorse una volta ogni cinque cicli produttivi.\n\n- l'impianto di arricchimento del suolo aumenta del 50% la velocità di produzione delle fattorie circostanti.\n\nPosizionateli vicino alle industrie desiderate e aumenteranno continuamente la produttività!",
     "chinese": "这些升级是从相应的建筑物区域生成的：\n\n- 回收中心每五个生产周期实现一次无资源生产。\n\n- 土壤富集设施将周围农场的生产率提高 50% .\n\n将它们放置在所需工厂附近，它们将不断提高生产力！",
+    "french": "Ces améliorations sont générées en zone par les bâtiments correspondants :\n\n- Le centre de recyclage permet une production sans ressources une fois tous les cinq cycles de production.\n\n- L'usine d'enrichissement des sols augmente de 50 % le taux de production des fermes environnantes.\n\nPlacez-les à proximité des secteurs d'activité souhaités et ils augmenteront continuellement la productivité !",
     "japanese": "これらのアップグレードは、対応する建物からエリア生成される。\n\n- リサイクルセンターは、5回の生産サイクルに1回、無資源生産を可能にする。\n\n- 土壌改良施設は、周辺の農場の生産率を50%増加させる。\n\n工業施設の付近に設置すると、生産率が継続的にアップします！",
     "russian": "Следующие улучшения создаются в области соответствующими зданиями:\n\n— Центр переработки делает возможным производство без использования ресурсов раз в каждые пять производственных циклов.\n\n— Завод по обогащению почвы увеличивает производительность близлежащих ферм на 50%.\n\nРазместите эти здания рядом с нужными производствами, и они будут непрерывно увеличивать производительность!",
     "spanishesp": "Estas mejoras son generadas en zona desde los edificios correspondientes:\n\n- El centro de reciclaje permite la producción sin recursos una vez cada cinco ciclos de producción.\n\n- La instalación de enriquecimiento del suelo aumenta un 50 % la tasa de producción de las granjas circundantes.\n\n¡Colócalos cerca de las industrias deseadas y aumentarán la productividad continuamente!"
@@ -836,6 +840,7 @@
     "german": "Industrieroboter und High Tech Werkzeuge",
     "italian": "Robot industriali e strumenti ad alta tecnologia",
     "chinese": "工业机器人和高科技工具",
+    "french": "Robots industriels et outils de haute technologie",
     "japanese": "工業用ロボットとハイテクツール",
     "russian": "Промышленные роботы и высокотехнологичные инструменты",
     "spanishesp": "Robots industriales y herramientas de alta tecnología"
@@ -845,6 +850,7 @@
     "german": "Industrieroboter und High Tech Werkzeuge müssen in ihren Fabriken hergestellt werden und werden automatisch an umliegende Fabriken gesendent. Dabei werden nähere Fabriken priorisiert. Sobald ein Industrieroboter oder ein Satz High Tech Werkzeuge von einer Fabrik empfangen wurde, wird dieser verwedet werden, bis er aufgebraucht ist. Danach muss die Fabrik eine neue Lieferung erhalten.\n\n- Industrieroboter reduzieren die Anzahl der benötigten Arbeiter um 1 und können in jeder Fabrik verwendet werden.\n\n- High Tech Werkzeuge erhöhen die Produktionsgeschwindigkeit um 50%.",
     "italian": "I robot industriali e gli strumenti ad alta tecnologia devono essere prodotti dalle relative industrie e saranno inviati automaticamente agli edifici in ordine di vicinanza. Una volta ricevuta una singola unità di Robot industriali o di strumenti ad alta tecnologia, questa verrà utilizzata fino a quando non sarà consumata. Dopodiché, l'industria dovrà riceverne un'altra.\n\n- I robot industriali ridurranno di 1 unità la manodopera necessaria, e potranno essere utilizzati in qualsiasi settore.\n\n- Gli strumenti ad alta tecnologia aumenteranno la velocità di produzione del 50%.",
     "chinese": "工业机器人和高科技工具必须由相关工厂生产，并按照距离远近的顺序自动发送到建筑物。一旦收到单个工业机器人或高科技工具，它被使用直到被消耗完之前，该工厂将不得不接收另一台。\n\n- 工业机器人将减少 1 单位所需的劳动力，并且可以用于任何工厂。\n\n- 高科技工具将提高生产速度 50%。",
+    "french": "Les robots industriels et les outils de haute technologie doivent être produits par leurs usines et seront automatiquement envoyés aux bâtiments par ordre de proximité. Une fois qu'une unité de robots industriels ou d'outils de haute technologie est reçue, elle sera utilisée jusqu'à ce qu'elle soit consommée. Ensuite, l'usine devra en recevoir une autre.\n\n- Les robots industriels réduisent la main-d'œuvre requise par un travailleur et peuvent être utilisés dans n'importe quelle usine.\n\n- Les outils de haute technologie augmentent la vitesse de production de 50 %.",
     "japanese": "工業用ロボットやハイテクツールは関連工業施設でなければ生産できず、自動的に建物に近い順で送られていきます。工業用ロボットまたはハイテクツールが1ユニット届くと、消費されるまで使用されます。使い切った後は、新しいユニットが必要になります。\n\n- 工業用ロボットは必要な労働者を1ユニット減らします。どの工業施設でも使用可能です。\n\n- ハイテクツールは生産速度を50%アップさせます。",
     "russian": "Промышленные роботы и высокотехнологичные инструменты выпускаются на соответствующих производствах и автоматически отправляются в близлежащие здания. Как только поступает одна единица промышленных роботов или высокотехнологичных инструментов, она используется до тех пор, пока не будет израсходована. После этого отрасль должна получить еще одну единицу.\n\n— Промышленные роботы сокращают число необходимых рабочих на заводе на 1 и могут использоваться в любой отрасли.\n\n— Высокотехнологичные инструменты увеличивают скорость производства на 50%.",
     "spanishesp": "Los robots industriales y las herramientas de alta tecnología deben producirse en las industrias correspondientes y se enviarán automáticamente a los edificios por orden de proximidad. Una vez recibida una unidad de robots industriales o herramientas de alta tecnología, se utilizará hasta que se consuma. Después, la industria tendrá que recibir otra.\n\n- Los robots industriales reducirán la mano de obra necesaria en 1 unidad y podrán utilizarse en cualquier industria.\n\n- Las herramientas de alta tecnología aumentarán la velocidad de producción un 50 %."

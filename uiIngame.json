@@ -1463,6 +1463,7 @@
   "deliveryMethod": {
     "english": "Delivery Method",
     "german": "Transport",
+    "french": "Méthode de livraison",
     "japanese": "輸送方法",
     "russian": "Способ доставки",
     "spanishesp": "Método de entrega"
@@ -1470,6 +1471,7 @@
   "deliveryMethod_Pipe": {
     "english": "Resource is being delivered with pipes",
     "german": "Die Ressource wird mit Rohren transportiert",
+    "french": "La ressource est livrée par tuyaux",
     "japanese": "資源をパイプで輸送中",
     "russian": "Ресурс доставляется по трубам",
     "spanishesp": "El recurso se entrega mediante tuberías."
@@ -1477,6 +1479,7 @@
   "deliveryMethod_Collection": {
     "english": "Resources are being delivered to a collection center",
     "german": "Die Ressource wird an ein Sammelzentrum geliefert",
+    "french": "Les ressources sont livrées à un centre de récolte",
     "japanese": "資源を収集センターに輸送中",
     "russian": "Ресурсы доставляются в центр сбора",
     "spanishesp": "Los recursos se entregan en un centro de recogida."
@@ -1484,6 +1487,7 @@
   "deliveryMethod_Distribution": {
     "english": "Resources are being delivered from a distribution center",
     "german": "Die Ressource wird von einem Verteilzentrum geliefert",
+    "french": "Les ressources sont livrées à partir d'un centre de distribution",
     "japanese": "資源を流通センターから輸送中",
     "russian": "Ресурсы доставляются из центра распределения",
     "spanishesp": "Los recursos se entregan desde un centro de distribución."
@@ -1491,6 +1495,7 @@
   "deliveryMethod_District": {
     "english": "Resource delivery is being controlled with districts",
     "german": "Der Ressourcentransport wird über Stadtbezirke gesteuert",
+    "french": "La livraison des ressources est contrôlée par les quartiers",
     "japanese": "資源を地区内に輸送中",
     "russian": "Ресурсы доставляются в границах района",
     "spanishesp": "Los recursos se entregan dentro de un distrito."
@@ -1498,6 +1503,7 @@
   "targetingStation_NotBuilt": {
     "english": "Build a Targeting Station to unlock targeting environment objects for lasering",
     "german": "Baue eine Laserzielstation um Felsen und Pflanzen mit dem Laser anzuvisieren",
+    "french": "Construire une station de ciblage pour pouvoir viser les objets de l'environnement avec le laser.",
     "japanese": "照準ステーションを建設すると環境オブジェクトをレーザー照射できるようになります",
     "russian": "Постройте станцию наведения, чтобы разблокировать устранение окружающих объектов при помощи лазера",
     "spanishesp": "Construye un puesto de apuntado para desbloquear objetos del entorno de apuntado para el láser."
@@ -4278,7 +4284,7 @@
     "italian": "Con il contagocce puoi copiare facilmente gli edifici.\nTasto di scelta rapida di default: \"G\"",
     "german": "Mit der Pipette kannst du Gebäude einfach kopieren. Das Standard-Tastenkürzel dafür ist G.",
     "chinese": "使用吸管工具，你可以轻松复制建筑物。该工具的默认热键是 G 键。",
-    "french": "L'outil Pipette permet de copier facilement des bâtiments. Le raccourci clavier par défaut de l'outil est le bouton G.",
+    "french": "L'outil Pipette permet de copier facilement des bâtiments. \nRaccourci par défaut : G",
     "japanese": "ピペットツールを使って簡単に建物をコピーすることができます。\nデフォルトのホットキー：G",
     "russian": "Инструмент «Пипетка» позволит легко скопировать здания.\nГорячая клавиша по умолчанию: G",
     "spanishesp": "Con la herramienta de pipeta puedes copiar edificios fácilmente.\nTecla de acceso directo predeterminada: G"
@@ -4321,6 +4327,7 @@
     "german": "Angeforderte Ressource",
     "italian": "Risorsa da raccogliere",
     "chinese": "收集资源",
+    "french": "Ressource à récolter",
     "japanese": "収集する資源",
     "russian": "Ресурс для сбора",
     "spanishesp": "Recurso para recoger"
@@ -4330,6 +4337,7 @@
     "german": "Anforderungsradius",
     "italian": "Area di raccolta",
     "chinese": "收集半径",
+    "french": "Rayon de récolte",
     "japanese": "収集半径",
     "russian": "Радиус сбора",
     "spanishesp": "Radio de recogida"
@@ -4339,6 +4347,7 @@
     "german": "Verbundene Lieferanten",
     "italian": "Fornitori connessi",
     "chinese": "互联供应方",
+    "french": "Fournisseurs connectés",
     "japanese": "接続サプライヤー",
     "russian": "Подключенные поставщики",
     "spanishesp": "Proveedores conectados"
@@ -4348,6 +4357,7 @@
     "german": "Maximales Lager",
     "italian": "Capienza magazzino",
     "chinese": "最大存储空间",
+    "french": "Réserve max.",
     "japanese": "最大容量",
     "russian": "Макс. объем хранения",
     "spanishesp": "Almacenamiento máximo"
@@ -4357,6 +4367,7 @@
     "german": "Verbundene Verteilzentren",
     "italian": "Centri di distribuzione connessi",
     "chinese": "互联配送中心",
+    "french": "Centres de distribution connectés",
     "japanese": "接続流通センター",
     "russian": "Подключенные центры распределения",
     "spanishesp": "Centros de distribución conectados"
@@ -4366,6 +4377,7 @@
     "german": "Ressource zum Auslieferen",
     "italian": "Risorsa da distribuire",
     "chinese": "资源分配",
+    "french": "Ressource à distribuer",
     "japanese": "流通する資源",
     "russian": "Ресурс для распределения",
     "spanishesp": "Recurso para distribuir",
@@ -4376,6 +4388,7 @@
     "german": "Auslieferungsradius",
     "italian": "Area di distribuzione",
     "chinese": "分配半径",
+    "french": "Rayon de distribution",
     "japanese": "流通半径",
     "russian": "Радиус распределения",
     "spanishesp": "Radio de distribución",
@@ -4386,6 +4399,7 @@
     "german": "Verbundene Konsumenten",
     "italian": "Consumatori connessi",
     "chinese": "互联消耗方",
+    "french": "Consommateurs connectés",
     "japanese": "接続コンシューマー",
     "russian": "Подключенные потребители",
     "spanishesp": "Consumidores conectados",
@@ -4396,6 +4410,7 @@
     "german": "Verbundene Sammelzentren",
     "italian": "Centri di raccolta connessi",
     "chinese": "互联收集中心",
+    "french": "Centres de récolte connectés",
     "japanese": "接続収集センター",
     "russian": "Подключенные центры сбора",
     "spanishesp": "Centros de recogida conectados",
@@ -4406,6 +4421,7 @@
     "german": "Keine Verbindung zu Rohren",
     "italian": "Nessun accesso alle tubazioni",
     "chinese": "无法访问管道",
+    "french": "Pas d'accès au tuyau",
     "japanese": "パイプへのアクセスなし",
     "russian": "Нет доступа к трубе",
     "spanishesp": "Sin acceso a tubería",
@@ -4415,6 +4431,7 @@
     "english": "Demolish",
     "german": "Abreißen",
     "italian": "Demolisci",
+    "french": "Démolir",
     "japanese": "解体",
     "russian": "Снос",
     "spanishesp": "Demoler",
@@ -4424,6 +4441,7 @@
     "english": "With the demolition of a building you recover half of the original cost.\nDefault hotkey: Delete",
     "german": "Beim Abreißen eines Gebäudes gewinnst du die Hälfte der ursprünglichen Baukosten zurück.\nStandard-Tastenkürzel: Entfernen",
     "italian": "Con la demolizione di un edificio recuperi metà del costo originale.\nTasto di scelta rapida di default: \"Canc\"",
+    "french": "La démolition d'un bâtiment permet de récupérer la moitié du coût initial.\nRaccourci par défaut : Suppr.",
     "japanese": "建物を解体すると元の価格の半分が返金されます。\nデフォルトのホットキー：Delete",
     "russian": "При сносе здания вам вернется половина его первоначальной стоимости.\nГорячая клавиша по умолчанию: Delete",
     "spanishesp": "Con la demolición de un edificio, recuperas la mitad del coste original.\nTecla de acceso directo predeterminada: Supr",
@@ -4433,6 +4451,7 @@
     "english": "Move",
     "german": "Verschieben",
     "italian": "Sposta",
+    "french": "Déplacer",
     "japanese": "移動",
     "russian": "Передвинуть",
     "spanishesp": "Mover",
@@ -4442,6 +4461,7 @@
     "english": "The cost of moving a building depends on its original cost and the distance to which it is moved.\nDefault hotkey: M",
     "german": "Die Kosten für das Verschieben eines Gebäudes hängt von den ursprünglichen Baukosten und der Distanz der Verschiebung ab.\nStandard-Tastenkürzel: M",
     "italian": "Il costo per spostare un edificio dipende dal suo costo originale e dalla distanza a cui lo si sposta.\nTasto di scelta rapida di default: \"M\"",
+    "french": "Le coût du déplacement d'un bâtiment dépend de son coût d'origine et de la distance à laquelle il est déplacé.\nRaccourci par défaut : M",
     "japanese": "建物の移動にかかるコストは、その建物の価格と移動距離により変化します。\nデフォルトのホットキー：M",
     "russian": "Стоимость перемещения здания зависит от его первоначальной стоимости и расстояния, на которое оно будет перемещено.\nГорячая клавиша по умолчанию: M",
     "spanishesp": "El coste de mover un edificio depende de su coste original y de la distancia a la que se mueva.\nTecla de acceso directo predeterminada: M",
@@ -4450,12 +4470,14 @@
   "clearTraffic_Title": {
     "english": "Clear Traffic",
     "german": "Verkehr löschen",
+    "french": "Nettoyer le trafic",
     "japanese": "車両の削除",
     "czech": "Odstranit provoz"
   },
   "clearTraffic_Desc": {
     "english": "You can manually delete cars to clear traffic jams. If the jam keeps reappearing, you should change your road layout. Check the encyclopedia for tips!",
     "german": "Du kannst per Hand Autos löschen um Staus aufzulösen. Wenn Staus wieder kommen, solltest du dein Straßenlayout ändern. Schau in die Enzyklopädie, um Tipps zu finden!",
+    "french": "Vous pouvez supprimer manuellement les véhicules pour éliminer les embouteillages. Si l'embouteillage réapparaît sans cesse, vous devriez modifier le tracé de votre route. Consultez l'encyclopédie pour obtenir des conseils !",
     "japanese": "交通の詰まりを解消するために手動で車両を削除できます。もしつまりが再発し続けるなら、道路のレイアウトを変更するべきです。TIPSを見るには百科事典を参照してください。",
     "czech": "Auta můžete ručně odstranit, abyste uvolnili dopravní zácpy. Pokud se zácpa stále objevuje, měli byste změnit rozvržení silnice. Tipy najdete v encyklopedii!"
   },
@@ -4463,6 +4485,7 @@
     "english": "Pause",
     "german": "Pause",
     "italian": "Pausa",
+    "french": "Pause",
     "japanese": "一時停止",
     "russian": "Пауза",
     "spanishesp": "Pausa",
@@ -4472,6 +4495,7 @@
     "english": "Default hotkey: Spacebar",
     "german": "Standard-Tastenkürzel: Leertaste",
     "italian": "Tasto di scelta rapida di default: \"Spazio\"",
+    "french": "Raccourci par défaut : Espace",
     "japanese": "デフォルトのホットキー：Space",
     "russian": "Горячая клавиша по умолчанию: Пробел",
     "spanishesp": "Tecla de acceso directo predeterminada: Barra espaciadora",
@@ -4481,6 +4505,7 @@
     "english": "Speed x1",
     "german": "Geschwindigkeit x1",
     "italian": "Velocità x1",
+    "french": "Vitesse x1",
     "japanese": "スピード x1",
     "russian": "Скорость х1",
     "spanishesp": "Velocidad x1",
@@ -4490,6 +4515,7 @@
     "english": "Default hotkey: 1",
     "german": "Standard-Tastenkürzel: 1",
     "italian": "Tasto di scelta rapida di default: \"1\"",
+    "french": "Raccourci par défaut : 1",
     "japanese": "デフォルトのホットキー：1",
     "russian": "Горячая клавиша по умолчанию: 1",
     "spanishesp": "Tecla de acceso directo predeterminada: 1",
@@ -4499,6 +4525,7 @@
     "english": "Speed x2",
     "german": "Geschwindigkeit: 2",
     "italian": "Velocità x2",
+    "french": "Vitesse x2",
     "japanese": "スピード x2",
     "russian": "Скорость х2",
     "spanishesp": "Velocidad x2",
@@ -4508,6 +4535,7 @@
     "english": "Default hotkey: 2",
     "german": "Standard-Tastenkürzel: 2",
     "italian": "Tasto di scelta rapida di default: \"2\"",
+    "french": "Raccourci par défaut : 2",
     "japanese": "デフォルトのホットキー：2",
     "russian": "Горячая клавиша по умолчанию: 2",
     "spanishesp": "Tecla de acceso directo predeterminada: 2",
@@ -4517,6 +4545,7 @@
     "english": "Menu",
     "german": "Menü",
     "italian": "Menù",
+    "french": "Menu",
     "japanese": "メニュー",
     "russian": "Меню",
     "spanishesp": "Menú",
@@ -4526,6 +4555,7 @@
     "english": "Default hotkey: Esc",
     "german": "Standard-Tastenkürzel: Escape",
     "italian": "Tasto di scelta rapida di default: \"Esc\"",
+    "french": "Raccourci par défaut : Échap",
     "japanese": "デフォルトのホットキー：Esc",
     "russian": "Горячая клавиша по умолчанию: Esc",
     "spanishesp": "Tecla de acceso directo predeterminada: Esc",
@@ -4535,6 +4565,7 @@
     "english": "Rename",
     "german": "Umbennenen",
     "italian": "Rinomina",
+    "french": "Renommer",
     "japanese": "名前変更",
     "russian": "Переименовать",
     "spanishesp": "Renombrar",
@@ -4544,6 +4575,7 @@
     "english": "Copy",
     "german": "Kopieren",
     "italian": "Copia",
+    "french": "Copier",
     "japanese": "コピー",
     "russian": "Копировать",
     "spanishesp": "Copiar",
@@ -4553,6 +4585,7 @@
     "english": "Power required",
     "german": "Benötigter Strom",
     "italian": "Energia richiesta",
+    "french": "Énergie requise",
     "japanese": "要求電力",
     "russian": "Требуется энергия",
     "spanishesp": "Energía necesaria",
@@ -4561,6 +4594,7 @@
   "scale": { // production overview
     "english": "Worker Priority",
     "german": "Arbeiterpriorität",
+    "french": "Priorité des ouvriers",
     "japanese": "スケール",
     "czech": "Priorita pracovníka",
   },
