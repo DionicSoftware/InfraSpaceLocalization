@@ -1546,6 +1546,7 @@
   "tech_upgrade1": {
     "english": "Upgrade 1",
     "german": "Aufwertung 1",
+    "french": "Amélioration 1",
     "japanese": "アップグレード1",
     "russian": "Улучшение 1",
     "spanishesp": "Mejora 1"
@@ -1553,6 +1554,7 @@
   "tech_upgrade2": {
     "english": "Upgrade 2",
     "german": "Aufwertung 2",
+    "french": "Amélioration 2",
     "japanese": "アップグレード2",
     "russian": "Улучшение 2",
     "spanishesp": "Mejora 2"
@@ -1560,6 +1562,7 @@
   "tech_upgrade3": {
     "english": "Upgrade 3",
     "german": "Aufwertung 3",
+    "french": "Amélioration 3",
     "japanese": "アップグレード3",
     "russian": "Улучшение 3",
     "spanishesp": "Mejora 3"
@@ -1567,6 +1570,7 @@
   "tech_upgrade4": {
     "english": "Upgrade 4",
     "german": "Aufwertung 4",
+    "french": "Amélioration 4",
     "japanese": "アップグレード4",
     "russian": "Улучшение 4",
     "spanishesp": "Mejora 4"
@@ -1592,18 +1596,22 @@
   "tech_carSpeed": {
     "english": "Car Speed",
     "german": "Geschwindigkeit von Autos",
+    "french": "Vitesse des voitures",
   },
   "tech_gondolaSpeed": {
     "english": "Gondola Speed",
     "german": "Geschwindigkeit von Gondeln",
+    "french": "Vitesse des nacelles",
   },
   "tech_trainSpeed": {
     "english": "Train Speed",
     "german": "Geschwindigkeit von Zügen",
+    "french": "Vitesse des trains",
   },
   "tech_trainStationWaitDecrease": {
     "english": "Waiting Time at Train Stations",
     "german": "Wartezeit an Zugstationen",
+    "french": "Temps d'attente en gare",
   },
 
 
@@ -1612,14 +1620,17 @@
   "tech_productionTimeUpgrade": {
     "english": "Production Speed",
     "german": "Produktionsgeschwindigkeit",
+    "french": "Vitesse de production",
   },
   "tech_efficiencyBoostRange": {
     "english": "Range of Neighbor Efficiency Boosts",
     "german": "Reichweite von Nachbarschaftsbonus",
+    "french": "Portée des améliorations d'efficacité",
   },
   "tech_efficiencyBoostMultiplier": {
     "english": "Multiplier of Neighbor Efficiency Boosts",
     "german": "Stärke von Nachbarschaftsbonus",
+    "french": "Multiplicateur des améliorations d'efficacité",
   },
 
   // misc
@@ -1627,6 +1638,7 @@
   "tech_laserSpeed": {
     "english": "Laser Speed",
     "german": "Geschwindigkeit des Lasers",
+    "french": "Vitesse du laser",
   },
 
 
@@ -1643,6 +1655,7 @@
   "tech_habitatsConsumptionRate": {
     "english": "Habitat Consumption Rate",
     "german": "Verbrauchsgeschwindigkeit von Habitats",
+    "french": "Taux de consommation des habitats",
   },
   // "tech_roadCostDiscount": {
   //   "english": "",
@@ -1663,18 +1676,22 @@
   "tech_extraCollectionDistributionStorage": {
     "english": "Logistics Center Storage Size",
     "german": "Lagerkapazität von Logistikcentern",
+    "french": "Taille de réserve des centres logistiques",
   },
   "tech_extraCollectionDistributionRadius": {
     "english": "Logistics Center Maximum Delivery Range",
     "german": "Maximale Reichweite von Logistikcentern",
+    "french": "Portée de livraison max des centres de logistique",
   },
   "tech_stackSizeUpgrade": {
     "english": "Factory Storage Size",
     "german": "Lagerkapazität von Fabriken",
+    "french": "Taille de réserve des usines",
   },
   "tech_adamantineUpgrade": {
     "english": "Adamantine Production Boost",
     "german": "Produktionsbonus für Adamant",
+    "french": "Boost de production d'adamantine",
   },
   // "tech_steelUpgrade": {
   //   "english": "Steel Production Boost",
@@ -1687,49 +1704,61 @@
   "tech_industrialRobotUpgrade": {
     "english": "Industrial Robot Production Boost",
     "german": "Produktionsbonus für Industrieroboter",
+    "french": "Boost de production des robots industriels",
   },
   "tech_sciencePack1Upgrade": {
     "english": "Blue Science Pack Production Boost",
     "german": "Produktionsbonus für blaue Wissenschaftspakete",
+    "french": "Boost de production des paquets de science bleus",
   },
   "tech_sciencePack2Upgrade": {
     "english": "Green Science Pack Production Boost",
     "german": "Produktionsbonus für grüne Wissenschaftspakete",
+    "french": "Boost de production des paquets de science verts",
   },
   "tech_sciencePack3Upgrade": {
     "english": "Yellow Science Pack Production Boost",
     "german": "Produktionsbonus für gelbe Wissenschaftspakete",
+    "french": "Boost de production des paquets de science jaunes",
   },
   "tech_sciencePack4Upgrade": {
     "english": "Red Science Pack Production Boost",
     "german": "Produktionsbonus für rote Wissenschaftspakete",
+    "french": "Boost de production des paquets de science rouges",
   },
   "tech_parkRadiusUpgrade": {
     "english": "Park Radius Upgrade",
     "german": "Reichweite von Parks",
+    "french": "Amélioration de la portée des parcs",
   },
   "tech_cultureRadiusUpgrade": {
     "english": "Culture Radius Upgrade",
     "german": "Reichweite von Kulturgebäuden",
+    "french": "Amélioration de la portée de la culture",
   },
   "tech_schoolRadiusUpgrade": {
     "english": "School Radius Upgrade",
     "german": "Reichweite von Schulen",
+    "french": "Amélioration de la portée des écoles",
   },
   "tech_terraformingRadiusUpgrade": {
     "english": "Terraforming Radius Upgrade",
     "german": "Reichweite von Terraforming-Gebäuden",
+    "french": "Amélioration de la portée de terraformation",
   },
   "tech_powerRadiusUpgrade": {
     "english": "Power Distribution Radius Upgrade",
     "german": "Reichweite von Stromverteilern",
+    "french": "Amélioration de la portée de distribution de l'énergie",
   },
   "tech_recyclingCenterRadiusUpgrade": {
     "english": "Recycling Center Radius Upgrade",
     "german": "Reichweite von Recyclingcentern",
+    "french": "Amélioration de la portée des centres de recyclage",
   },
   "tech_soilEnrichmentFacilityRadiusUpgrade": {
     "english": "Soil Enrichment Facility Radius Upgrade",
     "german": "Reichweite von Erdanreicherungsanlagen",
+    "french": "Amélioration de la portée des usines d'enrichissement des sols",
   },
 }
