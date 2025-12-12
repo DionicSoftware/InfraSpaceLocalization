@@ -1267,6 +1267,9 @@
     "korean": "배경음악",
     "spanishesp": "Música",
   },
+  "ui": {
+    "english": "UI",
+  },
   "other": {
     "english": "Other",
     "thai": "อื่นๆ",
